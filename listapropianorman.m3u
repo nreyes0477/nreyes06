@@ -15,5 +15,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/c
 #EXTINF:-1 tvg-chno="5",Telefe Arg FHD
 https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="6",TN Arg
+https://coteflan.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
 
 
