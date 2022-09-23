@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="http://imgfz.com/i/TMQLXf5.pngBBCode",Canal 13 Arg FHD
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://e7.pngegg.com/pngimages/298/243/png-clipart-channel-13-argentina-television-channel-canal-a-special-guest-dj-television-orange-thumbnail.png",Canal 13 Arg FHD
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="2",Canal 13 Arg HD
