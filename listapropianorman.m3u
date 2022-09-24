@@ -33,3 +33,8 @@ http://190.83.119.67:8000/play/a0o9
 #EXTINF:-1 tvg-chno="109" tvg-logo="https://streann.akamaized.net/upload2/1640365542265.png",TD+ 2 HD
 http://190.83.119.67:8000/play/a0oa
 
+#EXTINF:-1 tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/200px-Ucvtvlogo2014mejorado.png",UCV Chile
+https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/chunks.m3u8
+
+
+
