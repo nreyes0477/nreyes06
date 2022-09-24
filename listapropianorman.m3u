@@ -20,3 +20,6 @@ https://coteflan.cdn.rcs.net.ar/mnp/tn_hls/track_0_1500/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="30" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg",Futv HD
 http://190.83.119.67:8000/play/a0t3
+
+#EXTINF:-1 tvg-chno="31" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg",Futv
+http://190.83.119.67:8000/play/a0tu
