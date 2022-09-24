@@ -23,3 +23,7 @@ http://190.83.119.67:8000/play/a0t3
 
 #EXTINF:-1 tvg-chno="31" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg",Futv
 http://190.83.119.67:8000/play/a0tu
+
+#EXTINF:-1 tvg-chno="35" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR
+http://comag.rip:8000/00159101576765/61790209632447/205241?checkedby:iptvcat.com
+
