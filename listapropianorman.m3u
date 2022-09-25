@@ -19,7 +19,7 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 http://190.128.154.14:8000/play/a00d
 
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg",Futv HD
-http://190.83.119.67:8000/play/a0t3
+http://160.20.164.171:8001/play/a00x
 
 #EXTINF:-1 tvg-chno="101" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg",Futv HD Opc 2
 http://190.97.183.204:8000/play/a0q2/index.m3u8
