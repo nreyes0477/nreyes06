@@ -16,7 +16,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/c
 https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/w480/Telefe.png",Telefe Arg FHD
-https://ixp-nqn.cdn.rcs.net.ar/mnp/telefe_hls/track_1_500/playlist.m3u8
+http://190.128.154.14:8000/play/a00d
 
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg",Futv HD
 http://190.83.119.67:8000/play/a0t3
