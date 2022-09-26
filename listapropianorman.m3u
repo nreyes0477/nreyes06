@@ -28,7 +28,7 @@ http://190.97.183.204:8000/play/a0q2/index.m3u8
 http://190.97.183.204:8000/play/a0qm/index.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR
-http://comag.rip:8000/00159101576765/61790209632447/205241?checkedby:iptvcat.com
+http://45.71.200.254:8000/play/a02v/index.m3u8
 
 #EXTINF:-1 tvg-chno="108" tvg-logo="https://streann.akamaized.net/upload2/1640365537761.png",TD+ HD
 http://160.20.164.171:8001/play/a07c
