@@ -1,43 +1,45 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/w480/El_Trece.png",Canal 13 Arg FHD
+#EXTINF:-1 tvg-chno="50" tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/w480/El_Trece.png",Canal 13 Arg FHD
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v4a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="2" tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/w480/El_Trece.png",Canal 13 Arg HD
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/w480/El_Trece.png",Canal 13 Arg HD
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="3" tvg-logo="https://lh3.googleusercontent.com/-Um2gxu41fWg/Yvo4RLzjmUI/AAAAAAAAAus/T6XiJRgKercvVt9VALP15yN_p4OA6zbvQCNcBGAsYHQ/w480/ver-el-tres-rosario-en-vivo.jpg",Canal 3 Rosario
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://lh3.googleusercontent.com/-Um2gxu41fWg/Yvo4RLzjmUI/AAAAAAAAAus/T6XiJRgKercvVt9VALP15yN_p4OA6zbvQCNcBGAsYHQ/w480/ver-el-tres-rosario-en-vivo.jpg",Canal 3 Rosario
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/chunklist_w1814059515_b2211840.m3u8
 
-#EXTINF:-1 tvg-chno="4" tvg-logo="https://lh3.googleusercontent.com/-Um2gxu41fWg/Yvo4RLzjmUI/AAAAAAAAAus/T6XiJRgKercvVt9VALP15yN_p4OA6zbvQCNcBGAsYHQ/w480/ver-el-tres-rosario-en-vivo.jpg",Canal 3 Rosario
+#EXTINF:-1 tvg-chno="53" tvg-logo="https://lh3.googleusercontent.com/-Um2gxu41fWg/Yvo4RLzjmUI/AAAAAAAAAus/T6XiJRgKercvVt9VALP15yN_p4OA6zbvQCNcBGAsYHQ/w480/ver-el-tres-rosario-en-vivo.jpg",Canal 3 Rosario
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/chunklist_w1015947711_b2211840.m3u8
 
-#EXTINF:-1 tvg-chno="5" tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/w480/Telefe.png",Telefe Arg FHD
+#EXTINF:-1 tvg-chno="54" tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/w480/Telefe.png",Telefe Arg FHD
 https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="6" tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/w480/Telefe.png",Telefe Arg FHD
+#EXTINF:-1 tvg-chno="55" tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/w480/Telefe.png",Telefe Arg HD
 http://200.41.79.165:8000/play/a04p
 
-#EXTINF:-1 tvg-chno="100" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg",Futv HD
+#EXTINF:-1 tvg-chno="85" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/200px-Ucvtvlogo2014mejorado.png",UCV Chile
+https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="200" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg",Futv HD
 http://160.20.164.171:8001/play/a00x
 
-#EXTINF:-1 tvg-chno="101" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg",Futv HD Opc 2
+#EXTINF:-1 tvg-chno="201" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg",Futv HD Opc 2
 http://190.97.183.204:8000/play/a0q2/index.m3u8
 
-#EXTINF:-1 tvg-chno="103" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg",Futv HD Opc 3
+#EXTINF:-1 tvg-chno="204" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg",Futv HD Opc 3
 http://190.97.183.204:8000/play/a0qm/index.m3u8
 
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR
+#EXTINF:-1 tvg-chno="205" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR
 http://45.71.200.254:8000/play/a02v/index.m3u8
 
-#EXTINF:-1 tvg-chno="108" tvg-logo="https://streann.akamaized.net/upload2/1640365537761.png",TD+ HD
+#EXTINF:-1 tvg-chno="208" tvg-logo="https://streann.akamaized.net/upload2/1640365537761.png",TD+ HD
 http://160.20.164.171:8001/play/a07c
 
-#EXTINF:-1 tvg-chno="109" tvg-logo="https://streann.akamaized.net/upload2/1640365542265.png",TD+ 2 HD
+#EXTINF:-1 tvg-chno="210" tvg-logo="https://streann.akamaized.net/upload2/1640365542265.png",TD+ 2 HD
 http://160.20.164.171:8001/play/a07d
 
-#EXTINF:-1 tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/200px-Ucvtvlogo2014mejorado.png",UCV Chile
-https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/chunks.m3u8
+
 
 
 
