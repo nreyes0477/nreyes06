@@ -1,5 +1,113 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://canal1cr.com/wp-content/uploads/2022/02/cropped-Canal-1-1.png",Canal 1 CR
+https://59ef525c24caa.streamlock.net:443/canal1cr/canal1cr/chunklist_w183311120.m3u8
+
+#EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png",Canal 2 CDR
+https://d3bgcstab9qhdz.cloudfront.net:443/hls/canal2_360.m3u8
+
+#EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/1200px-Repretel_4_logo.png",Canal 4 Repretel 
+https://d3bgcstab9qhdz.cloudfront.net:443/hls/canal4_720.m3u8
+
+#EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/768px-Repretel_6_logo.png",Canal 6 Repretel 
+https://d3bgcstab9qhdz.cloudfront.net:443/hls/canal6_720.m3u8
+
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/670px-Teletica_Logo.png",Teletica 
+http://51.161.130.197/live/malotv/gratis/125905.m3u8?token=Q0FYAkZRGwoVV1YMAwFWB1YGAgRQAQZXBQEEUVQGA1BZAAgGBg0PAQYTGBsVR0ZVAw48W1EXXwQAAFhTVx0QF0sGQjxcXRsKFQADCVIHAwFAT0FGXFgAFwgFTUESWFZAAkEGVQAMGxwVVExNA0FaUQ48B1dDXAZQEA8PFg5dHkBXDW8HUFRYXlMTDhtWERgSCxATEA9bEFleGUMBC0VAA0wGElkXCA0HBRMYGwVcQV4WERoQDxcmZxAZQwYaRVcMSwpfDRcDG10ERAwbShFdQz0RBkFBRwBUX1ATQVgTA0AUQV0CTWZaX1lfUVoSWlteEUFZEAUXSRdfWg8KFl5APUgKVEEPGwsFBwgAGxs=
+
+#EXTINF:-1 tvg-chno="8" tvg-logo="https://pbs.twimg.com/profile_images/1510311834800246787/sfWgWmqk.jpg",Canal 8 Multimedios 
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
+#EXTINF:-1 tvg-chno="9" tvg-logo="https://static3.teletica.com/Files/Sizes/2017/10/20/img_teletica_radio_780x520-33655625_380x260.jpg",Teletica Radio
+https://stream-01.nyc.dailymotion.com/sec(mGtXk081oRxj3J14xGtAcqIBNW992CPuYicHcaRS_2sUSWyiVUsFK4VPU7GBzFse)/dm/3/x665gvm/d/live-2.m3u8
+
+#EXTINF:-1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png",Repretel Canal 11
+https://d3bgcstab9qhdz.cloudfront.net:443/hls/canal11_720.m3u8
+
+#EXTINF:-1 tvg-chno="13" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/canal-trece-costa-rica.png?resize=500%2C300&ssl=1", Sinart Canal 13
+https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZSrHd815oiWNMnMmInJLSRHYfkvodchuAd0yNbJEUVnO)/dm/3/x7vh8g3/d/live-3.m3u8
+
+#EXTINF:-1 tvg-chno="14" tvg-logo="https://pbs.twimg.com/profile_images/1314328513349144577/7dTHR_gg.jpg",Tv Sur Canal 14
+https://5bf8041cb3fed.streamlock.net:443/TVSURCANAL14/TVSURCANAL14/chunklist_w2106647137.m3u8
+
+#EXTINF:-1 tvg-chno="16" tvg-logo="https://costaricatelevision.com/sites/default/files/2022-09/_Telered%252520Television.png",Telered 
+https://srv.panelcast.net:443/telered/telered/chunklist_w641274049.m3u8
+
+#EXTINF:-1 tvg-chno="17" tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2022-09/telesistema-costa-rica.png",Telesistema
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1753795779.m3u8
+
+#EXTINF:-1 tvg-chno="18" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica-en-vivo-Online.png?resize=1068%2C601&ssl=1",Teleuno
+https://5d16127744872.streamlock.net:443/TVUNO/TVUNO/chunklist_w766285163.m3u8
+
+#EXTINF:-1 tvg-chno="19" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telesur-costa-rica.png",Telesur CR
+https://stmv.streamingvip.click:443/telesur/telesur/chunklist_w935279612.m3u8
+
+#EXTINF:-1 tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1600px-Flag_of_Costa_Rica.svg.png",Urbano Tv
+https://59ef525c24caa.streamlock.net:443/tvurbano/tvurbano/chunklist_w248233257.m3u8
+
+#EXTINF:-1 tvg-chno="21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1600px-Flag_of_Costa_Rica.svg.png",Nicoya TV
+https://59ef525c24caa.streamlock.net:443/nicoyatv/nicoyatv/chunklist_w221500905.m3u8
+
+#EXTINF:-1 tvg-chno="22" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Ticavisi%C3%B3n-en-vivo-Online.png",Tica Visión
+https://62fc643fbf1aa.streamlock.net:443/HBTV/HBTV/chunklist_w1022063060.m3u8
+
+#EXTINF:-1 tvg-chno="23" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Colosal-TV.png",Colosal TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w534755227.m3u8
+
+#EXTINF:-1 tvg-chno="24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1600px-Flag_of_Costa_Rica.svg.png",Canal Tv Plus
+https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1600px-Flag_of_Costa_Rica.svg.png",Cartago Medios
+https://tvdatta.com:3384/live/cartagomedioslive.m3u8
+
+#EXTINF:-1 tvg-chno="26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1600px-Flag_of_Costa_Rica.svg.png",San Vito Tv
+https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="27" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1600px-Flag_of_Costa_Rica.svg.png",Trivision Canal 36
+https://liveingesta118.cdnmedia.tv:443/trivision36live/dvrlive-1500/chunklist.m3u8
+
+#EXTINF:-1 tvg-chno="28" tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019/10/cropped-Logo-Nuevo-400.jpg",Canal 38
+https://rtmp.info:443/canal38/envivo/chunklist_w1890885019.m3u8
+
+#EXTINF:-1 tvg-chno="29" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1600px-Flag_of_Costa_Rica.svg.png",Canal Norte Informativo
+https://videohd.live:19360/8076/8076.m3u8
+
+#EXTINF:-1 tvg-chno="30" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Extra-TV.png",Extra Tv 42
+https://stream-04.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm406ThWYFkF6LvD6dOJr3fVTakgOb-r17Zf-6NjicVR_F)/dm/3/x83sd3v/s/live-2.m3u8
+
+#EXTINF:-1 tvg-chno="31" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1600px-Flag_of_Costa_Rica.svg.png",Súper 5
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqEFealsrJkcESENpFnOXOYnRo0q6ItYCxl8HUjw7jLiHU-4Skpg3kwKEcwuVCZyW96oFGd-WuujyvitBiGbBV0S4C77ZgEZzdyZk4TfiYf3UiAxsAQWerJKwRVnxKXdE9DdRgmlPUQpu-S3SNHHh_8sDlhvxTUW8Qwx3Ih-8vVDjs4u0zeAmpforGy3YZSqhwXZOsC6o7dLKdzBQW1vU97rD-n3nbXMNaDoheoaN7fgvE-jWOJPIHCFCnF8QOxidyeCbJkoT-SulEP8Bes4ZbPJbH45bM9Pz7hiy9ynpYTY21gf949wWIDUWweiFCDgjVM8qS90VWF9Gscu6tg8_trjKVDDTfQ84n9C4L4EEFKMZAdENMrMYAm0SJOw-Blki5GLK9I8dTUVuwiAJYeQEV3j9sX5esx6jAv5qMOAEcfNwXsOitd7F_5iCeHTLsH_4zNbp_sFXXZiJdbRqnmTtGO7R-92Vspjh0jwrZbQaPzmKE9nsPh7NKUHz9-FyWm9e2kYUphujlQgoemwK9Ac0DAWS16Q6dvLHOGHhsWmgV6XzYsPS607mcxFB8Rxudz7Wj1Jdi9Nqigfh8Vz7o83d4A4Tdw0lwI-jHuwvgJwAUuNIJdI_qe9Jhs6j59fy0Fxe4xMnOiL6o8XLIc2ax2gtkZejlL0ZQ4k0U58Vqm587Wug3zH54kjjcif4FPDgfvIyvULwVWV7idvcThH7vJjupvvdLvHzdJCcBdXeFbep3N6B_U94jn8aSTWO77hAdT5l-dT9exF39yeCx_yXXLEtqvEg62T7fAbuOi81kkR48EPa2vuh13b-IfG796OJ_70UyGyMjtiCRA_Deeg8lRz0sjt7unU2Cs8j6GJJfk9-LiFikTOVD204FJKOOLV2SwI6LrdcxoMnZE6He35n8Rk-JJJIAEqCXVzLWVhc3QtMTCYAw.m3u8
+
+#EXTINF:-1 tvg-chno="32" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1600px-Flag_of_Costa_Rica.svg.png",MZ Sports HD
+https://cloudvideo.servers10.com:8081/8248/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno="33" tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2022-09/RBM%252520TV%252520%2525231-Costa-Rica.png",RBM TV 1
+https://stmv.streamingvip.click:443/television/television/chunklist_w358875487.m3u8
+
+#EXTINF:-1 tvg-chno="34" tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2022-09/RBM%252520TV%252520%2525232-Costa-Rica.png",RBM TV 2
+https://stmv.streamingvip.click:443/rbmtv2/rbmtv2/chunklist_w649736912.m3u8
+
+#EXTINF:-1 tvg-chno="35" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png",VM Latino
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="36" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1600px-Flag_of_Costa_Rica.svg.png",Vintage Music
+https://59ef525c24caa.streamlock.net:443/vmtv/tvvintage/chunklist_w1339648818.m3u8
+
+#EXTINF:-1 tvg-chno="37" tvg-logo="https://i2.paste.pics/ade26f32ba4868798ef1593a34e57ef7.png",Soy Plancha TV
+https://59ef525c24caa.streamlock.net:443/vmtv/soyplancha/chunklist_w1610921083.m3u8
+
+#EXTINF:-1 tvg-chno="38" tvg-logo="https://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png",88 Stereo
+http://k3.usastreams.com:80/CableLatino/88stereo/chunklist_w190584519.m3u8
+
+#EXTINF:-1 tvg-chno="39" tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2022-09/Oldies%252520Hits%252520Television%252520de%252520Costa%252520Rica.png",Oldies Hits TV
+https://video01.logicahost.com.br:443/oldieshits/oldieshits/chunklist_w854322906.m3u8
+
+#EXTINF:-1 tvg-chno="40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1600px-Flag_of_Costa_Rica.svg.png",IQ Channel CR
+https://rtmp.info:443/iqtv/envivo/chunklist_w394233529.m3u8
+
+#EXTINF:-1 tvg-chno="41" tvg-logo="https://serenotv.com/wp-content/uploads/2022/05/Canal-multizonas-en-vivo-300x238.jpeg",Canal Multizonas CR
+https://cloudvideo.servers10.com:8081/8214/index.m3u8
+
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/w480/El_Trece.png",Canal 13 Arg FHD
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v4a1/mono.m3u8
 
