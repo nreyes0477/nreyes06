@@ -25,7 +25,7 @@ https://stream-01.nyc.dailymotion.com/sec(mGtXk081oRxj3J14xGtAcqIBNW992CPuYicHca
 https://d3bgcstab9qhdz.cloudfront.net:443/hls/canal11_720.m3u8
 
 #EXTINF:-1 tvg-chno="13" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/canal-trece-costa-rica.png?resize=500%2C300&ssl=1", Sinart Canal 13
-https://stream-06.dc3.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZcEM4tJduDDQn_GxBRW5Cab6vsG9OYn4Gs6w6XqPpDJf)/dm/3/x7vh8g3/d/live-0.m3u
+http://160.20.164.171:8001/play/a06y
 
 #EXTINF:-1 tvg-chno="14" tvg-logo="https://pbs.twimg.com/profile_images/1314328513349144577/7dTHR_gg.jpg",Tv Sur Canal 14
 https://5bf8041cb3fed.streamlock.net:443/TVSURCANAL14/TVSURCANAL14/chunklist_w2106647137.m3u8
