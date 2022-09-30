@@ -207,3 +207,7 @@ http://vip.hispanotv.org:80/live/acevedo22/acevedo22/151543.m3u8
 #EXTINF:-1 tvg-chno="210" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3%A1s_2_Logo.svg.png",TD + 2 HD Opc 2 
 http://160.20.164.171:8001/play/a07d
 
+#EXTINF:-1 tvg-chno="211" tvg-logo="",Prueba Canal 
+http://s6.miip.tv:8080/live/0TsHbwD79c/1eeExq5NFw/2.ts?play_token=wCOdGKJha7&token=HRJfUhIMEAIUWlxVUVIMUFMLVFUFV18EVlFXBVVVBwQACARRAgYGAQ8bFUBGEUZUBF5qX1JAAwJPQBFEAERsXQISDRFQXAAPBhsVQEEMWVRHCQQAAFYMAlRUUQFJFENdAhINEVJUBA8FGxVAUB1AVBddVFppBlxGCgEBFV9YRlgKHBVcDztWXVtYVwYXXxYBRx8XX0USGwoNFwhbSRRRXRJCVkcERggaAgkLVxdJFlIKRltCRBsbCkEhNhVJFFZMElVZQAgLXBoMG00RF0kWWBZsR1NFFktVAg8BRUcMEQREHBVeABxtW1lXVwdWEV1eC0AXDBRTGxxBDwtZDEJcRjlAXldDXhALBg8PUBcY
+
+
