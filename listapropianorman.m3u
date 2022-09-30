@@ -39,7 +39,7 @@ https://srv.panelcast.net:443/telered/telered/chunklist_w641274049.m3u8
 #EXTINF:-1 tvg-chno="17" tvg-logo="https://mastelevisioncr.com/wp-content/uploads/2022/05/cropped-cropped-WhatsApp-Image-2020-08-02-at-12.42.47-300x300-1-150x150.jpeg",Telesistema
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1753795779.m3u8
 
-#EXTINF:-1 tvg-chno="18" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica -en-vivo-Online.png?resize=1068%2C601&ssl=1",Teleuno
+#EXTINF:-1 tvg-chno="18" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica -en-vivo-Online.png",Teleuno
 https://5d16127744872.streamlock.net:443/TVUNO/TVUNO/chunklist_w766285163.m3u8
 
 #EXTINF:-1 tvg-chno="19" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telesur-costa-rica.png"Telesur CR
@@ -207,7 +207,6 @@ http://vip.hispanotv.org:80/live/acevedo22/acevedo22/151543.m3u8
 #EXTINF:-1 tvg-chno="210" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3%A1s_2_Logo.svg.png",TD + 2 HD Opc 2 
 http://160.20.164.171:8001/play/a07d
 
-#EXTINF:-1 tvg-chno="211" tvg-logo="",Prueba Canal 
-http://s6.miip.tv:8080/live/0TsHbwD79c/1eeExq5NFw/2.ts?play_token=wCOdGKJha7&token=HRJfUhIMEAIUWlxVUVIMUFMLVFUFV18EVlFXBVVVBwQACARRAgYGAQ8bFUBGEUZUBF5qX1JAAwJPQBFEAERsXQISDRFQXAAPBhsVQEEMWVRHCQQAAFYMAlRUUQFJFENdAhINEVJUBA8FGxVAUB1AVBddVFppBlxGCgEBFV9YRlgKHBVcDztWXVtYVwYXXxYBRx8XX0USGwoNFwhbSRRRXRJCVkcERggaAgkLVxdJFlIKRltCRBsbCkEhNhVJFFZMElVZQAgLXBoMG00RF0kWWBZsR1NFFktVAg8BRUcMEQREHBVeABxtW1lXVwdWEV1eC0AXDBRTGxxBDwtZDEJcRjlAXldDXhALBg8PUBcY
+
 
 
