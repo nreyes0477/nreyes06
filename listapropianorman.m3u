@@ -91,7 +91,7 @@ https://rtmp.info/tvsantacruz/envivo/playlist.m3u8
 https://srv.panelcast.net/humor247/humor247/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="35" tvg-logo="https://www.tvn14.com/wp-content/uploads/2021/02/TVN-HD_LOGO_COLOR-SIN-FONDO.png",TVN 14 San Carlos
-https://stream.tvn14.com/TVN/CH14.stream_720p/chunklist_w928466537.m3u8
+https://stream.tvn14.com:443/TVN/CH14.stream_720p/chunklist_w1690210508.m3u8
 
 #EXTINF:-1 tvg-chno="36" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1600px-Flag_of_Costa_Rica.svg.png",Tica TV +
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
