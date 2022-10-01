@@ -42,9 +42,6 @@ https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1753795779.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-logo="https://geomedios.fcs.ucr.ac.cr/wp-content/uploads/2019/12/49174364_1931189920267968_6676580851234373632_o.jpg",Teleuno
 https://5d16127744872.streamlock.net:443/TVUNO/TVUNO/chunklist_w766285163.m3u8
 
-#EXTINF:-1 tvg-chno="19" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telesur-costa-rica.png" Telesur CR
-https://stmv.streamingvip.click:443/telesur/telesur/chunklist_w935279612.m3u8
-
 #EXTINF:-1 tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1600px-Flag_of_Costa_Rica.svg.png",Nicoya TV
 https://59ef525c24caa.streamlock.net:443/nicoyatv/nicoyatv/chunklist_w221500905.m3u8
 
@@ -63,7 +60,10 @@ https://liveingesta118.cdnmedia.tv:443/trivision36live/dvrlive-1500/chunklist.m3
 #EXTINF:-1 tvg-chno="25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1600px-Flag_of_Costa_Rica.svg.png",Canal Norte Informativo
 https://videohd.live:19360/8076/8076.m3u8
 
-#EXTINF:-1 tvg-chno="26" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Extra-TV.png",Extra Tv 42
+#EXTINF:-1 tvg-chno="26" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telesur-costa-rica.png"Telesur CR
+https://stmv.streamingvip.click:443/telesur/telesur/chunklist_w935279612.m3u8
+
+#EXTINF:-1 tvg-chno="27" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Extra-TV.png",Extra Tv 42
 http://177.234.254.38:8000/play/a02j/index.m3u8
 
 #EXTINF:-1 tvg-chno="28" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1600px-Flag_of_Costa_Rica.svg.png",MZ Sports HD
