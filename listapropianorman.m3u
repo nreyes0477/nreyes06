@@ -102,6 +102,21 @@ http://vip.hispanotv.org:80/live/acevedo22/acevedo22/283547.m3u8
 #EXTINF:-1 tvg-chno="39" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1600px-Flag_of_Costa_Rica.svg.png",Dreiko Tv CR
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="40" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/san-jose-tv-costa-rica.png",San José TV
+https://rtmp.info:443/sanjosetv/envivo/chunklist_w1786370191.m3u8
+
+#EXTINF:-1 tvg-chno="41" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1600px-Flag_of_Costa_Rica.svg.png",Guatuso TV
+https://5cf4a2c2512a2.streamlock.net:443/8162/8162/chunklist_w1967293068.m3u8
+
+#EXTINF:-1 tvg-chno="42" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1600px-Flag_of_Costa_Rica.svg.png",Mora TV
+https://stmv1.zcastbr.com:443/moratv1/moratv1/chunklist_w1410193899.m3u8
+
+#EXTINF:-1 tvg-chno="43" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1600px-Flag_of_Costa_Rica.svg.png",TV Curre PZ
+http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8?fbclid=IwAR3riiUSzxi-bKYUwIW_yy3mpK3ZuejRq5beBdOLmHmm9YJ-C1LoDZIF8IM
+
+#EXTINF:-1 tvg-chno="44" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1600px-Flag_of_Costa_Rica.svg.png",Los Santos TV
+https://lstv.duckdns.org:449/hls/lstv.m3u8
+
 #EXTINF:-1 tvg-chno="48" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1600px-Flag_of_Costa_Rica.svg.png",RBM TV 1
 https://stmv.streamingvip.click:443/television/television/chunklist_w358875487.m3u8
 
@@ -149,6 +164,18 @@ http://vip.hispanotv.org:80/live/acevedo22/acevedo22/283548.m3u8
 
 #EXTINF:-1 tvg-chno="63" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1600px-Flag_of_Costa_Rica.svg.png",Voice Over Radio TV
 http://vip.hispanotv.org:80/live/acevedo22/acevedo22/283551.m3u8
+
+#EXTINF:-1 tvg-chno="64" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1600px-Flag_of_Costa_Rica.svg.png",Top Latino TV
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/chunklist_w1499609849.m3u8
+
+#EXTINF:-1 tvg-chno="65" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1600px-Flag_of_Costa_Rica.svg.png",Canal Pura Vida
+https://cp.panelchs.com:1936/84598/84598/chunklist_w1217069703.m3u8
+
+#EXTINF:-1 tvg-chno="66" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1600px-Flag_of_Costa_Rica.svg.png",Canal Pura Vida 2
+https://cp.panelchs.com:1936/84598/84598/chunklist_w1103474696.m3u8
+
+#EXTINF:-1 tvg-chno="67" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1600px-Flag_of_Costa_Rica.svg.png",Retro Canal Pura Vida
+https://stream.mediawork.cz:443/retrotv/retrotvHQ1/chunklist_w1324034401.m3u8
 
 #EXTINF:-1 tvg-chno="70" tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/w480/El_Trece.png",Canal 13 Arg FHD
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v4a1/mono.m3u8
