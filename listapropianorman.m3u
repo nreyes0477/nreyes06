@@ -129,7 +129,7 @@ https://59ef525c24caa.streamlock.net:443/canal1cr/canal1cr/chunklist_w183311120.
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png",88 Stereo
 http://k3.usastreams.com:80/CableLatino/88stereo/chunklist_w190584519.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2022-09/Oldies%252520Hits%252520Television%252520de%252520Costa%252520Rica.png",Oldies Hits TV
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1600px-Flag_of_Costa_Rica.svg.png",Oldies Hits TV
 https://video01.logicahost.com.br:443/oldieshits/oldieshits/chunklist_w854322906.m3u8
 
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1600px-Flag_of_Costa_Rica.svg.png",IQ Channel CR
