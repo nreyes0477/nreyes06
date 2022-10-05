@@ -199,7 +199,7 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 http://200.41.79.165:8000/play/a04p
 
 #EXTINF:-1 tvg-chno="77" tvg-logo="https://lh3.googleusercontent.com/-mCGw9w72UsQ/YUDlY4_9CtI/AAAAAAAAAO4/OXF1sRluaS0m74yTTadIZOukowPpHOB8wCLcBGAsYHQ/h120/Canal_9.png",Canal 9 Arg
-https://is-tucuman.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
+http://tvstarlife.com:25461/live/geovany/geovany/318.m3u8
 
 #EXTINF:-1 tvg-chno="85" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Azteca_Uno_logo.webp/245px-Azteca_Uno_logo.webp.png",Azteca 1
 http://162.244.80.190:80//2022/2022/5495
@@ -223,7 +223,7 @@ http://160.20.164.171:8001/play/a00x
 http://vip.hispanotv.org:80/live/acevedo22/acevedo22/322273.m3u8
 
 #EXTINF:-1 tvg-chno="204" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR Opc 2
-http://142.44.246.107:25461/live/malotv/gratis/141924.m3u8?token=Q0FYAkZRGwoVUwELAwMDUVdTUgsNA11TBlEAB1cCAlcNAAIGAQ8MCAYTGBsVR0ZVAw48W1EXXwQGBFhRVh0QF0sGQjxcXRsKFQADCVIHAwFAT0FGXFgAFwgFTUESWFZAAkEBVAEOARIbE1FBElZGXgMPPFZQQwxWVxdbDRddXk4aDF48UVxUUVlVFgNEAxYcQAoQQhcPC0BeWU1BAFhGEFkXVUEPGwoCAgcWFURQW0UMFxFLFw9HdmAXTUEHSUYHVhBZDFsbAxJaAkEBRB8WWRE8EVdGQRdQU1gEEUALEFMaTxIOVEFmU1hfWlwFR11fDBBBCBcFRxkQWA4NC0VdEGcTWQcXAxsJAQYMGxs=
+http://tvstarlife.com:25461/live/geovany/geovany/97360.m3u8
 
 #EXTINF:-1 tvg-chno="205" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR Opc 3
 http://190.61.99.191:8000/play/a062/index.m3u8
