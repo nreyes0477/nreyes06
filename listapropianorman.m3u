@@ -181,19 +181,16 @@ https://stream.mediawork.cz:443/retrotv/retrotvHQ1/chunklist_w1324034401.m3u8
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="71" tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/w480/El_Trece.png",Canal 13 Arg HD
-https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
+http://tvstarlife.com:25461/live/geovany/geovany/287.m3u8
 
 #EXTINF:-1 tvg-chno="72" tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/w480/El_Trece.png",Canal 13 Arg (INT) HD
 http://vip.hispanotv.org:80/live/acevedo22/acevedo22/151381.m3u8
-
-#EXTINF:-1 tvg-chno="73" tvg-logo="https://lh3.googleusercontent.com/-Um2gxu41fWg/Yvo4RLzjmUI/AAAAAAAAAus/T6XiJRgKercvVt9VALP15yN_p4OA6zbvQCNcBGAsYHQ/w480/ver-el-tres-rosario-en-vivo.jpg",Canal 3 Rosario
-https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/chunklist_w1814059515_b2211840.m3u8
 
 #EXTINF:-1 tvg-chno="74" tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/w480/Telefe.png",Telefe Arg FHD
 http://vip.hispanotv.org:80/live/acevedo22/acevedo22/151384.m3u8
 
 #EXTINF:-1 tvg-chno="75" tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/w480/Telefe.png",Telefe Arg HD
-https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
+http://tvstarlife.com:25461/live/geovany/geovany/315.m3u8
 
 #EXTINF:-1 tvg-chno="76" tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/w480/Telefe.png",Telefe Arg (INT) HD
 http://200.41.79.165:8000/play/a04p
