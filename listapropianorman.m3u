@@ -222,6 +222,21 @@ http://tvstarlife.com:25461/live/geovany/geovany/27241.m3u8
 #EXTINF:-1 tvg-chno="91" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank%29.svg.png",Azteca 7
 http://tvstarlife.com:25461/live/geovany/geovany/5135.m3u8
 
+#EXTINF:-1 tvg-chno="92" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas
+http://tvstarlife.com:25461/live/geovany/geovany/24565.m3u8
+
+#EXTINF:-1 tvg-chno="93" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/724px-Canal_5_2016.svg.png",Canal 5
+http://tvstarlife.com:25461/live/geovany/geovany/5133.m3u8
+
+#EXTINF:-1 tvg-chno="94" tvg-logo="https://1.bp.blogspot.com/-YQOpcunPYXg/X8-_EUBQZoI/AAAAAAAA7kM/8Xy91zj0gAoojsPV-cEjsKLEYHHqxBmhgCLcBGAsYHQ/s280/TVAmundo.png",Azteca Mundo
+http://tvstarlife.com:25461/live/geovany/geovany/27297.m3u8
+
+#EXTINF:-1 tvg-chno="95" tvg-logo="https://tvctepa.com/img/svg%20canales/nueve.svg",Nu9ve
+http://tvstarlife.com:25461/live/geovany/geovany/5137.m3u8
+
+#EXTINF:-1 tvg-chno="96" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo-Imagen-TV-MX.png/800px-Logo-Imagen-TV-MX.png",Imagen TV
+http://tvstarlife.com:25461/live/geovany/geovany/5131.m3u8
+
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/200px-Ucvtvlogo2014mejorado.png",UCV Chile
 https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/chunks.m3u8
 
