@@ -237,8 +237,26 @@ http://tvstarlife.com:25461/live/geovany/geovany/5137.m3u8
 #EXTINF:-1 tvg-chno="96" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo-Imagen-TV-MX.png/800px-Logo-Imagen-TV-MX.png",Imagen TV
 http://tvstarlife.com:25461/live/geovany/geovany/5131.m3u8
 
-#EXTINF:-1 tvg-chno="100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/200px-Ucvtvlogo2014mejorado.png",UCV Chile
+#EXTINF:-1 tvg-chno="110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/200px-Ucvtvlogo2014mejorado.png",UCV Chile
 https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="111" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CNN Español 
+http://45.224.23.194:8000/play/a00y/index.m3u8
+
+#EXTINF:-1 tvg-chno="115" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",AE Mundo 
+http://45.224.23.194:8000/play/a01t/index.m3u8
+
+#EXTINF:-1 tvg-chno="116" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg", Discovery ID
+http://45.224.23.194:8000/play/a02c/index.m3u8
+
+#EXTINF:-1 tvg-chno="125" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Cinecanal
+http://45.224.23.194:8000/play/a00c/index.m3u8
+
+#EXTINF:-1 tvg-chno="126" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Cinemax
+http://45.224.23.194:8000/play/a03f/index.m3u8
+
+#EXTINF:-1 tvg-chno="135" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",E Entertainment
+http://45.224.23.194:8000/play/a01m/index.m3u8
 
 #EXTINF:-1 tvg-chno="200" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg",Futv HD
 http://vip.hispanotv.org:80/live/acevedo22/acevedo22/151545.m3u8
@@ -282,6 +300,7 @@ http://45.224.23.194:8000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-chno="218" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1024px-ESPN_4_logo.svg.png",ESPN 4 ARG
 http://45.224.23.194:8000/play/a02m/index.m3u8
 
-
+#EXTINF:-1 tvg-chno="225" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Claro Sports
+http://45.224.23.194:8000/play/a00m/index.m3u8
 
 
