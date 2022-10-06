@@ -12,7 +12,7 @@ https://d3bgcstab9qhdz.cloudfront.net:443/hls/canal6_720.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/670px-Teletica_Logo.png",Teletica
 http://51.161.130.197/live/malotv/gratis/125905.m3u8?token=Q0FYAkZRGwoVV1YMAwFWB1YGAgRQAQZXBQEEUVQGA1BZAAgGBg0PAQYTGBsVR0ZVAw48W1EXXwQAAFhTVx0QF0sGQjxcXRsKFQADCVIHAwFAT0FGXFgAFwgFTUESWFZAAkEGVQAMGxwVVExNA0FaUQ48B1dDXAZQEA8PFg5dHkBXDW8HUFRYXlMTDhtWERgSCxATEA9bEFleGUMBC0VAA0wGElkXCA0HBRMYGwVcQV4WERoQDxcmZxAZQwYaRVcMSwpfDRcDG10ERAwbShFdQz0RBkFBRwBUX1ATQVgTA0AUQV0CTWZaX1lfUVoSWlteEUFZEAUXSRdfWg8KFl5APUgKVEEPGwsFBwgAGxs=
 
-#EXTINF:-1 tvg-chno="8" tvg-logo="https://pbs.twimg.com/profile_images/1510311834800246787/sfWgWmqk.jpg", Canal 8 Multimedios
+#EXTINF:-1 tvg-chno="8" tvg-logo="https://pbs.twimg.com/profile_images/1510311834800246787/sfWgWmqk.jpg",Canal 8 Multimedios
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
 #EXTINF:-1 tvg-chno="9" tvg-logo="https://www.canal9.cr/IMAGES/Logo%20Canal%209%202D%20Color.png",Canal 9 CR
@@ -213,7 +213,7 @@ http://tvstarlife.com:25461/live/geovany/geovany/325.m3u8
 #EXTINF:-1 tvg-chno="83" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/C5N_%282017%29.png/606px-C5N_%282017%29.png",C5N
 http://tvstarlife.com:25461/live/geovany/geovany/283.m3u8
 
-#EXTINF:-1 tvg-chno="84" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",A24 Arg
+#EXTINF:-1 tvg-chno="84" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",A24
 http://tvstarlife.com:25461/live/geovany/geovany/313.m3u8
 
 #EXTINF:-1 tvg-chno="90" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Azteca_Uno_logo.webp/245px-Azteca_Uno_logo.webp.png",Azteca 1
