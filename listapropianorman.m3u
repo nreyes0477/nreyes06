@@ -21,10 +21,10 @@ http://201.201.149.86:8080/livestream/stream.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-logo="https://static3.teletica.com/Files/Sizes/2017/10/20/img_teletica_radio_780x520-33655625_380x260.jpg",Teletica Radio
 https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png",Repretel Canal 11
+#EXTINF:-1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png",Canal 11 Repretel 
 https://d3bgcstab9qhdz.cloudfront.net:443/hls/canal11_720.m3u8
 
-#EXTINF:-1 tvg-chno="13" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/canal-trece-costa-rica.png?resize=500%2C300&ssl=1", Sinart Canal 13
+#EXTINF:-1 tvg-chno="13" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/canal-trece-costa-rica.png?resize=500%2C300&ssl=1",Canal 13 Sinart 
 http://45.228.232.204:16000/play/a03q/index.m3u8
 
 #EXTINF:-1 tvg-chno="14" tvg-logo="https://pbs.twimg.com/profile_images/1314328513349144577/7dTHR_gg.jpg",Tv Sur Canal 14
@@ -48,13 +48,13 @@ https://59ef525c24caa.streamlock.net:443/nicoyatv/nicoyatv/chunklist_w221500905.
 #EXTINF:-1 tvg-chno="21" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Ticavisi%C3%B3n-en-vivo-Online.png",Tica Visión
 https://62fc643fbf1aa.streamlock.net:443/HBTV/HBTV/chunklist_w1022063060.m3u8
 
-#EXTINF:-1 tvg-chno="22" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal Tv Plus
+#EXTINF:-1 tvg-chno="22" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal Tv +
 https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="23" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",San Vito TV
 https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="24" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Trivision Canal 36
+#EXTINF:-1 tvg-chno="24" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Trivisión Canal 36
 https://liveingesta118.cdnmedia.tv:443/trivision36live/dvrlive-1500/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="25" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal Norte Informativo
@@ -174,28 +174,28 @@ https://cp.panelchs.com:1936/84598/84598/chunklist_w1217069703.m3u8
 #EXTINF:-1 tvg-chno="67" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Retro Canal Pura Vida
 https://stream.mediawork.cz:443/retrotv/retrotvHQ1/chunklist_w1324034401.m3u8
 
-#EXTINF:-1 tvg-chno="70" tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/w480/El_Trece.png",Canal 13 Arg FHD
+#EXTINF:-1 tvg-chno="70" tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/w480/El_Trece.png",Canal 13 FHD
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v4a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="71" tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/w480/El_Trece.png",Canal 13 Arg HD
+#EXTINF:-1 tvg-chno="71" tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/w480/El_Trece.png",Canal 13 HD
 http://tvstarlife.com:25461/live/geovany/geovany/287.m3u8
 
-#EXTINF:-1 tvg-chno="72" tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/w480/El_Trece.png",Canal 13 Arg (INT) HD
+#EXTINF:-1 tvg-chno="72" tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/w480/El_Trece.png",Canal 13 (INT)
 http://vip.hispanotv.org:80/live/acevedo22/acevedo22/151381.m3u8
 
-#EXTINF:-1 tvg-chno="74" tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/w480/Telefe.png",Telefe Arg FHD
+#EXTINF:-1 tvg-chno="74" tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/w480/Telefe.png",Telefe FHD
 http://vip.hispanotv.org:80/live/acevedo22/acevedo22/151384.m3u8
 
-#EXTINF:-1 tvg-chno="75" tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/w480/Telefe.png",Telefe Arg HD
+#EXTINF:-1 tvg-chno="75" tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/w480/Telefe.png",Telefe HD
 http://tvstarlife.com:25461/live/geovany/geovany/315.m3u8
 
-#EXTINF:-1 tvg-chno="76" tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/w480/Telefe.png",Telefe Arg (INT) HD
+#EXTINF:-1 tvg-chno="76" tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/w480/Telefe.png",Telefe (INT)
 http://200.41.79.165:8000/play/a04p
 
-#EXTINF:-1 tvg-chno="77" tvg-logo="https://lh3.googleusercontent.com/-mCGw9w72UsQ/YUDlY4_9CtI/AAAAAAAAAO4/OXF1sRluaS0m74yTTadIZOukowPpHOB8wCLcBGAsYHQ/h120/Canal_9.png",Canal 9 Arg
+#EXTINF:-1 tvg-chno="77" tvg-logo="https://lh3.googleusercontent.com/-mCGw9w72UsQ/YUDlY4_9CtI/AAAAAAAAAO4/OXF1sRluaS0m74yTTadIZOukowPpHOB8wCLcBGAsYHQ/h120/Canal_9.png",Canal 9
 http://tvstarlife.com:25461/live/geovany/geovany/318.m3u8
 
-#EXTINF:-1 tvg-chno="78" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",TV Publica Arg
+#EXTINF:-1 tvg-chno="78" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",TV Pública 
 http://tvstarlife.com:25461/live/geovany/geovany/338.m3u8
 
 #EXTINF:-1 tvg-chno="79" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG",América TV
@@ -204,13 +204,13 @@ http://tvstarlife.com:25461/live/geovany/geovany/319.m3u8
 #EXTINF:-1 tvg-chno="80" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png",TN Noticias
 http://tvstarlife.com:25461/live/geovany/geovany/333.m3u8
 
-#EXTINF:-1 tvg-chno="81" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/588px-Canal_26_logo_%282022%29.svg.png",Canal 26 Arg
+#EXTINF:-1 tvg-chno="81" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/588px-Canal_26_logo_%282022%29.svg.png",Canal 26
 http://tvstarlife.com:25461/live/geovany/geovany/288.m3u8
 
-#EXTINF:-1 tvg-chno="82" tvg-logo="https://assets.iproup.com/assets/jpg/2021/04/17689.jpg", Crónica HD
+#EXTINF:-1 tvg-chno="82" tvg-logo="https://assets.iproup.com/assets/jpg/2021/04/17689.jpg",Crónica HD
 http://tvstarlife.com:25461/live/geovany/geovany/325.m3u8
 
-#EXTINF:-1 tvg-chno="83" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/C5N_%282017%29.png/606px-C5N_%282017%29.png",C5N Arg
+#EXTINF:-1 tvg-chno="83" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/C5N_%282017%29.png/606px-C5N_%282017%29.png",C5N
 http://tvstarlife.com:25461/live/geovany/geovany/283.m3u8
 
 #EXTINF:-1 tvg-chno="84" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",A24 Arg
