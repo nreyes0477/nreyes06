@@ -246,7 +246,7 @@ http://45.224.23.194:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-chno="115" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",AE Mundo 
 http://45.224.23.194:8000/play/a01t/index.m3u8
 
-#EXTINF:-1 tvg-chno="116" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg", Discovery ID
+#EXTINF:-1 tvg-chno="116" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Discovery ID
 http://45.224.23.194:8000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-chno="125" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Cinecanal
