@@ -255,7 +255,7 @@ http://45.224.23.194:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-chno="126" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Cinemax
 http://45.224.23.194:8000/play/a03f/index.m3u8
 
-#EXTINF:-1 tvg-chno="135" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",E Entertainment
+#EXTINF:-1 tvg-chno="135" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",E! Entertainment
 http://45.224.23.194:8000/play/a01m/index.m3u8
 
 #EXTINF:-1 tvg-chno="200" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg",Futv HD
