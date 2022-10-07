@@ -78,10 +78,10 @@ https://tvdatta.com:3384/live/cartagomedioslive.m3u8
 #EXTINF:-1 tvg-chno="31" tvg-logo="https://www.radioextremacr.com/img/logo.png",Extrema TV
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="32" tvg-logo="https://drive.google.com/file/d/1DJp6hAdGZfNdAEaFHSy9-TZSAOzGgbV1/view?usp=drivesdk",Sarapiquí TV
+#EXTINF:-1 tvg-chno="32" tvg-logo="http://costaricatelevision.com/sites/default/files/styles/tv_list/public/2022-09/stv-sarapiquitv-costa-rica.png.webp?itok=srO54ZBa",Sarapiquí TV
 https://lstv.duckdns.org:449/hls/stv.m3u8
 
-#EXTINF:-1 tvg-chno="33" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Santa Cruz Tv CR
+#EXTINF:-1 tvg-chno="33" tvg-logo="https://www.tvsantacruzcr.net/img/logotvsc_2.png",Santa Cruz Tv CR
 https://rtmp.info/tvsantacruz/envivo/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="34" tvg-logo="https://i2.paste.pics/580c3e6758f8535bbacfb32fa3155259.png",Humor TV 24/7 CR
@@ -90,16 +90,16 @@ https://srv.panelcast.net/humor247/humor247/playlist.m3u8
 #EXTINF:-1 tvg-chno="35" tvg-logo="https://www.tvn14.com/wp-content/uploads/2021/02/TVN-HD_LOGO_COLOR-SIN-FONDO.png",TVN 14 San Carlos
 https://stream.tvn14.com/TVN/CH14.stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="36" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Tica TV +
+#EXTINF:-1 tvg-chno="36" tvg-logo="https://pbs.twimg.com/profile_images/1563188156630982656/hG2sn8s-.jpg",Tica TV +
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
 
-#EXTINF:-1 tvg-chno="37" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Telebrunca CR
+#EXTINF:-1 tvg-chno="37" tvg-logo="https://telebrunca.com/wp-content/uploads/2022/07/cropped-Logo-telebrunca2-01-1-1024x749.png",Telebrunca CR
 http://k4.usastreams.com/telebrunca/telebrunca/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="38" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Cartago TV
 http://vip.hispanotv.org:80/live/acevedo22/acevedo22/283547.m3u8
 
-#EXTINF:-1 tvg-chno="39" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Dreiko Tv CR
+#EXTINF:-1 tvg-chno="39" tvg-logo="https://dreikotv.online/wp-content/uploads/2021/09/cropped-logo-dreiko-arts-TV-2020.png",Dreiko Tv CR
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="40" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/san-jose-tv-costa-rica.png",San José TV
@@ -108,13 +108,13 @@ https://rtmp.info:443/sanjosetv/envivo/chunklist_w1786370191.m3u8
 #EXTINF:-1 tvg-chno="41" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Guatuso TV
 https://5cf4a2c2512a2.streamlock.net:443/8162/8162/chunklist_w1967293068.m3u8
 
-#EXTINF:-1 tvg-chno="42" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Mora TV
+#EXTINF:-1 tvg-chno="42" tvg-logo="https://moratvonline.com//assets/img/moratv.png",Mora TV
 https://stmv1.zcastbr.com:443/moratv1/moratv1/chunklist_w1410193899.m3u8
 
 #EXTINF:-1 tvg-chno="43" tvg-logo="https://i2.paste.pics/83fb31ad5340bda41b8e6f5930e1d4fc.png",TV Curre PZ
 http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8?fbclid=IwAR3riiUSzxi-bKYUwIW_yy3mpK3ZuejRq5beBdOLmHmm9YJ-C1LoDZIF8IM
 
-#EXTINF:-1 tvg-chno="44" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Los Santos TV
+#EXTINF:-1 tvg-chno="44" tvg-logo="http://costaricatelevision.com/sites/default/files/styles/tv_list/public/2022-09/los-santos-tv-costa-rica.png.webp?itok=ki81X3MW",Los Santos TV
 https://lstv.duckdns.org:449/hls/lstv.m3u8
 
 #EXTINF:-1 tvg-chno="45" tvg-logo="https://geomedios.fcs.ucr.ac.cr/wp-content/uploads/2019/07/Limon_TV_Logo.png",Limón TV
@@ -123,10 +123,10 @@ http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 #EXTINF:-1 tvg-chno="46" tvg-logo="https://i2.paste.pics/e71dbd173c7d1e13f92e019c7a9ac89f.png",Canal 9 Tv Sur
 https://5d16127744872.streamlock.net:443/TVSUR/TVSUR/chunklist_w149460811.m3u8
 
-#EXTINF:-1 tvg-chno="48" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",RBM TV 1
+#EXTINF:-1 tvg-chno="48" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/D8WaYFxSEv.png",RBM TV 1
 https://stmv.streamingvip.click:443/television/television/chunklist_w358875487.m3u8
 
-#EXTINF:-1 tvg-chno="49" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",RBM TV 2
+#EXTINF:-1 tvg-chno="49" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/D8WaYFxSEv.png",RBM TV 2
 https://stmv.streamingvip.click:443/rbmtv2/rbmtv2/chunklist_w649736912.m3u8
 
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png",VM Latino
