@@ -78,7 +78,7 @@ https://tvdatta.com:3384/live/cartagomedioslive.m3u8
 #EXTINF:-1 tvg-chno="31" tvg-logo="https://www.radioextremacr.com/img/logo.png",Extrema TV
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="32" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Sarapiquí TV
+#EXTINF:-1 tvg-chno="32" tvg-logo="https://drive.google.com/file/d/1DJp6hAdGZfNdAEaFHSy9-TZSAOzGgbV1/view?usp=drivesdk",Sarapiquí TV
 https://lstv.duckdns.org:449/hls/stv.m3u8
 
 #EXTINF:-1 tvg-chno="33" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Santa Cruz Tv CR
