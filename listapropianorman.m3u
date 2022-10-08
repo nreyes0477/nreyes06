@@ -192,6 +192,12 @@ https://srv.panelcast.net/urbantv/urbantv/playlist.m3u8
 #EXTINF:-1 tvg-chno="70" tvg-logo="https://latinosradio.cl/wp-content/uploads/2020/10/logo-latinos-radio-2.png",Latinos Radio TV
 https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/chunklist_w1968389713.m3u8
 
+#EXTINF:-1 tvg-chno="71" tvg-logo="https://cdn-profiles.tunein.com/s142621/images/logoq.png",V Classic TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w363472295.m3u8
+
+#EXTINF:-1 tvg-chno="72" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png",Recuerdos Retro
+https://593b04c4c5670.streamlock.net:443/8002/8002/chunklist_w1859962777.m3u8
+
 #EXTINF:-1 tvg-chno="80" tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/w480/El_Trece.png",Canal 13 FHD
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v4a1/mono.m3u8
 
