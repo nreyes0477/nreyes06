@@ -25,7 +25,7 @@ https://m6gdar5eyn93-hls-live.5centscdn.com:443/TeleticaRadio/5444e8d6d0436ccb78
 #EXTINF:-1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png",Canal 11 Repretel
 https://d3bgcstab9qhdz.cloudfront.net:443/hls/canal11_720.m3u8
 
-#EXTINF:-1 tvg-chno="13" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/canal-trece-costa-rica .png?resize=500%2C300&ssl=1",Canal 13 Sinart
+#EXTINF:-1 tvg-chno="13" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/canal-trece-costa-rica.png?resize=500%2C300&ssl=1",Canal 13 Sinart
 http://45.228.232.204:16000/play/a03q/index.m3u8
 
 #EXTINF:-1 tvg-chno="14" tvg-logo="https://pbs.twimg.com/profile_images/1314328513349144577/7dTHR_gg.jpg",Tv Sur Canal 14
@@ -34,7 +34,7 @@ https://5bf8041cb3fed.streamlock.net:443/TVSURCANAL14/TVSURCANAL14/chunklist_w21
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://www.ucr.ac.cr/medios/fotos/pri_xx-large/2007/logo_canal_15_Oct_2007.jpg",Canal 15 UCR
 http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="16" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/san-jose-tv-costa -rica.png", San José TV
+#EXTINF:-1 tvg-chno="16" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/san-jose-tv-costa-rica.png",San José TV
 https://rtmp.info:443/sanjosetv/envivo/chunklist_w1786370191.m3u8
 
 #EXTINF:-1 tvg-chno="17" tvg-logo="https://www.radioextremacr.com/img/logo.png",Extrema TV
@@ -43,16 +43,16 @@ https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-logo="https://costaricatelevision.com/sites/default/files/2022-09/_Telered%252520Television.png",Telered
 http://k4.usastreams.com:80/ARBtv/teleplus/chunklist_w160108401.m3u8
 
-#EXTINF:-1 tvg-chno="19" tvg-logo="https://mastelevisioncr.com/wp-content/uploads/2022/05/cropped-cropped-WhatsApp-Image-2020-08-02-at -12.42.47-300x300-1-150x150.jpeg",Telesistema
+#EXTINF:-1 tvg-chno="19" tvg-logo="https://mastelevisioncr.com/wp-content/uploads/2022/05/cropped-cropped-WhatsApp-Image-2020-08-02-at-12.42.47-300x300-1-150x150.jpeg",Telesistema
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1753795779.m3u8
 
 #EXTINF:-1 tvg-chno="20" tvg-logo="https://geomedios.fcs.ucr.ac.cr/wp-content/uploads/2019/12/49174364_1931189920267968_6676580851234373632_o.jpg",Teleuno
 https://5d16127744872.streamlock.net:443/TVUNO/TVUNO/chunklist_w766285163.m3u8
 
-#EXTINF:-1 tvg-chno="21" tvg-logo="https://www.kolbi.cr/wps/wcm/connect/www.kolbi.cr/228191bc-1283-434e-93a5-ef90c46c46c2/kolbi -hogar-tv-anexiontv.png",Trivisión Canal 36
+#EXTINF:-1 tvg-chno="21" tvg-logo="https://www.kolbi.cr/wps/wcm/connect/www.kolbi.cr/228191bc-1283-434e-93a5-ef90c46c46c2/kolbi-hogar-tv-anexiontv.png",Trivisión Canal 36
 https://liveingesta118.cdnmedia.tv:443/trivision36live/dvrlive-1500/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="22" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Extra-TV.png", Televisión adicional 42
+#EXTINF:-1 tvg-chno="22" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Extra-TV.png",Televisión adicional 42
 http://177.234.254.38:8000/play/a02j/index.m3u8
 
 #EXTINF:-1 tvg-chno="24" tvg-logo="https://www.tvn14.com/wp-content/uploads/2021/02/TVN-HD_LOGO_COLOR-SIN-FONDO.png",TVN 14 San Carlos
@@ -79,7 +79,7 @@ https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/playlist.m3u8
 #EXTINF:-1 tvg-chno="33" tvg-logo="https://i2.paste.pics/0965c9e6c38022659717eeaac157e453.png",Canal Norte Informativo
 https://videohd.live:19360/8076/8076.m3u8
 
-#EXTINF:-1 tvg-chno="34" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telesur-costa-rica.png "Telesur CR
+#EXTINF:-1 tvg-chno="34" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telesur-costa-rica.png"Telesur CR
 https://stmv.streamingvip.click:443/telesur/telesur/chunklist_w935279612.m3u8
 
 #EXTINF:-1 tvg-chno="35" tvg-logo="https://serenotv.com/wp-content/uploads/2022/05/Canal-multizonas-en-vivo-300x238.jpeg",Canal Multizonas RC
@@ -88,7 +88,7 @@ https://cloudvideo.servers10.com:8081/8214/index.m3u8
 #EXTINF:-1 tvg-chno="36" tvg-logo="https://i2.paste.pics/e82bca2c48209fe7ff1a9a559f36689f.png",Cartago Medios
 https://tvdatta.com:3384/live/cartagomedioslive.m3u8
 
-#EXTINF:-1 tvg-chno="37" tvg-logo="http://costaricatelevision.com/sites/default/files/styles/tv_list/public/2022-09/stv-sarapiquitv-costa-rica.png .webp?itok=srO54ZBa", Sarapiquí TV
+#EXTINF:-1 tvg-chno="37" tvg-logo="http://costaricatelevision.com/sites/default/files/styles/tv_list/public/2022-09/stv-sarapiquitv-costa-rica.png.webp?itok=srO54ZBa",Sarapiquí TV
 https://lstv.duckdns.org:449/hls/stv.m3u8
 
 #EXTINF:-1 tvg-chno="38" tvg-logo="https://telebrunca.com/wp-content/uploads/2022/07/cropped-Logo-telebrunca2-01-1-1024x749.png", Telebrunca CR
@@ -106,7 +106,7 @@ https://5d16127744872.streamlock.net:443/TVSUR/TVSUR/chunklist_w149460811.m3u8
 #EXTINF:-1 tvg-chno="42" tvg-logo="https://geomedios.fcs.ucr.ac.cr/wp-content/uploads/2019/07/Limon_TV_Logo.png",Limón TV
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="43" tvg-logo="http://costaricatelevision.com/sites/default/files/styles/tv_list/public/2022-09/los-santos-tv-costa-rica .png.webp?itok=ki81X3MW",Los Santos TV
+#EXTINF:-1 tvg-chno="43" tvg-logo="http://costaricatelevision.com/sites/default/files/styles/tv_list/public/2022-09/los-santos-tv-costa-rica.png.webp?itok=ki81X3MW",Los Santos TV
 https://lstv.duckdns.org:449/hls/lstv.m3u8
 
 #EXTINF:-1 tvg-chno="44" tvg-logo="https://pbs.twimg.com/profile_images/1563188156630982656/hG2sn8s-.jpg",Tica TV+
@@ -121,7 +121,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://i2.paste.pics/580c3e6758f8535bbacfb32fa3155259.png",Humor TV 24/7 CR
 https://srv.panelcast.net/humor247/humor247/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://dreikotv.online/wp-content/uploads/2021/09/cropped-logo-dreiko-arts-TV-2020.png", Dreiko Tv CR
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://dreikotv.online/wp-content/uploads/2021/09/cropped-logo-dreiko-arts-TV-2020.png",Dreiko Tv CR
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://www.doutico.com/wpimages/wpe9343c85_05_06.jpg",Canal Pura Vida
@@ -157,16 +157,16 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w534755227.m3u8
 #EXTINF:-1 tvg-chno="66" tvg-logo="https://i2.paste.pics/0c73fe6bc691b4aa4d1ac9cc3f93e500.png",Urbano Tv
 https://59ef525c24caa.streamlock.net:443/tvurbano/tvurbano/chunklist_w248233257.m3u8
 
-#EXTINF:-1 tvg-chno="67" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Colosal-TV.png", Colosal 88.3
+#EXTINF:-1 tvg-chno="67" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Colosal-TV.png",Colosal 88.3
 http://tv2.ticosmedia.com:1935/canal3/canal3/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="68" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Zona Música CR
 http://vip.hispanotv.org:80/live/acevedo22/acevedo22/283548.m3u8
 
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://www.nicepng.com/png/detail/206-2060818_logo-top-latino-png-top-latino-tv-logo.png "La televisión latina más destacada
+#EXTINF:-1 tvg-chno="69" tvg-logo="https://www.nicepng.com/png/detail/206-2060818_logo-top-latino-png-top-latino-tv-logo.png"La televisión latina más destacada
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/chunklist_w1499609849.m3u8
 
-#EXTINF:-1 tvg-chno="70" tvg-logo="https://www.coolstreaming.us/img/ch/image20830898359.jpg",Un son de salsa
+#EXTINF:-1 tvg-chno="70" tvg-logo="https://www.coolstreaming.us/img/ch/image20830898359.jpg",A son de Salsa
 https://cloud01.mipaneltv.xyz:443/asondesalsa/asondesalsa/chunklist_w435560915.m3u8
 
 #EXTINF:-1 tvg-chno="71" tvg-logo="https://latinosradio.cl/wp-content/uploads/2020/10/logo-latinos-radio-2.png",Latinos Radio TV
@@ -181,7 +181,7 @@ https://srv.panelcast.net:443/musictv/musictv/chunklist_w1084927877.m3u8
 #EXTINF:-1 tvg-chno="74" tvg-logo="https://www.getmeradio.com/stations/voiceoverradiotv-2278/logos/512x512.png",Voice Over Radio TV
 http://vip.hispanotv.org:80/live/acevedo22/acevedo22/283551.m3u8
 
-#EXTINF:-1 tvg-chno="80" tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png", Música antigua
+#EXTINF:-1 tvg-chno="80" tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png",Música antigua
 https://59ef525c24caa.streamlock.net:443/vmtv/tvvintage/chunklist_w1339648818.m3u8
 
 #EXTINF:-1 tvg-chno="81" tvg-logo="https://i2.paste.pics/e63c9721b2261a3213ea1a4e69776d0f.png",Oldies Hits TV
@@ -193,10 +193,10 @@ https://rtmp.info:443/iqtv/envivo/chunklist_w394233529.m3u8
 #EXTINF:-1 tvg-chno="83" tvg-logo="https://videotourchannel.com/wp-content/uploads/2022/05/LOGO-MASTER-VECTORIZADO-01-1024x663.png",Vídeo Tour CR del canal
 http://vip.hispanotv.org:80/live/acevedo22/acevedo22/151567.m3u8
 
-#EXTINF:-1 tvg-chno="84" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Retro-Music-Television-Live -TV-Online.png?resize=1068%2C601&ssl=1",TV de música retro
+#EXTINF:-1 tvg-chno="84" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Retro-Music-Television-Live-TV-Online.png?resize=1068%2C601&ssl=1",TV de música retro
 https://stream.mediawork.cz:443/retrotv/retrotvHQ1/chunklist_w1085777026.m3u8
 
-#EXTINF:-1 tvg-chno="85" tvg-logo="https://cdn-profiles.tunein.com/s142621/images/logoq.png",V TV clásica
+#EXTINF:-1 tvg-chno="85" tvg-logo="https://cdn-profiles.tunein.com/s142621/images/logoq.png",V Tv Clásica
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w363472295.m3u8
 
 #EXTINF:-1 tvg-chno="86" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png",Recuerdos Retro
