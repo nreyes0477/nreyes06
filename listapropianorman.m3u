@@ -50,7 +50,7 @@ https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1753795779.m3u8
 https://5d16127744872.streamlock.net:443/TVUNO/TVUNO/chunklist_w766285163.m3u8
 
 #EXTINF:-1 tvg-chno="21" tvg-logo="https://www.kolbi.cr/wps/wcm/connect/www.kolbi.cr/228191bc-1283-434e-93a5-ef90c46c46c2/kolbi-hogar-tv-anexiontv.png",Trivisión Canal 36
-https://liveingesta118.cdnmedia.tv:443/trivision36live/dvrlive-1500/chunklist.m3u8
+https://liveingesta119.cdnmedia.tv:443/trivision36live/dvrlive-1500/chunklist.m3u8?DVR
 
 #EXTINF:-1 tvg-chno="22" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Extra-TV.png",Televisión adicional 42
 http://177.234.254.38:8000/play/a02j/index.m3u8
