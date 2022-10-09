@@ -280,19 +280,52 @@ https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/chunks.m3u
 #EXTINF:-1 tvg-chno="121" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CNN Español
 http://45.224.23.194:8000/play/a00y/index.m3u8
 
-#EXTINF:-1 tvg-chno="130" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",A&E Mundo
+#EXTINF:-1 tvg-chno="122" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión NY
+https://v-ny.mybtv.net:443/live/643/1280x720.m3u8
+
+#EXTINF:-1 tvg-chno="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión LA
+https://v-ca.mybtv.net:443/live/148/1280x720.m3u8
+
+#EXTINF:-1 tvg-chno="124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión PX
+https://v-px.mybtv.net:443/live/28/1920x1080.m3u8
+
+#EXTINF:-1 tvg-chno="126" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás NY
+https://v-ny.mybtv.net:443/live/713/1280x720.m3u8
+
+#EXTINF:-1 tvg-chno="127" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás LA
+https://v-ca.mybtv.net:443/live/147/1280x720.m3u8
+
+#EXTINF:-1 tvg-chno="128" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás PX
+https://v-px.mybtv.net:443/live/56/1920x1080.m3u8
+
+#EXTINF:-1 tvg-chno="131" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo NY
+https://v-ny.mybtv.net:443/live/659/1920x1080.m3u8
+
+#EXTINF:-1 tvg-chno="132" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo LA
+https://v-ca.mybtv.net:443/live/140/1920x1080.m3u8
+
+#EXTINF:-1 tvg-chno="133" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo PX
+https://v-px.mybtv.net:443/live/39/1920x1080.m3u8
+
+#EXTINF:-1 tvg-chno="135" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/telemundo-puerto-rico-en-vivo-1391.png",Telemundo Puerto Rico 
+https://nbculocallive.akamaized.net:443/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+
+#EXTINF:-1 tvg-chno="136" tvg-logo="https://soyreferee.com/u/fotografias/m/2022/7/20/f804x452-19661_71594_0.jpg",Vix + Liga MX
+https://linear-193.frequency.stream:443/193/hls/master/playlist_1280x720.m3u8
+
+#EXTINF:-1 tvg-chno="140" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",A&E Mundo
 http://45.224.23.194:8000/play/a01t/index.m3u8
 
-#EXTINF:-1 tvg-chno="131" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",I Investigation
+#EXTINF:-1 tvg-chno="141" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",ID Investigation
 http://45.224.23.194:8000/play/a02c/index.m3u8
 
-#EXTINF:-1 tvg-chno="132" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Cinecanal
+#EXTINF:-1 tvg-chno="142" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Cinecanal
 http://45.224.23.194:8000/play/a00c/index.m3u8
 
-#EXTINF:-1 tvg-chno="133" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Cinemax
+#EXTINF:-1 tvg-chno="143" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Cinemax
 http://45.224.23.194:8000/play/a03f/index.m3u8
 
-#EXTINF:-1 tvg-chno="134" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",E! Entertainment
+#EXTINF:-1 tvg-chno="144" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",E! Entertainment
 http://45.224.23.194:8000/play/a01m/index.m3u8
 
 #EXTINF:-1 tvg-chno="200" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg",Futv HD
