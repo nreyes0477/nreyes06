@@ -181,9 +181,6 @@ https://srv.panelcast.net:443/musictv/musictv/chunklist_w1084927877.m3u8
 #EXTINF:-1 tvg-chno="74" tvg-logo="https://www.getmeradio.com/stations/voiceoverradiotv-2278/logos/512x512.png",Voice Over Radio TV
 http://vip.hispanotv.org:80/live/acevedo22/acevedo22/283551.m3u8
 
-#EXTINF:-1 tvg-chno="75" tvg-logo="https://lirp.cdn-website.com/2f175595/dms3rep/multi/opt/logo+YOUTUBE-108w.png",Tv Cartago Digital
-https://hls.robotstreamer.com/tv/5369.m3u8
-
 #EXTINF:-1 tvg-chno="80" tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png",Vintage Music
 https://59ef525c24caa.streamlock.net:443/vmtv/tvvintage/chunklist_w1339648818.m3u8
 
@@ -277,9 +274,6 @@ https://stream-01.dc3.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLuCJ1wyILNldZLGKzH
 #EXTINF:-1 tvg-chno="120" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/200px-Ucvtvlogo2014mejorado.png",UCV Chile
 https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="121" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CNN Español
-http://45.224.23.194:8000/play/a00y/index.m3u8
-
 #EXTINF:-1 tvg-chno="122" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión NY
 https://v-ny.mybtv.net:443/live/643/1280x720.m3u8
 
@@ -313,21 +307,6 @@ https://nbculocallive.akamaized.net:443/hls/live/2037499/puertorico/stream1/mast
 #EXTINF:-1 tvg-chno="136" tvg-logo="https://soyreferee.com/u/fotografias/m/2022/7/20/f804x452-19661_71594_0.jpg",Vix + Liga MX
 https://linear-193.frequency.stream:443/193/hls/master/playlist_1280x720.m3u8
 
-#EXTINF:-1 tvg-chno="140" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",A&E Mundo
-http://45.224.23.194:8000/play/a01t/index.m3u8
-
-#EXTINF:-1 tvg-chno="141" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",ID Investigation
-http://45.224.23.194:8000/play/a02c/index.m3u8
-
-#EXTINF:-1 tvg-chno="142" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Cinecanal
-http://45.224.23.194:8000/play/a00c/index.m3u8
-
-#EXTINF:-1 tvg-chno="143" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Cinemax
-http://45.224.23.194:8000/play/a03f/index.m3u8
-
-#EXTINF:-1 tvg-chno="144" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",E! Entertainment
-http://45.224.23.194:8000/play/a01m/index.m3u8
-
 #EXTINF:-1 tvg-chno="200" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg",Futv HD
 http://vip.hispanotv.org:80/live/acevedo22/acevedo22/151545.m3u8
 
@@ -358,18 +337,7 @@ http://vip.hispanotv.org:80/live/acevedo22/acevedo22/151543.m3u8
 #EXTINF:-1 tvg-chno="210" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 HD Opc 2
 http://160.20.164.171:8001/play/a07d
 
-#EXTINF:-1 tvg-chno="215" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN-1080x648.png",ESPN ARG
-http://45.224.23.194:8000/play/a01p/index.m3u8
 
-#EXTINF:-1 tvg-chno="216" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1024px-ESPN2_logo.svg.png",ESPN 2 ARG
-http://45.224.23.194:8000/play/a01d/index.m3u8
 
-#EXTINF:-1 tvg-chno="217" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 ARG
-http://45.224.23.194:8000/play/a03u/index.m3u8
 
-#EXTINF:-1 tvg-chno="218" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1024px-ESPN_4_logo.svg.png",ESPN 4 ARG
-http://45.224.23.194:8000/play/a02m/index.m3u8
-
-#EXTINF:-1 tvg-chno="225" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Claro Sports 
-http://45.224.23.194:8000/play/a00m/index.m3u8
 
