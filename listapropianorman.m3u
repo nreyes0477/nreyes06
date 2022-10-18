@@ -274,6 +274,9 @@ https://stream-01.dc3.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLuCJ1wyILNldZLGKzH
 #EXTINF:-1 tvg-chno="120" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/200px-Ucvtvlogo2014mejorado.png",UCV Chile
 https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/chunks.m3u8
 
+#EXTINF:-1 tvg-chno="121" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png",NBC Universo
+http://mon-key.us:25461/live/luis8876/luis8876/32592.m3u8
+
 #EXTINF:-1 tvg-chno="122" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión NY
 https://v-ny.mybtv.net:443/live/643/1280x720.m3u8
 
