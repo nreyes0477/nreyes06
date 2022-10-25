@@ -67,6 +67,9 @@ https://rtmp.info/tvsantacruz/envivo/playlist.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-logo="https://i2.paste.pics/e82bca2c48209fe7ff1a9a559f36689f.png",Cartago TV
 http://vip.hispanotv.org:80/live/acevedo22/acevedo22/283547.m3u8
 
+#EXTINF:-1 tvg-chno="28" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/cf47d1109272269.5fd018f6d6a01.jpg",Noticias en Linea CR
+https://rtmp.info/noticiasenlineatv/envivo/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="30" tvg-logo="https://i2.paste.pics/3238d7371f23b09198d794d2979411b9.png",Nicoya TV
 https://59ef525c24caa.streamlock.net:443/nicoyatv/nicoyatv/chunklist_w221500905.m3u8
 
