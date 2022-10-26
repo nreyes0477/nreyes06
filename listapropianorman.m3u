@@ -242,7 +242,7 @@ http://tvstarlife.com:25461/live/geovany/geovany/318.m3u8
 http://tvstarlife.com:25461/live/geovany/geovany/338.m3u8
 
 #EXTINF:-1 tvg-chno="99" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG",América TV
-https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all/playlist_720p.m3u8
+http://vip.hispanotv.org:80/live/acevedo22/acevedo22/151390.m3u8
 
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png",TN Noticias
 http://tvstarlife.com:25461/live/geovany/geovany/333.m3u8
@@ -251,7 +251,7 @@ http://tvstarlife.com:25461/live/geovany/geovany/333.m3u8
 http://200.115.193.177:80/live/26hd-720/chunklist_w1196091674.m3u8
 
 #EXTINF:-1 tvg-chno="102" tvg-logo="https://assets.iproup.com/assets/jpg/2021/04/17689.jpg",Crónica HD
-https://g2.proy-hor.transport.edge-access.net:443/b16/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
+http://vip.hispanotv.org:80/live/acevedo22/acevedo22/151402.m3u8
 
 #EXTINF:-1 tvg-chno="103" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/C5N_%282017%29.png/606px-C5N_%282017 %29.png",C5N
 http://tvstarlife.com:25461/live/geovany/geovany/283.m3u8
