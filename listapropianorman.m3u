@@ -278,7 +278,7 @@ http://tvstarlife.com:25461/live/geovany/geovany/27297.m3u8
 http://tvstarlife.com:25461/live/geovany/geovany/5137.m3u8
 
 #EXTINF:-1 tvg-chno="114" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo-Imagen-TV-MX.png/800px-Logo -Imagen-TV-MX.png",Imagen TV
-https://stream-01.dc3.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLuCJ1wyILNldZLGKzH5ZTaW_JKuKsPdbcJbDBRqzbr6g)/dm/3/x82z4if/d/live-2.m3u8
+https://live.telelatinohd.com:8080/NDUuMjM5LjY2LjE5OA==/65_.m3u8?token=CaDLDO8lJpQLaSqX-AglBA&expires=1666776823
 
 #EXTINF:-1 tvg-chno="115" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 1
 https://srv5.zcast.com.br:443/simpsons/simpsons/chunklist_w469095767.m3u8
