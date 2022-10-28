@@ -388,7 +388,95 @@ http://vip.hispanotv.org:80/live/acevedo22/acevedo22/151543.m3u8
 #EXTINF:-1 tvg-chno="210" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 HD Opc 2
 http://160.20.164.171:8001/play/a07d
 
+#EXTINF:-1 tvg-chno="215" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn MX
+http://45.5.119.202:8000/play/a01a/index.m3u8
 
+#EXTINF:-1 tvg-chno="216" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn 2 MX
+http://45.5.119.202:8000/play/a01b/index.m3u8
+
+#EXTINF:-1 tvg-chno="217" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn 3 MX
+http://45.5.119.202:8000/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-chno="218" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn 4 HD
+http://45.5.119.202:8000/play/a029/index.m3u8
+
+#EXTINF:-1 tvg-chno="219" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn Sur HD
+http://8.243.108.57:8000/play/a02l
+
+#EXTINF:-1 tvg-chno="220" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn 2 Sur HD
+http://8.243.108.57:8000/play/a013
+
+#EXTINF:-1 tvg-chno="221" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn  Chile HD
+http://8.243.108.57:8000/play/a01s
+
+#EXTINF:-1 tvg-chno="222" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn  Perú HD
+http://8.243.108.57:8000/play/a00n
+
+#EXTINF:-1 tvg-chno="223" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn 2 HD
+http://8.243.108.57:8000/play/a00c
+
+#EXTINF:-1 tvg-chno="224" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn 2 HD
+http://8.243.108.57:8000/play/a00i
+
+#EXTINF:-1 tvg-chno="225" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn 3 HD
+http://8.243.108.57:8000/play/a00x
+
+#EXTINF:-1 tvg-chno="226" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn 4 HD
+http://8.243.108.57:8000/play/a01m
+
+#EXTINF:-1 tvg-chno="227" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn Extra HD
+http://8.243.108.57:8000/play/a027
+
+#EXTINF:-1 tvg-chno="228" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Fox Sports 1 HD
+http://8.243.108.57:8000/play/a033
+
+#EXTINF:-1 tvg-chno="229" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Fox Sports 2 HD
+http://8.243.108.57:8000/play/a01n
+
+#EXTINF:-1 tvg-chno="230" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Fox Sports 3 HD
+http://8.243.108.57:8000/play/a00y
+
+#EXTINF:-1 tvg-chno="231" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Fox Sports Premium 
+http://201.222.45.69:8000/play/a00c/index.m3u8
+
+#EXTINF:-1 tvg-chno="232" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn 4
+http://201.222.45.69:8000/play/a02k/index.m3u8
+
+#EXTINF:-1 tvg-chno="233" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Fox Sports 2
+http://201.222.45.69:8000/play/a033/index.m3u8
+
+#EXTINF:-1 tvg-chno="234" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Fox Sports 3
+http://201.222.45.69:8000/play/a034/index.m3u8
+
+#EXTINF:-1 tvg-chno="235" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Fox Sports 2
+http://45.5.119.202:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-chno="236" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Fox Sports 3
+http://45.5.119.202:8000/play/a02r/index.m3u8
+
+#EXTINF:-1 tvg-chno="237" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TNT Sports HD
+http://8.243.108.57:8000/play/a00b
+
+#EXTINF:-1 tvg-chno="238" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",EL Canal del Fútbol HD
+http://8.243.108.57:8000/play/a03c
+
+#EXTINF:-1 tvg-chno="239" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",GolTV HD
+http://8.243.108.57:8000/play/a02n
+
+#EXTINF:-1 tvg-chno="240" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Gol Perú HD
+http://8.243.108.57:8000/play/a02r
+
+#EXTINF:-1 tvg-chno="241" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Win Sports HD
+http://8.243.108.57:8000/play/a00e
+
+#EXTINF:-1 tvg-chno="242" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Win Sports + HD
+http://8.243.108.57:8000/play/a02f
+
+#EXTINF:-1 tvg-chno="243" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg", Movistar Deportes HD
+http://8.243.108.57:8000/play/a02j
+
+#EXTINF:-1 tvg-chno="244" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TyC Sports HD
+http://8.243.108.57:8000/play/a02q
 
 
 
