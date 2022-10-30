@@ -604,3 +604,5 @@ http://tvstarlife.com:25461/live/geovany/geovany/10627.m3u8
 #EXTINF:-1 tvg-chno="309" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 10
 https://srv5.zcast.com.br:443/simpsons/simpsons/chunklist_w1106366740.m3u8
 
+#EXTINF:-1 tvg-chno="310" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Futv 💯
+http://144.217.86.185:25461/streaming/clients_normal.php?username=malotv&password=gratis&stream=140409&extension=m3u8&token=Q0FYAkZRGwoVVVVcBQACBAYAUQNQA1FUB1RQUAMEBVBeUFZTBFwPVQETGBsVR0ZVAw48W1EXXwQGBVVTWx0QF0sGQjxcXRsKFQADCVIHAwFAT0FGXFgAFwgFTUESWFZAAkEBUAcPCBIbE1FBElZGXgMPPFZQQwxWVxdbDRddXk4aDF48UVxUUVlVFgNEAxYcQAoQQhcPC0BeWU1BAFhGEFkXVUEPGwsBBAIWFURQW0UMFxFLFw9HdmAXTUEHSUYHVhBZDFsbAxJaAkEBRB8WWRE8EVdGQRdQU1gEEUALEFMaTxIOVEFmU1hfWlwFR11fDBBBCBcFRxkQWA4NC0VdEGcTWQcXAxsBBQIDCkRO
