@@ -491,7 +491,7 @@ http://181.78.1.217:8146/play/a07i
 http://181.78.1.217:8146/play/a07k
 
 #EXTINF:-1 tvg-chno="217" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn 3 MX
-http://45.5.119.202:8000/play/a00h/index.m3u8
+http://181.78.1.217:8146/play/a07j
 
 #EXTINF:-1 tvg-chno="218" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn 4 HD
 http://45.5.119.202:8000/play/a029/index.m3u8
