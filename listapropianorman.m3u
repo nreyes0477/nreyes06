@@ -604,4 +604,75 @@ http://tvstarlife.com:25461/live/geovany/geovany/10627.m3u8
 #EXTINF:-1 tvg-chno="299" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 10
 https://srv5.zcast.com.br:443/simpsons/simpsons/chunklist_w1106366740.m3u8
 
+#EXTINF:-1 tvg-chno="300" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",A&E HD
+http://8.243.108.57:8000/play/a006
+
+#EXTINF:-1 tvg-chno="301" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",AMC HD
+http://8.243.108.57:8000/play/a026
+
+#EXTINF:-1 tvg-chno="302" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Atres Series HD
+http://8.243.108.57:8000/play/a03e
+
+#EXTINF:-1 tvg-chno="303" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",AXN HD
+http://8.243.108.57:8000/play/a009
+
+#EXTINF:-1 tvg-chno="304" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",FX HD
+http://8.243.108.57:8000/play/a01r
+
+#EXTINF:-1 tvg-chno="305" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Cinecanal HD
+http://8.243.108.57:8000/play/a025
+
+#EXTINF:-1 tvg-chno="306" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Cinemax HD
+http://8.243.108.57:8000/play/a014
+
+#EXTINF:-1 tvg-chno="307" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Golden HD
+http://8.243.108.57:8000/play/a02k
+
+#EXTINF:-1 tvg-chno="308" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",DHE HD
+http://8.243.108.57:8000/play/a031
+
+#EXTINF:-1 tvg-chno="309" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",HBO 2 HD
+http://8.243.108.57:8000/play/a02e
+
+#EXTINF:-1 tvg-chno="310" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",HBO Family HD
+http://8.243.108.57:8000/play/a035
+
+#EXTINF:-1 tvg-chno="311" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",HBO HD
+http://8.243.108.57:8000/play/a028
+
+#EXTINF:-1 tvg-chno="312" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",HBO POP HD
+http://8.243.108.57:8000/play/a00d
+
+#EXTINF:-1 tvg-chno="313" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",HBO Xtreme HD
+http://8.243.108.57:8000/play/a038
+
+#EXTINF:-1 tvg-chno="318" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg", Paramount HD
+http://8.243.108.57:8000/play/a02c
+
+#EXTINF:-1 tvg-chno="319" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Star Channel HD
+http://8.243.108.57:8000/play/a02x
+
+#EXTINF:-1 tvg-chno="320" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Star Channel HD
+http://8.243.108.57:8000/play/a00j
+
+#EXTINF:-1 tvg-chno="321" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Sony HD
+http://8.243.108.57:8000/play/a007
+
+#EXTINF:-1 tvg-chno="322" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Space HD
+http://8.243.108.57:8000/play/a00a
+
+#EXTINF:-1 tvg-chno="323" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Studio Universal HD
+http://8.243.108.57:8000/play/a02d
+
+#EXTINF:-1 tvg-chno="324" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TNT HD
+http://8.243.108.57:8000/play/a00w
+
+#EXTINF:-1 tvg-chno="325" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TNT Series HD
+http://8.243.108.57:8000/play/a01q
+
+#EXTINF:-1 tvg-chno="326" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Universal Channel HD
+http://8.243.108.57:8000/play/a01l
+
+#EXTINF:-1 tvg-chno="327" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Warner Channel HD
+http://8.243.108.57:8000/play/a008
 
