@@ -230,7 +230,7 @@ http://vip.hispanotv.org:80/live/acevedo22/acevedo22/151381.m3u8
 http://vip.hispanotv.org:80/live/acevedo22/acevedo22/151384.m3u8
 
 #EXTINF:-1 tvg-chno="95" tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/w480/Telefe.png",Telefe HD
-http://mon-key.us:25461/live/luis8876/luis8876/55938.m3u8
+https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="96" tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/w480/Telefe.png",Telefe (INT)
 http://tvstarlife.com:25461/live/geovany/geovany/315.m3u8
