@@ -299,7 +299,7 @@ http://8.243.108.57:8000/play/a00s
 http://8.243.108.57:8000/play/a00r
 
 #EXTINF:-1 tvg-chno="121" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Canal 13 CH
-http://8.243.108.57:8000/play/a03d
+https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/2f457424-d861-4005-9f20-5b5878a1f691:SCL/variant/6111ad30657a583ad044dfe707c7e95d/bandwidth/2252800.m3u8
 
 #EXTINF:-1 tvg-chno="122" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Mega HD
 http://8.243.108.57:8000/play/a022
