@@ -356,7 +356,7 @@ https://v-px.mybtv.net:443/live/39/1920x1080.m3u8
 https://nbculocallive.akamaized.net:443/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 
 #EXTINF:-1 tvg-chno="148" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",E! Entertainment HD
-http://8.243.108.57:8000/play/a02m
+http://45.5.117.172:8000/play/a0gr/index.m3u8
 
 #EXTINF:-1 tvg-chno="149" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",ID Investigation HD
 http://8.243.108.57:8000/play/a016
@@ -608,7 +608,7 @@ https://srv5.zcast.com.br:443/simpsons/simpsons/chunklist_w1106366740.m3u8
 http://45.5.117.172:8000/play/a0gt/index.m3u8
 
 #EXTINF:-1 tvg-chno="301" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",AMC HD
-http://8.243.108.57:8000/play/a026
+http://45.190.185.210:8000/play/a07w
 
 #EXTINF:-1 tvg-chno="302" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Atres Series HD
 http://8.243.108.57:8000/play/a03e
@@ -629,7 +629,7 @@ http://45.5.117.172:8000/play/a0il/index.m3u8
 http://45.5.117.172:8000/play/a0jv/index.m3u8
 
 #EXTINF:-1 tvg-chno="308" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",DHE HD
-http://8.243.108.57:8000/play/a031
+http://45.190.185.210:8000/play/a081
 
 #EXTINF:-1 tvg-chno="310" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png",HBO HD
 http://181.175.41.170:8000/play/a0dz
