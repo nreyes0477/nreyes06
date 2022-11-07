@@ -407,13 +407,13 @@ http://8.243.108.57:8000/play/a03r
 http://45.5.117.172:8000/play/a0kq/index.m3u8
 
 #EXTINF:-1 tvg-chno="167" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Sun Channel HD
-http://8.243.108.57:8000/play/a01f
+http://190.61.102.67:444/play/a023
 
 #EXTINF:-1 tvg-chno="168" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Trutv HD
-http://8.243.108.57:8000/play/a017
+http://187.13.81.65:4000/play/a08s
 
 #EXTINF:-1 tvg-chno="170" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Cartoon Network HD
-http://8.243.108.57:8000/play/a02b
+http://45.5.117.172:8000/play/a0l0/index.m3u8
 
 #EXTINF:-1 tvg-chno="171" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Disney Channel HD
 http://45.190.185.210:8000/play/a0be
