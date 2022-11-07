@@ -359,31 +359,31 @@ https://nbculocallive.akamaized.net:443/hls/live/2037499/puertorico/stream1/mast
 http://45.5.117.172:8000/play/a0gr/index.m3u8
 
 #EXTINF:-1 tvg-chno="149" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",ID Investigation HD
-http://8.243.108.57:8000/play/a016
+http://45.190.185.210:8000/play/a0bi
 
 #EXTINF:-1 tvg-chno="150" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",History Channel HD
-http://8.243.108.57:8000/play/a005
+http://45.5.117.172:8000/play/a0gk/index.m3u8
 
 #EXTINF:-1 tvg-chno="151" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",History 2 HD
-http://8.243.108.57:8000/play/a034
+http://45.5.117.172:8000/play/a0jp/index.m3u8
 
 #EXTINF:-1 tvg-chno="152" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Nat Geo HD
-http://8.243.108.57:8000/play/a023
+http://45.5.117.172:8000/play/a0kk/index.m3u8
 
 #EXTINF:-1 tvg-chno="153" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Animal Planet HD
 http://8.243.108.57:8000/play/a02g
 
 #EXTINF:-1 tvg-chno="154" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Discovery Channel HD
-http://8.243.108.57:8000/play/a032
+http://45.190.185.210:8000/play/a08t
 
 #EXTINF:-1 tvg-chno="155" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",H&H HD
-http://8.243.108.57:8000/play/a01h
+http://45.190.185.210:8000/play/a08b
 
 #EXTINF:-1 tvg-chno="156" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Discovery Theater HD
-http://8.243.108.57:8000/play/a01i
+http://45.190.185.210:8000/play/a08a
 
 #EXTINF:-1 tvg-chno="157" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Discovery World HD
-http://8.243.108.57:8000/play/a024
+http://45.190.185.210:8000/play/a08u
 
 #EXTINF:-1 tvg-chno="160" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CNN Español 
 http://45.5.117.172:8000/play/a0gi/index.m3u8
@@ -392,7 +392,7 @@ http://45.5.117.172:8000/play/a0gi/index.m3u8
 http://8.243.108.57:8000/play/a02v
 
 #EXTINF:-1 tvg-chno="162" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",El Gourmet HD
-http://8.243.108.57:8000/play/a018
+http://45.190.185.210:8000/play/a0ae
 
 #EXTINF:-1 tvg-chno="163" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Comedy Central HD
 http://8.243.108.57:8000/play/a015
@@ -416,13 +416,13 @@ http://8.243.108.57:8000/play/a017
 http://8.243.108.57:8000/play/a02b
 
 #EXTINF:-1 tvg-chno="171" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Disney Channel HD
-http://8.243.108.57:8000/play/a00u
+http://45.190.185.210:8000/play/a0be
 
 #EXTINF:-1 tvg-chno="172" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Disney Junior HD
-http://8.243.108.57:8000/play/a012
+http://45.190.185.210:8000/play/a09h
 
 #EXTINF:-1 tvg-chno="173" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Discovery Kids HD
-http://8.243.108.57:8000/play/a01g
+http://45.190.185.210:8000/play/a0cr
 
 #EXTINF:-1 tvg-chno="190" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Claro Música 
 http://45.5.119.202:8000/play/a04k/index.m3u8
