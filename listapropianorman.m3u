@@ -386,7 +386,7 @@ http://8.243.108.57:8000/play/a01i
 http://8.243.108.57:8000/play/a024
 
 #EXTINF:-1 tvg-chno="160" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CNN Español 
-http://45.5.119.202:8000/play/a02h/index.m3u8
+http://45.5.117.172:8000/play/a0gi/index.m3u8
 
 #EXTINF:-1 tvg-chno="161" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",France 24 HD
 http://8.243.108.57:8000/play/a02v
@@ -404,7 +404,7 @@ http://8.243.108.57:8000/play/a02a
 http://8.243.108.57:8000/play/a03r
 
 #EXTINF:-1 tvg-chno="166" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Pasiones HD
-http://8.243.108.57:8000/play/a00t
+http://45.5.117.172:8000/play/a0kq/index.m3u8
 
 #EXTINF:-1 tvg-chno="167" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Sun Channel HD
 http://8.243.108.57:8000/play/a01f
@@ -605,7 +605,7 @@ http://tvstarlife.com:25461/live/geovany/geovany/10627.m3u8
 https://srv5.zcast.com.br:443/simpsons/simpsons/chunklist_w1106366740.m3u8
 
 #EXTINF:-1 tvg-chno="300" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",A&E HD
-http://8.243.108.57:8000/play/a006
+http://45.5.117.172:8000/play/a0gt/index.m3u8
 
 #EXTINF:-1 tvg-chno="301" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",AMC HD
 http://8.243.108.57:8000/play/a026
@@ -626,7 +626,7 @@ http://45.5.117.172:8000/play/a0hq/index.m3u8
 http://45.5.117.172:8000/play/a0il/index.m3u8
 
 #EXTINF:-1 tvg-chno="307" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Golden HD
-http://8.243.108.57:8000/play/a02k
+http://45.5.117.172:8000/play/a0jv/index.m3u8
 
 #EXTINF:-1 tvg-chno="308" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",DHE HD
 http://8.243.108.57:8000/play/a031
@@ -657,9 +657,6 @@ http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/30347.m3u8
 
 #EXTINF:-1 tvg-chno="318" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Paramount HD
 http://45.5.117.172:8000/play/a0kl/index.m3u8
-
-#EXTINF:-1 tvg-chno="319" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Star Channel HD
-http://8.243.108.57:8000/play/a02x
 
 #EXTINF:-1 tvg-chno="320" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Star Channel HD
 http://45.5.117.172:8000/play/a0hn/index.m3u8
