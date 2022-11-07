@@ -614,16 +614,16 @@ http://8.243.108.57:8000/play/a026
 http://8.243.108.57:8000/play/a03e
 
 #EXTINF:-1 tvg-chno="303" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",AXN HD
-http://8.243.108.57:8000/play/a009
+http://45.5.117.172:8000/play/a0iy/index.m3u8
 
 #EXTINF:-1 tvg-chno="304" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",FX HD
-http://8.243.108.57:8000/play/a01r
+http://45.5.117.172:8000/play/a0gw/index.m3u8
 
 #EXTINF:-1 tvg-chno="305" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Cinecanal HD
-http://8.243.108.57:8000/play/a025
+http://45.5.117.172:8000/play/a0hq/index.m3u8
 
 #EXTINF:-1 tvg-chno="306" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Cinemax HD
-http://8.243.108.57:8000/play/a014
+http://45.5.117.172:8000/play/a0il/index.m3u8
 
 #EXTINF:-1 tvg-chno="307" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Golden HD
 http://8.243.108.57:8000/play/a02k
@@ -656,34 +656,34 @@ http://181.175.41.170:8000/play/a0ii
 http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/30347.m3u8
 
 #EXTINF:-1 tvg-chno="318" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Paramount HD
-http://8.243.108.57:8000/play/a02c
+http://45.5.117.172:8000/play/a0kl/index.m3u8
 
 #EXTINF:-1 tvg-chno="319" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Star Channel HD
 http://8.243.108.57:8000/play/a02x
 
 #EXTINF:-1 tvg-chno="320" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Star Channel HD
-http://8.243.108.57:8000/play/a00j
+http://45.5.117.172:8000/play/a0hn/index.m3u8
 
 #EXTINF:-1 tvg-chno="321" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Sony HD
-http://8.243.108.57:8000/play/a007
+http://45.5.117.172:8000/play/a0hp/index.m3u8
 
 #EXTINF:-1 tvg-chno="322" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Space HD
-http://8.243.108.57:8000/play/a00a
+http://45.5.117.172:8000/play/a0iz/index.m3u8
 
 #EXTINF:-1 tvg-chno="323" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Studio Universal HD
-http://8.243.108.57:8000/play/a02d
+http://45.5.117.172:8000/play/a0go/index.m3u8
 
 #EXTINF:-1 tvg-chno="324" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TNT HD
-http://8.243.108.57:8000/play/a00w
+http://45.5.117.172:8000/play/a0hu/index.m3u8
 
 #EXTINF:-1 tvg-chno="325" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TNT Series HD
-http://8.243.108.57:8000/play/a01q
+http://45.5.117.172:8000/play/a0km/index.m3u8
 
 #EXTINF:-1 tvg-chno="326" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Warner Channel HD
-http://8.243.108.57:8000/play/a008
+http://45.5.117.172:8000/play/a0ho/index.m3u8
 
 #EXTINF:-1 tvg-chno="329" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Universal Channel HD
-http://8.243.108.57:8000/play/a01l
+http://45.5.117.172:8000/play/a0ih/index.m3u8
 
 #EXTINF:-1 tvg-chno="330" tvg-logo="https://ayuda.tigo.com.bo/hc/article_attachments/4707794286227/mceclip6.png",Universal Cinema HD
 http://181.175.41.170:8000/play/a0gx
