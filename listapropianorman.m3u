@@ -283,40 +283,40 @@ http://vip.hispanotv.org:80/live/acevedo22/acevedo22/150934.m3u8
 #EXTINF:-1 tvg-chno="115" tvg-logo="https://gzcsecurity.com/img/nosotros/seguridad/americatv-min.jpg",América TV HD
 http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/215074.m3u8
 
-#EXTINF:-1 tvg-chno="116" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Latina HD
+#EXTINF:-1 tvg-chno="116" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png",Latina HD
 http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99673.m3u8
 
-#EXTINF:-1 tvg-chno="117" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Panamericana
+#EXTINF:-1 tvg-chno="117" tvg-logo="https://cdn.mitvstatic.com/channels/pe_panamericana-tv_m.png",Panamericana
 http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99680.m3u8
 
-#EXTINF:-1 tvg-chno="118" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Perú Mágico
+#EXTINF:-1 tvg-chno="118" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/peru_magico-mediano.png",Perú Mágico
 http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99683.m3u8
 
-#EXTINF:-1 tvg-chno="119" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CHV HD
+#EXTINF:-1 tvg-chno="119" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png",CHV HD
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/83667.m3u8
 
-#EXTINF:-1 tvg-chno="120" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TVN HD
+#EXTINF:-1 tvg-chno="120" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png",TVN HD
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/18611.m3u8
 
-#EXTINF:-1 tvg-chno="121" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Canal 13 CH
+#EXTINF:-1 tvg-chno="121" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png",Canal 13 CH
 http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99697.m3u8
 
-#EXTINF:-1 tvg-chno="122" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Mega HD
+#EXTINF:-1 tvg-chno="122" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mega_chile-mediano.png",Mega HD
 http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99720.m3u8
 
-#EXTINF:-1 tvg-chno="123" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",La Red HD
+#EXTINF:-1 tvg-chno="123" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_red_chile-mediano.png",La Red HD
 http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99716.m3u8
 
-#EXTINF:-1 tvg-chno="124" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TV + HD
+#EXTINF:-1 tvg-chno="124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",TV + HD
 http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/102069.m3u8
 
-#EXTINF:-1 tvg-chno="125" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Canal 24 Horas HD
+#EXTINF:-1 tvg-chno="125" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tvn-24-h_m.png",Canal 24 Horas HD
 http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99529.m3u8
 
-#EXTINF:-1 tvg-chno="126" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Caracol HD
+#EXTINF:-1 tvg-chno="126" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png",Caracol HD
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/15125.m3u8
 
-#EXTINF:-1 tvg-chno="127" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",RCN HD
+#EXTINF:-1 tvg-chno="127" tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg",RCN HD
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/1769.m3u8
 
 #EXTINF:-1 tvg-chno="130" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/200px-Ucvtvlogo2014mejorado.png",UCV Chile
