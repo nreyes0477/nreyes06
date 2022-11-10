@@ -263,7 +263,7 @@ http://tvstarlife.com:25461/live/geovany/geovany/313.m3u8
 http://tvstarlife.com:25461/live/geovany/geovany/27241.m3u8
 
 #EXTINF:-1 tvg-chno="109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png",Azteca 7
-http://tvstarlife.com:25461/live/geovany/geovany/5135.m3u8
+http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/93860.m3u8
 
 #EXTINF:-1 tvg-chno="110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas
 http://tvstarlife.com:25461/live/geovany/geovany/24565.m3u8
