@@ -221,7 +221,7 @@ https://siloh-latam-aka.plutotv.net/lilo/production/GranHermano/J8473924d9c83s48
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="92" tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/w480/El_Trece.png",Canal 13 HD
-https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v4a1/mono.m3u8
+http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99751.m3u8
 
 #EXTINF:-1 tvg-chno="93" tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/w480/El_Trece.png",Canal 13 (INT)
 http://vip.hispanotv.org:80/live/acevedo22/acevedo22/151381.m3u8
