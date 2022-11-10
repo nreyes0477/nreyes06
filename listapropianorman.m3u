@@ -217,10 +217,10 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 #EXTINF:-1 tvg-chno="90" tvg-logo="https://www.clarin.com/img/2022/09/27/gran-hermano-2022-el-reality___9FXtYKoum_640x361__1.jpg",Gran Hermano Arg 24/7
 https://siloh-latam-aka.plutotv.net/lilo/production/GranHermano/J8473924d9c83s484758d9485603s8/master.m3u8
 
-#EXTINF:-1 tvg-chno="91" tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/w480/El_Trece.png",Canal 13 FHD
+#EXTINF:-1 tvg-chno="91" tvg-logo="https://www.ecured.cu/images/thumb/4/4f/ElTreceHD2012.jpg/500px-ElTreceHD2012.jpg",Canal 13 FHD
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="92" tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/w480/El_Trece.png",Canal 13 HD
+#EXTINF:-1 tvg-chno="92" tvg-logo="https://www.ecured.cu/images/thumb/4/4f/ElTreceHD2012.jpg/500px-ElTreceHD2012.jpg",Canal 13 HD
 http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99751.m3u8
 
 #EXTINF:-1 tvg-chno="93" tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/w480/El_Trece.png",Canal 13 (INT)
