@@ -281,43 +281,43 @@ http://tvstarlife.com:25461/live/geovany/geovany/5137.m3u8
 http://vip.hispanotv.org:80/live/acevedo22/acevedo22/150934.m3u8
 
 #EXTINF:-1 tvg-chno="115" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",América TV HD
-http://8.243.108.57:8000/play/a02o
+http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/215074.m3u8
 
 #EXTINF:-1 tvg-chno="116" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Latina HD
-http://8.243.108.57:8000/play/a02p
+http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99673.m3u8
 
 #EXTINF:-1 tvg-chno="117" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Panamericana
-http://8.243.108.57:8000/play/a03q
+http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99680.m3u8
 
 #EXTINF:-1 tvg-chno="118" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Perú Mágico
-http://8.243.108.57:8000/play/a03w
+http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99683.m3u8
 
 #EXTINF:-1 tvg-chno="119" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CHV HD
-http://8.243.108.57:8000/play/a00s
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/83667.m3u8
 
 #EXTINF:-1 tvg-chno="120" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TVN HD
-http://8.243.108.57:8000/play/a00r
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/18611.m3u8
 
 #EXTINF:-1 tvg-chno="121" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Canal 13 CH
-https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/2f457424-d861-4005-9f20-5b5878a1f691:SCL/variant/6111ad30657a583ad044dfe707c7e95d/bandwidth/2252800.m3u8
+http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99697.m3u8
 
 #EXTINF:-1 tvg-chno="122" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Mega HD
-http://8.243.108.57:8000/play/a022
+http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99720.m3u8
 
 #EXTINF:-1 tvg-chno="123" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",La Red HD
-http://8.243.108.57:8000/play/a00l
+http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99716.m3u8
 
 #EXTINF:-1 tvg-chno="124" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TV + HD
-http://8.243.108.57:8000/play/a021
+http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/102069.m3u8
 
 #EXTINF:-1 tvg-chno="125" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Canal 24 Horas HD
-http://8.243.108.57:8000/play/a02y
+http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99529.m3u8
 
 #EXTINF:-1 tvg-chno="126" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Caracol HD
-http://8.243.108.57:8000/play/a02z
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/15125.m3u8
 
 #EXTINF:-1 tvg-chno="127" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",RCN HD
-http://8.243.108.57:8000/play/a01t
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/1769.m3u8
 
 #EXTINF:-1 tvg-chno="130" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/200px-Ucvtvlogo2014mejorado.png",UCV Chile
 https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/chunks.m3u8
