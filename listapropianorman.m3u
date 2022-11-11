@@ -643,7 +643,7 @@ http://181.175.41.170:8000/play/a0e2
 #EXTINF:-1 tvg-chno="313" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO Plus HD
 http://181.175.41.170:8000/play/a0e1
 
-#EXTINF:-1 tvg-chno="314" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png",HBO POP HD
+#EXTINF:-1 tvg-chno="314" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png",HBO Pop HD
 http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/30348.m3u8
 
 #EXTINF:-1 tvg-chno="315" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png",HBO Signature HD
