@@ -397,10 +397,10 @@ http://45.190.185.210:8000/play/a0ae
 #EXTINF:-1 tvg-chno="163" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png",Comedy Central HD
 http://8.243.108.57:8000/play/a015
 
-#EXTINF:-1 tvg-chno="164" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Kanal Drama HD
+#EXTINF:-1 tvg-chno="164" tvg-logo="https://i4.hurimg.com/i/hurriyet/75/600x338/5dbd043ed3806c1dec53824d.jpg",Kanal Drama HD
 http://8.243.108.57:8000/play/a02a
 
-#EXTINF:-1 tvg-chno="165" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Movistar Plus
+#EXTINF:-1 tvg-chno="165" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar%2B_Logo.png/640px-Movistar%2B_Logo.png",Movistar Plus
 http://8.243.108.57:8000/play/a03r
 
 #EXTINF:-1 tvg-chno="166" tvg-logo="https://cdn.mitvstatic.com/channels/ar_pasiones_m.png",Pasiones HD
@@ -430,13 +430,13 @@ http://45.5.119.202:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-chno="191" tvg-logo="https://cdn.mitvstatic.com/channels/ar_mtv_m.png",MTV HD
 http://45.5.119.202:8000/play/a033/index.m3u8
 
-#EXTINF:-1 tvg-chno="192" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/logo-mtv-80.png.8a5ae53c056b734dc9fe51b4f03a0f6c.png",MTV 80s
+#EXTINF:-1 tvg-chno="192" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png",MTV 80s
 http://45.5.119.202:8000/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-chno="193" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtv00s.png",MTV 00s
 http://45.5.119.202:8000/play/a00l/index.m3u8
 
-#EXTINF:-1 tvg-chno="194" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",MTV Hits
+#EXTINF:-1 tvg-chno="194" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/808px-MTV_Hits_2021.svg.png",MTV Hits
 http://45.5.119.202:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-chno="195" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_musica-mediano.png",Claro Música 
