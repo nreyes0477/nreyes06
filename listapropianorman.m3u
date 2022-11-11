@@ -424,23 +424,23 @@ http://45.190.185.210:8000/play/a09h
 #EXTINF:-1 tvg-chno="173" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-kids_m.png",Discovery Kids HD
 http://45.190.185.210:8000/play/a0cr
 
-#EXTINF:-1 tvg-chno="190" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Claro Música 
-http://45.5.119.202:8000/play/a04k/index.m3u8
-
-#EXTINF:-1 tvg-chno="191" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",MTV
+#EXTINF:-1 tvg-chno="190" tvg-logo="https://cdn.mitvstatic.com/channels/ar_mtv_m.png",MTV
 http://45.5.119.202:8000/play/a01s/index.m3u8
 
-#EXTINF:-1 tvg-chno="192" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",MTV 00s
-http://45.5.119.202:8000/play/a00l/index.m3u8
-
-#EXTINF:-1 tvg-chno="193" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",MTV 80s
-http://45.5.119.202:8000/play/a02t/index.m3u8
-
-#EXTINF:-1 tvg-chno="194" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",MTV HD
+#EXTINF:-1 tvg-chno="191" tvg-logo="https://cdn.mitvstatic.com/channels/ar_mtv_m.png",MTV HD
 http://45.5.119.202:8000/play/a033/index.m3u8
 
-#EXTINF:-1 tvg-chno="195" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",MTV Hits
+#EXTINF:-1 tvg-chno="192" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/logo-mtv-80.png.8a5ae53c056b734dc9fe51b4f03a0f6c.png",MTV 80s
+http://45.5.119.202:8000/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-chno="193" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtv00s.png",MTV 00s
+http://45.5.119.202:8000/play/a00l/index.m3u8
+
+#EXTINF:-1 tvg-chno="194" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",MTV Hits
 http://45.5.119.202:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-chno="195" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_musica-mediano.png",Claro Música 
+http://45.5.119.202:8000/play/a04k/index.m3u8
 
 #EXTINF:-1 tvg-chno="196" tvg-logo="https://ayuda.tigo.com.pa/hc/article_attachments/9373342049683/MicrosoftTeams-image.png",Vix + La Liga
 http://144.217.5.253:25461/streaming/clients_normal.php?username=malotv&password=gratis&stream=153656&extension=m3u8&token=Q0FYAkZRGwoVBwwOAgdWAFFXW1dQU1QBBwIFVwBSBVJaVQAGDV0BBAITGBsVR0ZVAw48W1EXXwQHBldWVB0QF0sGQjxcXRsKFQADCVIHAwFAT0FGXFgAFwgFTUESWFZAAkEBVQIIDRIbE1FBElZGXgMPPFZQQwxWVxdbDRddXk4aDF48UVxUUVlVFgNEAhYcQAoQQhcPC0BeWU1BAFhGEFkXVUEPGwgIDwYWFURQW0UMFxFLFw9HdmAXTUEHSUYHVhBZDFsbAxJaAkEBRB8WWRE8EVdGQRdQU1gEEUALEFMaTxIOVEFmU1hfWlwFR11fDBBBCBcFRxkQWA4NC0VdEGcTWQcXAxsBAQcNDkRO
