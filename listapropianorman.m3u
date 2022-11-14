@@ -121,6 +121,12 @@ http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8?fbclid=IwAR3riiUSzxi-b
 #EXTINF:-1 tvg-chno="46" tvg-logo="https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png",Retroplus Movies
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w893080974.m3u8
 
+#EXTINF:-1 tvg-chno="47" tvg-logo="https://tvnosara.radionosarafm.online/wp-content/uploads/2022/10/logo-canal-17-TVNosara-Transparente-1024x1024.png",TV Nosara
+https://cloudvideo.servers10.com:8081/8092/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno="48" tvg-logo="https://geomedios.fcs.ucr.ac.cr/wp-content/uploads/2019/07/SomosCaribeTVLogo.png",Somos Caribe TV
+http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/187947.m3u8
+
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://i2.paste.pics/580c3e6758f8535bbacfb32fa3155259.png",Humor TV 24/7 CR
 https://srv.panelcast.net/humor247/humor247/playlist.m3u8
 
@@ -130,8 +136,14 @@ https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://www.doutico.com/wpimages/wpe9343c85_05_06.jpg",Canal Pura Vida
 https://cp.panelchs.com:1936/84598/84598/chunklist_w1217069703.m3u8
 
+#EXTINF:-1 tvg-chno="53" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcbTcKUr-CuniUPPm4RylqRwXEoVlwt589qHksO03NVsvy7CAeyIN6eCt53KLN16_TT7-NNGuugJrEJ5_jFkWtzBOFUQj5ag56RfYrwEL2r4d9l3m3DjrhrjGTz-qWUfv7D0k3TkEKLFuTMhk6H6MbwAEOiRIk_OBoHZqz17RoOZ2nhRYJ1BS7p03pGg/s400/CANAL%2010.1%20SPORT%20FONDO%20NEGRO.png",Canal 10.1 CR
+https://stmv.streamingvip.click/rbmtv2/rbmtv2/chunklist_w1845201388.m3u8
+
 #EXTINF:-1 tvg-chno="54" tvg-logo="https://i2.paste.pics/c62d925b201bdb9d034e4d582d62abf2.png",MZ Sports HD
 https://cloudvideo.servers10.com:8081/8248/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno="55" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2ZIwtfmE-NPJEVdYu8woHVBjdThQjfUiH9Kw5gYv3mD9tq8c8kccPctR4scUfd1_fkfxBIMsCn8aR62Vp-XzLfgX8BkT7HeHUUBWk7fMhbYkD0zIqLuumhE_rtT9UDqBeHgojkIrCfy9QQZ8z_xcDFCXdeq3P7bnpgCzALxaaOFLt7j4tPKjBg9SAJA/s400/CANAL%2010%20SPORTS%20FONDO%20NEGRO.png",Canal 10 Sports CR
+https://cloudvideo.servers10.com:8081/8190/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="58" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/D8WaYFxSEv.png",RBM TV 1
 https://stmv.streamingvip.click:443/television/television/chunklist_w358875487.m3u8
@@ -186,6 +198,15 @@ http://vip.hispanotv.org:80/live/acevedo22/acevedo22/283551.m3u8
 
 #EXTINF:-1 tvg-chno="75" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Teleritmo-en-vivo-Online-1.png",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=D4rMshhUyzljy2UXzEdxzm7N8r4EiI18&sid=KOhl3BXyIrYst7OzNMpBPkuMnAQNKm10&pid=KWcOmLuQAKLkxciTtr4giEXPWEUFGk41&an=screen&at=web-app&av=v5.2.288&ref=https%3A%2F%2Fwww-multimedios-com.cdn.ampproject.org%2Fv%2Fs%2Fwww.multimedios.com%2Fvideo%2Fteleritmo%2Fv2615%3Famp%3D%26amp_gsa%3D1%26amp_js_v%3Da9%26usqp%3Dmq331AQKKAFQArABIIACAw%253D%253D&res=373x210&without_cookies=false&listenerid=&dnt=true
+
+#EXTINF:-1 tvg-chno="76" tvg-logo="https://i1.sndcdn.com/visuals-000190901760-aZKJmO-t1240x260.jpg",DJ Nixon
+http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99792.m3u8
+
+#EXTINF:-1 tvg-chno="77" tvg-logo="https://i0.wp.com/gruporenascencamultimedia.com/wp-content/uploads/2021/02/mega-1.png",Mega Hits CR
+http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/233335.m3u8
+
+#EXTINF:-1 tvg-chno="78" tvg-logo="https://i0.wp.com/radiopuertotv.net/wp-content/uploads/2022/04/cropped-CABALLOS-Y-MAS-_12.png?w=906&ssl=1",Radio Puerto TV 
+http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/234880.m3u8
 
 #EXTINF:-1 tvg-chno="80" tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png",Vintage Music
 https://59ef525c24caa.streamlock.net:443/vmtv/tvvintage/chunklist_w1339648818.m3u8
@@ -258,6 +279,9 @@ http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99745.m3u8
 
 #EXTINF:-1 tvg-chno="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",A24
 http://tvstarlife.com:25461/live/geovany/geovany/313.m3u8
+
+#EXTINF:-1 tvg-chno="106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png",Tv Max Panamá 
+https://bcovlive-a.akamaihd.net:443/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
 
 #EXTINF:-1 tvg-chno="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Azteca_Uno_logo.webp/245px-Azteca_Uno_logo.webp.png",Azteca 1
 http://tvstarlife.com:25461/live/geovany/geovany/27241.m3u8
