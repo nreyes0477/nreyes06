@@ -118,7 +118,7 @@ https://cloudvideo.servers10.com:8081/8030/index.m3u8
 #EXTINF:-1 tvg-chno="45" tvg-logo="https://i2.paste.pics/83fb31ad5340bda41b8e6f5930e1d4fc.png",TV Curre PZ
 http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8?fbclid=IwAR3riiUSzxi-bKYUwIW_yy3mpK3ZuejRq5beBdOLmHmm9YJ-C1LoDZIF8IM
 
-#EXTINF:-1 tvg-chno="46" tvg-logo="https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png",Retroplus 3
+#EXTINF:-1 tvg-chno="46" tvg-logo="https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png",Retroplus Movies
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w893080974.m3u8
 
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://i2.paste.pics/580c3e6758f8535bbacfb32fa3155259.png",Humor TV 24/7 CR
@@ -133,10 +133,10 @@ https://cp.panelchs.com:1936/84598/84598/chunklist_w1217069703.m3u8
 #EXTINF:-1 tvg-chno="54" tvg-logo="https://i2.paste.pics/c62d925b201bdb9d034e4d582d62abf2.png",MZ Sports HD
 https://cloudvideo.servers10.com:8081/8248/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="55" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/D8WaYFxSEv.png",RBM TV 1
+#EXTINF:-1 tvg-chno="58" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/D8WaYFxSEv.png",RBM TV 1
 https://stmv.streamingvip.click:443/television/television/chunklist_w358875487.m3u8
 
-#EXTINF:-1 tvg-chno="56" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/D8WaYFxSEv.png",RBM TV 2
+#EXTINF:-1 tvg-chno="59" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/D8WaYFxSEv.png",RBM TV 2
 https://stmv.streamingvip.click:443/rbmtv2/rbmtv2/chunklist_w649736912.m3u8
 
 #EXTINF:-1 tvg-chno="60" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png",VM Latino
