@@ -526,6 +526,87 @@ http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/138841.m3u8
 #EXTINF:-1 tvg-chno="230" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1608.png",Fox Sports 2 MX
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/44074.m3u8
 
+#EXTINF:-1 tvg-chno="231" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg"Tudn
+http://45.228.234.77:4430/play/tudn
+
+#EXTINF:-1 tvg-chno="232" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg"Espn
+http://177.234.242.105:50032/play/a03j
+
+#EXTINF:-1 tvg-chno="233" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg"Espn 2
+http://177.234.242.105:50032/play/a037
+
+#EXTINF:-1 tvg-chno="234" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg"Espn 2 Latín 
+http://177.234.242.105:50032/play/a03i
+
+#EXTINF:-1 tvg-chno="235" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg"Espn 3
+http://177.234.242.105:50032/play/a069
+
+#EXTINF:-1 tvg-chno="236" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg"Espn 4
+http://177.234.242.105:50032/play/a04g
+
+#EXTINF:-1 tvg-chno="237" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg"Espn CO
+http://177.234.242.105:50032/play/a07w
+
+#EXTINF:-1 tvg-chno="238" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg"Espn Extra HD
+http://177.234.242.105:50032/play/a00i
+
+#EXTINF:-1 tvg-chno="239" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg" Espn HD
+http://177.234.242.105:50032/play/a09a
+
+#EXTINF:-1 tvg-chno="240" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg"El Canal del Fútbol HD
+http://177.234.242.105:50032/play/a09f
+
+#EXTINF:-1 tvg-chno="241" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg"Fox Sports 2 
+http://177.234.242.105:50032/play/a042
+
+#EXTINF:-1 tvg-chno="242" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg"Fox Sports 3 
+http://177.234.242.105:50032/play/a043
+
+#EXTINF:-1 tvg-chno="243" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg"GolTv HD
+http://177.234.242.105:50032/play/a09c
+
+#EXTINF:-1 tvg-chno="244" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg"TNT Sports HD
+http://45.167.194.11:8001/play/a01e
+
+#EXTINF:-1 tvg-chno="245" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg"Win Sports 
+http://45.167.194.11:8001/play/a020
+
+#EXTINF:-1 tvg-chno="246" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg"Espn
+http://190.43.232.60:8000/play/a09i
+
+#EXTINF:-1 tvg-chno="247" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg"Espn Latín 
+http://190.43.232.60:8000/play/a09h
+
+#EXTINF:-1 tvg-chno="248" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg"Espn 3
+http://190.43.232.60:8000/play/a08k
+
+#EXTINF:-1 tvg-chno="249" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg"Espn 4
+http://190.43.232.60:8000/play/a07w
+
+#EXTINF:-1 tvg-chno="250" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg"Espn 4 HD
+http://190.43.232.60:8000/play/a06w
+
+#EXTINF:-1 tvg-chno="251" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg"Espn Extra HD
+http://190.43.232.60:8000/play/a076
+
+#EXTINF:-1 tvg-chno="252" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg"Espn HD
+http://190.43.232.60:8000/play/a068
+
+#EXTINF:-1 tvg-chno="253" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg"Fox Sports 1 HD
+http://190.43.232.60:8000/play/a06l
+
+#EXTINF:-1 tvg-chno="254" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg"Fox Sports 2 HD
+http://190.43.232.60:8000/play/a06x
+
+#EXTINF:-1 tvg-chno="255" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg"Fox Sports 2
+http://190.43.232.60:8000/play/a09q
+
+#EXTINF:-1 tvg-chno="256" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg"Fox Sports 3
+http://190.43.232.60:8000/play/a09r
+
+#EXTINF:-1 tvg-chno="257" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg"Movistar Deportes HD
+http://190.43.232.60:8000/play/a065
+
 #EXTINF:-1 tvg-chno="290" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 1
 https://srv5.zcast.com.br:443/simpsons/simpsons/chunklist_w469095767.m3u8
 
