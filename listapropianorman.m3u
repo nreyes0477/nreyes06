@@ -520,6 +520,12 @@ http://181.78.1.217:8146/play/a07j
 #EXTINF:-1 tvg-chno="218" tvg-logo="https://www.directv.cl/content/dam/public-sites/channels/624.png",Espn 4 HD
 http://45.5.119.202:8000/play/a029/index.m3u8
 
+#EXTINF:-1 tvg-chno="219" tvg-logo="https://www.directv.cl/content/dam/public-sites/channels/607.png",Fox Sports MX
+http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/138841.m3u8
+
+#EXTINF:-1 tvg-chno="220" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1608.png",Fox Sports 2 MX
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/44074.m3u8
+
 #EXTINF:-1 tvg-chno="290" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 1
 https://srv5.zcast.com.br:443/simpsons/simpsons/chunklist_w469095767.m3u8
 
