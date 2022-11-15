@@ -179,7 +179,7 @@ http://tv2.ticosmedia.com:1935/canal3/canal3/playlist.m3u8
 http://vip.hispanotv.org:80/live/acevedo22/acevedo22/283548.m3u8
 
 #EXTINF:-1 tvg-chno="69" tvg-logo="https://www.nicepng.com/png/detail/206-2060818_logo-top-latino-png-top-latino-tv-logo.png",Top Latino TV
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/chunklist_w1499609849.m3u8
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latinotv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="70" tvg-logo="https://www.coolstreaming.us/img/ch/image20830898359.jpg",A son de Salsa
 https://cloud01.mipaneltv.xyz:443/asondesalsa/asondesalsa/chunklist_w435560915.m3u8
