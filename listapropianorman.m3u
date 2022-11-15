@@ -508,16 +508,16 @@ http://vip.hispanotv.org:80/live/acevedo22/acevedo22/151543.m3u8
 #EXTINF:-1 tvg-chno="210" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 HD Opc 2
 http://160.20.164.171:8001/play/a07d
 
-#EXTINF:-1 tvg-chno="215" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn MX HD
+#EXTINF:-1 tvg-chno="215" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/621.png",Espn MX HD
 http://181.78.1.217:8146/play/a07i
 
-#EXTINF:-1 tvg-chno="216" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn 2 MX HD
+#EXTINF:-1 tvg-chno="216" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/622.png",Espn 2 MX HD
 http://181.78.1.217:8146/play/a07k
 
-#EXTINF:-1 tvg-chno="217" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn 3 MX HD
+#EXTINF:-1 tvg-chno="217" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/623.png",Espn 3 MX HD
 http://181.78.1.217:8146/play/a07j
 
-#EXTINF:-1 tvg-chno="218" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn 4 HD
+#EXTINF:-1 tvg-chno="218" tvg-logo="https://www.directv.cl/content/dam/public-sites/channels/624.png",Espn 4 HD
 http://45.5.119.202:8000/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-chno="290" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 1
