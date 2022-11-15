@@ -410,7 +410,7 @@ http://45.190.185.210:8000/play/a08a
 http://45.190.185.210:8000/play/a08u
 
 #EXTINF:-1 tvg-chno="160" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cnn-en-espanol_m.png",CNN Español 
-http://45.5.117.172:8000/play/a0gi/index.m3u8
+http://8.242.187.233:5800/play/a0bv/index.m3u8
 
 #EXTINF:-1 tvg-chno="161" tvg-logo="https://cdn.mitvstatic.com/channels/ar_france-24-espanol_m.png",France 24 HD
 http://8.243.108.57:8000/play/a02v
@@ -689,31 +689,31 @@ http://8.242.187.233:5800/play/a0aw/index.m3u8
 http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/30347.m3u8
 
 #EXTINF:-1 tvg-chno="318" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png",Paramount HD
-http://45.5.117.172:8000/play/a0kl/index.m3u8
+http://8.242.187.233:5800/play/a08o/index.m3u8
 
 #EXTINF:-1 tvg-chno="320" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox_m.png",Star Channel HD
-http://45.5.117.172:8000/play/a0hn/index.m3u8
+http://8.242.187.233:5800/play/a08v/index.m3u8
 
 #EXTINF:-1 tvg-chno="321" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png",Sony HD
-http://45.5.117.172:8000/play/a0hp/index.m3u8
+http://8.242.187.233:5800/play/a08x/index.m3u8
 
 #EXTINF:-1 tvg-chno="322" tvg-logo="https://cdn.mitvstatic.com/channels/mx_space_m.png",Space HD
-http://45.5.117.172:8000/play/a0iz/index.m3u8
+http://8.242.187.233:5800/play/a09y/index.m3u8
 
 #EXTINF:-1 tvg-chno="323" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png",Studio Universal HD
-http://45.5.117.172:8000/play/a0go/index.m3u8
+http://8.242.187.233:5800/play/a08a/index.m3u8
 
 #EXTINF:-1 tvg-chno="324" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tnt_m.png",TNT HD
-http://45.5.117.172:8000/play/a0hu/index.m3u8
+http://8.242.187.233:5800/play/a08i/index.m3u8
 
 #EXTINF:-1 tvg-chno="325" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png",TNT Series HD
-http://45.5.117.172:8000/play/a0km/index.m3u8
+http://8.242.187.233:5800/play/a08p/index.m3u8
 
 #EXTINF:-1 tvg-chno="326" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner_m.png",Warner Channel HD
-http://45.5.117.172:8000/play/a0ho/index.m3u8
+http://8.242.187.233:5800/play/a08w/index.m3u8
 
 #EXTINF:-1 tvg-chno="329" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png",Universal Channel HD
-http://45.5.117.172:8000/play/a0ih/index.m3u8
+http://8.242.187.233:5800/play/a0a2/index.m3u8
 
 #EXTINF:-1 tvg-chno="330" tvg-logo="https://ayuda.tigo.com.bo/hc/article_attachments/4707794286227/mceclip6.png",Universal Cinema HD
 http://181.175.41.170:8000/play/a0gx
