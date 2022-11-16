@@ -604,7 +604,7 @@ http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/138841.m3u8
 #EXTINF:-1 tvg-chno="246" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1608.png",Fox Sports 2 MX
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/44074.m3u8
 
-#EXTINF:-1 tvg-chno="247" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Tudn
+#EXTINF:-1 tvg-chno="247" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TUDN 
 http://45.228.234.77:4430/play/tudn
 
 #EXTINF:-1 tvg-chno="248" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn
