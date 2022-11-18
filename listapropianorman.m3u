@@ -595,6 +595,33 @@ http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
 #EXTINF:-1 tvg-chno="240" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Unitel - Bo)
 http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/2194.m3u8
 
+#EXTINF:-1 tvg-chno="243" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/621.png",Espn MX HD
+http://181.78.1.217:8146/play/a07i
+
+#EXTINF:-1 tvg-chno="244" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/622.png",Espn 2 MX HD
+http://181.78.1.217:8146/play/a07k
+
+#EXTINF:-1 tvg-chno="245" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/623.png",Espn 3 MX HD
+http://181.78.1.217:8146/play/a07j
+
+#EXTINF:-1 tvg-chno="246" tvg-logo="https://www.directv.cl/content/dam/public-sites/channels/624.png",Espn 4 MX HD
+http://45.5.119.202:8000/play/a029/index.m3u8
+
+#EXTINF:-1 tvg-chno="247" tvg-logo="https://www.directv.cl/content/dam/public-sites/channels/607.png",Fox Sports MX
+http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/138841.m3u8
+
+#EXTINF:-1 tvg-chno="248" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1608.png",Fox Sports 2 MX
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/44074.m3u8
+
+#EXTINF:-1 tvg-chno="250" tvg-logo="https://www.holamujer.cl/wp-content/uploads/2020/06/20-FOX-SPORTS-PREMIUM-768x530.png",Fox Sports Premium MX
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53541.m3u8
+
+#EXTINF:-1 tvg-chno="251" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png",TUDN 
+http://45.228.234.77:4430/play/tudn
+
+#EXTINF:-1 tvg-chno="252" tvg-logo="https://www.sopitas.com/wp-content/uploads/2022/07/precio-lanzamiento-vix-plus.jpg",Zona TUDN - VIX
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/75036.m3u8
+
 #EXTINF:-1 tvg-chno="253" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn
 http://177.234.242.105:50032/play/a03j
 
