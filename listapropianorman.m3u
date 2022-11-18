@@ -380,40 +380,40 @@ https://v-px.mybtv.net:443/live/39/1920x1080.m3u8
 https://nbculocallive.akamaized.net:443/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 
 #EXTINF:-1 tvg-chno="148" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg",E! Entertainment HD
-http://45.5.117.172:8000/play/a0gr/index.m3u8
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/22694.m3u8
 
 #EXTINF:-1 tvg-chno="149" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-id_m.png",ID Investigation HD
-http://45.190.185.210:8000/play/a0bi
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/38492.m3u8
 
 #EXTINF:-1 tvg-chno="150" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png",History Channel HD
-http://45.5.117.172:8000/play/a0gk/index.m3u8
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/3564.m3u8
 
 #EXTINF:-1 tvg-chno="151" tvg-logo="https://alexgarci.com/iqc/wp-content/uploads/2022/02/LOGO-H2.png",History 2 HD
-http://45.5.117.172:8000/play/a0jp/index.m3u8
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/30352.m3u8
 
 #EXTINF:-1 tvg-chno="152" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo HD
-http://45.5.117.172:8000/play/a0kk/index.m3u8
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/30361.m3u8
 
 #EXTINF:-1 tvg-chno="153" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png",Animal Planet HD
-http://8.243.108.57:8000/play/a02g
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/34380.m3u8
 
 #EXTINF:-1 tvg-chno="154" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery_m.png",Discovery Channel HD
-http://45.190.185.210:8000/play/a08t
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/3313.m3u8
 
 #EXTINF:-1 tvg-chno="155" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health HD
-http://45.190.185.210:8000/play/a08b
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/38469.m3u8
 
 #EXTINF:-1 tvg-chno="156" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png",Discovery Theater HD
-http://45.190.185.210:8000/play/a08a
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/30324.m3u8
 
 #EXTINF:-1 tvg-chno="157" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery World HD
-http://45.190.185.210:8000/play/a08u
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/3309.m3u8
 
 #EXTINF:-1 tvg-chno="160" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cnn-en-espanol_m.png",CNN Español 
 http://8.242.187.233:5800/play/a0bv/index.m3u8
 
 #EXTINF:-1 tvg-chno="161" tvg-logo="https://cdn.mitvstatic.com/channels/ar_france-24-espanol_m.png",France 24 HD
-http://8.243.108.57:8000/play/a02v
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53301.m3u8
 
 #EXTINF:-1 tvg-chno="162" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-gourmet_m.png",El Gourmet HD
 http://45.190.185.210:8000/play/a0ae
