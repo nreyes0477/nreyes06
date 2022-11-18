@@ -419,25 +419,25 @@ http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53301.m3u8
 http://45.190.185.210:8000/play/a0ae
 
 #EXTINF:-1 tvg-chno="163" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png",Comedy Central HD
-http://8.243.108.57:8000/play/a015
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/30319.m3u8
 
 #EXTINF:-1 tvg-chno="164" tvg-logo="https://i4.hurimg.com/i/hurriyet/75/600x338/5dbd043ed3806c1dec53824d.jpg",Kanal Drama HD
-http://8.243.108.57:8000/play/a02a
+http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/253219.m3u8
 
 #EXTINF:-1 tvg-chno="165" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar%2B_Logo.png/640px-Movistar%2B_Logo.png",Movistar Plus
 http://8.243.108.57:8000/play/a03r
 
 #EXTINF:-1 tvg-chno="166" tvg-logo="https://cdn.mitvstatic.com/channels/ar_pasiones_m.png",Pasiones HD
-http://45.5.117.172:8000/play/a0kq/index.m3u8
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/1495.m3u8
 
 #EXTINF:-1 tvg-chno="167" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sun_channel-mediano.png",Sun Channel HD
 http://190.61.102.67:444/play/a023
 
 #EXTINF:-1 tvg-chno="168" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tru-tv_m.png",Trutv HD
-http://187.13.81.65:4000/play/a08s
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/3110.m3u8
 
 #EXTINF:-1 tvg-chno="170" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cartoon-network_m.png",Cartoon Network HD
-http://45.5.117.172:8000/play/a0l0/index.m3u8
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/30316.m3u8
 
 #EXTINF:-1 tvg-chno="171" tvg-logo="https://cdn.mitvstatic.com/channels/ar_disney_m.png",Disney Channel HD
 http://45.190.185.210:8000/play/a0be
