@@ -11,7 +11,7 @@ https://d3bgcstab9qhdz.cloudfront.net:443/hls/canal4_720.m3u8
 http://190.7.192.164:8002/play/s11
 
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/670px-Teletica_Logo.png",Teletica
-http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/18621.m3u8
+http://br0ss.xyz:8090/live/Juanpa/Juanpa123/17044.m3u8
 
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://pbs.twimg.com/profile_images/1510311834800246787/sfWgWmqk.jpg",Canal 8 Multimedios
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
@@ -531,6 +531,15 @@ http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/103998.m3u8
 
 #EXTINF:-1 tvg-chno="218" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Movistar Plus - Es)
 http://br0ss.xyz:8090/live/Juanpa/Juanpa123/112.m3u8
+
+#EXTINF:-1 tvg-chno="219" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (TNT Sports - Arg)
+http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/166174.m3u8
+
+#EXTINF:-1 tvg-chno="220" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Fox Deportes)
+http://vip.hispanotv.org:80/live/acevedo22/acevedo22/333104.m3u8
+
+#EXTINF:-1 tvg-chno="221" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Gol TV)
+http://vip.hispanotv.org:80/live/acevedo22/acevedo22/333122.m3u8
 
 #EXTINF:-1 tvg-chno="223" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Sky Sports Liga Esp - Mex)
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/65255.m3u8
