@@ -535,10 +535,10 @@ http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99677.m3u8
 #EXTINF:-1 tvg-chno="219" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (TNT Sports - Arg)
 http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/166174.m3u8
 
-#EXTINF:-1 tvg-chno="220" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Fox Deportes)
+#EXTINF:-1 tvg-chno="220" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (TVC - Hn)
 http://vip.hispanotv.org:80/live/acevedo22/acevedo22/333104.m3u8
 
-#EXTINF:-1 tvg-chno="221" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Gol TV)
+#EXTINF:-1 tvg-chno="221" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Gol TV - Es)
 http://vip.hispanotv.org:80/live/acevedo22/acevedo22/333122.m3u8
 
 #EXTINF:-1 tvg-chno="223" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Sky Sports Liga Esp - Mex)
@@ -548,7 +548,7 @@ http://45.90.105.74:25461/live/bud-345182/c39d1f9282/65255.m3u8
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/39090.m3u8
 
 #EXTINF:-1 tvg-chno="225" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (TV Pública - Arg)
-http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99765.m3u8
+http://tvstarlife.com:25461/live/geovany/geovany/338.m3u8
 
 #EXTINF:-1 tvg-chno="226" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Telemundo - USA)
 https://v-ny.mybtv.net:443/live/659/1920x1080.m3u8
