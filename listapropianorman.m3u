@@ -517,8 +517,8 @@ http://45.90.105.74:25461/live/bud-345182/c39d1f9282/13893.m3u8
 #EXTINF:-1 tvg-chno="213" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (TyC Sports - Arg)
 http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99767.m3u8
 
-#EXTINF:-1 tvg-chno="214" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Tigo Sports - Gt)
-http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/243066.m3u8
+#EXTINF:-1 tvg-chno="214" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Tigo Sports - Bo)
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/37853.m3u8
 
 #EXTINF:-1 tvg-chno="215" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (TUDN - Mex)
 http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/243078.m3u8
