@@ -11,7 +11,7 @@ https://d3bgcstab9qhdz.cloudfront.net:443/hls/canal4_720.m3u8
 http://190.7.192.164:8002/play/s11
 
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/670px-Teletica_Logo.png",Teletica
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/39357.m3u8
+http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/267923.m3u8
 
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://pbs.twimg.com/profile_images/1510311834800246787/sfWgWmqk.jpg",Canal 8 Multimedios
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
@@ -515,7 +515,7 @@ http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99788.m3u8
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/13893.m3u8
 
 #EXTINF:-1 tvg-chno="213" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (TyC Sports - Arg)
-http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99767.m3u8
+http://tvstarlife.com:25461/live/geovany/geovany/27479.m3u8
 
 #EXTINF:-1 tvg-chno="214" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Tigo Sports - Bo)
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/37853.m3u8
@@ -616,10 +616,10 @@ http://45.90.105.74:25461/live/bud-345182/c39d1f9282/75036.m3u8
 #EXTINF:-1 tvg-chno="252" tvg-logo="https://images.squarespace-cdn.com/content/v1/58597a19e58c62ba7fa48bf9/1626211994542-XUWFSKZ5AW26W6RBLXOA/1200px-Claro_Sports_logo.svg.png",Claro Sports MX
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/51388.m3u8
 
-#EXTINF:-1 tvg-chno="253" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Sky Sports Liga Esp - Mex)
+#EXTINF:-1 tvg-chno="253" tvg-logo="https://deportesinc.com/depsite/wp-content/uploads/2017/01/Sky-Sports-Logos-CMYK.png",Sky Sports Liga Española 
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/65255.m3u8
 
-#EXTINF:-1 tvg-chno="254" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Sky Sports Liga Ing - Mex)
+#EXTINF:-1 tvg-chno="254" tvg-logo="https://deportesinc.com/depsite/wp-content/uploads/2017/01/Sky-Sports-Logos-CMYK.png",Sky Sports Liga Inglesa
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/39090.m3u8
 
 #EXTINF:-1 tvg-chno="290" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 1
