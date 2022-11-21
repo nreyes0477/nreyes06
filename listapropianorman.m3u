@@ -281,7 +281,7 @@ http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99745.m3u8
 http://tvstarlife.com:25461/live/geovany/geovany/313.m3u8
 
 #EXTINF:-1 tvg-chno="106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png",Tv Max Panamá 
-https://bcovlive-a.akamaihd.net:443/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/34919.m3u8
 
 #EXTINF:-1 tvg-chno="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Azteca_Uno_logo.webp/245px-Azteca_Uno_logo.webp.png",Azteca 1
 http://tvstarlife.com:25461/live/geovany/geovany/27241.m3u8
