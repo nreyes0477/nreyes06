@@ -347,7 +347,7 @@ http://45.90.105.74:25461/live/bud-345182/c39d1f9282/1769.m3u8
 https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="131" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png",NBC Universo
-http://br0ss.xyz:8090/live/Juanpa/Juanpa123/16225.m3u8
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/1939.m3u8
 
 #EXTINF:-1 tvg-chno="132" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión NY
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/38527.m3u8
@@ -541,12 +541,6 @@ http://vip.hispanotv.org:80/live/acevedo22/acevedo22/333104.m3u8
 #EXTINF:-1 tvg-chno="221" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Gol TV - Es)
 http://vip.hispanotv.org:80/live/acevedo22/acevedo22/333122.m3u8
 
-#EXTINF:-1 tvg-chno="223" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Sky Sports Liga Esp - Mex)
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/65255.m3u8
-
-#EXTINF:-1 tvg-chno="224" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Sky Sports Liga Ing - Mex)
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/39090.m3u8
-
 #EXTINF:-1 tvg-chno="225" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (TV Pública - Arg)
 http://tvstarlife.com:25461/live/geovany/geovany/338.m3u8
 
@@ -575,25 +569,22 @@ http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99697.m3u8
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/83667.m3u8
 
 #EXTINF:-1 tvg-chno="234" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (NBC universo - USA)
-http://br0ss.xyz:8090/live/Juanpa/Juanpa123/16225.m3u8
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/1939.m3u8
 
 #EXTINF:-1 tvg-chno="235" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Latina - Pe)
 http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99673.m3u8
 
-#EXTINF:-1 tvg-chno="236" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Tvmax - Pa)
-https://bcovlive-a.akamaihd.net:443/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
+#EXTINF:-1 tvg-chno="236" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (RPC - Pa)
+http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/227825.m3u8
 
 #EXTINF:-1 tvg-chno="237" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (TVE - Es)
-http://br0ss.xyz:8090/live/Juanpa/Juanpa123/18913.m3u8
+http://tvstarlife.com:25461/live/geovany/geovany/534.m3u8
 
 #EXTINF:-1 tvg-chno="238" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Telemundo -  Pr)
 https://nbculocallive.akamaized.net:443/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 
 #EXTINF:-1 tvg-chno="239" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Teledoce - Uy)
 http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
-
-#EXTINF:-1 tvg-chno="240" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Unitel - Bo)
-http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/240236.m3u8
 
 #EXTINF:-1 tvg-chno="243" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/621.png",Espn MX HD
 http://181.78.1.217:8146/play/a07i
@@ -625,83 +616,11 @@ http://45.90.105.74:25461/live/bud-345182/c39d1f9282/75036.m3u8
 #EXTINF:-1 tvg-chno="252" tvg-logo="https://images.squarespace-cdn.com/content/v1/58597a19e58c62ba7fa48bf9/1626211994542-XUWFSKZ5AW26W6RBLXOA/1200px-Claro_Sports_logo.svg.png",Claro Sports MX
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/51388.m3u8
 
-#EXTINF:-1 tvg-chno="253" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn
-http://177.234.242.105:50032/play/a03j
+#EXTINF:-1 tvg-chno="253" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Sky Sports Liga Esp - Mex)
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/65255.m3u8
 
-#EXTINF:-1 tvg-chno="254" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn 2
-http://177.234.242.105:50032/play/a037
-
-#EXTINF:-1 tvg-chno="255" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn 2 Latín 
-http://177.234.242.105:50032/play/a03i
-
-#EXTINF:-1 tvg-chno="256" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn 3
-http://177.234.242.105:50032/play/a069
-
-#EXTINF:-1 tvg-chno="257" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn 4
-http://177.234.242.105:50032/play/a04g
-
-#EXTINF:-1 tvg-chno="258" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn CO
-http://177.234.242.105:50032/play/a07w
-
-#EXTINF:-1 tvg-chno="259" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn Extra HD
-http://177.234.242.105:50032/play/a00i
-
-#EXTINF:-1 tvg-chno="260" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn HD
-http://177.234.242.105:50032/play/a09a
-
-#EXTINF:-1 tvg-chno="261" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",El Canal del Fútbol HD
-http://177.234.242.105:50032/play/a09f
-
-#EXTINF:-1 tvg-chno="262" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Fox Sports 2 
-http://177.234.242.105:50032/play/a042
-
-#EXTINF:-1 tvg-chno="263" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Fox Sports 3 
-http://177.234.242.105:50032/play/a043
-
-#EXTINF:-1 tvg-chno="264" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",GolTv HD
-http://177.234.242.105:50032/play/a09c
-
-#EXTINF:-1 tvg-chno="265" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TNT Sports HD
-http://45.167.194.11:8001/play/a01e
-
-#EXTINF:-1 tvg-chno="266" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Win Sports 
-http://45.167.194.11:8001/play/a020
-
-#EXTINF:-1 tvg-chno="267" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn
-http://190.43.232.60:8000/play/a09i
-
-#EXTINF:-1 tvg-chno="268" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn Latín 
-http://190.43.232.60:8000/play/a09h
-
-#EXTINF:-1 tvg-chno="269" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn 3
-http://190.43.232.60:8000/play/a08k
-
-#EXTINF:-1 tvg-chno="270" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn 4
-http://190.43.232.60:8000/play/a07w
-
-#EXTINF:-1 tvg-chno="271" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn 4 HD
-http://190.43.232.60:8000/play/a06w
-
-#EXTINF:-1 tvg-chno="272" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn Extra HD
-http://190.43.232.60:8000/play/a076
-
-#EXTINF:-1 tvg-chno="273" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Espn HD
-http://190.43.232.60:8000/play/a068
-
-#EXTINF:-1 tvg-chno="274" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Fox Sports 1 HD
-http://190.43.232.60:8000/play/a06l
-
-#EXTINF:-1 tvg-chno="275" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Fox Sports 2 HD
-http://190.43.232.60:8000/play/a06x
-
-#EXTINF:-1 tvg-chno="276" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Fox Sports 2
-http://190.43.232.60:8000/play/a09q
-
-#EXTINF:-1 tvg-chno="277" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Fox Sports 3
-http://190.43.232.60:8000/play/a09r
-
-#EXTINF:-1 tvg-chno="278" tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Movistar Deportes HD
-http://190.43.232.60:8000/play/a065
+#EXTINF:-1 tvg-chno="254" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Sky Sports Liga Ing - Mex)
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/39090.m3u8
 
 #EXTINF:-1 tvg-chno="290" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 1
 https://srv5.zcast.com.br:443/simpsons/simpsons/chunklist_w469095767.m3u8
