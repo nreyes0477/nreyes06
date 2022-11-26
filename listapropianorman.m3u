@@ -11,7 +11,7 @@ https://d3bgcstab9qhdz.cloudfront.net:443/hls/canal4_720.m3u8
 http://190.7.192.164:8002/play/s11
 
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/670px-Teletica_Logo.png",Teletica
-http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/267923.m3u8
+http://vip.hispanotv.org:80/live/acevedo22/acevedo22/333109.m3u8
 
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://pbs.twimg.com/profile_images/1510311834800246787/sfWgWmqk.jpg",Canal 8 Multimedios
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
@@ -248,10 +248,10 @@ http://vip.hispanotv.org:80/live/acevedo22/acevedo22/151381.m3u8
 http://144.217.15.233:25461/streaming/clients_normal.php?username=malotv&password=gratis&stream=4823&extension=m3u8&token=Q0FYAkZRGwoVBwYNXgdQUgdWVwFXUVUABgMAVlAJAwNdVlFWAAgNVgITGBsVR0ZVAw48W1EXXwEKB1JPQERBB0o8WQcXAxsBAAEADVECFhxAFwpfUBdfBR4XEQoGEwhAClUDWwQbFRJSSUBcFF1VXD0HBkRcVgAXCFsUDw4dEA1WPFQGWFhXVBULFglEHxZZERNBCFtACVkeFwMKFkNTFl1BCkENCQASGxNXVhNdQEIbQVkQdmdHGRBQGRcHX0ELVw0SWRdUCkUPExgbD0BrQgcQF0BQVAhQQBdbQVMTHkBVAkg8VlZXXlJSQFAJXUcSWEFTEBkXCFpcXBUMEG5CC1xBCkEGAA4GFUw=
 
 #EXTINF:-1 tvg-chno="94" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe FHD
-http://br0ss.xyz:8090/live/Juanpa/Juanpa123/17044.m3u8
+http://streamgo.vip:8008/live/joaquin04/joaquin04/158968.m3u8
 
 #EXTINF:-1 tvg-chno="95" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe HD
-http://br0ss.xyz:8090/live/Juanpa/Juanpa123/126179.m3u8
+http://axr.life:80/live/testepainelp2p/aqzFw8hBeN/1061366.m3u8
 
 #EXTINF:-1 tvg-chno="96" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png",Telefe (INT)
 http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/81231.m3u8
@@ -377,7 +377,7 @@ https://v-ca.mybtv.net:443/live/140/1920x1080.m3u8
 https://v-px.mybtv.net:443/live/39/1920x1080.m3u8
 
 #EXTINF:-1 tvg-chno="145" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/telemundo-puerto-rico-en-vivo-1391.png",Telemundo Puerto Rico 
-https://nbculocallive.akamaized.net:443/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/38849.m3u8
 
 #EXTINF:-1 tvg-chno="148" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg",E! Entertainment HD
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/22694.m3u8
@@ -539,7 +539,7 @@ http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99673.m3u8
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/37853.m3u8
 
 #EXTINF:-1 tvg-chno="221" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (TUDN - Mex)
-http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/243078.m3u8
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/88379.m3u8
 
 #EXTINF:-1 tvg-chno="222" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Movistar Deportes - Pe)
 http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99677.m3u8
@@ -563,7 +563,7 @@ http://vip.hispanotv.org:80/live/acevedo22/acevedo22/150895.m3u8
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/37809.m3u8
 
 #EXTINF:-1 tvg-chno="230" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Caracol - Co)
-http://streamgo.vip:8008/live/joaquin04/joaquin04/167280.m3u8
+http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/267923.m3u8
 
 #EXTINF:-1 tvg-chno="231" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (RCN - Co)
 http://streamgo.vip:8008/live/joaquin04/joaquin04/159053.m3u8
@@ -581,7 +581,7 @@ http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/227825.m3u8
 http://tvstarlife.com:25461/live/geovany/geovany/534.m3u8
 
 #EXTINF:-1 tvg-chno="238" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Telemundo -  Pr)
-https://nbculocallive.akamaized.net:443/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/38849.m3u8
 
 #EXTINF:-1 tvg-chno="239" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Teledoce - Uy)
 http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
