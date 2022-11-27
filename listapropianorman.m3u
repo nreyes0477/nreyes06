@@ -236,7 +236,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chun
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1246759008.m3u8
 
 #EXTINF:-1 tvg-chno="90" tvg-logo="https://www.clarin.com/img/2022/09/27/gran-hermano-2022-el-reality___9FXtYKoum_640x361__1.jpg",Gran Hermano Arg 24/7
-https://siloh-latam-aka.plutotv.net/lilo/production/GranHermano/J8473924d9c83s484758d9485603s8/master.m3u8
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee88livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
 #EXTINF:-1 tvg-chno="91" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",Canal 13 FHD
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
@@ -563,7 +563,7 @@ http://vip.hispanotv.org:80/live/acevedo22/acevedo22/150895.m3u8
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/37809.m3u8
 
 #EXTINF:-1 tvg-chno="230" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Caracol - Co)
-http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/267923.m3u8
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/15125.m3u8
 
 #EXTINF:-1 tvg-chno="231" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (RCN - Co)
 http://streamgo.vip:8008/live/joaquin04/joaquin04/159053.m3u8
@@ -586,8 +586,11 @@ http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/38849.m3u8
 #EXTINF:-1 tvg-chno="239" tvg-logo="https://thumbs.dreamstime.com/b/kharkiv-ukraine-july-illustrative-editorial-qatar-logo-soccer-ball-goal-fifa-world-cup-231514491.jpg",Qatar 2022 (Teledoce - Uy)
 http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
 
-#EXTINF:-1 tvg-chno="243" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/621.png",Espn MX HD
+#EXTINF:-1 tvg-chno="242" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/621.png",Espn MX HD
 http://181.78.1.217:8146/play/a07i
+
+#EXTINF:-1 tvg-chno="243" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/621.png",Espn MX HD
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/37811.m3u8
 
 #EXTINF:-1 tvg-chno="244" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/622.png",Espn 2 MX HD
 http://181.78.1.217:8146/play/a07k
