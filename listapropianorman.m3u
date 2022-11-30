@@ -236,7 +236,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chun
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1246759008.m3u8
 
 #EXTINF:-1 tvg-chno="90" tvg-logo="https://www.clarin.com/img/2022/09/27/gran-hermano-2022-el-reality___9FXtYKoum_640x361__1.jpg",Gran Hermano Arg 24/7
-https://siloh-latam-aka.plutotv.net:443/lilo/production/MaradonaSinCortes/LATAM/master_1.m3u8
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee88livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
 #EXTINF:-1 tvg-chno="91" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",Canal 13 FHD
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
@@ -248,10 +248,10 @@ http://vip.hispanotv.org:80/live/acevedo22/acevedo22/151381.m3u8
 http://144.217.15.233:25461/streaming/clients_normal.php?username=malotv&password=gratis&stream=4823&extension=m3u8&token=Q0FYAkZRGwoVBwYNXgdQUgdWVwFXUVUABgMAVlAJAwNdVlFWAAgNVgITGBsVR0ZVAw48W1EXXwEKB1JPQERBB0o8WQcXAxsBAAEADVECFhxAFwpfUBdfBR4XEQoGEwhAClUDWwQbFRJSSUBcFF1VXD0HBkRcVgAXCFsUDw4dEA1WPFQGWFhXVBULFglEHxZZERNBCFtACVkeFwMKFkNTFl1BCkENCQASGxNXVhNdQEIbQVkQdmdHGRBQGRcHX0ELVw0SWRdUCkUPExgbD0BrQgcQF0BQVAhQQBdbQVMTHkBVAkg8VlZXXlJSQFAJXUcSWEFTEBkXCFpcXBUMEG5CC1xBCkEGAA4GFUw=
 
 #EXTINF:-1 tvg-chno="94" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe FHD
-http://170.83.242.15:5350/play/a00b
+http://n2086.securepoint.io:25461/live/vod51545as/6G2Zasf0NYVS/56534.m3u8
 
 #EXTINF:-1 tvg-chno="95" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe HD
-http://200.41.79.165:8000/play/a04p/index.m3u8
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w2127147547.m3u8
 
 #EXTINF:-1 tvg-chno="96" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png",Telefe (INT)
 http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/81231.m3u8
