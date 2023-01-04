@@ -188,10 +188,10 @@ https://cloud01.mipaneltv.xyz:443/asondesalsa/asondesalsa/chunklist_w435560915.m
 https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/chunklist_w1968389713.m3u8
 
 #EXTINF:-1 tvg-chno="72" tvg-logo="https://platcon.tv/img/p/1/1/9/119-home_default.jpg",TV urban moon tropical
-https://srv.panelcast.net/urbantv/urbantv/playlist.m3u8
+https://srv.tropicalmoonmedia.com:443/urbantvnetott/urbantvnetott/chunklist_w736243455.m3u8
 
 #EXTINF:-1 tvg-chno="73" tvg-logo="https://platcon.tv/img/p/1/1/5/115-large_default.jpg",TV salsa moon tropical
-https://srv.panelcast.net:443/musictv/musictv/chunklist_w1084927877.m3u8
+https://srv.tropicalmoonmedia.com:443/musictv/musictv/chunklist_w823002211.m3u8
 
 #EXTINF:-1 tvg-chno="74" tvg-logo="https://www.getmeradio.com/stations/voiceoverradiotv-2278/logos/512x512.png",Voice Over Radio TV
 http://vip.hispanotv.org:80/live/acevedo22/acevedo22/283551.m3u8
