@@ -131,7 +131,7 @@ http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/187947.m3u8
 https://srv.panelcast.net/humor247/humor247/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://dreikotv.online/wp-content/uploads/2021/09/cropped-logo-dreiko-arts-TV-2020.png",Dreiko Tv CR
-https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
+https://cloudvideo.servers10.com:8081/8242/tracks-v1a1/rewind-3600.m3u8
 
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://www.doutico.com/wpimages/wpe9343c85_05_06.jpg",Canal Pura Vida
 https://cp.panelchs.com:1936/84598/84598/chunklist_w1217069703.m3u8
@@ -144,12 +144,6 @@ https://cloudvideo.servers10.com:8081/8248/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="55" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2ZIwtfmE-NPJEVdYu8woHVBjdThQjfUiH9Kw5gYv3mD9tq8c8kccPctR4scUfd1_fkfxBIMsCn8aR62Vp-XzLfgX8BkT7HeHUUBWk7fMhbYkD0zIqLuumhE_rtT9UDqBeHgojkIrCfy9QQZ8z_xcDFCXdeq3P7bnpgCzALxaaOFLt7j4tPKjBg9SAJA/s400/CANAL%2010%20SPORTS%20FONDO%20NEGRO.png",Canal 10 Sports CR
 https://cloudvideo.servers10.com:8081/8190/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-chno="58" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/D8WaYFxSEv.png",RBM TV 1
-https://stmv.streamingvip.click:443/television/television/chunklist_w358875487.m3u8
-
-#EXTINF:-1 tvg-chno="59" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/D8WaYFxSEv.png",RBM TV 2
-https://stmv.streamingvip.click:443/rbmtv2/rbmtv2/chunklist_w649736912.m3u8
 
 #EXTINF:-1 tvg-chno="60" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
