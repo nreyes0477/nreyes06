@@ -121,9 +121,6 @@ https://cloudvideo.servers10.com:8081/8092/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="48" tvg-logo="https://geomedios.fcs.ucr.ac.cr/wp-content/uploads/2019/07/SomosCaribeTVLogo.png",Somos Caribe TV
 http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/187947.m3u8
 
-#EXTINF:-1 tvg-chno="50" tvg-logo="https://i2.paste.pics/580c3e6758f8535bbacfb32fa3155259.png",Humor TV 24/7 CR
-https://srv.panelcast.net/humor247/humor247/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://dreikotv.online/wp-content/uploads/2021/09/cropped-logo-dreiko-arts-TV-2020.png",Dreiko Tv CR
 https://cloudvideo.servers10.com:8081/8242/tracks-v1a1/rewind-3600.m3u8
 
