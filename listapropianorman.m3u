@@ -233,10 +233,10 @@ http://144.217.15.233:25461/streaming/clients_normal.php?username=malotv&passwor
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w2127147547.m3u8
 
 #EXTINF:-1 tvg-chno="95" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe HD
-http://streamgo.vip:8008/live/joaquin04/joaquin04/158968.m3u8
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/1793.m3u8
 
 #EXTINF:-1 tvg-chno="96" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png",Telefe (INT)
-http://sansat.net:25461/live/02025296329329/S8ZKLDUUARA9K5Z/94732.m3u8
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/81231.m3u8
 
 #EXTINF:-1 tvg-chno="97" tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg",Canal 9
 http://tvstarlife.com:25461/live/geovany/geovany/318.m3u8
