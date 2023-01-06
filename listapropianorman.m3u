@@ -418,6 +418,9 @@ http://190.61.102.67:444/play/a023
 #EXTINF:-1 tvg-chno="168" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tru-tv_m.png",Trutv HD
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/3110.m3u8
 
+#EXTINF:-1 tvg-chno="169" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Glitzlogo.png/150px-Glitzlogo.png",Glitz HD
+http://sansat.net:25461/live/02025296329329/S8ZKLDUUARA9K5Z/94991.m3u8
+
 #EXTINF:-1 tvg-chno="170" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cartoon-network_m.png",Cartoon Network HD
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/30316.m3u8
 
