@@ -41,7 +41,7 @@ https://rtmp.info:443/sanjosetv/envivo/chunklist_w1786370191.m3u8
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="18" tvg-logo="https://costaricatelevision.com/sites/default/files/2022-09/_Telered%252520Television.png",Telered
-https://video20.klm99.com:3558/live/teleredlive.m3u8
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/3136.m3u8
 
 #EXTINF:-1 tvg-chno="19" tvg-logo="https://mastelevisioncr.com/wp-content/uploads/2022/05/cropped-cropped-WhatsApp-Image-2020-08-02-at-12.42.47-300x300-1-150x150.jpeg",Telesistema
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1753795779.m3u8
