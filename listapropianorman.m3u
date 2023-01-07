@@ -350,13 +350,13 @@ https://v-ca.mybtv.net:443/live/147/1280x720.m3u8
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/9485.m3u8
 
 #EXTINF:-1 tvg-chno="141" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo NY
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/38529.m3u8
+http://myhn.xyz:25461/live/987654321/987654321/92620.m3u8
 
 #EXTINF:-1 tvg-chno="142" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo LA
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/38530.m3u8
+http://myhn.xyz:25461/live/987654321/987654321/92615.m3u8
 
 #EXTINF:-1 tvg-chno="143" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo PX
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/16634.m3u8
+http://myhn.xyz:25461/live/987654321/987654321/92623.m3u8
 
 #EXTINF:-1 tvg-chno="145" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/telemundo-puerto-rico-en-vivo-1391.png",Telemundo Puerto Rico 
 http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/38849.m3u8
