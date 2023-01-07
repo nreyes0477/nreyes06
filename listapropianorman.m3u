@@ -398,7 +398,7 @@ http://8.242.187.233:5800/play/a0bv/index.m3u8
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53301.m3u8
 
 #EXTINF:-1 tvg-chno="162" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-gourmet_m.png",El Gourmet HD
-http://45.190.185.210:8000/play/a0ae
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/30331.m3u8
 
 #EXTINF:-1 tvg-chno="163" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png",Comedy Central HD
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/30319.m3u8
@@ -407,10 +407,10 @@ http://45.90.105.74:25461/live/bud-345182/c39d1f9282/30319.m3u8
 http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/253219.m3u8
 
 #EXTINF:-1 tvg-chno="165" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar%2B_Logo.png/640px-Movistar%2B_Logo.png",Movistar Plus
-http://8.243.108.57:8000/play/a03r
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/40374.m3u8
 
 #EXTINF:-1 tvg-chno="166" tvg-logo="https://cdn.mitvstatic.com/channels/ar_pasiones_m.png",Pasiones HD
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/1495.m3u8
+http://sansat.net:25461/live/02026169772889/RQFJ29BZI993BHC/94996.m3u8
 
 #EXTINF:-1 tvg-chno="167" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sun_channel-mediano.png",Sun Channel HD
 http://190.61.102.67:444/play/a023
@@ -419,19 +419,19 @@ http://190.61.102.67:444/play/a023
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/3110.m3u8
 
 #EXTINF:-1 tvg-chno="169" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Glitzlogo.png/150px-Glitzlogo.png",Glitz HD
-http://sansat.net:25461/live/02025296329329/S8ZKLDUUARA9K5Z/94991.m3u8
+http://sansat.net:25461/live/02026169772889/RQFJ29BZI993BHC/94991.m3u8
 
 #EXTINF:-1 tvg-chno="170" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cartoon-network_m.png",Cartoon Network HD
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/30316.m3u8
 
 #EXTINF:-1 tvg-chno="171" tvg-logo="https://cdn.mitvstatic.com/channels/ar_disney_m.png",Disney Channel HD
-http://45.190.185.210:8000/play/a0be
+http://sansat.net:25461/live/02026169772889/RQFJ29BZI993BHC/95060.m3u8
 
 #EXTINF:-1 tvg-chno="172" tvg-logo="https://cdn.mitvstatic.com/channels/ar_disney-jr_m.png",Disney Junior HD
-http://45.190.185.210:8000/play/a09h
+http://sansat.net:25461/live/02026169772889/RQFJ29BZI993BHC/95061.m3u8
 
 #EXTINF:-1 tvg-chno="173" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-kids_m.png",Discovery Kids HD
-http://45.190.185.210:8000/play/a0cr
+http://sansat.net:25461/live/02026169772889/RQFJ29BZI993BHC/95080.m3u8
 
 #EXTINF:-1 tvg-chno="190" tvg-logo="https://cdn.mitvstatic.com/channels/ar_mtv_m.png",MTV
 http://45.5.119.202:8000/play/a01s/index.m3u8
