@@ -314,16 +314,16 @@ http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99720.m3u8
 http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99716.m3u8
 
 #EXTINF:-1 tvg-chno="124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",TV + HD
-http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/102069.m3u8
+http://tv.nousiptv.com:8080/live/Yonkers400/Marcela100/30700.m3u8
 
 #EXTINF:-1 tvg-chno="125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png",Canal 24 Horas HD
 http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/99529.m3u8
 
 #EXTINF:-1 tvg-chno="126" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png",Caracol HD
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/15125.m3u8
+http://odenfull.co:2086/live/Waltersoto03/Soto/213270.m3u8
 
 #EXTINF:-1 tvg-chno="127" tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg",RCN HD
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/1769.m3u8
+http://odenfull.co:2086/live/Waltersoto03/Soto/213281.m3u8
 
 #EXTINF:-1 tvg-chno="130" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/200px-Ucvtvlogo2014mejorado.png",UCV Chile
 https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/chunks.m3u8
