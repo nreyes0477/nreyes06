@@ -473,13 +473,13 @@ http://190.83.119.67:8000/play/a0t3
 http://160.20.164.171:8001/play/a00x
 
 #EXTINF:-1 tvg-chno="203" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR
-http://vip.hispanotv.org:80/live/acevedo22/acevedo22/155308.m3u8
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/39320.m3u8
 
 #EXTINF:-1 tvg-chno="204" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR Opc 2
-http://tvstarlife.com:25461/live/geovany/geovany/97360.m3u8
+http://sansat.net:25461/live/02026169772889/RQFJ29BZI993BHC/191275.m3u8
 
 #EXTINF:-1 tvg-chno="205" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR Opc 3
-http://190.61.99.191:8000/play/a062/index.m3u8
+http://tv.nousiptv.com:8080/live/Yonkers400/Marcela100/1141967.m3u8
 
 #EXTINF:-1 tvg-chno="207" tvg-logo="https://streann.akamaized.net/upload2/1640365537761.png",TD + HD
 http://vip.hispanotv.org:80/live/acevedo22/acevedo22/151542.m3u8
