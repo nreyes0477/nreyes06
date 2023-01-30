@@ -260,7 +260,7 @@ http://45.90.105.74:25461/live/bud-345182/c39d1f9282/81231.m3u8
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w2127147547.m3u8
 
 #EXTINF:-1 tvg-chno="107" tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg",Canal 9
-http://tvstarlife.com:25461/live/geovany/geovany/318.m3u8
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
 
 #EXTINF:-1 tvg-chno="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",TV Pública
 http://tvstarlife.com:25461/live/geovany/geovany/338.m3u8
