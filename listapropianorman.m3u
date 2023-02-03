@@ -611,7 +611,7 @@ http://vip.hispanotv.org:80/live/acevedo22/acevedo22/151545.m3u8
 http://190.83.119.67:8000/play/a0t3
 
 #EXTINF:-1 tvg-chno="402" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg",Futv HD Opc 3
-http://160.20.164.171:8001/play/a00x
+http://190.83.119.67:8000/play/a0t3/index.m3u8
 
 #EXTINF:-1 tvg-chno="403" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/39320.m3u8
