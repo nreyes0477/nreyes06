@@ -307,6 +307,9 @@ http://tvstarlife.com:25461/live/geovany/geovany/5137.m3u8
 #EXTINF:-1 tvg-chno="126" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo-Imagen-TV-MX.png/800px-Logo -Imagen-TV-MX.png",Imagen TV
 http://hidra.live:80/live/kYEN2csdnp/1QhRzxjr7pH4Q/43609.m3u8
 
+#EXTINF:-1 tvg-chno="127" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/400px-Unicable_logo.svg.png",Unicable (MX)
+http://hidra.live:80/live/kYEN2csdnp/1QhRzxjr7pH4Q/35078.m3u8
+
 #EXTINF:-1 tvg-chno="130" tvg-logo="https://gzcsecurity.com/img/nosotros/seguridad/americatv-min.jpg",América TV HD
 http://ariaprogramonline.com:80/live/TegustaTv/tSwFYTiCwR/1395658.m3u8
 
@@ -670,8 +673,9 @@ http://45.90.105.74:25461/live/bud-345182/c39d1f9282/51388.m3u8
 #EXTINF:-1 tvg-chno="433" tvg-logo="https://banner2.cleanpng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg",Sky Sports Liga Española 
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/65255.m3u8
 
-#EXTINF:-1 tvg-chno="434" tvg-logo="https://banner2.cleanpng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg",Sky Sports Liga Alemán 
+#EXTINF:-1 tvg-chno="434" tvg-logo="https://banner2.cleanpng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg",Sky Sports Liga Alemana
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/39090.m3u8
+
 
 
 
