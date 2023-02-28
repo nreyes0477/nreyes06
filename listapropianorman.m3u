@@ -286,17 +286,17 @@ http://tvstarlife.com:25461/live/geovany/geovany/30039.m3u8
 #EXTINF:-1 tvg-chno="120" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Azteca_Uno_logo.webp/245px-Azteca_Uno_logo.webp.png",Azteca 1
 http://tvstarlife.com:25461/live/geovany/geovany/27241.m3u8
 
-#EXTINF:-1 tvg-chno="121" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png",Azteca 7
+#EXTINF:-1 tvg-chno="121" tvg-logo="https://www.cineytele.com/wp-content/uploads/2018/09/AZ-MUNDO-NI-1024x320.jpg",Azteca Mundo
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/37804.m3u8
+
+#EXTINF:-1 tvg-chno="122" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png",Azteca 7
 http://play.flamaplus.tv:80/live/ever2022/ever2022/674.m3u8
 
-#EXTINF:-1 tvg-chno="122" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas
+#EXTINF:-1 tvg-chno="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas
 http://tvstarlife.com:25461/live/geovany/geovany/24565.m3u8
 
-#EXTINF:-1 tvg-chno="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/724px-Canal_5_2016.svg.png",Canal 5
+#EXTINF:-1 tvg-chno="124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/724px-Canal_5_2016.svg.png",Canal 5
 http://play.flamaplus.tv:80/live/ever2022/ever2022/681.m3u8
-
-#EXTINF:-1 tvg-chno="124" tvg-logo="https://www.cineytele.com/wp-content/uploads/2018/09/AZ-MUNDO-NI-1024x320.jpg",Azteca Mundo
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/37804.m3u8
 
 #EXTINF:-1 tvg-chno="125" tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default_mobile/public/images/logos/canl-nueve-100x100.png",Nu9ve
 http://tvstarlife.com:25461/live/geovany/geovany/5137.m3u8
