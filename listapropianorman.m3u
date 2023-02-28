@@ -311,19 +311,19 @@ http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/30385.m3u8
 http://play.flamaplus.tv:80/live/ever2022/ever2022/749.m3u8
 
 #EXTINF:-1 tvg-chno="131" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png",Latina HD
-http://ariaprogramonline.com:80/live/TegustaTv/tSwFYTiCwR/1395649.m3u8
+http://play.flamaplus.tv:80/live/ever2022/ever2022/747.m3u8
 
 #EXTINF:-1 tvg-chno="132" tvg-logo="https://cdn.mitvstatic.com/channels/pe_panamericana-tv_m.png",Panamericana
-http://ariaprogramonline.com:80/live/TegustaTv/tSwFYTiCwR/1395676.m3u8
+http://play.flamaplus.tv:80/live/ever2022/ever2022/745.m3u8
 
 #EXTINF:-1 tvg-chno="133" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/peru_magico-mediano.png",Perú Mágico
-http://tv.nousiptv.com:8080/live/Yonkers400/Marcela100/8323.m3u8
+http://play.flamaplus.tv:80/live/ever2022/ever2022/739.m3u8
 
 #EXTINF:-1 tvg-chno="137" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png",CHV HD
 http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/44541.m3u8
 
 #EXTINF:-1 tvg-chno="138" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png",TVN HD
-http://odenfull.co:2086/live/Waltersoto03/Soto/33115.m3u8
+http://play.flamaplus.tv:80/live/ever2022/ever2022/478.m3u8
 
 #EXTINF:-1 tvg-chno="139" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png",Canal 13 CH
 http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/1573.m3u8
@@ -332,10 +332,10 @@ http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/1573.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/38535.m3u8
 
 #EXTINF:-1 tvg-chno="141" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_red_chile-mediano.png",La Red HD
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/38539.m3u8
+http://play.flamaplus.tv:80/live/ever2022/ever2022/474.m3u8
 
 #EXTINF:-1 tvg-chno="142" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",TV + HD
-http://tv.nousiptv.com:8080/live/Yonkers400/Marcela100/30700.m3u8
+http://play.flamaplus.tv:80/live/ever2022/ever2022/468.m3u8
 
 #EXTINF:-1 tvg-chno="143" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png",Canal 24 Horas HD
 http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/38537.m3u8
