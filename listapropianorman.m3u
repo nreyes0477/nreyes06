@@ -608,7 +608,7 @@ http://181.175.41.170:8000/play/a0gf
 http://181.175.41.170:8000/play/a0gg
 
 #EXTINF:-1 tvg-chno="400" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg",Futv HD
-http://45.182.20.194:8000/play/a07p/index.m3u8
+http://45.5.118.213:16000/play/a0ng/index.m3u8
 
 #EXTINF:-1 tvg-chno="401" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg",Futv HD Opc 2
 http://181.78.105.146:8000/play/a052
