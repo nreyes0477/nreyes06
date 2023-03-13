@@ -163,40 +163,40 @@ https://59ef525c24caa.streamlock.net:443/vmtv/soyplancha/chunklist_w1610921083.m
 #EXTINF:-1 tvg-chno="62" tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019/10/cropped-Logo-Nuevo-400.jpg",Canal 38
 https://rtmp.info:443/canal38/envivo/chunklist_w1890885019.m3u8
 
-#EXTINF:-1 tvg-chno="64" tvg-logo="https://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png",88 Estéreo
+#EXTINF:-1 tvg-chno="63" tvg-logo="https://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png",88 Estéreo
 http://k3.usastreams.com:80/CableLatino/88stereo/chunklist_w190584519.m3u8
 
-#EXTINF:-1 tvg-chno="65" tvg-logo="https://i2.paste.pics/ef00f6c7d85171624dff85e2c38fc975.png",Colosal TV
+#EXTINF:-1 tvg-chno="64" tvg-logo="https://i2.paste.pics/ef00f6c7d85171624dff85e2c38fc975.png",Colosal TV
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w534755227.m3u8
 
-#EXTINF:-1 tvg-chno="66" tvg-logo="https://i2.paste.pics/0c73fe6bc691b4aa4d1ac9cc3f93e500.png",Urbano TV
+#EXTINF:-1 tvg-chno="65" tvg-logo="https://i2.paste.pics/0c73fe6bc691b4aa4d1ac9cc3f93e500.png",Urbano TV
 https://59ef525c24caa.streamlock.net:443/tvurbano/tvurbano/chunklist_w248233257.m3u8
 
-#EXTINF:-1 tvg-chno="67" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Colosal-TV.png",Colosal 88.3
+#EXTINF:-1 tvg-chno="66" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Colosal-TV.png",Colosal 88.3
 http://tv2.ticosmedia.com:1935/canal3/canal3/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="68" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Zona Música CR
+#EXTINF:-1 tvg-chno="67" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Zona Música CR
 http://vip.hispanotv.org:80/live/acevedo22/acevedo22/283548.m3u8
 
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/TLTV2016.png",Top Latino TV
+#EXTINF:-1 tvg-chno="68" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/TLTV2016.png",Top Latino TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="70" tvg-logo="https://www.huilatv.com/wp-content/uploads/2020/01/LOGO-HUILA-TV-ICONO.png",Huila TV
+#EXTINF:-1 tvg-chno="69" tvg-logo="https://www.huilatv.com/wp-content/uploads/2020/01/LOGO-HUILA-TV-ICONO.png",Huila TV
 https://plataformavideo.com:19360/8020/8020.m3u8
 
-#EXTINF:-1 tvg-chno="71" tvg-logo="https://latinosradio.cl/wp-content/uploads/2020/10/logo-latinos-radio-2.png",Latinos Radio TV
+#EXTINF:-1 tvg-chno="70" tvg-logo="https://latinosradio.cl/wp-content/uploads/2020/10/logo-latinos-radio-2.png",Latinos Radio TV
 https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/chunklist_w714950956.m3u8
 
-#EXTINF:-1 tvg-chno="72" tvg-logo="https://platcon.tv/img/p/1/1/9/119-home_default.jpg",TV urban moon tropical
+#EXTINF:-1 tvg-chno="71" tvg-logo="https://platcon.tv/img/p/1/1/9/119-home_default.jpg",TV urban moon tropical
 https://srv.tropicalmoonmedia.com:443/urbantvnetott/urbantvnetott/chunklist_w736243455.m3u8
 
-#EXTINF:-1 tvg-chno="73" tvg-logo="https://platcon.tv/img/p/1/1/5/115-large_default.jpg",TV salsa moon tropical
+#EXTINF:-1 tvg-chno="72" tvg-logo="https://platcon.tv/img/p/1/1/5/115-large_default.jpg",TV salsa moon tropical
 https://srv.tropicalmoonmedia.com:443/musictv/musictv/chunklist_w823002211.m3u8
 
-#EXTINF:-1 tvg-chno="74" tvg-logo="https://www.getmeradio.com/stations/voiceoverradiotv-2278/logos/512x512.png",Voice Over Radio TV
+#EXTINF:-1 tvg-chno="75" tvg-logo="https://www.getmeradio.com/stations/voiceoverradiotv-2278/logos/512x512.png",Voice Over Radio TV
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
 
-#EXTINF:-1 tvg-chno="75" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Teleritmo-en-vivo-Online-1.png",Teleritmo
+#EXTINF:-1 tvg-chno="76" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Teleritmo-en-vivo-Online-1.png",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=D4rMshhUyzljy2UXzEdxzm7N8r4EiI18&sid=KOhl3BXyIrYst7OzNMpBPkuMnAQNKm10&pid=KWcOmLuQAKLkxciTtr4giEXPWEUFGk41&an=screen&at=web-app&av=v5.2.288&ref=https%3A%2F%2Fwww-multimedios-com.cdn.ampproject.org%2Fv%2Fs%2Fwww.multimedios.com%2Fvideo%2Fteleritmo%2Fv2615%3Famp%3D%26amp_gsa%3D1%26amp_js_v%3Da9%26usqp%3Dmq331AQKKAFQArABIIACAw%253D%253D&res=373x210&without_cookies=false&listenerid=&dnt=true
 
 #EXTINF:-1 tvg-chno="77" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/vevo_2016_logo.png",Vevo Latino 
