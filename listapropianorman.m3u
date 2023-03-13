@@ -1,6 +1,9 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://canal1cr.com/wp-content/uploads/2023/02/logo-canal-1-png.png",Canal 1 CR
+https://video20.klm99.com:3993/live/canal1crlive.m3u8
+
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png",Canal 2 CDR
 http://190.7.192.164:8004/play/s46
 
@@ -132,9 +135,6 @@ https://59ef525c24caa.streamlock.net:443/vmtv/soyplancha/chunklist_w1610921083.m
 
 #EXTINF:-1 tvg-chno="62" tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019/10/cropped-Logo-Nuevo-400.jpg",Canal 38
 https://rtmp.info:443/canal38/envivo/chunklist_w1890885019.m3u8
-
-#EXTINF:-1 tvg-chno="63" tvg-logo="https://canal1cr.com/wp-content/uploads/2022/02/cropped-Canal-1-1.png",Canal 1 CR
-https://59ef525c24caa.streamlock.net:443/canal1cr/canal1cr/chunklist_w183311120.m3u8
 
 #EXTINF:-1 tvg-chno="64" tvg-logo="https://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png",88 Estéreo
 http://k3.usastreams.com:80/CableLatino/88stereo/chunklist_w190584519.m3u8
