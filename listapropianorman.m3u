@@ -175,22 +175,19 @@ https://59ef525c24caa.streamlock.net:443/tvurbano/tvurbano/chunklist_w248233257.
 #EXTINF:-1 tvg-chno="66" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Colosal-TV.png",Colosal 88.3
 http://tv2.ticosmedia.com:1935/canal3/canal3/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="67" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Zona Música CR
-http://vip.hispanotv.org:80/live/acevedo22/acevedo22/283548.m3u8
-
-#EXTINF:-1 tvg-chno="68" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/TLTV2016.png",Top Latino TV
+#EXTINF:-1 tvg-chno="67" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/TLTV2016.png",Top Latino TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://www.huilatv.com/wp-content/uploads/2020/01/LOGO-HUILA-TV-ICONO.png",Huila TV
+#EXTINF:-1 tvg-chno="68" tvg-logo="https://www.huilatv.com/wp-content/uploads/2020/01/LOGO-HUILA-TV-ICONO.png",Huila TV
 https://plataformavideo.com:19360/8020/8020.m3u8
 
-#EXTINF:-1 tvg-chno="70" tvg-logo="https://latinosradio.cl/wp-content/uploads/2020/10/logo-latinos-radio-2.png",Latinos Radio TV
+#EXTINF:-1 tvg-chno="69" tvg-logo="https://latinosradio.cl/wp-content/uploads/2020/10/logo-latinos-radio-2.png",Latinos Radio TV
 https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/chunklist_w714950956.m3u8
 
-#EXTINF:-1 tvg-chno="71" tvg-logo="https://platcon.tv/img/p/1/1/9/119-home_default.jpg",TV urban moon tropical
+#EXTINF:-1 tvg-chno="70" tvg-logo="https://platcon.tv/img/p/1/1/9/119-home_default.jpg",TV urban moon tropical
 https://srv.tropicalmoonmedia.com:443/urbantvnetott/urbantvnetott/chunklist_w736243455.m3u8
 
-#EXTINF:-1 tvg-chno="72" tvg-logo="https://platcon.tv/img/p/1/1/5/115-large_default.jpg",TV salsa moon tropical
+#EXTINF:-1 tvg-chno="71" tvg-logo="https://platcon.tv/img/p/1/1/5/115-large_default.jpg",TV salsa moon tropical
 https://srv.tropicalmoonmedia.com:443/musictv/musictv/chunklist_w823002211.m3u8
 
 #EXTINF:-1 tvg-chno="75" tvg-logo="https://www.getmeradio.com/stations/voiceoverradiotv-2278/logos/512x512.png",Voice Over Radio TV
