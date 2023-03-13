@@ -233,7 +233,7 @@ https://stream.mediawork.cz:443/retrotv/retrotvHQ1/chunklist_w1085777026.m3u8
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w363472295.m3u8
 
 #EXTINF:-1 tvg-chno="86" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png",Recuerdos Retro
-https://63da5f7cbffac.streamlock.net/8002/8002/playlist.m3u8
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="88" tvg-logo="https://platcon.tv/img/p/1/1/7/117-home_default.jpg",Retroplus 1
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1948717984.m3u8
