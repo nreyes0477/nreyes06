@@ -397,29 +397,29 @@ https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/.m3u8
 #EXTINF:-1 tvg-chno="160" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión NY
 https://v-ny.mybtv.net/live/643.m3u8
 
-#EXTINF:-1 tvg-chno="161" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión LA
-http://xcm.budtv-ultra.com:25461/live/budtvsports/wTu27rKVNU/46985.m3u8
-
-#EXTINF:-1 tvg-chno="162" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión PX
+#EXTINF:-1 tvg-chno="161" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión PX
 http://xcm.budtv-ultra.com:25461/live/budtvsports/wTu27rKVNU/9470.m3u8
+
+#EXTINF:-1 tvg-chno="162" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión LA
+http://xcm.budtv-ultra.com:25461/live/budtvsports/wTu27rKVNU/46985.m3u8
 
 #EXTINF:-1 tvg-chno="163" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás NY
 https://v-ny.mybtv.net:443/live/713/1280x720.m3u8
 
-#EXTINF:-1 tvg-chno="164" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás LA
-https://v-la.mybtv.net/live/168.m3u8
-
-#EXTINF:-1 tvg-chno="165" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás PX
+#EXTINF:-1 tvg-chno="164" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás PX
 https://v-px.mybtv.net/live/56.m3u8
 
+#EXTINF:-1 tvg-chno="165" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás LA
+https://v-la.mybtv.net/live/168.m3u8
+
 #EXTINF:-1 tvg-chno="166" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo NY
-http://play.flamaplus.tv:80/live/ever2022/ever2022/927.m3u8
+http://71.187.29.54:8000/play/a07a/index.m3u8
 
-#EXTINF:-1 tvg-chno="167" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo LA
-http://xcm.budtv-ultra.com:25461/live/budtvsports/wTu27rKVNU/38530.m3u8
-
-#EXTINF:-1 tvg-chno="168" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo PX
+#EXTINF:-1 tvg-chno="167" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo PX
 https://v-px.mybtv.net:443/live/39/1920x1080.m3u8
+
+#EXTINF:-1 tvg-chno="168" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo LA
+https://v-la.mybtv.net:443/live/267/1920x1080.m3u8?
 
 #EXTINF:-1 tvg-chno="169" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/telemundo-puerto-rico-en-vivo-1391.png",Telemundo Puerto Rico 
 http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/38849.m3u8
