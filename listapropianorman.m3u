@@ -11,7 +11,7 @@ http://190.7.192.164:8004/play/s46
 https://d3bgcstab9qhdz.cloudfront.net:443/hls/canal4_720.m3u8
 
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/768px-Repretel_6_logo.png",Canal 6 Repretel
-http://190.7.192.164:8002/play/s11
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal6_720.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/670px-Teletica_Logo.png",Teletica
 https://13697-4.b.cdn12.com/hls/538d11d8e5.ulive/_c/master.m3u8
