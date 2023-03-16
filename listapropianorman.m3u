@@ -433,95 +433,77 @@ https://v-la.mybtv.net:443/live/267/1920x1080.m3u8?
 #EXTINF:-1 tvg-chno="169" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/telemundo-puerto-rico-en-vivo-1391.png",Telemundo Puerto Rico 
 http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/38849.m3u8
 
-#EXTINF:-1 tvg-chno="170" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg",E! Entertainment HD
+#EXTINF:-1 tvg-chno="250" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg",E! Entertainment HD
 http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/30360.m3u8
 
-#EXTINF:-1 tvg-chno="171" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-id_m.png",ID Investigation HD
+#EXTINF:-1 tvg-chno="251" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-id_m.png",ID Investigation HD
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/38492.m3u8
 
-#EXTINF:-1 tvg-chno="172" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png",History Channel HD
+#EXTINF:-1 tvg-chno="252" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png",History Channel HD
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/3564.m3u8
 
-#EXTINF:-1 tvg-chno="173" tvg-logo="https://alexgarci.com/iqc/wp-content/uploads/2022/02/LOGO-H2.png",History 2 HD
+#EXTINF:-1 tvg-chno="253" tvg-logo="https://alexgarci.com/iqc/wp-content/uploads/2022/02/LOGO-H2.png",History 2 HD
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/30352.m3u8
 
-#EXTINF:-1 tvg-chno="174" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo HD
+#EXTINF:-1 tvg-chno="254" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo HD
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/30361.m3u8
 
-#EXTINF:-1 tvg-chno="175" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png",Animal Planet HD
+#EXTINF:-1 tvg-chno="255" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png",Animal Planet HD
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/34380.m3u8
 
-#EXTINF:-1 tvg-chno="176" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery_m.png",Discovery Channel HD
+#EXTINF:-1 tvg-chno="256" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery_m.png",Discovery Channel HD
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/3313.m3u8
 
-#EXTINF:-1 tvg-chno="177" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health HD
+#EXTINF:-1 tvg-chno="257" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health HD
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/38469.m3u8
 
-#EXTINF:-1 tvg-chno="178" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png",Discovery Theater HD
+#EXTINF:-1 tvg-chno="258" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png",Discovery Theater HD
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/30324.m3u8
 
-#EXTINF:-1 tvg-chno="179" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery World HD
+#EXTINF:-1 tvg-chno="259" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery World HD
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/3309.m3u8
 
-#EXTINF:-1 tvg-chno="185" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cnn-en-espanol_m.png",CNN Español 
+#EXTINF:-1 tvg-chno="260" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cnn-en-espanol_m.png",CNN Español 
 http://8.242.187.233:5800/play/a0bv/index.m3u8
 
-#EXTINF:-1 tvg-chno="186" tvg-logo="https://cdn.mitvstatic.com/channels/ar_france-24-espanol_m.png",France 24 HD
+#EXTINF:-1 tvg-chno="261" tvg-logo="https://cdn.mitvstatic.com/channels/ar_france-24-espanol_m.png",France 24 HD
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53301.m3u8
 
-#EXTINF:-1 tvg-chno="190" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-gourmet_m.png",El Gourmet HD
+#EXTINF:-1 tvg-chno="262" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-gourmet_m.png",El Gourmet HD
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/30331.m3u8
 
-#EXTINF:-1 tvg-chno="191" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png",Comedy Central HD
+#EXTINF:-1 tvg-chno="263" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png",Comedy Central HD
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/30319.m3u8
 
-#EXTINF:-1 tvg-chno="192" tvg-logo="https://i4.hurimg.com/i/hurriyet/75/600x338/5dbd043ed3806c1dec53824d.jpg",Kanal Drama HD
+#EXTINF:-1 tvg-chno="264" tvg-logo="https://i4.hurimg.com/i/hurriyet/75/600x338/5dbd043ed3806c1dec53824d.jpg",Kanal Drama HD
 http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/253219.m3u8
 
-#EXTINF:-1 tvg-chno="193" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar%2B_Logo.png/640px-Movistar%2B_Logo.png",Movistar Plus
+#EXTINF:-1 tvg-chno="265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar%2B_Logo.png/640px-Movistar%2B_Logo.png",Movistar Plus
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/40374.m3u8
 
-#EXTINF:-1 tvg-chno="194" tvg-logo="https://cdn.mitvstatic.com/channels/ar_pasiones_m.png",Pasiones HD
+#EXTINF:-1 tvg-chno="266" tvg-logo="https://cdn.mitvstatic.com/channels/ar_pasiones_m.png",Pasiones HD
 http://sansat.net:25461/live/02026169772889/RQFJ29BZI993BHC/94996.m3u8
 
-#EXTINF:-1 tvg-chno="195" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sun_channel-mediano.png",Sun Channel HD
+#EXTINF:-1 tvg-chno="267" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sun_channel-mediano.png",Sun Channel HD
 http://190.61.102.67:444/play/a023
 
-#EXTINF:-1 tvg-chno="196" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tru-tv_m.png",Trutv HD
+#EXTINF:-1 tvg-chno="268" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tru-tv_m.png",Trutv HD
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/3110.m3u8
 
-#EXTINF:-1 tvg-chno="197" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Glitzlogo.png/150px-Glitzlogo.png",Glitz HD
+#EXTINF:-1 tvg-chno="269" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Glitzlogo.png/150px-Glitzlogo.png",Glitz HD
 http://sansat.net:25461/live/02026169772889/RQFJ29BZI993BHC/94991.m3u8
 
-#EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cartoon-network_m.png",Cartoon Network HD
+#EXTINF:-1 tvg-chno="275" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cartoon-network_m.png",Cartoon Network HD
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/30316.m3u8
 
-#EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_disney_m.png",Disney Channel HD
+#EXTINF:-1 tvg-chno="276" tvg-logo="https://cdn.mitvstatic.com/channels/ar_disney_m.png",Disney Channel HD
 http://sansat.net:25461/live/02026169772889/RQFJ29BZI993BHC/95060.m3u8
 
-#EXTINF:-1 tvg-chno="202" tvg-logo="https://cdn.mitvstatic.com/channels/ar_disney-jr_m.png",Disney Junior HD
+#EXTINF:-1 tvg-chno="277" tvg-logo="https://cdn.mitvstatic.com/channels/ar_disney-jr_m.png",Disney Junior HD
 http://sansat.net:25461/live/02026169772889/RQFJ29BZI993BHC/95061.m3u8
 
-#EXTINF:-1 tvg-chno="203" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-kids_m.png",Discovery Kids HD
+#EXTINF:-1 tvg-chno="278" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-kids_m.png",Discovery Kids HD
 http://sansat.net:25461/live/02026169772889/RQFJ29BZI993BHC/95080.m3u8
-
-#EXTINF:-1 tvg-chno="205" tvg-logo="https://cdn.mitvstatic.com/channels/ar_mtv_m.png",MTV
-http://45.5.119.202:8000/play/a01s/index.m3u8
-
-#EXTINF:-1 tvg-chno="206" tvg-logo="https://cdn.mitvstatic.com/channels/ar_mtv_m.png",MTV HD
-http://45.5.119.202:8000/play/a033/index.m3u8
-
-#EXTINF:-1 tvg-chno="207" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png",MTV 80s
-http://45.5.119.202:8000/play/a02t/index.m3u8
-
-#EXTINF:-1 tvg-chno="208" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtv00s.png",MTV 00s
-http://45.5.119.202:8000/play/a00l/index.m3u8
-
-#EXTINF:-1 tvg-chno="209" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/808px-MTV_Hits_2021.svg.png",MTV Hits
-http://45.5.119.202:8000/play/a02s/index.m3u8
-
-#EXTINF:-1 tvg-chno="210" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_musica-mediano.png",Claro Música 
-http://45.5.119.202:8000/play/a04k/index.m3u8
 
 #EXTINF:-1 tvg-chno="300" tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png",A&E HD
 http://8.242.187.233:5800/play/a08e/index.m3u8
