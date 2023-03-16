@@ -523,36 +523,6 @@ http://45.5.119.202:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-chno="210" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_musica-mediano.png",Claro Música 
 http://45.5.119.202:8000/play/a04k/index.m3u8
 
-#EXTINF:-1 tvg-chno="290" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 1
-https://srv5.zcast.com.br:443/simpsons/simpsons/chunklist_w469095767.m3u8
-
-#EXTINF:-1 tvg-chno="291" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 2
-http://85.202.80.14:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/713.m3u8
-
-#EXTINF:-1 tvg-chno="292" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 3
-http://br0ss.xyz:8090/live/Juanpa/Juanpa123/31990.m3u8
-
-#EXTINF:-1 tvg-chno="293" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 4
-http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/38722.m3u8
-
-#EXTINF:-1 tvg-chno="294" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 5
-http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/38706.m3u8
-
-#EXTINF:-1 tvg-chno="295" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 6
-http://tvstarlife.com:25461/live/geovany/geovany/10678.m3u8
-
-#EXTINF:-1 tvg-chno="296" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 7
-http://tvstarlife.com:25461/live/geovany/geovany/10673.m3u8
-
-#EXTINF:-1 tvg-chno="297" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 8
-http://tvstarlife.com:25461/live/geovany/geovany/10611.m3u8
-
-#EXTINF:-1 tvg-chno="298" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 9
-http://tvstarlife.com:25461/live/geovany/geovany/10627.m3u8
-
-#EXTINF:-1 tvg-chno="299" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 10
-https://srv5.zcast.com.br:443/simpsons/simpsons/chunklist_w1106366740.m3u8
-
 #EXTINF:-1 tvg-chno="300" tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png",A&E HD
 http://8.242.187.233:5800/play/a08e/index.m3u8
 
@@ -720,6 +690,36 @@ http://45.90.105.74:25461/live/bud-345182/c39d1f9282/39090.m3u8
 
 #EXTINF:-1 tvg-chno="436" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sport-XTRA.png",Bein Sports XTRA
 https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
+
+#EXTINF:-1 tvg-chno="500" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 1
+https://srv5.zcast.com.br:443/simpsons/simpsons/chunklist_w469095767.m3u8
+
+#EXTINF:-1 tvg-chno="501" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 2
+http://85.202.80.14:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/713.m3u8
+
+#EXTINF:-1 tvg-chno="502" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 3
+http://br0ss.xyz:8090/live/Juanpa/Juanpa123/31990.m3u8
+
+#EXTINF:-1 tvg-chno="503" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 4
+http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/38722.m3u8
+
+#EXTINF:-1 tvg-chno="504" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 5
+http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/38706.m3u8
+
+#EXTINF:-1 tvg-chno="505" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 6
+http://tvstarlife.com:25461/live/geovany/geovany/10678.m3u8
+
+#EXTINF:-1 tvg-chno="506" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 7
+http://tvstarlife.com:25461/live/geovany/geovany/10673.m3u8
+
+#EXTINF:-1 tvg-chno="507" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 8
+http://tvstarlife.com:25461/live/geovany/geovany/10611.m3u8
+
+#EXTINF:-1 tvg-chno="508" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 9
+http://tvstarlife.com:25461/live/geovany/geovany/10627.m3u8
+
+#EXTINF:-1 tvg-chno="509" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 10
+https://srv5.zcast.com.br:443/simpsons/simpsons/chunklist_w1106366740.m3u8
 
 
 
