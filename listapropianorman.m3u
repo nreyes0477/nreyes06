@@ -145,14 +145,14 @@ https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://dreikotv.online/wp-content/uploads/2023/02/logotipo_dreikotv.png",Dreiko Tv CR
 https://tv.fullhd-streaming.com:3807/live/dreikotvlive.m3u8
 
-#EXTINF:-1 tvg-chno="53" tvg-logo="https://www.doutico.com/wpimages/wpe9343c85_05_06.jpg",Canal Pura Vida
-https://cp.panelchs.com:1936/84598/84598/chunklist_w1217069703.m3u8
+#EXTINF:-1 tvg-chno="53" tvg-logo="https://www.radiopop.cl/wp-content/uploads/2022/08/logo-200-px.png",TV Pop Retro
+https://v4.tustreaming.cl/poptv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="54" tvg-logo="https://planetatv.cl/chile/wp-content/uploads/2023/02/PLANETATV3.png",Planet Tv Movies
 https://scl.edge.grupoz.cl:443/movie/live/chunklist_w51898304.m3u8
 
-#EXTINF:-1 tvg-chno="55" tvg-logo="https://www.radiopop.cl/wp-content/uploads/2022/08/logo-200-px.png",TV Pop Retro
-https://v4.tustreaming.cl/poptv/playlist.m3u8
+#EXTINF:-1 tvg-chno="55" tvg-logo="https://www.doutico.com/wpimages/wpe9343c85_05_06.jpg",Canal Pura Vida
+https://cp.panelchs.com:1936/84598/84598/chunklist_w1217069703.m3u8
 
 #EXTINF:-1 tvg-chno="56" tvg-logo="https://i2.paste.pics/c62d925b201bdb9d034e4d582d62abf2.png",MZ Sports HD
 https://cloudvideo.servers10.com:8081/8248/tracks-v1a1/mono.m3u8
