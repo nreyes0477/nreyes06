@@ -145,7 +145,7 @@ https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://dreikotv.online/wp-content/uploads/2023/02/logotipo_dreikotv.png",Dreiko Tv CR
 https://tv.fullhd-streaming.com:3807/live/dreikotvlive.m3u8
 
-#EXTINF:-1 tvg-chno="53" tvg-logo="https://planetatv.cl/chile/wp-content/uploads/2023/02/PLANETATV3.png",Planeta Tv Movies
+#EXTINF:-1 tvg-chno="53" tvg-logo="https://planetatv.cl/chile/wp-content/uploads/2023/02/PLANETATV3.png",Planeta Tv Movie
 https://scl.edge.grupoz.cl:443/movie/live/chunklist_w51898304.m3u8
 
 #EXTINF:-1 tvg-chno="54" tvg-logo="https://www.radiopop.cl/wp-content/uploads/2022/08/logo-200-px.png",TV Pop Retro
