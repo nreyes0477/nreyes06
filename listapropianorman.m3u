@@ -130,7 +130,7 @@ https://cloudvideo.servers10.com:8081/8030/index.m3u8
 #EXTINF:-1 tvg-chno="47" tvg-logo="https://serenotv.com/wp-content/uploads/2022/01/Canal-retro-tv-palmares-en-vivo-300x193.jpg",Retro Tv Palmares
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="48" tvg-logo="https://static.wixstatic.com/media/e9b9b7_356efe37d4cb4ea3aaf42fb3c975af40~mv2.png/v1/fill/w_122,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BANNER-300x169.png",Garabito TV
+#EXTINF:-1 tvg-chno="48" tvg-logo="https://static.wixstatic.com/media/e9b9b7_356efe37d4cb4ea3aaf42fb3c975af40~mv2.png/v1/fill/w_122,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BANNER-300x169.png",Garabito Tv
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="49" tvg-logo="https://www.coolstreaming.us/img/ch/image6702628824.jpg", Antena Seis TV
