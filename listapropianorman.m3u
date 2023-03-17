@@ -5,7 +5,7 @@
 https://video20.klm99.com:3993/live/canal1crlive.m3u8
 
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png",Canal 2 CDR
-http://190.7.192.164:8004/play/s46
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8
 
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/1200px-Repretel_4_logo.png",Canal 4 Repretel
 https://d3bgcstab9qhdz.cloudfront.net:443/hls/canal4_720.m3u8
