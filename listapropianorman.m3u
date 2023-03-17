@@ -217,58 +217,76 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=D4rMsh
 #EXTINF:-1 tvg-chno="77" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/vevo_2016_logo.png",Vevo Latino 
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5dcc6a9f1621dc5dd511ca14_samsung&manifest_id=bbeeaa5d-46b9-4bc7-bca0-9a5d0ecf973c&rendition=1080&session_id=3efb2a09-ebdd-87d4-0ccf-52ed9ef5b68f&partner_id=samsung_tv&sid=a884ffa675e1d16e4dd48ae737fec221a941f819d437864038767b6460d18624&pic=114d0b7f95dea8703fdeb1101b0fb8074e4169bb06ccd85a9f4183df6639bc6c&ipv=4&pv=1
 
-#EXTINF:-1 tvg-chno="78" tvg-logo="https://i0.wp.com/radiopuertotv.net/wp-content/uploads/2022/04/cropped-CABALLOS-Y-MAS-_12.png?w=906&ssl=1",Radio Puerto TV 
+#EXTINF:-1 tvg-chno="78" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo Hip Hop
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5dcc6a54d90e8c5dc4345c16_samsung&manifest_id=e85f515c-9206-4b10-b9a5-1fbd94848d4f&rendition=1080&session_id=0e62f980-009d-9a50-4a1d-78e5194f887e&partner_id=samsung_tv&sid=a884ffa675e1d16e4dd48ae737fec221a941f819d437864038767b6460d18624&pic=dbadbd092b0fb0c24084703114b6209733a1e595e9487bdd631267fb8d8e1156&ipv=4&pv=1
+
+#EXTINF:-1 tvg-chno="79" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo Pop
+https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5f3491c50b093e00015a3c4c_samsung_eu&manifest_id=3902776f-0f9d-45eb-9cd8-042beaef15b8&rendition=1080&session_id=e0761770-cd92-a2be-5192-3a52428cfb3e&partner_id=samsung_tv&sid=a884ffa675e1d16e4dd48ae737fec221a941f819d437864038767b6460d18624&pic=e57f3f13873618fdda8a35c74346413d43fa125fd0642e29daf05d6bf1b3e806&ipv=4&pv=1
+
+#EXTINF:-1 tvg-chno="80" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo Reggaeton & Trap
+https://service-stitcher.clusters.pluto.tv:443/proxy/ROKUCHANNEL-78bebfac-3ddd-4602-9df2-5c82d9cbd2dd/5f32f397795b750007706448/5449048/playlist.m3u8?deviceId=channel&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&sid=ROKUCHANNEL-78bebfac-3ddd-4602-9df2-5c82d9cbd2dd&advertisingId=channel&deviceLat=0&deviceLon=0&deviceDNT=1&deviceModel=web
+
+#EXTINF:-1 tvg-chno="85" tvg-logo="https://i0.wp.com/radiopuertotv.net/wp-content/uploads/2022/04/cropped-CABALLOS-Y-MAS-_12.png?w=906&ssl=1",Radio Puerto TV 
 https://cloudvideo.servers10.com:8081/8256/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="79" tvg-logo="https://1.bp.blogspot.com/-1MlWpQKhZ1E/X3gPjB_3BmI/AAAAAAAAOVI/M0_FOhZKmnksCN_fnuY9l2TIE1nlftPsQCLcBGAsYHQ/s1600/mas-fm-95-9.png",Más FM 95.9
+#EXTINF:-1 tvg-chno="86" tvg-logo="https://1.bp.blogspot.com/-1MlWpQKhZ1E/X3gPjB_3BmI/AAAAAAAAOVI/M0_FOhZKmnksCN_fnuY9l2TIE1nlftPsQCLcBGAsYHQ/s1600/mas-fm-95-9.png",Más FM 95.9
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 
-#EXTINF:-1 tvg-chno="80" tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png",Vintage Music
+#EXTINF:-1 tvg-chno="90" tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png",Vintage Music
 https://59ef525c24caa.streamlock.net:443/vmtv/tvvintage/chunklist_w1339648818.m3u8
 
-#EXTINF:-1 tvg-chno="81" tvg-logo="https://i2.paste.pics/e63c9721b2261a3213ea1a4e69776d0f.png",Oldies Hits TV
+#EXTINF:-1 tvg-chno="91" tvg-logo="https://i2.paste.pics/e63c9721b2261a3213ea1a4e69776d0f.png",Oldies Hits TV
 https://video01.logicahost.com.br:443/oldieshits/oldieshits/chunklist_w854322906.m3u8
 
-#EXTINF:-1 tvg-chno="82" tvg-logo="https://pbs.twimg.com/profile_images/1143426603/IQChannel.jpg",IQ Channel CR
+#EXTINF:-1 tvg-chno="92" tvg-logo="https://pbs.twimg.com/profile_images/1143426603/IQChannel.jpg",IQ Channel CR
 https://rtmp.info:443/iqtv/envivo/chunklist_w394233529.m3u8
 
-#EXTINF:-1 tvg-chno="83" tvg-logo="https://videotourchannel.com/wp-content/uploads/2023/01/cropped-LOGO-MASTER-VECTORIZADO-01-300x194-2.png",Vídeo Tour Channel 
+#EXTINF:-1 tvg-chno="93" tvg-logo="https://videotourchannel.com/wp-content/uploads/2023/01/cropped-LOGO-MASTER-VECTORIZADO-01-300x194-2.png",Vídeo Tour Channel 
 https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="84" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Retro-Music-Television-Live-TV-Online.png?resize=1068%2C601&ssl=1",Retro Music TV
+#EXTINF:-1 tvg-chno="94" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Retro-Music-Television-Live-TV-Online.png?resize=1068%2C601&ssl=1",Retro Music TV
 https://stream.mediawork.cz:443/retrotv/retrotvHQ1/chunklist_w1085777026.m3u8
 
-#EXTINF:-1 tvg-chno="85" tvg-logo="https://cdn-profiles.tunein.com/s142621/images/logoq.png",V Classic TV 
+#EXTINF:-1 tvg-chno="95" tvg-logo="https://cdn-profiles.tunein.com/s142621/images/logoq.png",V Classic TV 
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w363472295.m3u8
 
-#EXTINF:-1 tvg-chno="86" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png",Recuerdos Retro
+#EXTINF:-1 tvg-chno="96" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png",Recuerdos Retro
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="88" tvg-logo="https://platcon.tv/img/p/1/1/7/117-home_default.jpg",Retroplus 1
+#EXTINF:-1 tvg-chno="98" tvg-logo="https://platcon.tv/img/p/1/1/7/117-home_default.jpg",Retroplus 1
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1948717984.m3u8
 
-#EXTINF:-1 tvg-chno="89" tvg-logo="https://platcon.tv/img/p/1/1/8/118-large_default.jpg",Retroplus 2
+#EXTINF:-1 tvg-chno="99" tvg-logo="https://platcon.tv/img/p/1/1/8/118-large_default.jpg",Retroplus 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1246759008.m3u8
 
-#EXTINF:-1 tvg-chno="90" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/NOW_70s_2022_logo.png/revision/latest/scale-to-width-down/200?cb=202212132149",Now 70's
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/NOW_70s_2022_logo.png/revision/latest/scale-to-width-down/200?cb=202212132149",Now 70's
 https://lightning-now70s-samsungnz.amagi.tv:443/playlist720p.m3u8
 
-#EXTINF:-1 tvg-chno="91" tvg-logo="https://tvprofil.com/img/kanali-logo/Now_80s_GB_logo.png",Now 80's
+#EXTINF:-1 tvg-chno="101" tvg-logo="https://tvprofil.com/img/kanali-logo/Now_80s_GB_logo.png",Now 80's
 https://lightning-now80s-samsungnz.amagi.tv:443/playlist720p.m3u8
 
-#EXTINF:-1 tvg-chno="92" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Now_90s_GB_logo.png",Now 90's
+#EXTINF:-1 tvg-chno="102" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Now_90s_GB_logo.png",Now 90's
 https://lightning-now90s-samsungnz.amagi.tv:443/playlist720p.m3u8
 
-#EXTINF:-1 tvg-chno="93" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vh1classics.png",Vh1 Classics Pluto
+#EXTINF:-1 tvg-chno="103" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo '70s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-chno="104" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo '80s
+https://dai2.xumo.com:443/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/1920x1080_5161200/index.m3u8
+
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo '90s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-chno="107" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vh1classics.png",Vh1 Classics Pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-chno="94" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo 80's
+#EXTINF:-1 tvg-chno="108" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo 80's
 https://dai2.xumo.com:443/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/1920x1080_4611626/index.m3u8
 
-#EXTINF:-1 tvg-chno="95" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/GVYUXjRm3D.png",Solo Báilalo 80's 90's 🎶
+#EXTINF:-1 tvg-chno="109" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/GVYUXjRm3D.png",Solo Báilalo 80's 90's 🎶
 https://5ff3d9babae13.streamlock.net:443/8000/8000/chunklist_w528524097.m3u8
 
-#EXTINF:-1 tvg-chno="96" tvg-logo="https://www.nettvpro.live/uploads/allimg/21/1-210624214S50-L.jpg",Zapping Music 🎶
+#EXTINF:-1 tvg-chno="110" tvg-logo="https://www.nettvpro.live/uploads/allimg/21/1-210624214S50-L.jpg",Zapping Music 🎶
 https://zmlive.zappingtv.com:443/zm-free/zm.smil/chunklist_live1_b4131600_sles.m3u8
 
 #EXTINF:-1 tvg-chno="147" tvg-logo="https://www.infozona.com.ar/wp-content/uploads/2022/09/gran-hermano-telefe-1024x576.jpg",Gran Hermano Arg 24/7
