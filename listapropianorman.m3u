@@ -218,13 +218,13 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=D4rMsh
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5dcc6a9f1621dc5dd511ca14_samsung&manifest_id=bbeeaa5d-46b9-4bc7-bca0-9a5d0ecf973c&rendition=1080&session_id=3efb2a09-ebdd-87d4-0ccf-52ed9ef5b68f&partner_id=samsung_tv&sid=a884ffa675e1d16e4dd48ae737fec221a941f819d437864038767b6460d18624&pic=114d0b7f95dea8703fdeb1101b0fb8074e4169bb06ccd85a9f4183df6639bc6c&ipv=4&pv=1
 
 #EXTINF:-1 tvg-chno="78" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo Hip Hop
-https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5dcc6a54d90e8c5dc4345c16_samsung&manifest_id=e85f515c-9206-4b10-b9a5-1fbd94848d4f&rendition=1080&session_id=0e62f980-009d-9a50-4a1d-78e5194f887e&partner_id=samsung_tv&sid=a884ffa675e1d16e4dd48ae737fec221a941f819d437864038767b6460d18624&pic=dbadbd092b0fb0c24084703114b6209733a1e595e9487bdd631267fb8d8e1156&ipv=4&pv=1
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
 
 #EXTINF:-1 tvg-chno="79" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo Pop
-https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5f3491c50b093e00015a3c4c_samsung_eu&manifest_id=3902776f-0f9d-45eb-9cd8-042beaef15b8&rendition=1080&session_id=e0761770-cd92-a2be-5192-3a52428cfb3e&partner_id=samsung_tv&sid=a884ffa675e1d16e4dd48ae737fec221a941f819d437864038767b6460d18624&pic=e57f3f13873618fdda8a35c74346413d43fa125fd0642e29daf05d6bf1b3e806&ipv=4&pv=1
+https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
 
 #EXTINF:-1 tvg-chno="80" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo Reggaeton & Trap
-https://service-stitcher.clusters.pluto.tv:443/proxy/ROKUCHANNEL-78bebfac-3ddd-4602-9df2-5c82d9cbd2dd/5f32f397795b750007706448/5449048/playlist.m3u8?deviceId=channel&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&sid=ROKUCHANNEL-78bebfac-3ddd-4602-9df2-5c82d9cbd2dd&advertisingId=channel&deviceLat=0&deviceLon=0&deviceDNT=1&deviceModel=web
+https://service-stitcher.clusters.pluto.tv:443/proxy/ROKUCHANNEL-cae3537d-b99c-4508-a66e-434c7369f3a4/5f32f397795b750007706448/5449048/playlist.m3u8?deviceId=channel&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&sid=ROKUCHANNEL-cae3537d-b99c-4508-a66e-434c7369f3a4&advertisingId=channel&deviceLat=0&deviceLon=0&deviceDNT=1&deviceModel=web
 
 #EXTINF:-1 tvg-chno="85" tvg-logo="https://i0.wp.com/radiopuertotv.net/wp-content/uploads/2022/04/cropped-CABALLOS-Y-MAS-_12.png?w=906&ssl=1",Radio Puerto TV 
 https://cloudvideo.servers10.com:8081/8256/tracks-v1a1/mono.m3u8
@@ -279,9 +279,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f8
 
 #EXTINF:-1 tvg-chno="107" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vh1classics.png",Vh1 Classics Pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-chno="108" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo 80's
-https://dai2.xumo.com:443/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/1920x1080_4611626/index.m3u8
 
 #EXTINF:-1 tvg-chno="109" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/GVYUXjRm3D.png",Solo Báilalo 80's 90's 🎶
 https://5ff3d9babae13.streamlock.net:443/8000/8000/chunklist_w528524097.m3u8
