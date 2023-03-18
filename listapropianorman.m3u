@@ -433,6 +433,18 @@ http://play.flamaplus.tv:80/live/ever2022/ever2022/468.m3u8
 #EXTINF:-1 tvg-chno="198" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png",Canal 24 Horas HD
 http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/38537.m3u8
 
+#EXTINF:-1 tvg-chno="199" tvg-logo="https://lh3.googleusercontent.com/-A_RaYdHsdSU/XxzKXkCODJI/AAAAAAAA3Y0/elHa2TXc-z8HpetZx_GzDK0vaepcN4xLACK8BGAsYHg/s0/2020-07-25.png",UCL (Uy)
+http://162.246.18.122:8081/telepuerto-master/ucl-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="200" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/640px-HispanTv_logo.svg.png",Hispan TV
+https://live1.presstv.ir/live/hispan.m3u8
+
+#EXTINF:-1 tvg-chno="201" tvg-logo="https://www.deel.com/hs-fs/hubfs/Platzi%20logo.png?width=1000&height=387&name=Platzi%20logo.png",Platzi TV
+https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream/5ba02fd50f8c3d0d79f7a665/playout/master.m3u8?aid=512e13acaca1ebcd2f000279&pid=vaoysiYWTuYLJooIm4T1BhHwJgwxWVtq&sid=l8kzPAOj12ANnIkF8u6JO9n4t0VBXYFM&uid=D4rMshhUyzljy2UXzEdxzm7N8r4EiI18&es=us-b5-p-e-wo1.cdn.mdstrm.com&ote=1678683658367&ot=DL1YnzKqyVc1dn6u5nnrNQ&proto=https&pz=us
+
+#EXTINF:-1 tvg-chno="202" tvg-logo="https://lh3.googleusercontent.com/-YUlLyA8Pk7Y/X5n9AMtVNNI/AAAAAAAA61E/UkiOjRsCTWMa94h4g35uC424D4E_wU_2gCK8BGAsYHg/s0/2020-10-28.png",Hiperconectados TV
+https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="205" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png",Caracol HD
 http://odenfull.co:2086/live/Waltersoto03/Soto/213270.m3u8
 
