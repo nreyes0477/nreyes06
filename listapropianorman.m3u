@@ -707,7 +707,7 @@ http://181.78.1.217:8146/play/a07k
 http://181.78.1.217:8146/play/a07j
 
 #EXTINF:-1 tvg-chno="414" tvg-logo="https://www.directv.cl/content/dam/public-sites/channels/624.png",Espn 4 MX HD
-http://200.48.19.141:10021/play/a014
+http://45.232.210.3:8000/play/a0ax
 
 #EXTINF:-1 tvg-chno="425" tvg-logo="https://www.directv.cl/content/dam/public-sites/channels/607.png",Fox Sports MX
 http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/138841.m3u8
