@@ -494,7 +494,7 @@ https://v-px.mybtv.net:443/live/39/1920x1080.m3u8
 https://v-la.mybtv.net:443/live/267/1920x1080.m3u8?
 
 #EXTINF:-1 tvg-chno="225" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/telemundo-puerto-rico-en-vivo-1391.png",Telemundo Puerto Rico 
-http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/38849.m3u8
+https://nbculocallive.akamaized.net:443/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 
 #EXTINF:-1 tvg-chno="250" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg",E! Entertainment HD
 http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/30360.m3u8
