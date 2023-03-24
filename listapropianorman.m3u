@@ -665,22 +665,22 @@ http://181.175.41.170:8000/play/a0gf
 http://181.175.41.170:8000/play/a0gg
 
 #EXTINF:-1 tvg-chno="400" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg",Futv HD
-http://45.5.118.213:16000/play/a0ng/index.m3u8
-
-#EXTINF:-1 tvg-chno="401" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg",Futv HD Opc 2
 http://181.78.105.146:8000/play/a052
 
-#EXTINF:-1 tvg-chno="402" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg",Futv HD Opc 3
+#EXTINF:-1 tvg-chno="401" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg",Futv HD Opc 2
 http://181.189.243.254:8000/play/a0t3/index.m3u8
 
-#EXTINF:-1 tvg-chno="403" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR
-http://190.149.66.90:16000/play/a03j/index.m3u8
+#EXTINF:-1 tvg-chno="402" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg",Futv HD Opc 3
+http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/21798.m3u8
 
-#EXTINF:-1 tvg-chno="404" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR Opc 2
+#EXTINF:-1 tvg-chno="403" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR
 http://45.5.118.226:8000/play/a02v/index.m3u8
 
-#EXTINF:-1 tvg-chno="405" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR Opc 3
+#EXTINF:-1 tvg-chno="404" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR Opc 2
 http://181.78.105.146:8000/play/a05x
+
+#EXTINF:-1 tvg-chno="405" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR Opc 3
+http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/155627.m3u8
 
 #EXTINF:-1 tvg-chno="406" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0o9.png",TD + HD
 http://181.78.105.146:8000/play/a00p
