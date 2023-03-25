@@ -287,7 +287,7 @@ https://5ff3d9babae13.streamlock.net:443/8000/8000/chunklist_w528524097.m3u8
 https://zmlive.zappingtv.com:443/zm-free/zm.smil/chunklist_live1_b4131600_sles.m3u8
 
 #EXTINF:-1 tvg-chno="147" tvg-logo="https://www.infozona.com.ar/wp-content/uploads/2022/09/gran-hermano-telefe-1024x576.jpg",Gran Hermano Arg 24/7
-https://service-stitcher.clusters.pluto.tv:443/stitch/hls/channel/6320ddef274b1b0007b2ee88livestitch/2977158/playlist.m3u8?terminate=false&sid=b754bd98-d029-a014-16cf-707ecdf80322&deviceDNT=0&deviceModel=0&deviceVersion=0&deviceId=0&appVersion=0&deviceType=0&deviceMake=0
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6320ddef274b1b0007b2ee88livestitch/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=6e1ba002-ed88-d893-8472-d04b1fd11ec1&deviceDNT=0&deviceModel=0&profilesFromStream=true
 
 #EXTINF:-1 tvg-chno="148" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/styles/focal-760x428/public/images/promo/livestreams/2023/01/17/lcdlf2_espia_24horas_hd_0.png",Cam 1 / La Casa de los Famosos 
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLF/master_CAM1.m3u8
