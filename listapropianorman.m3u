@@ -154,9 +154,6 @@ https://v4.tustreaming.cl/poptv/playlist.m3u8
 #EXTINF:-1 tvg-chno="55" tvg-logo="https://www.doutico.com/wpimages/wpe9343c85_05_06.jpg",Canal Pura Vida
 https://vsd110.mycdn.me/hls/3076169009882.m3u8/sig/haa4nxQU58M/expires/1679161444622/srcIp/45.239.66.196/urls/185.226.52.65/clientType/0/srcAg/CHROME_ANDROID/mid/3944052629210/video.m3u8?p
 
-#EXTINF:-1 tvg-chno="56" tvg-logo="https://i2.paste.pics/c62d925b201bdb9d034e4d582d62abf2.png",MZ Sports HD
-https://cloudvideo.servers10.com:8081/8248/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-chno="58" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
@@ -215,7 +212,7 @@ https://cloudvideo.servers10.com:8081/8198/index.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=D4rMshhUyzljy2UXzEdxzm7N8r4EiI18&sid=KOhl3BXyIrYst7OzNMpBPkuMnAQNKm10&pid=KWcOmLuQAKLkxciTtr4giEXPWEUFGk41&an=screen&at=web-app&av=v5.2.288&ref=https%3A%2F%2Fwww-multimedios-com.cdn.ampproject.org%2Fv%2Fs%2Fwww.multimedios.com%2Fvideo%2Fteleritmo%2Fv2615%3Famp%3D%26amp_gsa%3D1%26amp_js_v%3Da9%26usqp%3Dmq331AQKKAFQArABIIACAw%253D%253D&res=373x210&without_cookies=false&listenerid=&dnt=true
 
 #EXTINF:-1 tvg-chno="77" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/vevo_2016_logo.png",Vevo Latino 
-https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5dcc6a9f1621dc5dd511ca14_samsung&manifest_id=bbeeaa5d-46b9-4bc7-bca0-9a5d0ecf973c&rendition=1080&session_id=3efb2a09-ebdd-87d4-0ccf-52ed9ef5b68f&partner_id=samsung_tv&sid=a884ffa675e1d16e4dd48ae737fec221a941f819d437864038767b6460d18624&pic=114d0b7f95dea8703fdeb1101b0fb8074e4169bb06ccd85a9f4183df6639bc6c&ipv=4&pv=1
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 
 #EXTINF:-1 tvg-chno="78" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo Hip Hop
 https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
@@ -279,9 +276,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f8
 
 #EXTINF:-1 tvg-chno="107" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vh1classics.png",Vh1 Classics Pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-chno="109" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/GVYUXjRm3D.png",Solo Báilalo 80's 90's 🎶
-https://5ff3d9babae13.streamlock.net:443/8000/8000/chunklist_w528524097.m3u8
 
 #EXTINF:-1 tvg-chno="110" tvg-logo="https://www.nettvpro.live/uploads/allimg/21/1-210624214S50-L.jpg",Zapping Music 🎶
 https://zmlive.zappingtv.com:443/zm-free/zm.smil/chunklist_live1_b4131600_sles.m3u8
