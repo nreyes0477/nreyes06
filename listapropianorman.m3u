@@ -1035,7 +1035,7 @@ http://181.78.1.217:8146/play/a07k
 #EXTINF:-1 tvg-chno="713" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/623.png",Espn 3 MX HD
 http://181.78.1.217:8146/play/a07j
 
-#EXTINF:-1 tvg-chno="714" tvg-logo="https://www.directv.cl/content/dam/public-sites/channels/624.png",Espn Chile HD
+#EXTINF:-1 tvg-chno="714" tvg-logo="https://api.express.com.ar/storage/channels/6243092e34c7d1648560430.png",Espn Chile HD
 http://45.232.210.3:8000/play/a0ax
 
 #EXTINF:-1 tvg-chno="720" tvg-logo="https://www.directv.cl/content/dam/public-sites/channels/607.png",Fox Sports MX
