@@ -604,7 +604,7 @@ https://bcovlive-a.akamaihd.net:443/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/201865.m3u8
 
 #EXTINF:-1 tvg-chno="341" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",RCP (PA)
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/201866.m3u8
+http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2107639.m3u8
 
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Next TV (PA)
 https://mediacp.us:8081/nex/tracks-v1a1/mono.m3u8
@@ -629,9 +629,6 @@ http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2107635.m3u8
 
 #EXTINF:-1 tvg-chno="352" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Unicanal (PY)
 https://streaming.unicanal.com.py/live/unicanal_mid.m3u8
-
-#EXTINF:-1 tvg-chno="353" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",RPC (PY)
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2107639.m3u8
 
 #EXTINF:-1 tvg-chno="355" tvg-logo="https://gzcsecurity.com/img/nosotros/seguridad/americatv-min.jpg",América TV HD
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/199968.m3u8
