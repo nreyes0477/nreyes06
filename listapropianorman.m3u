@@ -151,7 +151,7 @@ https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1647139122.m3u8
 https://v4.tustreaming.cl/poptv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="55" tvg-logo="https://www.doutico.com/wpimages/wpe9343c85_05_06.jpg",Canal Pura Vida
-https://vsd87.mycdn.me:443/hls/3076169009882.m3u8/sig/Po390rEqk4g/expires/1680072670876/srcIp/45.239.66.196/urls/45.136.22.66/clientType/0/srcAg/CHROME_ANDROID/mid/3944052629210/3076169009882_fullhd/index.m3u8
+https://ssh101.bozztv.com/ssh101/D0UT1C0/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="58" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
