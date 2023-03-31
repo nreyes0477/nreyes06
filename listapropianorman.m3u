@@ -403,7 +403,7 @@ http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/25348.m3u8
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/25355.m3u8
 
 #EXTINF:-1 tvg-chno="244" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png",Canal 24 Horas HD (CH)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1679628482/ei/YsQcZO3gL_jClu8PnveZ-AE/ip/3.134.238.10/id/uOt78lA2p1c.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgKdEDZKTrV7xWKs0mqmBG4OlXznSO0z0sEs6eD0L7lLoCICNa0epc9r9DfsZv3JNIrkYHOCZ1P3E7oSQQuiYnx0VG/file/index.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/38537.m3u8
 
 #EXTINF:-1 tvg-chno="250" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png",Caracol HD
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/176568.m3u8
