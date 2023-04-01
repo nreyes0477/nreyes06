@@ -522,32 +522,32 @@ http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/16634.m3u8
 #EXTINF:-1 tvg-chno="297" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo LA
 http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/1935.m3u8
 
-#EXTINF:-1 tvg-chno="300" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal 5 (HN)
+#EXTINF:-1 tvg-chno="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_5_HN_logo.png/180px-Canal_5_HN_logo.png",Canal 5 (HN)
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2100966.m3u8
 
-#EXTINF:-1 tvg-chno="303" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal 6 (HN)
+#EXTINF:-1 tvg-chno="303" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal6.jpg/250px-Canal6.jpg",Canal 6 (HN)
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2100967.m3u8
 
-#EXTINF:-1 tvg-chno="304" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Telecadena (HN)
+#EXTINF:-1 tvg-chno="304" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/180px-Telecadena7y42018.png",Telecadena (HN)
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2100981.m3u8
 
-#EXTINF:-1 tvg-chno="305" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal 11 (HN)
+#EXTINF:-1 tvg-chno="305" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Canal_11_HN_logo_2010.png/180px-Canal_11_HN_logo_2010.png",Canal 11 (HN)
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2100971.m3u8
 
-#EXTINF:-1 tvg-chno="306" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",CHTV (HN)
+#EXTINF:-1 tvg-chno="306" tvg-logo="https://chtv.hn/wp-content/uploads/2020/01/512-1.png",CHTV (HN)
 https://media.streambrothers.com:1936/8054/8054/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="307" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",HCH (HN)
+#EXTINF:-1 tvg-chno="307" tvg-logo="https://hch.tv/wp-content/uploads/2021/09/logos-hch-bueno-1.png",HCH (HN)
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2100955.m3u8
 
-#EXTINF:-1 tvg-chno="308" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",TVC TSI (HN)
+#EXTINF:-1 tvg-chno="308" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TSi_logo.png/180px-TSi_logo.png",TVC TSI (HN)
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2100960.m3u8
 
-#EXTINF:-1 tvg-chno="309" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",CTV Internacional (HN)
+#EXTINF:-1 tvg-chno="309" tvg-logo="https://image.roku.com/developer_channels/prod/51815da9f86794012aed4f696ce25f08ca883f2560a1a6c1fb0361bb16716c87.png",CTV Internacional (HN)
 https://mediacp.us:8081/ctvhn/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="310" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Ten (HN)
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2100962.m3u8
+#EXTINF:-1 tvg-chno="310" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal10Honduras2019.png/revision/latest/scale-to-width-down/250?cb=20190604153849",Ten (HN)
+https://62418d5684c12.streamlock.net/TENHD/TENLive.smil/chunklist_w573436473_b698000.m3u8
 
 #EXTINF:-1 tvg-chno="315" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Azteca_Uno_logo.webp/245px-Azteca_Uno_logo.webp.png",Azteca 1
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/10816.m3u8
