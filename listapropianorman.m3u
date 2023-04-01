@@ -450,34 +450,34 @@ http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/11039.m3u8
 #EXTINF:-1 tvg-chno="268" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TVCEcuador2023.webp/250px-TVCEcuador2023.webp.png",Televicentro (EC)
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/176977.m3u8
 
-#EXTINF:-1 tvg-chno="270" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",La 1 (ES)
+#EXTINF:-1 tvg-chno="270" tvg-logo="https://logos.streamsites.eu/2756_tve-en-directo-la-1_overview.png",La 1 (ES)
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 
-#EXTINF:-1 tvg-chno="271" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",La 2 (ES)
+#EXTINF:-1 tvg-chno="271" tvg-logo="https://logos.streamsites.eu/2894_la-2-en-directo_overview.png",La 2 (ES)
 https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main.m3u8
 
-#EXTINF:-1 tvg-chno="272" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Antena 3 (ES)
+#EXTINF:-1 tvg-chno="272" tvg-logo="https://logos.streamsites.eu/2516_antena3_overview.png",Antena 3 (ES)
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2100547.m3u8
 
 #EXTINF:-1 tvg-chno="273" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Antena 3 Internacional (ES)
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2100550.m3u8
 
-#EXTINF:-1 tvg-chno="274" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png", Cuatro HD(ES)
+#EXTINF:-1 tvg-chno="274" tvg-logo="https://logos.streamsites.eu/2551_cuatro_overview.png", Cuatro HD (ES)
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2100552.m3u8
 
-#EXTINF:-1 tvg-chno="275" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Telecinco HD(ES)
+#EXTINF:-1 tvg-chno="275" tvg-logo="https://logos.streamsites.eu/2531_telecinco_overview.png",Telecinco HD (ES)
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2100555.m3u8
 
-#EXTINF:-1 tvg-chno="276" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",La Sexta (ES)
+#EXTINF:-1 tvg-chno="276" tvg-logo="https://logos.streamsites.eu/2697_la-sexta_overview.png",La Sexta (ES)
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2100557.m3u8
 
-#EXTINF:-1 tvg-chno="277" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Mega HD (ES)
+#EXTINF:-1 tvg-chno="277" tvg-logo="https://logos.streamsites.eu/3488_mega_overview.png",Mega HD (ES)
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2100571.m3u8
 
 #EXTINF:-1 tvg-chno="278" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",TVE Internacional (ES)
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2100537.m3u8
 
-#EXTINF:-1 tvg-chno="283" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png",NBC Universo
+#EXTINF:-1 tvg-chno="283" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png",NBC Universo (USA)
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/1939.m3u8
 
 #EXTINF:-1 tvg-chno="284" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/300px-Estrella_TV_Logo_2020.png",Estrella TV (USA)
