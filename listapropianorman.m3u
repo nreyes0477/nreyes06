@@ -399,7 +399,7 @@ https://d2ab26kihxq8p0.cloudfront.net:443/hls/live_720p30.m3u8
 #EXTINF:-1 tvg-chno="242" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",TV + HD (CH)
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/25348.m3u8
 
-#EXTINF:-1 tvg-chno="243" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal 13C (CH)
+#EXTINF:-1 tvg-chno="243" tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-13-c_m.png",Canal 13C (CH)
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/25355.m3u8
 
 #EXTINF:-1 tvg-chno="244" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png",Canal 24 Horas HD (CH)
