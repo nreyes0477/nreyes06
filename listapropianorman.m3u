@@ -430,7 +430,7 @@ http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/176612.m3u8
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/176573.m3u8
 
 #EXTINF:-1 tvg-chno="262" tvg-logo="https://www.ecuadortv.ec/wp-content/uploads/2022/03/cropped-EcuadorTvWeb.png",Ecuador TV
-https://skyfire.vimeocdn.com/1680412284-0x1418cbda6275d9b23abba4c19016a67af3c016a2/cc02cf97-c611-4952-89ea-dddc5c4dd393/sep/video/10c02ca0,4d326220,b2a8eb70,df666d30/master.m3u8?query_string_ranges=1
+https://live-api.vimeocdn.com/sessions/094ef82e-94b7-4721-8bee-abeec90388b0/playlist/hls.m3u8?cdn=akamai&~exp=1680415200&~id=player&~sig=84HI9j7Ri8VlkXnNERG6z2mw-Q1f2wIbQ_FhdzsqZa4
 
 #EXTINF:-1 tvg-chno="263" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/400px-Ecuavisa_Logo_2019.png",Ecuavisa
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/11032.m3u8
