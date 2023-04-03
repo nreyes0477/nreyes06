@@ -513,8 +513,8 @@ http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2106834.m3u8
 #EXTINF:-1 tvg-chno="294" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás LA
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/10896.m3u8
 
-#EXTINF:-1 tvg-chno="295" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo NY
-http://71.187.29.54:8000/play/a07a/index.m3u8
+#EXTINF:-1 tvg-chno="295" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo MI
+http://168.228.194.32:58001/play/a0c3/index.m3u8
 
 #EXTINF:-1 tvg-chno="296" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo PX
 http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/16634.m3u8
@@ -550,19 +550,19 @@ https://mediacp.us:8081/ctvhn/tracks-v1a1/mono.m3u8
 https://62418d5684c12.streamlock.net/TENHD/TENLive.smil/chunklist_w573436473_b698000.m3u8
 
 #EXTINF:-1 tvg-chno="315" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Azteca_Uno_logo.webp/245px-Azteca_Uno_logo.webp.png",Azteca 1
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/10816.m3u8
+http://168.228.194.32:58001/play/a0ck/index.m3u8
 
 #EXTINF:-1 tvg-chno="316" tvg-logo="https://www.cineytele.com/wp-content/uploads/2018/09/AZ-MUNDO-NI-1024x320.jpg",Azteca Mundo
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/37804.m3u8
 
 #EXTINF:-1 tvg-chno="317" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png",Azteca 7
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/154123.m3u8
+http://168.228.194.32:58001/play/a0cj/index.m3u8
 
 #EXTINF:-1 tvg-chno="318" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/27471.m3u8
+http://168.228.194.32:58001/play/a0c1/index.m3u8
 
 #EXTINF:-1 tvg-chno="319" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/724px-Canal_5_2016.svg.png",Canal 5
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/27472.m3u8
+http://168.228.194.32:58001/play/a0cl/index.m3u8
 
 #EXTINF:-1 tvg-chno="320" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/10/Multimedios-TV-Canal-6-en-vivo-Online.png?resize=1068%2C601&ssl=1",Multimedios (MX)
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
