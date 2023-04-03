@@ -820,13 +820,13 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/30316.m3u8
 
 #EXTINF:-1 tvg-chno="441" tvg-logo="https://cdn.mitvstatic.com/channels/ar_disney_m.png",Disney Channel HD
-http://sansat.net:25461/live/02026169772889/RQFJ29BZI993BHC/95060.m3u8
+http://168.228.194.32:58001/play/a08y/index.m3u8
 
 #EXTINF:-1 tvg-chno="442" tvg-logo="https://cdn.mitvstatic.com/channels/ar_disney-jr_m.png",Disney Junior HD
-http://sansat.net:25461/live/02026169772889/RQFJ29BZI993BHC/95061.m3u8
+http://168.228.194.32:58001/play/a04v/index.m3u8
 
 #EXTINF:-1 tvg-chno="443" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-kids_m.png",Discovery Kids HD
-http://sansat.net:25461/live/02026169772889/RQFJ29BZI993BHC/95080.m3u8
+http://168.228.194.32:58001/play/a00x/index.m3u8
 
 #EXTINF:-1 tvg-chno="450" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/400px-The_Simpsons_yellow_logo.svg.png",Los Simpsons 1
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2091014.m3u8
