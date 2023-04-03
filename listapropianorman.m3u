@@ -505,7 +505,7 @@ http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/9510.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/9505.m3u8
 
 #EXTINF:-1 tvg-chno="292" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás NY
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2106842.m3u8
+http://168.228.194.32:58001/play/a0c4/index.m3u8
 
 #EXTINF:-1 tvg-chno="293" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás PX
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2106834.m3u8
