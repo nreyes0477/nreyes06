@@ -637,7 +637,7 @@ http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/199968.m3u8
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/10629.m3u8
 
 #EXTINF:-1 tvg-chno="357" tvg-logo="https://cdn.mitvstatic.com/channels/pe_panamericana-tv_m.png",Panamericana
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/10628.m3u8
+https://cdnhd.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-1 tvg-chno="358" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/peru_magico-mediano.png",Perú Mágico
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/10634.m3u8
