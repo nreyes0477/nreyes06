@@ -804,9 +804,6 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 tvg-chno="428" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",El Confidencial 
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 
-#EXTINF:-1 tvg-chno="429" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",7NN Noticias 
-https://dxf45ob769xpw.cloudfront.net/out/v1/90ce358337e14be3bb82b6566b50a8b1/index.m3u8
-
 #EXTINF:-1 tvg-chno="430" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",CGTN Español 
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
@@ -841,31 +838,31 @@ http://tvstarlife.com:25461/live/geovany/geovany/10678.m3u8
 http://181.78.105.146:9000/play/a02e
 
 #EXTINF:-1 tvg-chno="505" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-id_m.png",ID Investigation HD
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/38492.m3u8
+http://168.228.194.32:58001/play/a0a2/index.m3u8
 
 #EXTINF:-1 tvg-chno="510" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png",History Channel HD
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/3564.m3u8
+http://168.228.194.32:58001/play/a05h/index.m3u8
 
 #EXTINF:-1 tvg-chno="511" tvg-logo="https://alexgarci.com/iqc/wp-content/uploads/2022/02/LOGO-H2.png",History 2 HD
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/30352.m3u8
+http://168.228.194.32:58001/play/a0bx/index.m3u8
 
 #EXTINF:-1 tvg-chno="512" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo HD
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/30361.m3u8
+http://168.228.194.32:58001/play/a09v/index.m3u8
 
 #EXTINF:-1 tvg-chno="513" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png",Animal Planet HD
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/34380.m3u8
+http://168.228.194.32:58001/play/a05q/index.m3u8
 
 #EXTINF:-1 tvg-chno="515" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health HD
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/38469.m3u8
+http://168.228.194.32:58001/play/a08e/index.m3u8
 
 #EXTINF:-1 tvg-chno="520" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery_m.png",Discovery Channel HD
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/3313.m3u8
+http://168.228.194.32:58001/play/a09y/index.m3u8
 
 #EXTINF:-1 tvg-chno="521" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png",Discovery Theater HD
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/30324.m3u8
+http://168.228.194.32:58001/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-chno="522" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery World HD
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/3309.m3u8
+http://168.228.194.32:58001/play/a09z/index.m3u8
 
 #EXTINF:-1 tvg-chno="525" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png",Comedy Central HD
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/30319.m3u8
