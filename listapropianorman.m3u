@@ -1063,7 +1063,7 @@ http://45.228.234.77:4430/play/tudn
 http://45.5.117.172:8000/play/a05p/index.m3u8
 
 #EXTINF:-1 tvg-chno="745" tvg-logo="https://images.squarespace-cdn.com/content/v1/58597a19e58c62ba7fa48bf9/1626211994542-XUWFSKZ5AW26W6RBLXOA/1200px-Claro_Sports_logo.svg.png",Claro Sports MX
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/51388.m3u8
+http://168.228.194.32:58001/play/a030/index.m3u8
 
 #EXTINF:-1 tvg-chno="750" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",DirecTV Sports 
 http://45.5.117.172:8000/play/a047/index.m3u8
