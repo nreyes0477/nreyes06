@@ -865,28 +865,28 @@ http://168.228.194.32:58001/play/a08d/index.m3u8
 http://168.228.194.32:58001/play/a09z/index.m3u8
 
 #EXTINF:-1 tvg-chno="525" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png",Comedy Central HD
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/30319.m3u8
+http://168.228.194.32:58001/play/a08g/index.m3u8
 
 #EXTINF:-1 tvg-chno="530" tvg-logo="https://i4.hurimg.com/i/hurriyet/75/600x338/5dbd043ed3806c1dec53824d.jpg",Kanal Drama HD
 http://200.48.19.142:8000/play/a01l
 
 #EXTINF:-1 tvg-chno="531" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tru-tv_m.png",Trutv HD
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/3110.m3u8
+http://168.228.194.32:58001/play/a04y/index.m3u8
 
 #EXTINF:-1 tvg-chno="532" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Glitzlogo.png/150px-Glitzlogo.png",Glitz HD
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/1491.m3u8
+http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/210855.m3u8
 
 #EXTINF:-1 tvg-chno="533" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sun_channel-mediano.png",Sun Channel HD
 http://190.61.102.67:444/play/a023
 
 #EXTINF:-1 tvg-chno="534" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-gourmet_m.png",El Gourmet HD
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/30331.m3u8
+http://168.228.194.32:58001/play/a06u/index.m3u8
 
 #EXTINF:-1 tvg-chno="535" tvg-logo="https://cdn.mitvstatic.com/channels/ar_pasiones_m.png",Pasiones HD
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/61391.m3u8
+http://168.228.194.32:58001/play/a0a0/index.m3u8
 
 #EXTINF:-1 tvg-chno="536" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar%2B_Logo.png/640px-Movistar%2B_Logo.png",Movistar Plus
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/40374.m3u8
+http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/192424.m3u8
 
 #EXTINF:-1 tvg-chno="600" tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png",A&E HD
 http://181.78.105.146:9000/play/a02g
@@ -1089,8 +1089,8 @@ http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2070834.m3u8
 #EXTINF:-1 tvg-chno="763" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Sky Sports
 http://45.5.117.172:8000/play/a05s/index.m3u8
 
-#EXTINF:-1 tvg-chno="765" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sport-XTRA.png",Bein Sports XTRA
-https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
+#EXTINF:-1 tvg-chno="765" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sport-XTRA.png",Bein Sports Ñ
+http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/10929.m3u8
 
 #EXTINF:-1 tvg-chno="770" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",DeporTV Argentina 
 https://538d0bde28ccf.streamlock.net:443/live-cont.ar/deportv/chunklist_w986698151.m3u8
