@@ -283,19 +283,19 @@ https://telemundolive.akamaized.net/hls/live/2093200/LCDLF/master_CAM1.m3u8
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLF/master_CAM2.m3u8
 
 #EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",Canal 13 FHD
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/210852.m3u8
-
-#EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",Canal 13 HD
 http://hidra.live:80/live/aqqtamco/vk3e30K4Yi/43314.m3u8
 
-#EXTINF:-1 tvg-chno="202" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe FHD
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/210861.m3u8
+#EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",Canal 13 HD
+http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/210852.m3u8
 
-#EXTINF:-1 tvg-chno="203" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe HD
+#EXTINF:-1 tvg-chno="202" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe FHD
 http://hidra.live:80/live/aqqtamco/vk3e30K4Yi/43311.m3u8
 
+#EXTINF:-1 tvg-chno="203" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe HD
+http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/210861.m3u8
+
 #EXTINF:-1 tvg-chno="204" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png",Telefe (INT)
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/81231.m3u8
+https://siloh-mcdn.plutotv.net:443/lilo/production/TelefePluto/master_1.m3u8
 
 #EXTINF:-1 tvg-chno="205" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_13max_HD.png/180px-Logo_13max_HD.png",13 Max Televisión 
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w2127147547.m3u8
