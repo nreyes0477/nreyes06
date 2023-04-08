@@ -712,10 +712,10 @@ http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2055383.m3u8
 http://hidra.live:80/live/aqqtamco/vk3e30K4Yi/304347.m3u8
 
 #EXTINF:-1 tvg-chno="389" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Venevisión 
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2106073.m3u8
+http://200.31.4.14:8000/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-chno="390" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Venezolana de TV
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2106076.m3u8
+http://200.31.4.14:8000/play/a06v/index.m3u8
 
 #EXTINF:-1 tvg-chno="391" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Globovisión (VE)
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2106060.m3u8
@@ -724,16 +724,16 @@ http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2106060.m3u8
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2145660.m3u8
 
 #EXTINF:-1 tvg-chno="393" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Meridiano (VE)
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2106062.m3u8
+http://200.31.4.14:8000/play/a079/index.m3u8
 
 #EXTINF:-1 tvg-chno="394" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Telesur (VE)
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2123568.m3u8
+http://200.31.4.14:8000/play/a06y/index.m3u8
 
 #EXTINF:-1 tvg-chno="395" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Televen (VE)
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2106065.m3u8
+http://200.31.4.14:8000/play/a07a/index.m3u8
 
 #EXTINF:-1 tvg-chno="396" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",TVes (VE)
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2106070.m3u8
+http://200.31.4.14:8000/play/a06x/index.m3u8
 
 #EXTINF:-1 tvg-chno="397" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Vale TV (VE)
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2106071.m3u8
