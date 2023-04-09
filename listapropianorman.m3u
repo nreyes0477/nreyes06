@@ -612,22 +612,22 @@ https://mediacp.us:8081/nex/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="343" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos.png?zoom=3&resize=100%2C70&ssl=1",Cableonda 🇵🇦
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/201868.m3u8
 
-#EXTINF:-1 tvg-chno="347" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Paraguay TV 🇵🇾
+#EXTINF:-1 tvg-chno="347" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png",Paraguay TV 🇵🇾
 http://tvstarlife.com:25461/live/geovany/geovany/342.m3u8
 
-#EXTINF:-1 tvg-chno="348" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Paravisión 🇵🇾
+#EXTINF:-1 tvg-chno="348" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png",Paravisión 🇵🇾
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2107638.m3u8
 
-#EXTINF:-1 tvg-chno="349" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Telefuturo 🇵🇾
+#EXTINF:-1 tvg-chno="349" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg",Telefuturo 🇵🇾
 http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/1885.m3u8
 
-#EXTINF:-1 tvg-chno="350" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal Trece 🇵🇾
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/216768.m3u8
+#EXTINF:-1 tvg-chno="350" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/240px-Logotrececanal.png",Canal Trece 🇵🇾
+https://streaming.trece.com.py/live/trece.m3u8
 
-#EXTINF:-1 tvg-chno="351" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",La Tele 🇵🇾
+#EXTINF:-1 tvg-chno="351" tvg-logo="https://latele.com.py/wp-content/uploads/2022/06/logo-latele.png",La Tele 🇵🇾
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2107635.m3u8
 
-#EXTINF:-1 tvg-chno="352" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Unicanal 🇵🇾
+#EXTINF:-1 tvg-chno="352" tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png",Unicanal 🇵🇾
 https://streaming.unicanal.com.py/live/unicanal_mid.m3u8
 
 #EXTINF:-1 tvg-chno="355" tvg-logo="https://gzcsecurity.com/img/nosotros/seguridad/americatv-min.jpg",América TV HD 🇵🇪
