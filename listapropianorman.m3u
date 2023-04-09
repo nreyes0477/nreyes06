@@ -471,7 +471,10 @@ http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2100557.m3u8
 #EXTINF:-1 tvg-chno="277" tvg-logo="https://logos.streamsites.eu/3488_mega_overview.png",Mega HD 🇪🇸
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2100571.m3u8
 
-#EXTINF:-1 tvg-chno="278" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1403px-Logo_TVE-Internacional.svg.png",TVE Internacional 🇪🇸
+#EXTINF:-1 tvg-chno="278" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",Star TVE HD 🇪🇸
+http://168.228.194.32:58001/play/a061/index.m3u8
+
+#EXTINF:-1 tvg-chno="279" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1403px-Logo_TVE-Internacional.svg.png",TVE Internacional 🇪🇸
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2100537.m3u8
 
 #EXTINF:-1 tvg-chno="283" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png",NBC Universo 🇺🇸
@@ -765,7 +768,7 @@ https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 #EXTINF:-1 tvg-chno="406" tvg-logo="https://www.deel.com/hs-fs/hubfs/Platzi%20logo.png?width=1000&height=387&name=Platzi%20logo.png",Platzi TV
 https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream/5ba02fd50f8c3d0d79f7a665/playout/master.m3u8?aid=512e13acaca1ebcd2f000279&pid=vaoysiYWTuYLJooIm4T1BhHwJgwxWVtq&sid=l8kzPAOj12ANnIkF8u6JO9n4t0VBXYFM&uid=D4rMshhUyzljy2UXzEdxzm7N8r4EiI18&es=us-b5-p-e-wo1.cdn.mdstrm.com&ote=1678683658367&ot=DL1YnzKqyVc1dn6u5nnrNQ&proto=https&pz=us
 
-#EXTINF:-1 tvg-chno="398" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ConCiencia TV
+#EXTINF:-1 tvg-chno="407" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ConCiencia TV
 http://200.31.4.14:8000/play/a073/index.m3u8
 
 #EXTINF:-1 tvg-chno="415" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cnn-en-espanol_m.png",CNN Español 
