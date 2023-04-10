@@ -747,73 +747,73 @@ http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2130324.m3u8
 #EXTINF:-1 tvg-chno="399" tvg-logo="https://www.novelisima.com/assets/images/logo.png",Novelissima 🇻🇪
 https://novelisima.akamaized.net:443/hls/live/2031534/novelisimaABR/2/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-chno="400" tvg-logo="https://elhistonauta.com/wp-content/uploads/2021/05/cropped-cropped-logo_claro-1024x323.png",El Histonauta TV
+#EXTINF:-1 tvg-chno="400" tvg-logo="https://elhistonauta.com/wp-content/uploads/2021/05/cropped-cropped-logo_claro-1024x323.png",El Histonauta TV 🇦🇷
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="401" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/200px-Ucvtvlogo2014mejorado.png",UCV Chile
+#EXTINF:-1 tvg-chno="401" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/200px-Ucvtvlogo2014mejorado.png",UCV Chile 🇨🇱
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="402" tvg-logo="https://lh3.googleusercontent.com/-YUlLyA8Pk7Y/X5n9AMtVNNI/AAAAAAAA61E/UkiOjRsCTWMa94h4g35uC424D4E_wU_2gCK8BGAsYHg/s0/2020-10-28.png",Hiperconectados TV
+#EXTINF:-1 tvg-chno="402" tvg-logo="https://lh3.googleusercontent.com/-YUlLyA8Pk7Y/X5n9AMtVNNI/AAAAAAAA61E/UkiOjRsCTWMa94h4g35uC424D4E_wU_2gCK8BGAsYHg/s0/2020-10-28.png",Hiperconectados TV 🇨🇱
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="403" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/640px-HispanTv_logo.svg.png",Hispan TV
+#EXTINF:-1 tvg-chno="403" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/640px-HispanTv_logo.svg.png",Hispan TV 🇮🇷
 https://live1.presstv.ir/live/hispan.m3u8
 
-#EXTINF:-1 tvg-chno="404" tvg-logo="https://lh3.googleusercontent.com/-A_RaYdHsdSU/XxzKXkCODJI/AAAAAAAA3Y0/elHa2TXc-z8HpetZx_GzDK0vaepcN4xLACK8BGAsYHg/s0/2020-07-25.png",UCL (UY)
+#EXTINF:-1 tvg-chno="404" tvg-logo="https://lh3.googleusercontent.com/-A_RaYdHsdSU/XxzKXkCODJI/AAAAAAAA3Y0/elHa2TXc-z8HpetZx_GzDK0vaepcN4xLACK8BGAsYHg/s0/2020-07-25.png",UCL 🇺🇾
 http://162.246.18.122:8081/telepuerto-master/ucl-abr/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="405" tvg-logo="https://lh3.googleusercontent.com/-A_RaYdHsdSU/XxzKXkCODJI/AAAAAAAA3Y0/elHa2TXc-z8HpetZx_GzDK0vaepcN4xLACK8BGAsYHg/s0/2020-07-25.png",Tec TV
+#EXTINF:-1 tvg-chno="405" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/TEC_TV_-_2014_logo.png",Tec TV 🇦🇷
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 
-#EXTINF:-1 tvg-chno="406" tvg-logo="https://www.deel.com/hs-fs/hubfs/Platzi%20logo.png?width=1000&height=387&name=Platzi%20logo.png",Platzi TV
+#EXTINF:-1 tvg-chno="406" tvg-logo="https://www.deel.com/hs-fs/hubfs/Platzi%20logo.png?width=1000&height=387&name=Platzi%20logo.png",Platzi TV 🇨🇱
 https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream/5ba02fd50f8c3d0d79f7a665/playout/master.m3u8?aid=512e13acaca1ebcd2f000279&pid=vaoysiYWTuYLJooIm4T1BhHwJgwxWVtq&sid=l8kzPAOj12ANnIkF8u6JO9n4t0VBXYFM&uid=D4rMshhUyzljy2UXzEdxzm7N8r4EiI18&es=us-b5-p-e-wo1.cdn.mdstrm.com&ote=1678683658367&ot=DL1YnzKqyVc1dn6u5nnrNQ&proto=https&pz=us
 
-#EXTINF:-1 tvg-chno="407" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ConCiencia TV
+#EXTINF:-1 tvg-chno="407" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ConcienciaTV_logo_letras.png/1280px-ConcienciaTV_logo_letras.png",ConCiencia TV 🇻🇪
 http://200.31.4.14:8000/play/a073/index.m3u8
 
-#EXTINF:-1 tvg-chno="415" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cnn-en-espanol_m.png",CNN Español 
+#EXTINF:-1 tvg-chno="415" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cnn-en-espanol_m.png",CNN Español 🇺🇸
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/155162.m3u8
 
-#EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",CNN Chile
+#EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",CNN Chile 🇨🇱
 http://hidra.live:80/live/aqqtamco/vk3e30K4Yi/35180.m3u8
 
-#EXTINF:-1 tvg-chno="417" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",DW Español 
+#EXTINF:-1 tvg-chno="417" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",DW Español 🇩🇪
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-chno="418" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",RT Español 
+#EXTINF:-1 tvg-chno="418" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",RT Español 🇷🇺
 https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
 
-#EXTINF:-1 tvg-chno="419" tvg-logo="https://cdn.mitvstatic.com/channels/ar_france-24-espanol_m.png",France 24 HD
+#EXTINF:-1 tvg-chno="419" tvg-logo="https://cdn.mitvstatic.com/channels/ar_france-24-espanol_m.png",France 24 HD 🇨🇵
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53301.m3u8
 
 #EXTINF:-1 tvg-chno="420" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Euronews 
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="421" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",24H España 
+#EXTINF:-1 tvg-chno="421" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",24H España 🇪🇦
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
 
-#EXTINF:-1 tvg-chno="422" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",El País 
+#EXTINF:-1 tvg-chno="422" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",El País 🇪🇦
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 
-#EXTINF:-1 tvg-chno="423" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ADN 40
+#EXTINF:-1 tvg-chno="423" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ADN 40 🇲🇽
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-chno="424" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Foro TV
+#EXTINF:-1 tvg-chno="424" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Foro TV 🇲🇽
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
-#EXTINF:-1 tvg-chno="425" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Milenio Noticias
+#EXTINF:-1 tvg-chno="425" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Milenio Noticias 🇲🇽
 http://hidra.live:80/live/aqqtamco/vk3e30K4Yi/302702.m3u8
 
-#EXTINF:-1 tvg-chno="426" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Teleformula
+#EXTINF:-1 tvg-chno="426" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Teleformula 🇲🇽
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/154104.m3u8
 
 #EXTINF:-1 tvg-chno="427" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
-#EXTINF:-1 tvg-chno="428" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",El Confidencial 
+#EXTINF:-1 tvg-chno="428" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",El Confidencial 🇪🇦
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 
-#EXTINF:-1 tvg-chno="430" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",CGTN Español 
+#EXTINF:-1 tvg-chno="430" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",CGTN Español 🇨🇳
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-chno="440" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cartoon-network_m.png",Cartoon Network HD
