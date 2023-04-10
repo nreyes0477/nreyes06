@@ -670,34 +670,34 @@ http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2127620.m3u8
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/10913.m3u8
 
 #EXTINF:-1 tvg-chno="375" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/telemicro.png?zoom=3&resize=100%2C70&ssl=1",Telemicro Canal 5 🇩🇴
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/190814.m3u8
+https://player-api.new.livestream.com/accounts/27456795/events/10633780/broadcasts/235763856.secure.m3u8?dw=80&hdnea=st=1681148958~exp=1681150758~acl=/i/27456795_10633780_lsiigwzfi1hykwlaw21_1@447128/*~hmac=248441e5cfc1ed46c00e350d73c632d7aa60a4099a1c143a16e25109dff70f1b&token=64344d4a_f628a9ab6a833b184a7b50d41eada67d8923f290
 
 #EXTINF:-1 tvg-chno="376" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Color-Visio%CC%81n-9-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Color Visión Canal 9 🇩🇴
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/190802.m3u8
+http://45.5.119.202:54321/play/a06l/index.m3u8
 
 #EXTINF:-1 tvg-chno="377" tvg-logo="https://canalesdominicanos.live/template/images/radios/digital-15.png",Canal 15 🇩🇴
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/224023.m3u8
+https://player-api.new.livestream.com/accounts/27456795/events/10633798/broadcasts/235763256.secure.m3u8?dw=80&hdnea=st=1681148548~exp=1681150348~acl=/i/27456795_10633798_lsisyu2qecoz6d23iuj_1@407883/*~hmac=de7c0cbce39fc6eca2516e2a3d061a931f364599bb84d55aac0c7af63b55f1eb&token=64344bb0_ea46599c03679feeec668b30abcc302759f5d8f7
 
 #EXTINF:-1 tvg-chno="376" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/cdn.png?zoom=3&resize=100%2C70&ssl=1",CDN 🇩🇴
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/190807.m3u8
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/manifest.m3u8?p=79&s=1681149184&e=1681149304&h=7abb42d6c20a5f9885f713108b280abb
 
 #EXTINF:-1 tvg-chno="377" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Megavision-Canal-43-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Megavisión 🇩🇴
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/190822.m3u8
+http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="378" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telesistemac.png?zoom=3&resize=100%2C70&ssl=1",Telesistema 🇩🇴
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/190812.m3u8
+http://45.5.119.202:54321/play/a05y/index.m3u8
 
 #EXTINF:-1 tvg-chno="379" tvg-logo="https://canalesdominicanos.live/template/images/radios/antena_latina_canal_7.jpg",Antena Latina 🇩🇴
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2139294.m3u8
+http://45.5.119.202:54321/play/a05x/index.m3u8
 
-#EXTINF:-1 tvg-chno="380" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/10microvision.png?zoom=3&resize=100%2C70&ssl=1",Microvision 🇩🇴
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2125091.m3u8
+#EXTINF:-1 tvg-chno="380" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/10microvision.png?zoom=3&resize=100%2C70&ssl=1",Microvisión 🇩🇴
+https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="381" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/06/telecentro.png?zoom=3&resize=100%2C70&ssl=1",Telecentro 🇩🇴
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/214868.m3u8
+http://45.5.119.202:54321/play/a06a/index.m3u8
 
 #EXTINF:-1 tvg-chno="382" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/vegavision-canal-18.jpg",Vegavisión Canal 18 🇩🇴
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2130381.m3u8
+https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="383" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/canal-4-montecarlo-en-vivo.png?zoom=3&resize=100%2C70&ssl=1",Canal 4 🇺🇾
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2055388.m3u8
