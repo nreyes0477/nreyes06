@@ -379,13 +379,13 @@ http://190.186.147.95:8000/play/a00z/index.m3u8
 http://190.186.147.95:8000/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-chno="237" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png",CHV HD 🇨🇱
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/25374.m3u8
+http://45.176.116.56:8088/play/a00b
 
 #EXTINF:-1 tvg-chno="238" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png",TVN HD 🇨🇱
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/25387.m3u8
+http://45.176.116.56:8088/play/a009
 
 #EXTINF:-1 tvg-chno="239" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png",Canal 13 🇨🇱
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/25358.m3u8
+http://45.176.116.56:8088/play/a05h
 
 #EXTINF:-1 tvg-chno="240" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mega_chile-mediano.png",Mega HD 🇨🇱
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
@@ -394,7 +394,7 @@ https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 https://d2ab26kihxq8p0.cloudfront.net:443/hls/live_720p30.m3u8
 
 #EXTINF:-1 tvg-chno="242" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",TV + HD 🇨🇱
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/25348.m3u8
+http://45.176.116.56:8088/play/a03i
 
 #EXTINF:-1 tvg-chno="243" tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-13-c_m.png",Canal 13C 🇨🇱
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/25355.m3u8
@@ -772,10 +772,10 @@ https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream/5ba02fd50f8c3d0d79f7a665/playou
 http://200.31.4.14:8000/play/a073/index.m3u8
 
 #EXTINF:-1 tvg-chno="415" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cnn-en-espanol_m.png",CNN Español 🇺🇸
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/155162.m3u8
+http://45.176.116.56:8088/play/a007
 
 #EXTINF:-1 tvg-chno="416" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1",CNN Chile 🇨🇱
-http://hidra.live:80/live/aqqtamco/vk3e30K4Yi/35180.m3u8
+http://45.176.116.56:8088/play/a013
 
 #EXTINF:-1 tvg-chno="417" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/DW-German-Live-TV-Online.png?resize=1068%2C601&ssl=1",DW Español 🇩🇪
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
