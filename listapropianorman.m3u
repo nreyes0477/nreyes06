@@ -451,10 +451,10 @@ http://186.5.31.251:8000/play/a04c/index.m3u8
 http://186.5.31.251:8000/play/a0e0/index.m3u8
 
 #EXTINF:-1 tvg-chno="270" tvg-logo="https://logos.streamsites.eu/2756_tve-en-directo-la-1_overview.png",La 1 🇪🇸
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 #EXTINF:-1 tvg-chno="271" tvg-logo="https://logos.streamsites.eu/2894_la-2-en-directo_overview.png",La 2 🇪🇸
-https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main.m3u8
+https://ztnr.rtve.es/ztnr/1688885.m3u8
 
 #EXTINF:-1 tvg-chno="272" tvg-logo="https://logos.streamsites.eu/2516_antena3_overview.png",Antena 3 🇪🇸
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2100547.m3u8
