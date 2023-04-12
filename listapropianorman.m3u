@@ -382,16 +382,16 @@ http://190.186.147.95:8000/play/a00z/index.m3u8
 http://190.186.147.95:8000/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-chno="237" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png",CHV HD 🇨🇱
-http://45.176.116.56:8088/play/a00b
+http://45.161.115.26:50000/play/a02h/index.m3u8
 
 #EXTINF:-1 tvg-chno="238" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png",TVN HD 🇨🇱
-http://45.176.116.56:8088/play/a009
+http://45.161.115.26:50000/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-chno="239" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png",Canal 13 🇨🇱
-http://45.176.116.56:8088/play/a05h
+http://45.161.115.26:50000/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-chno="240" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mega_chile-mediano.png",Mega HD 🇨🇱
-https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+http://45.161.115.26:50000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-chno="241" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_red_chile-mediano.png",La Red HD 🇨🇱
 https://d2ab26kihxq8p0.cloudfront.net:443/hls/live_720p30.m3u8
@@ -403,7 +403,7 @@ http://45.176.116.56:8088/play/a03i
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/25355.m3u8
 
 #EXTINF:-1 tvg-chno="244" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png",Canal 24 Horas HD 🇨🇱
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/38537.m3u8
+http://45.161.115.26:50000/play/a02z/index.m3u8
 
 #EXTINF:-1 tvg-chno="250" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png",Caracol HD 🇨🇴
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/176568.m3u8
