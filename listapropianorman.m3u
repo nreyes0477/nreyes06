@@ -283,7 +283,7 @@ https://telemundolive.akamaized.net/hls/live/2093200/LCDLF/master_CAM1.m3u8
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLF/master_CAM2.m3u8
 
 #EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",Canal 13 FHD 🇦🇷
-http://hidra.live:80/live/aqqtamco/vk3e30K4Yi/43314.m3u8
+https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",Canal 13 HD 🇦🇷
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/210852.m3u8
@@ -292,7 +292,7 @@ http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/210852.m3u8
 http://186.5.31.251:8000/play/a0ab/index.m3u8
 
 #EXTINF:-1 tvg-chno="203" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe FHD 🇦🇷
-http://hidra.live:80/live/aqqtamco/vk3e30K4Yi/43311.m3u8
+http://play.flamaplus.tv:80/live/ever2022/ever2022/411.m3u8
 
 #EXTINF:-1 tvg-chno="204" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe HD 🇦🇷
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/210861.m3u8
