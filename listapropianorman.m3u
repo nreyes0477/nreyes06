@@ -777,6 +777,21 @@ https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream/5ba02fd50f8c3d0d79f7a665/playou
 #EXTINF:-1 tvg-chno="407" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ConcienciaTV_logo_letras.png/1280px-ConcienciaTV_logo_letras.png",ConCiencia TV 🇻🇪
 http://200.31.4.14:8000/play/a073/index.m3u8
 
+#EXTINF:-1 tvg-chno="408" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal Te lo cuento 🇦🇷
+https://stmv1.cnarlatam.com/telocuento/telocuento/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="409" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal Astronet 🇦🇷
+https://stmv1.cnarlatam.com/astronet/astronet/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="410" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal Mundo TV 🇦🇷
+https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="411" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal Techscience365 🇦🇷
+https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="412" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal Xtremaanimal 🇦🇷
+https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="415" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cnn-en-espanol_m.png",CNN Español 🇺🇸
 http://45.176.116.56:8088/play/a007
 
