@@ -1003,7 +1003,7 @@ http://181.78.105.146:9000/play/a03q
 http://181.78.105.146:9000/play/a03r
 
 #EXTINF:-1 tvg-chno="700" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg",Futv HD
-http://181.78.105.146:8000/play/a052
+http://168.228.194.32:58001/play/a09q/index.m3u8
 
 #EXTINF:-1 tvg-chno="701" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg",Futv HD Opc 2
 http://181.189.243.254:8000/play/a0t3/index.m3u8
@@ -1012,16 +1012,16 @@ http://181.189.243.254:8000/play/a0t3/index.m3u8
 http://45.5.118.226:8000/play/a02v/index.m3u8
 
 #EXTINF:-1 tvg-chno="704" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR Opc 2
-http://181.78.105.146:8000/play/a05x
+http://168.181.161.24:8000/play/a00k
 
 #EXTINF:-1 tvg-chno="706" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0o9.png",TD + HD
-http://181.78.105.146:8000/play/a00p
+http://168.228.194.32:58001/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-chno="707" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0o9.png",TD + HD Opc 2
 http://181.189.243.254:8000/play/a0o9/index.m3u8
 
 #EXTINF:-1 tvg-chno="708" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 HD
-http://181.78.105.146:8000/play/a00q
+http://168.228.194.32:58001/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-chno="709" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 HD Opc 2
 http://181.189.243.254:8000/play/a0oa/index.m3u8
