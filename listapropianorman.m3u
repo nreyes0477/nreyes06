@@ -736,7 +736,7 @@ http://200.31.4.14:8000/play/a07a/index.m3u8
 http://200.31.4.14:8000/play/a06x/index.m3u8
 
 #EXTINF:-1 tvg-chno="397" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Vale-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1",Vale TV 🇻🇪
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2106071.m3u8
+https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="398" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Ve-Plus-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Venevisión Plus 🇻🇪
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2130324.m3u8
