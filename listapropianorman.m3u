@@ -142,16 +142,13 @@ https://cloudvideo.servers10.com:19360/8212/8212.m3u8
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://dreikotv.online/wp-content/uploads/2023/02/logotipo_dreikotv.png",Dreiko Tv CR
-https://tv.fullhd-streaming.com:3807/live/dreikotvlive.m3u8
+https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="53" tvg-logo="https://planetatv.cl/chile/wp-content/uploads/2023/02/PLANETATV3.png",Planeta Tv Movie
 https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1647139122.m3u8
 
 #EXTINF:-1 tvg-chno="54" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/vegavision-canal-18.jpg",Vegavisión Canal 18 🇩🇴
 https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="55" tvg-logo="https://www.radiopop.cl/wp-content/uploads/2022/08/logo-200-px.png",TV Pop Retro
-https://v4.tustreaming.cl/poptv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="56" tvg-logo="https://i.paste.pics/9c22ea0df4ad9c0affc8fe065875781f.png", Retro Mágico 🇦🇷
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
@@ -254,6 +251,9 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w363472295.m3u8
 
 #EXTINF:-1 tvg-chno="96" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png",Recuerdos Retro
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="97" tvg-logo="https://www.radiopop.cl/wp-content/uploads/2022/08/logo-200-px.png",TV Pop Retro
+https://v4.tustreaming.cl/poptv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="98" tvg-logo="https://platcon.tv/img/p/1/1/7/117-home_default.jpg",Retroplus 1
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1948717984.m3u8
