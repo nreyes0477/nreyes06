@@ -277,10 +277,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df
 https://zmlive.zappingtv.com:443/zm-free/zm.smil/chunklist_live1_b4131600_sles.m3u8
 
 #EXTINF:-1 tvg-chno="198" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/styles/focal-760x428/public/images/promo/livestreams/2023/01/17/lcdlf2_espia_24horas_hd_0.png",Cam 1 / La Casa de los Famosos 🇺🇸
-https://telemundolive.akamaized.net/hls/live/2093200/LCDLF/master_CAM1.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/91354.m3u8
 
 #EXTINF:-1 tvg-chno="199" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/styles/focal-760x428/public/images/promo/livestreams/2023/01/17/lcdlf2_espia_24horas_hd_0.png",Cam 2 / La Casa de los Famosos 🇺🇸
-https://telemundolive.akamaized.net/hls/live/2093200/LCDLF/master_CAM2.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/91355.m3u8
 
 #EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",Canal 13 FHD 🇦🇷
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
@@ -325,7 +325,7 @@ http://hidra.live:80/live/twzwmwwg/ya472YoS7p/123877.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/1800.m3u8
 
 #EXTINF:-1 tvg-chno="214" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",A24 🇦🇷
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681642300/ei/2347ZJKuOYneigTB6bSABA/ip/3.134.238.10/id/o8JBz0XFS_k.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgLPi4NmD4I_uYN1EELC3wMunp09naW9S81_eBNeODQ5ICIGmx6jaKx6yRzYlGVHO9B_l7UV-bcl8EVnE0KAvUdz3d/file/index.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/1799.m3u8
 
 #EXTINF:-1 tvg-chno="215" tvg-logo="https://ipnoticias.ar/logo-ip-header.png",IP Noticias 🇦🇷
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/216770.m3u8
