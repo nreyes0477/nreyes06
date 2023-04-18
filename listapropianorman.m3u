@@ -333,14 +333,8 @@ http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/216770.m3u8
 #EXTINF:-1 tvg-chno="216" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png",Net TV 🇦🇷
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="217" tvg-logo="https://i.paste.pics/748becd7a46e16965b48a8eb38c719f1.png",Neox TV 🇦🇷
-https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
-
 #EXTINF:-1 tvg-chno="218" tvg-logo="https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-BLANCA-300x99.png",Canal 9 Multivision 🇦🇷
 https://panel.dattalive.com/8250/8250/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="219" tvg-logo="https://lh3.googleusercontent.com/-5EVmzxaKp2Q/Xzgfxf-tooI/AAAAAAAA4XE/sLgYdUn1vqYoqe6g2kwUXJJGzuSeyEerACK8BGAsYHg/s0/2020-08-15.jpg ",Canal 22 🇦🇷
-https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/chunklist_w1929561194.m3u8
 
 #EXTINF:-1 tvg-chno="220" tvg-logo="https://i.paste.pics/6ea1efdaba3065291386bc1637fc488a.png", Encuentro 🇦🇷
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
@@ -356,12 +350,6 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
 #EXTINF:-1 tvg-chno="224" tvg-logo="https://i2.paste.pics/7b84ec9ab4a77216f5de2b5a23f220a6.png",Cosmos TV 🇦🇷
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-
-#EXTINF:-1 tvg-chno="225" tvg-logo="https://lh3.googleusercontent.com/--lIu0htmtg8/X1TLtJrNbfI/AAAAAAAA5Uc/EKwp0eeY99Y5o7Nwz9reunAnLFwQcVBIgCK8BGAsYHg/s0/2020-09-06.jpg",Telediez 🇦🇷
-https://videohd.live:19360/8020/8020.m3u8
-
-#EXTINF:-1 tvg-chno="229" tvg-logo="https://i.paste.pics/9c22ea0df4ad9c0affc8fe065875781f.png", Retro Mágico 🇦🇷
-https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 
 #EXTINF:-1 tvg-chno="230" tvg-logo="https://3.bp.blogspot.com/-OFbQmNvw9ns/XCFQN1j9pUI/AAAAAAAAHOU/_HbtJbA4x-ADtnD5ol6JDZmTrRmZCtOSgCLcBGAs/w350-h350-p-k-no-nu/Bolivision%2Ben%2Bvivo.png",Bolivisión 🇧🇴
 http://190.186.147.95:8000/play/a01i/index.m3u8
@@ -394,7 +382,7 @@ http://45.161.115.26:50000/play/a02t/index.m3u8
 http://45.161.115.26:50000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-chno="241" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_red_chile-mediano.png",La Red HD 🇨🇱
-https://d2ab26kihxq8p0.cloudfront.net:443/hls/live_720p30.m3u8
+http://170.254.234.244:8000/play/a06g/index.m3u8
 
 #EXTINF:-1 tvg-chno="242" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",TV + HD 🇨🇱
 http://45.176.116.56:8088/play/a03i
