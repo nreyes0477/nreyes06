@@ -636,9 +636,6 @@ http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/10629.m3u8
 #EXTINF:-1 tvg-chno="357" tvg-logo="https://cdn.mitvstatic.com/channels/pe_panamericana-tv_m.png",Panamericana 🇵🇪
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
-#EXTINF:-1 tvg-chno="358" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/peru_magico-mediano.png",Perú Mágico 🇵🇪
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/10634.m3u8
-
 #EXTINF:-1 tvg-chno="359" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/500px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png",Tv Perú HD 🇵🇪
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 
@@ -647,6 +644,9 @@ http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/12424.m3u8
 
 #EXTINF:-1 tvg-chno="361" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png",Canal N 🇵🇪
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/10625.m3u8
+
+#EXTINF:-1 tvg-chno="362" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/peru_magico-mediano.png",Perú Mágico 🇵🇪
+http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/10634.m3u8
 
 #EXTINF:-1 tvg-chno="365" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/telemundo-puerto-rico-en-vivo-1391.png",Telemundo Puerto Rico 🇵🇷
 https://nbculocallive.akamaized.net:443/hls/live/2037499/puertorico/stream1/master_1080.m3u8
