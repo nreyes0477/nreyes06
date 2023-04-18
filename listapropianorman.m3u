@@ -150,6 +150,9 @@ https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1647139122.m3u8
 #EXTINF:-1 tvg-chno="54" tvg-logo="https://www.radiopop.cl/wp-content/uploads/2022/08/logo-200-px.png",TV Pop Retro
 https://v4.tustreaming.cl/poptv/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="55" tvg-logo="https://i.paste.pics/9c22ea0df4ad9c0affc8fe065875781f.png", Retro Mágico 🇦🇷
+https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+
 #EXTINF:-1 tvg-chno="58" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
@@ -224,6 +227,9 @@ https://cloudvideo.servers10.com:8081/8256/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="86" tvg-logo="https://1.bp.blogspot.com/-1MlWpQKhZ1E/X3gPjB_3BmI/AAAAAAAAOVI/M0_FOhZKmnksCN_fnuY9l2TIE1nlftPsQCLcBGAsYHQ/s1600/mas-fm-95-9.png",Más FM 95.9
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+
+#EXTINF:-1 tvg-chno="87" tvg-logo="https://i.paste.pics/748becd7a46e16965b48a8eb38c719f1.png",Neox TV 🇦🇷
+https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
 
 #EXTINF:-1 tvg-chno="90" tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png",Vintage Music
 https://59ef525c24caa.streamlock.net:443/vmtv/tvvintage/chunklist_w1339648818.m3u8
