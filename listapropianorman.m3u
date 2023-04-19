@@ -123,31 +123,35 @@ https://5bf8041cb3fed.streamlock.net/retroxtv/retroxtv/playlist.m3u8
 #EXTINF:-1 tvg-chno="45" tvg-logo="https://img1.wsimg.com/isteam/ip/4deaf46f-80a0-4e3c-ae72-f74bc0887684/Tikicia%20Channel%20PNG-b66ca22.png",Tikicia Channel
 https://5bf8041cb3fed.streamlock.net/tiquiciachannel/tiquiciachannel/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="46" tvg-logo="https://site-1905948.mozfiles.com/files/1905948/medium/327747957_599448802013223_4176031495996092992_n.jpg",Coto Brus TV
+#EXTINF:-1 tvg-chno="46" tvg-logo="https://www.radiopop.cl/wp-content/uploads/2022/08/logo-200-px.png",TV Pop Retro
+https://v4.tustreaming.cl/poptv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-chno="47" tvg-logo="https://site-1905948.mozfiles.com/files/1905948/medium/327747957_599448802013223_4176031495996092992_n.jpg",Coto Brus TV
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
 
-#EXTINF:-1 tvg-chno="47" tvg-logo="https://serenotv.com/wp-content/uploads/2022/01/Canal-retro-tv-palmares-en-vivo-300x193.jpg",Retro Tv Palmares
+#EXTINF:-1 tvg-chno="48" tvg-logo="https://serenotv.com/wp-content/uploads/2022/01/Canal-retro-tv-palmares-en-vivo-300x193.jpg",Retro Tv Palmares
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="48" tvg-logo="https://static.wixstatic.com/media/e9b9b7_356efe37d4cb4ea3aaf42fb3c975af40~mv2.png/v1/fill/w_122,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BANNER-300x169.png",Garabito Tv
+#EXTINF:-1 tvg-chno="49" tvg-logo="https://static.wixstatic.com/media/e9b9b7_356efe37d4cb4ea3aaf42fb3c975af40~mv2.png/v1/fill/w_122,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BANNER-300x169.png",Garabito Tv
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="49" tvg-logo="https://www.coolstreaming.us/img/ch/image6702628824.jpg", Antena Seis TV
+#EXTINF:-1 tvg-chno="50" tvg-logo="https://www.coolstreaming.us/img/ch/image6702628824.jpg", Antena Seis TV
 http://cloudvideo.servers10.com:8080/8132/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="50" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5eaqjq8pA-_biEyaeg11nnepU6SUqS4lFxCQp2vvA_DN5AW-oxdrDoLu7wYf4zTxg0XcNHf-CkJDyaC23eaxIkFfk9ozSExAq7qjfIxlod4SDKlWapRPLluCEvd_iIgWBwHi3i6fUIg2C8FBZ1YJojxZZgKU1mkGcB8yxsKpJFb4cS2amFdjqP2jpBA/s1252/RT%20TV%20LOGO%201.png",RTTV HD
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5eaqjq8pA-_biEyaeg11nnepU6SUqS4lFxCQp2vvA_DN5AW-oxdrDoLu7wYf4zTxg0XcNHf-CkJDyaC23eaxIkFfk9ozSExAq7qjfIxlod4SDKlWapRPLluCEvd_iIgWBwHi3i6fUIg2C8FBZ1YJojxZZgKU1mkGcB8yxsKpJFb4cS2amFdjqP2jpBA/s1252/RT%20TV%20LOGO%201.png",RTTV HD
 https://cloudvideo.servers10.com:19360/8212/8212.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png",San Isidro TV
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png",San Isidro TV
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="52" tvg-logo="https://dreikotv.online/wp-content/uploads/2023/02/logotipo_dreikotv.png",Dreiko Tv CR
+#EXTINF:-1 tvg-chno="53" tvg-logo="https://dreikotv.online/wp-content/uploads/2023/02/logotipo_dreikotv.png",Dreiko Tv CR
 https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="53" tvg-logo="https://planetatv.cl/chile/wp-content/uploads/2023/02/PLANETATV3.png",Planeta Tv Movie
+#EXTINF:-1 tvg-chno="54" tvg-logo="https://planetatv.cl/chile/wp-content/uploads/2023/02/PLANETATV3.png",Planeta Tv Movie
 https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1647139122.m3u8
 
-#EXTINF:-1 tvg-chno="54" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/vegavision-canal-18.jpg",Vegavisión Canal 18 🇩🇴
+#EXTINF:-1 tvg-chno="55" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/vegavision-canal-18.jpg",Vegavisión Canal 18 🇩🇴
 https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="56" tvg-logo="https://i.paste.pics/9c22ea0df4ad9c0affc8fe065875781f.png", Retro Mágico 🇦🇷
@@ -251,9 +255,6 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w363472295.m3u8
 
 #EXTINF:-1 tvg-chno="96" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png",Recuerdos Retro
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="97" tvg-logo="https://www.radiopop.cl/wp-content/uploads/2022/08/logo-200-px.png",TV Pop Retro
-https://v4.tustreaming.cl/poptv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="98" tvg-logo="https://platcon.tv/img/p/1/1/7/117-home_default.jpg",Retroplus 1
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1948717984.m3u8
