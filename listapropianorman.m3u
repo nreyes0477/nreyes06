@@ -718,26 +718,17 @@ http://200.31.4.14:8000/play/a078/index.m3u8
 #EXTINF:-1 tvg-chno="390" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Venezolana-de-Televisi%C3%B3n-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Venezolana de TV 🇻🇪
 http://200.31.4.14:8000/play/a06v/index.m3u8
 
-#EXTINF:-1 tvg-chno="391" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Globovision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Globovisión 🇻🇪
-http://200.31.4.14:8000/play/a077/index.m3u8
-
 #EXTINF:-1 tvg-chno="392" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/IVC_Network_Logo.png/300px-IVC_Network_Logo.png",IVC 🇻🇪
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2145660.m3u8
 
 #EXTINF:-1 tvg-chno="393" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_Meridiano_TV_Venezuela.png",Meridiano 🇻🇪
 http://200.31.4.14:8000/play/a079/index.m3u8
 
-#EXTINF:-1 tvg-chno="394" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/04/Telesur-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Telesur 🇻🇪
-http://200.31.4.14:8000/play/a06y/index.m3u8
-
 #EXTINF:-1 tvg-chno="395" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Televen-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1",Televen 🇻🇪
 http://200.31.4.14:8000/play/a07a/index.m3u8
 
 #EXTINF:-1 tvg-chno="396" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/TVES-Venezuela-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",TVes 🇻🇪
 http://200.31.4.14:8000/play/a06x/index.m3u8
-
-#EXTINF:-1 tvg-chno="397" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Vale-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1",Vale TV 🇻🇪
-https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="398" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Ve-Plus-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Venevisión Plus 🇻🇪
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2130324.m3u8
@@ -784,6 +775,9 @@ https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
 #EXTINF:-1 tvg-chno="412" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal Xtremaanimal 🇦🇷
 https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="413" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Vale-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1",Vale TV 🇻🇪
+https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="415" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cnn-en-espanol_m.png",CNN Español 🇺🇸
 http://190.83.116.229:9010/play/a02y/index.m3u8
 
@@ -808,26 +802,32 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
 #EXTINF:-1 tvg-chno="422" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/El_Pais_logo_2007.svg/294px-El_Pais_logo_2007.svg.png",El País 🇪🇦
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 
-#EXTINF:-1 tvg-chno="423" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/ADN-40-en-vivo-Online.png?zoom=3&resize=324%2C235&ssl=1",ADN 40 🇲🇽
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-
-#EXTINF:-1 tvg-chno="424" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Foro-TV-en-directo-Online-1.png?resize=1068%2C601&ssl=1",Foro TV 🇲🇽
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-
-#EXTINF:-1 tvg-chno="425" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/Milenio-Television-en-vivo-Online.png?resize=1068%2C601&ssl=1",Milenio Noticias 🇲🇽
-http://hidra.live:80/live/aqqtamco/vk3e30K4Yi/302702.m3u8
-
-#EXTINF:-1 tvg-chno="426" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/Teleformula-en-vivo-Online.png?resize=1068%2C601&ssl=1",Teleformula 🇲🇽
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/154104.m3u8
-
-#EXTINF:-1 tvg-chno="427" tvg-logo="https://ocopen.org/wp-content/uploads/2021/11/OCOPEN-Negocios.png",Negocios TV 🇪🇦
-https://streaming013.gestec-video.com/hls/negociostv.m3u8
-
-#EXTINF:-1 tvg-chno="428" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/El-Confidencial-TV-en-directo-Online.png?resize=1068%2C601&ssl=1",El Confidencial 🇪🇦
+#EXTINF:-1 tvg-chno="423" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/El-Confidencial-TV-en-directo-Online.png?resize=1068%2C601&ssl=1",El Confidencial 🇪🇦
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 
-#EXTINF:-1 tvg-chno="430" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/cgtn-espa%C3%B1ol.png?resize=500%2C300&ssl=1",CGTN Español 🇨🇳
+#EXTINF:-1 tvg-chno="425" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/ADN-40-en-vivo-Online.png?zoom=3&resize=324%2C235&ssl=1",ADN 40 🇲🇽
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-chno="426" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Foro-TV-en-directo-Online-1.png?resize=1068%2C601&ssl=1",Foro TV 🇲🇽
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+
+#EXTINF:-1 tvg-chno="427" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/Milenio-Television-en-vivo-Online.png?resize=1068%2C601&ssl=1",Milenio Noticias 🇲🇽
+http://hidra.live:80/live/aqqtamco/vk3e30K4Yi/302702.m3u8
+
+#EXTINF:-1 tvg-chno="428" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/Teleformula-en-vivo-Online.png?resize=1068%2C601&ssl=1",Teleformula 🇲🇽
+http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/154104.m3u8
+
+#EXTINF:-1 tvg-chno="430" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Globovision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Globovisión 🇻🇪
+http://200.31.4.14:8000/play/a077/index.m3u8
+
+#EXTINF:-1 tvg-chno="431" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/04/Telesur-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Telesur 🇻🇪
+http://200.31.4.14:8000/play/a06y/index.m3u8
+
+#EXTINF:-1 tvg-chno="433" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/cgtn-espa%C3%B1ol.png?resize=500%2C300&ssl=1",CGTN Español 🇨🇳
 https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-chno="434" tvg-logo="https://ocopen.org/wp-content/uploads/2021/11/OCOPEN-Negocios.png",Negocios TV 🇪🇦
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
 #EXTINF:-1 tvg-chno="440" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cartoon-network_m.png",Cartoon Network HD
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/30316.m3u8
