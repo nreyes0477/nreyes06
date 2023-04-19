@@ -1152,8 +1152,11 @@ http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2070834.m3u8
 #EXTINF:-1 tvg-chno="755" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Sky Sports
 http://45.5.117.172:8000/play/a05s/index.m3u8
 
-#EXTINF:-1 tvg-chno="756" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sport-XTRA.png",Bein Sports Ñ
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/10929.m3u8
+#EXTINF:-1 tvg-chno="756" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/BeIN_SPORTS_En_Espa%C3%B1ol_logo_2017.jpg",Bein Sports Ñ
+http://181.78.11.238:6837/play/a02o
+
+#EXTINF:-1 tvg-chno="757" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sport-XTRA.png",Bein Sports Xtra Ñ
+http://181.78.11.238:6837/play/a02s
 
 #EXTINF:-1 tvg-chno="760" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Gol Tv Premiere HD
 http://168.228.194.32:58001/play/a0bj/index.m3u8
@@ -1166,12 +1169,6 @@ http://168.228.194.32:58001/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-chno="763" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Sky Sports / Espn +
 http://168.228.194.32:58001/play/a0au/index.m3u8
-
-#EXTINF:-1 tvg-chno="764" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Sky Sports 16 HD
-http://168.228.194.32:58001/play/a0b0/index.m3u8
-
-#EXTINF:-1 tvg-chno="765" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Sky Sports 24 HD
-http://168.228.194.32:58001/play/a0b1/index.m3u8
 
 #EXTINF:-1 tvg-chno="766" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",TNT Sports HD (AR)
 http://168.228.194.32:58001/play/a0bw/index.m3u8
