@@ -907,16 +907,16 @@ http://168.228.194.32:58001/play/a06u/index.m3u8
 http://168.228.194.32:58001/play/a0a0/index.m3u8
 
 #EXTINF:-1 tvg-chno="600" tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png",A&E HD
-http://181.78.105.146:9000/play/a02g
+http://45.170.225.212:58001/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-chno="601" tvg-logo="https://cdn.mitvstatic.com/channels/cl_amc_m.png",AMC HD
-http://181.78.105.146:9000/play/a02h
+http://45.170.225.212:58001/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-chno="602" tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png",AXN HD
-http://181.78.105.146:9000/play/a04m
+http://45.170.225.212:58001/play/a01m/index.m3u8
 
 #EXTINF:-1 tvg-chno="605" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png",Cinecanal HD
-http://181.78.105.146:9000/play/a03d
+http://45.170.225.212:58001/play/a01t/index.m3u8
 
 #EXTINF:-1 tvg-chno="606" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinemax_m.png",Cinemax HD
 http://190.119.178.46:8000/play/a023/index.m3u8
@@ -928,25 +928,25 @@ http://190.119.178.46:8000/play/a00m/index.m3u8
 http://45.5.117.172:8000/play/a0kl/index.m3u8
 
 #EXTINF:-1 tvg-chno="620" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox_m.png",Star Channel HD
-http://181.78.105.146:9000/play/a03a
+http://45.170.225.212:58001/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-chno="621" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png",Sony HD
-http://181.78.105.146:9000/play/a03c
+http://45.170.225.212:58001/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-chno="622" tvg-logo="https://cdn.mitvstatic.com/channels/mx_space_m.png",Space HD
-http://181.78.105.146:9000/play/a04n
+http://45.170.225.212:58001/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-chno="623" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png",Studio Universal HD
-http://181.78.105.146:9000/play/a02b
+http://45.170.225.212:58001/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-chno="624" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tnt_m.png",TNT HD
-http://181.78.105.146:9000/play/a03i
+http://45.170.225.212:58001/play/a00t/index.m3u8
 
 #EXTINF:-1 tvg-chno="625" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png",TNT Series HD
-http://45.5.117.172:8000/play/a0km/index.m3u8
+http://45.170.225.212:58001/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-chno="630" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner_m.png",Warner Channel HD
-http://181.78.105.146:9000/play/a03b
+http://45.170.225.212:58001/play/a01r/index.m3u8
 
 #EXTINF:-1 tvg-chno="631" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png",FX HD
 http://181.78.105.146:9000/play/a02j
@@ -1117,7 +1117,7 @@ http://168.228.194.32:58001/play/a0b8/index.m3u8
 http://45.182.21.251:33334/play/a077/index.m3u8
 
 #EXTINF:-1 tvg-chno="744" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",TUDN MX 🇲🇽
-http://168.228.194.32:58001/play/a0at/index.m3u8
+http://45.170.225.212:58001/play/a041/index.m3u8
 
 #EXTINF:-1 tvg-chno="745" tvg-logo="https://images.squarespace-cdn.com/content/v1/58597a19e58c62ba7fa48bf9/1626211994542-XUWFSKZ5AW26W6RBLXOA/1200px-Claro_Sports_logo.svg.png",Claro Sports 🇲🇽
 http://168.228.194.32:58001/play/a030/index.m3u8
