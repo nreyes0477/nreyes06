@@ -857,7 +857,7 @@ http://tvstarlife.com:25461/live/geovany/geovany/10627.m3u8
 http://tvstarlife.com:25461/live/geovany/geovany/10678.m3u8
 
 #EXTINF:-1 tvg-chno="500" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg",E! Entertainment HD
-http://181.78.105.146:9000/play/a02e
+http://45.225.47.100:8000/play/a013
 
 #EXTINF:-1 tvg-chno="505" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-id_m.png",ID Investigation HD
 http://168.228.194.32:58001/play/a0a2/index.m3u8
