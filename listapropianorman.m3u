@@ -949,10 +949,10 @@ http://45.170.225.212:58001/play/a01b/index.m3u8
 http://45.170.225.212:58001/play/a01r/index.m3u8
 
 #EXTINF:-1 tvg-chno="631" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png",FX HD
-http://181.78.105.146:9000/play/a02j
+http://45.179.193.219:5000/play/a04k
 
 #EXTINF:-1 tvg-chno="632" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png",DHE HD
-http://181.78.105.146:9000/play/a02m
+http://45.179.193.219:5000/play/a077
 
 #EXTINF:-1 tvg-chno="635" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO HD
 http://181.78.105.146:9000/play/a00h
