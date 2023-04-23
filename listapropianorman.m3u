@@ -955,16 +955,16 @@ http://45.179.193.219:5000/play/a04k
 http://45.179.193.219:5000/play/a077
 
 #EXTINF:-1 tvg-chno="635" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO HD
-http://181.78.105.146:9000/play/a00h
+http://168.181.161.24:8000/play/a028
 
 #EXTINF:-1 tvg-chno="636" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",HBO 2 HD
-http://181.78.105.146:9000/play/a00i
+http://168.181.161.24:8000/play/a029
 
 #EXTINF:-1 tvg-chno="637" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",HBO Family HD
-http://181.78.105.146:9000/play/a00k
+http://168.181.161.24:8000/play/a02b
 
 #EXTINF:-1 tvg-chno="638" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO Plus HD
-http://181.78.105.146:9000/play/a00j
+http://168.181.161.24:8000/play/a02a
 
 #EXTINF:-1 tvg-chno="639" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png",HBO Pop HD
 http://190.119.178.46:8000/play/a02i/index.m3u8
@@ -973,7 +973,7 @@ http://190.119.178.46:8000/play/a02i/index.m3u8
 http://190.61.91.81:5000/play/a0ji/index.m3u8
 
 #EXTINF:-1 tvg-chno="641" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme HD
-http://181.78.105.146:9000/play/a00l
+http://168.181.161.24:8000/play/a02c
 
 #EXTINF:-1 tvg-chno="642" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png",HBO Mundi HD
 http://200.48.19.142:8000/play/a044
@@ -982,22 +982,22 @@ http://200.48.19.142:8000/play/a044
 http://190.119.178.46:8000/play/a01l/index.m3u8
 
 #EXTINF:-1 tvg-chno="646" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644505043521-Imagen.jpg",Universal Cinema HD
-http://45.5.117.172:8000/play/a0kt/index.m3u8
+http://168.181.161.24:8000/play/a01d
 
 #EXTINF:-1 tvg-chno="647" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504904675-Imagen.jpg",Universal Comedy HD
-http://181.78.105.146:9000/play/a03t
+http://168.181.161.24:8000/play/a00y
 
 #EXTINF:-1 tvg-chno="648" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504857757-Imagen.jpg",Universal Crime HD
-http://181.78.105.146:9000/play/a03s
+http://168.181.161.24:8000/play/a00x
 
 #EXTINF:-1 tvg-chno="649" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504463678-Imagen.jpg",Universal Premiere HD
-http://181.78.105.146:9000/play/a03p
+http://168.181.161.24:8000/play/a00u
 
 #EXTINF:-1 tvg-chno="650" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1646691172846-Imagen.jpg",Universal Premiere 2 HD
-http://181.78.105.146:9000/play/a03q
+http://168.181.161.24:8000/play/a00v
 
 #EXTINF:-1 tvg-chno="651" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1646691382488-Imagen.jpg",Universal Reality HD
-http://181.78.105.146:9000/play/a03r
+http://168.181.161.24:8000/play/a00w
 
 #EXTINF:-1 tvg-chno="700" tvg-logo="https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020.jpg",Futv HD
 http://168.228.194.32:58001/play/a09q/index.m3u8
