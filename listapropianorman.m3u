@@ -403,7 +403,7 @@ http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/155681.m3u8
 https://rcntv-rcnmas-1-us.plex.wurl.tv:443/4300.m3u8
 
 #EXTINF:-1 tvg-chno="255" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/1586px-RCN_Novelas_logo_2019.png",RCN Novelas 🇨🇴
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/155682.m3u8
+http://45.225.47.100:8000/play/a01h
 
 #EXTINF:-1 tvg-chno="256" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/250px-Channel_1_%28Colombia%29_-_2017_logo.svg.png",Canal 1 🇨🇴
 http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/18617.m3u8
