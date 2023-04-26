@@ -291,9 +291,6 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",Canal 13 HD 🇦🇷
 http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/1815.m3u8
 
-#EXTINF:-1 tvg-chno="202" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",Canal 13 Internacional 🇦🇷
-http://45.71.252.67:8000/play/a0ab/index.m3u8
-
 #EXTINF:-1 tvg-chno="203" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe FHD 🇦🇷
 http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/1793.m3u8
 
@@ -1080,12 +1077,6 @@ http://168.228.194.32:58001/play/a030/index.m3u8
 #EXTINF:-1 tvg-chno="746" tvg-logo="https://images.squarespace-cdn.com/content/v1/58597a19e58c62ba7fa48bf9/1626211994542-XUWFSKZ5AW26W6RBLXOA/1200px-Claro_Sports_logo.svg.png",Claro Sports 2 🇲🇽
 http://168.228.194.32:58001/play/a031/index.m3u8
 
-#EXTINF:-1 tvg-chno="748" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",DirecTV Sports 
-http://45.5.117.172:8000/play/a047/index.m3u8
-
-#EXTINF:-1 tvg-chno="749" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",DirecTV Sports 
-http://190.119.178.46:8000/play/a032/index.m3u8
-
 #EXTINF:-1 tvg-chno="750" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",DirecTV Sports 2
 http://190.119.178.46:8000/play/a033/index.m3u8
 
@@ -1100,15 +1091,6 @@ http://45.90.105.74:25461/live/bud-345182/c39d1f9282/65255.m3u8
 
 #EXTINF:-1 tvg-chno="754" tvg-logo="https://banner2.cleanpng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg",Sky Sports Liga Alemana 🇺🇸
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2070834.m3u8
-
-#EXTINF:-1 tvg-chno="755" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Sky Sports 🇺🇸
-http://45.5.117.172:8000/play/a05s/index.m3u8
-
-#EXTINF:-1 tvg-chno="756" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/BeIN_SPORTS_En_Espa%C3%B1ol_logo_2017.jpg",Bein Sports Ñ 🇺🇸
-http://181.78.11.238:6837/play/a02o
-
-#EXTINF:-1 tvg-chno="757" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sport-XTRA.png",Bein Sports Xtra Ñ 🇺🇸
-http://181.78.11.238:6837/play/a02s
 
 #EXTINF:-1 tvg-chno="760" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Gol Tv Premiere HD
 http://168.228.194.32:58001/play/a0bj/index.m3u8
