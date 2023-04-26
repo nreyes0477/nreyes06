@@ -523,7 +523,7 @@ http://168.228.194.32:58001/play/a0bl/index.m3u8
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2100967.m3u8
 
 #EXTINF:-1 tvg-chno="304" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/180px-Telecadena7y42018.png",Telecadena 🇭🇳
-http://168.228.194.32:58001/play/a0bn/index.m3u8
+http://138.59.177.34:8000/play/a04q/index.m3u8
 
 #EXTINF:-1 tvg-chno="305" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Canal_11_HN_logo_2010.png/180px-Canal_11_HN_logo_2010.png",Canal 11 🇭🇳
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2100971.m3u8
@@ -565,7 +565,7 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/26836.m3u8
 
 #EXTINF:-1 tvg-chno="322" tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png",Canal Once 🇲🇽
-https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b2131072.m3u8
+http://190.61.91.81:5000/play/a0bq/index.m3u8
 
 #EXTINF:-1 tvg-chno="323" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo-Imagen-TV-MX.png/800px-Logo -Imagen-TV-MX.png",Imagen TV 🇲🇽
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/155181.m3u8
@@ -607,13 +607,13 @@ https://mediacp.us:8081/nex/tracks-v1a1/mono.m3u8
 http://tvstarlife.com:25461/live/geovany/geovany/342.m3u8
 
 #EXTINF:-1 tvg-chno="348" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png",Paravisión 🇵🇾
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2107638.m3u8
+http://45.71.252.67:8000/play/a0dg/index.m3u8
 
 #EXTINF:-1 tvg-chno="349" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg",Telefuturo 🇵🇾
 http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/1885.m3u8
 
 #EXTINF:-1 tvg-chno="350" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/240px-Logotrececanal.png",Canal Trece 🇵🇾
-https://streaming.trece.com.py/live/trece.m3u8
+https://rds3gen.desdeparaguay.net/trecetv/trecetv_baja/playlist.m3u8?k=c05376154866e364d6c11afcbf95f9f607c103b9be863a7b30ef292da47918f2&exp=1682533577
 
 #EXTINF:-1 tvg-chno="351" tvg-logo="https://latele.com.py/wp-content/uploads/2022/06/logo-latele.png",La Tele 🇵🇾
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2107635.m3u8
@@ -634,7 +634,7 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 
 #EXTINF:-1 tvg-chno="360" tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png",ATV HD 🇵🇪
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/12424.m3u8
+http://200.4.217.18:8000/play/a03g/index.m3u8
 
 #EXTINF:-1 tvg-chno="361" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png",Canal N 🇵🇪
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/10625.m3u8
@@ -700,7 +700,7 @@ http://play.flamaplus.tv:80/live/ever2022/ever2022/803.m3u8
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2055383.m3u8
 
 #EXTINF:-1 tvg-chno="387" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/Teledoce-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Teledoce 🇺🇾
-http://hidra.live:80/live/aqqtamco/vk3e30K4Yi/304347.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/21796.m3u8
 
 #EXTINF:-1 tvg-chno="389" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Venevision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Venevisión 🇻🇪
 http://200.31.4.14:8000/play/a078/index.m3u8
@@ -724,7 +724,7 @@ http://200.31.4.14:8000/play/a06x/index.m3u8
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2130324.m3u8
 
 #EXTINF:-1 tvg-chno="399" tvg-logo="https://www.novelisima.com/assets/images/logo.png",Novelissima 🇻🇪
-https://novelisima.akamaized.net:443/hls/live/2031534/novelisimaABR/2/streamPlaylist.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1yn-&did=5de3272ca828334125a8958b379e80ca&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=en&site_page=https%253a%252f%252fwww.canela.tv%252flinear%252fnovelisima&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1682534197&id=29260&ip=45.239.66.196&override_expiration=1500&deliveryProfileId=23762&sign=AnTU27Owgu%2FvemMRtOIK%2BuHtqV7PpNMyoU1iGCyVV%2B8%3D
 
 #EXTINF:-1 tvg-chno="400" tvg-logo="https://elhistonauta.com/wp-content/uploads/2021/05/cropped-cropped-logo_claro-1024x323.png",El Histonauta TV 🇦🇷
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
