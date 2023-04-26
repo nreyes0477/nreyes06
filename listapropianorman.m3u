@@ -285,12 +285,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df
 #EXTINF:-1 tvg-chno="110" tvg-logo="https://www.nettvpro.live/uploads/allimg/21/1-210624214S50-L.jpg",Zapping Music 🎶
 https://zmlive.zappingtv.com:443/zm-free/zm.smil/chunklist_live1_b4131600_sles.m3u8
 
-#EXTINF:-1 tvg-chno="198" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/styles/focal-760x428/public/images/promo/livestreams/2023/01/17/lcdlf2_espia_24horas_hd_0.png",Cam 1 / La Casa de los Famosos 🇺🇸
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/91354.m3u8
-
-#EXTINF:-1 tvg-chno="199" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/styles/focal-760x428/public/images/promo/livestreams/2023/01/17/lcdlf2_espia_24horas_hd_0.png",Cam 2 / La Casa de los Famosos 🇺🇸
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/91355.m3u8
-
 #EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",Canal 13 FHD 🇦🇷
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
@@ -1008,20 +1002,8 @@ http://168.228.194.32:58001/play/a00w/index.m3u8
 #EXTINF:-1 tvg-chno="709" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 HD Opc 2
 http://181.189.243.254:8000/play/a0oa/index.m3u8
 
-#EXTINF:-1 tvg-chno="710" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/621.png",Espn MX HD
-http://181.78.1.217:8146/play/a07i
-
 #EXTINF:-1 tvg-chno="711" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/622.png",Espn 2 MX HD
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/37812.m3u8
-
-#EXTINF:-1 tvg-chno="712" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/622.png",Espn 2 HD
-http://181.78.1.217:8146/play/a07k
-
-#EXTINF:-1 tvg-chno="713" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/623.png",Espn 3 MX HD
-http://181.78.1.217:8146/play/a07j
-
-#EXTINF:-1 tvg-chno="714" tvg-logo="https://api.express.com.ar/storage/channels/6243092e34c7d1648560430.png",Espn Chile HD
-http://45.232.210.3:8000/play/a0ax
 
 #EXTINF:-1 tvg-chno="715" tvg-logo="https://www.directv.cl/content/dam/public-sites/channels/607.png",Fox Sports MX
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/10950.m3u8
@@ -1031,18 +1013,6 @@ http://45.90.105.74:25461/live/bud-345182/c39d1f9282/44074.m3u8
 
 #EXTINF:-1 tvg-chno="717" tvg-logo="https://www.holamujer.cl/wp-content/uploads/2020/06/20-FOX-SPORTS-PREMIUM-768x530.png",Fox Sports Premium MX
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53541.m3u8
-
-#EXTINF:-1 tvg-chno="718" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 4
-http://181.78.105.146:9000/play/a04l
-
-#EXTINF:-1 tvg-chno="719" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN +
-http://181.78.105.146:9000/play/a027
-
-#EXTINF:-1 tvg-chno="720" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sport 2
-http://181.78.105.146:9000/play/a03h
-
-#EXTINF:-1 tvg-chno="721" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports 3
-http://181.78.105.146:9000/play/a01v
 
 #EXTINF:-1 tvg-chno="723" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",DIRECTV SPORTS 1 HD (AR)
 http://168.228.194.32:58001/play/a0ba/index.m3u8
