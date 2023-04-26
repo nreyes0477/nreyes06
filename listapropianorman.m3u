@@ -661,16 +661,16 @@ http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2127620.m3u8
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/10913.m3u8
 
 #EXTINF:-1 tvg-chno="375" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/telemicro.png?zoom=3&resize=100%2C70&ssl=1",Telemicro Canal 5 🇩🇴
-https://player-api.new.livestream.com/accounts/27456795/events/10633780/broadcasts/235763856.secure.m3u8?dw=80&hdnea=st=1681148958~exp=1681150758~acl=/i/27456795_10633780_lsiigwzfi1hykwlaw21_1@447128/*~hmac=248441e5cfc1ed46c00e350d73c632d7aa60a4099a1c143a16e25109dff70f1b&token=64344d4a_f628a9ab6a833b184a7b50d41eada67d8923f290
+http://138.59.177.34:8000/play/a04t/index.m3u8
 
 #EXTINF:-1 tvg-chno="376" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Color-Visio%CC%81n-9-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Color Visión Canal 9 🇩🇴
 http://45.5.119.202:54321/play/a06l/index.m3u8
 
 #EXTINF:-1 tvg-chno="377" tvg-logo="https://canalesdominicanos.live/template/images/radios/digital-15.png",Canal 15 🇩🇴
-https://player-api.new.livestream.com/accounts/27456795/events/10633798/broadcasts/235763256.secure.m3u8?dw=80&hdnea=st=1681148548~exp=1681150348~acl=/i/27456795_10633798_lsisyu2qecoz6d23iuj_1@407883/*~hmac=de7c0cbce39fc6eca2516e2a3d061a931f364599bb84d55aac0c7af63b55f1eb&token=64344bb0_ea46599c03679feeec668b30abcc302759f5d8f7
+http://138.59.177.34:8000/play/a03l/index.m3u8
 
 #EXTINF:-1 tvg-chno="376" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/cdn.png?zoom=3&resize=100%2C70&ssl=1",CDN 🇩🇴
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/manifest.m3u8?p=79&s=1681149184&e=1681149304&h=7abb42d6c20a5f9885f713108b280abb
+http://138.59.177.34:8000/play/a04v/index.m3u8
 
 #EXTINF:-1 tvg-chno="377" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Megavision-Canal-43-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Megavisión 🇩🇴
 http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
