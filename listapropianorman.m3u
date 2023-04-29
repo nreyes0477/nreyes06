@@ -1092,6 +1092,15 @@ http://45.90.105.74:25461/live/bud-345182/c39d1f9282/65255.m3u8
 #EXTINF:-1 tvg-chno="754" tvg-logo="https://banner2.cleanpng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg",Sky Sports Liga Alemana 🇺🇸
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2070834.m3u8
 
+#EXTINF:-1 tvg-chno="755" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Bein Sports HD 🇺🇸
+http://181.78.11.238:6837/play/a02o
+
+#EXTINF:-1 tvg-chno="756" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Movistar + La Liga 🇪🇦
+http://5.255.90.184:2002/play/a02f
+
+#EXTINF:-1 tvg-chno="757" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Movistar + Bundesliga 🇪🇦
+http://5.255.90.184:2002/play/a01f
+
 #EXTINF:-1 tvg-chno="760" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Gol Tv Premiere HD
 http://168.228.194.32:58001/play/a0bj/index.m3u8
 
