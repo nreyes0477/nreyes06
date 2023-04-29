@@ -901,7 +901,7 @@ http://190.119.178.46:8000/play/a023/index.m3u8
 http://190.119.178.46:8000/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-chno="616" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png",Paramount HD
-http://45.5.117.172:8000/play/a0kl/index.m3u8
+http://45.5.118.226:8000/play/a0kl/index.m3u8
 
 #EXTINF:-1 tvg-chno="620" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox_m.png",Star Channel HD
 http://45.170.225.212:58001/play/a01q/index.m3u8
