@@ -855,6 +855,9 @@ http://168.228.194.32:58001/play/a05q/index.m3u8
 #EXTINF:-1 tvg-chno="515" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health HD
 http://168.228.194.32:58001/play/a08e/index.m3u8
 
+#EXTINF:-1 tvg-chno="516" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health HD
+http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/5774.m3u8
+
 #EXTINF:-1 tvg-chno="520" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery_m.png",Discovery Channel HD
 http://168.228.194.32:58001/play/a09y/index.m3u8
 
