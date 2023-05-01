@@ -114,8 +114,8 @@ http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
 #EXTINF:-1 tvg-chno="42" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/retro-plus.jpg?itok=jRSPYmN_",Retroplus Movies
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w893080974.m3u8
 
-#EXTINF:-1 tvg-chno="43" tvg-logo="https://tvnosara.radionosarafm.online/wp-content/uploads/2022/10/logo-canal-17-TVNosara-Transparente-1024x1024.png",TV Nosara
-https://cloudvideo.servers10.com:8081/8092/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="43" tvg-logo="https://image.roku.com/developer_channels/prod/db4a766d6686e0ec2d17d0307c9a4c3bd0dc27a13f0647fb8561bfb0754300a2.png",TV Nosara
+https://stmv.streamingvip.click/tvnosara/tvnosara/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="44" tvg-logo="https://img1.wsimg.com/isteam/ip/0b6749a7-4d1f-4663-98a6-82c3788efdcb/RETROX%20TV%20LOGO%20PNG.png",Retrox TV
 https://5bf8041cb3fed.streamlock.net/retroxtv/retroxtv/playlist.m3u8
