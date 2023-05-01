@@ -508,10 +508,10 @@ http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/62753.m3u8
 http://168.228.194.32:58001/play/a0c3/index.m3u8
 
 #EXTINF:-1 tvg-chno="296" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo PX 🇺🇸
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/16634.m3u8
+http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/3123.m3u8
 
 #EXTINF:-1 tvg-chno="297" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo LA 🇺🇸
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/1935.m3u8
+http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/172620.m3u8
 
 #EXTINF:-1 tvg-chno="298" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/telemundo.jpg",Telemundo Internacional 🇺🇸
 http://45.176.116.56:8088/play/a01w
