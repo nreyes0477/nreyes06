@@ -477,14 +477,14 @@ https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
 #EXTINF:-1 tvg-chno="285" tvg-logo="https://img.onesignal.com/t/9386b748-b30f-4f48-946a-361ce4f6c8cc.jpg",Mega TV 🇺🇸
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/.m3u8
 
-#EXTINF:-1 tvg-chno="286" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión NY 🇺🇸
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/38527.m3u8
+#EXTINF:-1 tvg-chno="286" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión DA 🇺🇸
+http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/172641.m3u8
 
 #EXTINF:-1 tvg-chno="287" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión PX 🇺🇸
 http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/295844.m3u8
 
 #EXTINF:-1 tvg-chno="288" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión LA 🇺🇸
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/46985.m3u8
+http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/172659.m3u8
 
 #EXTINF:-1 tvg-chno="289" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png",Galavisión NY 🇺🇸
 http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/82445.m3u8
