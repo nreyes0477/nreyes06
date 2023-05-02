@@ -180,7 +180,7 @@ http://tv2.ticosmedia.com:1935/canal3/canal3/playlist.m3u8
 #EXTINF:-1 tvg-chno="65" tvg-logo="https://planetatv.cl/chile/wp-content/uploads/2023/02/PLANETATV3.png",Planeta Tv Music
 https://scl.edge.grupoz.cl:443/music/live/chunklist_w942041273.m3u8
 
-#EXTINF:-1 tvg-chno="66" tvg-logo="https://www.yungayonline.cl/wp-content/uploads/2023/03/yungay.jpg",Yungay Online Music
+#EXTINF:-1 tvg-chno="66" tvg-logo="https://i0.wp.com/xiaomiuniverse.com/wp-content/uploads/2018/07/paginas-de-musica-online-gratis.jpg?resize=1024%2C497&ssl=1",Yungay Online Music
 https://mediacpstreamchile.com:1936/8028/8028/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="67" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/TLTV2016.png",Top Latino TV
