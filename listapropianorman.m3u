@@ -445,7 +445,7 @@ http://45.141.194.9:9000/play/a00y/index.m3u8
 http://45.141.194.9:9000/play/a00z/index.m3u8
 
 #EXTINF:-1 tvg-chno="272" tvg-logo="https://logos.streamsites.eu/2516_antena3_overview.png",Antena 3 🇪🇸
-http://45.141.194.9:9000/play/a006/index.m3u8
+http://200.24.151.134:8000/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-chno="273" tvg-logo="https://mma.prnewswire.com/media/1638822/logo_internacional_cuadrado.jpg?w=200",Antena 3 Internacional 🇪🇸
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2100550.m3u8
@@ -463,10 +463,10 @@ http://45.141.194.9:9000/play/a010/index.m3u8
 http://45.141.194.9:9000/play/a011/index.m3u8
 
 #EXTINF:-1 tvg-chno="278" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",Star TVE HD 🇪🇸
-http://168.228.194.32:58001/play/a061/index.m3u8
+http://45.228.234.162:24000/play/a04k/index.m3u8
 
 #EXTINF:-1 tvg-chno="279" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1403px-Logo_TVE-Internacional.svg.png",TVE Internacional 🇪🇸
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2100537.m3u8
+http://45.228.234.162:24000/play/a09o/index.m3u8
 
 #EXTINF:-1 tvg-chno="283" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png",NBC Universo 🇺🇸
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/1939.m3u8
