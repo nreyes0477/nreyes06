@@ -688,7 +688,7 @@ https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 http://45.5.119.202:54321/play/a06a/index.m3u8
 
 #EXTINF:-1 tvg-chno="383" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/canal-4-montecarlo-en-vivo.png?zoom=3&resize=100%2C70&ssl=1",Canal 4 🇺🇾
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2055388.m3u8
+http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/169382.m3u8
 
 #EXTINF:-1 tvg-chno="384" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/08/Canal-5-Uruguay-en-vivo-Online.png?resize=1068%2C601&ssl=1",Canal 5 🇺🇾
 http://play.flamaplus.tv:80/live/ever2022/ever2022/802.m3u8
@@ -697,10 +697,10 @@ http://play.flamaplus.tv:80/live/ever2022/ever2022/802.m3u8
 http://play.flamaplus.tv:80/live/ever2022/ever2022/803.m3u8
 
 #EXTINF:-1 tvg-chno="386" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png?zoom=3&resize=100%2C70&ssl=1",Canal 10 🇺🇾
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2055383.m3u8
+http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/8660.m3u8
 
 #EXTINF:-1 tvg-chno="387" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/Teledoce-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Teledoce 🇺🇾
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/21796.m3u8
+http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/296875.m3u8
 
 #EXTINF:-1 tvg-chno="389" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Venevision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Venevisión 🇻🇪
 http://200.31.4.14:8000/play/a078/index.m3u8
