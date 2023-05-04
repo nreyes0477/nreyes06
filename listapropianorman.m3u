@@ -370,34 +370,34 @@ http://200.119.222.198:25470/play/a021/index.m3u8
 https://5ca39be538307.streamlock.net:443/boliviatv/videoboliviatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjMgMTI6MTA6MzMgQU0maGFzaF92YWx1ZT1VSlMvZHZFbm5HajZiN3FmZnBUdFV3PT0mdmFsaWRtaW51dGVzPTI1JmlkPQ==
 
 #EXTINF:-1 tvg-chno="237" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png",CHV HD 🇨🇱
-http://45.161.115.26:50000/play/a02h/index.m3u8
+http://45.167.192.49:8200/play/a00m
 
 #EXTINF:-1 tvg-chno="238" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png",TVN HD 🇨🇱
-http://45.161.115.26:50000/play/a02x/index.m3u8
+http://45.169.38.226:8000/play/a0a0/index.m3u8
 
 #EXTINF:-1 tvg-chno="239" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png",Canal 13 🇨🇱
-http://45.161.115.26:50000/play/a02t/index.m3u8
+http://45.167.192.49:8200/play/a01f
 
 #EXTINF:-1 tvg-chno="240" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mega_chile-mediano.png",Mega HD 🇨🇱
-http://45.161.115.26:50000/play/a02u/index.m3u8
+http://45.167.192.49:8200/play/a017
 
 #EXTINF:-1 tvg-chno="241" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_red_chile-mediano.png",La Red HD 🇨🇱
 http://170.254.234.244:8000/play/a06g/index.m3u8
 
 #EXTINF:-1 tvg-chno="242" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",TV + HD 🇨🇱
-http://45.176.116.56:8088/play/a03i
+http://45.167.192.49:8200/play/a016
 
 #EXTINF:-1 tvg-chno="243" tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-13-c_m.png",Canal 13C 🇨🇱
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/25355.m3u8
+http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/295630.m3u8
 
 #EXTINF:-1 tvg-chno="244" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png",Canal 24 Horas HD 🇨🇱
-http://45.161.115.26:50000/play/a02z/index.m3u8
+http://45.167.192.49:8200/play/a01i
 
 #EXTINF:-1 tvg-chno="250" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png",Caracol HD 🇨🇴
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/176568.m3u8
+http://45.169.38.226:8000/play/a00d/index.m3u8
 
 #EXTINF:-1 tvg-chno="252" tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg",RCN HD 🇨🇴
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/155681.m3u8
+http://45.169.38.226:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-chno="254" tvg-logo="https://1.bp.blogspot.com/-jslL1CIeqqk/YaVCAmvGxvI/AAAAAAAADDo/wPaGYipC7Eo_6NVRuL0XESV1lzjq6xhLgCLcBGAsYHQ/s16000/rcnmas.jpg",RCN + 🇨🇴
 https://rcntv-rcnmas-1-us.plex.wurl.tv:443/4300.m3u8
@@ -406,10 +406,10 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv:443/4300.m3u8
 http://45.225.47.100:8000/play/a01h
 
 #EXTINF:-1 tvg-chno="256" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/250px-Channel_1_%28Colombia%29_-_2017_logo.svg.png",Canal 1 🇨🇴
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/18617.m3u8
+http://45.169.38.226:8000/play/a02q/index.m3u8
 
 #EXTINF:-1 tvg-chno="257" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Logo_Citytv_2023.jpg",City TV 🇨🇴
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/176573.m3u8
+http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/48310.m3u8
 
 #EXTINF:-1 tvg-chno="260" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Caracol_HD_Internacional.png/250px-Caracol_HD_Internacional.png",Caracol Internacional 🇨🇴
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/199323.m3u8
