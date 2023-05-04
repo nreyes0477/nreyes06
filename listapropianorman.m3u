@@ -598,7 +598,7 @@ https://bcovlive-a.akamaihd.net:443/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/201865.m3u8
 
 #EXTINF:-1 tvg-chno="341" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/RPC-en-vivo-Online.png?resize=1068%2C601&ssl=1",RPC 🇵🇦
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2107639.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/11315.m3u8
 
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/NEX-TV-Panam%C3%A1-en-vivo-Online.png?zoom=3&resize=218%2C150&ssl=1",Next TV 🇵🇦
 https://mediacp.us:8081/nex/tracks-v1a1/mono.m3u8
@@ -607,34 +607,34 @@ https://mediacp.us:8081/nex/tracks-v1a1/mono.m3u8
 http://tvstarlife.com:25461/live/geovany/geovany/342.m3u8
 
 #EXTINF:-1 tvg-chno="348" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png",Paravisión 🇵🇾
-http://45.71.252.67:8000/play/a0dg/index.m3u8
+http://181.78.27.187:5350/play/a021
 
 #EXTINF:-1 tvg-chno="349" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg",Telefuturo 🇵🇾
 http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/1885.m3u8
 
 #EXTINF:-1 tvg-chno="350" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/240px-Logotrececanal.png",Canal Trece 🇵🇾
-https://rds3gen.desdeparaguay.net/trecetv/trecetv_baja/playlist.m3u8?k=c05376154866e364d6c11afcbf95f9f607c103b9be863a7b30ef292da47918f2&exp=1682533577
+http://190.128.222.74:8000/play/a073/index.m3u8
 
 #EXTINF:-1 tvg-chno="351" tvg-logo="https://latele.com.py/wp-content/uploads/2022/06/logo-latele.png",La Tele 🇵🇾
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2107635.m3u8
+http://190.128.222.74:8000/play/a07s/index.m3u8
 
 #EXTINF:-1 tvg-chno="352" tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png",Unicanal 🇵🇾
-https://streaming.unicanal.com.py/live/unicanal_mid.m3u8
+http://190.128.222.74:8000/play/a0ei/index.m3u8
 
 #EXTINF:-1 tvg-chno="355" tvg-logo="https://gzcsecurity.com/img/nosotros/seguridad/americatv-min.jpg",América TV HD 🇵🇪
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/199968.m3u8
+http://191.52.214.5:8000/play/a04r/index.m3u8
 
 #EXTINF:-1 tvg-chno="356" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png",Latina HD 🇵🇪
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/10629.m3u8
+http://191.52.214.5:8000/play/a04t/index.m3u8
 
 #EXTINF:-1 tvg-chno="357" tvg-logo="https://cdn.mitvstatic.com/channels/pe_panamericana-tv_m.png",Panamericana 🇵🇪
-https://cdnhd.iblups.com/hls/ptv2.m3u8
+http://191.52.214.5:8000/play/a04u/index.m3u8
 
 #EXTINF:-1 tvg-chno="359" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/500px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png",Tv Perú HD 🇵🇪
-https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+http://191.52.214.5:8000/play/a04w/index.m3u8
 
 #EXTINF:-1 tvg-chno="360" tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png",ATV HD 🇵🇪
-http://200.4.217.18:8000/play/a03g/index.m3u8
+https://atvperu.akamaized.net:443/hls/live/2100630/atv/master_720.m3u8
 
 #EXTINF:-1 tvg-chno="361" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png",Canal N 🇵🇪
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/10625.m3u8
