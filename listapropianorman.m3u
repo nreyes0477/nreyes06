@@ -418,25 +418,25 @@ http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/199323.m3u8
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/199513.m3u8
 
 #EXTINF:-1 tvg-chno="262" tvg-logo="https://www.ecuadortv.ec/wp-content/uploads/2022/03/cropped-EcuadorTvWeb.png",Ecuador TV 🇪🇨
-http://186.5.31.251:8000/play/a0d7/index.m3u8
+http://200.24.151.134:8000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-chno="263" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/400px-Ecuavisa_Logo_2019.png",Ecuavisa 🇪🇨
-http://186.5.31.251:8000/play/a04f/index.m3u8
+http://200.24.151.134:8000/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-chno="264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",Gamavisión 🇪🇨
-http://186.5.31.251:8000/play/a06k/index.m3u8
+http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/9162.m3u8
 
 #EXTINF:-1 tvg-chno="265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oromar_logo.png/300px-Oromar_logo.png",Oromar TV 🇪🇨
-http://200.31.4.14:8000/play/a07i/index.m3u8
+http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/9164.m3u8
 
 #EXTINF:-1 tvg-chno="266" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/300px-Rts_logo.png",RTS TV 🇪🇨
-http://186.5.31.251:8000/play/a0co/index.m3u8
+http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/9165.m3u8
 
 #EXTINF:-1 tvg-chno="267" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png",TC Televisión 🇪🇨
-http://186.5.31.251:8000/play/a04c/index.m3u8
+http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/9167.m3u8
 
 #EXTINF:-1 tvg-chno="268" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TVCEcuador2023.webp/250px-TVCEcuador2023.webp.png",Televicentro 🇪🇨
-http://186.5.31.251:8000/play/a0e0/index.m3u8
+http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/47932.m3u8
 
 #EXTINF:-1 tvg-chno="270" tvg-logo="https://logos.streamsites.eu/2756_tve-en-directo-la-1_overview.png",La 1 🇪🇸
 http://45.141.194.9:9000/play/a00y/index.m3u8
