@@ -835,7 +835,7 @@ http://168.228.194.32:58001/play/a00x/index.m3u8
 http://45.228.234.162:24000/play/a04a/index.m3u8
 
 #EXTINF:-1 tvg-chno="505" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-id_m.png",ID Investigation HD
-http://45.228.234.162:24000/play/a073/index.m3u8
+http://45.228.234.162:24000/play/a082/index.m3u8
 
 #EXTINF:-1 tvg-chno="510" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png",History Channel HD
 http://45.228.234.162:24000/play/a02z/index.m3u8
