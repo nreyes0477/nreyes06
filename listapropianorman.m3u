@@ -832,46 +832,46 @@ http://168.228.194.32:58001/play/a04v/index.m3u8
 http://168.228.194.32:58001/play/a00x/index.m3u8
 
 #EXTINF:-1 tvg-chno="500" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg",E! Entertainment HD
-http://45.170.225.212:58001/play/a00d/index.m3u8
+http://45.228.234.162:24000/play/a04a/index.m3u8
 
 #EXTINF:-1 tvg-chno="505" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-id_m.png",ID Investigation HD
-http://168.228.194.32:58001/play/a0a2/index.m3u8
+http://45.228.234.162:24000/play/a073/index.m3u8
 
 #EXTINF:-1 tvg-chno="510" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png",History Channel HD
-http://168.228.194.32:58001/play/a05h/index.m3u8
+http://45.228.234.162:24000/play/a02z/index.m3u8
 
 #EXTINF:-1 tvg-chno="511" tvg-logo="https://alexgarci.com/iqc/wp-content/uploads/2022/02/LOGO-H2.png",History 2 HD
-http://168.228.194.32:58001/play/a0bx/index.m3u8
+http://45.228.234.162:24000/play/a05b/index.m3u8
 
 #EXTINF:-1 tvg-chno="512" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo HD
-http://168.228.194.32:58001/play/a09v/index.m3u8
+http://45.228.234.162:24000/play/a07v/index.m3u8
 
 #EXTINF:-1 tvg-chno="513" tvg-logo="https://www.disneyadvertising.com/wp-content/uploads/2019/11/das_nat-geo_nat-geo-mundo_logo-blk.png",Nat Geo Mundo HD
 http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/267311.m3u8
 
 #EXTINF:-1 tvg-chno="514" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png",Animal Planet HD
-http://168.228.194.32:58001/play/a05q/index.m3u8
+http://45.228.234.162:24000/play/a049/index.m3u8
 
 #EXTINF:-1 tvg-chno="515" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health HD
-http://168.228.194.32:58001/play/a08e/index.m3u8
+http://45.228.234.162:24000/play/a072/index.m3u8
 
 #EXTINF:-1 tvg-chno="516" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health HD
 http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/5774.m3u8
 
 #EXTINF:-1 tvg-chno="520" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery_m.png",Discovery Channel HD
-http://168.228.194.32:58001/play/a09y/index.m3u8
+http://45.228.234.162:24000/play/a07y/index.m3u8
 
 #EXTINF:-1 tvg-chno="521" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png",Discovery Theater HD
-http://168.228.194.32:58001/play/a08d/index.m3u8
+http://45.228.234.162:24000/play/a08r/index.m3u8
 
 #EXTINF:-1 tvg-chno="522" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery World HD
-http://168.228.194.32:58001/play/a09z/index.m3u8
+http://45.228.234.162:24000/play/a07z/index.m3u8
 
 #EXTINF:-1 tvg-chno="525" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png",Comedy Central HD
-http://168.228.194.32:58001/play/a08g/index.m3u8
+http://45.228.234.162:24000/play/a08u/index.m3u8
 
 #EXTINF:-1 tvg-chno="526" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png",HGTV Latino
-http://200.24.141.2:4000/play/a2mn/index.m3u8
+http://45.228.234.162:24000/play/a09v/index.m3u8
 
 #EXTINF:-1 tvg-chno="530" tvg-logo="https://i4.hurimg.com/i/hurriyet/75/600x338/5dbd043ed3806c1dec53824d.jpg",Kanal Drama HD
 http://200.48.19.142:8000/play/a01l
@@ -883,10 +883,10 @@ http://168.228.194.32:58001/play/a04y/index.m3u8
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/210855.m3u8
 
 #EXTINF:-1 tvg-chno="533" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sun_channel-mediano.png",Sun Channel HD
-http://190.61.102.67:444/play/a023
+http://45.228.234.162:24000/play/a05d/index.m3u8
 
 #EXTINF:-1 tvg-chno="534" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-gourmet_m.png",El Gourmet HD
-http://168.228.194.32:58001/play/a06u/index.m3u8
+http://45.228.234.162:24000/play/a05c/index.m3u8
 
 #EXTINF:-1 tvg-chno="535" tvg-logo="https://cdn.mitvstatic.com/channels/ar_pasiones_m.png",Pasiones HD
 http://168.228.194.32:58001/play/a0a0/index.m3u8
