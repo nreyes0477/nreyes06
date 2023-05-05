@@ -867,11 +867,14 @@ http://45.228.234.162:24000/play/a08r/index.m3u8
 #EXTINF:-1 tvg-chno="522" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery World HD
 http://45.228.234.162:24000/play/a07z/index.m3u8
 
+#EXTINF:-1 tvg-chno="523" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery Science HD
+http://45.228.234.162:24000/play/a09w/index.m3u8
+
+#EXTINF:-1 tvg-chno="524" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png",HGTV Latino
+http://45.228.234.162:24000/play/a09v/index.m3u8
+
 #EXTINF:-1 tvg-chno="525" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png",Comedy Central HD
 http://45.228.234.162:24000/play/a08u/index.m3u8
-
-#EXTINF:-1 tvg-chno="526" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png",HGTV Latino
-http://45.228.234.162:24000/play/a09v/index.m3u8
 
 #EXTINF:-1 tvg-chno="530" tvg-logo="https://i4.hurimg.com/i/hurriyet/75/600x338/5dbd043ed3806c1dec53824d.jpg",Kanal Drama HD
 http://200.48.19.142:8000/play/a01l
