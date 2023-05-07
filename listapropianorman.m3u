@@ -184,7 +184,7 @@ https://scl.edge.grupoz.cl:443/music/live/chunklist_w942041273.m3u8
 https://mediacpstreamchile.com:1936/8028/8028/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="67" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/TLTV2016.png",Top Latino TV
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/.m3u8
 
 #EXTINF:-1 tvg-chno="68" tvg-logo="https://www.huilatv.com/wp-content/uploads/2020/01/LOGO-HUILA-TV-ICONO.png",Huila TV
 https://plataformavideo.com:19360/8020/8020.m3u8
