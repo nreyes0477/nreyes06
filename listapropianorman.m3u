@@ -316,7 +316,7 @@ https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 #EXTINF:-1 tvg-chno="211" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/588px-Canal_26_logo_%282022%29.svg.png",Canal 26 🇦🇷
-http://45.179.193.219:5000/play/a0fz
+http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/3190.m3u8
 
 #EXTINF:-1 tvg-chno="212" tvg-logo="https://assets.iproup.com/assets/jpg/2021/04/17689.jpg",Crónica HD 🇦🇷
 http://hidra.live:80/live/twzwmwwg/ya472YoS7p/123877.m3u8
