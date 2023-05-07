@@ -1026,14 +1026,44 @@ http://45.228.234.162:24000/play/a07n/index.m3u8
 #EXTINF:-1 tvg-chno="715" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN +
 http://45.228.234.162:24000/play/a030/index.m3u8
 
-#EXTINF:-1 tvg-chno="717" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports 2 HD
+#EXTINF:-1 tvg-chno="716" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports MX
+http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/10925.m3u8
+
+#EXTINF:-1 tvg-chno="717" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports 2 MX
+http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/3043.m3u8
+
+#EXTINF:-1 tvg-chno="718" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports 2 HD
 http://45.228.234.162:24000/play/a08p/index.m3u8
 
-#EXTINF:-1 tvg-chno="718" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports 3 HD
+#EXTINF:-1 tvg-chno="719" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports 3 HD
 http://45.228.234.162:24000/play/a07u/index.m3u8
 
-#EXTINF:-1 tvg-chno="729" tvg-logo="https://www.holamujer.cl/wp-content/uploads/2020/06/20-FOX-SPORTS-PREMIUM-768x530.png",Fox Sports Premium MX
+#EXTINF:-1 tvg-chno="720" tvg-logo="https://www.holamujer.cl/wp-content/uploads/2020/06/20-FOX-SPORTS-PREMIUM-768x530.png",Fox Sports Premium MX
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53541.m3u8
+
+#EXTINF:-1 tvg-chno="725" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN HD
+http://181.78.24.187:8006/play/a09w/index.m3u8
+
+#EXTINF:-1 tvg-chno="726" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 2 HD
+http://181.78.24.187:8006/play/a006/index.m3u8
+
+#EXTINF:-1 tvg-chno="727" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 3 HD
+http://181.78.24.187:8006/play/a067/index.m3u8
+
+#EXTINF:-1 tvg-chno="728" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 4 HD
+http://181.78.24.187:8006/play/a06e/index.m3u8
+
+#EXTINF:-1 tvg-chno="729" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Extra HD
+http://181.78.24.187:8006/play/a0b2/index.m3u8
+
+#EXTINF:-1 tvg-chno="733" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports 1 HD
+http://181.78.24.187:8006/play/a0ag/index.m3u8
+
+#EXTINF:-1 tvg-chno="734" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports 2 HD
+http://181.78.24.187:8006/play/a06f/index.m3u8
+
+#EXTINF:-1 tvg-chno="735" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports 3 HD
+http://181.78.24.187:8006/play/a068/index.m3u8
 
 #EXTINF:-1 tvg-chno="747" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png",TUDN USA 🇲🇽
 http://181.78.11.238:6837/play/a02t
@@ -1076,6 +1106,9 @@ http://168.228.194.32:58001/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-chno="763" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Sky Sports / Espn + 🇺🇸
 http://168.228.194.32:58001/play/a0au/index.m3u8
+
+#EXTINF:-1 tvg-chno="735" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",TyC Sports HD
+http://181.78.75.11:9500/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-chno="766" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",TNT Sports HD 🇦🇷
 http://138.185.15.250:8000/play/a06p/index.m3u8
