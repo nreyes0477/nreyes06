@@ -144,13 +144,13 @@ https://cloudvideo.servers10.com:19360/8212/8212.m3u8
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png",San Isidro TV
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="53" tvg-logo="https://dreikotv.online/wp-content/uploads/2023/02/logotipo_dreikotv.png",Dreiko TV 🇵🇦
+#EXTINF:-1 tvg-chno="53" tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png",Dreiko TV 🇵🇦 
 https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="54" tvg-logo="https://planetatv.cl/chile/wp-content/uploads/2023/02/PLANETATV3.png",Planeta Tv Movie 🇨🇱
+#EXTINF:-1 tvg-chno="54" tvg-logo="https://planetatv.cl/chile/wp-content/uploads/2023/02/PLANETATV3.png",Planeta Tv Movie 🇨🇱 
 https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1647139122.m3u8
 
-#EXTINF:-1 tvg-chno="55" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/vegavision-canal-18.jpg",Vegavisión Canal 18 🇩🇴
+#EXTINF:-1 tvg-chno="55" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/vegavision-canal-18.jpg",Vegavisión Canal 18 🇩🇴 
 https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="56" tvg-logo="https://i.paste.pics/9c22ea0df4ad9c0affc8fe065875781f.png", Retro Mágico 🇦🇷
