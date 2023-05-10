@@ -772,7 +772,7 @@ https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
 http://190.83.116.229:9010/play/a02y/index.m3u8
 
 #EXTINF:-1 tvg-chno="416" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1",CNN Chile 🇨🇱
-http://45.161.115.26:50000/play/a02y/index.m3u8
+http://181.78.27.188:5350/play/a036
 
 #EXTINF:-1 tvg-chno="417" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/DW-German-Live-TV-Online.png?resize=1068%2C601&ssl=1",DW Español 🇩🇪
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
