@@ -327,29 +327,29 @@ https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all
 #EXTINF:-1 tvg-chno="210" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png",🌐 TN Noticias 🇦🇷
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
-#EXTINF:-1 tvg-chno="211" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/588px-Canal_26_logo_%282022%29.svg.png",🔗 Canal 26 🇦🇷
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/1801.m3u8
+#EXTINF:-1 tvg-chno="211" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/588px-Canal_26_logo_%282022%29.svg.png",🌐 Canal 26 🇦🇷
+http://200.115.193.177/live/26hd-720/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="212" tvg-logo="https://assets.iproup.com/assets/jpg/2021/04/17689.jpg",🔗 Crónica HD 🇦🇷
 http://hidra.live:80/live/twzwmwwg/ya472YoS7p/123877.m3u8
 
-#EXTINF:-1 tvg-chno="213" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/C5N_%282017%29.png/606px-C5N_%282017 %29.png",🔗 C5N 🇦🇷
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/1800.m3u8
+#EXTINF:-1 tvg-chno="213" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/C5N_%282017%29.png/606px-C5N_%282017 %29.png",🌐 C5N 🇦🇷
+https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 
-#EXTINF:-1 tvg-chno="214" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",🔗 A24 🇦🇷
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/1799.m3u8
+#EXTINF:-1 tvg-chno="214" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",🌐 A24 🇦🇷
+https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 
 #EXTINF:-1 tvg-chno="215" tvg-logo="https://ipnoticias.ar/logo-ip-header.png",🌐 IP Noticias 🇦🇷
 https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 
-#EXTINF:-1 tvg-chno="216" tvg-logo="https://dossiernet.com/_next/image?url=https%3A%2F%2Fdmdqet87i5rod.cloudfront.net%2Festoesmedia%2F609bcd5342359_lnmas.jpg&w=1080&q=75",🔗 La Nación + 🇦🇷
-http://hidra.live:80/live/aqqtamco/vk3e30K4Yi/43347.m3u8
+#EXTINF:-1 tvg-chno="216" tvg-logo="https://dossiernet.com/_next/image?url=https%3A%2F%2Fdmdqet87i5rod.cloudfront.net%2Festoesmedia%2F609bcd5342359_lnmas.jpg&w=1080&q=75",🌐 La Nación + 🇦🇷
+https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
 #EXTINF:-1 tvg-chno="217" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png",🌐 Net TV 🇦🇷
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="218" tvg-logo="https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-BLANCA-300x99.png",🔗 Canal 9 Multivision 🇦🇷
-http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/18341.m3u8
+#EXTINF:-1 tvg-chno="218" tvg-logo="https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-BLANCA-300x99.png",🌐 Multivision Federal 🇦🇷
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="220" tvg-logo="https://i.paste.pics/6ea1efdaba3065291386bc1637fc488a.png",🌐 Encuentro 🇦🇷
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
