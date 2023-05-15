@@ -385,22 +385,22 @@ http://200.119.222.198:25470/play/a021/index.m3u8
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8SlMvZHZFbm5HajZiN3FmZnBUdFV3PT0mdmFsaWRtaW51dGVzPTI1JmlkPQ==
 
 #EXTINF:-1 tvg-chno="237" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png",CHV HD 🇨🇱
-http://177.93.52.100:45001/play/a05t
+http://190.43.92.191:8000/play/a0mu/index.m3u8
 
 #EXTINF:-1 tvg-chno="238" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png",TVN HD 🇨🇱
-http://45.169.38.226:8000/play/a0a0/index.m3u8
+http://190.43.92.191:8000/play/a0mt/index.m3u8
 
 #EXTINF:-1 tvg-chno="239" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png",Canal 13 🇨🇱
-http://177.93.52.100:45001/play/a07s
+http://45.160.15.1:8111/play/a0pc
 
 #EXTINF:-1 tvg-chno="240" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mega_chile-mediano.png",Mega HD 🇨🇱
-http://177.93.52.100:45001/play/a06u
+http://190.43.92.191:8000/play/a0nv/index.m3u8
 
 #EXTINF:-1 tvg-chno="241" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_red_chile-mediano.png",La Red HD 🇨🇱
-http://170.254.234.244:8000/play/a06g/index.m3u8
+http://190.43.92.191:8000/play/a0t5/index.m3u8
 
 #EXTINF:-1 tvg-chno="242" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",TV + HD 🇨🇱
-http://177.93.52.100:45001/play/a06t
+http://190.43.92.191:8000/play/a0nu/index.m3u8
 
 #EXTINF:-1 tvg-chno="243" tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-13-c_m.png",🔗 Canal 13C 🇨🇱
 http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/295630.m3u8
@@ -787,7 +787,7 @@ https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
 http://190.83.116.229:9010/play/a02y/index.m3u8
 
 #EXTINF:-1 tvg-chno="416" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1",CNN Chile 🇨🇱
-http://181.78.27.188:5350/play/a036
+http://190.43.92.191:8000/play/a0sq/index.m3u8
 
 #EXTINF:-1 tvg-chno="417" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/DW-German-Live-TV-Online.png?resize=1068%2C601&ssl=1",🌐 DW Español 🇩🇪
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
