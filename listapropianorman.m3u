@@ -735,7 +735,7 @@ http://200.31.4.14:8000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-chno="396" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/TVES-Venezuela-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",TVes 🇻🇪
 http://200.31.4.14:8000/play/a06x/index.m3u8
 
-#EXTINF:-1 tvg-chno="398" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Ve-Plus-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",🔗 Venevisión Plus 🇻🇪
+#EXTINF:-1 tvg-chno="398" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Ve-Plus-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",🌐 Venevisión Plus 🇻🇪
 http://190.122.96.187:8888/http/006
 
 #EXTINF:-1 tvg-chno="399" tvg-logo="https://www.novelisima.com/assets/images/logo.png",🌐 Novelisima 🇻🇪
