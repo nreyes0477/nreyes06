@@ -1084,7 +1084,7 @@ http://181.78.24.187:8006/play/a068/index.m3u8
 http://181.78.11.238:6837/play/a02t
 
 #EXTINF:-1 tvg-chno="748" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",TUDN MX 🇲🇽
-http://45.170.225.212:58001/play/a041/index.m3u8
+http://45.170.225.210:58001/play/a041/index.m3u8
 
 #EXTINF:-1 tvg-chno="749" tvg-logo="https://images.squarespace-cdn.com/content/v1/58597a19e58c62ba7fa48bf9/1626211994542-XUWFSKZ5AW26W6RBLXOA/1200px-Claro_Sports_logo.svg.png",Claro Sports 🇲🇽
 http://45.228.234.162:24000/play/a08l/index.m3u8
