@@ -1003,7 +1003,7 @@ http://168.181.161.24:8000/play/a00v
 http://168.181.161.24:8000/play/a00w
 
 #EXTINF:-1 tvg-chno="700" tvg-logo="https://www.futvcr.com/assets/iconos/iconos-02.png",Futv HD
-http://168.181.161.24:8000/play/a010
+http://181.63.102.144:12000/play/a0kg/index.m3u8
 
 #EXTINF:-1 tvg-chno="701" tvg-logo="https://www.futvcr.com/assets/iconos/iconos-02.png",Futv HD Opc 2
 http://138.59.177.34:8000/play/a06z/index.m3u8
@@ -1012,7 +1012,7 @@ http://138.59.177.34:8000/play/a06z/index.m3u8
 http://45.228.234.162:24000/play/a08n/index.m3u8
 
 #EXTINF:-1 tvg-chno="704" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR Opc 2
-http://168.181.161.24:8000/play/a00k
+http://190.61.91.101:1234/play/a00s/index.m3u8
 
 #EXTINF:-1 tvg-chno="706" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0o9.png",TD + HD
 http://45.228.234.162:24000/play/a0a0/index.m3u8
