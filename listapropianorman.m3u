@@ -1149,7 +1149,7 @@ http://45.141.194.9:9000/play/a017/index.m3u8
 #EXTINF:-1 tvg-chno="776" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Barca TV HD 🇪🇦
 http://45.141.194.9:9000/play/a00a/index.m3u8
 
-#EXTINF:-1 tvg-chno="777" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos.png?zoom=3&resize=100%2C70&ssl=1",🔗 Cableonda 🇵🇦 
+#EXTINF:-1 tvg-chno="777" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos-fc.png",🔗 Cableonda 🇵🇦 
 http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/34922.m3u8
 
 #EXTINF:-1 tvg-chno="778" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar%2B_Logo.png/640px-Movistar%2B_Logo.png",🔗 Movistar Plus 🇵🇪 
