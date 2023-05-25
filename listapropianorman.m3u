@@ -1026,13 +1026,13 @@ http://45.228.234.162:24000/play/a0a1/index.m3u8
 #EXTINF:-1 tvg-chno="709" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 HD Opc 2
 http://181.189.243.254:8000/play/a0oa/index.m3u8
 
-#EXTINF:-1 tvg-chno="710" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN HD
+#EXTINF:-1 tvg-chno="710" tvg-logo="https://www.telcocom.com.ar/img/canales/espn.png",ESPN HD
 http://45.228.234.162:24000/play/a07r/index.m3u8
 
-#EXTINF:-1 tvg-chno="711" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 2 HD
+#EXTINF:-1 tvg-chno="711" tvg-logo="https://www.telcocom.com.ar/img/canales/espn-2.png",ESPN 2 HD
 http://45.228.234.162:24000/play/a07t/index.m3u8
 
-#EXTINF:-1 tvg-chno="712" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 3 HD
+#EXTINF:-1 tvg-chno="712" tvg-logo="https://www.telcocom.com.ar/img/canales/espn-3.png",ESPN 3 HD
 http://45.228.234.162:24000/play/a07s/index.m3u8
 
 #EXTINF:-1 tvg-chno="714" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 4 HD
