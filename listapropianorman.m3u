@@ -1003,7 +1003,7 @@ http://168.228.194.33:48001/play/a08j/index.m3u8
 http://168.228.194.33:48001/play/a08k/index.m3u8
 
 #EXTINF:-1 tvg-chno="700" tvg-logo="https://www.futvcr.com/assets/iconos/iconos-02.png",Futv HD
-http://168.228.194.33:48001/play/a09q/index.m3u8
+http://189.202.205.235:4000/play/a03h
 
 #EXTINF:-1 tvg-chno="701" tvg-logo="https://www.futvcr.com/assets/iconos/iconos-02.png",Futv HD Opc 2
 http://170.254.172.10:8000/play/a07y/index.m3u8
@@ -1088,7 +1088,7 @@ http://181.78.24.187:8006/play/a06f/index.m3u8
 http://181.78.24.187:8006/play/a068/index.m3u8
 
 #EXTINF:-1 tvg-chno="747" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png",TUDN USA 🇲🇽
-http://170.82.37.21:8000/play/a015/index.m3u8
+http://45.170.225.210:58001/play/a041/index.m3u8
 
 #EXTINF:-1 tvg-chno="748" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",TUDN MX 🇲🇽
 http://168.228.194.33:48001/play/a0at/index.m3u8
