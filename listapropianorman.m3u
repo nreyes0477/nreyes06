@@ -646,7 +646,7 @@ http://191.52.214.5:8000/play/a04t/index.m3u8
 http://191.52.214.5:8000/play/a04u/index.m3u8
 
 #EXTINF:-1 tvg-chno="359" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/500px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png",Tv Perú HD 🇵🇪
-http://191.52.214.5:8000/play/a04w/index.m3u8
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 
 #EXTINF:-1 tvg-chno="360" tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png",🌐 ATV HD 🇵🇪
 https://atvperu.akamaized.net:443/hls/live/2100630/atv/master_720.m3u8
