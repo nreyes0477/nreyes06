@@ -1040,10 +1040,10 @@ http://45.228.234.162:24000/play/a07n/index.m3u8
 http://45.228.234.162:24000/play/a030/index.m3u8
 
 #EXTINF:-1 tvg-chno="716" tvg-logo="https://www.telcocom.com.ar/img/canales/fox-sports.png",🔗 Fox Sports MX 
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/40911.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/30338.m3u8
 
 #EXTINF:-1 tvg-chno="717" tvg-logo="https://www.telcocom.com.ar/img/canales/fox-sports-2.png",🔗 Fox Sports 2 MX 
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/3172.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/37826.m3u8
 
 #EXTINF:-1 tvg-chno="718" tvg-logo="https://www.telcocom.com.ar/img/canales/fox-sports-2.png",Fox Sports 2 HD
 http://45.228.234.162:24000/play/a08p/index.m3u8
@@ -1097,23 +1097,22 @@ http://45.228.234.162:24000/play/a08l/index.m3u8
 #EXTINF:-1 tvg-chno="751" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",DirecTV Sports 2
 http://168.228.194.33:48001/play/a0bb/index.m3u8
 
-#EXTINF:-1 tvg-chno="752" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",DirecTV Sports +
-http://190.119.178.46:8000/play/a034/index.m3u8
+#EXTINF:-1 tvg-chno="752" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",DirecTV Sports 1
+http://168.228.194.33:48001/play/a0ba/index.m3u8
 
 #EXTINF:-1 tvg-chno="754" tvg-logo="https://banner2.cleanpng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg",🔗 Sky Sports Liga Española 🇺🇸 
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/65255.m3u8
 
 #EXTINF:-1 tvg-chno="755" tvg-logo="https://banner2.cleanpng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg",🔗 Sky Sports Liga Alemana 🇺🇸 
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2070834.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/53429.m3u8
 
 #EXTINF:-1 tvg-chno="756" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Bein Sports HD 🇺🇸
-http://181.78.11.238:6837/play/a02o
+http://168.228.194.33:48001/play/a004/index.m3u8
 
-#EXTINF:-1 tvg-chno="757" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Movistar + La Liga 🇪🇦
-http://5.255.90.184:2002/play/a02f
 
-#EXTINF:-1 tvg-chno="758" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Movistar + Bundesliga 🇪🇦
-http://5.255.90.184:2002/play/a01f
+
+
+
 
 #EXTINF:-1 tvg-chno="760" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Gol Tv Premiere HD
 http://168.228.194.33:48001/play/a0bj/index.m3u8
@@ -1121,8 +1120,8 @@ http://168.228.194.33:48001/play/a0bj/index.m3u8
 #EXTINF:-1 tvg-chno="761" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Movistar Liga de Campeones HD 🇪🇦
 http://168.228.194.33:48001/play/a0bi/index.m3u8
 
-#EXTINF:-1 tvg-chno="762" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Movistar Liga de Campeones 2 HD 🇪🇦
-http://168.228.194.32:58001/play/a002/index.m3u8
+
+
 
 #EXTINF:-1 tvg-chno="763" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/DAZN-en-directo-Online.png",DAZN La Liga 1 HD 🇪🇦
 http://168.228.194.33:48001/play/z002/index.m3u8
@@ -1131,7 +1130,7 @@ http://168.228.194.33:48001/play/z002/index.m3u8
 http://168.228.194.33:48001/play/a0au/index.m3u8t
 
 #EXTINF:-1 tvg-chno="765" tvg-logo="https://www.telcocom.com.ar/img/canales/tyc-sports.png",TyC Sports HD
-http://181.78.75.11:9500/play/a032/index.m3u8
+http://181.115.238.188:6100/play/a09e
 
 #EXTINF:-1 tvg-chno="766" tvg-logo="https://www.telcocom.com.ar/img/canales/tnt-sports.png",TNT Sports HD 🇨🇱
 http://138.185.15.250:8000/play/a06p/index.m3u8
