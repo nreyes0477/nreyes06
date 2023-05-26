@@ -105,8 +105,7 @@ http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 #EXTINF:-1 tvg-chno="39" tvg-logo="http://costaricatelevision.com/sites/default/files/styles/tv_list/public/2022-09/los-santos-tv-costa-rica.png.webp?itok=ki81X3MW",Los Santos TV
 https://lstv.duckdns.org:449/hls/lstv.m3u8
 
-#EXTINF:-1 tvg-chno="40" tvg-logo="https://pbs.twimg.com/profile_images/1563188156630982656/hG2sn8s-.jpg",Tica TV +
-https://cloudvideo.servers10.com:8081/8030/index.m3u8
+
 
 #EXTINF:-1 tvg-chno="41" tvg-logo="https://i2.paste.pics/83fb31ad5340bda41b8e6f5930e1d4fc.png",TV Curre PZ
 http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
