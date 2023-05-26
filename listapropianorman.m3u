@@ -1006,7 +1006,7 @@ http://168.228.194.33:48001/play/a08k/index.m3u8
 http://189.202.205.235:4000/play/a03h
 
 #EXTINF:-1 tvg-chno="701" tvg-logo="https://www.futvcr.com/assets/iconos/iconos-02.png",Futv HD Opc 2
-http://170.254.172.10:8000/play/a07y/index.m3u8
+http://168.228.194.33:48001/play/a09q/index.m3u8
 
 #EXTINF:-1 tvg-chno="703" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR
 http://45.228.234.162:24000/play/a08n/index.m3u8
