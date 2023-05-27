@@ -859,7 +859,7 @@ http://45.228.234.162:24000/play/a05b/index.m3u8
 #EXTINF:-1 tvg-chno="512" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo HD
 http://45.228.234.162:24000/play/a07v/index.m3u8
 
-#EXTINF:-1 tvg-chno="513" tvg-logo="https://www.disneyadvertising.com/wp-content/uploads/2019/11/das_nat-geo_nat-geo-mundo_logo-blk.png",Nat Geo Mundo HD
+#EXTINF:-1 tvg-chno="513" tvg-logo="https://www.disneyadvertising.com/wp-content/uploads/2019/11/das_nat-geo_nat-geo-mundo_logo-blk.png",🔗 Nat Geo Mundo HD
 http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/267311.m3u8
 
 #EXTINF:-1 tvg-chno="514" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png",Animal Planet HD
@@ -868,8 +868,11 @@ http://45.228.234.162:24000/play/a049/index.m3u8
 #EXTINF:-1 tvg-chno="515" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health HD
 http://45.228.234.162:24000/play/a072/index.m3u8
 
-#EXTINF:-1 tvg-chno="516" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health HD
+#EXTINF:-1 tvg-chno="516" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",🔗 Home & Health HD
 http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/5774.m3u8
+
+#EXTINF:-1 tvg-chno="517" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",TLC HD
+http://181.115.238.188:6100/play/a069
 
 #EXTINF:-1 tvg-chno="520" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery_m.png",Discovery Channel HD
 http://45.228.234.162:24000/play/a07y/index.m3u8
