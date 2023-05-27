@@ -871,7 +871,7 @@ http://45.228.234.162:24000/play/a072/index.m3u8
 #EXTINF:-1 tvg-chno="516" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",🔗 Home & Health HD
 http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/5774.m3u8
 
-#EXTINF:-1 tvg-chno="517" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",TLC HD
+#EXTINF:-1 tvg-chno="517" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo-1080x675.png",TLC HD
 http://181.115.238.188:6100/play/a069
 
 #EXTINF:-1 tvg-chno="520" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery_m.png",Discovery Channel HD
