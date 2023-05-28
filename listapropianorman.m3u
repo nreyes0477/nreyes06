@@ -1004,7 +1004,7 @@ http://168.228.194.33:48001/play/a08j/index.m3u8
 http://168.228.194.33:48001/play/a08k/index.m3u8
 
 #EXTINF:-1 tvg-chno="700" tvg-logo="https://www.futvcr.com/assets/iconos/iconos-02.png",Futv HD
-http://189.202.205.235:4000/play/a03h
+http://138.59.177.34:8000/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-chno="701" tvg-logo="https://www.futvcr.com/assets/iconos/iconos-02.png",Futv HD Opc 2
 http://168.228.194.33:48001/play/a09q/index.m3u8
