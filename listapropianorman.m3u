@@ -1153,5 +1153,9 @@ http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/34922.m3u8
 #EXTINF:-1 tvg-chno="778" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar%2B_Logo.png/640px-Movistar%2B_Logo.png",🔗 Movistar Plus 🇵🇪 
 http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/40374.m3u8
 
-#EXTINF:-1 tvg-chno="780" tvg-logo="https://www.telcocom.com.ar/img/canales/deportv-hd.png",🌐 DeporTV 🇦🇷
+
+#EXTINF:-1 tvg-chno="780" tvg-logo="https://www.telcocom.com.ar/img/canales/deportv-hd.png", Prueba ☢️
+http://54.39.20.118:25461/mvmaYXW3WF/FyIIj9NYPv/177877?play_token=CktiHGbXuD&token=Q0FeWUMNEF8bUVZSBlQHUQxdBVRVVQFTBA8CWl9XVAQBWg4PBgACXQxBG0FCRUcAVVVqXwERCgMFD1xVDh5BEEsGRGdZARBfG1IGVwQEF0kWTFxbABEKAwQAUVUMAFpdDk8USFkBEF8bUgZTAQcXSRZdTUIAQV5TXmcAB09bAAAaWVhNXAkeR1YNaAdUXFQLUBoPFFURHBBbSxRAA1wWCVRPFFpZEUAETQYVWRMJB1cGGhkUBlxFXEZKHUADECA3Gk8UXUgRVwtKClgNEwsXEUcaGRQMQG9AV0sQEFxTDgBKQQwaAEceR1QCTzxSXlsLUVtBXwpdQxAIGldAFRAOClYKQldCOkIMXUENQQMFAFEWRQ==
+
+#EXTINF:-1 tvg-chno="781" tvg-logo="https://www.telcocom.com.ar/img/canales/deportv-hd.png",🌐 DeporTV 🇦🇷
 https://538d0bde28ccf.streamlock.net:443/live-cont.ar/deportv/chunklist_w986698151.m3u8
