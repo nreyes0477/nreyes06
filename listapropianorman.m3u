@@ -422,64 +422,64 @@ http://45.225.47.100:8000/play/a01h
 http://45.169.38.226:8000/play/a02q/index.m3u8
 
 #EXTINF:-1 tvg-chno="257" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Logo_Citytv_2023.jpg",🔗 City TV 🇨🇴
-http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/48310.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/18614.m3u8
 
 #EXTINF:-1 tvg-chno="260" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Caracol_HD_Internacional.png/250px-Caracol_HD_Internacional.png",🔗 Caracol Internacional 🇨🇴
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/199323.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/1778.m3u8
 
 #EXTINF:-1 tvg-chno="261" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/03/RCN_Nuestra_Tele_Int_516x287.jpg",🔗 RCN Internacional 🇨🇴
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/199513.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/1766.m3u8
 
 #EXTINF:-1 tvg-chno="262" tvg-logo="https://www.ecuadortv.ec/wp-content/uploads/2022/03/cropped-EcuadorTvWeb.png",Ecuador TV 🇪🇨
-http://200.24.151.134:8000/play/a00p/index.m3u8
+http://45.238.54.253:8000/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-chno="263" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/400px-Ecuavisa_Logo_2019.png",Ecuavisa 🇪🇨
 http://200.24.151.134:8000/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-chno="264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",🔗 Gamavisión 🇪🇨
-http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/9162.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/72784.m3u8
 
 #EXTINF:-1 tvg-chno="265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oromar_logo.png/300px-Oromar_logo.png",🔗 Oromar TV 🇪🇨
 http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/9164.m3u8
 
 #EXTINF:-1 tvg-chno="266" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/300px-Rts_logo.png",🔗 RTS TV 🇪🇨
-http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/9165.m3u8
+http://45.238.54.253:8000/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-chno="267" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png",🔗 TC Televisión 🇪🇨
-http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/9167.m3u8
+http://45.238.54.253:8000/play/a02g/index.m3u8
 
 #EXTINF:-1 tvg-chno="268" tvg-logo="https://seeklogo.com/images/T/tvc-ecuador-logo-DE265485AA-seeklogo.com.png",🔗 Televicentro 🇪🇨
 http://iptvtree.net:8080/live/faucontv/SWZWpu21nO6mkNgu/47932.m3u8
 
-#EXTINF:-1 tvg-chno="270" tvg-logo="https://logos.streamsites.eu/2756_tve-en-directo-la-1_overview.png",La 1 🇪🇸
-http://142.44.211.14:25461/mvmaYXW3WF/cfsFh3RRKk/380314?play_token=bvuiELBIjE&token=Q0FeWUMNEF8bVwdQBVAEV1VcBA4BBQUAUF4GUw4DUwBbUVRdVVEFVAtBG0FCRUcAVVVqXwERCgEKCFdTDR5BEEsGRGdZARBfG1IGVwQEF0kWTFxbABEKAwQAUVUMC1ZVDk8USFkBEF8bUQdbBgYXSRZdTUIAQV5TXmcAB09bAAAaWVhNXAkeR1YNaAdUXFQLUBoPFFQRHBBbSxRAA1wWCVRPFFpZEUAETQYVWV9EWQkYGlZZEF1EQEsaXkB6YEFJGgZOTFULQQxWDRVZE0VGRxgaXEU6QVVBRkoBA1RXEUcCQQYaHEdfBEE8VAxfX1AGQFFaWBYRChABGkhAVF0NDEwMRGdADFZHA0EFUwkHAUdJ
+#EXTINF:-1 tvg-chno="270" tvg-logo="https://logos.streamsites.eu/2756_tve-en-directo-la-1_overview.png",🔗 La 1 🇪🇸
+http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/12249.m3u8
 
-#EXTINF:-1 tvg-chno="271" tvg-logo="https://logos.streamsites.eu/2894_la-2-en-directo_overview.png",La 2 🇪🇸
-http://45.141.194.9:9000/play/a00z/index.m3u8
+#EXTINF:-1 tvg-chno="271" tvg-logo="https://logos.streamsites.eu/2894_la-2-en-directo_overview.png",🔗 La 2 🇪🇸
+http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/2209.m3u8
 
-#EXTINF:-1 tvg-chno="272" tvg-logo="https://logos.streamsites.eu/2516_antena3_overview.png",Antena 3 🇪🇸
-http://200.24.151.134:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-chno="272" tvg-logo="https://logos.streamsites.eu/2516_antena3_overview.png",🔗 Antena 3 🇪🇸
+http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/2210.m3u8
 
 #EXTINF:-1 tvg-chno="273" tvg-logo="https://mma.prnewswire.com/media/1638822/logo_internacional_cuadrado.jpg?w=200",🔗 Antena 3 Internacional 🇪🇸
-http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/2100550.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/64521.m3u8
 
-#EXTINF:-1 tvg-chno="274" tvg-logo="https://logos.streamsites.eu/2551_cuatro_overview.png", Cuatro HD 🇪🇸
-http://45.141.194.9:9000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-chno="274" tvg-logo="https://logos.streamsites.eu/2551_cuatro_overview.png",🔗 Cuatro HD 🇪🇸
+http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/2211.m3u8
 
 #EXTINF:-1 tvg-chno="275" tvg-logo="https://logos.streamsites.eu/2531_telecinco_overview.png",🔗 Telecinco HD 🇪🇸
 http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/53126.m3u8
 
-#EXTINF:-1 tvg-chno="276" tvg-logo="https://logos.streamsites.eu/2697_la-sexta_overview.png",La Sexta 🇪🇸
-http://45.141.194.9:9000/play/a010/index.m3u8
+#EXTINF:-1 tvg-chno="276" tvg-logo="https://logos.streamsites.eu/2697_la-sexta_overview.png",🔗 La Sexta 🇪🇸
+http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/2213.m3u8
 
-#EXTINF:-1 tvg-chno="277" tvg-logo="https://logos.streamsites.eu/3488_mega_overview.png",Mega HD 🇪🇸
-http://45.141.194.9:9000/play/a011/index.m3u8
+#EXTINF:-1 tvg-chno="277" tvg-logo="https://logos.streamsites.eu/3488_mega_overview.png",🔗 Mega HD 🇪🇸
+http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/2217.m3u8
 
 #EXTINF:-1 tvg-chno="278" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",Star TVE HD 🇪🇸
 http://45.228.234.162:24000/play/a04k/index.m3u8
 
 #EXTINF:-1 tvg-chno="279" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1403px-Logo_TVE-Internacional.svg.png",TVE Internacional 🇪🇸
-http://45.228.234.162:24000/play/a09o/index.m3u8
+http://45.238.54.253:8000/play/a00o/index.m3u8
 
 #EXTINF:-1 tvg-chno="283" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png",🔗 NBC Universo 🇺🇸
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/1939.m3u8
@@ -584,7 +584,7 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/30354.m3u8
 
 #EXTINF:-1 tvg-chno="324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/400px-Unicable_logo.svg.png",🔗 Unicable 🇲🇽
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/37959.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/30385.m3u8
 
 #EXTINF:-1 tvg-chno="330" tvg-logo="https://1.bp.blogspot.com/-Fi3j72ih8b8/YSzl1J95lrI/AAAAAAAAQVE/qDJWftQ2kVUOGhTCR9IFxSk5dUbv00OGACLcBGAsYHQ/w700-h400-p-k-no-nu/Canal%2B4%2Ben%2Bvivo.jpg",Canal 4 🇳🇮
 http://45.5.119.202:54321/play/a05m/index.m3u8
@@ -1154,8 +1154,7 @@ http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/34922.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/40374.m3u8
 
 
-#EXTINF:-1 tvg-chno="780" tvg-logo="https://www.telcocom.com.ar/img/canales/deportv-hd.png", Prueba ☢️
-http://54.39.20.118:25461/mvmaYXW3WF/FyIIj9NYPv/177877?play_token=CktiHGbXuD&token=Q0FeWUMNEF8bUVZSBlQHUQxdBVRVVQFTBA8CWl9XVAQBWg4PBgACXQxBG0FCRUcAVVVqXwERCgMFD1xVDh5BEEsGRGdZARBfG1IGVwQEF0kWTFxbABEKAwQAUVUMAFpdDk8USFkBEF8bUgZTAQcXSRZdTUIAQV5TXmcAB09bAAAaWVhNXAkeR1YNaAdUXFQLUBoPFFURHBBbSxRAA1wWCVRPFFpZEUAETQYVWRMJB1cGGhkUBlxFXEZKHUADECA3Gk8UXUgRVwtKClgNEwsXEUcaGRQMQG9AV0sQEFxTDgBKQQwaAEceR1QCTzxSXlsLUVtBXwpdQxAIGldAFRAOClYKQldCOkIMXUENQQMFAFEWRQ==
 
-#EXTINF:-1 tvg-chno="781" tvg-logo="https://www.telcocom.com.ar/img/canales/deportv-hd.png",🌐 DeporTV 🇦🇷
+
+#EXTINF:-1 tvg-chno="780" tvg-logo="https://www.telcocom.com.ar/img/canales/deportv-hd.png",🌐 DeporTV 🇦🇷
 https://538d0bde28ccf.streamlock.net:443/live-cont.ar/deportv/chunklist_w986698151.m3u8
