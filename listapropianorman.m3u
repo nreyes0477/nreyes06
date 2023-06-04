@@ -1058,7 +1058,7 @@ http://45.228.234.162:24000/play/a07u/index.m3u8
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53541.m3u8
 
 #EXTINF:-1 tvg-chno="725" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN HD
-http://45.189.117.32:7075/play/a0t3/index.m3u8
+http://181.78.24.187:8006/play/a09w/index.m3u8
 
 #EXTINF:-1 tvg-chno="726" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 2 HD
 http://181.78.24.187:8006/play/a006/index.m3u8
