@@ -887,7 +887,7 @@ http://45.228.234.162:24000/play/a07z/index.m3u8
 http://45.228.234.162:24000/play/a09w/index.m3u8
 
 #EXTINF:-1 tvg-chno="524" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png",HGTV Latino
-http://131.196.12.237:8000/play/a06o/index.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/75143.m3u8
 
 #EXTINF:-1 tvg-chno="525" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png",Comedy Central HD
 http://45.228.234.162:24000/play/a08u/index.m3u8
