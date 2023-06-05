@@ -566,7 +566,7 @@ http://45.90.105.74:25461/live/bud-345182/c39d1f9282/37804.m3u8
 http://168.228.194.33:48001/play/a0cj/index.m3u8
 
 #EXTINF:-1 tvg-chno="318" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas 🇲🇽
-http://181.78.8.90:16123/play/ch44
+http://168.228.194.33:48001/play/a0cn/index.m3u8
 
 #EXTINF:-1 tvg-chno="319" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/724px-Canal_5_2016.svg.png",Canal 5 🇲🇽
 http://168.228.194.33:48001/play/a0cl/index.m3u8
