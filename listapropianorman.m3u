@@ -891,13 +891,16 @@ http://168.228.194.33:48001/play/z70/index.m3u8
 #EXTINF:-1 tvg-chno="514" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png",Animal Planet HD
 http://45.228.234.162:24000/play/a049/index.m3u8
 
-#EXTINF:-1 tvg-chno="515" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health HD
-http://181.63.102.144:12000/play/a0js/index.m3u8
+#EXTINF:-1 tvg-chno="515" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health 1 HD
+http://181.224.201.34:5577/play/a00p/index.m3u8
 
-#EXTINF:-1 tvg-chno="516" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",🔗 Home & Health HD
-http://131.196.12.237:8000/play/a027/index.m3u8
+#EXTINF:-1 tvg-chno="516" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",🔗 Home & Health 2 HD
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/75027.m3u8
 
-#EXTINF:-1 tvg-chno="517" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo-1080x675.png",TLC HD
+#EXTINF:-1 tvg-chno="517" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",🔗 Home & Health 3 HD
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/44333.m3u8
+
+#EXTINF:-1 tvg-chno="518" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo-1080x675.png",TLC HD
 http://190.43.92.145:8000/play/a0wt/index.m3u8
 
 #EXTINF:-1 tvg-chno="520" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery_m.png",Discovery Channel HD
