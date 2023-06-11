@@ -329,13 +329,13 @@ http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/131643.m3u8
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",🔗 Canal 13 HD 🇦🇷
-http://hidra.live:80/live/aqqtamco/vk3e30K4Yi/43314.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/110099.m3u8
 
 #EXTINF:-1 tvg-chno="203" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",🌐 Telefe FHD 🇦🇷 
 https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild2.m3u8
 
-#EXTINF:-1 tvg-chno="204" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",🔗 Telefe HD 🇦🇷
-http://hidra.live:80/live/aqqtamco/vk3e30K4Yi/43311.m3u8
+
+
 
 #EXTINF:-1 tvg-chno="205" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png",🔗 Telefe Internacional 🇦🇷
 http://hidra.live:80/live/aqqtamco/vk3e30K4Yi/302726.m3u8
@@ -359,7 +359,7 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="212" tvg-logo="https://assets.iproup.com/assets/jpg/2021/04/17689.jpg",🔗 Crónica HD 🇦🇷
-http://hidra.live:80/live/twzwmwwg/ya472YoS7p/123877.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/29139.m3u8
 
 #EXTINF:-1 tvg-chno="213" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/C5N_%282017%29.png/606px-C5N_%282017 %29.png",🌐 C5N 🇦🇷
 https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
@@ -395,19 +395,19 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 #EXTINF:-1 tvg-chno="230" tvg-logo="https://3.bp.blogspot.com/-OFbQmNvw9ns/XCFQN1j9pUI/AAAAAAAAHOU/_HbtJbA4x-ADtnD5ol6JDZmTrRmZCtOSgCLcBGAs/w350-h350-p-k-no-nu/Bolivision%2Ben%2Bvivo.png",🔗 Bolivisión 🇧🇴
-http://vip.hispanotv.org:80/live/acevedo22/acevedo22/351771.m3u8
+http://hispanotv.net:80/live/acevedo22/acevedo22/351771.m3u8
 
 #EXTINF:-1 tvg-chno="231" tvg-logo="https://3.bp.blogspot.com/-IqEHK3sLw9M/XCFIjI0FUOI/AAAAAAAAHOE/B86GSdMBqBQX5MEb6i9r40jZcoyx0AhqQCLcBGAs/w700-h400-p-k-no-nu/blanco-crop.png",🌐 Cadena A 🇧🇴
 https://5e50264bd6766.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="232" tvg-logo="https://static-media.streema.com/media/cache/c4/42/c442ed13a23c1f824bfdb25ab0b1397a.jpg",🔗 Gigavisión 🇧🇴
-http://vip.hispanotv.org:80/live/acevedo22/acevedo22/351777.m3u8
+http://hispanotv.net:80/live/acevedo22/acevedo22/351777.m3u8
 
 #EXTINF:-1 tvg-chno="233" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/New_Unitel_logo_HD.jpg",🔗 Unitel 🇧🇴
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/2194.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/2194.m3u8
 
 #EXTINF:-1 tvg-chno="234" tvg-logo="https://4.bp.blogspot.com/--7IX2NCKelU/XCFC17d96gI/AAAAAAAAHN0/u3Qj0frMRGMNHKWr3dpKYJfCbbo94kANACLcBGAs/w350-h350-p-k-no-nu/Red%2BUno%2Ben%2Bvivo.png",🔗 Red Uno 🇧🇴
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/2191.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/2191.m3u8
 
 #EXTINF:-1 tvg-chno="235" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",🌐 Bolivia TV 🇧🇴
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
