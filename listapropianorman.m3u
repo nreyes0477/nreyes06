@@ -331,7 +331,7 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",🔗 Canal 13 HD 🇦🇷
 http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/110099.m3u8
 
-#EXTINF:-1 tvg-chno="203" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",🌐 Telefe FHD 🇦🇷 
+#EXTINF:-1 tvg-chno="203" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",🌐 Telefe HD 🇦🇷 
 https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild2.m3u8
 
 
@@ -413,52 +413,52 @@ http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/2191.m3u8
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="237" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png",CHV HD 🇨🇱
-http://190.232.188.138:8000/play/a038/index.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/32732.m3u8
 
 #EXTINF:-1 tvg-chno="238" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png",TVN HD 🇨🇱
-http://190.232.188.138:8000/play/a037/index.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/32734.m3u8
 
 #EXTINF:-1 tvg-chno="239" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png",Canal 13 🇨🇱
-http://45.160.15.1:8111/play/a0pc
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/14539.m3u8
 
 #EXTINF:-1 tvg-chno="240" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mega_chile-mediano.png",Mega HD 🇨🇱
-http://45.238.54.253:8000/play/a00w/index.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/32730.m3u8
 
 #EXTINF:-1 tvg-chno="241" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_red_chile-mediano.png",La Red HD 🇨🇱
-http://190.232.188.138:8000/play/a033/index.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/29115.m3u8
 
 #EXTINF:-1 tvg-chno="242" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",🔗 TV + HD 🇨🇱
 http://hidra.live:80/live/aqqtamco/vk3e30K4Yi/123889.m3u8
 
 #EXTINF:-1 tvg-chno="243" tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-13-c_m.png",🔗 Canal 13C 🇨🇱
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/92867.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/92867.m3u8
 
 #EXTINF:-1 tvg-chno="244" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png",Canal 24 Horas HD 🇨🇱
-http://45.238.54.253:8000/play/a015/index.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/14543.m3u8
 
 #EXTINF:-1 tvg-chno="250" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png",Caracol HD 🇨🇴
-http://45.169.38.226:8000/play/a00d/index.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/32747.m3u8
 
 #EXTINF:-1 tvg-chno="252" tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg",RCN HD 🇨🇴
-http://45.169.38.226:8000/play/a00j/index.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/16984.m3u8
 
 #EXTINF:-1 tvg-chno="254" tvg-logo="https://1.bp.blogspot.com/-jslL1CIeqqk/YaVCAmvGxvI/AAAAAAAADDo/wPaGYipC7Eo_6NVRuL0XESV1lzjq6xhLgCLcBGAsYHQ/s16000/rcnmas.jpg",🌐 RCN + 🇨🇴
 https://rcntv-rcnmas-1-us.plex.wurl.tv:443/4300.m3u8
 
 #EXTINF:-1 tvg-chno="255" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/1586px-RCN_Novelas_logo_2019.png",RCN Novelas 🇨🇴
-http://45.225.47.100:8000/play/a01h
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/16987.m3u8
 
-#EXTINF:-1 tvg-chno="256" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/250px-Channel_1_%28Colombia%29_-_2017_logo.svg.png",Canal 1 🇨🇴
-http://45.169.38.226:8000/play/a02q/index.m3u8
+#EXTINF:-1 tvg-chno="256" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/250px-Channel_1_%28Colombia%29_-_2017_logo.svg.png",Canal Uno 🇨🇴
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/16985.m3u8
 
 #EXTINF:-1 tvg-chno="257" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Logo_Citytv_2023.jpg",🔗 City TV 🇨🇴
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/18614.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/18614.m3u8
 
 #EXTINF:-1 tvg-chno="260" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Caracol_HD_Internacional.png/250px-Caracol_HD_Internacional.png",🔗 Caracol Internacional 🇨🇴
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/1778.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/16981.m3u8
 
 #EXTINF:-1 tvg-chno="261" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/03/RCN_Nuestra_Tele_Int_516x287.jpg",🔗 RCN Internacional 🇨🇴
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/1766.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/75118.m3u8
 
 #EXTINF:-1 tvg-chno="262" tvg-logo="https://www.ecuadortv.ec/wp-content/uploads/2022/03/cropped-EcuadorTvWeb.png",Ecuador TV 🇪🇨
 http://45.238.54.253:8000/play/a02b/index.m3u8
