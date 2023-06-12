@@ -482,31 +482,31 @@ http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/3017.m3u8
 http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/3017.m3u8
 
 #EXTINF:-1 tvg-chno="270" tvg-logo="https://logos.streamsites.eu/2756_tve-en-directo-la-1_overview.png",🔗 La 1 🇪🇸
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/12249.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/80625.m3u8
 
 #EXTINF:-1 tvg-chno="271" tvg-logo="https://logos.streamsites.eu/2894_la-2-en-directo_overview.png",🔗 La 2 🇪🇸
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/2209.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/2209.m3u8
 
 #EXTINF:-1 tvg-chno="272" tvg-logo="https://logos.streamsites.eu/2516_antena3_overview.png",🔗 Antena 3 🇪🇸
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/2210.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/2210.m3u8
 
 #EXTINF:-1 tvg-chno="273" tvg-logo="https://mma.prnewswire.com/media/1638822/logo_internacional_cuadrado.jpg?w=200",🔗 Antena 3 Internacional 🇪🇸
 http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/64521.m3u8
 
 #EXTINF:-1 tvg-chno="274" tvg-logo="https://logos.streamsites.eu/2551_cuatro_overview.png",🔗 Cuatro HD 🇪🇸
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/2211.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/2211.m3u8
 
 #EXTINF:-1 tvg-chno="275" tvg-logo="https://logos.streamsites.eu/2531_telecinco_overview.png",🔗 Telecinco HD 🇪🇸
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/53126.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/14911.m3u8
 
 #EXTINF:-1 tvg-chno="276" tvg-logo="https://logos.streamsites.eu/2697_la-sexta_overview.png",🔗 La Sexta 🇪🇸
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/2213.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/2213.m3u8
 
 #EXTINF:-1 tvg-chno="277" tvg-logo="https://logos.streamsites.eu/3488_mega_overview.png",🔗 Mega HD 🇪🇸
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/2217.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/2217.m3u8
 
-#EXTINF:-1 tvg-chno="278" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",Star TVE HD 🇪🇸
-http://45.228.234.162:24000/play/a04k/index.m3u8
+#EXTINF:-1 tvg-chno="278" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",🔗 Star TVE HD 🇪🇸
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/42568.m3u8
 
 #EXTINF:-1 tvg-chno="279" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1403px-Logo_TVE-Internacional.svg.png",TVE Internacional 🇪🇸
 http://45.238.54.253:8000/play/a00o/index.m3u8
