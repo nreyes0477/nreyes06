@@ -648,22 +648,22 @@ http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/55343.m3u8
 https://mediacp.us:8081/nex/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="347" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png",Paraguay TV 🇵🇾
-http://181.232.159.2:35600/play/a01m/index.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/18625.m3u8
 
-#EXTINF:-1 tvg-chno="348" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png",Paravisión 🇵🇾
-http://181.63.102.144:12000/play/a0h6/index.m3u8
+#EXTINF:-1 tvg-chno="348" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png",*Paravisión 🇵🇾
+http://45.238.54.253:8000/play/a02o/index.m3u8
 
-#EXTINF:-1 tvg-chno="349" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg",🔗 Telefuturo 🇵🇾
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/1885.m3u8
+#EXTINF:-1 tvg-chno="349" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg",*Telefuturo 🇵🇾
+http://45.238.54.253:8000/play/a00m/index.m3u8
 
-#EXTINF:-1 tvg-chno="350" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/240px-Logotrececanal.png",Canal Trece 🇵🇾
-http://181.63.102.144:12000/play/a0i1/index.m3u8
+#EXTINF:-1 tvg-chno="350" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/240px-Logotrececanal.png",🌐 Canal Trece 🇵🇾
+https://rds3gen.desdeparaguay.net/trecetv/trecetv_baja/playlist.m3u8?k=18c6988006108a10fca81dd8f160b9b4f677939ce3292422125656a385996be2&exp=1686695095
 
-#EXTINF:-1 tvg-chno="351" tvg-logo="https://latele.com.py/wp-content/uploads/2022/06/logo-latele.png",La Tele 🇵🇾
-http://181.63.102.144:12000/play/a0hz/index.m3u8
+#EXTINF:-1 tvg-chno="351" tvg-logo="https://latele.com.py/wp-content/uploads/2022/06/logo-latele.png",🌐 La Tele 🇵🇾
+https://rds3tf.desdeparaguay.net/latele/latele_int_baja/playlist.m3u8?k=31cc155928509786c64dc84fb8c3f619a6745520a798df36d0d854b9b6d94523&exp=1686695281
 
-#EXTINF:-1 tvg-chno="352" tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png",Unicanal 🇵🇾
-http://181.63.102.144:12000/play/a0hs/index.m3u8
+#EXTINF:-1 tvg-chno="352" tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png",🌐 Unicanal 🇵🇾
+https://rds3gen.desdeparaguay.net/unicanal/unicanal_baja/playlist.m3u8?k=63bf1d87d53104e005d806f92fa555549df27dc7c83bb936c9564339a1f5a9a7&exp=1686695370
 
 #EXTINF:-1 tvg-chno="355" tvg-logo="https://gzcsecurity.com/img/nosotros/seguridad/americatv-min.jpg",América TV HD 🇵🇪
 http://131.196.12.237:8000/play/a05j/index.m3u8
