@@ -690,19 +690,19 @@ http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/110198.m3u8
 https://nbculocallive.akamaized.net:443/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 
 #EXTINF:-1 tvg-chno="366" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Univisi%C3%B3n-Puerto-Rico-en-vivo-Online.png?zoom=3&resize=218%2C150&ssl=1",🔗 Univision Puerto Rico 🇵🇷
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/38868.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/56235.m3u8
 
 #EXTINF:-1 tvg-chno="367" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/america-teve.png?zoom=2&resize=218%2C150&ssl=1",🌐 América TeVe Miami 🇵🇷
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="368" tvg-logo="https://www.spanishbroadcasting.com/wp-content/uploads/sites/5/2020/12/thumbnail_pr-feature-thumbnail-megatv-ratings.jpg",🔗 Mega TV 🇵🇷
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/2163.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/110285.m3u8
 
 #EXTINF:-1 tvg-chno="369" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/TeleOnce-en-vivo.png?resize=1068%2C601&ssl=1",🌐 Teleonce 🇵🇷
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
 #EXTINF:-1 tvg-chno="370" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/wapa.png?zoom=2&resize=218%2C150&ssl=1",🔗 Wapa América 🇵🇷
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/2169.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/57496.m3u8
 
 #EXTINF:-1 tvg-chno="375" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/telemicro.png?zoom=3&resize=100%2C70&ssl=1",Telemicro Canal 5 🇩🇴
 http://138.59.177.34:8000/play/a04t/index.m3u8
