@@ -639,10 +639,10 @@ https://bcovlive-a.akamaihd.net:443/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6
 https://bcovlive-a.akamaihd.net:443/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
 
 #EXTINF:-1 tvg-chno="340" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/300px-Logo-telemetro.svg.png",🔗 Telemetro 🇵🇦
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/34924.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/14744.m3u8
 
 #EXTINF:-1 tvg-chno="341" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/RPC-en-vivo-Online.png?resize=1068%2C601&ssl=1",🔗 RPC 🇵🇦
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/11315.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/55343.m3u8
 
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/NEX-TV-Panam%C3%A1-en-vivo-Online.png?zoom=3&resize=218%2C150&ssl=1",🌐 Next TV 🇵🇦
 https://mediacp.us:8081/nex/tracks-v1a1/mono.m3u8
