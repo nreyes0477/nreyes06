@@ -666,25 +666,25 @@ https://rds3tf.desdeparaguay.net/latele/latele_int_baja/playlist.m3u8?k=31cc1559
 https://rds3gen.desdeparaguay.net/unicanal/unicanal_baja/playlist.m3u8?k=63bf1d87d53104e005d806f92fa555549df27dc7c83bb936c9564339a1f5a9a7&exp=1686695370
 
 #EXTINF:-1 tvg-chno="355" tvg-logo="https://gzcsecurity.com/img/nosotros/seguridad/americatv-min.jpg",América TV HD 🇵🇪
-http://131.196.12.237:8000/play/a05j/index.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/74777.m3u8
 
 #EXTINF:-1 tvg-chno="356" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png",Latina HD 🇵🇪
-http://131.196.12.237:8000/play/a05k/index.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/110200.m3u8
 
 #EXTINF:-1 tvg-chno="357" tvg-logo="https://cdn.mitvstatic.com/channels/pe_panamericana-tv_m.png",Panamericana 🇵🇪
-http://131.196.12.237:8000/play/a08p/index.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/17021.m3u8
 
 #EXTINF:-1 tvg-chno="359" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/500px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png",Tv Perú HD 🇵🇪
-https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/110192.m3u8
 
 #EXTINF:-1 tvg-chno="360" tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png",🌐 ATV HD 🇵🇪
 https://atvperu.akamaized.net:443/hls/live/2100630/atv/master_720.m3u8
 
 #EXTINF:-1 tvg-chno="361" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png",Canal N 🇵🇪
-http://131.196.12.237:8000/play/a09a/index.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/110187.m3u8
 
 #EXTINF:-1 tvg-chno="362" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/peru_magico-mediano.png",Perú Mágico 🇵🇪
-http://131.196.12.237:8000/play/a090/index.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/110198.m3u8
 
 #EXTINF:-1 tvg-chno="365" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/telemundo-puerto-rico-en-vivo-1391.png",🌐 Telemundo Puerto Rico 🇵🇷
 https://nbculocallive.akamaized.net:443/hls/live/2037499/puertorico/stream1/master_1080.m3u8
