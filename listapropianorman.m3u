@@ -573,11 +573,11 @@ https://62418d5684c12.streamlock.net/TENHD/TENLive.smil/chunklist_w573436473_b69
 #EXTINF:-1 tvg-chno="315" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png",Azteca Uno 🇲🇽
 http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/42526.m3u8
 
-#EXTINF:-1 tvg-chno="316" tvg-logo="https://www.cineytele.com/wp-content/uploads/2018/09/AZ-MUNDO-NI-1024x320.jpg",🔗 Azteca Mundo 🇲🇽
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/37804.m3u8
-
-#EXTINF:-1 tvg-chno="317" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png",Azteca 7 🇲🇽
+#EXTINF:-1 tvg-chno="316" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png",Azteca 7 🇲🇽
 http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/76994.m3u8
+
+#EXTINF:-1 tvg-chno="317" tvg-logo="https://www.cineytele.com/wp-content/uploads/2018/09/AZ-MUNDO-NI-1024x320.jpg",🔗 Azteca Internacional 🇲🇽
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/37804.m3u8
 
 #EXTINF:-1 tvg-chno="318" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas MX 🇲🇽
 http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/77000.m3u8
@@ -598,7 +598,7 @@ http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/77096.m3u8
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo-Imagen-TV-MX.png/800px-Logo -Imagen-TV-MX.png",🔗 Imagen TV 🇲🇽
-http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/28956.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/75065.m3u8
 
 #EXTINF:-1 tvg-chno="325" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/400px-Unicable_logo.svg.png",🔗 Unicable 🇲🇽
 http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/77004.m3u8
