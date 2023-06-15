@@ -102,8 +102,6 @@ http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 #EXTINF:-1 tvg-chno="39" tvg-logo="http://costaricatelevision.com/sites/default/files/styles/tv_list/public/2022-09/los-santos-tv-costa-rica.png.webp?itok=ki81X3MW",Los Santos TV
 https://lstv.duckdns.org:449/hls/lstv.m3u8
 
-
-
 #EXTINF:-1 tvg-chno="41" tvg-logo="https://i2.paste.pics/83fb31ad5340bda41b8e6f5930e1d4fc.png",TV Curre PZ
 http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
 
@@ -175,9 +173,6 @@ http://tv2.ticosmedia.com:1935/canal3/canal3/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="65" tvg-logo="https://planetatv.cl/chile/wp-content/uploads/2023/02/PLANETATV3.png",Planeta Tv Music
 https://scl.edge.grupoz.cl:443/music/live/chunklist_w942041273.m3u8
-
-
-
 
 #EXTINF:-1 tvg-chno="67" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/TLTV2016.png",Top Latino TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
@@ -325,9 +320,6 @@ http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/110099.m3u8
 
 #EXTINF:-1 tvg-chno="203" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",🌐 Telefe HD 🇦🇷 
 https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild2.m3u8
-
-
-
 
 #EXTINF:-1 tvg-chno="205" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png",🔗 Telefe Internacional 🇦🇷
 http://hidra.live:80/live/aqqtamco/vk3e30K4Yi/302726.m3u8
@@ -1071,18 +1063,16 @@ http://45.228.234.162:24000/play/a07n/index.m3u8
 http://45.228.234.162:24000/play/a030/index.m3u8
 
 #EXTINF:-1 tvg-chno="716" tvg-logo="https://www.telcocom.com.ar/img/canales/fox-sports.png",🔗 Fox Sports MX 
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/30338.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/74394.m3u8
 
 #EXTINF:-1 tvg-chno="717" tvg-logo="https://www.telcocom.com.ar/img/canales/fox-sports-2.png",🔗 Fox Sports 2 MX 
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/37826.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/77195.m3u8
 
 #EXTINF:-1 tvg-chno="718" tvg-logo="https://www.telcocom.com.ar/img/canales/fox-sports-2.png",Fox Sports 2 HD
 http://45.228.234.162:24000/play/a08p/index.m3u8
 
 #EXTINF:-1 tvg-chno="719" tvg-logo="https://www.telcocom.com.ar/img/canales/fox-sports-3.png",Fox Sports 3 HD
 http://45.228.234.162:24000/play/a07u/index.m3u8
-
-
 
 #EXTINF:-1 tvg-chno="725" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN HD
 http://45.191.234.189:15082/play/a02n/index.m3u8
@@ -1096,12 +1086,8 @@ http://45.189.117.32:7075/play/a0sj/index.m3u8
 #EXTINF:-1 tvg-chno="728" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 3 HD
 http://45.191.234.189:15082/play/a03h/index.m3u8
 
-
-
 #EXTINF:-1 tvg-chno="730" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 4 HD
 http://45.191.234.189:15082/play/a02s/index.m3u8
-
-
 
 #EXTINF:-1 tvg-chno="732" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Extra HD
 http://45.191.234.189:15082/play/a02z/index.m3u8
@@ -1115,17 +1101,14 @@ http://45.190.13.50:8002/play/a01n/index.m3u8
 #EXTINF:-1 tvg-chno="735" tvg-logo="https://www.telcocom.com.ar/img/canales/fox-sports-3.png",Fox Sports 3 HD
 http://45.190.13.50:8002/play/a01o/index.m3u8
 
-
 #EXTINF:-1 tvg-chno="736" tvg-logo="https://www.telcocom.com.ar/img/canales/fox-sports-3.png",Fox Sports Premium HD
 http://45.190.13.50:8002/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-chno="737" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Sur HD
 http://45.190.13.50:8002/play/a01j/index.m3u8
 
-
 #EXTINF:-1 tvg-chno="738" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Sur 2 HD
 http://45.190.13.50:8002/play/a01k/index.m3u8
-
 
 #EXTINF:-1 tvg-chno="739" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Sur 3 HD
 http://45.190.13.50:8002/play/a01l/index.m3u8
@@ -1154,19 +1137,11 @@ http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/53429.m3u8
 #EXTINF:-1 tvg-chno="756" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Bein Sports HD 🇺🇸
 http://168.228.194.33:48001/play/a004/index.m3u8
 
-
-
-
-
-
 #EXTINF:-1 tvg-chno="760" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Gol Tv Premiere HD
 http://168.228.194.33:48001/play/a0bj/index.m3u8
 
 #EXTINF:-1 tvg-chno="761" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Movistar Liga de Campeones HD 🇪🇦
 http://168.228.194.33:48001/play/a0bi/index.m3u8
-
-
-
 
 #EXTINF:-1 tvg-chno="763" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/DAZN-en-directo-Online.png",DAZN La Liga 1 HD 🇪🇦
 http://168.228.194.33:48001/play/z002/index.m3u8
