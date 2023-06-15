@@ -411,13 +411,13 @@ http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/2191.m3u8
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="237" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png",CHV HD 🇨🇱
-http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/32732.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/110061.m3u8
 
 #EXTINF:-1 tvg-chno="238" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png",TVN HD 🇨🇱
-http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/32734.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/110063.m3u8
 
 #EXTINF:-1 tvg-chno="239" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png",Canal 13 🇨🇱
-http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/14539.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/1573.m3u8
 
 #EXTINF:-1 tvg-chno="240" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mega_chile-mediano.png",Mega HD 🇨🇱
 http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/32730.m3u8
