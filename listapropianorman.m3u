@@ -1181,13 +1181,13 @@ http://168.228.194.33:48001/play/z002/index.m3u8
 http://168.228.194.33:48001/play/a0au/index.m3u8t
 
 #EXTINF:-1 tvg-chno="765" tvg-logo="https://www.telcocom.com.ar/img/canales/tyc-sports.png",TyC Sports HD 🇦🇷
-http://131.196.12.237:19000/play/a05l/index.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/75171.m3u8
 
 #EXTINF:-1 tvg-chno="766" tvg-logo="https://www.telcocom.com.ar/img/canales/tnt-sports.png",TNT Sports HD 🇦🇷
 http://168.228.194.33:48001/play/a0bw/index.m3u8
 
 #EXTINF:-1 tvg-chno="770" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",🔗 Tigo Sport Honduras 🇭🇳 
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/37856.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/7621.m3u8
 
 #EXTINF:-1 tvg-chno="775" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Real Madrid TV HD 🇪🇦
 http://168.228.194.33:48001/play/a0bh/index.m3u8
@@ -1196,13 +1196,10 @@ http://168.228.194.33:48001/play/a0bh/index.m3u8
 http://168.228.194.33:48001/play/a0bg/index.m3u8
 
 #EXTINF:-1 tvg-chno="777" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos-fc.png",🔗 Cableonda 🇵🇦 
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/34922.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/14753.m3u8
 
 #EXTINF:-1 tvg-chno="778" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar%2B_Logo.png/640px-Movistar%2B_Logo.png",🔗 Movistar Plus 🇵🇪 
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/40374.m3u8
-
-
-
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/73771.m3u8
 
 #EXTINF:-1 tvg-chno="780" tvg-logo="https://www.telcocom.com.ar/img/canales/deportv-hd.png",🌐 DeporTV 🇦🇷
 https://538d0bde28ccf.streamlock.net:443/live-cont.ar/deportv/chunklist_w986698151.m3u8
