@@ -895,7 +895,7 @@ http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/75027.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/44333.m3u8
 
 #EXTINF:-1 tvg-chno="518" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo-1080x675.png",TLC HD
-http://190.43.92.145:8000/play/a0wt/index.m3u8
+http://xcm.budtv-ultra.com:25461/live/Daniel/0000/30325.m3u8
 
 #EXTINF:-1 tvg-chno="520" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery_m.png",Discovery Channel HD
 http://45.228.234.162:24000/play/a07y/index.m3u8
