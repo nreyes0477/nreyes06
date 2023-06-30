@@ -667,7 +667,7 @@ http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/17021.m3u8
 http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/110192.m3u8
 
 #EXTINF:-1 tvg-chno="360" tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png",🌐 ATV HD 🇵🇪
-https://atvperu.akamaized.net:443/hls/live/2100630/atv/master_720.m3u8
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv.m3u8
 
 #EXTINF:-1 tvg-chno="361" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png",Canal N 🇵🇪
 http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/110187.m3u8
@@ -679,13 +679,13 @@ http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/110198.m3u8
 https://nbculocallive.akamaized.net:443/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 
 #EXTINF:-1 tvg-chno="366" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Univisi%C3%B3n-Puerto-Rico-en-vivo-Online.png?zoom=3&resize=218%2C150&ssl=1",🔗 Univision Puerto Rico 🇵🇷
-http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/56235.m3u8
+http://xcm.budtv-ultra.com:25461/live/Daniel/0000/2168.m3u8
 
 #EXTINF:-1 tvg-chno="367" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/america-teve.png?zoom=2&resize=218%2C150&ssl=1",🌐 América TeVe Miami 🇵🇷
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="368" tvg-logo="https://www.spanishbroadcasting.com/wp-content/uploads/sites/5/2020/12/thumbnail_pr-feature-thumbnail-megatv-ratings.jpg",🔗 Mega TV 🇵🇷
-http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/110285.m3u8
+http://xcm.budtv-ultra.com:25461/live/Daniel/0000/9521.m3u8
 
 #EXTINF:-1 tvg-chno="369" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/TeleOnce-en-vivo.png?resize=1068%2C601&ssl=1",🌐 Teleonce 🇵🇷
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
@@ -702,8 +702,8 @@ http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/74533.m3u8
 #EXTINF:-1 tvg-chno="377" tvg-logo="https://canalesdominicanos.live/template/images/radios/digital-15.png",Canal 15 🇩🇴
 http://138.59.177.34:8000/play/a03l/index.m3u8
 
-#EXTINF:-1 tvg-chno="376" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/cdn.png?zoom=3&resize=100%2C70&ssl=1",CDN 🇩🇴
-http://138.59.177.34:8000/play/a04v/index.m3u8
+#EXTINF:-1 tvg-chno="376" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/cdn.png?zoom=3&resize=100%2C70&ssl=1",🌐 CDN 🇩🇴
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/manifest.m3u8?p=79&s=1688162794&e=1688162914&h=c825b112fe48bc86361341bb2e7e3489
 
 #EXTINF:-1 tvg-chno="377" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Megavision-Canal-43-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",🌐 Megavisión 🇩🇴
 http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
@@ -721,7 +721,7 @@ https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 http://45.5.119.202:54321/play/a06a/index.m3u8
 
 #EXTINF:-1 tvg-chno="383" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/canal-4-montecarlo-en-vivo.png?zoom=3&resize=100%2C70&ssl=1",🔗 Canal 4 🇺🇾
-http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/11768.m3u8
+http://xcm.budtv-ultra.com:25461/live/Daniel/0000/120120.m3u8
 
 #EXTINF:-1 tvg-chno="384" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/08/Canal-5-Uruguay-en-vivo-Online.png?resize=1068%2C601&ssl=1",🔗 Canal 5 🇺🇾
 http://play.flamaplus.tv:80/live/ever2022/ever2022/802.m3u8
@@ -733,7 +733,7 @@ http://play.flamaplus.tv:80/live/ever2022/ever2022/803.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/1825.m3u8
 
 #EXTINF:-1 tvg-chno="387" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/Teledoce-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",🔗 *Teledoce 🇺🇾
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/1837.m3u8
+http://xcm.budtv-ultra.com:25461/live/Daniel/0000/1837.m3u8
 
 #EXTINF:-1 tvg-chno="389" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Venevision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Venevisión 🇻🇪
 http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/132090.m3u8
@@ -748,7 +748,7 @@ http://131.196.12.237:8000/play/a04i/index.m3u8
 http://131.196.12.237:8000/play/a040/index.m3u8
 
 #EXTINF:-1 tvg-chno="395" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Televen-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1",Televen 🇻🇪
-http://131.196.12.237:19000/play/a05p/index.m3u8
+http://xcm.budtv-ultra.com:25461/live/Daniel/0000/120103.m3u8
 
 #EXTINF:-1 tvg-chno="396" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/TVES-Venezuela-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",TVes 🇻🇪
 http://131.196.12.237:19000/play/a03w/index.m3u8
