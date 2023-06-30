@@ -802,10 +802,10 @@ https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
 https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="415" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cnn-en-espanol_m.png",CNN Español 🇺🇸
-http://168.228.194.33:48001/play/a0c9/index.m3u8
+http://xcm.budtv-ultra.com:25461/live/Daniel/0000/3160.m3u8
 
 #EXTINF:-1 tvg-chno="416" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1",CNN Chile 🇨🇱
-http://181.115.238.188:6100/play/a06x
+http://xcm.budtv-ultra.com:25461/live/Daniel/0000/18610.m3u8
 
 #EXTINF:-1 tvg-chno="417" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/DW-German-Live-TV-Online.png?resize=1068%2C601&ssl=1",🌐 DW Español 🇩🇪
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
@@ -814,7 +814,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-chno="419" tvg-logo="https://cdn.mitvstatic.com/channels/ar_france-24-espanol_m.png",🔗 France 24 HD 🇨🇵
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53301.m3u8
+http://xcm.budtv-ultra.com:25461/live/Daniel/0000/53301.m3u8
 
 #EXTINF:-1 tvg-chno="420" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png",🌐 Euronews 🇪🇺
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
@@ -835,10 +835,10 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
 #EXTINF:-1 tvg-chno="427" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/Milenio-Television-en-vivo-Online.png?resize=1068%2C601&ssl=1",🔗 Milenio Noticias 🇲🇽
-http://hidra.live:80/live/aqqtamco/vk3e30K4Yi/302702.m3u8
+http://xcm.budtv-ultra.com:25461/live/Daniel/0000/30358.m3u8
 
 #EXTINF:-1 tvg-chno="428" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/Teleformula-en-vivo-Online.png?resize=1068%2C601&ssl=1",🔗 Teleformula 🇲🇽
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/30379.m3u8
+http://xcm.budtv-ultra.com:25461/live/Daniel/0000/1865.m3u8
 
 #EXTINF:-1 tvg-chno="430" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Globovision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Globovisión 🇻🇪
 http://131.196.12.237:8000/play/a06h/index.m3u8
