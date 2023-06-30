@@ -1,4 +1,4 @@
-#EXTM3U
+ #EXTM3U
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://canal1cr.com/wp-content/uploads/2023/02/logo-canal-1-png.png",Canal 1 CR
 https://video20.klm99.com:3993/hybrid/play.m3u8
@@ -574,10 +574,10 @@ https://mediacp.us:8081/ctvhn/tracks-v1a1/mono.m3u8
 https://62418d5684c12.streamlock.net/TENHD/TENLive.smil/chunklist_w573436473_b698000.m3u8
 
 #EXTINF:-1 tvg-chno="315" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png",Azteca Uno 🇲🇽
-http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/42526.m3u8
+http://xcm.budtv-ultra.com:25461/live/Daniel/0000/37790.m3u8
 
 #EXTINF:-1 tvg-chno="316" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png",Azteca 7 🇲🇽
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30309.m3u8
+http://xcm.budtv-ultra.com:25461/live/Daniel/0000/37789.m3u8
 
 #EXTINF:-1 tvg-chno="317" tvg-logo="https://www.cineytele.com/wp-content/uploads/2018/09/AZ-MUNDO-NI-1024x320.jpg",🔗 Azteca Internacional 🇲🇽
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/37804.m3u8
@@ -595,16 +595,16 @@ http://xcm.budtv-ultra.com:25461/live/Daniel/0000/30315.m3u8
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
 #EXTINF:-1 tvg-chno="322" tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default_mobile/public/images/logos/canl-nueve-100x100.png",🔗 Nu9ve 🇲🇽
-http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/77096.m3u8
+http://xcm.budtv-ultra.com:25461/live/Daniel/0000/26836.m3u8
 
 #EXTINF:-1 tvg-chno="323" tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png",🌐 Canal Once 🇲🇽 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo-Imagen-TV-MX.png/800px-Logo -Imagen-TV-MX.png",🔗 Imagen TV 🇲🇽
-http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/75065.m3u8
+http://xcm.budtv-ultra.com:25461/live/Daniel/0000/30354.m3u8
 
 #EXTINF:-1 tvg-chno="325" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/400px-Unicable_logo.svg.png",🔗 Unicable 🇲🇽
-http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/77004.m3u8
+http://xcm.budtv-ultra.com:25461/live/Daniel/0000/30385.m3u8
 
 #EXTINF:-1 tvg-chno="330" tvg-logo="https://1.bp.blogspot.com/-Fi3j72ih8b8/YSzl1J95lrI/AAAAAAAAQVE/qDJWftQ2kVUOGhTCR9IFxSk5dUbv00OGACLcBGAsYHQ/w700-h400-p-k-no-nu/Canal%2B4%2Ben%2Bvivo.jpg",Canal 4 🇳🇮
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/50246.m3u8
