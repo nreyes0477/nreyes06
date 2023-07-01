@@ -18,9 +18,6 @@ http://168.181.122.234:8000/play/a039/index.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://pbs.twimg.com/profile_images/1510311834800246787/sfWgWmqk.jpg",Canal 8 Multimedios
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
-#EXTINF:-1 tvg-chno="9" tvg-logo="https://www.canal9.cr/IMAGES/Logo%20Canal%209%202D%20Color.png",Canal 9 CR
-http://201.201.149.86:8080/livestream/stream.m3u8
-
 #EXTINF:-1 tvg-chno="10" tvg-logo="https://static3.teletica.com/Files/Sizes/2017/10/20/img_teletica_radio_780x520-33655625_380x260.jpg",Teletica Radio
 https://m6gdar5eyn93-hls-live.5centscdn.com:443/TeleticaRadio/5444e8d6d0436ccb78704882f542e5ac.sdp/TeleticaRadio/StreamExterno1/chunks.m3u8
 
@@ -147,7 +144,7 @@ https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1647139122.m3u8
 #EXTINF:-1 tvg-chno="55" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/vegavision-canal-18.jpg",Vegavisión Canal 18 🇩🇴 
 https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="56" tvg-logo="https://i.paste.pics/9c22ea0df4ad9c0affc8fe065875781f.png", Retro Mágico 🇦🇷
+#EXTINF:-1 tvg-chno="56" tvg-logo="https://i.paste.pics/9c22ea0df4ad9c0affc8fe065875781f.png",Retro Mágico 🇦🇷
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 
 #EXTINF:-1 tvg-chno="58" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png",VM Latino
@@ -204,22 +201,22 @@ https://cloudvideo.servers10.com:8081/8198/index.m3u8
 #EXTINF:-1 tvg-chno="76" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Teleritmo-en-vivo-Online-1.png",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=D4rMshhUyzljy2UXzEdxzm7N8r4EiI18&sid=KOhl3BXyIrYst7OzNMpBPkuMnAQNKm10&pid=KWcOmLuQAKLkxciTtr4giEXPWEUFGk41&an=screen&at=web-app&av=v5.2.288&ref=https%3A%2F%2Fwww-multimedios-com.cdn.ampproject.org%2Fv%2Fs%2Fwww.multimedios.com%2Fvideo%2Fteleritmo%2Fv2615%3Famp%3D%26amp_gsa%3D1%26amp_js_v%3Da9%26usqp%3Dmq331AQKKAFQArABIIACAw%253D%253D&res=373x210&without_cookies=false&listenerid=&dnt=true
 
-#EXTINF:-1 tvg-chno="77" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/vevo_2016_logo.png",Vevo Latino 🌐
+#EXTINF:-1 tvg-chno="77" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/vevo_2016_logo.png",Vevo Latino
 https://d3k7iagvenqkpa.cloudfront.net:443/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-chno="78" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo Hip Hop 🌐
+#EXTINF:-1 tvg-chno="78" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo Hip Hop
 https://d3mzlmrngyf08j.cloudfront.net:443/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-chno="79" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo Pop 🌐
+#EXTINF:-1 tvg-chno="79" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo Pop
 https://d3t95pdz2h4c90.cloudfront.net:443/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-chno="80" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo Reggaeton & Trap 🌐
+#EXTINF:-1 tvg-chno="80" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo Reggaeton & Trap
 https://service-stitcher.clusters.pluto.tv:443/v1/stitch/embed/hls/channel/5f32f397795b750007706448livestitch/2977158/playlist.m3u8?terminate=false&sid=ROKUCHANNEL-7f63ca70-622a-4968-a1ff-dd3660e03d83&deviceDNT=1&advertisingId=channel&deviceModel=web&deviceVersion=1.0&embedPartner=rokuChannel&serverSideAds=true&appName=rokuchannel&deviceId=channel&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel
 
-#EXTINF:-1 tvg-chno="81" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo Rock 🌐
+#EXTINF:-1 tvg-chno="81" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo Rock
 https://d1uttzwuh34h7x.cloudfront.net:443/playlist1080.m3u8
 
-#EXTINF:-1 tvg-chno="82" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/440px-TRACE_Latina_Logo.png",Trace Latina 🌐
+#EXTINF:-1 tvg-chno="82" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/440px-TRACE_Latina_Logo.png",Trace Latina
 https://amg01131-tracetv-tracelatinaes-samsungspain-d7byg.amagi.tv/playlist/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="85" tvg-logo="https://i0.wp.com/radiopuertotv.net/wp-content/uploads/2022/04/cropped-CABALLOS-Y-MAS-_12.png?w=906&ssl=1",Radio Puerto TV 
@@ -261,31 +258,31 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chun
 #EXTINF:-1 tvg-chno="99" tvg-logo="https://platcon.tv/img/p/1/1/8/118-large_default.jpg",Retroplus 2 🇨🇱
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1246759008.m3u8
 
-#EXTINF:-1 tvg-chno="100" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/NOW_70s_2022_logo.png/revision/latest/scale-to-width-down/200?cb=202212132149",Now 70's 🌐
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/NOW_70s_2022_logo.png/revision/latest/scale-to-width-down/200?cb=202212132149",Now 70's
 https://lightning-now70s-samsungnz.amagi.tv:443/playlist720p.m3u8
 
-#EXTINF:-1 tvg-chno="101" tvg-logo="https://tvprofil.com/img/kanali-logo/Now_80s_GB_logo.png",Now 80's 🌐
+#EXTINF:-1 tvg-chno="101" tvg-logo="https://tvprofil.com/img/kanali-logo/Now_80s_GB_logo.png",Now 80's
 https://lightning-now80s-samsungnz.amagi.tv:443/playlist720p.m3u8
 
-#EXTINF:-1 tvg-chno="102" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Now_90s_GB_logo.png",Now 90's 🌐
+#EXTINF:-1 tvg-chno="102" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Now_90s_GB_logo.png",Now 90's
 https://lightning-now90s-samsungnz.amagi.tv:443/playlist720p.m3u8
 
-#EXTINF:-1 tvg-chno="103" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo '70s 🌐
+#EXTINF:-1 tvg-chno="103" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo '70s
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-chno="104" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo '80s 🌐
+#EXTINF:-1 tvg-chno="104" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo '80s
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo '90s 🌐
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo '90s 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-chno="106" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo '00s 🌐
+#EXTINF:-1 tvg-chno="106" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo '00s
 https://d2yhuqxy1ky6ij.cloudfront.net:443/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-chno="107" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vh1classics.png",Vh1 Classics Pluto 🌐
+#EXTINF:-1 tvg-chno="107" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vh1classics.png",Vh1 Classics Pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-chno="110" tvg-logo="https://www.nettvpro.live/uploads/allimg/21/1-210624214S50-L.jpg",Zapping Music 🌐
+#EXTINF:-1 tvg-chno="110" tvg-logo="https://www.nettvpro.live/uploads/allimg/21/1-210624214S50-L.jpg",Zapping Music 
 https://zmlive.zappingtv.com:443/zm-free/zm.smil/chunklist_live1_b4131600_sles.m3u8
 
 #EXTINF:-1 tvg-chno="190" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png",🔗 LCDLF (Acceso Total) 🇲🇽
