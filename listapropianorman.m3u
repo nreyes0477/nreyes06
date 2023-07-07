@@ -220,7 +220,7 @@ https://cloudvideo.servers10.com:8081/8256/tracks-v1a1/mono.m3u8
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 
 #EXTINF:-1 tvg-chno="87" tvg-logo="https://i.paste.pics/748becd7a46e16965b48a8eb38c719f1.png",Neox TV 🇦🇷
-https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
 #EXTINF:-1 tvg-chno="88" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3mVz2VCS5h.png",Canal Zona Music TV
 https://srv.panelcast.net/zonatv2023/zonatv2023/playlist.m3u8
@@ -275,9 +275,6 @@ https://d2yhuqxy1ky6ij.cloudfront.net:443/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-chno="107" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vh1classics.png",Vh1 Classics Pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-chno="110" tvg-logo="https://www.nettvpro.live/uploads/allimg/21/1-210624214S50-L.jpg",Zapping Music 
-https://zmlive.zappingtv.com:443/zm-free/zm.smil/chunklist_live1_b4131600_sles.m3u8
 
 #EXTINF:-1 tvg-chno="190" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png",🔗 LCDLF (Acceso Total) 🇲🇽
 http://hispanotv.net:80/live/acevedo22/acevedo22/401818.m3u8
