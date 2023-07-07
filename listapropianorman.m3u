@@ -142,7 +142,7 @@ https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1647139122.m3u8
 
 #EXTINF:-1 tvg-chno="55" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/vegavision-canal-18.jpg",Vegavisión Canal 18 🇩🇴 
-https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8
+https://udwn.ovh:25463/live/canal18tv/nizUWypfLX/1196.m3u8
 
 #EXTINF:-1 tvg-chno="56" tvg-logo="https://i.paste.pics/9c22ea0df4ad9c0affc8fe065875781f.png",Retro Mágico 🇦🇷
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
