@@ -153,9 +153,6 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1 tvg-chno="59" tvg-logo="https://i2.paste.pics/ade26f32ba4868798ef1593a34e57ef7.png",Soy Plancha TV
 https://59ef525c24caa.streamlock.net:443/vmtv/soyplancha/chunklist_w1610921083.m3u8
 
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019/10/cropped-Logo-Nuevo-400.jpg",Canal 38
-https://rtmp.info:443/canal38/envivo/chunklist_w1890885019.m3u8
-
 #EXTINF:-1 tvg-chno="61" tvg-logo="https://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png",88 Estéreo
 http://k3.usastreams.com:80/CableLatino/88stereo/chunklist_w190584519.m3u8
 
@@ -188,9 +185,6 @@ https://srv.tropicalmoonmedia.com:443/musictv/musictv/chunklist_w823002211.m3u8
 
 #EXTINF:-1 tvg-chno="72" tvg-logo="https://xpressojovenradiocr.com/sitepad-data/uploads/2023/01/Xpreso-Joven-Radio-logo_Mesa-de-trabajo-1-copia-5.png",Xpresso Jóven Radio CR
 https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="73" tvg-logo="https://eliteradiocr.com/wp-content/uploads/2023/01/elitv-1.png",Elite Tv Music 
-https://62fc643fbf1aa.streamlock.net/elitetv/elitetv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="74" tvg-logo="https://static.wixstatic.com/media/e9b9b7_1674ea49b074486f818f5e6291585fa6~mv2.jpeg/v1/fill/w_111,h_111,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/WhatsApp%20Image%202022-08-19%20at%202_59_51%20AM%20(1).jpeg",Mega Fuzion TV
 https://srv.panelcast.net/fuziontv2023/fuziontv2023/playlist.m3u8
