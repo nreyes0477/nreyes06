@@ -286,7 +286,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df
 https://zmlive.zappingtv.com:443/zm-free/zm.smil/chunklist_live1_b4131600_sles.m3u8
 
 #EXTINF:-1 tvg-chno="190" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png",🔗 LCDLF (Acceso Total) 🇲🇽
-http://xcm.budtv-ultra.com:25461/live/Daniel/0000/114705.m3u8
+http://hispanotv.net:80/live/acevedo22/acevedo22/401818.m3u8
 
 #EXTINF:-1 tvg-chno="191" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png",🔗 LCDLF 24/7 🇲🇽
 http://xcm.budtv-ultra.com:25461/live/Daniel/0000/114706.m3u8
@@ -583,7 +583,7 @@ http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/77000.m3u8
 http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/13821.m3u8
 
 #EXTINF:-1 tvg-chno="320" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/724px-Canal_5_2016.svg.png",Canal 5 🇲🇽
-http://xcm.budtv-ultra.com:25461/live/Daniel/0000/30315.m3u8
+http://hispanotv.net:80/live/acevedo22/acevedo22/353485.m3u8
 
 #EXTINF:-1 tvg-chno="321" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/10/Multimedios-TV-Canal-6-en-vivo-Online.png?resize=1068%2C601&ssl=1",🌐 Multimedios 🇲🇽
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
