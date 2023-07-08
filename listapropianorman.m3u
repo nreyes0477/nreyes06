@@ -277,7 +277,7 @@ https://d2yhuqxy1ky6ij.cloudfront.net:443/playlist1080p.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-chno="190" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png",🔗 LCDLF (Acceso Total) 🇲🇽
-http://hispanotv.net:80/live/acevedo22/acevedo22/401818.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/131649.m3u8
 
 #EXTINF:-1 tvg-chno="191" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png",🔗 LCDLF 24/7 🇲🇽
 http://xcm.budtv-ultra.com:25461/live/Daniel/0000/114706.m3u8
@@ -574,7 +574,7 @@ http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/77000.m3u8
 http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/13821.m3u8
 
 #EXTINF:-1 tvg-chno="320" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/724px-Canal_5_2016.svg.png",Canal 5 🇲🇽
-http://hispanotv.net:80/live/acevedo22/acevedo22/353485.m3u8
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/75220.m3u8
 
 #EXTINF:-1 tvg-chno="321" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/10/Multimedios-TV-Canal-6-en-vivo-Online.png?resize=1068%2C601&ssl=1",🌐 Multimedios 🇲🇽
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
