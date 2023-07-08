@@ -1066,19 +1066,19 @@ http://45.228.234.162:24000/play/a08p/index.m3u8
 http://45.228.234.162:24000/play/a07u/index.m3u8
 
 #EXTINF:-1 tvg-chno="725" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Sur HD 🔗
-http://45.191.234.189:15082/play/a02n/index.m3u8
+http://45.172.218.126:8000/play/a03s/index.m3u8
 
 #EXTINF:-1 tvg-chno="726" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 2 Sur HD 🔗
-http://45.191.234.189:15082/play/a02k/index.m3u8
+http://45.172.218.126:8000/play/a00z/index.m3u8
 
 #EXTINF:-1 tvg-chno="728" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 3 Sur HD 🔗
-http://45.191.234.189:15082/play/a03h/index.m3u8
+http://45.172.218.126:8000/play/a00x/index.m3u8
 
 #EXTINF:-1 tvg-chno="730" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 4 Sur HD 🔗
-http://45.191.234.189:15082/play/a02s/index.m3u8
+http://45.172.218.126:8000/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-chno="732" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Extra Sur HD 🔗
-http://45.191.234.189:15082/play/a02z/index.m3u8
+http://45.172.218.126:8000/play/a00c/index.m3u8
 
 #EXTINF:-1 tvg-chno="747" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png",TUDN MX 🔗
 http://45.170.225.210:58001/play/a041/index.m3u8
