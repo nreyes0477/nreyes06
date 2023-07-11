@@ -565,7 +565,7 @@ http://xcm.budtv-ultra.com:25461/live/Daniel/0000/30310.m3u8
 http://192.99.70.160:25461/live/Cristian/Cristian/26.m3u8
 
 #EXTINF:-1 tvg-chno="317" tvg-logo="https://www.cineytele.com/wp-content/uploads/2018/09/AZ-MUNDO-NI-1024x320.jpg",Azteca Internacional 🇲🇽
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/37804.m3u8
+http://192.99.70.160:25461/live/Cristian/Cristian/24.m3u8
 
 #EXTINF:-1 tvg-chno="318" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas MX 🇲🇽
 http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/77000.m3u8
