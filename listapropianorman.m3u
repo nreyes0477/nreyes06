@@ -1,4 +1,4 @@
-  #EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://canal1cr.com/wp-content/uploads/2023/02/logo-canal-1-png.png",Canal 1 CR
 https://video20.klm99.com:3993/hybrid/play.m3u8
