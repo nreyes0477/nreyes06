@@ -852,26 +852,26 @@ http://168.228.194.33:48001/play/a04v/index.m3u8
 #EXTINF:-1 tvg-chno="443" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-kids_m.png",Discovery Kids HD 🔗
 http://168.228.194.33:48001/play/a00x/index.m3u8
 
-#EXTINF:-1 tvg-chno="500" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg",E! Entertainment HD 🔗
-http://45.228.234.162:24000/play/a04a/index.m3u8
+#EXTINF:-1 tvg-chno="500" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg",E! Entertainment HD
+http://go.iptvhn.net:25461/live/7680/7680/86.m3u8
 
-#EXTINF:-1 tvg-chno="505" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-id_m.png",ID Investigation HD 🔗
-http://45.228.234.162:24000/play/a082/index.m3u8
+#EXTINF:-1 tvg-chno="505" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-id_m.png",ID Investigation HD
+http://go.iptvhn.net:25461/live/7680/7680/77.m3u8
 
-#EXTINF:-1 tvg-chno="510" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png",History Channel HD 🔗
-http://45.228.234.162:24000/play/a02z/index.m3u8
+#EXTINF:-1 tvg-chno="510" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png",History Channel HD
+http://go.iptvhn.net:25461/live/7680/7680/127.m3u8
 
 #EXTINF:-1 tvg-chno="511" tvg-logo="https://alexgarci.com/iqc/wp-content/uploads/2022/02/LOGO-H2.png",History 2 HD 🔗
 http://45.228.234.162:24000/play/a05b/index.m3u8
 
-#EXTINF:-1 tvg-chno="512" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo HD 🔗
-http://45.228.234.162:24000/play/a07v/index.m3u8
+#EXTINF:-1 tvg-chno="512" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo HD
+http://go.iptvhn.net:25461/live/7680/7680/148.m3u8
 
 #EXTINF:-1 tvg-chno="513" tvg-logo="https://www.disneyadvertising.com/wp-content/uploads/2019/11/das_nat-geo_nat-geo-mundo_logo-blk.png",Nat Geo Mundo HD 🔗
 http://168.228.194.33:48001/play/z70/index.m3u8
 
-#EXTINF:-1 tvg-chno="514" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png",Animal Planet HD 🔗
-http://45.228.234.162:24000/play/a049/index.m3u8
+#EXTINF:-1 tvg-chno="514" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png",Animal Planet HD
+http://go.iptvhn.net:25461/live/7680/7680/14.m3u8
 
 #EXTINF:-1 tvg-chno="515" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health 1 HD 🔗
 http://181.224.201.34:5577/play/a00p/index.m3u8
