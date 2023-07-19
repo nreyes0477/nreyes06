@@ -885,14 +885,14 @@ http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/44333.m3u8
 #EXTINF:-1 tvg-chno="518" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo-1080x675.png",TLC HD
 http://xcm.budtv-ultra.com:25461/live/Daniel/0000/30325.m3u8
 
-#EXTINF:-1 tvg-chno="520" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery_m.png",Discovery Channel HD 🔗
-http://45.228.234.162:24000/play/a07y/index.m3u8
+#EXTINF:-1 tvg-chno="520" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery_m.png",Discovery Channel HD
+http://go.iptvhn.net:25461/live/7680/7680/75.m3u8
 
-#EXTINF:-1 tvg-chno="521" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png",Discovery Theater HD 🔗
-http://45.228.234.162:24000/play/a08r/index.m3u8
+#EXTINF:-1 tvg-chno="521" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png",Discovery Theater HD
+http://go.iptvhn.net:25461/live/7680/7680/72.m3u8
 
-#EXTINF:-1 tvg-chno="522" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery World HD 🔗
-http://45.228.234.162:24000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-chno="522" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery World HD
+http://go.iptvhn.net:25461/live/7680/7680/82.m3u8
 
 #EXTINF:-1 tvg-chno="523" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery Science HD 🔗
 http://45.228.234.162:24000/play/a09w/index.m3u8
@@ -900,8 +900,8 @@ http://45.228.234.162:24000/play/a09w/index.m3u8
 #EXTINF:-1 tvg-chno="524" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png",HGTV Latino
 http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/75143.m3u8
 
-#EXTINF:-1 tvg-chno="525" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png",Comedy Central HD 🔗
-http://45.228.234.162:24000/play/a08u/index.m3u8
+#EXTINF:-1 tvg-chno="525" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png",Comedy Central HD
+http://go.iptvhn.net:25461/live/7680/7680/68.m3u8
 
 #EXTINF:-1 tvg-chno="530" tvg-logo="https://i4.hurimg.com/i/hurriyet/75/600x338/5dbd043ed3806c1dec53824d.jpg",Kanal Drama HD 🌐
 https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/cb57381b6570668784cc3978d1f8468275371fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c505677b640ce7565d7ac3ff10d6063750ffb99ac79d9991a0bb4c60f2a28b86a5917e71e6490650f77eeec18238c29fa2c5644a65a38167aa6953dd00a4ed5dc53d02a39fcf88e3a66644a39ca1f1ebcff00bcfbff5d55ab34e3ee411d8a2e44e59c42d7d11aba85ca5a9d45960bae46c4cea59bb041d4d7d33ab652b163470b743fddd42bc2cb5fe6d89b243c9a27790b4f04e3a7deff163dd00a100aaba99deb35ae40cfd174b39856d175f0d37c8deb11c82a95a32483a2a8cb43010badc75a135fca878eab8bf8b7200481cfc7d2616891b6357542db64db235148f8442ca9e5b17ca5b72dc59e660e9b09d305f330553e8ec2ef79b65fbff7e6972b4b40600d03c659a7da5eda279d52a7dd166b3b2721fcca0495d68b1658033e09d87bf301a2fafbf2f278d4e327062efaa212f856007ec5376d33c622ea8e3d53bb2f09840f8a9a32cbe16ff3a225f9abdaaa5375e59e8f6ef661faad5192d70cad7f335006f3a37d0405617490b7524d126cca49e09cf8ca46584ebea79da6920576576945094c9cf4ae30ba9ed0251821c4510d69605f42c553983a8940012b06fd33ffe049788c0d246dc1a23c565525d6feb49394dfc54afa2b9d9fbd1a2729566eb87c54773c9de6c30cab691e302b0ed64f494cbf0e5647aaa6c8e398926781c937fd76314211a89a70600756616c039fe20a860f98d677dfa3c35dc3e2846023bd35a20e1d97aab941f1add8f30d63bda555106b929317cd7c23c21db77ad0836395ce44410a5631fb09b0d9f35a4e83/181/1920x1080_4715744/index.m3u8
@@ -918,8 +918,8 @@ http://45.228.234.162:24000/play/a05d/index.m3u8
 #EXTINF:-1 tvg-chno="534" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-gourmet_m.png",El Gourmet HD 🔗
 http://45.228.234.162:24000/play/a05c/index.m3u8
 
-#EXTINF:-1 tvg-chno="535" tvg-logo="https://cdn.mitvstatic.com/channels/ar_pasiones_m.png",Pasiones HD 🔗
-http://181.78.8.90:16123/play/ch35
+#EXTINF:-1 tvg-chno="535" tvg-logo="https://cdn.mitvstatic.com/channels/ar_pasiones_m.png",Pasiones HD
+http://go.iptvhn.net:25461/live/7680/7680/157.m3u8
 
 #EXTINF:-1 tvg-chno="600" tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png",A&E HD 🔗
 http://45.170.225.212:58001/play/a00f/index.m3u8
