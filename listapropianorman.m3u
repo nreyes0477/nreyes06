@@ -7,10 +7,10 @@ https://video20.klm99.com:3993/hybrid/play.m3u8
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal2.m3u8
 
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/1200px-Repretel_4_logo.png",Canal 4 Repretel
-https://d25v5vivhcrrh5.cloudfront.net:443/hls/canal4_720.m3u8
+http://go.iptvhn.net:25461/live/7680/7680/3.m3u8
 
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/768px-Repretel_6_logo.png",Canal 6 Repretel
-https://d25v5vivhcrrh5.cloudfront.net:443/hls/canal6_720.m3u8
+http://go.iptvhn.net:25461/live/7680/7680/5.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/670px-Teletica_Logo.png",🔗 Canal 7 Teletica
 http://168.181.122.234:8000/play/a039/index.m3u8
@@ -22,10 +22,10 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 https://m6gdar5eyn93-hls-live.5centscdn.com:443/TeleticaRadio/5444e8d6d0436ccb78704882f542e5ac.sdp/TeleticaRadio/StreamExterno1/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png",Canal 11 Repretel
-https://d25v5vivhcrrh5.cloudfront.net:443/hls/canal11_720.m3u8
+http://go.iptvhn.net:25461/live/7680/7680/1.m3u8
 
 #EXTINF:-1 tvg-chno="13" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/canal-trece-costa-rica.png?resize=500%2C300&ssl=1",Canal 13 Sinart
-http://45.228.232.204:16000/play/a03q/index.m3u8
+http://go.iptvhn.net:25461/live/7680/7680/2.m3u8
 
 #EXTINF:-1 tvg-chno="14" tvg-logo="https://pbs.twimg.com/profile_images/1314328513349144577/7dTHR_gg.jpg",Tv Sur Canal 14
 https://5bf8041cb3fed.streamlock.net:443/TVSURCANAL14/TVSURCANAL14/chunklist_w2106647137.m3u8
