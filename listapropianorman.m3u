@@ -1020,17 +1020,17 @@ http://go.iptvhn.net:25461/live/7680/7680/200.m3u8
 #EXTINF:-1 tvg-chno="704" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR Opc 2 🔗
 http://186.101.207.117:7654/play/a0cu/index.m3u8
 
-#EXTINF:-1 tvg-chno="706" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0o9.png",TD + HD 🔗
-http://45.228.234.162:24000/play/a0a0/index.m3u8
+#EXTINF:-1 tvg-chno="706" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0o9.png",TD + HD
+http://go.iptvhn.net:25461/live/7680/7680/182.m3u8
 
 #EXTINF:-1 tvg-chno="707" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0o9.png",TD + HD Opc 2 🔗
-http://181.189.243.254:8000/play/a0o9/index.m3u8
+http://181.78.105.146:6060/play/a01c
 
-#EXTINF:-1 tvg-chno="708" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 HD 🔗
-http://45.228.234.162:24000/play/a0a1/index.m3u8
+#EXTINF:-1 tvg-chno="708" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 HD
+http://go.iptvhn.net:25461/live/7680/7680/181.m3u8
 
 #EXTINF:-1 tvg-chno="709" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 HD Opc 2 🔗
-http://181.189.243.254:8000/play/a0oa/index.m3u8
+http://181.78.105.146:6060/play/a01d
 
 #EXTINF:-1 tvg-chno="710" tvg-logo="https://www.telcocom.com.ar/img/canales/espn.png",ESPN HD
 http://go.iptvhn.net:25461/live/7680/7680/95.m3u8
