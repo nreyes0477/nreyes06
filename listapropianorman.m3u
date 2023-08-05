@@ -1126,13 +1126,13 @@ http://192.99.70.160:25461/live/Cristian/Cristian/117090.m3u8
 http://192.99.70.160:25461/live/Cristian/Cristian/117092.m3u8
 
 #EXTINF:-1 tvg-chno="755" tvg-logo="https://banner2.cleanpng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg",Sky Sports Liga Española 🇺🇸
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/65255.m3u8
+http://xcm.budtv-ultra.com:25461/live/Daniel/0000/39090.m3u8
 
 #EXTINF:-1 tvg-chno="756" tvg-logo="https://banner2.cleanpng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg",Sky Sports Liga Alemana 🇺🇸
-http://xcm.budtv-ultra.com:25461/live/bud-345182/c39d1f9282/53429.m3u8
+http://xcm.budtv-ultra.com:25461/live/Daniel/0000/53429.m3u8
 
-#EXTINF:-1 tvg-chno="757" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Bein Sports HD 🔗
-http://168.228.194.33:48001/play/a004/index.m3u8
+#EXTINF:-1 tvg-chno="757" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Bein Sports HD 🇺🇸
+http://go.iptvhn.net:25461/live/7680/7680/217.m3u8
 
 #EXTINF:-1 tvg-chno="760" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Gol Tv Premiere HD 🔗
 http://168.228.194.33:48001/play/a0bj/index.m3u8
@@ -1147,7 +1147,7 @@ http://168.228.194.33:48001/play/z002/index.m3u8
 http://168.228.194.33:48001/play/a0au/index.m3u8t
 
 #EXTINF:-1 tvg-chno="765" tvg-logo="https://www.telcocom.com.ar/img/canales/tyc-sports.png",TyC Sports HD 🇦🇷
-http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/75171.m3u8
+http://192.99.70.160:25461/live/Cristian/Cristian/117088.m3u8
 
 #EXTINF:-1 tvg-chno="766" tvg-logo="https://www.telcocom.com.ar/img/canales/tnt-sports.png",TNT Sports HD 🔗
 http://168.228.194.33:48001/play/a0bw/index.m3u8
@@ -1165,7 +1165,7 @@ http://168.228.194.33:48001/play/a0bg/index.m3u8
 http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/14753.m3u8
 
 #EXTINF:-1 tvg-chno="778" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar%2B_Logo.png/640px-Movistar%2B_Logo.png",Movistar Plus 🇵🇪 
-http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/73771.m3u8
+http://192.99.70.160:25461/live/Cristian/Cristian/117097.m3u8
 
 #EXTINF:-1 tvg-chno="780" tvg-logo="https://www.telcocom.com.ar/img/canales/deportv-hd.png",🌐 DeporTV 🇦🇷
 https://538d0bde28ccf.streamlock.net:443/live-cont.ar/deportv/chunklist_w986698151.m3u8
