@@ -534,8 +534,8 @@ http://hispanotv.net:80/live/acevedo22/acevedo22/399856.m3u8
 #EXTINF:-1 tvg-chno="304" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/180px-Telecadena7y42018.png",Telecadena 🇭🇳
 http://168.228.194.33:48001/play/a0bn/index.m3u8
 
-#EXTINF:-1 tvg-chno="305" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Canal_11_HN_logo_2010.png/180px-Canal_11_HN_logo_2010.png",Canal 11 🇭🇳
-http://xcm.budtv-ultra.com:25461/live/Daniel/0000/2271.m3u8
+#EXTINF:-1 tvg-chno="305" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Canal_11_HN_logo_2010.png/180px-Canal_11_HN_logo_2010.png",🌐 Canal 11 🇭🇳
+https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 
 #EXTINF:-1 tvg-chno="306" tvg-logo="https://chtv.hn/wp-content/uploads/2020/01/512-1.png",🌐 CHTV 🇭🇳
 https://media.streambrothers.com:1936/8054/8054/playlist.m3u8
