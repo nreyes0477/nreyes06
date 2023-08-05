@@ -1101,6 +1101,24 @@ http://192.99.70.160:25461/live/Cristian/Cristian/117028.m3u8
 #EXTINF:-1 tvg-chno="738" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports 3 🇦🇷
 http://192.99.70.160:25461/live/Cristian/Cristian/117030.m3u8
 
+#EXTINF:-1 tvg-chno="739" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"Sky Bundesliga
+http://go.iptvhn.net:25461/live/7680/7680/234.m3u8
+
+#EXTINF:-1 tvg-chno="740" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"Sky Sports 1
+http://go.iptvhn.net:25461/live/7680/7680/229.m3u8
+
+#EXTINF:-1 tvg-chno="741" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"Sky Sports 2
+http://go.iptvhn.net:25461/live/7680/7680/230.m3u8
+
+#EXTINF:-1 tvg-chno="742" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"Sky Sports 3
+http://go.iptvhn.net:25461/live/7680/7680/231.m3u8
+
+#EXTINF:-1 tvg-chno="743" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"Sky Sports 4
+http://go.iptvhn.net:25461/live/7680/7680/232.m3u8
+
+#EXTINF:-1 tvg-chno="744" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"Sky Sports 5
+http://go.iptvhn.net:25461/live/7680/7680/230.m3u8
+
 #EXTINF:-1 tvg-chno="745" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png",TUDN MX 🔗
 http://45.170.225.210:58001/play/a041/index.m3u8
 
@@ -1134,8 +1152,11 @@ http://xcm.budtv-ultra.com:25461/live/Daniel/0000/53429.m3u8
 #EXTINF:-1 tvg-chno="757" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Bein Sports HD 🇺🇸
 http://go.iptvhn.net:25461/live/7680/7680/217.m3u8
 
-#EXTINF:-1 tvg-chno="760" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Gol Tv Premiere HD 🔗
+#EXTINF:-1 tvg-chno="758" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Gol Tv Premiere HD 🔗
 http://168.228.194.33:48001/play/a0bj/index.m3u8
+
+#EXTINF:-1 tvg-chno="760" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"La Liga TV
+http://go.iptvhn.net:25461/live/7680/7680/218.m3u8
 
 #EXTINF:-1 tvg-chno="761" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Movistar Liga de Campeones HD 🔗
 http://168.228.194.33:48001/play/a0bi/index.m3u8
