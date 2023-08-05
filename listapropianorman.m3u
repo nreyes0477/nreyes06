@@ -1173,6 +1173,15 @@ http://192.99.70.160:25461/live/Cristian/Cristian/117088.m3u8
 #EXTINF:-1 tvg-chno="766" tvg-logo="https://www.telcocom.com.ar/img/canales/tnt-sports.png",TNT Sports HD 🔗
 http://168.228.194.33:48001/play/a0bw/index.m3u8
 
+#EXTINF:-1 tvg-chno="767" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"TNT Sports 🇨🇱
+http://192.99.70.160:25461/live/Cristian/Cristian/117120.m3u8
+
+#EXTINF:-1 tvg-chno="768" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"VTV Plus 🇺🇾
+http://192.99.70.160:25461/live/Cristian/Cristian/117122.m3u8
+
+#EXTINF:-1 tvg-chno="769" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png"Win Sports 🇨🇴
+http://192.99.70.160:25461/live/Cristian/Cristian/117089.m3u8
+
 #EXTINF:-1 tvg-chno="770" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Tigo Sport Honduras 🇭🇳
 http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/7621.m3u8
 
