@@ -142,10 +142,10 @@ https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1647139122.m3u8
 
 #EXTINF:-1 tvg-chno="55" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/vegavision-canal-18.jpg",Vegavisión Canal 18 🇩🇴 
-https://udwn.ovh:25463/live/canal18tv/nizUWypfLX/1196.m3u8
+https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
 
 #EXTINF:-1 tvg-chno="56" tvg-logo="https://i.paste.pics/9c22ea0df4ad9c0affc8fe065875781f.png",Retro Mágico 🇦🇷
-https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="58" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
