@@ -103,7 +103,7 @@ https://lstv.duckdns.org:449/hls/lstv.m3u8
 http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="42" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/retro-plus.jpg?itok=jRSPYmN_",Retroplus Movies
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w893080974.m3u8
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w1329731238.m3u8
 
 #EXTINF:-1 tvg-chno="43" tvg-logo="https://image.roku.com/developer_channels/prod/db4a766d6686e0ec2d17d0307c9a4c3bd0dc27a13f0647fb8561bfb0754300a2.png",TV Nosara
 https://stmv.streamingvip.click/tvnosara2/tvnosara2/playlist.m3u8
@@ -302,10 +302,10 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w363472295.m3u8
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="117" tvg-logo="https://platcon.tv/img/p/1/1/7/117-home_default.jpg",Retroplus 1 🇨🇱
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1948717984.m3u8
+https://video06.logicahost.com.br:443/retroplustv/retroplustv/chunklist_w962761692.m3u8
 
 #EXTINF:-1 tvg-chno="118" tvg-logo="https://platcon.tv/img/p/1/1/8/118-large_default.jpg",Retroplus 2 🇨🇱
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1246759008.m3u8
+https://video06.logicahost.com.br:443/retroplustv/retroplustv/chunklist_w790530701.m3u8
 
 #EXTINF:-1 tvg-chno="119" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/NOW_70s_2022_logo.png/revision/latest/scale-to-width-down/200?cb=202212132149",Now 70's
 https://lightning-now70s-samsungnz.amagi.tv:443/playlist720p.m3u8
