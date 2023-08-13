@@ -276,10 +276,6 @@ http://go.iptvhn.net:25461/live/7680/7680/141.m3u8
 #EXTINF:-1 tvg-chno="108" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",MTV
 http://go.iptvhn.net:25461/live/7680/7680/140.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-chno="110" tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png",Vintage Music
 https://59ef525c24caa.streamlock.net:443/vmtv/tvvintage/chunklist_w1339648818.m3u8
 
@@ -1088,13 +1084,13 @@ http://168.228.194.33:48001/play/a08k/index.m3u8
 http://138.59.177.34:8000/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-chno="701" tvg-logo="https://www.futvcr.com/assets/iconos/iconos-02.png",Futv HD Opc 2 🔗
-http://138.94.253.154:8055/play/a05d/index.m3u8
+http://190.83.119.67:8000/play/a03t/index.m3u8
 
 #EXTINF:-1 tvg-chno="703" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR
 http://go.iptvhn.net:25461/live/7680/7680/200.m3u8
 
 #EXTINF:-1 tvg-chno="704" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR Opc 2 🔗
-http://186.101.207.117:7654/play/a0cu/index.m3u8
+http://190.83.119.67:8000/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-chno="706" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0o9.png",TD + HD
 http://go.iptvhn.net:25461/live/7680/7680/182.m3u8
