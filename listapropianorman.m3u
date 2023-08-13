@@ -249,9 +249,6 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="98" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",TVG Musigal
 https://musigal-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="99" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Azahares Radio Multimedia
-https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png", Qmusic
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 
@@ -266,9 +263,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Exa TV
 http://go.iptvhn.net:25461/live/7680/7680/100.m3u8
-
-#EXTINF:-1 tvg-chno="106" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Vh1
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 #EXTINF:-1 tvg-chno="107" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",MTV Hits
 http://go.iptvhn.net:25461/live/7680/7680/141.m3u8
@@ -301,7 +295,7 @@ https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
 https://video06.logicahost.com.br:443/retroplustv/retroplustv/chunklist_w962761692.m3u8
 
 #EXTINF:-1 tvg-chno="118" tvg-logo="https://platcon.tv/img/p/1/1/8/118-large_default.jpg",Retroplus 2 🇨🇱
-https://video06.logicahost.com.br:443/retroplustv/retroplustv/chunklist_w790530701.m3u8
+https://video06.logicahost.com.br:443/retroplustv/retroplustv/chunklist_w525164311.m3u8
 
 #EXTINF:-1 tvg-chno="119" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/NOW_70s_2022_logo.png/revision/latest/scale-to-width-down/200?cb=202212132149",Now 70's
 https://lightning-now70s-samsungnz.amagi.tv:443/playlist720p.m3u8
