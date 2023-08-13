@@ -295,7 +295,7 @@ https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
 https://video06.logicahost.com.br:443/retroplustv/retroplustv/chunklist_w962761692.m3u8
 
 #EXTINF:-1 tvg-chno="118" tvg-logo="https://platcon.tv/img/p/1/1/8/118-large_default.jpg",Retroplus 2 🇨🇱
-https://video06.logicahost.com.br:443/retroplustv/retroplustv/chunklist_w525164311.m3u8
+https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w1452907645.m3u8
 
 #EXTINF:-1 tvg-chno="119" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/NOW_70s_2022_logo.png/revision/latest/scale-to-width-down/200?cb=202212132149",Now 70's
 https://lightning-now70s-samsungnz.amagi.tv:443/playlist720p.m3u8
