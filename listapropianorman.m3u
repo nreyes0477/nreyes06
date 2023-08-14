@@ -1084,7 +1084,7 @@ http://181.78.105.146:8800/play/a052
 http://go.iptvhn.net:25461/live/7680/7680/200.m3u8
 
 #EXTINF:-1 tvg-chno="704" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR Opc 2 🔗
-http://190.83.119.67:8000/play/a03d/index.m3u8
+http://38.7.131.2:8000/play/a0eo/index.m3u8
 
 #EXTINF:-1 tvg-chno="706" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0o9.png",TD + HD
 http://go.iptvhn.net:25461/live/7680/7680/182.m3u8
