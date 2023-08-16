@@ -342,27 +342,6 @@ http://go.iptvhn.net:25461/live/7680/7680/62.m3u8
 #EXTINF:-1 tvg-chno="133" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="190" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png",🔗 LCDLF (Acceso Total) 🇲🇽
-http://xcm.budtv-ultra.com:25461/live/Daniel/0000/120476.m3u8
-
-#EXTINF:-1 tvg-chno="191" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png",🔗 LCDLF 24/7 🇲🇽
-http://xcm.budtv-ultra.com:25461/live/Daniel/0000/114706.m3u8
-
-#EXTINF:-1 tvg-chno="192" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png",🔗 LCDLF Cocina 🇲🇽
-http://xcm.budtv-ultra.com:25461/live/Daniel/0000/120478.m3u8
-
-#EXTINF:-1 tvg-chno="193" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png",🔗 LCDLF Sala 🇲🇽
-http://xcm.budtv-ultra.com:25461/live/Daniel/0000/114709.m3u8
-
-#EXTINF:-1 tvg-chno="194" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png",🔗 LCDLF Cielo 🇲🇽
-http://xcm.budtv-ultra.com:25461/live/Daniel/0000/120484.m3u8
-
-#EXTINF:-1 tvg-chno="195" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png",🔗 LCDLF Infierno 🇲🇽
-http://xcm.budtv-ultra.com:25461/live/Daniel/0000/120485.m3u8
-
-#EXTINF:-1 tvg-chno="196" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png",🔗 LCDLF Baño 🇲🇽
-http://xcm.budtv-ultra.com:25461/live/Daniel/0000/120482.m3u8
-
 #EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",🌐 Canal 13 FHD 🇦🇷
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
