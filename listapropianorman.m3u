@@ -18,6 +18,9 @@ http://168.181.122.234:8000/play/a039/index.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://pbs.twimg.com/profile_images/1510311834800246787/sfWgWmqk.jpg",Canal 8 Multimedios
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
+#EXTINF:-1 tvg-chno="9" tvg-logo="https://icdn2.crhoy.com/w/370/h/0/q/95/png/0/c/1/s/pull.crhoy.net/wp-content/uploads/2023/05/Gente-Opa-e1684187637560.jpg",Canal 38 ¡Opa!
+https://202527.global.ssl.fastly.net:443/6499ec857df5bf9d55b5849f/live_9246a0201b5b11ee8e1f3b15c8f64f35/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-chno="10" tvg-logo="https://static3.teletica.com/Files/Sizes/2017/10/20/img_teletica_radio_780x520-33655625_380x260.jpg",Teletica Radio
 https://m6gdar5eyn93-hls-live.5centscdn.com:443/TeleticaRadio/5444e8d6d0436ccb78704882f542e5ac.sdp/TeleticaRadio/StreamExterno1/chunks.m3u8
 
