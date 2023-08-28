@@ -21,7 +21,7 @@ http://168.181.122.234:8000/play/a039/index.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://pbs.twimg.com/profile_images/1510311834800246787/sfWgWmqk.jpg",Canal 8 Multimedios
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
-#EXTINF:-1 tvg-chno="9" tvg-logo="https://archivo.ncrnoticias.com/wp-content/uploads/2023/05/Copia-de-imagen-adjunta-556.png",Canal 38 ¡Opa!
+#EXTINF:-1 tvg-chno="9" tvg-logo="https://www.doutico.com/wpimages/wp2c6e85ea_06.png",Canal 38 ¡Opa!
 https://202527.global.ssl.fastly.net:443/6499ec857df5bf9d55b5849f/live_9246a0201b5b11ee8e1f3b15c8f64f35/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="10" tvg-logo="https://static3.teletica.com/Files/Sizes/2023/6/2/logo-teletica-radio_176429888_380x260.png",Teletica Radio
