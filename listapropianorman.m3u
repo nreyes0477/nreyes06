@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png",Canal 2 CDR
+#EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png",Canal 2 Repretel
 https://d2t46xrpai3it5.cloudfront.net/Canal2CR/1ccdc8545fd05b83e9c57826d0de1069.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="3" tvg-logo="https://costaricachannel.org/wp-content/uploads/2022/08/cropped-LOGO-CR-2022-2022-1024x342.png",Costa Rica Channel
+https://panel2.streamingtv-mediacp.online:1936/rudcmzwtnh/rudcmzwtnh/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/1200px-Repretel_4_logo.png",Canal 4 Repretel
 http://go.iptvhn.net:25461/live/7680/7680/3.m3u8
@@ -12,7 +15,7 @@ https://video20.klm99.com:3993/hybrid/play.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/768px-Repretel_6_logo.png",Canal 6 Repretel
 https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/670px-Teletica_Logo.png",🔗 Canal 7 Teletica
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/670px-Teletica_Logo.png",Canal 7 Teletica 🔗
 http://168.181.122.234:8000/play/a039/index.m3u8
 
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://pbs.twimg.com/profile_images/1510311834800246787/sfWgWmqk.jpg",Canal 8 Multimedios
@@ -53,6 +56,9 @@ http://tvn.obix.tv:1935/TVN/CH14.stream_720p/chunklist_w1881922243.m3u8
 
 #EXTINF:-1 tvg-chno="20" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Extra-TV.png",Extra Tv 42
 http://go.iptvhn.net:25461/live/7680/7680/4.m3u8
+
+#EXTINF:-1 tvg-chno="21" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/tv.png",49.1 Tv + CR
+https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="22" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/san-jose-tv-costa-rica.png",San José TV
 https://rtmp.info:443/sanjosetv/envivo/chunklist_w1786370191.m3u8
@@ -131,12 +137,6 @@ https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://www.coolstreaming.us/img/ch/image6702628824.jpg", Antena Seis TV
 https://cloudvideo.servers10.com:8081/8132/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5eaqjq8pA-_biEyaeg11nnepU6SUqS4lFxCQp2vvA_DN5AW-oxdrDoLu7wYf4zTxg0XcNHf-CkJDyaC23eaxIkFfk9ozSExAq7qjfIxlod4SDKlWapRPLluCEvd_iIgWBwHi3i6fUIg2C8FBZ1YJojxZZgKU1mkGcB8yxsKpJFb4cS2amFdjqP2jpBA/s1252/RT%20TV%20LOGO%201.png",RTTV HD
-https://stmv.streamingvip.click/turrialbatv/turrialbatv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="52" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png",San Isidro TV
-https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="53" tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png",Dreiko TV 🇵🇦 
 https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
