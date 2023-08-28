@@ -873,8 +873,8 @@ http://xcm.budtv-ultra.com:25461/live/Daniel/0000/1865.m3u8
 #EXTINF:-1 tvg-chno="430" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Globovision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",🔗 Globovisión 🇻🇪
 http://131.196.12.237:8000/play/a06h/index.m3u8
 
-#EXTINF:-1 tvg-chno="431" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/04/Telesur-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",🔗 Telesur 🇻🇪
-http://131.196.12.237:19000/play/a07o/index.m3u8
+#EXTINF:-1 tvg-chno="431" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/04/Telesur-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",🌐 Telesur 🇻🇪
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="433" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/cgtn-espa%C3%B1ol.png?resize=500%2C300&ssl=1",🌐 CGTN Español 🇨🇳
 https://livees.cgtn.com/1000e/prog_index.m3u8
