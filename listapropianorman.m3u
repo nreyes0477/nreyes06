@@ -21,7 +21,7 @@ http://168.181.122.234:8000/play/a039/index.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://pbs.twimg.com/profile_images/1510311834800246787/sfWgWmqk.jpg",Canal 8 Multimedios
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
-#EXTINF:-1 tvg-chno="9" tvg-logo="https://icdn2.crhoy.com/w/370/h/0/q/95/png/0/c/1/s/pull.crhoy.net/wp-content/uploads/2023/05/Gente-Opa-e1684187637560.jpg",Canal 38 ¡Opa!
+#EXTINF:-1 tvg-chno="9" tvg-logo="https://www.kolbi.cr/wps/wcm/connect/www.kolbi.cr/266c151e-1fe8-404c-ac52-e4e748d60ccf/canal-opa-180x180px.png",Canal 38 ¡Opa!
 https://202527.global.ssl.fastly.net:443/6499ec857df5bf9d55b5849f/live_9246a0201b5b11ee8e1f3b15c8f64f35/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="10" tvg-logo="https://static3.teletica.com/Files/Sizes/2017/10/20/img_teletica_radio_780x520-33655625_380x260.jpg",Teletica Radio
@@ -30,10 +30,10 @@ https://m6gdar5eyn93-hls-live.5centscdn.com:443/TeleticaRadio/5444e8d6d0436ccb78
 #EXTINF:-1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png",Canal 11 Repretel
 http://go.iptvhn.net:25461/live/7680/7680/1.m3u8
 
-#EXTINF:-1 tvg-chno="12" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Trivisio%CC%81n-Canal-36-en-vivo-Online.png",Trivisión Canal 36
+#EXTINF:-1 tvg-chno="12" tvg-logo="https://www.kolbi.cr/wps/wcm/connect/www.kolbi.cr/228191bc-1283-434e-93a5-ef90c46c46c2/Trivisi%C3%B3n+36.png",Trivisión Canal 36
 https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-chno="13" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/canal-trece-costa-rica.png?resize=500%2C300&ssl=1",Canal 13 Sinart
+#EXTINF:-1 tvg-chno="13" tvg-logo="https://www.kolbi.cr/wps/wcm/connect/www.kolbi.cr/f914b016-69d6-4672-85ad-a335974ee403/canal-canal13-180x180.png",Canal 13 Sinart
 http://go.iptvhn.net:25461/live/7680/7680/2.m3u8
 
 #EXTINF:-1 tvg-chno="14" tvg-logo="https://pbs.twimg.com/profile_images/1314328513349144577/7dTHR_gg.jpg",Tv Sur Canal 14
@@ -42,13 +42,13 @@ https://5bf8041cb3fed.streamlock.net:443/TVSURCANAL14/TVSURCANAL14/chunklist_w21
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://www.ucr.ac.cr/medios/fotos/pri_xx-large/2007/logo_canal_15_Oct_2007.jpg",Canal 15 UCR
 http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="16" tvg-logo="https://costaricatelevision.com/sites/default/files/2022-09/_Telered%252520Television.png",Telered
+#EXTINF:-1 tvg-chno="16" tvg-logo="https://www.kolbi.cr/wps/wcm/connect/www.kolbi.cr/8a7cd47f-dbd7-4f2c-88bf-8dc09b9bf2c1/kolbi_Telered.jpg",Telered
 https://video20.klm99.com:3558/live/teleredlive.m3u8
 
 #EXTINF:-1 tvg-chno="17" tvg-logo="https://telesistemacr.com/wp-content/uploads/2023/03/LOGO-TELESISTEMA-1-1.png",Telesistema
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1753795779.m3u8
 
-#EXTINF:-1 tvg-chno="18" tvg-logo="https://geomedios.fcs.ucr.ac.cr/wp-content/uploads/2019/12/49174364_1931189920267968_6676580851234373632_o.jpg",Teleuno
+#EXTINF:-1 tvg-chno="18" tvg-logo="https://www.kolbi.cr/wps/wcm/connect/www.kolbi.cr/2556358f-bf05-4df3-b010-7eb274af2c7a/kolbi-hogar-tele-uno-tv.png",Teleuno
 https://5d16127744872.streamlock.net:443/TVUNO/TVUNO/chunklist_w766285163.m3u8
 
 #EXTINF:-1 tvg-chno="19" tvg-logo="https://www.tvn14.com/wp-content/uploads/2021/02/TVN-HD_LOGO_COLOR-SIN-FONDO.png",TVN 14 San Carlos
