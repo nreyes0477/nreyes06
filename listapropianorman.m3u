@@ -25,7 +25,7 @@ https://202527.global.ssl.fastly.net:443/6499ec857df5bf9d55b5849f/live_9246a0201
 https://m6gdar5eyn93-hls-live.5centscdn.com:443/TeleticaRadio/5444e8d6d0436ccb78704882f542e5ac.sdp/TeleticaRadio/StreamExterno1/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png",Canal 11 Repretel
-http://go.iptvhn.net:25461/live/7680/7680/1.m3u8
+http://138.59.177.34:8000/play/a03v/index.m3u8
 
 #EXTINF:-1 tvg-chno="12" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Trivisio%CC%81n-Canal-36-en-vivo-Online.png",Canal 36 Trivisión
 https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR
