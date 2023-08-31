@@ -150,199 +150,199 @@ https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
 #EXTINF:-1 tvg-chno="56" tvg-logo="https://i.paste.pics/9c22ea0df4ad9c0affc8fe065875781f.png",Retro Mágico 🇦🇷
 https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="58" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png",VM Latino
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="61" tvg-logo="https://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png",88 Estéreo
+#EXTINF:-1 tvg-chno="101" tvg-logo="https://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png",88 Estéreo
 http://k3.usastreams.com:80/CableLatino/88stereo/chunklist_w190584519.m3u8
 
-#EXTINF:-1 tvg-chno="62" tvg-logo="https://i2.paste.pics/ef00f6c7d85171624dff85e2c38fc975.png",Colosal TV
+#EXTINF:-1 tvg-chno="102" tvg-logo="https://i2.paste.pics/ef00f6c7d85171624dff85e2c38fc975.png",Colosal TV
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w534755227.m3u8
 
-#EXTINF:-1 tvg-chno="63" tvg-logo="https://i2.paste.pics/0c73fe6bc691b4aa4d1ac9cc3f93e500.png",Urbano TV
+#EXTINF:-1 tvg-chno="103" tvg-logo="https://i2.paste.pics/0c73fe6bc691b4aa4d1ac9cc3f93e500.png",Urbano TV
 https://59ef525c24caa.streamlock.net:443/tvurbano/tvurbano/chunklist_w248233257.m3u8
 
-#EXTINF:-1 tvg-chno="64" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Colosal-TV.png",Colosal 88.3
+#EXTINF:-1 tvg-chno="104" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Colosal-TV.png",Colosal 88.3
 http://tv2.ticosmedia.com:1935/canal3/canal3/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="65" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/musica/planeta_tv_music.png",Planeta Tv Music
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/musica/planeta_tv_music.png",Planeta Tv Music
 https://scl.edge.grupoz.cl:443/music/live/chunklist_w942041273.m3u8
 
-#EXTINF:-1 tvg-chno="67" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/TLTV2016.png",Top Latino TV
+#EXTINF:-1 tvg-chno="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/TLTV2016.png",Top Latino TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="68" tvg-logo="https://www.huilatv.com/wp-content/uploads/2020/01/LOGO-HUILA-TV-ICONO.png",Huila TV
+#EXTINF:-1 tvg-chno="108" tvg-logo="https://www.huilatv.com/wp-content/uploads/2020/01/LOGO-HUILA-TV-ICONO.png",Huila TV
 https://plataformavideo.com:19360/8020/8020.m3u8
 
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://latinosradio.cl/wp-content/uploads/2020/10/logo-latinos-radio-2.png",Latinos Radio TV
+#EXTINF:-1 tvg-chno="109" tvg-logo="https://latinosradio.cl/wp-content/uploads/2020/10/logo-latinos-radio-2.png",Latinos Radio TV
 https://stmv2.zcasthn.com.br/latinosmedia/latinosmedia/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="70" tvg-logo="https://platcon.tv/img/p/1/1/9/119-home_default.jpg",Urban Moon TV
+#EXTINF:-1 tvg-chno="110" tvg-logo="https://platcon.tv/img/p/1/1/9/119-home_default.jpg",Urban Moon TV
 https://srv.tropicalmoonmedia.com:443/urbantvnetott/urbantvnetott/chunklist_w736243455.m3u8
 
-#EXTINF:-1 tvg-chno="71" tvg-logo="https://platcon.tv/img/p/1/1/5/115-large_default.jpg",Tropical Moon TV
+#EXTINF:-1 tvg-chno="111" tvg-logo="https://platcon.tv/img/p/1/1/5/115-large_default.jpg",Tropical Moon TV
 https://srv.tropicalmoonmedia.com:443/musictv/musictv/chunklist_w823002211.m3u8
 
-#EXTINF:-1 tvg-chno="72" tvg-logo="https://xpressojovenradiocr.com/sitepad-data/uploads/2023/01/Xpreso-Joven-Radio-logo_Mesa-de-trabajo-1-copia-5.png",Xpresso Jóven Radio CR
+#EXTINF:-1 tvg-chno="112" tvg-logo="https://xpressojovenradiocr.com/sitepad-data/uploads/2023/01/Xpreso-Joven-Radio-logo_Mesa-de-trabajo-1-copia-5.png",Xpresso Jóven Radio CR
 https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="74" tvg-logo="https://static.wixstatic.com/media/e9b9b7_1674ea49b074486f818f5e6291585fa6~mv2.jpeg/v1/fill/w_111,h_111,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/WhatsApp%20Image%202022-08-19%20at%202_59_51%20AM%20(1).jpeg",Mega Fuzion TV
+#EXTINF:-1 tvg-chno="114" tvg-logo="https://static.wixstatic.com/media/e9b9b7_1674ea49b074486f818f5e6291585fa6~mv2.jpeg/v1/fill/w_111,h_111,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/WhatsApp%20Image%202022-08-19%20at%202_59_51%20AM%20(1).jpeg",Mega Fuzion TV
 https://srv.panelcast.net/fuziontv2023/fuziontv2023/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="75" tvg-logo="https://www.getmeradio.com/stations/voiceoverradiotv-2278/logos/512x512.png",Voice Over Radio TV
+#EXTINF:-1 tvg-chno="115" tvg-logo="https://www.getmeradio.com/stations/voiceoverradiotv-2278/logos/512x512.png",Voice Over Radio TV
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
 
-#EXTINF:-1 tvg-chno="76" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Teleritmo-en-vivo-Online-1.png",Teleritmo
+#EXTINF:-1 tvg-chno="116" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Teleritmo-en-vivo-Online-1.png",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=D4rMshhUyzljy2UXzEdxzm7N8r4EiI18&sid=KOhl3BXyIrYst7OzNMpBPkuMnAQNKm10&pid=KWcOmLuQAKLkxciTtr4giEXPWEUFGk41&an=screen&at=web-app&av=v5.2.288&ref=https%3A%2F%2Fwww-multimedios-com.cdn.ampproject.org%2Fv%2Fs%2Fwww.multimedios.com%2Fvideo%2Fteleritmo%2Fv2615%3Famp%3D%26amp_gsa%3D1%26amp_js_v%3Da9%26usqp%3Dmq331AQKKAFQArABIIACAw%253D%253D&res=373x210&without_cookies=false&listenerid=&dnt=true
 
-#EXTINF:-1 tvg-chno="77" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/vevo_2016_logo.png",Vevo Latino
+#EXTINF:-1 tvg-chno="117" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/vevo_2016_logo.png",Vevo Latino
 https://d3k7iagvenqkpa.cloudfront.net:443/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-chno="78" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo Hip Hop
+#EXTINF:-1 tvg-chno="118" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo Hip Hop
 https://d3mzlmrngyf08j.cloudfront.net:443/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-chno="79" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo Pop
+#EXTINF:-1 tvg-chno="119" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo Pop
 https://d3t95pdz2h4c90.cloudfront.net:443/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-chno="80" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo Reggaeton & Trap
+#EXTINF:-1 tvg-chno="120" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo Reggaeton & Trap
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448livestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&profilesFromStream=true
 
-#EXTINF:-1 tvg-chno="81" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo Rock
+#EXTINF:-1 tvg-chno="121" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo Rock
 https://d1uttzwuh34h7x.cloudfront.net:443/playlist1080.m3u8
 
-#EXTINF:-1 tvg-chno="82" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/440px-TRACE_Latina_Logo.png",Trace Latina
+#EXTINF:-1 tvg-chno="122" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/440px-TRACE_Latina_Logo.png",Trace Latina
 https://amg01131-tracetv-tracelatinaes-samsungspain-d7byg.amagi.tv/playlist/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="85" tvg-logo="https://i0.wp.com/radiopuertotv.net/wp-content/uploads/2022/04/cropped-CABALLOS-Y-MAS-_12.png?w=906&ssl=1",Radio Puerto TV 
+#EXTINF:-1 tvg-chno="125" tvg-logo="https://i0.wp.com/radiopuertotv.net/wp-content/uploads/2022/04/cropped-CABALLOS-Y-MAS-_12.png?w=906&ssl=1",Radio Puerto TV 
 https://cloudvideo.servers10.com:8081/8256/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="86" tvg-logo="https://1.bp.blogspot.com/-1MlWpQKhZ1E/X3gPjB_3BmI/AAAAAAAAOVI/M0_FOhZKmnksCN_fnuY9l2TIE1nlftPsQCLcBGAsYHQ/s1600/mas-fm-95-9.png",Más FM 95.9
+#EXTINF:-1 tvg-chno="126" tvg-logo="https://1.bp.blogspot.com/-1MlWpQKhZ1E/X3gPjB_3BmI/AAAAAAAAOVI/M0_FOhZKmnksCN_fnuY9l2TIE1nlftPsQCLcBGAsYHQ/s1600/mas-fm-95-9.png",Más FM 95.9
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 
-#EXTINF:-1 tvg-chno="88" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3mVz2VCS5h.png",Canal Zona Music TV
+#EXTINF:-1 tvg-chno="128" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3mVz2VCS5h.png",Canal Zona Music TV
 https://srv.panelcast.net/zonatv2023/zonatv2023/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="90" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Megabox
+#EXTINF:-1 tvg-chno="130" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Megabox
 https://stmv1.voxhdnet.com:443/megabox5/megabox5/chunklist_w269036698.m3u8
 
-#EXTINF:-1 tvg-chno="91" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Pluto MTV España
+#EXTINF:-1 tvg-chno="131" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Pluto MTV España
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-chno="92" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",1HD Music Televisión 
+#EXTINF:-1 tvg-chno="132" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",1HD Music Televisión 
 https://sc.id-tv.kz/1hd.m3u8
 
-#EXTINF:-1 tvg-chno="93" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Activa TV
+#EXTINF:-1 tvg-chno="133" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Activa TV
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
-#EXTINF:-1 tvg-chno="94" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",TV HD Tropical 
+#EXTINF:-1 tvg-chno="134" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",TV HD Tropical 
 https://cloud3.streaminglivehd.com:1936/8068/8068/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="95" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Molahits TV
+#EXTINF:-1 tvg-chno="135" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Molahits TV
 http://ventdelnord.tv:8080/mola/directe.m3u8
 
-#EXTINF:-1 tvg-chno="96" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Global TV
+#EXTINF:-1 tvg-chno="136" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Global TV
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="97" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Musictop
+#EXTINF:-1 tvg-chno="137" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Musictop
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="98" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",TVG Musigal
+#EXTINF:-1 tvg-chno="138" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",TVG Musigal
 https://musigal-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="100" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Qmusic
+#EXTINF:-1 tvg-chno="139" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Qmusic
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 
-#EXTINF:-1 tvg-chno="102" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Onda Radio TV
+#EXTINF:-1 tvg-chno="140" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Onda Radio TV
 https://tv.streaming-chile.com:1936/ondaradio/ondaradio/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="103" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",HTV
+#EXTINF:-1 tvg-chno="141" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",HTV
 http://go.iptvhn.net:25461/live/7680/7680/125.m3u8
 
-#EXTINF:-1 tvg-chno="104" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Pluto TV Vevo 2k
+#EXTINF:-1 tvg-chno="142" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Pluto TV Vevo 2k
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8clivestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&profilesFromStream=true
 
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Exa TV
+#EXTINF:-1 tvg-chno="143" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Exa TV
 http://go.iptvhn.net:25461/live/7680/7680/100.m3u8
 
-#EXTINF:-1 tvg-chno="107" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",MTV Hits
+#EXTINF:-1 tvg-chno="145" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",MTV Hits
 http://go.iptvhn.net:25461/live/7680/7680/141.m3u8
 
-#EXTINF:-1 tvg-chno="108" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",MTV
+#EXTINF:-1 tvg-chno="146" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",MTV
 http://go.iptvhn.net:25461/live/7680/7680/140.m3u8
 
-#EXTINF:-1 tvg-chno="109" tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png",Vintage Music
+#EXTINF:-1 tvg-chno="160" tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png",Vintage Music
 https://59ef525c24caa.streamlock.net:443/vmtv/tvvintage/chunklist_w1339648818.m3u8
 
-#EXTINF:-1 tvg-chno="110" tvg-logo="https://i2.paste.pics/ade26f32ba4868798ef1593a34e57ef7.png",Soy Plancha TV
+#EXTINF:-1 tvg-chno="161" tvg-logo="https://i2.paste.pics/ade26f32ba4868798ef1593a34e57ef7.png",Soy Plancha TV
 https://59ef525c24caa.streamlock.net:443/vmtv/soyplancha/chunklist_w1610921083.m3u8
 
-#EXTINF:-1 tvg-chno="111" tvg-logo="https://i2.paste.pics/e63c9721b2261a3213ea1a4e69776d0f.png",Oldies Hits TV
+#EXTINF:-1 tvg-chno="162" tvg-logo="https://i2.paste.pics/e63c9721b2261a3213ea1a4e69776d0f.png",Oldies Hits TV
 https://video01.logicahost.com.br:443/oldieshits/oldieshits/chunklist_w854322906.m3u8
 
-#EXTINF:-1 tvg-chno="112" tvg-logo="https://pbs.twimg.com/profile_images/1143426603/IQChannel.jpg",IQ Channel CR
+#EXTINF:-1 tvg-chno="163" tvg-logo="https://pbs.twimg.com/profile_images/1143426603/IQChannel.jpg",IQ Channel CR
 https://rtmp.info:443/iqtv/envivo/chunklist_w394233529.m3u8
 
-#EXTINF:-1 tvg-chno="113" tvg-logo="https://videotourchannel.com/wp-content/uploads/2023/01/cropped-LOGO-MASTER-VECTORIZADO-01-300x194-2.png",Vídeo Tour Channel 
+#EXTINF:-1 tvg-chno="164" tvg-logo="https://videotourchannel.com/wp-content/uploads/2023/01/cropped-LOGO-MASTER-VECTORIZADO-01-300x194-2.png",Vídeo Tour Channel 
 https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="114" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Retro-Music-Television-Live-TV-Online.png?resize=1068%2C601&ssl=1",Retro Music TV
+#EXTINF:-1 tvg-chno="165" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Retro-Music-Television-Live-TV-Online.png?resize=1068%2C601&ssl=1",Retro Music TV
 https://stream.mediawork.cz:443/retrotv/retrotvHQ1/chunklist_w1085777026.m3u8
 
-#EXTINF:-1 tvg-chno="115" tvg-logo="https://cdn-profiles.tunein.com/s142621/images/logoq.png",V Classic TV 
+#EXTINF:-1 tvg-chno="166" tvg-logo="https://cdn-profiles.tunein.com/s142621/images/logoq.png",V Classic TV 
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w363472295.m3u8
 
-#EXTINF:-1 tvg-chno="116" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png",Recuerdos Retro
+#EXTINF:-1 tvg-chno="167" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png",Recuerdos Retro
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="117" tvg-logo="https://platcon.tv/img/p/1/1/7/117-home_default.jpg",Retroplus 1 🇨🇱
+#EXTINF:-1 tvg-chno="168" tvg-logo="https://platcon.tv/img/p/1/1/7/117-home_default.jpg",Retroplus 1 🇨🇱
 https://video06.logicahost.com.br:443/retroplustv/retroplustv/chunklist_w962761692.m3u8
 
-#EXTINF:-1 tvg-chno="118" tvg-logo="https://platcon.tv/img/p/1/1/8/118-large_default.jpg",Retroplus 2 🇨🇱
+#EXTINF:-1 tvg-chno="169" tvg-logo="https://platcon.tv/img/p/1/1/8/118-large_default.jpg",Retroplus 2 🇨🇱
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/master.m3u8
 
-#EXTINF:-1 tvg-chno="119" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/NOW_70s_2022_logo.png/revision/latest/scale-to-width-down/200?cb=202212132149",Now 70's
+#EXTINF:-1 tvg-chno="170" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/NOW_70s_2022_logo.png/revision/latest/scale-to-width-down/200?cb=202212132149",Now 70's
 https://lightning-now70s-samsungnz.amagi.tv:443/playlist720p.m3u8
 
-#EXTINF:-1 tvg-chno="120" tvg-logo="https://tvprofil.com/img/kanali-logo/Now_80s_GB_logo.png",Now 80's
+#EXTINF:-1 tvg-chno="171" tvg-logo="https://tvprofil.com/img/kanali-logo/Now_80s_GB_logo.png",Now 80's
 https://lightning-now80s-samsungnz.amagi.tv:443/playlist720p.m3u8
 
-#EXTINF:-1 tvg-chno="121" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Now_90s_GB_logo.png",Now 90's
+#EXTINF:-1 tvg-chno="172" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Now_90s_GB_logo.png",Now 90's
 https://lightning-now90s-samsungnz.amagi.tv:443/playlist720p.m3u8
 
-#EXTINF:-1 tvg-chno="122" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo '70s
+#EXTINF:-1 tvg-chno="173" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo '70s
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-chno="123" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo '80s
+#EXTINF:-1 tvg-chno="174" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo '80s
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="124" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo '90s 
+#EXTINF:-1 tvg-chno="175" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo '90s 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-chno="125" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo '00s
+#EXTINF:-1 tvg-chno="176" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png",Vevo '00s
 https://d2yhuqxy1ky6ij.cloudfront.net:443/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-chno="126" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",MTV '80s
+#EXTINF:-1 tvg-chno="177" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",MTV '80s
 http://go.iptvhn.net:25461/live/7680/7680/139.m3u8
 
-#EXTINF:-1 tvg-chno="127" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",MTV '00s
+#EXTINF:-1 tvg-chno="178" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",MTV '00s
 http://195.24.89.82/VH1_SD/index.m3u8
 
-#EXTINF:-1 tvg-chno="128" tvg-logo="https://allvectorlogo.com/img/2016/04/vh1-classic-logo.png",Vh1 Classics Pluto
+#EXTINF:-1 tvg-chno="179" tvg-logo="https://allvectorlogo.com/img/2016/04/vh1-classic-logo.png",Vh1 Classics Pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-chno="129" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Memorias TV
+#EXTINF:-1 tvg-chno="180" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Memorias TV
 https://mediacp.us:8081/8002/index.m3u8
 
-#EXTINF:-1 tvg-chno="130" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",70 - 80 TV
+#EXTINF:-1 tvg-chno="181" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",70 - 80 TV
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="131" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",SuperClassics TV
+#EXTINF:-1 tvg-chno="182" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",SuperClassics TV
 https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="132" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Classics TV
+#EXTINF:-1 tvg-chno="183" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Classics TV
 http://go.iptvhn.net:25461/live/7680/7680/62.m3u8
 
-#EXTINF:-1 tvg-chno="133" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",The Retro Channel
+#EXTINF:-1 tvg-chno="184" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",🌐 Canal 13 FHD 🇦🇷
