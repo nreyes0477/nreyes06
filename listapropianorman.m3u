@@ -777,8 +777,8 @@ http://131.196.12.237:8000/play/a040/index.m3u8
 #EXTINF:-1 tvg-chno="395" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Televen-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1",Televen 🇻🇪
 http://xcm.budtv-ultra.com:25461/live/Daniel/0000/120103.m3u8
 
-#EXTINF:-1 tvg-chno="396" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/TVES-Venezuela-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",🔗 TVes 🇻🇪
-http://131.196.12.237:19000/play/a03w/index.m3u8
+#EXTINF:-1 tvg-chno="396" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/TVES-Venezuela-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",🌐 TVes 🇻🇪
+https://ls.tves.gob.ve/hls/tves.m3u8
 
 #EXTINF:-1 tvg-chno="398" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Ve-Plus-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",🌐 Venevisión Plus 🇻🇪
 http://190.122.96.187:8888/http/006
