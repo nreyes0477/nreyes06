@@ -768,10 +768,10 @@ https://stream-12.dc3.dailymotion.com/sec(MRbE_08IhureG_pwTTHWqr4JPstdJv_YTLL-2I
 #EXTINF:-1 tvg-chno="390" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Venezolana-de-Televisi%C3%B3n-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",🌐 Venezolana de TV 🇻🇪
 https://stream-12.dc3.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLsAu3LsCRwoqQmmwxdKPklwi65k6X1tii8qlfpD0k88S)/dm/3/x828i6j/s/live-3.m3u8
 
-#EXTINF:-1 tvg-chno="392" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/IVC_Network_Logo.png/300px-IVC_Network_Logo.png",🔗 IVC 🇻🇪
-http://131.196.12.237:8000/play/a04i/index.m3u8
+#EXTINF:-1 tvg-chno="392" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/IVC_Network_Logo.png/300px-IVC_Network_Logo.png",IVC 🇻🇪
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/154646.m3u8
 
-#EXTINF:-1 tvg-chno="393" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_Meridiano_TV_Venezuela.png",🔗 Meridiano 🇻🇪
+#EXTINF:-1 tvg-chno="393" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_Meridiano_TV_Venezuela.png",Meridiano 🇻🇪
 http://131.196.12.237:8000/play/a040/index.m3u8
 
 #EXTINF:-1 tvg-chno="395" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Televen-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1",Televen 🇻🇪
@@ -867,8 +867,8 @@ http://xcm.budtv-ultra.com:25461/live/Daniel/0000/30358.m3u8
 #EXTINF:-1 tvg-chno="428" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/Teleformula-en-vivo-Online.png?resize=1068%2C601&ssl=1",Teleformula 🇲🇽
 http://xcm.budtv-ultra.com:25461/live/Daniel/0000/1865.m3u8
 
-#EXTINF:-1 tvg-chno="430" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Globovision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",🔗 Globovisión 🇻🇪
-http://131.196.12.237:8000/play/a06h/index.m3u8
+#EXTINF:-1 tvg-chno="430" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Globovision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Globovisión 🇻🇪
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/154645.m3u8
 
 #EXTINF:-1 tvg-chno="431" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/04/Telesur-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",🌐 Telesur 🇻🇪
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
