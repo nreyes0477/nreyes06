@@ -765,8 +765,8 @@ http://xcm.budtv-ultra.com:25461/live/Daniel/0000/1837.m3u8
 #EXTINF:-1 tvg-chno="389" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Venevision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Venevisión 🇻🇪
 http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/132090.m3u8
 
-#EXTINF:-1 tvg-chno="390" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Venezolana-de-Televisi%C3%B3n-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",🔗 Venezolana de TV 🇻🇪
-http://131.196.12.237:19000/play/a03z/index.m3u8
+#EXTINF:-1 tvg-chno="390" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Venezolana-de-Televisi%C3%B3n-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",🌐 Venezolana de TV 🇻🇪
+https://stream-12.dc3.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLsAu3LsCRwoqQmmwxdKPklwi65k6X1tii8qlfpD0k88S)/dm/3/x828i6j/s/live-3.m3u8
 
 #EXTINF:-1 tvg-chno="392" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/IVC_Network_Logo.png/300px-IVC_Network_Logo.png",🔗 IVC 🇻🇪
 http://131.196.12.237:8000/play/a04i/index.m3u8
