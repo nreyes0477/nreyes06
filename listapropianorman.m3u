@@ -25,7 +25,7 @@ https://202527.global.ssl.fastly.net:443/6499ec857df5bf9d55b5849f/live_9246a0201
 https://m6gdar5eyn93-hls-live.5centscdn.com:443/TeleticaRadio/5444e8d6d0436ccb78704882f542e5ac.sdp/TeleticaRadio/StreamExterno1/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png",Canal 11 Repretel
-http://185.155.103.50:8080/live/9411/R8SZhUp29McG/224194.m3u8
+http://xcm.budtv-ultra.com:25461/live/Daniel/0000/39325.m3u8
 
 #EXTINF:-1 tvg-chno="12" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Trivisio%CC%81n-Canal-36-en-vivo-Online.png",Canal 36 Trivisión
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46766.m3u8
