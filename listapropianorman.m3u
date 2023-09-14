@@ -436,10 +436,10 @@ http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/135058.m3u8
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/3307.m3u8
 
 #EXTINF:-1 tvg-chno="239" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png",Canal 13 🇨🇱
-http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/3315.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46764.m3u8
 
 #EXTINF:-1 tvg-chno="240" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mega_chile-mediano.png",Mega HD 🇨🇱
-http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/3310.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46799.m3u8
 
 #EXTINF:-1 tvg-chno="241" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_red_chile-mediano.png",La Red HD 🇨🇱
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/3529.m3u8
