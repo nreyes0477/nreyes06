@@ -649,7 +649,7 @@ http://go.iptvhn.net:25461/live/7680/7680/40.m3u8
 http://go.iptvhn.net:25461/live/7680/7680/44.m3u8
 
 #EXTINF:-1 tvg-chno="332" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal 6 🇳🇮
-http://go.iptvhn.net:25461/live/7680/7680/49.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46975.m3u8
 
 #EXTINF:-1 tvg-chno="333" tvg-logo="https://1.bp.blogspot.com/-zyfzTiv-0YY/YSgNAyVUnYI/AAAAAAAAQQw/63cf8CyUoLQlwDWY2-9zdME5dzjewFpJQCLcBGAsYHQ/w700-h400-p-k-no-nu/Canal%2B10%2Ben%2Bvivo.png",Canal 10 🇳🇮
 http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/21928.m3u8
@@ -667,10 +667,10 @@ https://bcovlive-a.akamaihd.net:443/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6
 https://bcovlive-a.akamaihd.net:443/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
 
 #EXTINF:-1 tvg-chno="340" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/300px-Logo-telemetro.svg.png",Telemetro 🇵🇦
-http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/14744.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46986.m3u8
 
 #EXTINF:-1 tvg-chno="341" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/RPC-en-vivo-Online.png?resize=1068%2C601&ssl=1",RPC 🇵🇦
-http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/55343.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/47023.m3u8
 
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/NEX-TV-Panam%C3%A1-en-vivo-Online.png?zoom=3&resize=218%2C150&ssl=1",🌐 Next TV 🇵🇦
 https://mediacp.us:8081/nex/tracks-v1a1/mono.m3u8
@@ -678,35 +678,35 @@ https://mediacp.us:8081/nex/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="347" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png",Paraguay TV 🇵🇾
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/18625.m3u8
 
-#EXTINF:-1 tvg-chno="348" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png",🔗 Paravisión 🇵🇾
-http://45.238.54.253:8000/play/a02o/index.m3u8
+#EXTINF:-1 tvg-chno="348" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png",Paravisión 🇵🇾
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/47015.m3u8
 
 #EXTINF:-1 tvg-chno="349" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg",Telefuturo 🇵🇾
-http://xcm.budtv-ultra.com:25461/live/Daniel/0000/1885.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/47027.m3u8
 
 #EXTINF:-1 tvg-chno="350" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/240px-Logotrececanal.png",🌐 Canal Trece 🇵🇾
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_baja/playlist.m3u8?k=18c6988006108a10fca81dd8f160b9b4f677939ce3292422125656a385996be2&exp=1686695095
 
-#EXTINF:-1 tvg-chno="351" tvg-logo="https://latele.com.py/wp-content/uploads/2022/06/logo-latele.png",🌐 La Tele 🇵🇾
-https://rds3tf.desdeparaguay.net/latele/latele_int_baja/playlist.m3u8?k=7e982ef31554a23e1cbc5b1fd249f2ee84b0855a3641dec7158e45319ce8cc1d&exp=1688161994
+#EXTINF:-1 tvg-chno="351" tvg-logo="https://latele.com.py/wp-content/uploads/2022/06/logo-latele.png",La Tele 🇵🇾
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/47001.m3u8
 
-#EXTINF:-1 tvg-chno="352" tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png",🌐 Unicanal 🇵🇾
-https://rds3gen.desdeparaguay.net/unicanal/unicanal_baja/playlist.m3u8?k=63bf1d87d53104e005d806f92fa555549df27dc7c83bb936c9564339a1f5a9a7&exp=1686695370
+#EXTINF:-1 tvg-chno="352" tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png",Unicanal 🇵🇾
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/47037.m3u8
 
 #EXTINF:-1 tvg-chno="355" tvg-logo="https://gzcsecurity.com/img/nosotros/seguridad/americatv-min.jpg",América TV HD 🇵🇪
-http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/74777.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46980.m3u8
 
 #EXTINF:-1 tvg-chno="356" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png",Latina HD 🇵🇪
-http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/110200.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/47003.m3u8
 
 #EXTINF:-1 tvg-chno="357" tvg-logo="https://cdn.mitvstatic.com/channels/pe_panamericana-tv_m.png",Panamericana 🇵🇪
-http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/17021.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/47013.m3u8
 
 #EXTINF:-1 tvg-chno="359" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/500px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png",Tv Perú HD 🇵🇪
-http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/110192.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/47036.m3u8
 
-#EXTINF:-1 tvg-chno="360" tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png",🌐 ATV HD 🇵🇪
-https://d22ast2s6i1kcc.cloudfront.net/hls/atv.m3u8
+#EXTINF:-1 tvg-chno="360" tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png",ATV HD 🇵🇪
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46983.m3u8
 
 #EXTINF:-1 tvg-chno="361" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png",Canal N 🇵🇪
 http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/110187.m3u8
@@ -718,19 +718,19 @@ http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/110198.m3u8
 https://nbculocallive.akamaized.net:443/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 
 #EXTINF:-1 tvg-chno="366" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Univisi%C3%B3n-Puerto-Rico-en-vivo-Online.png?zoom=3&resize=218%2C150&ssl=1",Univision Puerto Rico 🇵🇷
-http://xcm.budtv-ultra.com:25461/live/Daniel/0000/2168.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/47039.m3u8
 
 #EXTINF:-1 tvg-chno="367" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/america-teve.png?zoom=2&resize=218%2C150&ssl=1",🌐 América TeVe Miami 🇵🇷
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="368" tvg-logo="https://www.spanishbroadcasting.com/wp-content/uploads/sites/5/2020/12/thumbnail_pr-feature-thumbnail-megatv-ratings.jpg",Mega TV 🇵🇷
-http://xcm.budtv-ultra.com:25461/live/Daniel/0000/9521.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/47007.m3u8
 
 #EXTINF:-1 tvg-chno="369" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/TeleOnce-en-vivo.png?resize=1068%2C601&ssl=1",🌐 Teleonce 🇵🇷
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
 #EXTINF:-1 tvg-chno="370" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/wapa.png?zoom=2&resize=218%2C150&ssl=1",Wapa América 🇵🇷
-http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/57496.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/47040.m3u8
 
 #EXTINF:-1 tvg-chno="375" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/telemicro.png?zoom=3&resize=100%2C70&ssl=1",Telemicro Canal 5 🇩🇴
 http://go.iptvhn.net:25461/live/7680/7680/192.m3u8
@@ -760,7 +760,7 @@ https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 http://go.iptvhn.net:25461/live/7680/7680/197.m3u8
 
 #EXTINF:-1 tvg-chno="383" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/canal-4-montecarlo-en-vivo.png?zoom=3&resize=100%2C70&ssl=1",Canal 4 🇺🇾
-http://xcm.budtv-ultra.com:25461/live/Daniel/0000/120120.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/47055.m3u8
 
 #EXTINF:-1 tvg-chno="384" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/08/Canal-5-Uruguay-en-vivo-Online.png?resize=1068%2C601&ssl=1",Canal 5 🇺🇾
 http://play.flamaplus.tv:80/live/ever2022/ever2022/802.m3u8
@@ -769,13 +769,13 @@ http://play.flamaplus.tv:80/live/ever2022/ever2022/802.m3u8
 http://play.flamaplus.tv:80/live/ever2022/ever2022/803.m3u8
 
 #EXTINF:-1 tvg-chno="386" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png?zoom=3&resize=100%2C70&ssl=1",Canal 10 🇺🇾
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/1825.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/47048.m3u8
 
 #EXTINF:-1 tvg-chno="387" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/Teledoce-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Teledoce 🇺🇾
-http://xcm.budtv-ultra.com:25461/live/Daniel/0000/1837.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/47050.m3u8
 
-#EXTINF:-1 tvg-chno="389" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Venevision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",🌐 Venevisión 🇻🇪
-https://stream-12.dc3.dailymotion.com/sec(MRbE_08IhureG_pwTTHWqr4JPstdJv_YTLL-2IsSc0nVXhyLKZo1X8WRttDl7UvB)/dm/3/x8j7czi/d/live-2.m3u8
+#EXTINF:-1 tvg-chno="389" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Venevision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Venevisión 🇻🇪
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/47086.m3u8
 
 #EXTINF:-1 tvg-chno="390" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Venezolana-de-Televisi%C3%B3n-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",🌐 Venezolana de TV 🇻🇪
 https://stream-12.dc3.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLsAu3LsCRwoqQmmwxdKPklwi65k6X1tii8qlfpD0k88S)/dm/3/x828i6j/s/live-3.m3u8
@@ -819,8 +819,8 @@ https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 #EXTINF:-1 tvg-chno="406" tvg-logo="https://www.deel.com/hs-fs/hubfs/Platzi%20logo.png?width=1000&height=387&name=Platzi%20logo.png",🌐 Platzi TV 🇨🇱
 https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream/5ba02fd50f8c3d0d79f7a665/playout/master.m3u8?aid=512e13acaca1ebcd2f000279&pid=vaoysiYWTuYLJooIm4T1BhHwJgwxWVtq&sid=l8kzPAOj12ANnIkF8u6JO9n4t0VBXYFM&uid=D4rMshhUyzljy2UXzEdxzm7N8r4EiI18&es=us-b5-p-e-wo1.cdn.mdstrm.com&ote=1678683658367&ot=DL1YnzKqyVc1dn6u5nnrNQ&proto=https&pz=us
 
-#EXTINF:-1 tvg-chno="407" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ConcienciaTV_logo_letras.png/1280px-ConcienciaTV_logo_letras.png",🔗 ConCiencia TV 🇻🇪
-http://131.196.12.237:8000/play/a041/index.m3u8
+#EXTINF:-1 tvg-chno="407" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ConcienciaTV_logo_letras.png/1280px-ConcienciaTV_logo_letras.png",ConCiencia TV 🇻🇪
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/47084.m3u8
 
 #EXTINF:-1 tvg-chno="408" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",🌐 Canal Te lo cuento 🇦🇷
 https://stmv1.cnarlatam.com/telocuento/telocuento/playlist.m3u8
