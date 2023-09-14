@@ -408,22 +408,25 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46696.m3u8
 #EXTINF:-1 tvg-chno="220" tvg-logo="https://i.paste.pics/6ea1efdaba3065291386bc1637fc488a.png",🌐 Encuentro 🇦🇷
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 
-#EXTINF:-1 tvg-chno="230" tvg-logo="https://3.bp.blogspot.com/-OFbQmNvw9ns/XCFQN1j9pUI/AAAAAAAAHOU/_HbtJbA4x-ADtnD5ol6JDZmTrRmZCtOSgCLcBGAs/w350-h350-p-k-no-nu/Bolivision%2Ben%2Bvivo.png",Bolivisión 🇧🇴
-http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/131662.m3u8
+#EXTINF:-1 tvg-chno="230" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/ATB-en-vivo-Online.png",ATB 🇧🇴
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46752.m3u8
 
-#EXTINF:-1 tvg-chno="231" tvg-logo="https://3.bp.blogspot.com/-IqEHK3sLw9M/XCFIjI0FUOI/AAAAAAAAHOE/B86GSdMBqBQX5MEb6i9r40jZcoyx0AhqQCLcBGAs/w700-h400-p-k-no-nu/blanco-crop.png",🌐 Cadena A 🇧🇴
-https://5e50264bd6766.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8
+#EXTINF:-1 tvg-chno="231" tvg-logo="https://3.bp.blogspot.com/-OFbQmNvw9ns/XCFQN1j9pUI/AAAAAAAAHOU/_HbtJbA4x-ADtnD5ol6JDZmTrRmZCtOSgCLcBGAs/w350-h350-p-k-no-nu/Bolivision%2Ben%2Bvivo.png",Bolivisión 🇧🇴
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46755.m3u8
 
-#EXTINF:-1 tvg-chno="232" tvg-logo="https://static-media.streema.com/media/cache/c4/42/c442ed13a23c1f824bfdb25ab0b1397a.jpg",Gigavisión 🇧🇴
-http://hispanotv.net:80/live/acevedo22/acevedo22/351777.m3u8
+#EXTINF:-1 tvg-chno="232" tvg-logo="https://3.bp.blogspot.com/-IqEHK3sLw9M/XCFIjI0FUOI/AAAAAAAAHOE/B86GSdMBqBQX5MEb6i9r40jZcoyx0AhqQCLcBGAs/w700-h400-p-k-no-nu/blanco-crop.png",Cadena A 🇧🇴
+http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/295567.m3u8
 
-#EXTINF:-1 tvg-chno="233" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/New_Unitel_logo_HD.jpg",Unitel 🇧🇴
+#EXTINF:-1 tvg-chno="233" tvg-logo="https://static-media.streema.com/media/cache/c4/42/c442ed13a23c1f824bfdb25ab0b1397a.jpg",🌐 Gigavisión 🇧🇴
+https://master.tucableip.com:443/gigavision/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno="234" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/New_Unitel_logo_HD.jpg",Unitel 🇧🇴
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/131661.m3u8
 
-#EXTINF:-1 tvg-chno="234" tvg-logo="https://4.bp.blogspot.com/--7IX2NCKelU/XCFC17d96gI/AAAAAAAAHN0/u3Qj0frMRGMNHKWr3dpKYJfCbbo94kANACLcBGAs/w350-h350-p-k-no-nu/Red%2BUno%2Ben%2Bvivo.png",Red Uno 🇧🇴
-http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/131667.m3u8
+#EXTINF:-1 tvg-chno="235" tvg-logo="https://4.bp.blogspot.com/--7IX2NCKelU/XCFC17d96gI/AAAAAAAAHN0/u3Qj0frMRGMNHKWr3dpKYJfCbbo94kANACLcBGAs/w350-h350-p-k-no-nu/Red%2BUno%2Ben%2Bvivo.png",Red Uno 🇧🇴
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46753.m3u8
 
-#EXTINF:-1 tvg-chno="235" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",🌐 Bolivia TV 🇧🇴
+#EXTINF:-1 tvg-chno="236" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",🌐 Bolivia TV 🇧🇴
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="237" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png",CHV HD 🇨🇱
