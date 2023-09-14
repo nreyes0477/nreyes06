@@ -610,34 +610,34 @@ https://mediacp.us:8081/ctvhn/tracks-v1a1/mono.m3u8
 https://62418d5684c12.streamlock.net/TENHD/TENLive.smil/chunklist_w573436473_b698000.m3u8
 
 #EXTINF:-1 tvg-chno="315" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png",Azteca Uno 🇲🇽
-http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/3801.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46936.m3u8
 
 #EXTINF:-1 tvg-chno="316" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png",Azteca 7 🇲🇽
-http://192.99.70.160:25461/live/Cristian/Cristian/26.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46934.m3u8
 
-#EXTINF:-1 tvg-chno="317" tvg-logo="https://www.cineytele.com/wp-content/uploads/2018/09/AZ-MUNDO-NI-1024x320.jpg",Azteca Internacional 🇲🇽
-http://192.99.70.160:25461/live/Cristian/Cristian/24.m3u8
+#EXTINF:-1 tvg-chno="317" tvg-logo="https://www.cineytele.com/wp-content/uploads/2018/09/AZ-MUNDO-NI-1024x320.jpg",Azteca Mundo 🇲🇽
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46933.m3u8
 
 #EXTINF:-1 tvg-chno="318" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas MX 🇲🇽
-http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/77000.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46956.m3u8
 
 #EXTINF:-1 tvg-chno="319" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",🌐 Las Estrellas Latino 🇲🇽
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-chno="320" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/724px-Canal_5_2016.svg.png",Canal 5 🇲🇽
-http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/129037.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46939.m3u8
 
 #EXTINF:-1 tvg-chno="321" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/10/Multimedios-TV-Canal-6-en-vivo-Online.png?resize=1068%2C601&ssl=1",🌐 Multimedios 🇲🇽
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
 #EXTINF:-1 tvg-chno="322" tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default_mobile/public/images/logos/canl-nueve-100x100.png",Nu9ve 🇲🇽
-http://xcm.budtv-ultra.com:25461/live/Daniel/0000/26836.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46944.m3u8
 
 #EXTINF:-1 tvg-chno="323" tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png",🌐 Canal Once 🇲🇽 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo-Imagen-TV-MX.png/800px-Logo -Imagen-TV-MX.png",Imagen TV 🇲🇽
-http://xcm.budtv-ultra.com:25461/live/Daniel/0000/30354.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46953.m3u8
 
 #EXTINF:-1 tvg-chno="325" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/400px-Unicable_logo.svg.png",Unicable 🇲🇽
 http://xcm.budtv-ultra.com:25461/live/Daniel/0000/30385.m3u8
