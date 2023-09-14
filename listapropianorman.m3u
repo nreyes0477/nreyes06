@@ -579,28 +579,34 @@ http://go.iptvhn.net:25461/live/7680/7680/196.m3u8
 #EXTINF:-1 tvg-chno="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_5_HN_logo.png/180px-Canal_5_HN_logo.png",Canal 5 🇭🇳
 http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/7534.m3u8
 
-#EXTINF:-1 tvg-chno="303" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Canal-6-Honduras-en-vivo-Online.png?resize=1068%2C601&ssl=1",Canal 6 🇭🇳
+#EXTINF:-1 tvg-chno="301" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Canal-6-Honduras-en-vivo-Online.png?resize=1068%2C601&ssl=1",Canal 6 🇭🇳
 http://hispanotv.net:80/live/acevedo22/acevedo22/399856.m3u8
+
+#EXTINF:-1 tvg-chno="303" tvg-logo="https://image.roku.com/developer_channels/prod/0d4a03ad9e1dd2ff1db1306d7b592cda8e08df57922237ff9797ef4bc18d30ec.png",RHC TV 🇭🇳
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46891.m3u8
 
 #EXTINF:-1 tvg-chno="304" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/180px-Telecadena7y42018.png",Telecadena 🇭🇳
 http://168.228.194.33:48001/play/a0bn/index.m3u8
 
-#EXTINF:-1 tvg-chno="305" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Canal_11_HN_logo_2010.png/180px-Canal_11_HN_logo_2010.png",🌐 Canal 11 🇭🇳
+#EXTINF:-1 tvg-chno="305" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/TSI-Telesistema-en-vivo-Online.png",Telesistema 🇭🇳
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46905.m3u8
+
+#EXTINF:-1 tvg-chno="306" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Canal_11_HN_logo_2010.png/180px-Canal_11_HN_logo_2010.png",🌐 Canal 11 🇭🇳
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 
-#EXTINF:-1 tvg-chno="306" tvg-logo="https://chtv.hn/wp-content/uploads/2020/01/512-1.png",🌐 CHTV 🇭🇳
+#EXTINF:-1 tvg-chno="307" tvg-logo="https://chtv.hn/wp-content/uploads/2020/01/512-1.png",🌐 CHTV 🇭🇳
 https://media.streambrothers.com:1936/8054/8054/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="307" tvg-logo="https://hch.tv/wp-content/uploads/2021/09/logos-hch-bueno-1.png",HCH 🇭🇳
+#EXTINF:-1 tvg-chno="308" tvg-logo="https://hch.tv/wp-content/uploads/2021/09/logos-hch-bueno-1.png",HCH 🇭🇳
 http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/3143.m3u8
 
-#EXTINF:-1 tvg-chno="308" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TSi_logo.png/180px-TSi_logo.png",TVC TSI 🇭🇳
-http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/18832.m3u8
+#EXTINF:-1 tvg-chno="309" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TSi_logo.png/180px-TSi_logo.png",TVC TSI 🇭🇳
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46908.m3u8
 
-#EXTINF:-1 tvg-chno="309" tvg-logo="https://image.roku.com/developer_channels/prod/51815da9f86794012aed4f696ce25f08ca883f2560a1a6c1fb0361bb16716c87.png",🌐 CTV Internacional 🇭🇳
+#EXTINF:-1 tvg-chno="310" tvg-logo="https://image.roku.com/developer_channels/prod/51815da9f86794012aed4f696ce25f08ca883f2560a1a6c1fb0361bb16716c87.png",🌐 CTV Internacional 🇭🇳
 https://mediacp.us:8081/ctvhn/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="310" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal10Honduras2019.png/revision/latest/scale-to-width-down/250?cb=20190604153849",🌐 Ten 🇭🇳
+#EXTINF:-1 tvg-chno="311" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal10Honduras2019.png/revision/latest/scale-to-width-down/250?cb=20190604153849",🌐 Ten 🇭🇳
 https://62418d5684c12.streamlock.net/TENHD/TENLive.smil/chunklist_w573436473_b698000.m3u8
 
 #EXTINF:-1 tvg-chno="315" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png",Azteca Uno 🇲🇽
