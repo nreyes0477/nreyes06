@@ -376,7 +376,7 @@ http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/81270.m3u8
 https://cntlnk-main-edge-access.secure.footprint.net:443/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
 
 #EXTINF:-1 tvg-chno="209" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG",América TV 🇦🇷
-http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/81276.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46699.m3u8
 
 #EXTINF:-1 tvg-chno="210" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png",🌐 TN Noticias 🇦🇷
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
@@ -402,8 +402,8 @@ https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:-1 tvg-chno="217" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png",🌐 Net TV 🇦🇷
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="218" tvg-logo="https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-BLANCA-300x99.png",🌐 Multivisión 🇦🇷
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-chno="218" tvg-logo="https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-BLANCA-300x99.png",Multivisión 🇦🇷
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46696.m3u8
 
 #EXTINF:-1 tvg-chno="220" tvg-logo="https://i.paste.pics/6ea1efdaba3065291386bc1637fc488a.png",🌐 Encuentro 🇦🇷
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
