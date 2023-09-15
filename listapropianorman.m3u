@@ -1071,10 +1071,10 @@ http://168.228.194.33:48001/play/a08j/index.m3u8
 #EXTINF:-1 tvg-chno="651" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1646691382488-Imagen.jpg",Universal Reality HD 🔗
 http://168.228.194.33:48001/play/a08k/index.m3u8
 
-#EXTINF:-1 tvg-chno="700" tvg-logo="https://libertycr.com/documents/297305827/297420738/futv.jpg",Futv HD
+#EXTINF:-1 tvg-chno="700" tvg-logo="https://www.municipalgrecia.com/images/2020/08/25/futv.png",Futv HD
 http://go.iptvhn.net:25461/live/7672/7672/105.m3u8
 
-#EXTINF:-1 tvg-chno="701" tvg-logo="https://libertycr.com/documents/297305827/297420738/futv.jpg",Futv HD Opc 2 🔗
+#EXTINF:-1 tvg-chno="701" tvg-logo="https://www.municipalgrecia.com/images/2020/08/25/futv.png",Futv HD Opc 2 🔗
 http://181.78.105.146:8800/play/a052
 
 #EXTINF:-1 tvg-chno="703" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR
@@ -1083,10 +1083,10 @@ http://go.iptvhn.net:25461/live/7672/7672/200.m3u8
 #EXTINF:-1 tvg-chno="704" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR Opc 2 🔗
 http://38.7.131.2:8000/play/a0eo/index.m3u8
 
-#EXTINF:-1 tvg-chno="706" tvg-logo="https://libertycr.com/documents/297305827/297420738/td.jpg",TD + HD
+#EXTINF:-1 tvg-chno="706" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD + HD
 http://go.iptvhn.net:25461/live/7672/7672/182.m3u8
 
-#EXTINF:-1 tvg-chno="707" tvg-logo="https://libertycr.com/documents/297305827/297420738/td.jpg",TD + HD Opc 2 🔗
+#EXTINF:-1 tvg-chno="707" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD + HD Opc 2 🔗
 http://181.78.105.146:6060/play/a01c
 
 #EXTINF:-1 tvg-chno="708" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 HD
