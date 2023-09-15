@@ -622,7 +622,7 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46933.m3u8
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46956.m3u8
 
 #EXTINF:-1 tvg-chno="319" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",🌐 Las Estrellas Latino 🇲🇽
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
 
 #EXTINF:-1 tvg-chno="320" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/724px-Canal_5_2016.svg.png",Canal 5 🇲🇽
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46939.m3u8
