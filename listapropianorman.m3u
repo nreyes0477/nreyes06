@@ -624,7 +624,7 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46936.m3u8
 #EXTINF:-1 tvg-chno="316" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png",Azteca 7 🇲🇽
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46934.m3u8
 
-#EXTINF:-1 tvg-chno="317" tvg-logo="https://www.cineytele.com/wp-content/uploads/2018/09/AZ-MUNDO-NI-1024x320.jpg",Azteca Mundo 🇲🇽
+#EXTINF:-1 tvg-chno="317" tvg-logo="https://www.cineytele.com/wp-content/uploads/2018/09/AZ-MUNDO-NI-1024x320.jpg",Azteca Internacional 🇲🇽
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46933.m3u8
 
 #EXTINF:-1 tvg-chno="318" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas MX 🇲🇽
@@ -639,16 +639,19 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46939.m3u8
 #EXTINF:-1 tvg-chno="321" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/10/Multimedios-TV-Canal-6-en-vivo-Online.png?resize=1068%2C601&ssl=1",🌐 Multimedios 🇲🇽
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
-#EXTINF:-1 tvg-chno="322" tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default_mobile/public/images/logos/canl-nueve-100x100.png",Nu9ve 🇲🇽
+#EXTINF:-1 tvg-chno="322" tvg-logo="https://telemax.com.mx//wp-content/uploads/2022/08/telemax-footer-original.png",🌐 Telemax 🇲🇽
+https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/.m3u8
+
+#EXTINF:-1 tvg-chno="323" tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default_mobile/public/images/logos/canl-nueve-100x100.png",Nu9ve 🇲🇽
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46944.m3u8
 
-#EXTINF:-1 tvg-chno="323" tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png",🌐 Canal Once 🇲🇽 
+#EXTINF:-1 tvg-chno="324" tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png",🌐 Canal Once 🇲🇽 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo-Imagen-TV-MX.png/800px-Logo -Imagen-TV-MX.png",Imagen TV 🇲🇽
+#EXTINF:-1 tvg-chno="325" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo-Imagen-TV-MX.png/800px-Logo -Imagen-TV-MX.png",Imagen TV 🇲🇽
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46953.m3u8
 
-#EXTINF:-1 tvg-chno="325" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/400px-Unicable_logo.svg.png",Unicable 🇲🇽
+#EXTINF:-1 tvg-chno="326" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/400px-Unicable_logo.svg.png",Unicable 🇲🇽
 http://xcm.budtv-ultra.com:25461/live/Daniel/0000/30385.m3u8
 
 #EXTINF:-1 tvg-chno="330" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal 2 🇳🇮
