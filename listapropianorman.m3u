@@ -534,6 +534,9 @@ http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/3032.m3u8
 #EXTINF:-1 tvg-chno="279" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1403px-Logo_TVE-Internacional.svg.png",TVE Internacional 🇪🇸
 http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/74320.m3u8
 
+#EXTINF:-1 tvg-chno="282" tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png",🌐 Canal 57 FL 🇺🇸
+https://167790.global.ssl.fastly.net:443/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-chno="283" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png",NBC Universo 🇺🇸
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/149865.m3u8
 
