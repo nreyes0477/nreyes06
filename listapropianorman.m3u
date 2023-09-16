@@ -526,7 +526,7 @@ http://xcm.budtv-ultra.com:25461/live/Daniel/0000/80663.m3u8
 http://xcm.budtv-ultra.com:25461/live/Daniel/0000/124322.m3u8
 
 #EXTINF:-1 tvg-chno="273" tvg-logo="https://mma.prnewswire.com/media/1638822/logo_internacional_cuadrado.jpg?w=200",Antena 3 Internacional 🇪🇸
-http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/131310.m3u8
+http://xcm.budtv-ultra.com:25461/live/Daniel/0000/90938.m3u8
 
 #EXTINF:-1 tvg-chno="274" tvg-logo="https://logos.streamsites.eu/2551_cuatro_overview.png",Cuatro HD 🇪🇸
 http://xcm.budtv-ultra.com:25461/live/Daniel/0000/80677.m3u8
@@ -541,7 +541,7 @@ http://xcm.budtv-ultra.com:25461/live/Daniel/0000/80662.m3u8
 http://xcm.budtv-ultra.com:25461/live/Daniel/0000/2217.m3u8
 
 #EXTINF:-1 tvg-chno="278" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",Star TVE HD 🇪🇸
-http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/3032.m3u8
+http://xcm.budtv-ultra.com:25461/live/Daniel/0000/11381.m3u8
 
 #EXTINF:-1 tvg-chno="279" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1403px-Logo_TVE-Internacional.svg.png",TVE Internacional 🇪🇸
 http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/74320.m3u8
