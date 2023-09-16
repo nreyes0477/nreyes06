@@ -568,13 +568,13 @@ http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/148721.m3u8
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/148747.m3u8
 
 #EXTINF:-1 tvg-chno="287" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png",Galavisión MI 🇺🇸
-http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/118611.m3u8
+http://xcm.budtv-ultra.com:25461/live/Daniel/0000/9507.m3u8
 
 #EXTINF:-1 tvg-chno="288" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png",Galavisión NY 🇺🇸
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/82445.m3u8
+http://xcm.budtv-ultra.com:25461/live/Daniel/0000/82445.m3u8
 
-#EXTINF:-1 tvg-chno="289" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png",Galavisión HO 🇺🇸
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/9504.m3u8
+#EXTINF:-1 tvg-chno="289" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png",Galavisión SA 🇺🇸
+http://xcm.budtv-ultra.com:25461/live/Daniel/0000/9516.m3u8
 
 #EXTINF:-1 tvg-chno="290" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás MI 🇺🇸
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/148793.m3u8
