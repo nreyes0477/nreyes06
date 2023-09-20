@@ -105,7 +105,7 @@ https://v4.tustreaming.cl/poptv/playlist.m3u8
 #EXTINF:-1 tvg-chno="39" tvg-logo="https://static.wixstatic.com/media/e9b9b7_356efe37d4cb4ea3aaf42fb3c975af40~mv2.png/v1/fill/w_122,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BANNER-300x169.png",Garabito TV
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="40" tvg-logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png",🌐 Neo Tv Digital 🇦🇷
+#EXTINF:-1 tvg-chno="40" tvg-logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png",Neo Tv Digital ¹ 🇦🇷
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-chno="41" tvg-logo="https://i2.paste.pics/cbcfd98188337b1bf79a92b1afb60ad3.png",San Vito TV
@@ -129,37 +129,37 @@ https://stmv.streamingvip.click/tvnosara2/tvnosara2/playlist.m3u8
 #EXTINF:-1 tvg-chno="47" tvg-logo="https://site-1905948.mozfiles.com/files/1905948/medium/327747957_599448802013223_4176031495996092992_n.jpg",Coto Brus TV
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
 
-#EXTINF:-1 tvg-chno="48" tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png",🌐 Planeta Tv Movie 🇨🇱 
+#EXTINF:-1 tvg-chno="48" tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png",Planeta Tv Movie ¹ 🇨🇱 
 https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1647139122.m3u8
 
-#EXTINF:-1 tvg-chno="49" tvg-logo="https://i2.paste.pics/1379fe5bb8fd807ea046564b62f40acb.png",🌐 Bayres TV 🇦🇷
+#EXTINF:-1 tvg-chno="49" tvg-logo="https://i2.paste.pics/1379fe5bb8fd807ea046564b62f40acb.png",Bayres TV ¹ 🇦🇷
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
-#EXTINF:-1 tvg-chno="50" tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png",🌐 Cinco TV 🇦🇷
+#EXTINF:-1 tvg-chno="50" tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png",Cinco TV ¹ 🇦🇷
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://i2.paste.pics/7b84ec9ab4a77216f5de2b5a23f220a6.png",🌐 Cosmos TV 🇦🇷
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://i2.paste.pics/7b84ec9ab4a77216f5de2b5a23f220a6.png",Cosmos TV ¹ 🇦🇷
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
-#EXTINF:-1 tvg-chno="52" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/vegavision-canal-18.jpg",🌐 Vegavisión Canal 18 🇩🇴 
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/vegavision-canal-18.jpg",Vegavisión Canal 18 ¹ 🇩🇴 
 https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
 
-#EXTINF:-1 tvg-chno="53" tvg-logo="https://1.bp.blogspot.com/-WZDHDbMaKu4/YVSOHAQi1mI/AAAAAAAARB4/YHKOQg-vTycrxTd5kU2RCOJS_F2qAaTwgCLcBGAsYHQ/w168-h168/Canal%2B34%2Bde%2BSan%2BJuan%2Ben%2Bvivo.png",🌐 Canal 34 SJ 🇦🇷
+#EXTINF:-1 tvg-chno="53" tvg-logo="https://1.bp.blogspot.com/-WZDHDbMaKu4/YVSOHAQi1mI/AAAAAAAARB4/YHKOQg-vTycrxTd5kU2RCOJS_F2qAaTwgCLcBGAsYHQ/w168-h168/Canal%2B34%2Bde%2BSan%2BJuan%2Ben%2Bvivo.png",Canal 34 SJ ¹ 🇦🇷
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="55" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/retro-plus.jpg?itok=jRSPYmN_",🌐 Retroplus Movies
+#EXTINF:-1 tvg-chno="55" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/retro-plus.jpg?itok=jRSPYmN_",Retroplus Movies ¹
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w1329731238.m3u8
 
-#EXTINF:-1 tvg-chno="56" tvg-logo="https://img1.wsimg.com/isteam/ip/0b6749a7-4d1f-4663-98a6-82c3788efdcb/RETROX%20TV%20LOGO%20PNG.png",🌐 Retrox TV
+#EXTINF:-1 tvg-chno="56" tvg-logo="https://img1.wsimg.com/isteam/ip/0b6749a7-4d1f-4663-98a6-82c3788efdcb/RETROX%20TV%20LOGO%20PNG.png",Retrox TV ¹
 https://cageu.bozztv.com/ssh101/ssh101/123456789/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="57" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/RETRO-TV-PALMARES.png",🌐 Retro Tv Palmares
+#EXTINF:-1 tvg-chno="57" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/RETRO-TV-PALMARES.png",Retro Tv Palmares ¹
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="58" tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png",🌐 Dreiko TV 🇵🇦 
+#EXTINF:-1 tvg-chno="58" tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png",Dreiko TV ¹ 🇵🇦 
 https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="59" tvg-logo="https://i.paste.pics/9c22ea0df4ad9c0affc8fe065875781f.png",🌐 Retro Mágico 🇦🇷
+#EXTINF:-1 tvg-chno="59" tvg-logo="https://i.paste.pics/9c22ea0df4ad9c0affc8fe065875781f.png",Retro Mágico ¹ 🇦🇷
 https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png",VM Latino
