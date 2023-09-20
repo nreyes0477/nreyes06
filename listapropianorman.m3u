@@ -393,7 +393,7 @@ http://xcm.budtv-ultra.com:25461/live/Daniel/0000/1805.m3u8
 #EXTINF:-1 tvg-chno="212" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/C5N_%282017%29.png/606px-C5N_%282017 %29.png",C5N ¹ 🇦🇷
 https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 
-#EXTINF:-1 tvg-chno="213" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",🌐 A24 ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="213" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",A24 ¹ 🇦🇷
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 
 #EXTINF:-1 tvg-chno="214" tvg-logo="https://ipnoticias.ar/logo-ip-header.png",IP Noticias ¹ 🇦🇷
@@ -1278,5 +1278,5 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="777" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos-fc.png",Cableonda 🇵🇦 
 http://xcm.budtv-ultra.com:25461/live/Daniel/0000/34922.m3u8
 
-#EXTINF:-1 tvg-chno="780" tvg-logo="https://www.telcocom.com.ar/img/canales/deportv-hd.png",🌐 DeporTV 🇦🇷
+#EXTINF:-1 tvg-chno="780" tvg-logo="https://www.telcocom.com.ar/img/canales/deportv-hd.png",DeporTV ¹ 🇦🇷
 https://538d0bde28ccf.streamlock.net:443/live-cont.ar/deportv/chunklist_w986698151.m3u8
