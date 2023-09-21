@@ -159,7 +159,7 @@ https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="59" tvg-logo="https://i.paste.pics/9c22ea0df4ad9c0affc8fe065875781f.png",Retro Mágico ¹ 🇦🇷
 https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://elhistonauta.com/wp-content/uploads/2021/05/cropped-cropped-logo_claro-1024x323.png",El Histonauta TV ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="60" tvg-logo="http://tv.10dailythings.com/images/channels/AR/el-histonauta-tv/normal.png",El Histonauta TV ¹ 🇦🇷
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="61" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/200px-Ucvtvlogo2014mejorado.png",UCV Chile ¹ 🇨🇱
