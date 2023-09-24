@@ -1144,19 +1144,19 @@ http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/2788.m3u8
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/132271.m3u8
 
 #EXTINF:-1 tvg-chno="720" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Sur HD ²
-http://38.43.140.215:8000/play/a035/index.m3u8
+http://179.1.67.51:8000/play/a05y/index.m3u8
 
 #EXTINF:-1 tvg-chno="721" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 2 Sur HD ²
-http://38.43.140.215:8000/play/a03a/index.m3u8
+http://179.1.67.51:8000/play/a05i/index.m3u8
 
 #EXTINF:-1 tvg-chno="722" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 3 Sur HD ²
-http://38.43.140.215:8000/play/a039/index.m3u8
+http://179.1.67.51:8000/play/a05h/index.m3u8
 
 #EXTINF:-1 tvg-chno="723" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 4 Sur HD ²
-http://45.172.218.126:8000/play/a00m/index.m3u8
+http://179.1.67.51:8000/play/a034/index.m3u8
 
 #EXTINF:-1 tvg-chno="724" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Extra Sur HD ²
-http://45.172.218.126:8000/play/a00c/index.m3u8
+http://179.1.67.51:8000/play/a05o/index.m3u8
 
 #EXTINF:-1 tvg-chno="725" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Deportes Latino HD
 http://192.99.70.160:25461/live/Cristian/Cristian/91046.m3u8
