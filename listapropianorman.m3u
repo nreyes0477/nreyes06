@@ -1242,5 +1242,8 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="777" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos-fc.png",Cableonda 🇵🇦 
 http://xcm.budtv-ultra.com:25461/live/Daniel/0000/34922.m3u8
 
+#EXTINF:-1 tvg-chno="778" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Eurosport-Logo-1080x675.png",Eurosport 🇪🇦
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/90494.m3u8
+
 #EXTINF:-1 tvg-chno="780" tvg-logo="https://www.telcocom.com.ar/img/canales/deportv-hd.png",DeporTV ¹ 🇦🇷
 https://538d0bde28ccf.streamlock.net:443/live-cont.ar/deportv/chunklist_w986698151.m3u8
