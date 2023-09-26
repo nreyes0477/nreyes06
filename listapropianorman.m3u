@@ -1176,11 +1176,11 @@ http://161.132.108.76:50001/play/a00h/index.m3u8
 #EXTINF:-1 tvg-chno="739" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Sky Bundesliga
 http://go.iptvhn.net:25461/live/7672/7672/234.m3u8
 
-#EXTINF:-1 tvg-chno="740" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png",TUDN MX ²
-http://45.170.225.210:58001/play/a041/index.m3u8
+#EXTINF:-1 tvg-chno="740" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png",TUDN MX
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/50394.m3u8
 
 #EXTINF:-1 tvg-chno="741" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",TUDN USA
-http://go.iptvhn.net:25461/live/7672/7672/234.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/121040.m3u8
 
 #EXTINF:-1 tvg-chno="742" tvg-logo="https://images.squarespace-cdn.com/content/v1/58597a19e58c62ba7fa48bf9/1626211994542-XUWFSKZ5AW26W6RBLXOA/1200px-Claro_Sports_logo.svg.png",Claro Sports MX
 http://go.iptvhn.net:25461/live/7672/7672/63.m3u8
