@@ -1023,10 +1023,13 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46573.m3u8
 #EXTINF:-1 tvg-chno="610" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden.png",Golden HD
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46624.m3u8
 
-#EXTINF:-1 tvg-chno="611" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden-premier.png",Golden Premier HD
+#EXTINF:-1 tvg-chno="611" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png",Golden Plus HD
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46626.m3u8
+
+#EXTINF:-1 tvg-chno="612" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden-premier.png",Golden Premier HD
 http://go.iptvhn.net:25461/live/7672/7672/113.m3u8
 
-#EXTINF:-1 tvg-chno="612" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden-premier.png",Golden Premier 2 HD
+#EXTINF:-1 tvg-chno="613" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden-premier.png",Golden Premier 2 HD
 http://go.iptvhn.net:25461/live/7672/7672/112.m3u8
 
 #EXTINF:-1 tvg-chno="616" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png",Paramount HD
