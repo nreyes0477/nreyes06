@@ -1006,16 +1006,16 @@ http://go.iptvhn.net:25461/live/7672/7672/157.m3u8
 http://go.iptvhn.net:25461/live/7672/7672/54.m3u8
 
 #EXTINF:-1 tvg-chno="600" tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png",A&E HD
-http://go.iptvhn.net:25461/live/7672/7672/7.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30300.m3u8
 
 #EXTINF:-1 tvg-chno="601" tvg-logo="https://cdn.mitvstatic.com/channels/cl_amc_m.png",AMC HD
-http://go.iptvhn.net:25461/live/7672/7672/9.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30304.m3u8
 
 #EXTINF:-1 tvg-chno="602" tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png",AXN HD
-http://go.iptvhn.net:25461/live/7672/7672/11.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/3104.m3u8
 
 #EXTINF:-1 tvg-chno="605" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png",Cinecanal HD
-http://go.iptvhn.net:25461/live/7672/7672/28.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/3282.m3u8
 
 #EXTINF:-1 tvg-chno="606" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinemax_m.png",Cinemax HD
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46573.m3u8
@@ -1027,85 +1027,109 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46624.m3u8
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46626.m3u8
 
 #EXTINF:-1 tvg-chno="612" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden-premier.png",Golden Premier HD
-http://go.iptvhn.net:25461/live/7672/7672/113.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30342.m3u8
 
 #EXTINF:-1 tvg-chno="613" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden-premier.png",Golden Premier 2 HD
-http://go.iptvhn.net:25461/live/7672/7672/112.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/67228.m3u8
 
 #EXTINF:-1 tvg-chno="616" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png",Paramount HD
-http://go.iptvhn.net:25461/live/7672/7672/156.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30366.m3u8
 
 #EXTINF:-1 tvg-chno="620" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox_m.png",Star Channel HD
-http://go.iptvhn.net:25461/live/7672/7672/169.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30369.m3u8
 
 #EXTINF:-1 tvg-chno="621" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png",Sony HD
-http://go.iptvhn.net:25461/live/7672/7672/165.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/3327.m3u8
 
 #EXTINF:-1 tvg-chno="622" tvg-logo="https://cdn.mitvstatic.com/channels/mx_space_m.png",Space HD
-http://go.iptvhn.net:25461/live/7672/7672/167.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30368.m3u8
 
 #EXTINF:-1 tvg-chno="623" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png",Studio Universal HD
-http://go.iptvhn.net:25461/live/7672/7672/175.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30376.m3u8
 
 #EXTINF:-1 tvg-chno="624" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tnt_m.png",TNT HD
-http://go.iptvhn.net:25461/live/7672/7672/185.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/29874.m3u8
 
 #EXTINF:-1 tvg-chno="625" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png",TNT Series HD
-http://go.iptvhn.net:25461/live/7672/7672/187.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/3114.m3u8
 
-#EXTINF:-1 tvg-chno="630" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner_m.png",Warner Channel HD
-http://go.iptvhn.net:25461/live/7672/7672/213.m3u8
+#EXTINF:-1 tvg-chno="626" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner_m.png",Warner Channel HD
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/37964.m3u8
 
-#EXTINF:-1 tvg-chno="631" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png",FX HD
-http://go.iptvhn.net:25461/live/7672/7672/107.m3u8
+#EXTINF:-1 tvg-chno="627" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png",FX HD
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30339.m3u8
 
-#EXTINF:-1 tvg-chno="632" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png",DHE HD
+#EXTINF:-1 tvg-chno="630" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png",DHE HD
 http://go.iptvhn.net:25461/live/7672/7672/71.m3u8
 
-#EXTINF:-1 tvg-chno="635" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO HD
-http://go.iptvhn.net:25461/live/7672/7672/119.m3u8
+#EXTINF:-1 tvg-chno="670" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/640px-Starz_2008.png",Starz
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46674.m3u8
 
-#EXTINF:-1 tvg-chno="636" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",HBO 2 HD
-http://go.iptvhn.net:25461/live/7672/7672/122.m3u8
+#EXTINF:-1 tvg-chno="671" tvg-logo="https://sc.dish.com/shared/images/station-logos/SCINE.png",Starz Cinema
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46665.m3u8
 
-#EXTINF:-1 tvg-chno="637" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",HBO Family HD
-http://go.iptvhn.net:25461/live/7672/7672/118.m3u8
+#EXTINF:-1 tvg-chno="672" tvg-logo="https://sc.dish.com/shared/images/station-logos/SEDGE.png",Starz Edge
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46667.m3u8
 
-#EXTINF:-1 tvg-chno="638" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO Plus HD
-http://go.iptvhn.net:25461/live/7672/7672/120.m3u8
+#EXTINF:-1 tvg-chno="673" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Starz_Encore_Action.svg/640px-Starz_Encore_Action.svg.png",Starz Action 
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46668.m3u8
 
-#EXTINF:-1 tvg-chno="639" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png",HBO Pop HD ²
-http://168.228.194.33:48001/play/a0be/index.m3u8
+#EXTINF:-1 tvg-chno="674" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Starz_Encore_Classic.svg/640px-Starz_Encore_Classic.svg.png",Starz Classic
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46671.m3u8
 
-#EXTINF:-1 tvg-chno="640" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png",HBO Signature HD ²
-http://168.228.194.33:48001/play/a0bf/index.m3u8
+#EXTINF:-1 tvg-chno="675" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Starz_Kids_%26_Family_logo.svg/640px-Starz_Kids_%26_Family_logo.svg.png",Starz Family
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46671.m3u8
 
-#EXTINF:-1 tvg-chno="641" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme HD
-http://go.iptvhn.net:25461/live/7672/7672/121.m3u8
+#EXTINF:-1 tvg-chno="677" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Starz_Encore_Suspense.svg/640px-Starz_Encore_Suspense.svg.png",Starz Suspense
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46672.m3u8
 
-#EXTINF:-1 tvg-chno="642" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png",HBO Mundi HD ²
-http://168.228.194.33:48001/play/a0bd/index.m3u8
+#EXTINF:-1 tvg-chno="678" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Starz_Encore_Westerns.svg/640px-Starz_Encore_Westerns.svg.png",Starz Westerns
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46673.m3u8
 
-#EXTINF:-1 tvg-chno="645" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png",Universal Channel HD ²
-http://168.228.194.33:48001/play/a0cd/index.m3u8
+#EXTINF:-1 tvg-chno="680" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO HD
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/37998.m3u8
 
-#EXTINF:-1 tvg-chno="646" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644505043521-Imagen.jpg",Universal Cinema HD
-http://go.iptvhn.net:25461/live/7672/7672/203.m3u8
+#EXTINF:-1 tvg-chno="681" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",HBO 2 HD
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/37985.m3u8
 
-#EXTINF:-1 tvg-chno="647" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504904675-Imagen.jpg",Universal Comedy HD
-http://go.iptvhn.net:25461/live/7672/7672/204.m3u8
+#EXTINF:-1 tvg-chno="682" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",HBO Family HD
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/37977.m3u8
 
-#EXTINF:-1 tvg-chno="648" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504857757-Imagen.jpg",Universal Crime HD
-http://go.iptvhn.net:25461/live/7672/7672/205.m3u8
+#EXTINF:-1 tvg-chno="683" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO Plus HD
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30343.m3u8
 
-#EXTINF:-1 tvg-chno="649" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504463678-Imagen.jpg",Universal Premiere HD
-http://go.iptvhn.net:25461/live/7672/7672/206.m3u8
+#EXTINF:-1 tvg-chno="684" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png",HBO Pop HD
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/3159.m3u8
 
-#EXTINF:-1 tvg-chno="650" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1646691172846-Imagen.jpg",Universal Premiere 2 HD
-http://go.iptvhn.net:25461/live/7672/7672/207.m3u8
+#EXTINF:-1 tvg-chno="685" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png",HBO Signature HD
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/38451.m3u8
 
-#EXTINF:-1 tvg-chno="651" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1646691382488-Imagen.jpg",Universal Reality HD
-http://go.iptvhn.net:25461/live/7672/7672/208.m3u8
+#EXTINF:-1 tvg-chno="686" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme HD
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30350.m3u8
+
+#EXTINF:-1 tvg-chno="687" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png",HBO Mundi HD
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/37979.m3u8
+
+#EXTINF:-1 tvg-chno="690" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png",Universal Channel HD
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/37981.m3u8
+
+#EXTINF:-1 tvg-chno="691" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644505043521-Imagen.jpg",Universal Cinema HD
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/38848.m3u8
+
+#EXTINF:-1 tvg-chno="692" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504904675-Imagen.jpg",Universal Comedy HD
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/38847.m3u8
+
+#EXTINF:-1 tvg-chno="693" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504857757-Imagen.jpg",Universal Crime HD
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/36355.m3u8
+
+#EXTINF:-1 tvg-chno="694" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504463678-Imagen.jpg",Universal Premiere HD
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/36356.m3u8
+
+#EXTINF:-1 tvg-chno="695" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1646691172846-Imagen.jpg",Universal Premiere 2 HD
+http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/155203.m3u8
+
+#EXTINF:-1 tvg-chno="696" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1646691382488-Imagen.jpg",Universal Reality HD
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/36357.m3u8
 
 #EXTINF:-1 tvg-chno="700" tvg-logo="https://www.municipalgrecia.com/images/2020/08/25/futv.png",Futv HD
 http://go.iptvhn.net:25461/live/7672/7672/105.m3u8
