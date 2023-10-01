@@ -382,7 +382,7 @@ https://59ef525c24caa.streamlock.net:443/vmtv/soyplancha/chunklist_w1610921083.m
 https://video01.logicahost.com.br:443/oldieshits/oldieshits/chunklist_w854322906.m3u8
 
 #EXTINF:-1 tvg-chno="163" tvg-logo="https://pbs.twimg.com/profile_images/1143426603/IQChannel.jpg",IQ Channel CR
-https://rtmp.info:443/iqtv/envivo/chunklist_w394233529.m3u8
+https://vcp8.myplaytv.com:443/iqchannel/iqchannel/chunklist_w518707668.m3u8
 
 #EXTINF:-1 tvg-chno="164" tvg-logo="https://videotourchannel.com/wp-content/uploads/2023/01/cropped-LOGO-MASTER-VECTORIZADO-01-300x194-2.png",Vídeo Tour Channel 
 https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
@@ -434,9 +434,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df
 
 #EXTINF:-1 tvg-chno="180" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Memorias TV
 https://mediacp.us:8081/8002/index.m3u8
-
-#EXTINF:-1 tvg-chno="181" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",70 - 80 TV
-https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="182" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",SuperClassics TV
 https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
