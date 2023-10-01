@@ -1182,19 +1182,22 @@ http://179.1.67.51:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-chno="724" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Extra Sur HD ²
 http://179.1.67.51:8000/play/a05o/index.m3u8
 
-#EXTINF:-1 tvg-chno="725" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Deportes Latino HD 🇺🇲
+#EXTINF:-1 tvg-chno="725" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Colombia HD ²
+http://190.60.40.37:12500/play/a096/index.m3u8
+
+#EXTINF:-1 tvg-chno="726" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Deportes Latino HD 🇺🇲
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/37824.m3u8
 
-#EXTINF:-1 tvg-chno="726" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Deportes HD 🇺🇲
+#EXTINF:-1 tvg-chno="727" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Deportes HD 🇺🇲
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/40910.m3u8
 
-#EXTINF:-1 tvg-chno="727" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports Sur ²
+#EXTINF:-1 tvg-chno="728" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports Sur ²
 http://161.132.108.76:50001/play/a02p/index.m3u8
 
-#EXTINF:-1 tvg-chno="728" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports 2 Sur ²
+#EXTINF:-1 tvg-chno="729" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports 2 Sur ²
 http://161.132.108.76:50001/play/a00w/index.m3u8
 
-#EXTINF:-1 tvg-chno="729" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports 3 Sur ²
+#EXTINF:-1 tvg-chno="730" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports 3 Sur ²
 http://161.132.108.76:50001/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-chno="739" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Sky Bundesliga
