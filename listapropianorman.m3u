@@ -39,7 +39,7 @@ https://5bf8041cb3fed.streamlock.net:443/TVSURCANAL14/TVSURCANAL14/chunklist_w21
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://www.ucr.ac.cr/medios/fotos/pri_xx-large/2007/logo_canal_15_Oct_2007.jpg",Canal 15 UCR
 http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="16" tvg-logo="https://www.tvn14.com/wp-content/uploads/2021/02/TVN-HD_LOGO_COLOR-SIN-FONDO.png",TVN 14 San Carlos
+#EXTINF:-1 tvg-chno="16" tvg-logo="https://meganettv.fun/storage/channel-logos/BRmM9zI0xQhPzgJafJmKh14ZygSj1QetqSZNawhc.jpg",TVN 14 San Carlos
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/chunklist_w1881922243.m3u8
 
 #EXTINF:-1 tvg-chno="17" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Extra-TV.png",Extra Tv 42
@@ -365,6 +365,9 @@ http://go.iptvhn.net:25461/live/7680/7680/140.m3u8
 
 #EXTINF:-1 tvg-chno="147" tvg-logo="https://meganettv.fun/storage/channel-logos/cyBAclPjNIYUBWfNSni4srCyPxWyed4S1Omv3vvt.jpg",Megahist 🇨🇷
 https://vcp8.myplaytv.com:1936/meganethits/meganethits/chunklist_w686876931.m3u8
+
+#EXTINF:-1 tvg-chno="148" tvg-logo="https://amordiscostv.com/wp-content/uploads/2022/08/thumbnail_Logo-Amordiscos-600x600-alpha.png",Amordiscos TV
+https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
 
 #EXTINF:-1 tvg-chno="160" tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png",Vintage Music
 https://59ef525c24caa.streamlock.net:443/vmtv/tvvintage/chunklist_w1339648818.m3u8
