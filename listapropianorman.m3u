@@ -333,9 +333,6 @@ https://stmv1.voxhdnet.com:443/megabox5/megabox5/chunklist_w269036698.m3u8
 #EXTINF:-1 tvg-chno="131" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Pluto MTV España
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-chno="133" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Activa TV
-https://streamtv.mediasector.es/hls/activatv/index.m3u8
-
 #EXTINF:-1 tvg-chno="134" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",TV HD Tropical 
 https://cloud3.streaminglivehd.com:1936/8068/8068/playlist.m3u8
 
