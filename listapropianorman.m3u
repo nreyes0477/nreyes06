@@ -445,10 +445,10 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",Canal 13 HD 🇦🇷
-http://iptvtree.net:8080/live/bigboss/dF2SUPPUwzmZ8prS/3194.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/1815.m3u8
 
-#EXTINF:-1 tvg-chno="202" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe HD ¹ 🇦🇷 
-https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild2.m3u8
+#EXTINF:-1 tvg-chno="202" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe HD 🇦🇷 
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/81230.m3u8
 
 #EXTINF:-1 tvg-chno="204" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png",Telefe Internacional 🇦🇷
 http://xcm.budtv-ultra.com:25461/live/Daniel/0000/81231.m3u8
