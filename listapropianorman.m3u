@@ -778,7 +778,7 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46986.m3u8
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47023.m3u8
 
 #EXTINF:-1 tvg-chno="344" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/NEX-TV-Panam%C3%A1-en-vivo-Online.png?zoom=3&resize=218%2C150&ssl=1",Next TV ¹ 🇵🇦
-https://mediacp.us:8081/nex/tracks-v1a1/mono.m3u8
+https://vcp4.myplaytv.com:1936/nextv/nextv/chunklist_w1170120982.m3u8
 
 #EXTINF:-1 tvg-chno="350" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png",Paraguay TV 🇵🇾
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/18625.m3u8
