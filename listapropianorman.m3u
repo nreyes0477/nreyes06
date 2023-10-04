@@ -541,22 +541,22 @@ http://xcm.budtv-ultra.com:25461/live/Daniel/0000/92867.m3u8
 http://xcm.budtv-ultra.com:25461/live/Daniel/0000/38537.m3u8
 
 #EXTINF:-1 tvg-chno="240" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png",Caracol HD 🇨🇴
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46774.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/15125.m3u8
 
 #EXTINF:-1 tvg-chno="241" tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg",RCN HD 🇨🇴
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46803.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/1769.m3u8
 
 #EXTINF:-1 tvg-chno="242" tvg-logo="https://1.bp.blogspot.com/-jslL1CIeqqk/YaVCAmvGxvI/AAAAAAAADDo/wPaGYipC7Eo_6NVRuL0XESV1lzjq6xhLgCLcBGAsYHQ/s16000/rcnmas.jpg",RCN + ¹🇨🇴
 https://rcntv-rcnmas-1-us.plex.wurl.tv:443/4300.m3u8
 
 #EXTINF:-1 tvg-chno="243" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/1586px-RCN_Novelas_logo_2019.png",RCN Novelas 🇨🇴
-http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/3575.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/18619.m3u8
 
 #EXTINF:-1 tvg-chno="244" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/250px-Channel_1_%28Colombia%29_-_2017_logo.svg.png",Canal Uno 🇨🇴
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46773.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/18617.m3u8
 
 #EXTINF:-1 tvg-chno="245" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Logo_Citytv_2023.jpg",City TV 🇨🇴
-http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/140410.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/18614.m3u8
 
 #EXTINF:-1 tvg-chno="246" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Caracol_HD_Internacional.png/250px-Caracol_HD_Internacional.png",Caracol Internacional 🇨🇴
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46779.m3u8
