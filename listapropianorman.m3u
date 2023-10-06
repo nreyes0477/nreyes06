@@ -1123,28 +1123,28 @@ http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/155203.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/36357.m3u8
 
 #EXTINF:-1 tvg-chno="700" tvg-logo="https://www.municipalgrecia.com/images/2020/08/25/futv.png",Futv HD
-http://go.iptvhn.net:25461/live/7672/7672/105.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/37855.m3u8
 
 #EXTINF:-1 tvg-chno="701" tvg-logo="https://www.municipalgrecia.com/images/2020/08/25/futv.png",Futv HD Opc 2 ²
-http://181.78.105.146:8800/play/a052
+http://190.6.199.62:8009/play/a0kp/index.m3u8
 
 #EXTINF:-1 tvg-chno="703" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR
-http://go.iptvhn.net:25461/live/7672/7672/200.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/37850.m3u8
 
 #EXTINF:-1 tvg-chno="704" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR Opc 2 ²
-http://38.7.131.2:8000/play/a0eo/index.m3u8
+http://187.102.208.108:50001/play/a041/index.m3u8
 
 #EXTINF:-1 tvg-chno="706" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD + HD
-http://go.iptvhn.net:25461/live/7672/7672/182.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/39354.m3u8
 
 #EXTINF:-1 tvg-chno="707" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD + HD Opc 2 ²
-http://181.78.105.146:6060/play/a01c
+http://177.234.245.26:8000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-chno="708" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 HD
-http://go.iptvhn.net:25461/live/7672/7672/181.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/39327.m3u8
 
 #EXTINF:-1 tvg-chno="709" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 HD Opc 2 ²
-http://181.78.105.146:6060/play/a01d
+http://177.234.245.26:8000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-chno="710" tvg-logo="https://www.telcocom.com.ar/img/canales/espn.png",ESPN Norte HD
 http://go.iptvhn.net:25461/live/7672/7672/95.m3u8
