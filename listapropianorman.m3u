@@ -447,8 +447,8 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",Canal 13 HD 🇦🇷
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/1815.m3u8
 
-#EXTINF:-1 tvg-chno="202" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe HD 🇦🇷 
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/81230.m3u8
+#EXTINF:-1 tvg-chno="202" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe HD ¹ 🇦🇷 
+https://ts04.ride.com.ar:2096/tvmia/an03/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="204" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png",Telefe Internacional 🇦🇷
 http://xcm.budtv-ultra.com:25461/live/Daniel/0000/81231.m3u8
