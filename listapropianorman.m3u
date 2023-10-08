@@ -1123,13 +1123,13 @@ http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/155203.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/36357.m3u8
 
 #EXTINF:-1 tvg-chno="700" tvg-logo="https://www.municipalgrecia.com/images/2020/08/25/futv.png",Futv HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/37855.m3u8
+http://go.iptvhn.net:25461/live/7672/7672/105.m3u8
 
 #EXTINF:-1 tvg-chno="701" tvg-logo="https://www.municipalgrecia.com/images/2020/08/25/futv.png",Futv HD Opc 2 ²
 http://190.6.199.62:8009/play/a0kp/index.m3u8
 
 #EXTINF:-1 tvg-chno="703" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/37850.m3u8
+http://go.iptvhn.net:25461/live/7672/7672/200.m3u8
 
 #EXTINF:-1 tvg-chno="704" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR Opc 2 ²
 http://187.102.208.108:50001/play/a041/index.m3u8
