@@ -1078,7 +1078,7 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46672.m3u8
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46673.m3u8
 
 #EXTINF:-1 tvg-chno="680" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/37998.m3u8
+http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/150077.m3u8
 
 #EXTINF:-1 tvg-chno="681" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",HBO 2 HD
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/37985.m3u8
@@ -1093,7 +1093,7 @@ http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30343.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/3159.m3u8
 
 #EXTINF:-1 tvg-chno="685" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png",HBO Signature HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/38451.m3u8
+http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/7970.m3u8
 
 #EXTINF:-1 tvg-chno="686" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme HD
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30350.m3u8
