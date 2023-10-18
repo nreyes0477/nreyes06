@@ -472,7 +472,7 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="211" tvg-logo="https://assets.iproup.com/assets/jpg/2021/04/17689.jpg",Crónica HD 🇦🇷
-http://xcm.budtv-ultra.com:25461/live/Daniel/0000/1805.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46721.m3u8
 
 #EXTINF:-1 tvg-chno="212" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/C5N_%282017%29.png/606px-C5N_%282017 %29.png",C5N 🇦🇷
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/1800.m3u8
@@ -483,8 +483,8 @@ http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/1799.m3u8
 #EXTINF:-1 tvg-chno="214" tvg-logo="https://ipnoticias.ar/logo-ip-header.png",IP Noticias ¹ 🇦🇷
 https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 
-#EXTINF:-1 tvg-chno="215" tvg-logo="https://dossiernet.com/_next/image?url=https%3A%2F%2Fdmdqet87i5rod.cloudfront.net%2Festoesmedia%2F609bcd5342359_lnmas.jpg&w=1080&q=75",La Nación + ¹🇦🇷
-
+#EXTINF:-1 tvg-chno="215" tvg-logo="https://dossiernet.com/_next/image?url=https%3A%2F%2Fdmdqet87i5rod.cloudfront.net%2Festoesmedia%2F609bcd5342359_lnmas.jpg&w=1080&q=75",La Nación + 🇦🇷
+http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/4905.m3u8
 
 #EXTINF:-1 tvg-chno="216" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png",Net TV ¹ 🇦🇷
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
