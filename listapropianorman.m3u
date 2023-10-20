@@ -472,16 +472,13 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="211" tvg-logo="https://assets.iproup.com/assets/jpg/2021/04/17689.jpg",Crónica HD 🇦🇷
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46721.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/1805.m3u8
 
 #EXTINF:-1 tvg-chno="212" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/C5N_%282017%29.png/606px-C5N_%282017 %29.png",C5N 🇦🇷
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/1800.m3u8
 
 #EXTINF:-1 tvg-chno="213" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",A24 🇦🇷
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/1799.m3u8
-
-#EXTINF:-1 tvg-chno="214" tvg-logo="https://ipnoticias.ar/logo-ip-header.png",IP Noticias ¹ 🇦🇷
-https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 
 #EXTINF:-1 tvg-chno="215" tvg-logo="https://dossiernet.com/_next/image?url=https%3A%2F%2Fdmdqet87i5rod.cloudfront.net%2Festoesmedia%2F609bcd5342359_lnmas.jpg&w=1080&q=75",La Nación + 🇦🇷
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/4905.m3u8
@@ -508,7 +505,7 @@ https://5e50264bd6766.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8
 https://master.tucableip.com:443/gigavision/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="224" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/New_Unitel_logo_HD.jpg",Unitel 🇧🇴
-http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/131661.m3u8
+http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/4901.m3u8
 
 #EXTINF:-1 tvg-chno="225" tvg-logo="https://4.bp.blogspot.com/--7IX2NCKelU/XCFC17d96gI/AAAAAAAAHN0/u3Qj0frMRGMNHKWr3dpKYJfCbbo94kANACLcBGAs/w350-h350-p-k-no-nu/Red%2BUno%2Ben%2Bvivo.png",Red Uno ¹ 🇧🇴
 https://stream-06.ix7.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMCdaN9xf_LnNVE3JpRtasgsnEYOk_DHP_cgVtJ5YKLIi)/dm/3/x8doufc/d/live-3.m3u8#cell=lcore
@@ -517,10 +514,10 @@ https://stream-06.ix7.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMCdaN9xf_LnNVE3JpR
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="230" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png",CHV HD 🇨🇱
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/83667.m3u8
+http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/4852.m3u8
 
 #EXTINF:-1 tvg-chno="231" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png",TVN HD 🇨🇱
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/18611.m3u8
+http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/3306.m3u8
 
 #EXTINF:-1 tvg-chno="232" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png",Canal 13 🇨🇱
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46764.m3u8
