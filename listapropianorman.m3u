@@ -624,8 +624,8 @@ http://xcm.budtv-ultra.com:25461/live/Daniel/0000/2217.m3u8
 #EXTINF:-1 tvg-chno="278" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",Star TVE HD 🇪🇸
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46663.m3u8
 
-#EXTINF:-1 tvg-chno="279" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1403px-Logo_TVE-Internacional.svg.png",TVE Internacional 🇪🇸
-http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/74320.m3u8
+#EXTINF:-1 tvg-chno="279" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1403px-Logo_TVE-Internacional.svg.png",TVE Internacional ¹ 🇪🇸
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main_dvr.m3u8
 
 #EXTINF:-1 tvg-chno="280" tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png",Canal 57 FL ¹ 🇺🇸
 https://167790.global.ssl.fastly.net:443/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v1a1/mono.m3u8
