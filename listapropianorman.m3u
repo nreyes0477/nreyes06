@@ -604,7 +604,7 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
 https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_1080.m3u8
 
 #EXTINF:-1 tvg-chno="272" tvg-logo="https://logos.streamsites.eu/2516_antena3_overview.png",Antena 3 🇪🇸
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/124322.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/2210.m3u8
 
 #EXTINF:-1 tvg-chno="273" tvg-logo="https://mma.prnewswire.com/media/1638822/logo_internacional_cuadrado.jpg?w=200",Antena 3 Internacional 🇪🇸
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/90938.m3u8
