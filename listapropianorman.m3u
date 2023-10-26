@@ -1173,7 +1173,10 @@ http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30338.m3u8
 #EXTINF:-1 tvg-chno="717" tvg-logo="https://www.telcocom.com.ar/img/canales/fox-sports-2.png",Fox Sports 2 MX
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/37826.m3u8
 
-#EXTINF:-1 tvg-chno="718" tvg-logo="https://www.telcocom.com.ar/img/canales/fox-sports-3.png",Fox Sports 3 MX
+#EXTINF:-1 tvg-chno="718" tvg-logo="https://www.telcocom.com.ar/img/canales/fox-sports-2.png",Fox Sports 2 MX
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/37834.m3u8
+
+#EXTINF:-1 tvg-chno="719" tvg-logo="https://www.telcocom.com.ar/img/canales/fox-sports-3.png",Fox Sports 3 MX
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/3785.m3u8
 
 #EXTINF:-1 tvg-chno="720" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Sur HD ²
