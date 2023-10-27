@@ -238,7 +238,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://channel02-notusa.akamaized.net:443/hls/live/2023914/event01/index_6.m3u8
 
 #EXTINF:-1 tvg-chno="87" tvg-logo="https://img.asmedia.epimg.net/resizer/kYJ1YW8zmMp2x-ecORU978Y0jEk=/1288x725/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/EW3U7NAIBNCOZCYGAGD3NYY54A.jpg",N + ¹ 🇲🇽
-https://channel07dai-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8?hdnea=st=1698391421~exp=1698391721~acl=*~id=bc0a27f4-6efc-44bb-af0f-987a9cd71592~hmac=4e8e0089e27521bca15b9f677d71b47c19cca39b7d882fda0794158e0614d867&originpath=/linear/hls/pa/event/-upN13W-TT6fUrHnL3XddQ/stream/483c8c3e-9365-46a6-9220-55499903518c:MRN2/master.m3u8
+https://channel07-notusa.akamaized.net:443/hls/live/2036971/event01/index_5.m3u8
 
 #EXTINF:-1 tvg-chno="88" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/Milenio-Television-en-vivo-Online.png?resize=1068%2C601&ssl=1",Milenio Noticias ¹ 🇲🇽
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
