@@ -205,10 +205,10 @@ https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
 https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="74" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cnn-en-espanol_m.png",CNN Español 🇺🇸
-http://xcm.budtv-ultra.com:25461/live/Daniel/0000/3160.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/3160.m3u8
 
 #EXTINF:-1 tvg-chno="76" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1",CNN Chile 🇨🇱
-http://xcm.budtv-ultra.com:25461/live/Daniel/0000/18610.m3u8
+http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/141352.m3u8
 
 #EXTINF:-1 tvg-chno="77" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/DW-German-Live-TV-Online.png?resize=1068%2C601&ssl=1",DW Español ¹ 🇩🇪
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
