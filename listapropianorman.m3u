@@ -546,7 +546,7 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46832.m3u8
 #EXTINF:-1 tvg-chno="232" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png",Canal 13 🇨🇱
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46764.m3u8
 
-#EXTINF:-1 tvg-chno="233" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Logotipo_de_Teletrece.svg/300px-Logotipo_de_Teletrece.svg.png",Canal T13 ¹ 🇨🇱
+#EXTINF:-1 tvg-chno="233" tvg-logo="https://elcomercio.pe/resizer/yihFxlkddrP0HjI7-6_7HKJ7GNc=/992x661/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/VELQ4IWQYZHETFPPHGPNLPTHME.jpg",Canal T13 ¹ 🇨🇱
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="234" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mega_chile-mediano.png",Mega HD 🇨🇱
