@@ -207,6 +207,9 @@ https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
 #EXTINF:-1 tvg-chno="75" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cnn-en-espanol_m.png",CNN Español 🇺🇸
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/3160.m3u8
 
+#EXTINF:-1 tvg-chno="75" tvg-logo="https://cdn-profiles.tunein.com/s320627/images/logoq.png",Estrella News ¹ 🇺🇸
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-estrellamedia/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="76" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1",CNN Chile 🇨🇱
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/141352.m3u8
 
