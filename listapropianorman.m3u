@@ -261,49 +261,52 @@ http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/161113.m3u8
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://cnwebsite.blob.core.windows.net/files/2021/05/logo_cablenoticias.png",Cablenoticias ¹ 🇨🇴
 https://5ea86ddd14ce7.streamlock.net:443/live/cable09061970/chunklist_w147954306.m3u8
 
-#EXTINF:-1 tvg-chno="101" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/Noticias-Caracol-en-vivo-Online.png",Noticias Caracol ¹ 🇨🇴
-https://mdstrm.com/live-stream-gdai/632391734be92a791e2750e6/linear/hls/pa/event/AImtl9u6QA2hQXyM7DGbwg/stream/966f3c63-cd57-4092-aec9-c6f3832c597a:DLS/master.m3u8
+#EXTINF:-1 tvg-chno="101" tvg-logo="https://www.ntn24.com/__assets/images/logo.png",NTN24 ¹ 🇨🇴
+http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/133838.m3u8
 
-#EXTINF:-1 tvg-chno="102" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/DW-German-Live-TV-Online.png?resize=1068%2C601&ssl=1",DW Español ¹ 🇩🇪
+#EXTINF:-1 tvg-chno="102" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/Noticias-Caracol-en-vivo-Online.png",Noticias Caracol ¹ 🇨🇴
+https://mdstrm.com/live-stream-gdai/632391734be92a791e2750e6/linear/hls/pa/event/AImtl9u6QA2hQXyM7DGbwg/stream/49610c32-904b-4144-94d4-9515529220e1:CBF2/master.m3u8?uid=UjifAUpl60Fbx4RRhWAVMmNJOqIzZREU&sid=VwCT7yJvJeKJNehXNY4WIeSCo9mjizOm&pid=At4DwgHC43eDipANNh33nL8eRtQwArBf&an=screen&at=web-app&av=v5.2.381&ref=https%3A%2F%2Fnoticias.caracoltv.com%2F&res=393x315&without_cookies=false&listenerid=&dnt=true
+
+#EXTINF:-1 tvg-chno="103" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/DW-German-Live-TV-Online.png?resize=1068%2C601&ssl=1",DW Español ¹ 🇩🇪
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-chno="103" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/250px-Russia-today-logo.svg.png",RT Español ¹ 🇷🇺
+#EXTINF:-1 tvg-chno="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/250px-Russia-today-logo.svg.png",RT Español ¹ 🇷🇺
 https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
 
-#EXTINF:-1 tvg-chno="104" tvg-logo="https://cdn.mitvstatic.com/channels/ar_france-24-espanol_m.png",France 24 HD 🇨🇵
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://cdn.mitvstatic.com/channels/ar_france-24-espanol_m.png",France 24 HD 🇨🇵
 http://xcm.budtv-ultra.com:25461/live/Daniel/0000/53301.m3u8
 
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png",Euronews ¹ 🇪🇺
+#EXTINF:-1 tvg-chno="106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png",Euronews ¹ 🇪🇺
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="106" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Globovision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Globovisión 🇻🇪
+#EXTINF:-1 tvg-chno="107" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Globovision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Globovisión 🇻🇪
 http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/154645.m3u8
 
-#EXTINF:-1 tvg-chno="107" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/04/Telesur-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Telesur ¹ 🇻🇪
+#EXTINF:-1 tvg-chno="108" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/04/Telesur-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Telesur ¹ 🇻🇪
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="108" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/cgtn-espa%C3%B1ol.png?resize=500%2C300&ssl=1",CGTN Español ¹ 🇨🇳
+#EXTINF:-1 tvg-chno="109" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/cgtn-espa%C3%B1ol.png?resize=500%2C300&ssl=1",CGTN Español ¹ 🇨🇳
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-chno="109" tvg-logo="https://ocopen.org/wp-content/uploads/2021/11/OCOPEN-Negocios.png",Negocios TV ¹ 🇪🇦
+#EXTINF:-1 tvg-chno="110" tvg-logo="https://ocopen.org/wp-content/uploads/2021/11/OCOPEN-Negocios.png",Negocios TV ¹ 🇪🇦
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
-#EXTINF:-1 tvg-chno="110" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png",VM Latino
+#EXTINF:-1 tvg-chno="111" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="111" tvg-logo="https://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png",88 Estéreo
+#EXTINF:-1 tvg-chno="112" tvg-logo="https://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png",88 Estéreo
 http://k3.usastreams.com:80/CableLatino/88stereo/chunklist_w190584519.m3u8
 
-#EXTINF:-1 tvg-chno="112" tvg-logo="https://i2.paste.pics/ef00f6c7d85171624dff85e2c38fc975.png",Colosal TV
+#EXTINF:-1 tvg-chno="113" tvg-logo="https://i2.paste.pics/ef00f6c7d85171624dff85e2c38fc975.png",Colosal TV
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w534755227.m3u8
 
-#EXTINF:-1 tvg-chno="113" tvg-logo="https://i2.paste.pics/0c73fe6bc691b4aa4d1ac9cc3f93e500.png",Urbano TV
+#EXTINF:-1 tvg-chno="114" tvg-logo="https://i2.paste.pics/0c73fe6bc691b4aa4d1ac9cc3f93e500.png",Urbano TV
 https://59ef525c24caa.streamlock.net:443/tvurbano/tvurbano/chunklist_w248233257.m3u8
 
-#EXTINF:-1 tvg-chno="114" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Colosal-TV.png",Colosal 88.3
+#EXTINF:-1 tvg-chno="115" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Colosal-TV.png",Colosal 88.3
 http://tv2.ticosmedia.com:1935/canal3/canal3/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="115" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/musica/planeta_tv_music.png",Planeta Tv Music
+#EXTINF:-1 tvg-chno="116" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/musica/planeta_tv_music.png",Planeta Tv Music
 https://scl.edge.grupoz.cl:443/music/live/chunklist_w942041273.m3u8
 
 #EXTINF:-1 tvg-chno="117" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/TLTV2016.png",Top Latino TV
