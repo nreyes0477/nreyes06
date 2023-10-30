@@ -144,7 +144,10 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/vegavision-canal-18.jpg",Vegavisión Canal 18 ¹ 🇩🇴 
 https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
 
-#EXTINF:-1 tvg-chno="53" tvg-logo="https://meganettv.fun/storage/channel-logos/LywcdQKs7RYqIvOALcQGUUubqQkWDGoXWV8yORqt.jpg",Mega Tv Cine ¹ 🇵🇪
+#EXTINF:-1 tvg-chno="53" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/10microvision.png?zoom=3&resize=100%2C70&ssl=1",Microvisión ¹ 🇩🇴
+https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="54" tvg-logo="https://meganettv.fun/storage/channel-logos/LywcdQKs7RYqIvOALcQGUUubqQkWDGoXWV8yORqt.jpg",Mega Tv Cine ¹ 🇵🇪
 https://hls.servidor.stream/storage/megatv.m3u8
 
 #EXTINF:-1 tvg-chno="55" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/retro-plus.jpg?itok=jRSPYmN_",Retroplus Movies ¹
@@ -896,9 +899,6 @@ http://go.iptvhn.net:25461/live/7680/7680/197.m3u8
 
 #EXTINF:-1 tvg-chno="382" tvg-logo="https://canalesdominicanos.live/template/images/radios/antena_latina_canal_7.jpg",Antena Latina 🇩🇴
 http://go.iptvhn.net:25461/live/7680/7680/16.m3u8
-
-#EXTINF:-1 tvg-chno="383" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/10microvision.png?zoom=3&resize=100%2C70&ssl=1",Microvisión ¹ 🇩🇴
-https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="384" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/06/telecentro.png?zoom=3&resize=100%2C70&ssl=1",Telecentro 🇩🇴
 http://go.iptvhn.net:25461/live/7680/7680/197.m3u8
