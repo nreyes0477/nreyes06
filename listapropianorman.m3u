@@ -277,13 +277,13 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://cdn.mitvstatic.com/channels/ar_france-24-espanol_m.png",France 24 HD 🇨🇵
-http://xcm.budtv-ultra.com:25461/live/Daniel/0000/53301.m3u8
+http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/150279.m3u8
 
 #EXTINF:-1 tvg-chno="106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png",Euronews ¹ 🇪🇺
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="107" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Globovision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Globovisión 🇻🇪
-http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/154645.m3u8
+http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/156075.m3u8
 
 #EXTINF:-1 tvg-chno="108" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/04/Telesur-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Telesur ¹ 🇻🇪
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
