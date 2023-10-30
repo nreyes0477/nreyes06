@@ -1263,9 +1263,6 @@ http://161.132.108.76:50001/play/a00w/index.m3u8
 #EXTINF:-1 tvg-chno="734" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports 3 Sur ²
 http://161.132.108.76:50001/play/a00h/index.m3u8
 
-#EXTINF:-1 tvg-chno="739" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Sky Bundesliga
-http://go.iptvhn.net:25461/live/7672/7672/234.m3u8
-
 #EXTINF:-1 tvg-chno="740" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png",TUDN MX
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/50394.m3u8
 
@@ -1282,7 +1279,7 @@ http://go.iptvhn.net:25461/live/7672/7672/65.m3u8
 http://go.iptvhn.net:25461/live/7672/7672/219.m3u8
 
 #EXTINF:-1 tvg-chno="750" tvg-logo="https://banner2.cleanpng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg",Sky Sports Liga Española USA
-http://xcm.budtv-ultra.com:25461/live/Daniel/0000/39090.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/39087.m3u8
 
 #EXTINF:-1 tvg-chno="751" tvg-logo="https://banner2.cleanpng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg",Sky Sports Liga Alemana USA
 http://xcm.budtv-ultra.com:25461/live/Daniel/0000/53429.m3u8
@@ -1300,19 +1297,13 @@ http://go.iptvhn.net:25461/live/7672/7672/218.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/81178.m3u8
 
 #EXTINF:-1 tvg-chno="762" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aztecadeporteslogo.png/480px-Aztecadeporteslogo.png",Azteca Deportes 🇲🇽
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/123986.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/37787.m3u8
 
 #EXTINF:-1 tvg-chno="763" tvg-logo="https://1.bp.blogspot.com/-RfPJG64UbjY/X2znqGjfaxI/AAAAAAAAz-U/Nh8HHsidGng56Uro35CXGjU2eWgOYmZqQCLcBGAsYHQ/s640/afizzionados-izzi.jpg",Afizzionados 🇲🇽
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/81633.m3u8
-
-#EXTINF:-1 tvg-chno="764" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Sky Sports / Espn + ²
-http://168.228.194.33:48001/play/a0au/index.m3u8t
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/78354.m3u8
 
 #EXTINF:-1 tvg-chno="765" tvg-logo="https://www.telcocom.com.ar/img/canales/tyc-sports.png",TyC Sports HD 🇦🇷
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/46602.m3u8
-
-#EXTINF:-1 tvg-chno="766" tvg-logo="https://www.telcocom.com.ar/img/canales/tnt-sports.png",TNT Sports HD ²
-http://168.228.194.33:48001/play/a0bw/index.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/1649.m3u8
 
 #EXTINF:-1 tvg-chno="767" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",TNT Sports 🇨🇱
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/41012.m3u8
@@ -1321,10 +1312,10 @@ http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/41012.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/1830.m3u8
 
 #EXTINF:-1 tvg-chno="769" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Win Sports 🇨🇴
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/37844.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/18613.m3u8
 
 #EXTINF:-1 tvg-chno="770" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Tigo Sports Honduras 🇭🇳
-http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/7621.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/18206.m3u8
 
 #EXTINF:-1 tvg-chno="771" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Tigo Sports Guatemala 🇬🇹
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
