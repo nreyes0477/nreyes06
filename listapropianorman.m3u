@@ -99,6 +99,9 @@ http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 #EXTINF:-1 tvg-chno="37" tvg-logo="https://www.coolstreaming.us/img/ch/image6702628824.jpg", Antena Seis TV
 https://cloudvideo.servers10.com:8081/8132/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-chno="37" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",TDtv 🇨🇷
+https://cloudvideo.servers10.com:8081/8230/index.m3u8
+
 #EXTINF:-1 tvg-chno="38" tvg-logo="https://www.radiopop.cl/wp-content/uploads/2022/08/logo-200-px.png",TV Pop Retro
 https://v4.tustreaming.cl/poptv/playlist.m3u8
 
