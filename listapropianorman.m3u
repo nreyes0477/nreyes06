@@ -225,6 +225,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-es
 #EXTINF:-1 tvg-chno="83" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1",CNN Chile 🇨🇱
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/141352.m3u8
 
+#EXTINF:-1 tvg-chno="83" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Logotipo_de_Chilevisi%C3%B3n_Noticias.svg/1024px-Logotipo_de_Chilevisi%C3%B3n_Noticias.svg.png",CHV Noticias ¹ 🇨🇱
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="84" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png",TN Noticias ¹ 🇦🇷
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
