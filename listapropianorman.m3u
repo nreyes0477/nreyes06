@@ -292,7 +292,7 @@ http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/150279.m3u8
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="107" tvg-logo="https://vpitv.com/pywhidub/elementor/thumbs/logo-vpi-b-263x300-1-p2z3incdsrpngf2yhvuk1g838o90xfwksu0oidoueg.png",VPItv ¹ 🇻🇪
-https://streannlivevpi.cachefly.net/Protected/sp=1;dirmatch=true;ip=45.239.67.124/6546bc5398d40f222a5c57ec31a1f2a751483f196992dd75d295d76c7b1696ac/vpi1/vpi1/playlist.m3u81/chunks.m3u8
+https://streannlivevpi.cachefly.net:443/Protected/sp=1;dirmatch=true;ip=45.239.67.124/6546bc5398d40f222a5c57ec31a1f2a751483f196992dd75d295d76c7b1696ac/vpi1/vpi1/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="107" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Globovision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Globovisión 🇻🇪
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/156075.m3u8
