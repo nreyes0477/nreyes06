@@ -966,18 +966,6 @@ http://190.122.96.187:8888/http/006
 #EXTINF:-1 tvg-chno="399" tvg-logo="https://www.novelisima.com/assets/images/logo.png",Novelisima ¹ 🇻🇪
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1yn-&did=5de3272ca828334125a8958b379e80ca&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=en&site_page=https%253a%252f%252fwww.canela.tv%252flinear%252fnovelisima&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1682534197&id=29260&ip=45.239.66.196&override_expiration=1500&deliveryProfileId=23762&sign=AnTU27Owgu%2FvemMRtOIK%2BuHtqV7PpNMyoU1iGCyVV%2B8%3D
 
-#EXTINF:-1 tvg-chno="440" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cartoon-network_m.png",Cartoon Network HD
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/30316.m3u8
-
-#EXTINF:-1 tvg-chno="441" tvg-logo="https://cdn.mitvstatic.com/channels/ar_disney_m.png",Disney Channel HD ²
-http://168.228.194.33:48001/play/a08y/index.m3u8
-
-#EXTINF:-1 tvg-chno="442" tvg-logo="https://cdn.mitvstatic.com/channels/ar_disney-jr_m.png",Disney Junior HD ²
-http://168.228.194.33:48001/play/a04v/index.m3u8
-
-#EXTINF:-1 tvg-chno="443" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-kids_m.png",Discovery Kids HD ²
-http://168.228.194.33:48001/play/a00x/index.m3u8
-
 #EXTINF:-1 tvg-chno="500" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg",E! Entertainment HD
 http://go.iptvhn.net:25461/live/7672/7672/86.m3u8
 
