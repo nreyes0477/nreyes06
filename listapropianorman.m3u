@@ -1146,6 +1146,9 @@ http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/151800.m3u8
 #EXTINF:-1 tvg-chno="673" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Eurosport-Logo-1080x675.png",Eurosport 🇪🇦
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/90494.m3u8
 
+#EXTINF:-1 tvg-chno="674" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Eurosport-Logo-1080x675.png",Eurosport 2 🇪🇦
+https://hd-auth.skylinewebcams.com/live.m3u8?a=uoev4ug34ip445m5lr457g67v2
+
 #EXTINF:-1 tvg-chno="699" tvg-logo="https://www.telcocom.com.ar/img/canales/deportv-hd.png",DeporTV ¹ 🇦🇷
 https://538d0bde28ccf.streamlock.net:443/live-cont.ar/deportv/chunklist_w986698151.m3u8
 
