@@ -1005,11 +1005,11 @@ http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/36787.m3u8
 #EXTINF:-1 tvg-chno="607" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD + HD Opc 2 ²
 http://177.234.245.26:8000/play/a00p/index.m3u8
 
-#EXTINF:-1 tvg-chno="608" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/39327.m3u8
+#EXTINF:-1 tvg-chno="608" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 ² HD
+http://204.157.251.250:8000/play/a06c/index.m3u8
 
 #EXTINF:-1 tvg-chno="609" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 HD Opc 2 ²
-http://177.234.245.26:8000/play/a00q/index.m3u8
+http://190.61.91.101:12345/play/a04d/index.m3u8
 
 #EXTINF:-1 tvg-chno="610" tvg-logo="https://www.telcocom.com.ar/img/canales/espn.png",ESPN Norte HD
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/37811.m3u8
