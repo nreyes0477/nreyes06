@@ -438,8 +438,8 @@ https://samson.streamerr.co:8081/akira/index.m3u8
 #EXTINF:-1 tvg-chno="251" tvg-logo="https://canalunoecuador.com/wp-content/uploads/2023/04/logo_uno.jpg",Canal Uno ¹ 🇪🇨
 https://cp.panelchs.com:1936/8122/8122/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="252" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/400px-Ecuavisa_Logo_2019.png",Ecuavisa ¹ 🇪🇨
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8?did=b133754686481651cebc1e1261
+#EXTINF:-1 tvg-chno="252" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/400px-Ecuavisa_Logo_2019.png",Ecuavisa 🇪🇨
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46858.m3u8
 
 #EXTINF:-1 tvg-chno="253" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",Gamavisión ¹ 🇪🇨
 https://live-ak.vimeocdn.com/exp=1696397925~acl=%2Ff6993a20-f76d-43fb-9127-01f56e4682ec%2F%2A~hmac=110c10badcb38506b081f53ee8af0decac660a1e7b843bf9d1380c56abe73f9f/f6993a20-f76d-43fb-9127-01f56e4682ec/hls.m3u8
