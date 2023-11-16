@@ -747,8 +747,8 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/47048.m3u8
 #EXTINF:-1 tvg-chno="389" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/Teledoce-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Teledoce 🇺🇾
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47050.m3u8
 
-#EXTINF:-1 tvg-chno="390" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Venevision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Venevisión ¹ 🇻🇪
-https://venevision.akamaized.net/hls/live/2098814/VENEVISION/0/streamPlaylist.m3u8
+#EXTINF:-1 tvg-chno="390" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Venevision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Venevisión 🇻🇪
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/47086.m3u8
 
 #EXTINF:-1 tvg-chno="391" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Venezolana-de-Televisi%C3%B3n-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Venezolana de TV ¹ 🇻🇪
 https://stream-12.dc3.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLsAu3LsCRwoqQmmwxdKPklwi65k6X1tii8qlfpD0k88S)/dm/3/x828i6j/s/live-3.m3u8
@@ -763,7 +763,7 @@ http://131.196.12.237:8000/play/a040/index.m3u8
 https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="395" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Televen-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1",Televen 🇻🇪
-http://xcm.budtv-ultra.com:25461/live/Daniel/0000/120103.m3u8
+http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/120103.m3u8
 
 #EXTINF:-1 tvg-chno="396" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/TVES-Venezuela-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",TVes ¹ 🇻🇪
 https://ls.tves.gob.ve/hls/tves.m3u8
