@@ -1072,10 +1072,10 @@ http://190.60.40.37:12500/play/a00q/index.m3u8
 http://190.60.40.37:12500/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-chno="631" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Deportes Latino HD 🇺🇲
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/37824.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/47105.m3u8
 
 #EXTINF:-1 tvg-chno="632" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Deportes HD 🇺🇲
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/40910.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/47116.m3u8
 
 #EXTINF:-1 tvg-chno="633" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports Sur ²
 http://161.132.108.76:50001/play/a02p/index.m3u8
