@@ -324,8 +324,8 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w2127147547.m3u8
 #EXTINF:-1 tvg-chno="206" tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg",El Nueve 🇦🇷
 http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/81270.m3u8
 
-#EXTINF:-1 tvg-chno="207" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",TV Pública ¹ 🇦🇷
-https://cntlnk-main-edge-access.secure.footprint.net:443/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
+#EXTINF:-1 tvg-chno="207" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",TV Pública 🇦🇷
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46747.m3u8
 
 #EXTINF:-1 tvg-chno="208" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG",América TV 🇦🇷
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46699.m3u8
@@ -502,7 +502,7 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main_dvr.m3u8
 https://167790.global.ssl.fastly.net:443/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png",NBC Universo 🇺🇸
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/40340.m3u8
+http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/149865.m3u8
 
 #EXTINF:-1 tvg-chno="282" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/300px-Estrella_TV_Logo_2020.png",Estrella TV ¹ 🇺🇸
 https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
