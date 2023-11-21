@@ -1128,8 +1128,11 @@ http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/78354.m3u8
 #EXTINF:-1 tvg-chno="665" tvg-logo="https://www.telcocom.com.ar/img/canales/tyc-sports.png",TyC Sports HD 🇦🇷
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/1649.m3u8
 
+#EXTINF:-1 tvg-chno="666" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",TNT Sports 🇦🇷
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46744.m3u8
+
 #EXTINF:-1 tvg-chno="667" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",TNT Sports 🇨🇱
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/41012.m3u8
+http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/145443.m3u8
 
 #EXTINF:-1 tvg-chno="668" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",VTV Plus 🇺🇾
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/1830.m3u8
@@ -1147,10 +1150,10 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/151800.m3u8
 
 #EXTINF:-1 tvg-chno="673" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Eurosport-Logo-1080x675.png",Eurosport 🇪🇦
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/90494.m3u8
+http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/128654.m3u8
 
 #EXTINF:-1 tvg-chno="674" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Eurosport-Logo-1080x675.png",Eurosport 2 🇪🇦
-https://hd-auth.skylinewebcams.com/live.m3u8?a=iglb4hgcc2r26ddbt88rsh7nb4
+http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/128655.m3u8
 
 #EXTINF:-1 tvg-chno="699" tvg-logo="https://www.telcocom.com.ar/img/canales/deportv-hd.png",DeporTV ¹ 🇦🇷
 https://538d0bde28ccf.streamlock.net:443/live-cont.ar/deportv/chunklist_w986698151.m3u8
