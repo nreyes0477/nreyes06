@@ -1102,10 +1102,10 @@ http://go.iptvhn.net:25461/live/7672/7672/219.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700131366/ei/xp1VZeOrEY7u4QSOuJXgDg/ip/162.158.81.131/id/n__YXC0LbDE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9Gk_FHNeWkH6RRb99TXHcH2_tfIZib3jeUAlg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIgKEQNvbvInmf6ilfBnDledwcaTgsKcy6fTN1bpySkohUCIQDvgO3fphlwgulzfm1bo75mWo-4SFt6RQQj2k9RnXNNiA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-chno="650" tvg-logo="https://banner2.cleanpng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg",Sky Sports Liga Española USA
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/39087.m3u8
+http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/133854.m3u8
 
-#EXTINF:-1 tvg-chno="651" tvg-logo="https://banner2.cleanpng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg",Sky Sports Liga Alemana USA
-http://xcm.budtv-ultra.com:25461/live/Daniel/0000/53429.m3u8
+#EXTINF:-1 tvg-chno="651" tvg-logo="https://banner2.cleanpng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg",Sky Sports Liga Inglesa USA
+http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/129300.m3u8
 
 #EXTINF:-1 tvg-chno="655" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Bein Sports HD USA
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/145408.m3u8
