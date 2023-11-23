@@ -1117,10 +1117,10 @@ http://go.iptvhn.net:25461/live/7672/7672/217.m3u8
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46865.m3u8
 
 #EXTINF:-1 tvg-chno="660" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",La Liga TV
-http://go.iptvhn.net:25461/live/7672/7672/218.m3u8
+http://go.iptvhn.net:25461/live/7680/7680/218.m3u8
 
 #EXTINF:-1 tvg-chno="661" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports-mediano.png",A y M Sports 🇲🇽
-http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/3670.m3u8
+http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/151831.m3u8
 
 #EXTINF:-1 tvg-chno="662" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aztecadeporteslogo.png/480px-Aztecadeporteslogo.png",Azteca Deportes 🇲🇽
 http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/123986.m3u8
@@ -1150,7 +1150,7 @@ http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/18206.m3u8
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="672" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos-fc.png",Cableonda 🇵🇦 
-http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/151800.m3u8
+http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/151799.m3u8
 
 #EXTINF:-1 tvg-chno="673" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Eurosport-Logo-1080x675.png",Eurosport 🇪🇦
 http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/128654.m3u8
