@@ -273,13 +273,16 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-chno="120" tvg-logo="https://i0.wp.com/adnoticias.mx/wp-content/uploads/2023/09/amx-noticias-mexiquense.png",AMX Noticias ¹ 🇲🇽
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="121" tvg-logo="https://cnwebsite.blob.core.windows.net/files/2021/05/logo_cablenoticias.png",Cablenoticias ¹ 🇨🇴
+#EXTINF:-1 tvg-chno="121" tvg-logo="https://cdn2.imagenradio.com.mx/media/files/imagen_radio/styles/large/public/images/logo-excelsior-tv-hd-300713_0.png",Excélsior TV ¹ 🇲🇽
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700743138/ei/gvNeZbflM5mYy_sPtImd0AY/ip/162.158.81.138/id/H_Y8wh1z4y0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-61QPSD0tsSKC2jFJDwaAIk2XqZhEu3Itl5uw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIhAMCr3u2hShQOhkOHzznAqIU8bu9HgCm9gJl_Mrm5nky1AiAex7csD6ZhA-p9wlGqkdifw4HIMALhPMpT5iwnqSn3Dg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-chno="122" tvg-logo="https://cnwebsite.blob.core.windows.net/files/2021/05/logo_cablenoticias.png",Cablenoticias ¹ 🇨🇴
 https://5ea86ddd14ce7.streamlock.net:443/live/cable09061970/chunklist_w147954306.m3u8
 
-#EXTINF:-1 tvg-chno="122" tvg-logo="https://www.ntn24.com/__assets/images/logo.png",NTN24 ¹ 🇨🇴
+#EXTINF:-1 tvg-chno="123" tvg-logo="https://www.ntn24.com/__assets/images/logo.png",NTN24 ¹ 🇨🇴
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/133838.m3u8
 
-#EXTINF:-1 tvg-chno="123" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/Noticias-Caracol-en-vivo-Online.png",Noticias Caracol ¹ 🇨🇴
+#EXTINF:-1 tvg-chno="124" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/Noticias-Caracol-en-vivo-Online.png",Noticias Caracol ¹ 🇨🇴
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
 #EXTINF:-1 tvg-chno="125" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/DW-German-Live-TV-Online.png?resize=1068%2C601&ssl=1",DW Español ¹ 🇩🇪
