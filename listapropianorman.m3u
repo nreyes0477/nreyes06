@@ -214,19 +214,19 @@ https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
 https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cnn-en-espanol_m.png",CNN Español 🇺🇸
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/3160.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46946.m3u8
 
 #EXTINF:-1 tvg-chno="101" tvg-logo="https://cdn-profiles.tunein.com/s320627/images/logoq.png",Estrella News ¹ 🇺🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-estrellamedia/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1",CNN Chile 🇨🇱
-http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/141352.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46788.m3u8
 
 #EXTINF:-1 tvg-chno="106" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Meganoticias-en-vivo-Online.png",Meganoticias ¹ 🇨🇱
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700739687/ei/B-ZeZbjZBp6sy_sPwfOKMA/ip/162.158.81.130/id/QqRuUsS9Aqk.1/source/yt_live_broadcast/requiressl/yes/tx/51018866/txs/51018864%2C51018865%2C51018866%2C51018867%2C51018868%2C51018869%2C51018870/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/cr/spc/UWF9f6IKtbYkSUVAPdmzBYnCTwhhlO-fCCi5uKe9lA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIgei3X6d4INW-x3p7V2aG1rT6M1AncO1DqtJ0_SdWTqRgCIQDrsWXJAqgPigzJ0mqE_eUurxvLZM95vPXXuiFnHcX-2A%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700975785/ei/SYBiZd_yFcqsy_sPpsa1sAI/ip/162.158.81.130/id/QqRuUsS9Aqk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/cr/spc/UWF9f8CG7_XAH5zgjIdasx40VwWb3dMcl_wZYmyVWA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRAIgP6nKTHn4tz6Glm96kG-iuUUitgUe8F86JSZxr2XZMK4CIGHH0VVhD2MlBaG_0J6ta_eF_A-Ne1eqK33SfWaig06A/file/index.m3u8
 
 #EXTINF:-1 tvg-chno="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Logotipo_de_Chilevisi%C3%B3n_Noticias.svg/1024px-Logotipo_de_Chilevisi%C3%B3n_Noticias.svg.png",CHV Noticias ¹ 🇨🇱
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
+https://jireh-1-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist_4000.m3u8?dpssid=b133754686481651cebc1e1261&sid=ba5t1l1xb219432494146562815e50eb0&ndvc=0
 
 #EXTINF:-1 tvg-chno="110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png",TN Noticias ¹ 🇦🇷
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
