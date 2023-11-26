@@ -831,11 +831,11 @@ http://go.iptvhn.net:25461/live/7672/7672/82.m3u8
 #EXTINF:-1 tvg-chno="423" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery Science HD
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46586.m3u8
 
-#EXTINF:-1 tvg-chno="424" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png",HGTV Latino HD ²
-http://161.132.243.192:50001/play/a036/index.m3u8
+#EXTINF:-1 tvg-chno="424" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png",HGTV Latino HD
+http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/126561.m3u8
 
 #EXTINF:-1 tvg-chno="425" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png",HGTV Latino 2 HD
-http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/4815.m3u8
+http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/88446.m3u8
 
 #EXTINF:-1 tvg-chno="426" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png",Comedy Central HD
 http://go.iptvhn.net:25461/live/7672/7672/68.m3u8
