@@ -316,7 +316,7 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",Canal 13 HD 🇦🇷
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/1815.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46713.m3u8
 
 #EXTINF:-1 tvg-chno="202" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe HD 🇦🇷 
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46738.m3u8
@@ -331,7 +331,7 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w2127147547.m3u8
 http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/81270.m3u8
 
 #EXTINF:-1 tvg-chno="207" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",TV Pública ¹ 🇦🇷
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46747.m3u8
 
 #EXTINF:-1 tvg-chno="208" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG",América TV 🇦🇷
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46699.m3u8
