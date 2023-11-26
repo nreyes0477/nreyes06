@@ -577,7 +577,7 @@ http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/2271.m3u8
 https://media.streambrothers.com:1936/8054/8054/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="307" tvg-logo="https://hch.tv/wp-content/uploads/2021/09/logos-hch-bueno-1.png",HCH 🇭🇳
-http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/3143.m3u8
+http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/131631.m3u8
 
 #EXTINF:-1 tvg-chno="308" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/TSI-Telesistema-en-vivo-Online.png",TSI ¹ 🇭🇳
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
@@ -609,11 +609,8 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46943.m3u8
 #EXTINF:-1 tvg-chno="321" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/10/Multimedios-TV-Canal-6-en-vivo-Online.png?resize=1068%2C601&ssl=1",Multimedios ¹ 🇲🇽
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
-#EXTINF:-1 tvg-chno="322" tvg-logo="https://telemax.com.mx//wp-content/uploads/2022/08/telemax-footer-original.png",Telemax ¹ 🇲🇽
-https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/.m3u8
-
 #EXTINF:-1 tvg-chno="323" tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default_mobile/public/images/logos/canl-nueve-100x100.png",Nu9ve 🇲🇽
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46944.m3u8
+http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/163347.m3u8
 
 #EXTINF:-1 tvg-chno="324" tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png",Canal Once ¹ 🇲🇽 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
@@ -625,25 +622,25 @@ http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/91973.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30385.m3u8
 
 #EXTINF:-1 tvg-chno="330" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal 2 🇳🇮
-http://go.iptvhn.net:25461/live/7680/7680/40.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46971.m3u8
 
 #EXTINF:-1 tvg-chno="331" tvg-logo="https://1.bp.blogspot.com/-Fi3j72ih8b8/YSzl1J95lrI/AAAAAAAAQVE/qDJWftQ2kVUOGhTCR9IFxSk5dUbv00OGACLcBGAsYHQ/w700-h400-p-k-no-nu/Canal%2B4%2Ben%2Bvivo.jpg",Canal 4 🇳🇮
-http://go.iptvhn.net:25461/live/7680/7680/44.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46974.m3u8
 
 #EXTINF:-1 tvg-chno="332" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal 6 🇳🇮
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46975.m3u8
 
 #EXTINF:-1 tvg-chno="333" tvg-logo="https://1.bp.blogspot.com/-zyfzTiv-0YY/YSgNAyVUnYI/AAAAAAAAQQw/63cf8CyUoLQlwDWY2-9zdME5dzjewFpJQCLcBGAsYHQ/w700-h400-p-k-no-nu/Canal%2B10%2Ben%2Bvivo.png",Canal 10 🇳🇮
-http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/21928.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46967.m3u8
 
 #EXTINF:-1 tvg-chno="334" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Nicarao_TV_Logo.jpg/300px-Nicarao_TV_Logo.jpg",Nicarao TV 🇳🇮
-http://go.iptvhn.net:25461/live/7680/7680/150.m3u8
+http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/291328.m3u8
 
 #EXTINF:-1 tvg-chno="335" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TN8_Nicaragua.svg/1280px-TN8_Nicaragua.svg.png",TN8 🇳🇮
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/50248.m3u8
+http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/111272.m3u8
 
-#EXTINF:-1 tvg-chno="340" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png",Tv Max ¹ 🇵🇦
-https://bcovlive-a.akamaihd.net:443/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
+#EXTINF:-1 tvg-chno="340" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png",Tv Max 🇵🇦
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/47034.m3u8
 
 #EXTINF:-1 tvg-chno="341" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png",TVN ¹ 🇵🇦
 https://bcovlive-a.akamaihd.net:443/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
