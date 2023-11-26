@@ -655,7 +655,7 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/47023.m3u8
 https://vcp4.myplaytv.com:1936/nextv/nextv/chunklist_w1170120982.m3u8
 
 #EXTINF:-1 tvg-chno="350" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png",Paraguay TV 🇵🇾
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/18625.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/47014.m3u8
 
 #EXTINF:-1 tvg-chno="351" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png",Paravisión 🇵🇾
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47015.m3u8
@@ -688,10 +688,10 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/47036.m3u8
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46983.m3u8
 
 #EXTINF:-1 tvg-chno="365" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png",Canal N 🇵🇪
-http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/110187.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46989.m3u8
 
 #EXTINF:-1 tvg-chno="366" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/peru_magico-mediano.png",Perú Mágico 🇵🇪
-http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/110198.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/47016.m3u8
 
 #EXTINF:-1 tvg-chno="370" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/telemundo-puerto-rico-en-vivo-1391.png",Telemundo Puerto Rico ¹ 🇵🇷
 https://nbculocallive.akamaized.net:443/hls/live/2037499/puertorico/stream1/master_1080.m3u8
