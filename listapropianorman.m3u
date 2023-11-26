@@ -786,17 +786,20 @@ http://go.iptvhn.net:25461/live/7672/7672/86.m3u8
 #EXTINF:-1 tvg-chno="405" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-id_m.png",ID Investigation HD
 http://go.iptvhn.net:25461/live/7672/7672/77.m3u8
 
-#EXTINF:-1 tvg-chno="410" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png",History Channel HD
+#EXTINF:-1 tvg-chno="409" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png",History Channel HD
 http://go.iptvhn.net:25461/live/7672/7672/127.m3u8
 
-#EXTINF:-1 tvg-chno="411" tvg-logo="https://alexgarci.com/iqc/wp-content/uploads/2022/02/LOGO-H2.png",History 2 HD
+#EXTINF:-1 tvg-chno="410" tvg-logo="https://alexgarci.com/iqc/wp-content/uploads/2022/02/LOGO-H2.png",History 2 HD
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46628.m3u8
 
-#EXTINF:-1 tvg-chno="412" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo HD
+#EXTINF:-1 tvg-chno="411" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo HD
 http://go.iptvhn.net:25461/live/7672/7672/148.m3u8
 
-#EXTINF:-1 tvg-chno="413" tvg-logo="https://www.disneyadvertising.com/wp-content/uploads/2019/11/das_nat-geo_nat-geo-mundo_logo-blk.png",Nat Geo Mundo HD
-http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/2013.m3u8
+#EXTINF:-1 tvg-chno="412" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo 2 HD
+http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/91979.m3u8
+
+#EXTINF:-1 tvg-chno="413" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo 3 HD
+http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/91980.m3u8
 
 #EXTINF:-1 tvg-chno="414" tvg-logo="https://www.pngkit.com/png/full/372-3727985_national-geographic-is-set-to-premier-a-new.png",Nat Geo Wild HD
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46651.m3u8
@@ -804,8 +807,8 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46651.m3u8
 #EXTINF:-1 tvg-chno="415" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png",Animal Planet HD
 http://go.iptvhn.net:25461/live/7672/7672/14.m3u8
 
-#EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health 1 HD
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46583.m3u8
+#EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health HD
+http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/37994.m3u8
 
 #EXTINF:-1 tvg-chno="417" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health 2 HD
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/3847.m3u8
