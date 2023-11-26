@@ -436,7 +436,7 @@ http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/18614.m3u8
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46779.m3u8
 
 #EXTINF:-1 tvg-chno="247" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/03/RCN_Nuestra_Tele_Int_516x287.jpg",RCN Internacional 🇨🇴
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/47550.m3u8
+http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/69269.m3u8
 
 #EXTINF:-1 tvg-chno="250" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/233px-EcuadorTV_logo.png",Ecuador TV ¹ 🇪🇨
 https://samson.streamerr.co:8081/akira/index.m3u8
@@ -447,8 +447,8 @@ https://cp.panelchs.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-chno="252" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/400px-Ecuavisa_Logo_2019.png",Ecuavisa 🇪🇨
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46858.m3u8
 
-#EXTINF:-1 tvg-chno="253" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",Gamavisión ¹ 🇪🇨
-https://live-ak.vimeocdn.com/exp=1696397925~acl=%2Ff6993a20-f76d-43fb-9127-01f56e4682ec%2F%2A~hmac=110c10badcb38506b081f53ee8af0decac660a1e7b843bf9d1380c56abe73f9f/f6993a20-f76d-43fb-9127-01f56e4682ec/hls.m3u8
+#EXTINF:-1 tvg-chno="253" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",Gamavisión 🇪🇨
+http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/318.m3u8
 
 #EXTINF:-1 tvg-chno="254" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oromar_logo.png/300px-Oromar_logo.png",Oromar TV ¹ 🇪🇨
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
@@ -466,7 +466,7 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46880.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/34931.m3u8
 
 #EXTINF:-1 tvg-chno="261" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/640px-Canal_4_TCS.png",Canal 4 🇸🇻
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/12206.m3u8
+http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/111239.m3u8
 
 #EXTINF:-1 tvg-chno="262" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-6-El-Salvador-en-vivo-Online.png",Canal 6 🇸🇻
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/121534.m3u8
