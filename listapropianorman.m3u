@@ -405,8 +405,8 @@ https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="236" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",TV + HD 🇨🇱
 http://xcm.budtv-ultra.com:25461/live/Daniel/0000/38560.m3u8
 
-#EXTINF:-1 tvg-chno="237" tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-13-c_m.png",Canal 13C 🇨🇱
-http://xcm.budtv-ultra.com:25461/live/Daniel/0000/92867.m3u8
+#EXTINF:-1 tvg-chno="237" tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-13-c_m.png",Canal 13C ¹ 🇨🇱
+https://dai.google.com/linear/hls/pa/event/GI-9cp_bT8KcerLpZwkuhw/stream/b7da3bb7-7b13-40cc-b9c8-b86eed54a7ea:CBF2/master.m3u8
 
 #EXTINF:-1 tvg-chno="238" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png",Canal 24 Horas HD 🇨🇱
 http://xcm.budtv-ultra.com:25461/live/Daniel/0000/38537.m3u8
@@ -417,10 +417,10 @@ http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/15125.m3u8
 #EXTINF:-1 tvg-chno="240" tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg",RCN HD 🇨🇴
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/1769.m3u8
 
-#EXTINF:-1 tvg-chno="241" tvg-logo="https://1.bp.blogspot.com/-jslL1CIeqqk/YaVCAmvGxvI/AAAAAAAADDo/wPaGYipC7Eo_6NVRuL0XESV1lzjq6xhLgCLcBGAsYHQ/s16000/rcnmas.jpg",RCN Más+ ¹🇨🇴
+#EXTINF:-1 tvg-chno="241" tvg-logo="https://1.bp.blogspot.com/-jslL1CIeqqk/YaVCAmvGxvI/AAAAAAAADDo/wPaGYipC7Eo_6NVRuL0XESV1lzjq6xhLgCLcBGAsYHQ/s16000/rcnmas.jpg",RCN Más+ ¹ 🇨🇴
 https://rcntv-rcnmas-1-us.plex.wurl.tv:443/4300.m3u8
 
-#EXTINF:-1 tvg-chno="242" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Rcn-xtra_2.png/640px-Rcn-xtra_2.png",RCN Xtra ¹🇨🇴
+#EXTINF:-1 tvg-chno="242" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Rcn-xtra_2.png/640px-Rcn-xtra_2.png",RCN Xtra ¹ 🇨🇴
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="243" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/1586px-RCN_Novelas_logo_2019.png",RCN Novelas 🇨🇴
