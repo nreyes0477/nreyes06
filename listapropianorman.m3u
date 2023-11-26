@@ -793,10 +793,10 @@ http://go.iptvhn.net:25461/live/7672/7672/127.m3u8
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46628.m3u8
 
 #EXTINF:-1 tvg-chno="411" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo HD
-http://go.iptvhn.net:25461/live/7672/7672/148.m3u8
-
-#EXTINF:-1 tvg-chno="412" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo 2 HD
 http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/91979.m3u8
+
+#EXTINF:-1 tvg-chno="412" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo 2 HD (Prueba)
+http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/91976.m3u8
 
 #EXTINF:-1 tvg-chno="413" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo 3 HD
 http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/91980.m3u8
