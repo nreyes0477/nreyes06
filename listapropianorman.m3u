@@ -715,10 +715,10 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/47040.m3u8
 http://51.81.93.239:8084/hls/tmicro.m3u8
 
 #EXTINF:-1 tvg-chno="377" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Color-Visio%CC%81n-9-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Color Visión Canal 9 🇩🇴
-http://go.iptvhn.net:25461/live/7680/7680/67.m3u8
+http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/159788.m3u8
 
 #EXTINF:-1 tvg-chno="378" tvg-logo="https://canalesdominicanos.live/template/images/radios/digital-15.png",Canal 15 🇩🇴
-http://go.iptvhn.net:25461/live/7680/7680/73.m3u8
+http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/159785.m3u8
 
 #EXTINF:-1 tvg-chno="379" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/cdn.png?zoom=3&resize=100%2C70&ssl=1",CDN ¹ 🇩🇴
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
@@ -727,13 +727,13 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/p
 http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="381" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telesistemac.png?zoom=3&resize=100%2C70&ssl=1",Telesistema 🇩🇴
-http://go.iptvhn.net:25461/live/7680/7680/197.m3u8
+http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/100694.m3u8
 
 #EXTINF:-1 tvg-chno="382" tvg-logo="https://canalesdominicanos.live/template/images/radios/antena_latina_canal_7.jpg",Antena Latina ¹ 🇩🇴
 https://d1841z6ti5nz2v.cloudfront.net/Antena7DO/34cdaa501a0217ea217d8f4f083c1728.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="384" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/06/telecentro.png?zoom=3&resize=100%2C70&ssl=1",Telecentro 🇩🇴
-http://go.iptvhn.net:25461/live/7680/7680/197.m3u8
+http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/100693.m3u8
 
 #EXTINF:-1 tvg-chno="385" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/canal-4-montecarlo-en-vivo.png?zoom=3&resize=100%2C70&ssl=1",Canal 4 🇺🇾
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47055.m3u8
