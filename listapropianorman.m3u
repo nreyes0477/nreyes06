@@ -111,7 +111,7 @@ https://cloudvideo.servers10.com:8081/8230/index.m3u8
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://www.radiopop.cl/wp-content/uploads/2022/08/logo-200-px.png",TV Pop Retro
 https://v4.tustreaming.cl/poptv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://static.wixstatic.com/media/e9b9b7_356efe37d4cb4ea3aaf42fb3c975af40~mv2.png/v1/fill/w_122,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BANNER-300x169.png",Garabito TV
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://static.wixstatic.com/media/e9b9b7_356efe37d4cb4ea3aaf42fb3c975af40~mv2.png",Garabito TV
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png",Neo Tv Digital ¹ 🇦🇷
@@ -795,7 +795,7 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46628.m3u8
 #EXTINF:-1 tvg-chno="411" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo HD
 http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/91979.m3u8
 
-#EXTINF:-1 tvg-chno="412" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo 2 HD (Prueba)
+#EXTINF:-1 tvg-chno="412" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo 2 HD
 http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/91976.m3u8
 
 #EXTINF:-1 tvg-chno="413" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo 3 HD
