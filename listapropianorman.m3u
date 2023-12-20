@@ -787,16 +787,16 @@ http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/110905.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1yn-&did=5de3272ca828334125a8958b379e80ca&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=en&site_page=https%253a%252f%252fwww.canela.tv%252flinear%252fnovelisima&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1682534197&id=29260&ip=45.239.66.196&override_expiration=1500&deliveryProfileId=23762&sign=AnTU27Owgu%2FvemMRtOIK%2BuHtqV7PpNMyoU1iGCyVV%2B8%3D
 
 #EXTINF:-1 tvg-chno="400" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg",E! Entertainment HD
-http://go.iptvhn.net:25461/live/7672/7672/86.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46593.m3u8
 
 #EXTINF:-1 tvg-chno="405" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-id_m.png",ID Investigation HD
-http://go.iptvhn.net:25461/live/7672/7672/77.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46584.m3u8
 
 #EXTINF:-1 tvg-chno="409" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png",History Channel HD
-http://go.iptvhn.net:25461/live/7672/7672/127.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46639.m3u8
 
 #EXTINF:-1 tvg-chno="410" tvg-logo="https://alexgarci.com/iqc/wp-content/uploads/2022/02/LOGO-H2.png",History 2 HD
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46628.m3u8
+http://legendstv.com.mx:80/live/giltest/giltest/102126.m3u8
 
 #EXTINF:-1 tvg-chno="411" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo HD
 http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/91979.m3u8
@@ -808,42 +808,45 @@ http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/91976.m3u8
 http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/91980.m3u8
 
 #EXTINF:-1 tvg-chno="414" tvg-logo="https://www.pngkit.com/png/full/372-3727985_national-geographic-is-set-to-premier-a-new.png",Nat Geo Wild HD
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46651.m3u8
+http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/91984.m3u8
 
-#EXTINF:-1 tvg-chno="415" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png",Animal Planet HD
+#EXTINF:-1 tvg-chno="415" tvg-logo="https://www.pngkit.com/png/full/372-3727985_national-geographic-is-set-to-premier-a-new.png",Nat Geo Wild Esp HD
+http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/92940.m3u8
+
+#EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png",Animal Planet HD
 http://go.iptvhn.net:25461/live/7672/7672/14.m3u8
 
-#EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health HD
+#EXTINF:-1 tvg-chno="417" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health HD
 http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/37994.m3u8
 
-#EXTINF:-1 tvg-chno="417" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health 2 HD
+#EXTINF:-1 tvg-chno="418" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health 2 HD
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/3847.m3u8
 
-#EXTINF:-1 tvg-chno="418" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health 3 HD
+#EXTINF:-1 tvg-chno="419" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health 3 HD
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/2809.m3u8
 
-#EXTINF:-1 tvg-chno="419" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo-1080x675.png",TLC HD
+#EXTINF:-1 tvg-chno="420" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo-1080x675.png",TLC HD
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46588.m3u8
 
-#EXTINF:-1 tvg-chno="420" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery_m.png",Discovery Channel HD
+#EXTINF:-1 tvg-chno="421" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery_m.png",Discovery Channel HD
 http://go.iptvhn.net:25461/live/7672/7672/75.m3u8
 
-#EXTINF:-1 tvg-chno="421" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png",Discovery Theater HD
+#EXTINF:-1 tvg-chno="422" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png",Discovery Theater HD
 http://go.iptvhn.net:25461/live/7672/7672/72.m3u8
 
-#EXTINF:-1 tvg-chno="422" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery World HD
+#EXTINF:-1 tvg-chno="423" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery World HD
 http://go.iptvhn.net:25461/live/7672/7672/82.m3u8
 
-#EXTINF:-1 tvg-chno="423" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery Science HD
+#EXTINF:-1 tvg-chno="424" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery Science HD
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46586.m3u8
 
-#EXTINF:-1 tvg-chno="424" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png",HGTV Latino HD
+#EXTINF:-1 tvg-chno="425" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png",HGTV Latino HD
 http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/126561.m3u8
 
-#EXTINF:-1 tvg-chno="425" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png",HGTV Latino 2 HD
+#EXTINF:-1 tvg-chno="426" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png",HGTV Latino 2 HD
 http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/88446.m3u8
 
-#EXTINF:-1 tvg-chno="426" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png",Comedy Central HD
+#EXTINF:-1 tvg-chno="427" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png",Comedy Central HD
 http://go.iptvhn.net:25461/live/7672/7672/68.m3u8
 
 #EXTINF:-1 tvg-chno="430" tvg-logo="https://i4.hurimg.com/i/hurriyet/75/600x338/5dbd043ed3806c1dec53824d.jpg",Kanal Drama HD ¹
