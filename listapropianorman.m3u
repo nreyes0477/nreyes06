@@ -910,19 +910,19 @@ http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30368.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30376.m3u8
 
 #EXTINF:-1 tvg-chno="524" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tnt_m.png",TNT HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/29874.m3u8
+http://legendstv.com.mx:80/live/giltest/giltest/102391.m3u8
 
 #EXTINF:-1 tvg-chno="525" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png",TNT Series HD
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/3114.m3u8
 
 #EXTINF:-1 tvg-chno="526" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner_m.png",Warner Channel HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/37964.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46691.m3u8
 
 #EXTINF:-1 tvg-chno="527" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png",FX HD
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30339.m3u8
 
 #EXTINF:-1 tvg-chno="530" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png",DHE HD
-http://go.iptvhn.net:25461/live/7672/7672/71.m3u8
+http://go.iptvhn.net:25461/live/7680/7680/71.m3u8
 
 #EXTINF:-1 tvg-chno="570" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/640px-Starz_2008.png",Starz
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46674.m3u8
