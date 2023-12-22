@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png",Canal 2 Repretel
-http://xpz.com.mx:8080/live/Koko8164/HqkkXweEGt/11043.m3u8
+http://xpz.com.mx:8080/live/Koko8164/HqkkXweEGt/153892.m3u8
 
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/1200px-Repretel_4_logo.png",Canal 4 Repretel
 http://go.iptvhn.net:25461/live/7680/7680/3.m3u8
