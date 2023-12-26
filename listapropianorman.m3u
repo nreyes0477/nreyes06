@@ -778,7 +778,7 @@ http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/4868.m3u8
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/4897.m3u8
 
 #EXTINF:-1 tvg-chno="397" tvg-logo="https://www.newslinereport.com/online/foto_120.jpg", Venevisión Internacional ¹ 🇻🇪
-https://vod2live.univtec.com:443/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/4470400.m3u8
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 
 #EXTINF:-1 tvg-chno="398" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Ve-Plus-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Venevisión Plus 🇻🇪
 http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/110905.m3u8
