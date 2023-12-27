@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-0 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png",Canal 2 Repretel
+#EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png",Canal 2 Repretel
 https://d2t46xrpai3it5.cloudfront.net/Canal2CR/1ccdc8545fd05b83e9c57826d0de1069.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/1200px-Repretel_4_logo.png",Canal 4 Repretel
@@ -757,13 +757,13 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/47048.m3u8
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/3817.m3u8
 
 #EXTINF:-1 tvg-chno="390" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Venevision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Venevisión 🇻🇪
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/47086.m3u8
+http://legendstv.com.mx:80/live/giltest/giltest/125942.m3u8
 
 #EXTINF:-1 tvg-chno="391" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Venezolana-de-Televisi%C3%B3n-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Venezolana de TV 🇻🇪
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/151658.m3u8
 
 #EXTINF:-1 tvg-chno="392" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/IVC_Network_Logo.png/300px-IVC_Network_Logo.png",IVC 🇻🇪
-http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/158470.m3u8
+http://xpz.com.mx:8080/live/Koko8164/HqkkXweEGt/2145660.m3u8
 
 #EXTINF:-1 tvg-chno="393" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_Meridiano_TV_Venezuela.png",Meridiano 🇻🇪
 http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/110926.m3u8
@@ -774,8 +774,8 @@ https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="395" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Televen-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1",Televen ¹ 🇻🇪
 https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8
 
-#EXTINF:-1 tvg-chno="396" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/TVES-Venezuela-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",TVes ¹ 🇻🇪
-https://ls.tves.gob.ve/hls/tves.m3u8
+#EXTINF:-1 tvg-chno="396" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/TVES-Venezuela-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",TVes 🇻🇪
+http://xpz.com.mx:8080/live/Koko8164/HqkkXweEGt/2106070.m3u8
 
 #EXTINF:-1 tvg-chno="397" tvg-logo="https://www.newslinereport.com/online/foto_120.jpg", Venevisión Internacional ¹ 🇻🇪
 https://vod2live.univtec.com:443/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/4470400.m3u8
