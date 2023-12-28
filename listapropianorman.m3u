@@ -102,9 +102,6 @@ https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 #EXTINF:-1 tvg-chno="38" tvg-logo="https://www.coolstreaming.us/img/ch/image6702628824.jpg", Antena Seis TV
 https://cloudvideo.servers10.com:8081/8132/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="39" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirqYT4UVNqNQFF_sLFEb5vUZXL6-Lj0KYq98IgVv06rmxTjJ7W2OALCqVoUkEI8x1WKp-puwO85zyfIj3Oaq3VQRSiMd8lUIskIXgbeZCwgNl7ZY9ZH012JMee7NvOFk8_TGnWp99iQ0uvibiBqRJST6phe2v_UAMThQW4i_LWYHsf0StzJjiQXMFT9nQ/s1280/CANAL%203.png",Canal 3 KMK TV 🇨🇷
-https://cloudvideo.servers10.com:8081/8120/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-chno="40" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",TDtv 🇨🇷
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
 
@@ -1287,7 +1284,10 @@ http://go.iptvhn.net:25461/live/7680/7680/140.m3u8
 #EXTINF:-1 tvg-chno="747" tvg-logo="https://meganettv.fun/storage/channel-logos/cyBAclPjNIYUBWfNSni4srCyPxWyed4S1Omv3vvt.jpg",Megahist 🇨🇷
 https://vcp8.myplaytv.com:1936/meganethits/meganethits/chunklist_w686876931.m3u8
 
-#EXTINF:-1 tvg-chno="748" tvg-logo="https://amordiscostv.com/wp-content/uploads/2022/08/thumbnail_Logo-Amordiscos-600x600-alpha.png",Amordiscos TV
+#EXTINF:-1 tvg-chno="748" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirqYT4UVNqNQFF_sLFEb5vUZXL6-Lj0KYq98IgVv06rmxTjJ7W2OALCqVoUkEI8x1WKp-puwO85zyfIj3Oaq3VQRSiMd8lUIskIXgbeZCwgNl7ZY9ZH012JMee7NvOFk8_TGnWp99iQ0uvibiBqRJST6phe2v_UAMThQW4i_LWYHsf0StzJjiQXMFT9nQ/s1280/CANAL%203.png",Canal 3 KMK TV 🇨🇷
+https://cloudvideo.servers10.com:8081/8120/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno="759" tvg-logo="https://amordiscostv.com/wp-content/uploads/2022/08/thumbnail_Logo-Amordiscos-600x600-alpha.png",Amordiscos TV
 https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
 
 #EXTINF:-1 tvg-chno="760" tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png",Vintage Music
