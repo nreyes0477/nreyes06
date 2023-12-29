@@ -144,28 +144,31 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1 tvg-chno="63" tvg-logo="https://i2.paste.pics/7b84ec9ab4a77216f5de2b5a23f220a6.png",Cosmos TV ¹ 🇦🇷
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
-#EXTINF:-1 tvg-chno="64" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/vegavision-canal-18.jpg",Vegavisión Canal 18 ¹ 🇩🇴 
+#EXTINF:-1 tvg-chno="64" tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png",Canal 57 FL ¹ 🇺🇸
+https://167790.global.ssl.fastly.net:443/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno="65" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/vegavision-canal-18.jpg",Vegavisión Canal 18 ¹ 🇩🇴 
 https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
 
-#EXTINF:-1 tvg-chno="65" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/10microvision.png?zoom=3&resize=100%2C70&ssl=1",Microvisión ¹ 🇩🇴
+#EXTINF:-1 tvg-chno="66" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/10microvision.png?zoom=3&resize=100%2C70&ssl=1",Microvisión ¹ 🇩🇴
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="66" tvg-logo="https://meganettv.fun/storage/channel-logos/LywcdQKs7RYqIvOALcQGUUubqQkWDGoXWV8yORqt.jpg",Mega Tv Cine ¹ 🇵🇪
+#EXTINF:-1 tvg-chno="67" tvg-logo="https://meganettv.fun/storage/channel-logos/LywcdQKs7RYqIvOALcQGUUubqQkWDGoXWV8yORqt.jpg",Mega Tv Cine ¹ 🇵🇪
 https://hls.servidor.stream/storage/megatv.m3u8
 
-#EXTINF:-1 tvg-chno="67" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/retro-plus.jpg?itok=jRSPYmN_",Retroplus Movies ¹
+#EXTINF:-1 tvg-chno="70" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/retro-plus.jpg?itok=jRSPYmN_",Retroplus Movies ¹
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w1329731238.m3u8
 
-#EXTINF:-1 tvg-chno="68" tvg-logo="https://img1.wsimg.com/isteam/ip/0b6749a7-4d1f-4663-98a6-82c3788efdcb/RETROX%20TV%20LOGO%20PNG.png",Retrox TV ¹
+#EXTINF:-1 tvg-chno="71" tvg-logo="https://img1.wsimg.com/isteam/ip/0b6749a7-4d1f-4663-98a6-82c3788efdcb/RETROX%20TV%20LOGO%20PNG.png",Retrox TV ¹
 https://cageu.bozztv.com/ssh101/ssh101/123456789/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/RETRO-TV-PALMARES.png",Retro Tv Palmares ¹
+#EXTINF:-1 tvg-chno="72" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/RETRO-TV-PALMARES.png",Retro Tv Palmares ¹
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="70" tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png",Dreiko TV ¹ 🇵🇦 
+#EXTINF:-1 tvg-chno="73" tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png",Dreiko TV ¹ 🇵🇦 
 https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="71" tvg-logo="https://i.paste.pics/9c22ea0df4ad9c0affc8fe065875781f.png",Retro Mágico ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="74" tvg-logo="https://i.paste.pics/9c22ea0df4ad9c0affc8fe065875781f.png",Retro Mágico ¹ 🇦🇷
 https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="80" tvg-logo="http://tv.10dailythings.com/images/channels/AR/el-histonauta-tv/normal.png",El Histonauta TV ¹ 🇦🇷
@@ -503,9 +506,6 @@ https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8
 
 #EXTINF:-1 tvg-chno="279" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1403px-Logo_TVE-Internacional.svg.png",TVE Internacional ¹ 🇪🇸
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main_dvr.m3u8
-
-#EXTINF:-1 tvg-chno="280" tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png",Canal 57 FL ¹ 🇺🇸
-https://167790.global.ssl.fastly.net:443/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png",NBC Universo 🇺🇸
 http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/1939.m3u8
@@ -924,29 +924,51 @@ http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30339.m3u8
 #EXTINF:-1 tvg-chno="530" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png",DHE HD
 http://go.iptvhn.net:25461/live/7680/7680/71.m3u8
 
-#EXTINF:-1 tvg-chno="570" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/640px-Starz_2008.png",Starz
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46674.m3u8
-
-#EXTINF:-1 tvg-chno="571" tvg-logo="https://sc.dish.com/shared/images/station-logos/SCINE.png",Starz Cinema
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46665.m3u8
-
-#EXTINF:-1 tvg-chno="572" tvg-logo="https://sc.dish.com/shared/images/station-logos/SEDGE.png",Starz Edge
+#EXTINF:-1 tvg-chno="560" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/640px-Starz_2008.png",Starz
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46667.m3u8
 
-#EXTINF:-1 tvg-chno="573" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Starz_Encore_Action.svg/640px-Starz_Encore_Action.svg.png",Starz Action 
+#EXTINF:-1 tvg-chno="561" tvg-logo="https://sc.dish.com/shared/images/station-logos/SCINE.png",Starz Cinema
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46665.m3u8
+
+#EXTINF:-1 tvg-chno="563" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Starz_Encore_Action.svg/640px-Starz_Encore_Action.svg.png",Starz Action 
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46668.m3u8
 
-#EXTINF:-1 tvg-chno="574" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Starz_Encore_Classic.svg/640px-Starz_Encore_Classic.svg.png",Starz Classic
+#EXTINF:-1 tvg-chno="564" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Starz_Encore_Classic.svg/640px-Starz_Encore_Classic.svg.png",Starz Classic
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46670.m3u8
 
-#EXTINF:-1 tvg-chno="575" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Starz_Kids_%26_Family_logo.svg/640px-Starz_Kids_%26_Family_logo.svg.png",Starz Family
+#EXTINF:-1 tvg-chno="565" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Starz_Kids_%26_Family_logo.svg/640px-Starz_Kids_%26_Family_logo.svg.png",Starz Family
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46671.m3u8
 
-#EXTINF:-1 tvg-chno="577" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Starz_Encore_Suspense.svg/640px-Starz_Encore_Suspense.svg.png",Starz Suspense
+#EXTINF:-1 tvg-chno="567" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Starz_Encore_Suspense.svg/640px-Starz_Encore_Suspense.svg.png",Starz Suspense
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46672.m3u8
 
-#EXTINF:-1 tvg-chno="578" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Starz_Encore_Westerns.svg/640px-Starz_Encore_Westerns.svg.png",Starz Westerns
+#EXTINF:-1 tvg-chno="568" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Starz_Encore_Westerns.svg/640px-Starz_Encore_Westerns.svg.png",Starz Westerns
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46673.m3u8
+
+#EXTINF:-1 tvg-chno="570" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1024px-Rakuten_TV_logo.svg.png",Rakuten TV
+https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="571" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/974900e1-ac0c-4b14-b53e-709256647580-peliculas-top-rakuten-tv-1646658076-width308-quality100.png",Rakuten Pelis Top
+https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_TopFree/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="572" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/0b06f362-181a-4739-93ee-3107e97a6647-peliculas-de-drama-rakuten-tv-1646657029-width308-quality100.png",Rakuten Thriller
+https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="573" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork_negative/9c3a32bb-dc79-4a77-8044-49074061fb30-peliculas-romanticas-rakuten-tv-1646309973-width308-quality100.png",Rakuten Romántico
+https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="574" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/51e01112-6f31-49ba-b421-47031627a140-peliculas-de-accion-rakuten-tv-1646655516-width308-quality100.png
+",Rakuten Acción 
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="575" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/458ca863-1e87-4e97-8a6f-f6f51d746d28-width308-quality100.png",Rakuten Comedia
+https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="576" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/7c17c13b-c287-4d6f-9140-f9b01397db6a-familiares-rakuten-tv-1646657513-width308-quality100.png",Rakuten Familia
+https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="577" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/a4096669-588b-40b7-87ac-9acc8295882c-width308-quality100.png",Rakuten Historias
+https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="580" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO HD
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/150077.m3u8
