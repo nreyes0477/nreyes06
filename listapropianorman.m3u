@@ -970,28 +970,28 @@ https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
 https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="580" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO HD
-http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/150077.m3u8
+http://xpz.com.mx:8080/live/Koko8164/HqkkXweEGt/10885.m3u8
 
 #EXTINF:-1 tvg-chno="581" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",HBO 2 HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/37985.m3u8
+http://xpz.com.mx:8080/live/Koko8164/HqkkXweEGt/155165.m3u8
 
 #EXTINF:-1 tvg-chno="582" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",HBO Family HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/37977.m3u8
+http://xpz.com.mx:8080/live/Koko8164/HqkkXweEGt/155166.m3u8
 
 #EXTINF:-1 tvg-chno="583" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO Plus HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30343.m3u8
+http://xpz.com.mx:8080/live/Koko8164/HqkkXweEGt/154115.m3u8
 
 #EXTINF:-1 tvg-chno="584" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png",HBO Pop HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/3159.m3u8
+http://xpz.com.mx:8080/live/Koko8164/HqkkXweEGt/155168.m3u8
 
 #EXTINF:-1 tvg-chno="585" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png",HBO Signature HD
-http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/7970.m3u8
+http://xpz.com.mx:8080/live/Koko8164/HqkkXweEGt/155170.m3u8
 
 #EXTINF:-1 tvg-chno="586" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30350.m3u8
+http://xpz.com.mx:8080/live/Koko8164/HqkkXweEGt/157156.m3u8
 
 #EXTINF:-1 tvg-chno="587" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png",HBO Mundi HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/37979.m3u8
+http://xpz.com.mx:8080/live/Koko8164/HqkkXweEGt/10863.m3u8
 
 #EXTINF:-1 tvg-chno="590" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png",Universal Channel HD
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/37981.m3u8
