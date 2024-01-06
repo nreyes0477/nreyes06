@@ -19,7 +19,7 @@ http://168.181.122.234:8000/play/a039/index.m3u8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
 #EXTINF:-1 tvg-chno="9" tvg-logo="https://meganettv.fun/storage/channel-logos/ySwjxbNmEY2GbocranaMX22871ZiAP8HuV16jJZM.png",Canal 38 ¡Opa!
-https://opa.usastreams.com:3101/live/canalopalive.m3u8
+https://opa.usastreams.com:3101/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-chno="10" tvg-logo="https://static3.teletica.com/Files/Sizes/2023/6/2/logo-teletica-radio_176429888_380x260.png",Teletica Radio
 https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/chunks.m3u8
