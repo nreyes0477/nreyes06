@@ -856,16 +856,16 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46655.m3u8
 http://go.iptvhn.net:25461/live/7680/7680/54.m3u8
 
 #EXTINF:-1 tvg-chno="500" tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png",A&E HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30300.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46528.m3u8
 
 #EXTINF:-1 tvg-chno="501" tvg-logo="https://cdn.mitvstatic.com/channels/cl_amc_m.png",AMC HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30304.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46530.m3u8
 
 #EXTINF:-1 tvg-chno="502" tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png",AXN HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/3104.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46535.m3u8
 
 #EXTINF:-1 tvg-chno="505" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png",Cinecanal HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/3282.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46538.m3u8
 
 #EXTINF:-1 tvg-chno="506" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinemax_m.png",Cinemax HD
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46573.m3u8
@@ -873,41 +873,41 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46573.m3u8
 #EXTINF:-1 tvg-chno="510" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden.png",Golden HD
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46624.m3u8
 
-#EXTINF:-1 tvg-chno="511" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png",Golden Plus HD
+#EXTINF:-1 tvg-chno="511" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/420px-Golden_Edge_Logo_2020.png",Golden Edge HD
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46625.m3u8
+
+#EXTINF:-1 tvg-chno="512" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png",Golden Plus HD
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46626.m3u8
 
-#EXTINF:-1 tvg-chno="512" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden-premier.png",Golden Premier HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30342.m3u8
-
-#EXTINF:-1 tvg-chno="513" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden-premier.png",Golden Premier 2 HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/67228.m3u8
+#EXTINF:-1 tvg-chno="513" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden-premier.png",Golden Premier HD
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46627.m3u8
 
 #EXTINF:-1 tvg-chno="516" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png",Paramount HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30366.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46654.m3u8
 
 #EXTINF:-1 tvg-chno="520" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox_m.png",Star Channel HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30369.m3u8
+http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/147538.m3u8
 
 #EXTINF:-1 tvg-chno="521" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png",Sony HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/3327.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46660.m3u8
 
 #EXTINF:-1 tvg-chno="522" tvg-logo="https://cdn.mitvstatic.com/channels/mx_space_m.png",Space HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30368.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46662.m3u8
 
 #EXTINF:-1 tvg-chno="523" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png",Studio Universal HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30376.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46675.m3u8
 
 #EXTINF:-1 tvg-chno="524" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tnt_m.png",TNT HD
-http://legendstv.com.mx:80/live/giltest/giltest/102391.m3u8
+http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/291062.m3u8
 
 #EXTINF:-1 tvg-chno="525" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png",TNT Series HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/3114.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46683.m3u8
 
 #EXTINF:-1 tvg-chno="526" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner_m.png",Warner Channel HD
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46691.m3u8
 
 #EXTINF:-1 tvg-chno="527" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png",FX HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30339.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46619.m3u8
 
 #EXTINF:-1 tvg-chno="530" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png",DHE HD
 http://go.iptvhn.net:25461/live/7680/7680/71.m3u8
