@@ -799,30 +799,18 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46584.m3u8
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46639.m3u8
 
 #EXTINF:-1 tvg-chno="410" tvg-logo="https://alexgarci.com/iqc/wp-content/uploads/2022/02/LOGO-H2.png",History 2 HD
-http://legendstv.com.mx:80/live/giltest/giltest/102126.m3u8
+http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/53483.m3u8
 
 #EXTINF:-1 tvg-chno="411" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo HD
-http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/91979.m3u8
-
-#EXTINF:-1 tvg-chno="412" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo 2 HD
-http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/91976.m3u8
-
-#EXTINF:-1 tvg-chno="413" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo 3 HD
-http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/91980.m3u8
+http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/53491.m3u8
 
 #EXTINF:-1 tvg-chno="414" tvg-logo="https://www.pngkit.com/png/full/372-3727985_national-geographic-is-set-to-premier-a-new.png",Nat Geo Wild HD
-http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/91984.m3u8
-
-#EXTINF:-1 tvg-chno="415" tvg-logo="https://www.pngkit.com/png/full/372-3727985_national-geographic-is-set-to-premier-a-new.png",Nat Geo Wild Esp HD
-http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/92940.m3u8
+http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/53492.m3u8
 
 #EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png",Animal Planet HD
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46532.m3u8
+http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/114382.m3u8
 
-#EXTINF:-1 tvg-chno="417" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health HD
-http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/61209.m3u8
-
-#EXTINF:-1 tvg-chno="418" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health 2 HD
+#EXTINF:-1 tvg-chno="418" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health HD
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46582.m3u8
 
 #EXTINF:-1 tvg-chno="420" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo-1080x675.png",TLC HD
@@ -838,13 +826,10 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46587.m3u8
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46591.m3u8
 
 #EXTINF:-1 tvg-chno="424" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery Science HD
-http://legendstv.com.mx:80/live/giltest/giltest/102120.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46586.m3u8
 
 #EXTINF:-1 tvg-chno="425" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png",HGTV Latino HD
-http://xpz.com.mx:8080/live/Koko8164/HqkkXweEGt/182836.m3u8
-
-#EXTINF:-1 tvg-chno="426" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png",HGTV Latino 2 HD
-http://xpz.com.mx:8080/live/Koko8164/HqkkXweEGt/17247.m3u8
+http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/291014.m3u8
 
 #EXTINF:-1 tvg-chno="427" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png",Comedy Central HD
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46575.m3u8
