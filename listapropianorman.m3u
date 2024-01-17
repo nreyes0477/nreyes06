@@ -597,11 +597,11 @@ https://mediacp.us:8081/ctvhn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="310" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal10Honduras2019.png/revision/latest/scale-to-width-down/250?cb=20190604153849",Ten ¹ 🇭🇳
 https://62418d5684c12.streamlock.net/TENHD/TENLive.smil/chunklist_w573436473_b698000.m3u8
 
-#EXTINF:-1 tvg-chno="315" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png",Azteca Uno 🇲🇽
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30310.m3u8
+#EXTINF:-1 tvg-chno="315" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png",Azteca Uno ¹ 🇲🇽
+https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/609b243156cca108312822a6/publish/media_1500.m3u8?aid=5fea09a071a9945deebf5f7c&pid=D8gA1z8qPaIBQacuD6wWmzQaj1Zuhdyi&sid=ZS6bYtnQKdYnzIMkrve8XkoFE653RczU&uid=esmMDEMVbyQj7B0bfjh8BhetCw7bTl32&es=tvazteca-live-cdn-mdstrm-com.akamaized.net&ote=1703947466247&ot=Mlng1aDvnSXy6dQvJbscLA&proto=https&pz=us
 
 #EXTINF:-1 tvg-chno="316" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png",Azteca 7 🇲🇽
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/30309.m3u8
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46934.m3u8
 
 #EXTINF:-1 tvg-chno="317" tvg-logo="https://digitalcontent.prensariozone.com/wp-content/uploads/2021/10/Azteca_logo_trans_516x287.png",Azteca Internacional ¹ 🇲🇽
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
@@ -933,73 +933,73 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46672.m3u8
 #EXTINF:-1 tvg-chno="568" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Starz_Encore_Westerns.svg/640px-Starz_Encore_Westerns.svg.png",Starz Westerns
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46673.m3u8
 
-#EXTINF:-1 tvg-chno="570" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1024px-Rakuten_TV_logo.svg.png",Rakuten TV
+#EXTINF:-1 tvg-chno="570" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1024px-Rakuten_TV_logo.svg.png",Rakuten TV ¹
 https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="571" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/974900e1-ac0c-4b14-b53e-709256647580-peliculas-top-rakuten-tv-1646658076-width308-quality100.png",Rakuten Pelis Top
+#EXTINF:-1 tvg-chno="571" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/974900e1-ac0c-4b14-b53e-709256647580-peliculas-top-rakuten-tv-1646658076-width308-quality100.png",Rakuten Pelis Top ¹
 https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_TopFree/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="572" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/0b06f362-181a-4739-93ee-3107e97a6647-peliculas-de-drama-rakuten-tv-1646657029-width308-quality100.png",Rakuten Thriller
+#EXTINF:-1 tvg-chno="572" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/0b06f362-181a-4739-93ee-3107e97a6647-peliculas-de-drama-rakuten-tv-1646657029-width308-quality100.png",Rakuten Thriller ¹
 https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="573" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork_negative/9c3a32bb-dc79-4a77-8044-49074061fb30-peliculas-romanticas-rakuten-tv-1646309973-width308-quality100.png",Rakuten Romántico
+#EXTINF:-1 tvg-chno="573" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork_negative/9c3a32bb-dc79-4a77-8044-49074061fb30-peliculas-romanticas-rakuten-tv-1646309973-width308-quality100.png",Rakuten Romántico ¹
 https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="574" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/51e01112-6f31-49ba-b421-47031627a140-peliculas-de-accion-rakuten-tv-1646655516-width308-quality100.png",Rakuten Acción
+#EXTINF:-1 tvg-chno="574" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/51e01112-6f31-49ba-b421-47031627a140-peliculas-de-accion-rakuten-tv-1646655516-width308-quality100.png",Rakuten Acción ¹
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="575" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/458ca863-1e87-4e97-8a6f-f6f51d746d28-width308-quality100.png",Rakuten Comedia
+#EXTINF:-1 tvg-chno="575" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/458ca863-1e87-4e97-8a6f-f6f51d746d28-width308-quality100.png",Rakuten Comedia ¹
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="576" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/7c17c13b-c287-4d6f-9140-f9b01397db6a-familiares-rakuten-tv-1646657513-width308-quality100.png",Rakuten Familia
+#EXTINF:-1 tvg-chno="576" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/7c17c13b-c287-4d6f-9140-f9b01397db6a-familiares-rakuten-tv-1646657513-width308-quality100.png",Rakuten Familia ¹
 https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="577" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/a4096669-588b-40b7-87ac-9acc8295882c-width308-quality100.png",Rakuten Historias
+#EXTINF:-1 tvg-chno="577" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/a4096669-588b-40b7-87ac-9acc8295882c-width308-quality100.png",Rakuten Historias ¹
 https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="580" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO HD ¹
+#EXTINF:-1 tvg-chno="580" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO HD ²
 http://170.81.147.241:37000/play/a04v
 
-#EXTINF:-1 tvg-chno="581" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",HBO 2 HD ¹
+#EXTINF:-1 tvg-chno="581" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",HBO 2 HD ²
 http://170.81.147.241:37000/play/a052
 
-#EXTINF:-1 tvg-chno="582" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",HBO Family HD ¹
+#EXTINF:-1 tvg-chno="582" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",HBO Family HD ²
 http://170.81.147.241:37000/play/a060
 
-#EXTINF:-1 tvg-chno="583" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO Plus HD ¹
+#EXTINF:-1 tvg-chno="583" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO Plus HD ²
 http://170.81.147.241:37000/play/134
 
-#EXTINF:-1 tvg-chno="584" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png",HBO Pop HD ¹
+#EXTINF:-1 tvg-chno="584" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png",HBO Pop HD ²
 http://170.81.147.241:37000/play/a0cx
 
-#EXTINF:-1 tvg-chno="585" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png",HBO Signature HD ¹
+#EXTINF:-1 tvg-chno="585" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png",HBO Signature HD ²
 http://170.81.147.241:37000/play/a0hv
 
-#EXTINF:-1 tvg-chno="586" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme HD ¹
+#EXTINF:-1 tvg-chno="586" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme HD ²
 http://170.81.147.241:37000/play/a061
 
-#EXTINF:-1 tvg-chno="587" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png",HBO Mundi HD ¹
+#EXTINF:-1 tvg-chno="587" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png",HBO Mundi HD ²
 http://200.41.79.165:8000/play/a03r/index.m3u8
 
-#EXTINF:-1 tvg-chno="590" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png",Universal Channel HD ¹
+#EXTINF:-1 tvg-chno="590" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png",Universal Channel HD ²
 http://200.125.170.122:8000/play/a05h
 
-#EXTINF:-1 tvg-chno="591" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644505043521-Imagen.jpg",Universal Cinema HD ¹
+#EXTINF:-1 tvg-chno="591" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644505043521-Imagen.jpg",Universal Cinema HD ²
 http://200.125.170.122:8000/play/a067
 
-#EXTINF:-1 tvg-chno="592" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504904675-Imagen.jpg",Universal Comedy HD ¹
+#EXTINF:-1 tvg-chno="592" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504904675-Imagen.jpg",Universal Comedy HD ²
 http://200.125.170.122:8000/play/a04s
 
-#EXTINF:-1 tvg-chno="593" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504857757-Imagen.jpg",Universal Crime HD ¹
+#EXTINF:-1 tvg-chno="593" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504857757-Imagen.jpg",Universal Crime HD ²
 http://200.125.170.122:8000/play/a04r
 
-#EXTINF:-1 tvg-chno="594" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504463678-Imagen.jpg",Universal Premiere HD ¹
+#EXTINF:-1 tvg-chno="594" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504463678-Imagen.jpg",Universal Premiere HD ²
 http://200.125.170.122:8000/play/a04o
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1646691172846-Imagen.jpg",Universal Premiere 2 HD ¹
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1646691172846-Imagen.jpg",Universal Premiere 2 HD ²
 http://200.125.170.122:8000/play/a04p
 
-#EXTINF:-1 tvg-chno="596" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1646691382488-Imagen.jpg",Universal Reality HD ¹
+#EXTINF:-1 tvg-chno="596" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1646691382488-Imagen.jpg",Universal Reality HD ²
 http://200.125.170.122:8000/play/a04q
 
 #EXTINF:-1 tvg-chno="600" tvg-logo="https://www.municipalgrecia.com/images/2020/08/25/futv.png",Futv HD ²
