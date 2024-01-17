@@ -978,29 +978,29 @@ http://170.81.147.241:37000/play/a0hv
 #EXTINF:-1 tvg-chno="586" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme HD ¹
 http://170.81.147.241:37000/play/a061
 
-#EXTINF:-1 tvg-chno="587" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png",HBO Mundi HD
-http://xpz.com.mx:8080/live/Koko8164/HqkkXweEGt/10863.m3u8
+#EXTINF:-1 tvg-chno="587" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png",HBO Mundi HD ¹
+http://200.41.79.165:8000/play/a03r/index.m3u8
 
-#EXTINF:-1 tvg-chno="590" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png",Universal Channel HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/37981.m3u8
+#EXTINF:-1 tvg-chno="590" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png",Universal Channel HD ¹
+http://200.125.170.122:8000/play/a05h
 
-#EXTINF:-1 tvg-chno="591" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644505043521-Imagen.jpg",Universal Cinema HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/38848.m3u8
+#EXTINF:-1 tvg-chno="591" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644505043521-Imagen.jpg",Universal Cinema HD ¹
+http://200.125.170.122:8000/play/a067
 
-#EXTINF:-1 tvg-chno="592" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504904675-Imagen.jpg",Universal Comedy HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/38847.m3u8
+#EXTINF:-1 tvg-chno="592" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504904675-Imagen.jpg",Universal Comedy HD ¹
+http://200.125.170.122:8000/play/a04s
 
-#EXTINF:-1 tvg-chno="593" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504857757-Imagen.jpg",Universal Crime HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/36355.m3u8
+#EXTINF:-1 tvg-chno="593" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504857757-Imagen.jpg",Universal Crime HD ¹
+http://200.125.170.122:8000/play/a04r
 
-#EXTINF:-1 tvg-chno="594" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504463678-Imagen.jpg",Universal Premiere HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/36356.m3u8
+#EXTINF:-1 tvg-chno="594" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504463678-Imagen.jpg",Universal Premiere HD ¹
+http://200.125.170.122:8000/play/a04o
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1646691172846-Imagen.jpg",Universal Premiere 2 HD
-http://legendstv.com.mx:80/live/giltest/giltest/102396.m3u8
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1646691172846-Imagen.jpg",Universal Premiere 2 HD ¹
+http://200.125.170.122:8000/play/a04p
 
-#EXTINF:-1 tvg-chno="596" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1646691382488-Imagen.jpg",Universal Reality HD
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/36357.m3u8
+#EXTINF:-1 tvg-chno="596" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1646691382488-Imagen.jpg",Universal Reality HD ¹
+http://200.125.170.122:8000/play/a04q
 
 #EXTINF:-1 tvg-chno="600" tvg-logo="https://www.municipalgrecia.com/images/2020/08/25/futv.png",Futv HD ²
 http://45.190.187.226:58092/play/a00q
