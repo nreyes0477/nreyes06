@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://pics.filmaffinity.com/good_boy-659593567-mmed.jpg",Película Good Boy (2022)
-http://cineplay.vip:8080/movie/Hugolopez8/udwEhDSzFA/245408.mkv
-
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png",Canal 2 Repretel
 https://d2t46xrpai3it5.cloudfront.net/Canal2CR/1ccdc8545fd05b83e9c57826d0de1069.sdp/playlist.m3u8
 
