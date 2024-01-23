@@ -552,8 +552,8 @@ http://xpz.com.mx:8080/live/Koko8164/HqkkXweEGt/2106835.m3u8
 #EXTINF:-1 tvg-chno="292" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo TP 🇺🇸
 http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/114352.m3u8
 
-#EXTINF:-1 tvg-chno="293" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo TP 🇺🇸
-http://xpz.com.mx:8080/live/Koko8164/HqkkXweEGt/2141352.m3u8
+#EXTINF:-1 tvg-chno="293" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo FL 🇺🇸
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
 #EXTINF:-1 tvg-chno="294" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo SF 🇺🇸
 http://xpz.com.mx:8080/live/Koko8164/HqkkXweEGt/2154464.m3u8
