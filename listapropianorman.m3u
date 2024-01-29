@@ -1374,4 +1374,29 @@ http://go.iptvhn.net:25461/live/7680/7680/62.m3u8
 #EXTINF:-1 tvg-chno="784" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="800" tvg-logo="https://static.wikia.nocookie.net/bigbrother/images/7/77/Argentina10_Logo.jpg",Gran Hermano Arg (Cam1)
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2197216.m3u8
 
+#EXTINF:-1 tvg-chno="801" tvg-logo="https://static.wikia.nocookie.net/bigbrother/images/7/77/Argentina10_Logo.jpg",Gran Hermano Arg (Cam2)
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2197215.m3u8
+
+#EXTINF:-1 tvg-chno="802" tvg-logo="https://static.wikia.nocookie.net/bigbrother/images/7/77/Argentina10_Logo.jpg",Gran Hermano Arg (Cam3)
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2197213.m3u8
+
+#EXTINF:-1 tvg-chno="803" tvg-logo="https://static.wikia.nocookie.net/bigbrother/images/7/77/Argentina10_Logo.jpg",Gran Hermano Arg (Cam4)
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2197214.m3u8
+
+#EXTINF:-1 tvg-chno="805" tvg-logo="https://gestion.pe/resizer/AAuyxddNnCKV5saPBvGmoF7BURM=/992x661/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KOLUIJJMGFARRPK2IBZ6SVTOC4.jpg",La Casa de los Famosos (Cam1)
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2122291.m3u8
+
+#EXTINF:-1 tvg-chno="806" tvg-logo="https://gestion.pe/resizer/AAuyxddNnCKV5saPBvGmoF7BURM=/992x661/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KOLUIJJMGFARRPK2IBZ6SVTOC4.jpg",La Casa de los Famosos (Cam2)
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2197243.m3u8
+
+#EXTINF:-1 tvg-chno="808" tvg-logo="https://gestion.pe/resizer/AAuyxddNnCKV5saPBvGmoF7BURM=/992x661/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KOLUIJJMGFARRPK2IBZ6SVTOC4.jpg",La Casa de los Famosos (Cam3)
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2197244.m3u8
+
+#EXTINF:-1 tvg-chno="809" tvg-logo="https://gestion.pe/resizer/AAuyxddNnCKV5saPBvGmoF7BURM=/992x661/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KOLUIJJMGFARRPK2IBZ6SVTOC4.jpg",La Casa de los Famosos (Cam4)
+http://offshore.lat:8080/live/LUISAFR6/9144390132/364264.m3u8
+
+#EXTINF:-1 tvg-chno="810" tvg-logo="https://gestion.pe/resizer/AAuyxddNnCKV5saPBvGmoF7BURM=/992x661/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KOLUIJJMGFARRPK2IBZ6SVTOC4.jpg",La Casa de los Famosos (Cam5)
+http://offshore.lat:8080/live/LUISAFR6/9144390132/364265.m3u8
