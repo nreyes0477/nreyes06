@@ -324,8 +324,8 @@ http://190.92.25.125:8000/play/a07n/index.m3u8
 #EXTINF:-1 tvg-chno="204" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png",Telefe Internacional 🇦🇷
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=ae866421-c694-f942-4d47-42dce7d69f7f&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1 tvg-chno="205" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_13max_HD.png/180px-Logo_13max_HD.png",13 Max Televisión ¹ 🇦🇷
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+#EXTINF:-1 tvg-chno="205" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/266px-Telefe_Rosario_%282018%29.png",Telefe Rosario ¹ 🇦🇷
+https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/master.m3u8?hdnea=st=1706744812~exp=1706921212~acl=/hls/live/2033413-b/canal5rosario/TOK/*~hmac=d7973f0581214ab997052402575a266ea42e8561428aa14f0c4a1ebdca2196c7
 
 #EXTINF:-1 tvg-chno="206" tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg",El Nueve 🇦🇷
 http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/81270.m3u8
