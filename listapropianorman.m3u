@@ -687,20 +687,20 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/47001.m3u8
 #EXTINF:-1 tvg-chno="355" tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png",Unicanal 🇵🇾
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47037.m3u8
 
-#EXTINF:-1 tvg-chno="360" tvg-logo="https://gzcsecurity.com/img/nosotros/seguridad/americatv-min.jpg",América TV HD 🇵🇪
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46980.m3u8
+#EXTINF:-1 tvg-chno="360" tvg-logo="https://gzcsecurity.com/img/nosotros/seguridad/americatv-min.jpg",América TV HD ¹ 🇵🇪
+https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
-#EXTINF:-1 tvg-chno="361" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png",Latina HD 🇵🇪
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/47003.m3u8
+#EXTINF:-1 tvg-chno="361" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png",Latina HD ¹ 🇵🇪
+https://live-zlr1.tv360.bitel.com.pe/bitel/latina/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
-#EXTINF:-1 tvg-chno="362" tvg-logo="https://cdn.mitvstatic.com/channels/pe_panamericana-tv_m.png",Panamericana 🇵🇪
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/47013.m3u8
+#EXTINF:-1 tvg-chno="362" tvg-logo="https://cdn.mitvstatic.com/channels/pe_panamericana-tv_m.png",Panamericana HD ¹ 🇵🇪
+https://live-zlr1.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
-#EXTINF:-1 tvg-chno="363" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/500px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png",Tv Perú HD 🇵🇪
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/47036.m3u8
+#EXTINF:-1 tvg-chno="363" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/500px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png",Tv Perú HD ¹ 🇵🇪
+https://live-zlr1.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
-#EXTINF:-1 tvg-chno="364" tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png",ATV HD 🇵🇪
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46983.m3u8
+#EXTINF:-1 tvg-chno="364" tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png",ATV HD ¹ 🇵🇪
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="365" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png",Canal N 🇵🇪
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46989.m3u8
