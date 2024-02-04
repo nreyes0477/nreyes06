@@ -724,7 +724,7 @@ https://nbculocallive.akamaized.net:443/hls/live/2037499/puertorico/stream1/mast
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47039.m3u8
 
 #EXTINF:-1 tvg-chno="372" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/america-teve.png?zoom=2&resize=218%2C150&ssl=1",América TeVe Miami ¹ 🇵🇷
-https://tgn2.bozztv.com/americateve/americateve1/americateve1/playlist.m3u8
+https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="373" tvg-logo="https://www.spanishbroadcasting.com/wp-content/uploads/sites/5/2020/12/thumbnail_pr-feature-thumbnail-megatv-ratings.jpg",Mega TV 🇵🇷
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47007.m3u8
