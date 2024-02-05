@@ -513,8 +513,8 @@ https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
 #EXTINF:-1 tvg-chno="280" tvg-logo="https://img.onesignal.com/t/9386b748-b30f-4f48-946a-361ce4f6c8cc.jpg",Mega TV ¹ 🇺🇸
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/.m3u8
 
-#EXTINF:-1 tvg-chno="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión MI 🇺🇸
-http://xpz.com.mx:8080/live/Koko8164/HqkkXweEGt/201924.m3u8
+#EXTINF:-1 tvg-chno="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión XX ¹ 🇺🇸
+http://168.227.22.18:1935/live/mobile-045/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="286" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png",Galavisión MX 🇺🇸
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46951.m3u8
