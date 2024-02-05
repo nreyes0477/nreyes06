@@ -504,11 +504,8 @@ https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8
 #EXTINF:-1 tvg-chno="274" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1403px-Logo_TVE-Internacional.svg.png",TVE Internacional ¹ 🇪🇸
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main_dvr.m3u8
 
-#EXTINF:-1 tvg-chno="277" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png",NBC Universo 🇺🇸
-http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/1939.m3u8
-
-#EXTINF:-1 tvg-chno="278" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png",NBC Universo US 🇺🇸
-http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/38659.m3u8
+#EXTINF:-1 tvg-chno="277" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png",NBC Universo ¹ 🇺🇸
+http://168.227.22.18:1935/live/mobile-065/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="279" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/300px-Estrella_TV_Logo_2020.png",Estrella TV ¹ 🇺🇸
 https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
@@ -519,35 +516,11 @@ https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/.m3u8
 #EXTINF:-1 tvg-chno="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión MI 🇺🇸
 http://xpz.com.mx:8080/live/Koko8164/HqkkXweEGt/201924.m3u8
 
-#EXTINF:-1 tvg-chno="282" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión LA 🇺🇸
-http://xpz.com.mx:8080/live/Koko8164/HqkkXweEGt/10898.m3u8
-
-#EXTINF:-1 tvg-chno="283" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión CH 🇺🇸
-http://xpz.com.mx:8080/live/Koko8164/HqkkXweEGt/155511.m3u8
-
-#EXTINF:-1 tvg-chno="284" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png",Galavisión MI 🇺🇸
-http://xpz.com.mx:8080/live/Koko8164/HqkkXweEGt/2185319.m3u8
-
-#EXTINF:-1 tvg-chno="285" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png",Galavisión NY 🇺🇸
-http://xpz.com.mx:8080/live/Koko8164/HqkkXweEGt/2185329.m3u8
-
 #EXTINF:-1 tvg-chno="286" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png",Galavisión MX 🇺🇸
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46951.m3u8
 
-#EXTINF:-1 tvg-chno="287" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png",Galavisión SC 🇺🇸
-http://xpz.com.mx:8080/live/Koko8164/HqkkXweEGt/2185337.m3u8
-
-#EXTINF:-1 tvg-chno="288" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png",Galavisión SL 🇺🇸
-http://xpz.com.mx:8080/live/Koko8164/HqkkXweEGt/2185332.m3u8
-
 #EXTINF:-1 tvg-chno="289" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás NY 🇺🇸
 http://xpz.com.mx:8080/live/Koko8164/HqkkXweEGt/2106842.m3u8
-
-#EXTINF:-1 tvg-chno="290" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás PX 🇺🇸
-http://xpz.com.mx:8080/live/Koko8164/HqkkXweEGt/2106834.m3u8
-
-#EXTINF:-1 tvg-chno="291" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás SC 🇺🇸
-http://xpz.com.mx:8080/live/Koko8164/HqkkXweEGt/2106835.m3u8
 
 #EXTINF:-1 tvg-chno="292" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo ² 🇺🇸
 http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
@@ -563,9 +536,6 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
 #EXTINF:-1 tvg-chno="296" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo LA 🇺🇸
 https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
-
-#EXTINF:-1 tvg-chno="297" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo NJ 🇺🇸
-http://live.budtvlight.com:25461/live/bud-339830/776c98c240/130090.m3u8
 
 #EXTINF:-1 tvg-chno="298" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo CA ¹ 🇺🇸
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
