@@ -613,7 +613,7 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46953.m3u8
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="325" tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png",Azteca Cinema ¹ 🇲🇽
-https://stream.ads.ottera.tv/cl/240204cmvgfn3ldlegkrguku1g/1280x720_3071200_0_f.m3u8?i=475_5400
+http://168.227.22.18:1935/live/mobile-120/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="330" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal 2 ¹ 🇳🇮
 https://cootv.cootel.com.ni:8095/Canal02_CooTel/playlist.m3u8
