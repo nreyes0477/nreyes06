@@ -216,8 +216,11 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46946.m3u8
 #EXTINF:-1 tvg-chno="101" tvg-logo="https://cdn-profiles.tunein.com/s320627/images/logoq.png",Estrella News ¹ 🇺🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-estrellamedia/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1",CNN Chile 🇨🇱
+#EXTINF:-1 tvg-chno="104" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1",CNN Chile 🇨🇱
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46788.m3u8
+
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png",Canal 24 Horas HD ¹ 🇨🇱
+https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 
 #EXTINF:-1 tvg-chno="106" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Meganoticias-en-vivo-Online.png",Meganoticias ¹ 🇨🇱
 https://ythls.armelin.one/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
@@ -417,8 +420,8 @@ https://marine2.miplay.cl/tvmas/playlist.m3u8
 #EXTINF:-1 tvg-chno="237" tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-13-c_m.png",Canal 13C 🇨🇱
 http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/290947.m3u8
 
-#EXTINF:-1 tvg-chno="238" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png",Canal 24 Horas HD 🇨🇱
-http://live.budtvlight.com:25461/live/bud-1064932/aad49440f9/38537.m3u8
+#EXTINF:-1 tvg-chno="238" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png",Canal 24 Horas HD ¹ 🇨🇱
+https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 
 #EXTINF:-1 tvg-chno="239" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png",Caracol HD 🇨🇴
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46774.m3u8
