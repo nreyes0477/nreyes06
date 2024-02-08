@@ -291,31 +291,34 @@ http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/133838.m3u8
 #EXTINF:-1 tvg-chno="134" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/Noticias-Caracol-en-vivo-Online.png",Noticias Caracol ¹ 🇨🇴
 https://ythls.armelin.one/channel/UC2Xq2PK-got3Rtz9ZJ32hLQ.m3u8
 
-#EXTINF:-1 tvg-chno="135" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/DW-German-Live-TV-Online.png?resize=1068%2C601&ssl=1",DW Español ¹ 🇩🇪
+#EXTINF:-1 tvg-chno="136" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png",TV Perú Noticias ¹ 🇵🇪
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+
+#EXTINF:-1 tvg-chno="137" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/DW-German-Live-TV-Online.png?resize=1068%2C601&ssl=1",DW Español ¹ 🇩🇪
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-chno="136" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/250px-Russia-today-logo.svg.png",RT Español ¹ 🇷🇺
+#EXTINF:-1 tvg-chno="138" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/250px-Russia-today-logo.svg.png",RT Español ¹ 🇷🇺
 https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
 
-#EXTINF:-1 tvg-chno="137" tvg-logo="https://cdn.mitvstatic.com/channels/ar_france-24-espanol_m.png",France 24 HD ¹ 🇨🇵
+#EXTINF:-1 tvg-chno="139" tvg-logo="https://cdn.mitvstatic.com/channels/ar_france-24-espanol_m.png",France 24 HD ¹ 🇨🇵
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
-#EXTINF:-1 tvg-chno="138" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png",Euronews ¹ 🇪🇺
+#EXTINF:-1 tvg-chno="140" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png",Euronews ¹ 🇪🇺
 https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="140" tvg-logo="https://vpitv.com/pywhidub/elementor/thumbs/logo-vpi-b-263x300-1-p2z3incdsrpngf2yhvuk1g838o90xfwksu0oidoueg.png",VPItv ¹ 🇻🇪
+#EXTINF:-1 tvg-chno="141" tvg-logo="https://vpitv.com/pywhidub/elementor/thumbs/logo-vpi-b-263x300-1-p2z3incdsrpngf2yhvuk1g838o90xfwksu0oidoueg.png",VPItv ¹ 🇻🇪
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="141" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Globovision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Globovisión ¹ 🇻🇪
+#EXTINF:-1 tvg-chno="142" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Globovision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Globovisión ¹ 🇻🇪
 https://ythls.armelin.one/channel/UCfJtBtmhnIyfUB6RqXeImMw.m3u8
 
-#EXTINF:-1 tvg-chno="142" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/04/Telesur-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Telesur ¹ 🇻🇪
+#EXTINF:-1 tvg-chno="143" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/04/Telesur-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Telesur ¹ 🇻🇪
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="143" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/cgtn-espa%C3%B1ol.png?resize=500%2C300&ssl=1",CGTN Español ¹ 🇨🇳
+#EXTINF:-1 tvg-chno="144" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/cgtn-espa%C3%B1ol.png?resize=500%2C300&ssl=1",CGTN Español ¹ 🇨🇳
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-chno="144" tvg-logo="https://ocopen.org/wp-content/uploads/2021/11/OCOPEN-Negocios.png",Negocios TV ¹ 🇪🇦
+#EXTINF:-1 tvg-chno="145" tvg-logo="https://ocopen.org/wp-content/uploads/2021/11/OCOPEN-Negocios.png",Negocios TV ¹ 🇪🇦
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
 #EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",Canal 13 FHD ¹ 🇦🇷
