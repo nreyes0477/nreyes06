@@ -834,8 +834,8 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46591.m3u8
 #EXTINF:-1 tvg-chno="424" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery Science HD
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46586.m3u8
 
-#EXTINF:-1 tvg-chno="425" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png",HGTV Latino HD
-http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/291014.m3u8
+#EXTINF:-1 tvg-chno="425" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png",HGTV Latino HD ²
+http://138.59.177.34:8000/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-chno="427" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png",Comedy Central HD
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46575.m3u8
