@@ -337,7 +337,7 @@ http://190.92.25.125:8000/play/a07n/index.m3u8
 https://ythls.armelin.one/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 
 #EXTINF:-1 tvg-chno="204" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/266px-Telefe_Rosario_%282018%29.png",Telefe Rosario ¹ 🇦🇷
-https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/master.m3u8?hdnea=st=1707352432~exp=1707528832~acl=/hls/live/2033413-b/canal5rosario/TOK/*~hmac=75de8bd3ae101d816539f281ea676e7decdd4389f614e635fdf494e7d96ca66c
+https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/master.m3u8?hdnea=st=1707525498~exp=1707701898~acl=/hls/live/2033413-b/canal5rosario/TOK/*~hmac=2ba1e4a6f32eee06a6dcce9550f216449beb06ddf6e1b8c6bc84e7c4ae35d291
 
 #EXTINF:-1 tvg-chno="205" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png",Telefe Internacional 🇦🇷
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=ae866421-c694-f942-4d47-42dce7d69f7f&deviceDNT=0&deviceModel=0
