@@ -186,40 +186,43 @@ https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="84" tvg-logo="https://lh3.googleusercontent.com/-A_RaYdHsdSU/XxzKXkCODJI/AAAAAAAA3Y0/elHa2TXc-z8HpetZx_GzDK0vaepcN4xLACK8BGAsYHg/s0/2020-07-25.png",UCL ¹ 🇵🇾
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
-#EXTINF:-1 tvg-chno="85" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/TEC_TV_-_2014_logo.png",Tec TV ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="85" tvg-logo="https://i.imgur.com/2WirGqb.png",Inti TV ¹ 🇪🇨
+https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
+
+#EXTINF:-1 tvg-chno="86" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/TEC_TV_-_2014_logo.png",Tec TV ¹ 🇦🇷
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 
-#EXTINF:-1 tvg-chno="86" tvg-logo="https://www.deel.com/hs-fs/hubfs/Platzi%20logo.png?width=1000&height=387&name=Platzi%20logo.png",Platzi TV ¹ 🇨🇱
+#EXTINF:-1 tvg-chno="87" tvg-logo="https://www.deel.com/hs-fs/hubfs/Platzi%20logo.png?width=1000&height=387&name=Platzi%20logo.png",Platzi TV ¹ 🇨🇱
 https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream/647101bf042584086ee61125/playout/master.m3u8?aid=512e13acaca1ebcd2f000279&pid=I1k4eYp90Oxi99kr9HJY2U4CvbUIl4sq&sid=LlJmPGWpvkrazpsi9uieXWItcaxDMUzF&uid=UjifAUpl60Fbx4RRhWAVMmNJOqIzZREU&es=us-b4-p-e-zs14.cdn.mdstrm.com&ote=1698909443102&ot=Yf0TNLds2g2i8WW83lv3tQ&proto=https&pz=us
 
-#EXTINF:-1 tvg-chno="87" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ConcienciaTV_logo_letras.png/1280px-ConcienciaTV_logo_letras.png",ConCiencia TV 🇻🇪
+#EXTINF:-1 tvg-chno="88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ConcienciaTV_logo_letras.png/1280px-ConcienciaTV_logo_letras.png",ConCiencia TV 🇻🇪
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47084.m3u8
 
-#EXTINF:-1 tvg-chno="88" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal Te lo cuento ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="89" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal Te lo cuento ¹ 🇦🇷
 https://stmv1.cnarlatam.com/telocuento/telocuento/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="89" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal Astronet ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="90" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal Astronet ¹ 🇦🇷
 https://stmv1.cnarlatam.com/astronet/astronet/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="90" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal Mundo TV ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="91" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal Mundo TV ¹ 🇦🇷
 https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="91" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal Techscience365 ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="92" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal Techscience365 ¹ 🇦🇷
 https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="92" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal Xtremaanimal ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="93" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal Xtremaanimal ¹ 🇦🇷
 https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="93" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Vale-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1",Vale TV ¹ 🇻🇪
+#EXTINF:-1 tvg-chno="94" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Vale-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1",Vale TV ¹ 🇻🇪
 https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cnn-en-espanol_m.png",CNN Español 🇺🇸
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46946.m3u8
 
-#EXTINF:-1 tvg-chno="101" tvg-logo="https://cnnespanol.cnn.com/wp-content/uploads/2021/10/VERT-LOGO-in-white-2.png?w=335",CNN Conclusiones 🇺🇸
+#EXTINF:-1 tvg-chno="101" tvg-logo="https://cnnespanol.cnn.com/wp-content/uploads/2021/10/VERT-LOGO-in-white-2.png?w=335",CNN Conclusiones ¹ 🇺🇸
 https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="102" tvg-logo="https://st1.uvnimg.com/14/d5/0170ef7f436cac49f7dd6264549e/24.16.9.png",Noticias Univisión 24/7 🇺🇸
+#EXTINF:-1 tvg-chno="102" tvg-logo="https://st1.uvnimg.com/14/d5/0170ef7f436cac49f7dd6264549e/24.16.9.png",Noticias Univisión 24/7 ¹ 🇺🇸
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="103" tvg-logo="https://cdn-profiles.tunein.com/s320627/images/logoq.png",Estrella News ¹ 🇺🇸
