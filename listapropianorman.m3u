@@ -861,6 +861,18 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46655.m3u8
 #EXTINF:-1 tvg-chno="436" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/1024px-Claro_TV_wordmark.svg.png",Canal Claro HD
 http://go.iptvhn.net:25461/live/7682/7682/54.m3u8
 
+#EXTINF:-1 tvg-chno="437" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/220px-%C2%A1HOLA%21TVlogo.jpg",¡Hola! TV
+http://168.227.22.18:1935/live/mobile-013/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="438" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/125px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png",Mas Chic
+http://138.59.177.34:8000/play/a00r/index.m3u8
+
+#EXTINF:-1 tvg-chno="439" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png",Lifetime
+http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="440" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Clic_%28TV_channel%29_logo_2021.png",Clic!
+http://168.227.22.18:1935/live/mobile-119/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="500" tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png",A&E HD
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46528.m3u8
 
