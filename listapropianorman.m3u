@@ -354,17 +354,17 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",Canal 13 HD 🇦🇷
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46713.m3u8
 
-#EXTINF:-1 tvg-chno="202" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe HD ² 🇦🇷 
-http://190.92.25.125:8000/play/a07n/index.m3u8
+#EXTINF:-1 tvg-chno="202" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe HD 🇦🇷 
+http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/81285.m3u8
 
-#EXTINF:-1 tvg-chno="203" tvg-logo="https://i.ibb.co/0yFbZj4/Captura.png",El Ocho TV (Telefe) ¹ 🇦🇷
-https://ythls.armelin.one/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
+#EXTINF:-1 tvg-chno="203" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Canal_Siete_Jujuy.png/266px-Canal_Siete_Jujuy.png",Canal 7 Jujuy (Telefe) ¹ 🇦🇷
+https://stream.arcast.live:443/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w2144142934_b1146880.m3u8
 
 #EXTINF:-1 tvg-chno="204" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/266px-Telefe_Rosario_%282018%29.png",Telefe Rosario ¹ 🇦🇷
 https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/master.m3u8?hdnea=st=1707525498~exp=1707701898~acl=/hls/live/2033413-b/canal5rosario/TOK/*~hmac=2ba1e4a6f32eee06a6dcce9550f216449beb06ddf6e1b8c6bc84e7c4ae35d291
 
 #EXTINF:-1 tvg-chno="205" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png",Telefe Internacional 🇦🇷
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=ae866421-c694-f942-4d47-42dce7d69f7f&deviceDNT=0&deviceModel=0
+http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/291226.m3u8
 
 #EXTINF:-1 tvg-chno="206" tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg",El Nueve 🇦🇷
 http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/81270.m3u8
