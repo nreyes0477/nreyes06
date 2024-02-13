@@ -463,7 +463,7 @@ https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 http://191.97.14.38:4000/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-chno="240" tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg",RCN HD ² 🇨🇴
-http://191.97.14.38:4000/play/a03w/index.m3u8
+http://138.186.20.13:23200/play/a0fm
 
 #EXTINF:-1 tvg-chno="241" tvg-logo="https://1.bp.blogspot.com/-jslL1CIeqqk/YaVCAmvGxvI/AAAAAAAADDo/wPaGYipC7Eo_6NVRuL0XESV1lzjq6xhLgCLcBGAsYHQ/s16000/rcnmas.jpg",RCN Más+ ¹ 🇨🇴
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
