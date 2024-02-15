@@ -364,7 +364,7 @@ https://stream.arcast.live:443/c8mdp/ngrp:c8mdp_all/chunklist_w1845721960_b16629
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="205" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/266px-Telefe_Rosario_%282018%29.png",Telefe Rosario ¹ 🇦🇷
-https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/master.m3u8?hdnea=st=1707700185~exp=1707876585~acl=/hls/live/2033413-b/canal5rosario/TOK/*~hmac=e5ce05f9ed0ca077af20ba587af17ead13b1dd2f24361159813548922692a6ef
+https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/master.m3u8?hdnea=st=1707954734~exp=1708131134~acl=/hls/live/2033413-b/canal5rosario/TOK/*~hmac=4a47aab4c4c1e39580516a082e21b87eaed7f869e5567c40a9a63eaefa3f703e
 
 #EXTINF:-1 tvg-chno="206" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png",Telefe Internacional 🇦🇷
 http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/291226.m3u8
