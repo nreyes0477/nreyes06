@@ -1167,8 +1167,8 @@ http://go.iptvhn.net:25461/live/7682/7682/65.m3u8
 #EXTINF:-1 tvg-chno="645" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",DirecTV Sports AR
 http://go.iptvhn.net:25461/live/7682/7682/219.m3u8
 
-#EXTINF:-1 tvg-chno="650" tvg-logo="https://banner2.cleanpng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg",Sky Sports Liga Española USA
-http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/133854.m3u8
+#EXTINF:-1 tvg-chno="650" tvg-logo="https://banner2.cleanpng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg",Sky Sports Liga Española USA ²
+http://181.78.105.146:2000/play/a08m/index.m3u8
 
 #EXTINF:-1 tvg-chno="651" tvg-logo="https://banner2.cleanpng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg",Sky Sports Liga Inglesa USA
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/129300.m3u8
@@ -1182,11 +1182,14 @@ https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="657" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/640px-DAZN_LaLiga_2023_Logo.svg.png",Danz La Liga USA
 http://go.iptvhn.net:25461/live/7682/7682/217.m3u8
 
-#EXTINF:-1 tvg-chno="658" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Gol Tv HD ²
+#EXTINF:-1 tvg-chno="658" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Gol Tv HD ² 🇵🇪
 http://190.90.154.73:8080/play/a08t/index.m3u8
 
 #EXTINF:-1 tvg-chno="659" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/f9y6oe1692444384.png",La Liga TV Bar
 http://go.iptvhn.net:25461/live/7682/7682/218.m3u8
+
+#EXTINF:-1 tvg-chno="659" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GOL_PLAY.svg/250px-GOL_PLAY.svg.png",Gol Play ¹ 🇪🇦
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-chno="660" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports-mediano.png",A y M Sports 🇲🇽
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/151831.m3u8
