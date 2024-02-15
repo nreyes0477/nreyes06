@@ -361,7 +361,7 @@ http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/81285.m3u8
 https://stream.arcast.live:443/c8mdp/ngrp:c8mdp_all/chunklist_w1845721960_b1662976.m3u8
 
 #EXTINF:-1 tvg-chno="204" tvg-logo="https://i.imgur.com/QvF4l2t.png",13Max TV (Telefe) ¹ 🇦🇷
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="205" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/266px-Telefe_Rosario_%282018%29.png",Telefe Rosario ¹ 🇦🇷
 https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/master.m3u8?hdnea=st=1707954734~exp=1708131134~acl=/hls/live/2033413-b/canal5rosario/TOK/*~hmac=4a47aab4c4c1e39580516a082e21b87eaed7f869e5567c40a9a63eaefa3f703e
