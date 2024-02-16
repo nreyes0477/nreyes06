@@ -537,8 +537,8 @@ http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/90938.m3u8
 #EXTINF:-1 tvg-chno="269" tvg-logo="https://logos.streamsites.eu/2551_cuatro_overview.png",Cuatro HD ¹ 🇪🇸
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-chno="270" tvg-logo="https://logos.streamsites.eu/2531_telecinco_overview.png",Telecinco HD ¹ 🇪🇸
-https://tvnoov.com/fa/telecinco.m3u8
+#EXTINF:-1 tvg-chno="270" tvg-logo="https://logos.streamsites.eu/2531_telecinco_overview.png",Telecinco HD ² 🇪🇸
+http://45.159.14.109:4022/udp/239.194.0.26:3301
 
 #EXTINF:-1 tvg-chno="271" tvg-logo="https://logos.streamsites.eu/2697_la-sexta_overview.png",La Sexta HD ¹ 🇪🇸
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.m3u8
