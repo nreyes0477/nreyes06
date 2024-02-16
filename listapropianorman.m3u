@@ -1060,7 +1060,7 @@ http://138.59.177.34:8000/play/a06z/index.m3u8
 http://138.59.177.34:8000/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-chno="602" tvg-logo="https://www.municipalgrecia.com/images/2020/08/25/futv.png",Futv HD (Opc 3) ²
-http://200.125.170.123:8000/play/a05u
+http://45.5.116.178:8000/play/a05k/index.m3u8
 
 #EXTINF:-1 tvg-chno="603" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR ²
 http://181.78.101.55:56903/play/a094/index.m3u8
