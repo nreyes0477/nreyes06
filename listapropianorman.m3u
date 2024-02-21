@@ -1080,8 +1080,8 @@ http://131.161.53.2:8000/play/a014/index.m3u8
 #EXTINF:-1 tvg-chno="609" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 HD (Opc 2)
 http://go.iptvhn.net:25461/live/7682/7682/181.m3u8
 
-#EXTINF:-1 tvg-chno="611" tvg-logo="https://www.telcocom.com.ar/img/canales/espn.png",ESPN Norte HD
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/47107.m3u8
+#EXTINF:-1 tvg-chno="611" tvg-logo="https://www.telcocom.com.ar/img/canales/espn.png",ESPN Norte HD ²
+http://168.194.171.237:8000/play/a0aq/index.m3u8
 
 #EXTINF:-1 tvg-chno="612" tvg-logo="https://www.telcocom.com.ar/img/canales/espn-2.png",ESPN 2 Norte HD
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47098.m3u8
