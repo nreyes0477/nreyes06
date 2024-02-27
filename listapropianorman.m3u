@@ -553,7 +553,7 @@ https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main_dvr.m3u8
 
 #EXTINF:-1 tvg-chno="277" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png",NBC Universo ¹ 🇺🇸
-http://168.227.22.18:1935/live/mobile-065/playlist.m3u8
+http://tv.boxdigital.org:8080/live/Maic924EA/kUMzBKcYdaqz/194068.m3u8
 
 #EXTINF:-1 tvg-chno="279" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/300px-Estrella_TV_Logo_2020.png",Estrella TV ¹ 🇺🇸
 https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
