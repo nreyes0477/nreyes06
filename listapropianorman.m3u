@@ -570,6 +570,9 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46951.m3u8
 #EXTINF:-1 tvg-chno="289" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás SA 🇺🇸
 http://tv.boxdigital.org:8080/live/Maic924EA/kUMzBKcYdaqz/182282.m3u8
 
+#EXTINF:-1 tvg-chno="290" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás LA 🇺🇸
+http://tv.boxdigital.org:8080/live/Maic924EA/kUMzBKcYdaqz/182287.m3u8
+
 #EXTINF:-1 tvg-chno="292" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo ² 🇺🇸
 http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
 
