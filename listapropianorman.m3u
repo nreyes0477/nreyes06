@@ -153,9 +153,6 @@ https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 #EXTINF:-1 tvg-chno="60" tvg-logo="https://meganettv.fun/storage/channel-logos/LywcdQKs7RYqIvOALcQGUUubqQkWDGoXWV8yORqt.jpg",Mega Tv Cine ¹ 🇵🇪
 https://hls.servidor.stream/storage/megatv.m3u8
 
-#EXTINF:-1 tvg-chno="61" tvg-logo="https://wowelsalvador.com/imagen/logo2.png",WoW TV ¹ 🇸🇻
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w724624257_b700000_slen.m3u8
-
 #EXTINF:-1 tvg-chno="62" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/retro-plus.jpg?itok=jRSPYmN_",Retroplus Movies ¹ 🇨🇱
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w1329731238.m3u8
 
