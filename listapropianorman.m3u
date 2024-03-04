@@ -184,7 +184,7 @@ https://6362ca6f1fc28.streamlock.net:443/cinecartoon/cinecartoon/playlist.m3u8
 https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="85" tvg-logo="http://tv.10dailythings.com/images/channels/AR/el-histonauta-tv/normal.png",El Histonauta TV ¹ 🇦🇷
-https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
+https://stmv6.voxtvhd.com.br/elhistonautatv/elhistonautatv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="86" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/200px-Ucvtvlogo2014mejorado.png",UCV Chile ¹ 🇨🇱
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
@@ -214,16 +214,16 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/47084.m3u8
 https://stmv1.cnarlatam.com/telocuento/telocuento/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="95" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal Astronet ¹ 🇦🇷
-https://stmv1.cnarlatam.com/astronet/astronet/playlist.m3u8
+https://stmv6.voxtvhd.com.br/astronet/astronet/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="96" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal Mundo TV ¹ 🇦🇷
-https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
+https://stmv4.voxtvhd.com.br/elbuenvivir/elbuenvivir/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="97" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal Techscience365 ¹ 🇦🇷
-https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
+#EXTINF:-1 tvg-chno="97" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal TechsCience365 ¹ 🇦🇷
+https://stmv6.voxtvhd.com.br/techscience365/techscience365/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="98" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal Xtremaanimal ¹ 🇦🇷
-https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+#EXTINF:-1 tvg-chno="98" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal XtremaAnimal ¹ 🇦🇷
+https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="99" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Vale-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1",Vale TV ¹ 🇻🇪
 https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
