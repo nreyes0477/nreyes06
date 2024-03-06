@@ -564,8 +564,8 @@ http://168.227.22.18:1935/live/mobile-045/playlist.m3u8
 #EXTINF:-1 tvg-chno="286" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png",Galavisión MX 🇺🇸
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46951.m3u8
 
-#EXTINF:-1 tvg-chno="289" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás SA 🇺🇸
-http://tv.boxdigital.org:8080/live/Maic924EA/kUMzBKcYdaqz/182282.m3u8
+#EXTINF:-1 tvg-chno="289" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás NY 🇺🇸
+http://offshore.lat:8080/live/LUISAFR6/9144390132/232392.m3u8
 
 #EXTINF:-1 tvg-chno="290" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás LA 🇺🇸
 http://offshore.lat:8080/live/LUISAFR6/9144390132/232390.m3u8
