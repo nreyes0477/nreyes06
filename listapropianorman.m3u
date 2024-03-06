@@ -567,16 +567,16 @@ http://offshore.lat:8080/live/LUISAFR6/9144390132/263375.m3u8
 #EXTINF:-1 tvg-chno="283" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión LA 🇺🇸
 http://offshore.lat:8080/live/LUISAFR6/9144390132/232351.m3u8
 
-#EXTINF:-1 tvg-chno="286" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png",Galavisión NY 🇺🇸
+#EXTINF:-1 tvg-chno="285" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png",Galavisión NY 🇺🇸
 http://offshore.lat:8080/live/LUISAFR6/9144390132/278768.m3u8
 
-#EXTINF:-1 tvg-chno="287" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png",Galavisión LA 🇺🇸
+#EXTINF:-1 tvg-chno="286" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png",Galavisión LA 🇺🇸
 http://offshore.lat:8080/live/LUISAFR6/9144390132/278769.m3u8
 
-#EXTINF:-1 tvg-chno="289" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás NY 🇺🇸
+#EXTINF:-1 tvg-chno="288" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás NY 🇺🇸
 http://offshore.lat:8080/live/LUISAFR6/9144390132/232392.m3u8
 
-#EXTINF:-1 tvg-chno="290" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás LA 🇺🇸
+#EXTINF:-1 tvg-chno="289" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás LA 🇺🇸
 http://offshore.lat:8080/live/LUISAFR6/9144390132/232390.m3u8
 
 #EXTINF:-1 tvg-chno="292" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo ² 🇺🇸
@@ -586,16 +586,22 @@ http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
 http://nextlevelvpn.nl:8080/live/5069577162/9495726015/366951.m3u8
 
 #EXTINF:-1 tvg-chno="294" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo NY  🇺🇸
-http://nextlevelvpn.nl:8080/live/5069577162/9495726015/366962.m3u8
+http://offshore.lat:8080/live/LUISAFR6/9144390132/361614.m3u8
 
-#EXTINF:-1 tvg-chno="295" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo FL 🇺🇸
+#EXTINF:-1 tvg-chno="295" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo PX  🇺🇸
+http://offshore.lat:8080/live/LUISAFR6/9144390132/361622.m3u8
+
+#EXTINF:-1 tvg-chno="296" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo TX  🇺🇸
+http://offshore.lat:8080/live/LUISAFR6/9144390132/256429.m3u8
+
+#EXTINF:-1 tvg-chno="297" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo FL ¹ 🇺🇸
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
 #EXTINF:-1 tvg-chno="298" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo CA ¹ 🇺🇸
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 #EXTINF:-1 tvg-chno="299" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/telemundo.jpg",Telemundo Internacional 🇺🇸
-http://go.iptvhn.net:25461/live/7680/7680/196.m3u8
+http://offshore.lat:8080/live/LUISAFR6/9144390132/232337.m3u8
 
 #EXTINF:-1 tvg-chno="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_5_HN_logo.png/180px-Canal_5_HN_logo.png",Canal 5 ¹ 🇭🇳
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
@@ -1496,6 +1502,3 @@ http://xpz.com.mx:8080/live/Koko8164/8164koko/2199060.m3u8
 
 #EXTINF:-1 tvg-chno="816" tvg-logo="https://www.tropicanafm.com/wp-content/uploads/2024/01/09012024-la-casa-de-los-famosos-col-768x432.jpg",LCDLF Colombia (Baño)
 http://xpz.com.mx:8080/live/Koko8164/8164koko/2199056.m3u8
-
-#EXTINF:-1 tvg-chno="817" tvg-logo="https://www.tropicanafm.com/wp-content/uploads/2024/01/09012024-la-casa-de-los-famosos-col-768x432.jpg",LCDLF Colombia (Baño)
-https://newultra.xyz:8443/live/998650697tv/7b896vg/403.m3u8
