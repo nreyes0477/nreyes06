@@ -1120,7 +1120,7 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/47119.m3u8
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47123.m3u8
 
 #EXTINF:-1 tvg-chno="620" tvg-logo="https://www.telcocom.com.ar/img/canales/fox-sports-3.png",Fox Sports Premium MX
-https://newultra.xyz:8443/live/998650697tv/7b896vg/540.m3u8
+http://ultrapremium.cloud:8080/live/998650697tv/7b896vg/540.m3u8
 
 #EXTINF:-1 tvg-chno="621" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Sur HD ²
 http://179.1.146.21:8000/play/a08t/index.m3u8
