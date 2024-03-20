@@ -516,7 +516,7 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/manife
 #EXTINF:-1 tvg-chno="267" tvg-logo="https://logos.streamsites.eu/2516_antena3_overview.png",Antena 3 ² 🇪🇸
 http://138.59.177.34:8000/play/a00s/index.m3u8
 
-#EXTINF:-1 tvg-chno="268" tvg-logo="https://mma.prnewswire.com/media/1638822/logo_internacional_cuadrado.jpg?w=200",Antena 3 Internacional 1 🇪🇸
+#EXTINF:-1 tvg-chno="268" tvg-logo="https://mma.prnewswire.com/media/1638822/logo_internacional_cuadrado.jpg?w=200",Antena 3 Internacional ¹ 🇪🇸
 http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="269" tvg-logo="https://logos.streamsites.eu/2551_cuatro_overview.png",Cuatro HD ¹ 🇪🇸
