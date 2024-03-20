@@ -646,7 +646,7 @@ https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="323" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/724px-Canal_5_2016.svg.png",Canal 5 ¹ 🇲🇽
-https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
+https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 
 #EXTINF:-1 tvg-chno="324" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/10/Multimedios-TV-Canal-6-en-vivo-Online.png?resize=1068%2C601&ssl=1",Multimedios Canal 6 ¹ 🇲🇽
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
