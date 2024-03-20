@@ -684,8 +684,8 @@ http://138.59.177.34:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-chno="335" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TN8_Nicaragua.svg/1280px-TN8_Nicaragua.svg.png",TN8 🇳🇮
 http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/111272.m3u8
 
-#EXTINF:-1 tvg-chno="340" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png",Tv Max 🇵🇦
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/47034.m3u8
+#EXTINF:-1 tvg-chno="340" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png",Tv Max ¹ 🇵🇦
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-chno="341" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png",TVN ¹ 🇵🇦
 https://bcovlive-a.akamaihd.net:443/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
