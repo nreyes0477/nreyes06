@@ -1362,6 +1362,9 @@ https://vcp8.myplaytv.com:1936/meganethits/meganethits/chunklist_w686876931.m3u8
 #EXTINF:-1 tvg-chno="748" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirqYT4UVNqNQFF_sLFEb5vUZXL6-Lj0KYq98IgVv06rmxTjJ7W2OALCqVoUkEI8x1WKp-puwO85zyfIj3Oaq3VQRSiMd8lUIskIXgbeZCwgNl7ZY9ZH012JMee7NvOFk8_TGnWp99iQ0uvibiBqRJST6phe2v_UAMThQW4i_LWYHsf0StzJjiQXMFT9nQ/s1280/CANAL%203.png",Canal 3 KMK TV 🇨🇷
 https://cloudvideo.servers10.com:8081/8120/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-chno="749" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Telehit_logo_2020.png/240px-Telehit_logo_2020.png",Telehit ¹
+https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="759" tvg-logo="https://amordiscostv.com/wp-content/uploads/2022/08/thumbnail_Logo-Amordiscos-600x600-alpha.png",Amordiscos TV
 https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
 
@@ -1427,6 +1430,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df
 
 #EXTINF:-1 tvg-chno="780" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Memorias TV
 https://mediacp.us:8081/8002/index.m3u8
+
+#EXTINF:-1 tvg-chno="781" tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/logo-MEMORIAS-TV-png.png",Memorias Tv Classic ¹
+https://rpn3.bozztv.com/ssh101/ssh101/memoriasc2/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="782" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",SuperClassics TV
 https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
