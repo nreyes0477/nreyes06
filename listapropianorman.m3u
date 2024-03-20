@@ -49,7 +49,7 @@ http://go.iptvhn.net:25461/live/7682/7682/4.m3u8
 https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="19" tvg-logo="https://costaricatelevision.com/sites/default/files/2022-09/_Telered%252520Television.png",Telered
-https://62fc643fbf1aa.streamlock.net/prueba1/prueba1/playlist.m3u8
+https://k20.usastreams.com:8081/telered/index.m3u8
 
 #EXTINF:-1 tvg-chno="20" tvg-logo="https://telesistemacr.com/wp-content/uploads/2023/03/LOGO-TELESISTEMA-1-1.png",Telesistema
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1753795779.m3u8
@@ -63,35 +63,38 @@ https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-logo="https://i2.paste.pics/b89953d1d7327bb67304a18eb0bc354a.png",Tica Visión
 https://62fc643fbf1aa.streamlock.net:443/HBTV/HBTV/chunklist_w1022063060.m3u8
 
-#EXTINF:-1 tvg-chno="27" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telesur-costa-rica.png",Telesur CR
+#EXTINF:-1 tvg-chno="26" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telesur-costa-rica.png",Telesur CR
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 
-#EXTINF:-1 tvg-chno="28" tvg-logo="http://costaricatelevision.com/sites/default/files/styles/tv_list/public/2022-09/los-santos-tv-costa-rica.png.webp?itok=ki81X3MW",Los Santos TV
+#EXTINF:-1 tvg-chno="27" tvg-logo="http://costaricatelevision.com/sites/default/files/styles/tv_list/public/2022-09/los-santos-tv-costa-rica.png.webp?itok=ki81X3MW",Los Santos TV
 https://lstv.duckdns.org:449/hls/lstv.m3u8
 
-#EXTINF:-1 tvg-chno="29" tvg-logo="https://i2.paste.pics/83fb31ad5340bda41b8e6f5930e1d4fc.png",TV Curre PZ
+#EXTINF:-1 tvg-chno="28" tvg-logo="https://i2.paste.pics/83fb31ad5340bda41b8e6f5930e1d4fc.png",TV Curre PZ
 http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="30" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/san-jose-tv-costa-rica.png",San José TV
+#EXTINF:-1 tvg-chno="29" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/san-jose-tv-costa-rica.png",San José TV
 https://rtmp.info:443/sanjosetv/envivo/chunklist_w1786370191.m3u8
 
-#EXTINF:-1 tvg-chno="31" tvg-logo="https://www.radioextremacr.com/img/logo.png",Extrema TV
+#EXTINF:-1 tvg-chno="30" tvg-logo="https://www.radioextremacr.com/img/logo.png",Extrema TV
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="32" tvg-logo="https://www.tvsantacruzcr.net/img/logotvsc_2.png",Santa Cruz TV
+#EXTINF:-1 tvg-chno="31" tvg-logo="https://www.tvsantacruzcr.net/img/logotvsc_2.png",Santa Cruz TV
 https://rtmp.info/tvsantacruz/envivo/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="33" tvg-logo="https://i2.paste.pics/e82bca2c48209fe7ff1a9a559f36689f.png",Cartago Medios TV
-https://ssh101.bozztv.com/ssh101/tvcdstreaming/chunks.m3u8
+#EXTINF:-1 tvg-chno="32" tvg-logo="https://i2.paste.pics/e82bca2c48209fe7ff1a9a559f36689f.png",Cartago Medios TV
+https://acceso.radiosportstv.online:3162/live/cartagomedioslive.m3u8
 
-#EXTINF:-1 tvg-chno="34" tvg-logo="https://i2.paste.pics/3238d7371f23b09198d794d2979411b9.png",Nicoya TV
+#EXTINF:-1 tvg-chno="33" tvg-logo="https://i2.paste.pics/3238d7371f23b09198d794d2979411b9.png",Nicoya TV
 https://59ef525c24caa.streamlock.net:443/nicoyatv/nicoyatv/chunklist_w221500905.m3u8
 
-#EXTINF:-1 tvg-chno="35" tvg-logo="https://apkaio.com/storage/images/com/sacnet/gca/telecom/multizonestelevision/com.sacnet.gca.telecom.multizonestelevision_1.png",Canal Multizonas TV
+#EXTINF:-1 tvg-chno="34" tvg-logo="https://apkaio.com/storage/images/com/sacnet/gca/telecom/multizonestelevision/com.sacnet.gca.telecom.multizonestelevision_1.png",Canal Multizonas TV
 https://cloudvideo.servers10.com:8081/8068/index.m3u8
 
-#EXTINF:-1 tvg-chno="36" tvg-logo="https://geomedios.fcs.ucr.ac.cr/wp-content/uploads/2019/07/Limon_TV_Logo.png",Limón TV
+#EXTINF:-1 tvg-chno="35" tvg-logo="https://geomedios.fcs.ucr.ac.cr/wp-content/uploads/2019/07/Limon_TV_Logo.png",Limón TV
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="36" tvg-logo="https://i.imgur.com/G0BRKFc.jpeg",Caribe Tv CR
+https://rpn3.bozztv.com/ssh101/ssh101/sinart/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="37" tvg-logo="https://meganettv.fun/storage/channel-logos/HIunLcAm2EnbWrdUuNHbcjAD6BcwX1yOHGaK1Vjg.jpg",Zurqui TV
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
@@ -513,8 +516,8 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/manife
 #EXTINF:-1 tvg-chno="267" tvg-logo="https://logos.streamsites.eu/2516_antena3_overview.png",Antena 3 ² 🇪🇸
 http://138.59.177.34:8000/play/a00s/index.m3u8
 
-#EXTINF:-1 tvg-chno="268" tvg-logo="https://mma.prnewswire.com/media/1638822/logo_internacional_cuadrado.jpg?w=200",Antena 3 Internacional 🇪🇸
-http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/90938.m3u8
+#EXTINF:-1 tvg-chno="268" tvg-logo="https://mma.prnewswire.com/media/1638822/logo_internacional_cuadrado.jpg?w=200",Antena 3 Internacional 1 🇪🇸
+http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="269" tvg-logo="https://logos.streamsites.eu/2551_cuatro_overview.png",Cuatro HD ¹ 🇪🇸
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
@@ -579,8 +582,8 @@ http://offshore.lat:8080/live/LUISAFR6/9144390132/361622.m3u8
 #EXTINF:-1 tvg-chno="296" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo TX  🇺🇸
 http://offshore.lat:8080/live/LUISAFR6/9144390132/256429.m3u8
 
-#EXTINF:-1 tvg-chno="299" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/telemundo.jpg",Telemundo Internacional 🇺🇸
-http://offshore.lat:8080/live/LUISAFR6/9144390132/232337.m3u8
+#EXTINF:-1 tvg-chno="299" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/telemundo.jpg",Telemundo Internacional ¹ 🇺🇸
+http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_5_HN_logo.png/180px-Canal_5_HN_logo.png",Canal 5 ¹ 🇭🇳
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
