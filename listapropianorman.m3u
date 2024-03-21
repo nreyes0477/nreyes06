@@ -477,26 +477,26 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/47550.m3u8
 #EXTINF:-1 tvg-chno="250" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/233px-EcuadorTV_logo.png",Ecuador TV ¹ 🇪🇨
 https://samson.streamerr.co:8081/akira/index.m3u8
 
-#EXTINF:-1 tvg-chno="251" tvg-logo="https://canalunoecuador.com/wp-content/uploads/2023/04/logo_uno.jpg",Canal Uno ¹ 🇪🇨
-https://cp.panelchs.com:1936/8122/8122/playlist.m3u8
+#EXTINF:-1 tvg-chno="251" tvg-logo="https://canalunoecuador.com/wp-content/uploads/2023/04/logo_uno.jpg",Canal Uno  🇪🇨
+http://newultra.xyz:8080/live/998650697tv/7b896vg/63125.m3u8
 
 #EXTINF:-1 tvg-chno="252" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/400px-Ecuavisa_Logo_2019.png",Ecuavisa ¹ 🇪🇨
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
 
 #EXTINF:-1 tvg-chno="253" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",Gamavisión 🇪🇨
-http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/318.m3u8
+http://newultra.xyz:8080/live/998650697tv/7b896vg/63131.m3u8
 
 #EXTINF:-1 tvg-chno="254" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oromar_logo.png/300px-Oromar_logo.png",Oromar TV ² 🇪🇨
 http://177.234.230.226:8010/play/a02e/index.m3u8
 
 #EXTINF:-1 tvg-chno="255" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/300px-Rts_logo.png",RTS TV 🇪🇨
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46871.m3u8
+http://newultra.xyz:8080/live/998650697tv/7b896vg/63138.m3u8
 
 #EXTINF:-1 tvg-chno="256" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png",TC Televisión 🇪🇨
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46872.m3u8
+http://newultra.xyz:8080/live/998650697tv/7b896vg/63140.m3u8
 
 #EXTINF:-1 tvg-chno="257" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/Televicentro-Ecuador-TVC-en-vivo-Online.png",TVC ¹ 🇪🇨
-https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/playlist.m3u8
+https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-chno="260" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/TCS_2_2016.png/300px-TCS_2_2016.png",Canal 2 ¹ 🇸🇻
 https://telecorporacion.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-video=2000000-audio_0=64000.m3u8
