@@ -615,8 +615,8 @@ https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 #EXTINF:-1 tvg-chno="309" tvg-logo="https://image.roku.com/developer_channels/prod/51815da9f86794012aed4f696ce25f08ca883f2560a1a6c1fb0361bb16716c87.png",CTV Internacional ¹ 🇭🇳
 https://mediacp.us:8081/ctvhn/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="310" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal10Honduras2019.png/revision/latest/scale-to-width-down/250?cb=20190604153849",Ten ¹ 🇭🇳
-https://62418d5684c12.streamlock.net/TENHD/TENLive.smil/chunklist_w573436473_b698000.m3u8
+#EXTINF:-1 tvg-chno="310" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal10Honduras2019.png/revision/latest/scale-to-width-down/250?cb=20190604153849",Ten 🇭🇳
+http://go.iptvhn.net:25461/live/7682/7682/32.m3u8
 
 #EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png",Azteca Uno (Opc 1) ¹ 🇲🇽
 https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/609b243156cca108312822a6/publish/media_1500.m3u8?aid=5fea09a071a9945deebf5f7c&pid=D8gA1z8qPaIBQacuD6wWmzQaj1Zuhdyi&sid=ZS6bYtnQKdYnzIMkrve8XkoFE653RczU&uid=esmMDEMVbyQj7B0bfjh8BhetCw7bTl32&es=tvazteca-live-cdn-mdstrm-com.akamaized.net&ote=1703947466247&ot=Mlng1aDvnSXy6dQvJbscLA&proto=https&pz=us
