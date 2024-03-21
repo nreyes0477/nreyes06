@@ -790,13 +790,13 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/47055.m3u8
 http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/135976.m3u8
 
 #EXTINF:-1 tvg-chno="387" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/canal-7-punta-del-este-2.png?w=800&ssl=1",Canal 7 🇺🇾
-http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/140516.m3u8
+https://vxlive.cdn.antel.net.uy/auth_V_Canal_7_Punta,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWxfN19QdW50YSUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzEwOTk3NTUwJnJhbmRvbT10V2VyN0JoYjhOJmMtaXA9NDUuNjUuMTg5LjYwJmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTE5NiZwdWJsaWNfaWQ9MnNoODMsMDljZjM0ZmM0YjgyZjZkMzMxYTlkNDRjMjJhNDhiNTExOWFmY2RlYTkwOTE3YzI2OTE3NmZjMTIwNmMzYjcxNw==/vxfmt=hls/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="388" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png?zoom=3&resize=100%2C70&ssl=1",Canal 10 🇺🇾
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/47048.m3u8
+http://newultra.xyz:8080/live/998650697tv/7b896vg/61932.m3u8
 
 #EXTINF:-1 tvg-chno="389" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/Teledoce-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Teledoce 🇺🇾
-http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/3817.m3u8
+http://newultra.xyz:8080/live/998650697tv/7b896vg/61946.m3u8
 
 #EXTINF:-1 tvg-chno="390" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Venevision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Venevisión ² 🇻🇪
 http://38.41.8.1:8000/play/a03v
