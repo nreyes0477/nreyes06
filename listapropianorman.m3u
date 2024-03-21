@@ -441,8 +441,8 @@ https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="236" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",TV + HD ² 🇨🇱
 https://marine2.miplay.cl/tvmas/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="237" tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-13-c_m.png",Canal 13C 🇨🇱
-http://latinoamericatv.vip:8080/live/CarlosD/CarlosD/290947.m3u8
+#EXTINF:-1 tvg-chno="237" tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-13-c_m.png",Canal 13C ¹ 🇨🇱
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
 #EXTINF:-1 tvg-chno="238" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png",Canal 24 Horas HD ¹ 🇨🇱
 https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
