@@ -1095,14 +1095,14 @@ http://go.iptvhn.net:25461/live/7682/7682/92.m3u8
 #EXTINF:-1 tvg-chno="614" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 4 Norte HD
 http://go.iptvhn.net:25461/live/7682/7682/94.m3u8
 
-#EXTINF:-1 tvg-chno="615" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 5 Norte HD
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/47128.m3u8
+#EXTINF:-1 tvg-chno="615" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 5 Norte HD ²
+http://181.78.73.221:8000/play/a140/index.m3u8
 
 #EXTINF:-1 tvg-chno="616" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 6 Norte HD
 http://go.iptvhn.net:25461/live/7682/7682/102.m3u8
 
-#EXTINF:-1 tvg-chno="617" tvg-logo="https://www.telcocom.com.ar/img/canales/fox-sports.png",Fox Sports MX ¹
-http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
+#EXTINF:-1 tvg-chno="617" tvg-logo="https://www.telcocom.com.ar/img/canales/fox-sports.png",Fox Sports MX
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/47128.m3u8
 
 #EXTINF:-1 tvg-chno="618" tvg-logo="https://www.telcocom.com.ar/img/canales/fox-sports-2.png",Fox Sports 2 MX
 http://rasaiptv.com:8080/live/andres90@/@andres90/228500.m3u8
