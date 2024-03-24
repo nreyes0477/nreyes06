@@ -1195,7 +1195,7 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/47095.m3u8
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47093.m3u8
 
 #EXTINF:-1 tvg-chno="650" tvg-logo="https://banner2.cleanpng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg",Sky Sports Liga Española USA ²
-http://181.78.105.146:2000/play/a08m/index.m3u8
+http://45.5.119.155:8090/play/a04e/index.m3u8
 
 #EXTINF:-1 tvg-chno="651" tvg-logo="https://banner2.cleanpng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg",Sky Sports Liga Inglesa USA
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/129300.m3u8
@@ -1254,8 +1254,8 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/47137.m3u8
 #EXTINF:-1 tvg-chno="672" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Tigo Sports Honduras 🇭🇳
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/18206.m3u8
 
-#EXTINF:-1 tvg-chno="673" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Tigo Sports Guatemala 🇬🇹
-https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-chno="673" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Tigo Sports Guatemala ² 🇬🇹
+http://45.5.119.155:8090/play/a04i/index.m3u8
 
 #EXTINF:-1 tvg-chno="674" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos-fc.png",Cableonda 🇵🇦 
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/151799.m3u8
