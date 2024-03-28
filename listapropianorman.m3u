@@ -1194,11 +1194,8 @@ http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/151374.m3u8
 #EXTINF:-1 tvg-chno="647" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",DirecTV Sports + AR 🇦🇷
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47093.m3u8
 
-#EXTINF:-1 tvg-chno="650" tvg-logo="https://banner2.cleanpng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg",Sky Sports Liga Española USA ²
-http://45.5.119.155:8090/play/a04e/index.m3u8
-
-#EXTINF:-1 tvg-chno="651" tvg-logo="https://banner2.cleanpng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg",Sky Sports Liga Inglesa USA
-http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/129300.m3u8
+#EXTINF:-1 tvg-chno="650" tvg-logo="https://banner2.cleanpng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg",Sky Sports Liga Española ² 🇺🇸
+http://181.78.105.146:31589/play/a08m/index.m3u8
 
 #EXTINF:-1 tvg-chno="653" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Bein Sports HD * 🇺🇸
 http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/61188.m3u8
