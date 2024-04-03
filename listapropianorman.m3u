@@ -511,7 +511,7 @@ https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c
 http://go.iptvhn.net:25461/live/7672/7672/31.m3u8
 
 #EXTINF:-1 tvg-chno="265" tvg-logo="https://logos.streamsites.eu/2756_tve-en-directo-la-1_overview.png",La 1 ¹ 🇪🇸
-https://bit.ly/48Xf5t6?profile=inspirationFreetv.m3u8
+https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 #EXTINF:-1 tvg-chno="266" tvg-logo="https://logos.streamsites.eu/2894_la-2-en-directo_overview.png",La 2 ¹ 🇪🇸
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/manifest.m3u8
@@ -529,7 +529,7 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manife
 http://45.159.14.109:4022/udp/239.194.0.26:3301
 
 #EXTINF:-1 tvg-chno="271" tvg-logo="https://logos.streamsites.eu/2697_la-sexta_overview.png",La Sexta HD ¹ 🇪🇸
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.m3u8
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/index.m3u8
 
 #EXTINF:-1 tvg-chno="272" tvg-logo="https://logos.streamsites.eu/3488_mega_overview.png",Mega HD ¹ 🇪🇸
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:15_HD.smil/manifest.m3u8
