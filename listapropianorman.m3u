@@ -1098,26 +1098,26 @@ http://rasaiptv.com:8080/live/andres90@/@andres90/228515.m3u8
 #EXTINF:-1 tvg-chno="618" tvg-logo="https://www.telcocom.com.ar/img/canales/fox-sports-3.png",Fox Sports Premium MX
 http://rasaiptv.com:8080/live/andres90@/@andres90/11572.m3u8
 
-#EXTINF:-1 tvg-chno="619" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Sur HD ²
-http://8.242.175.221:8000/play/a03x/index.m3u8
+#EXTINF:-1 tvg-chno="619" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Sur HD ¹
+http://bantel.iptvperu.tv:1935/transcoderip/ESPN_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="620" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 2 Sur HD ²
-http://8.242.175.221:8000/play/a03s/index.m3u8
+#EXTINF:-1 tvg-chno="620" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 2 Sur HD ¹
+http://bantel.iptvperu.tv:1935/transcoderip/ESPN2_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="621" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 3 Sur HD ²
-http://8.242.175.221:8000/play/a00z/index.m3u8
+#EXTINF:-1 tvg-chno="621" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 3 Sur HD ¹
+http://bantel.iptvperu.tv:1935/transcoderip/ESPN3_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="622" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 4 Sur HD ²
-http://190.60.40.37:12500/play/a019/index.m3u8
+#EXTINF:-1 tvg-chno="622" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 4 Sur HD ¹
+http://bantel.iptvperu.tv:1935/transcoderip/espnextrabk_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="623" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 5 Sur HD ²
-http://8.242.175.221:8000/play/a01a/index.m3u8
+#EXTINF:-1 tvg-chno="623" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 5 Sur HD ¹
+http://bantel.iptvperu.tv:1935/transcoderip/ESPN5_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="624" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 6 Sur HD ²
-http://8.242.175.221:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-chno="624" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 6 Sur HD ¹
+http://bantel.iptvperu.tv:1935/transcoderip/ESPN6_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="625" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 7 Sur HD ²
-http://8.242.175.221:8000/play/a01b/index.m3u8
+#EXTINF:-1 tvg-chno="625" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 7 Sur HD ¹
+http://bantel.iptvperu.tv:1935/transcoderip/ESPN7_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="626" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Premium Sur HD ²
 http://8.242.175.221:8000/play/a02u/index.m3u8
