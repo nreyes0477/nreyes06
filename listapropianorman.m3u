@@ -339,11 +339,11 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/47084.m3u8
 #EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",Canal 13 FHD ¹ 🇦🇷
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",Canal 13 HD * 🇦🇷
+#EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",Canal 13 HD 🇦🇷 √
 http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/29982.m3u8
 
-#EXTINF:-1 tvg-chno="202" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe HD 🇦🇷 
-https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/master.m3u8?hdnea=st=1712191294~exp=1712367694~acl=/hls/live/2033413-b/canal5rosario/TOK/*~hmac=14be55d1c952599ca966d949c85f45dec6b76edaad71dd0b960b556a5377367f
+#EXTINF:-1 tvg-chno="202" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe HD 🇦🇷 √
+http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/163708.m3u8
 
 #EXTINF:-1 tvg-chno="203" tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2023/02/Mi-8-alta-06.png",Canal 8 (Telefe) ¹ 🇦🇷
 https://stream.arcast.live:443/c8mdp/ngrp:c8mdp_all/chunklist_w1845721960_b1662976.m3u8
