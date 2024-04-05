@@ -1143,46 +1143,49 @@ http://go.iptvhn.net:25461/live/7682/7682/102.m3u8
 #EXTINF:-1 tvg-chno="633" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Deportes Latino HD 🇺🇲 √
 http://dns.clientetv.net:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10875.m3u8
 
-#EXTINF:-1 tvg-chno="634" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Deportes HD 🇺🇲
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/47116.m3u8
+#EXTINF:-1 tvg-chno="634" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Deportes HD 🇺🇲 √
+http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/130357.m3u8
 
-#EXTINF:-1 tvg-chno="635" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports Sur
+#EXTINF:-1 tvg-chno="636" tvg-logo="https://www.elgrupoinformatico.com/static/Noticias/2023/04/fubotv-latino-portad-1200x675.jpg",Fubo Latino HD 🇺🇲 √
+http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/194161.m3u8
+
+#EXTINF:-1 tvg-chno="637" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports Sur
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47131.m3u8
 
-#EXTINF:-1 tvg-chno="636" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports 2 Sur
+#EXTINF:-1 tvg-chno="638" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports 2 Sur
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47121.m3u8
 
-#EXTINF:-1 tvg-chno="637" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports 3 Sur
+#EXTINF:-1 tvg-chno="639" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports 3 Sur
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47125.m3u8
 
-#EXTINF:-1 tvg-chno="638" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports Chile
+#EXTINF:-1 tvg-chno="640" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports Chile
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47126.m3u8
 
-#EXTINF:-1 tvg-chno="639" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports Premium Chile 
+#EXTINF:-1 tvg-chno="641" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports Premium Chile 
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47117.m3u8
 
-#EXTINF:-1 tvg-chno="640" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png",TUDN MX ¹ 🇲🇽
+#EXTINF:-1 tvg-chno="642" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png",TUDN MX ¹ 🇲🇽
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="641" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png",TUDN USA 🇺🇸 √
+#EXTINF:-1 tvg-chno="643" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png",TUDN USA 🇺🇸 √
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10888
 
-#EXTINF:-1 tvg-chno="642" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Zona TUDN USA ¹ 🇺🇸
+#EXTINF:-1 tvg-chno="644" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Zona TUDN USA ¹ 🇺🇸
 https://dc0yy1cy2mqs1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cmi4c1ko7cgug/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 tvg-chno="643" tvg-logo="https://images.squarespace-cdn.com/content/v1/58597a19e58c62ba7fa48bf9/1626211994542-XUWFSKZ5AW26W6RBLXOA/1200px-Claro_Sports_logo.svg.png",Claro Sports MX 🇲🇽
+#EXTINF:-1 tvg-chno="645" tvg-logo="https://images.squarespace-cdn.com/content/v1/58597a19e58c62ba7fa48bf9/1626211994542-XUWFSKZ5AW26W6RBLXOA/1200px-Claro_Sports_logo.svg.png",Claro Sports MX 🇲🇽
 http://go.iptvhn.net:25461/live/7682/7682/63.m3u8
 
-#EXTINF:-1 tvg-chno="644" tvg-logo="https://images.squarespace-cdn.com/content/v1/58597a19e58c62ba7fa48bf9/1626211994542-XUWFSKZ5AW26W6RBLXOA/1200px-Claro_Sports_logo.svg.png",Claro Sports 2 MX 🇲🇽
+#EXTINF:-1 tvg-chno="646" tvg-logo="https://images.squarespace-cdn.com/content/v1/58597a19e58c62ba7fa48bf9/1626211994542-XUWFSKZ5AW26W6RBLXOA/1200px-Claro_Sports_logo.svg.png",Claro Sports 2 MX 🇲🇽
 http://go.iptvhn.net:25461/live/7682/7682/65.m3u8
 
-#EXTINF:-1 tvg-chno="645" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",DirecTV Sports AR 🇦🇷
+#EXTINF:-1 tvg-chno="647" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",DirecTV Sports AR 🇦🇷
 http://go.iptvhn.net:25461/live/7682/7682/219.m3u8
 
-#EXTINF:-1 tvg-chno="646" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",DirecTV Sports 2 🇦🇷 √
+#EXTINF:-1 tvg-chno="648" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",DirecTV Sports 2 🇦🇷 √
 http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/151374.m3u8
 
-#EXTINF:-1 tvg-chno="647" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",DirecTV Sports + AR 🇦🇷
+#EXTINF:-1 tvg-chno="649" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",DirecTV Sports + AR 🇦🇷
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47093.m3u8
 
 #EXTINF:-1 tvg-chno="650" tvg-logo="https://banner2.cleanpng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg",Sky Sports Liga Española ² 🇺🇸
