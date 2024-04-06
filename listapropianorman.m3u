@@ -66,7 +66,7 @@ https://62fc643fbf1aa.streamlock.net:443/HBTV/HBTV/chunklist_w1022063060.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telesur-costa-rica.png",Telesur CR ¹
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 
-#EXTINF:-1 tvg-chno="27" tvg-logo="http://costaricatelevision.com/sites/default/files/styles/tv_list/public/2022-09/los-santos-tv-costa-rica.png.webp?itok=ki81X3MW",Los Santos TV ¹
+#EXTINF:-1 tvg-chno="27" tvg-logo="https://lossantostv.com/chat/static/img/logo_small.png",Los Santos TV ¹
 https://lstv.duckdns.org:449/hls/lstv.m3u8
 
 #EXTINF:-1 tvg-chno="28" tvg-logo="https://i2.paste.pics/83fb31ad5340bda41b8e6f5930e1d4fc.png",TV Curre PZ ¹
@@ -87,7 +87,7 @@ https://acceso.radiosportstv.online:3162/live/cartagomedioslive.m3u8
 #EXTINF:-1 tvg-chno="33" tvg-logo="https://i2.paste.pics/3238d7371f23b09198d794d2979411b9.png",Nicoya TV ¹
 https://59ef525c24caa.streamlock.net:443/nicoyatv/nicoyatv/chunklist_w221500905.m3u8
 
-#EXTINF:-1 tvg-chno="34" tvg-logo="https://apkaio.com/storage/images/com/sacnet/gca/telecom/multizonestelevision/com.sacnet.gca.telecom.multizonestelevision_1.png",Canal Multizonas TV ¹
+#EXTINF:-1 tvg-chno="34" tvg-logo="https://image.roku.com/developer_channels/prod/40ac5254789f3c5da9f33dced9cfad859b79400fce2dc23d8527fc36f41cf571.png",Canal Multizonas TV ¹
 https://cloudvideo.servers10.com:8081/8068/index.m3u8
 
 #EXTINF:-1 tvg-chno="35" tvg-logo="https://geomedios.fcs.ucr.ac.cr/wp-content/uploads/2019/07/Limon_TV_Logo.png",Limón TV ¹
@@ -111,7 +111,7 @@ https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 #EXTINF:-1 tvg-chno="44" tvg-logo="https://i2.paste.pics/cbcfd98188337b1bf79a92b1afb60ad3.png",San Vito TV ¹
 https://video.misistemareseller.com:1936/sanvito/sanvito/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="45" tvg-logo="http://costaricatelevision.com/sites/default/files/styles/tv_list/public/2022-09/stv-sarapiquitv-costa-rica.png.webp?itok=srO54ZBa",Sarapiquí TV ¹
+#EXTINF:-1 tvg-chno="45" tvg-logo="https://geomedios.fcs.ucr.ac.cr/wp-content/uploads/2019/07/LogoSTV.png",Sarapiquí TV ¹
 https://lstv.duckdns.org:449/hls/stv.m3u8
 
 #EXTINF:-1 tvg-chno="46" tvg-logo="https://image.roku.com/developer_channels/prod/cb20a7cb94abfe34e8aec64a16664d6ea8330cec1c1bddcfe23f139e5b274d4f.png",Telebrunca CR ¹
@@ -123,7 +123,7 @@ https://5cf4a2c2512a2.streamlock.net:443/8162/8162/chunklist_w1967293068.m3u8
 #EXTINF:-1 tvg-chno="48" tvg-logo="https://image.roku.com/developer_channels/prod/db4a766d6686e0ec2d17d0307c9a4c3bd0dc27a13f0647fb8561bfb0754300a2.png",TV Nosara ¹
 https://stmv.streamingvip.click/tvnosara2/tvnosara2/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="49" tvg-logo="https://site-1905948.mozfiles.com/files/1905948/medium/327747957_599448802013223_4176031495996092992_n.jpg",Coto Brus TV ¹
+#EXTINF:-1 tvg-chno="49" tvg-logo="https://image.roku.com/developer_channels/prod/3d89b0129300d4fcc1b74f51c7dbee45020d18b6c3457995c78895567ab1a39f.png",Coto Brus TV ¹
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
 
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png",Planeta Tv Movie ¹ 🇨🇱 
@@ -135,7 +135,7 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png",Neo Tv Digital ¹ 🇦🇷
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-chno="53" tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png",Cinco TV ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="53" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-5-Tigre-Tv-en-vivo-Online.png?resize=1068%2C601&ssl=1",Cinco TV ¹ 🇦🇷
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
 #EXTINF:-1 tvg-chno="54" tvg-logo="https://i2.paste.pics/7b84ec9ab4a77216f5de2b5a23f220a6.png",Cosmos TV ¹ 🇦🇷
