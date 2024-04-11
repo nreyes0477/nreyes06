@@ -957,8 +957,8 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46593.m3u8
 #EXTINF:-1 tvg-chno="405" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-id_m.png",ID Investigation HD
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46584.m3u8
 
-#EXTINF:-1 tvg-chno="409" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png",History Channel HD √
-http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/29824.m3u8
+#EXTINF:-1 tvg-chno="409" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png",History Channel HD ²
+http://45.5.117.182:8000/play/a0fb/index.m3u8
 
 #EXTINF:-1 tvg-chno="410" tvg-logo="https://alexgarci.com/iqc/wp-content/uploads/2022/02/LOGO-H2.png",History 2 HD √
 http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/67335.m3u8
@@ -969,8 +969,8 @@ http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/29772.m3u8
 #EXTINF:-1 tvg-chno="414" tvg-logo="https://www.pngkit.com/png/full/372-3727985_national-geographic-is-set-to-premier-a-new.png",Nat Geo Wild HD √
 http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/147169.m3u8
 
-#EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png",Animal Planet HD √
-http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/30419.m3u8
+#EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png",Animal Planet HD ²
+http://45.5.117.182:8000/play/a0fj/index.m3u8
 
 #EXTINF:-1 tvg-chno="418" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health HD
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46582.m3u8
@@ -1005,14 +1005,14 @@ http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/58099.m3u8
 #EXTINF:-1 tvg-chno="432" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Glitzlogo.png/150px-Glitzlogo.png",Glitz HD √
 http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/29973.m3u8
 
-#EXTINF:-1 tvg-chno="433" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sun_channel-mediano.png",Sun Channel HD √
-http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/133084.m3u8
+#EXTINF:-1 tvg-chno="433" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sun_channel-mediano.png",Sun Channel HD ²
+http://45.5.117.182:8000/play/a0gn/index.m3u8
 
 #EXTINF:-1 tvg-chno="434" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-gourmet_m.png",El Gourmet HD
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46594.m3u8
 
-#EXTINF:-1 tvg-chno="435" tvg-logo="https://cdn.mitvstatic.com/channels/ar_pasiones_m.png",Pasiones HD √
-http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/30265.m3u8
+#EXTINF:-1 tvg-chno="435" tvg-logo="https://cdn.mitvstatic.com/channels/ar_pasiones_m.png",Pasiones HD ²
+http://45.5.117.182:8000/play/a0jw/index.m3u8
 
 #EXTINF:-1 tvg-chno="436" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/1024px-Claro_TV_wordmark.svg.png",Canal Claro HD
 http://go.iptvhn.net:25461/live/7682/7682/54.m3u8
@@ -1020,11 +1020,11 @@ http://go.iptvhn.net:25461/live/7682/7682/54.m3u8
 #EXTINF:-1 tvg-chno="437" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/220px-%C2%A1HOLA%21TVlogo.jpg",¡Hola! TV
 http://168.227.22.18:1935/live/mobile-013/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="438" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/125px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png",Mas Chic
+#EXTINF:-1 tvg-chno="438" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/125px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png",Mas Chic ²
 http://138.59.177.34:8000/play/a00r/index.m3u8
 
-#EXTINF:-1 tvg-chno="439" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png",Lifetime
-http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
+#EXTINF:-1 tvg-chno="439" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png",Lifetime ²
+http://45.5.117.182:8000/play/a0ez/index.m3u8
 
 #EXTINF:-1 tvg-chno="440" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Clic_%28TV_channel%29_logo_2021.png",Clic!
 http://168.227.22.18:1935/live/mobile-119/playlist.m3u8
@@ -1035,8 +1035,8 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46528.m3u8
 #EXTINF:-1 tvg-chno="501" tvg-logo="https://cdn.mitvstatic.com/channels/cl_amc_m.png",AMC HD
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46530.m3u8
 
-#EXTINF:-1 tvg-chno="502" tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png",AXN HD √
-http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/133853.m3u8
+#EXTINF:-1 tvg-chno="502" tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png",AXN HD ²
+http://45.5.117.182:8000/play/a0xn/index.m3u8
 
 #EXTINF:-1 tvg-chno="505" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png",Cinecanal HD
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46538.m3u8
@@ -1059,8 +1059,8 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46627.m3u8
 #EXTINF:-1 tvg-chno="516" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png",Paramount HD
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46654.m3u8
 
-#EXTINF:-1 tvg-chno="520" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox_m.png",Star Channel HD √
-http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/133842.m3u8
+#EXTINF:-1 tvg-chno="520" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox_m.png",Star Channel HD ²
+http://45.5.117.182:8000/play/a0i1/index.m3u8
 
 #EXTINF:-1 tvg-chno="521" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png",Sony HD
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46660.m3u8
@@ -1080,8 +1080,8 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46683.m3u8
 #EXTINF:-1 tvg-chno="526" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner_m.png",Warner Channel HD
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46691.m3u8
 
-#EXTINF:-1 tvg-chno="527" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png",FX HD √
-http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/29763.m3u8
+#EXTINF:-1 tvg-chno="527" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png",FX HD ²
+http://45.5.117.182:8000/play/a0fp/index.m3u8
 
 #EXTINF:-1 tvg-chno="530" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png",DHE HD
 http://go.iptvhn.net:25461/live/7682/7682/71.m3u8
@@ -1272,7 +1272,7 @@ http://go.iptvhn.net:25461/live/7682/7682/102.m3u8
 #EXTINF:-1 tvg-chno="633" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Deportes Latino HD 🇺🇲 √
 http://dns.clientetv.net:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10875.m3u8
 
-#EXTINF:-1 tvg-chno="634" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Deportes HD 🇺🇲 √
+#EXTINF:-1 tvg-chno="634" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Deportes HD 🇺🇲
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47116.m3u8
 
 #EXTINF:-1 tvg-chno="636" tvg-logo="https://www.elgrupoinformatico.com/static/Noticias/2023/04/fubotv-latino-portad-1200x675.jpg",Fubo Latino HD 🇺🇲 √
@@ -1296,8 +1296,8 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/47117.m3u8
 #EXTINF:-1 tvg-chno="642" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png",TUDN MX ² 🇲🇽
 http://45.5.117.182:8000/play/lh0jp/index.m3u8
 
-#EXTINF:-1 tvg-chno="643" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png",TUDN USA 🇺🇸
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/47140.m3u8
+#EXTINF:-1 tvg-chno="643" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png",TUDN USA ² 🇺🇸
+http://45.5.117.182:8000/play/a0km/index.m3u8
 
 #EXTINF:-1 tvg-chno="644" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Zona TUDN USA ¹ 🇺🇸
 https://dc0yy1cy2mqs1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cmi4c1ko7cgug/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
