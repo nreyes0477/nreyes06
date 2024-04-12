@@ -1035,14 +1035,14 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46528.m3u8
 #EXTINF:-1 tvg-chno="501" tvg-logo="https://cdn.mitvstatic.com/channels/cl_amc_m.png",AMC HD
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46530.m3u8
 
-#EXTINF:-1 tvg-chno="502" tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png",AXN HD ²
-http://45.5.117.182:8000/play/a0xn/index.m3u8
+#EXTINF:-1 tvg-chno="502" tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png",AXN HD
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46535.m3u8
 
 #EXTINF:-1 tvg-chno="505" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png",Cinecanal HD
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46538.m3u8
 
-#EXTINF:-1 tvg-chno="506" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinemax_m.png",Cinemax HD √
-http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/29735.m3u8
+#EXTINF:-1 tvg-chno="506" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinemax_m.png",Cinemax HD
+http://xpz.com.mx:8080/live/Koko8164/8164koko/10847.m3u8
 
 #EXTINF:-1 tvg-chno="510" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden.png",Golden HD
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46624.m3u8
@@ -1071,8 +1071,8 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46662.m3u8
 #EXTINF:-1 tvg-chno="523" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png",Studio Universal HD
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46675.m3u8
 
-#EXTINF:-1 tvg-chno="524" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tnt_m.png",TNT HD √
-http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/29781.m3u8
+#EXTINF:-1 tvg-chno="524" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tnt_m.png",TNT HD ²
+http://45.166.92.22:58001/play/a013/index.m3u8
 
 #EXTINF:-1 tvg-chno="525" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png",TNT Series HD
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46683.m3u8
