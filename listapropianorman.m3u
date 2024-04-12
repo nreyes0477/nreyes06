@@ -1131,50 +1131,47 @@ https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="577" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/a4096669-588b-40b7-87ac-9acc8295882c-width308-quality100.png",Rakuten Historias ¹
 https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="580" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO HD √
-http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/41020.m3u8
+#EXTINF:-1 tvg-chno="580" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO HD ²
+http://161.132.108.74:50001/play/a015/index.m3u8
 
-#EXTINF:-1 tvg-chno="581" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",HBO 2 HD √
-http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/156542.m3u8
+#EXTINF:-1 tvg-chno="581" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",HBO 2 HD ²
+http://161.132.108.74:50001/play/a01c/index.m3u8
 
-#EXTINF:-1 tvg-chno="582" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",HBO Family HD √
-http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/161354.m3u8
+#EXTINF:-1 tvg-chno="582" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",HBO Family HD ²
+http://161.132.108.74:50001/play/a01x/index.m3u8
 
-#EXTINF:-1 tvg-chno="583" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO Plus HD √
-http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/156544.m3u8
+#EXTINF:-1 tvg-chno="583" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO Plus HD ²
+http://161.132.108.74:50001/play/a03h/index.m3u8
 
-#EXTINF:-1 tvg-chno="584" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png",HBO Pop HD √
-http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/133854.m3u8
+#EXTINF:-1 tvg-chno="584" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png",HBO Pop HD ²
+http://161.132.108.74:50001/play/a007/index.m3u8
 
-#EXTINF:-1 tvg-chno="585" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png",HBO Signature HD √
-http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/156546.m3u8
+#EXTINF:-1 tvg-chno="585" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png",HBO Signature HD ²
+http://161.132.108.74:50001/play/a03i/index.m3u8
 
-#EXTINF:-1 tvg-chno="586" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme HD √
-http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/133843.m3u8
+#EXTINF:-1 tvg-chno="586" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme HD ²
+http://161.132.108.74:50001/play/a01y/index.m3u8
 
-#EXTINF:-1 tvg-chno="587" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png",HBO Mundi HD √
-http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/47463.m3u8
+#EXTINF:-1 tvg-chno="587" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png",HBO Mundi HD ²
+http://138.59.227.148:5151/play/a04v
 
-#EXTINF:-1 tvg-chno="590" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png",Universal Channel HD √
-http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/133090.m3u8
+#EXTINF:-1 tvg-chno="590" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png",Universal Channel HD ²
+http://161.132.108.74:50001/play/a00t/index.m3u8
 
-#EXTINF:-1 tvg-chno="591" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644505043521-Imagen.jpg",Universal Cinema HD √
-http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/73994.m3u8
+#EXTINF:-1 tvg-chno="591" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644505043521-Imagen.jpg",Universal Cinema HD ²
+http://161.132.108.74:50001/play/a03c/index.m3u8
 
-#EXTINF:-1 tvg-chno="592" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504904675-Imagen.jpg",Universal Comedy HD √
-http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/76353.m3u8
+#EXTINF:-1 tvg-chno="592" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504904675-Imagen.jpg",Universal Comedy HD ²
+http://161.132.108.74:50001/play/a03g/index.m3u8
 
-#EXTINF:-1 tvg-chno="593" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504857757-Imagen.jpg",Universal Crime HD √
-http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/73997.m3u8
+#EXTINF:-1 tvg-chno="593" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504857757-Imagen.jpg",Universal Crime HD ²
+http://161.132.108.74:50001/play/a03b/index.m3u8
 
-#EXTINF:-1 tvg-chno="594" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504463678-Imagen.jpg",Universal Premiere Este HD √
-http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/73996.m3u8
+#EXTINF:-1 tvg-chno="594" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504463678-Imagen.jpg",Universal Premier HD ²
+http://161.132.108.74:50001/play/a03d/index.m3u8
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1646691172846-Imagen.jpg",Universal Premiere Oeste HD √
-http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/164070.m3u8
-
-#EXTINF:-1 tvg-chno="596" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1646691382488-Imagen.jpg",Universal Reality HD √
-http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/73995.m3u8
+#EXTINF:-1 tvg-chno="596" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1646691382488-Imagen.jpg",Universal Reality HD ²
+http://161.132.108.74:50001/play/a03f/index.m3u8
 
 #EXTINF:-1 tvg-chno="600" tvg-logo="https://www.municipalgrecia.com/images/2020/08/25/futv.png",Futv HD ²
 http://138.59.177.34:8000/play/a06z/index.m3u8
