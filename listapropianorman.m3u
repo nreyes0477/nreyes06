@@ -1131,6 +1131,9 @@ https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="577" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/a4096669-588b-40b7-87ac-9acc8295882c-width308-quality100.png",Rakuten Historias ¹
 https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="578" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/640px-DreamWorks_Channel_Logo.svg.png",DreamWorks HD ²
+http://161.132.108.74:50001/play/a03x/index.m3u8
+
 #EXTINF:-1 tvg-chno="580" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO HD ²
 http://161.132.108.74:50001/play/a015/index.m3u8
 
