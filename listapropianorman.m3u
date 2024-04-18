@@ -568,7 +568,7 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 http://xpz.com.mx:8080/live/Koko8164/8164koko/25357.m3u8
 
 #EXTINF:-1 tvg-chno="239" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png",Caracol HD ² 🇨🇴
-http://161.132.108.74:50001/play/a030/index.m3u8
+http://186.148.163.18:8000/play/a045/index.m3u8
 
 #EXTINF:-1 tvg-chno="240" tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg",RCN HD ² 🇨🇴
 http://161.132.108.74:50001/play/a02z/index.m3u8
