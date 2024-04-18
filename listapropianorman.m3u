@@ -4,7 +4,7 @@
 https://alba-cr-repretel-c2.stream.mediatiquestream.com:443/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/1200px-Repretel_4_logo.png",Canal 4 Repretel ¹
-https://alba-cr-repretel-c4.stream.mediatiquestream.com:443/tracks-v1a1/mono.m3u8
+http://alba-cr-repretel-c4.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://canal1cr.com/wp-content/uploads/2023/02/logo-canal-1-png.png",Canal 1 CR ¹
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
@@ -25,7 +25,7 @@ https://opa.usastreams.com:3101/live/canalopalive.m3u8
 https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamTRadio/bbcfd43fb9ad3b22af53808371ce9a16.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png",Canal 11 Repretel ¹
-https://alba-cr-repretel-c11.stream.mediatiquestream.com:443/tracks-v1a1/mono.m3u8
+https://alba-cr-repretel-c11.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="12" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Trivisio%CC%81n-Canal-36-en-vivo-Online.png",Canal 36 Trivisión
 http://xpz.com.mx:8080/live/Koko8164/8164koko/2193825.m3u8
