@@ -117,9 +117,6 @@ https://lstv.duckdns.org:449/hls/stv.m3u8
 #EXTINF:-1 tvg-chno="46" tvg-logo="https://image.roku.com/developer_channels/prod/cb20a7cb94abfe34e8aec64a16664d6ea8330cec1c1bddcfe23f139e5b274d4f.png",Telebrunca CR ¹
 http://k4.usastreams.com/telebrunca/telebrunca/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="47" tvg-logo="https://www.doutico.com/wpimages/wpd2c31b06_05_06.jpg",Guatuso TV ¹
-https://5cf4a2c2512a2.streamlock.net:443/8162/8162/chunklist_w1967293068.m3u8
-
 #EXTINF:-1 tvg-chno="48" tvg-logo="https://image.roku.com/developer_channels/prod/db4a766d6686e0ec2d17d0307c9a4c3bd0dc27a13f0647fb8561bfb0754300a2.png",TV Nosara ¹
 https://stmv.streamingvip.click/tvnosara2/tvnosara2/playlist.m3u8
 
@@ -1418,6 +1415,9 @@ https://srv.tropicalmoonmedia.com:443/musictv/musictv/chunklist_w823002211.m3u8
 
 #EXTINF:-1 tvg-chno="712" tvg-logo="https://xpressojovenradiocr.com/sitepad-data/uploads/2023/01/Xpreso-Joven-Radio-logo_Mesa-de-trabajo-1-copia-5.png",Xpresso Jóven Radio CR
 https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="713" tvg-logo="https://www.doutico.com/wpimages/wpd2c31b06_05_06.jpg",Guatuso TV ¹
+https://5cf4a2c2512a2.streamlock.net:443/8162/8162/chunklist_w1967293068.m3u8
 
 #EXTINF:-1 tvg-chno="714" tvg-logo="https://static.wixstatic.com/media/e9b9b7_1674ea49b074486f818f5e6291585fa6~mv2.jpeg",Mega Fuzion TV
 https://srv.panelcast.net/fuziontv2023/fuziontv2023/playlist.m3u8
