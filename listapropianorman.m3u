@@ -1285,7 +1285,7 @@ http://xpz.com.mx:8080/live/Koko8164/8164koko/180460.m3u8
 http://go.iptvhn.net:25461/live/7682/7682/218.m3u8
 
 #EXTINF:-1 tvg-chno="658" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/f9y6oe1692444384.png",Sky La Liga ²
-http://181.78.105.146:8800/play/a07h
+http://168.232.168.242:4000/play/a04g/index.m3u8
 
 #EXTINF:-1 tvg-chno="659" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GOL_PLAY.svg/250px-GOL_PLAY.svg.png",Gol Play ¹ 🇪🇦
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
