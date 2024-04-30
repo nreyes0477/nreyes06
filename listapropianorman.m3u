@@ -1192,7 +1192,7 @@ http://187.102.208.83:50000/play/a028/index.m3u8
 http://187.102.208.83:50000/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-chno="623" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 5 Sur HD ²
-http://181.78.64.71:16123/play/ch19
+http://186.189.215.34:8200/play/a065/index.m3u8
 
 #EXTINF:-1 tvg-chno="624" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 6 Sur HD ²
 http://187.102.208.83:50000/play/a029/index.m3u8
