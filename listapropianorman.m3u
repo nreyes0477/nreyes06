@@ -871,13 +871,13 @@ http://xpz.com.mx:8080/live/Koko8164/8164koko/2055383.m3u8
 http://xpz.com.mx:8080/live/Koko8164/8164koko/2055384.m3u8
 
 #EXTINF:-1 tvg-chno="390" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Venevision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Venevisión 🇻🇪
-http://xpz.com.mx:8080/live/Koko8164/8164koko/2106072.m3u8
+http://tv.boxdigital.org:8080/live/Maic924EA/kUMzBKcYdaqz/72365.m3u8
 
 #EXTINF:-1 tvg-chno="391" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Venezolana-de-Televisi%C3%B3n-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Venezolana de TV ² 🇻🇪
 http://38.41.8.1:8000/play/a03i
 
 #EXTINF:-1 tvg-chno="392" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Televen-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1",Televen 🇻🇪
-http://xpz.com.mx:8080/live/Koko8164/8164koko/2106076.m3u8
+http://tv.boxdigital.org:8080/live/Maic924EA/kUMzBKcYdaqz/72370.m3u8
 
 #EXTINF:-1 tvg-chno="393" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/TVES-Venezuela-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",TVes 🇻🇪
 http://xpz.com.mx:8080/live/Koko8164/8164koko/2106070.m3u8
@@ -885,8 +885,8 @@ http://xpz.com.mx:8080/live/Koko8164/8164koko/2106070.m3u8
 #EXTINF:-1 tvg-chno="394" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Ve-Plus-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Venevisión Plus 🇻🇪
 http://xpz.com.mx:8080/live/Koko8164/8164koko/2130324.m3u8
 
-#EXTINF:-1 tvg-chno="395" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/IVC_Network_Logo.png/300px-IVC_Network_Logo.png",IVC ¹ 🇻🇪
-http://stream.flynetwifi.com:1935/live/mobile-153/playlist.m3u8
+#EXTINF:-1 tvg-chno="395" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/IVC_Network_Logo.png/300px-IVC_Network_Logo.png",IVC 🇻🇪
+http://xpz.com.mx:8080/live/Koko8164/8164koko/2145660.m3u8
 
 #EXTINF:-1 tvg-chno="396" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_Meridiano_TV_Venezuela.png",Meridiano ² 🇻🇪
 http://38.41.8.1:8000/play/a03w
