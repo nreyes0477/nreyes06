@@ -1201,7 +1201,7 @@ http://187.102.208.83:50000/play/a029/index.m3u8
 http://187.102.208.83:50000/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-chno="626" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Premium Sur HD ²
-http://187.102.208.83:50000/play/a04i/index.m3u8
+http://187.102.208.83:50000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-chno="627" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Colombia HD ²
 http://190.60.40.37:12500/play/a096/index.m3u8
@@ -1228,10 +1228,10 @@ http://xpz.com.mx:8080/live/Koko8164/8164koko/158472.m3u8
 http://xpz.com.mx:8080/live/Koko8164/8164koko/10928.m3u8
 
 #EXTINF:-1 tvg-chno="637" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports Sur
-http://xpz.com.mx:8080/live/Koko8164/8164koko/183212.m3u8
+http://xpz.com.mx:8080/live/Koko8164/8164koko/10959.m3u8
 
 #EXTINF:-1 tvg-chno="638" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports 2 Sur
-http://xpz.com.mx:8080/live/Koko8164/8164koko/10957.m3u8
+http://home-playtv.com:8080/live/SiaFlores21/BSMRA/518960.m3u8
 
 #EXTINF:-1 tvg-chno="639" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports 3 Sur
 http://xpz.com.mx:8080/live/Koko8164/8164koko/10958.m3u8
@@ -1252,7 +1252,7 @@ http://go.iptvhn.net:25461/live/7682/7682/63.m3u8
 http://go.iptvhn.net:25461/live/7682/7682/65.m3u8
 
 #EXTINF:-1 tvg-chno="647" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",DirecTV Sports AR 🇦🇷
-http://go.iptvhn.net:25461/live/7682/7682/219.m3u8
+http://home-playtv.com:8080/live/SiaFlores21/BSMRA/310536.m3u8
 
 #EXTINF:-1 tvg-chno="648" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",DirecTV Sports 2 🇦🇷 
 http://xpz.com.mx:8080/live/Koko8164/8164koko/2190643.m3u8
@@ -1324,10 +1324,10 @@ http://xpz.com.mx:8080/live/Koko8164/8164koko/11438.m3u8
 http://xpz.com.mx:8080/live/Koko8164/8164koko/2146834.m3u8
 
 #EXTINF:-1 tvg-chno="673" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Tigo Sports Honduras 🇭🇳
-http://xpz.com.mx:8080/live/Koko8164/8164koko/2100958.m3u8
+http://home-playtv.com:8080/live/SiaFlores21/BSMRA/471057.m3u8
 
 #EXTINF:-1 tvg-chno="674" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Tigo Sports Bolivia 🇧🇴
-http://1play.cool:25461/live/Chil3Prim3200/HRXjpN5R48Ra/164074.m3u8
+http://xpz.com.mx:8080/live/Koko8164/8164koko/2154027.m3u8
 
 #EXTINF:-1 tvg-chno="675" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos-fc.png",Cableonda 🇵🇦
 http://xpz.com.mx:8080/live/Koko8164/8164koko/201868.m3u8
