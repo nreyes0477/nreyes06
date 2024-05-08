@@ -1138,7 +1138,7 @@ http://45.5.116.178:8000/play/a05k/index.m3u8
 http://190.61.112.157:8000/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-chno="604" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR (Opc 2) ²
-http://138.59.177.34:8000/play/a05i/index.m3u8
+http://170.82.37.21:8000/play/a047/index.m3u8
 
 #EXTINF:-1 tvg-chno="606" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD + HD ²
 http://131.161.53.2:8000/play/a013/index.m3u8
