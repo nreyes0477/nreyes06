@@ -10,7 +10,7 @@ http://go.iptvhn.net:25461/live/7682/7682/3.m3u8
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/768px-Repretel_6_logo.png",Canal 6 Repretel ¹
-https://alba-cr-repretel-c6.stream.mediatiquestream.com:443/tracks-v1a1/mono.m3u8
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/670px-Teletica_Logo.png",Canal 7 Teletica ²
 http://45.170.225.212:48001/play/a0ab/index.m3u8
