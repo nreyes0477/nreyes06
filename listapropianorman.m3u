@@ -4,7 +4,7 @@
 https://alba-cr-repretel-c2.stream.mediatiquestream.com:443/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/1200px-Repretel_4_logo.png",Canal 4 Repretel
-http://go.iptvhn.net:25461/live/7682/7682/2.m3u8
+http://138.59.177.34:25461/live/7682/7682/2.m3u8
 
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://canal1cr.com/wp-content/uploads/2023/02/logo-canal-1-png.png",Canal 1 CR ¹
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
@@ -30,8 +30,8 @@ http://xpz.com.mx:8080/live/Koko8164/8164koko/224194.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Trivisio%CC%81n-Canal-36-en-vivo-Online.png",Canal 36 Trivisión
 http://xpz.com.mx:8080/live/Koko8164/8164koko/2193825.m3u8
 
-#EXTINF:-1 tvg-chno="13" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/canal-trece-costa-rica.png",Canal 13 Sinart
-http://go.iptvhn.net:25461/live/7682/7682/2.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/canal-trece-costa-rica.png",Canal 13 Sinart ²
+http://204.157.251.250:8000/play/a06k/index.m3u8
 
 #EXTINF:-1 tvg-chno="14" tvg-logo="https://pbs.twimg.com/profile_images/1314328513349144577/7dTHR_gg.jpg",Tv Sur Canal 14 ¹
 https://5bf8041cb3fed.streamlock.net:443/TVSURCANAL14/TVSURCANAL14/chunklist_w2106647137.m3u8
@@ -42,8 +42,8 @@ http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-logo="https://meganettv.fun/storage/channel-logos/BRmM9zI0xQhPzgJafJmKh14ZygSj1QetqSZNawhc.jpg",TVN 14 San Carlos ¹
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/chunklist_w1881922243.m3u8
 
-#EXTINF:-1 tvg-chno="17" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Extra-TV.png",Extra Tv 42
-http://go.iptvhn.net:25461/live/7682/7682/4.m3u8
+#EXTINF:-1 tvg-chno="17" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Extra-TV.png",Extra Tv 42 ²
+http://204.157.251.250:8000/play/a06l/index.m3u8
 
 #EXTINF:-1 tvg-chno="18" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/tv.png",49.1 Tv + CR ¹
 https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/playlist.m3u8
