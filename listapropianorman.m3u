@@ -1126,10 +1126,10 @@ http://161.132.108.74:50001/play/a03d/index.m3u8
 http://161.132.108.74:50001/play/a03f/index.m3u8
 
 #EXTINF:-1 tvg-chno="600" tvg-logo="https://www.municipalgrecia.com/images/2020/08/25/futv.png",Futv ²
-http://138.59.177.34:8000/play/a06z/index.m3u8
+http://204.157.251.250:8001/play/a03j/index.m3u8
 
 #EXTINF:-1 tvg-chno="601" tvg-logo="https://www.municipalgrecia.com/images/2020/08/25/futv.png",Futv (Opc 2) ²
-http://138.59.177.34:8000/play/a06z/index.m3u8
+http://201.159.113.219:49000/play/a05b/index.m3u8
 
 #EXTINF:-1 tvg-chno="602" tvg-logo="https://www.municipalgrecia.com/images/2020/08/25/futv.png",Futv (Opc 3) ²
 http://45.5.116.178:8000/play/a05k/index.m3u8
@@ -1138,16 +1138,16 @@ http://45.5.116.178:8000/play/a05k/index.m3u8
 http://190.61.112.157:8000/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-chno="604" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR (Opc 2) ²
-http://170.82.37.21:8000/play/a047/index.m3u8
+http://201.159.113.219:49000/play/a04x/index.m3u8
 
 #EXTINF:-1 tvg-chno="606" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD + ²
-http://131.161.53.2:8000/play/a013/index.m3u8
+http://204.157.251.250:8000/play/a06b/index.m3u8
 
 #EXTINF:-1 tvg-chno="607" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD + (Opc 2)
 http://138.59.177.34:25461/live/7682/7682/175.m3u8
 
 #EXTINF:-1 tvg-chno="608" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 ²
-http://131.161.53.2:8000/play/a014/index.m3u8
+http://204.157.251.250:8000/play/a06c/index.m3u8
 
 #EXTINF:-1 tvg-chno="609" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 (Opc 2)
 http://138.59.177.34:25461/live/7682/7682/174.m3u8
