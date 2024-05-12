@@ -52,10 +52,10 @@ https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/playlist.m3u8
 https://k20.usastreams.com:8081/telered/index.m3u8
 
 #EXTINF:-1 tvg-chno="20" tvg-logo="https://telesistemacr.com/wp-content/uploads/2023/03/LOGO-TELESISTEMA-1-1.png",Telesistema ¹
-https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1753795779.m3u8
+https://k20.usastreams.com:8081/telesistema/index.m3u8
 
 #EXTINF:-1 tvg-chno="21" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica-en-vivo-Online.png?resize=1068%2C601&ssl=1",Teleuno ¹
-https://5d16127744872.streamlock.net:443/TVUNO/TVUNO/chunklist_w766285163.m3u8
+https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="22" tvg-logo="https://costaricachannel.org/wp-content/uploads/2022/08/cropped-LOGO-CR-2022-2022-1024x342.png",Costa Rica Channel ¹
 https://video0.rogohosting.com:19360/8006/8006.m3u8
