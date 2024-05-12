@@ -1144,13 +1144,13 @@ http://170.82.37.21:8000/play/a047/index.m3u8
 http://131.161.53.2:8000/play/a013/index.m3u8
 
 #EXTINF:-1 tvg-chno="607" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD + (Opc 2)
-http://go.iptvhn.net:25461/live/7682/7682/182.m3u8
+http://138.59.177.34:25461/live/7682/7682/175.m3u8
 
 #EXTINF:-1 tvg-chno="608" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 ²
 http://131.161.53.2:8000/play/a014/index.m3u8
 
 #EXTINF:-1 tvg-chno="609" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 (Opc 2)
-http://go.iptvhn.net:25461/live/7682/7682/181.m3u8
+http://138.59.177.34:25461/live/7682/7682/174.m3u8
 
 #EXTINF:-1 tvg-chno="610" tvg-logo="https://www.telcocom.com.ar/img/canales/espn.png",ESPN Norte 
 http://xpz.com.mx:8080/live/Koko8164/8164koko/10963.m3u8
