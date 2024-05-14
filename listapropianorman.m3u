@@ -435,10 +435,13 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",El Trece ² 🇦🇷
 http://170.82.37.21:8000/play/a043/index.m3u8
 
-#EXTINF:-1 tvg-chno="202" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe ² 🇦🇷 
-http://170.82.37.21:8000/play/a042/index.m3u8
+#EXTINF:-1 tvg-chno="202" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png",El Trece Internacional ² 🇦🇷
+http://191.97.6.30:8000/play/a0c9/index.m3u8
 
-#EXTINF:-1 tvg-chno="203" tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2023/02/Mi-8-alta-06.png",Canal 8 (Telefe) ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="203" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe ² 🇦🇷 
+http://200.115.120.1:8000/play/ca063/index.m3u8
+
+#EXTINF:-1 tvg-chno="204" tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2023/02/Mi-8-alta-06.png",Canal 8 (Telefe) ¹ 🇦🇷
 https://stream.arcast.live:443/c8mdp/ngrp:c8mdp_all/chunklist_w1845721960_b1662976.m3u8
 
 #EXTINF:-1 tvg-chno="206" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png",Telefe Internacional ² 🇦🇷
@@ -940,7 +943,7 @@ http://xpz.com.mx:8080/live/Koko8164/8164koko/10415.m3u8
 http://xpz.com.mx:8080/live/Koko8164/8164koko/10412.m3u8
 
 #EXTINF:-1 tvg-chno="425" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png",HGTV Latino ²
-http://161.132.108.74:50001/play/a036/index.m3u8
+http://200.115.120.1:8000/play/ca082/index.m3u8
 
 #EXTINF:-1 tvg-chno="427" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png",Comedy Central
 http://xpz.com.mx:8080/live/Koko8164/8164koko/10553.m3u8
