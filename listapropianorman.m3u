@@ -1141,7 +1141,7 @@ http://201.159.113.219:49000/play/a05b/index.m3u8
 http://45.5.116.178:8000/play/a05k/index.m3u8
 
 #EXTINF:-1 tvg-chno="603" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR ²
-http://190.61.112.157:8000/play/a027/index.m3u8
+http://204.157.251.250:8001/play/a02o/index.m3u8
 
 #EXTINF:-1 tvg-chno="604" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR (Opc 2) ²
 http://201.159.113.219:49000/play/a04x/index.m3u8
