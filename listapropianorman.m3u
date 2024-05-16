@@ -1132,7 +1132,7 @@ http://201.159.113.219:49000/play/a057/index.m3u8
 http://201.159.113.219:49000/play/a058/index.m3u8
 
 #EXTINF:-1 tvg-chno="600" tvg-logo="https://www.municipalgrecia.com/images/2020/08/25/futv.png",Futv ²
-http://204.157.251.250:8001/play/a03j/index.m3u8
+http://45.5.116.178:8000/play/a05k/index.m3u8
 
 #EXTINF:-1 tvg-chno="601" tvg-logo="https://www.municipalgrecia.com/images/2020/08/25/futv.png",Futv (Opc 2) ²
 http://201.159.113.219:49000/play/a05b/index.m3u8
