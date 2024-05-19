@@ -447,11 +447,11 @@ https://stream.arcast.live:443/c8mdp/ngrp:c8mdp_all/chunklist_w1845721960_b16629
 #EXTINF:-1 tvg-chno="206" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png",Telefe Internacional ² 🇦🇷
 http://138.59.227.148:5151/play/a0eg
 
-#EXTINF:-1 tvg-chno="207" tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg",El Nueve 🇦🇷
-http://tv.boxdigital.org:8080/live/Maic924EA/kUMzBKcYdaqz/74270.m3u8
+#EXTINF:-1 tvg-chno="207" tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg",El Nueve 🇦🇷 ⭐
+http://xpz.com.mx:80/live/Koko8164/8164koko/210851.m3u8
 
-#EXTINF:-1 tvg-chno="208" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",TV Pública ¹ 🇦🇷
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46747.m3u8
+#EXTINF:-1 tvg-chno="208" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",TV Pública ¹ 🇦🇷 ⭐
+http://xpz.com.mx:80/live/Koko8164/8164koko/210865.m3u8
 
 #EXTINF:-1 tvg-chno="209" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG",América TV 🇦🇷
 http://xpz.com.mx:8080/live/Koko8164/8164koko/210835.m3u8
