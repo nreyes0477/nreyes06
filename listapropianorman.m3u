@@ -306,8 +306,8 @@ http://xpz.com.mx:8080/live/Koko8164/8164koko/210848.m3u8
 #EXTINF:-1 tvg-chno="145" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/C5N_%282017%29.png/606px-C5N_%282017 %29.png",C5N 🇦🇷
 http://xpz.com.mx:8080/live/Koko8164/8164koko/210834.m3u8
 
-#EXTINF:-1 tvg-chno="146" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",A24 ¹ 🇦🇷
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+#EXTINF:-1 tvg-chno="146" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",A24 🇦🇷
+http://2.magmas5.com:8000/live/Y78PIVSQGY/ZTY3Y2FNXB/146369.m3u8
 
 #EXTINF:-1 tvg-chno="147" tvg-logo="https://atvargentina.com/wp-content/uploads/2021/07/atvargentina-x2.png",ATV ¹ 🇦🇷
 https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
@@ -435,14 +435,14 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/47084.m3u8
 #EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",El Trece ¹ 🇦🇷
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",El Trece ² 🇦🇷
-http://170.82.37.21:8000/play/a043/index.m3u8
+#EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",El Trece 🇦🇷
+http://2.magmas5.com:8000/live/Y78PIVSQGY/ZTY3Y2FNXB/150281.m3u8
 
 #EXTINF:-1 tvg-chno="202" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png",El Trece Internacional ² 🇦🇷
 http://191.97.6.30:8000/play/a0c9/index.m3u8
 
-#EXTINF:-1 tvg-chno="203" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe ² 🇦🇷 
-http://200.115.120.1:8000/play/ca063/index.m3u8
+#EXTINF:-1 tvg-chno="203" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe 🇦🇷 
+http://2.magmas5.com:8000/live/Y78PIVSQGY/ZTY3Y2FNXB/3536.m3u8
 
 #EXTINF:-1 tvg-chno="204" tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2023/02/Mi-8-alta-06.png",Canal 8 (Telefe) ¹ 🇦🇷
 https://stream.arcast.live:443/c8mdp/ngrp:c8mdp_all/chunklist_w1845721960_b1662976.m3u8
