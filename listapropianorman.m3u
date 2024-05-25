@@ -315,7 +315,7 @@ https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
 #EXTINF:-1 tvg-chno="148" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-5-TV-Corrientes-en-vivo-Online.png",5tv ¹ 🇦🇷
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="149" tvg-logo="https://dossiernet.com/_next/image?url=https%3A%2F%2Fdmdqet87i5rod.cloudfront.net%2Festoesmedia%2F609bcd5342359_lnmas.jpg&w=1080&q=75",La Nación + ¹ 🇦🇷 ✓
+#EXTINF:-1 tvg-chno="149" tvg-logo="https://dossiernet.com/_next/image?url=https%3A%2F%2Fdmdqet87i5rod.cloudfront.net%2Festoesmedia%2F609bcd5342359_lnmas.jpg&w=1080&q=75",La Nación + 🇦🇷 ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/210856.m3u8
 
 #EXTINF:-1 tvg-chno="150" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/b3/6835.png",24H España ¹ 🇪🇦
@@ -915,14 +915,14 @@ http://xpz.com.mx:8080/live/Koko8164/8164koko/10428.m3u8
 #EXTINF:-1 tvg-chno="409" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png",History Channel ²
 http://45.5.117.182:8000/play/a0fb/index.m3u8
 
-#EXTINF:-1 tvg-chno="410" tvg-logo="https://alexgarci.com/iqc/wp-content/uploads/2022/02/LOGO-H2.png",History Channel 2 ²
+#EXTINF:-1 tvg-chno="410" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",History Channel 2 ²
 http://161.132.108.74:50001/play/a01w/index.m3u8
 
 #EXTINF:-1 tvg-chno="411" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo ²
 http://161.132.108.74:50001/play/a010/index.m3u8
 
-#EXTINF:-1 tvg-chno="414" tvg-logo="https://www.pngkit.com/png/full/372-3727985_national-geographic-is-set-to-premier-a-new.png",Nat Geo Wild ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/2100613.m3u8
+#EXTINF:-1 tvg-chno="414" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/500px-National_Geographic_Wild_logo.svg.png",Nat Geo Wild
+http://2.magmas5.com:8000/live/Y78PIVSQGY/ZTY3Y2FNXB/132577.m3u8
 
 #EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png",Animal Planet ²
 http://45.5.117.182:8000/play/a0fj/index.m3u8
@@ -930,8 +930,8 @@ http://45.5.117.182:8000/play/a0fj/index.m3u8
 #EXTINF:-1 tvg-chno="418" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/10420.m3u8
 
-#EXTINF:-1 tvg-chno="420" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo-1080x675.png",TLC ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/10432.m3u8
+#EXTINF:-1 tvg-chno="420" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo-1080x675.png",TLC
+http://2.magmas5.com:8000/live/Y78PIVSQGY/ZTY3Y2FNXB/3741.m3u8
 
 #EXTINF:-1 tvg-chno="421" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery_m.png",Discovery Channel ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/197236.m3u8
@@ -970,7 +970,7 @@ http://xpz.com.mx:8080/live/Koko8164/8164koko/12256.m3u8
 http://45.5.117.182:8000/play/a0jw/index.m3u8
 
 #EXTINF:-1 tvg-chno="436" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/1024px-Claro_TV_wordmark.svg.png",Canal Claro
-http://go.iptvhn.net:25461/live/7682/7682/54.m3u8
+http://go.iptvhn.net:25461/live/7682/7682/50.m3u8
 
 #EXTINF:-1 tvg-chno="437" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/220px-%C2%A1HOLA%21TVlogo.jpg",¡Hola! TV ¹
 http://168.227.22.18:1935/live/mobile-013/playlist.m3u8
