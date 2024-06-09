@@ -697,7 +697,7 @@ https://mediacp.us:8081/ctvhn/tracks-v1a1/mono.m3u8
 http://go.iptvhn.net:25461/live/7682/7682/32.m3u8
 
 #EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png",Azteca Uno (Opc 1) ² 🇲🇽
-http://170.82.37.21:8000/play/a02p/index.m3u8
+http://45.228.234.167:8000/play/a0l1/index.m3u8
 
 #EXTINF:-1 tvg-chno="312" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png",Azteca Uno (Opc 2) 🇲🇽
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46937.m3u8
@@ -706,7 +706,7 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46937.m3u8
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
 
 #EXTINF:-1 tvg-chno="316" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png",Azteca 7 (Opc 1) ² 🇲🇽
-http://170.82.37.21:8000/play/a02n/index.m3u8
+http://45.228.234.167:8000/play/a0la/index.m3u8
 
 #EXTINF:-1 tvg-chno="317" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png",Azteca 7 (Opc 2) 🇲🇽
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46934.m3u8
@@ -726,8 +726,8 @@ https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="322" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas Latino -1hr ¹ 🇲🇽
 https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="323" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/724px-Canal_5_2016.svg.png",Canal 5 ¹ 🇲🇽
-https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+#EXTINF:-1 tvg-chno="323" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/724px-Canal_5_2016.svg.png",Canal 5 ² 🇲🇽
+http://45.228.234.167:8000/play/a0ll/index.m3u8
 
 #EXTINF:-1 tvg-chno="324" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/10/Multimedios-TV-Canal-6-en-vivo-Online.png?resize=1068%2C601&ssl=1",Multimedios Canal 6 ¹ 🇲🇽
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
