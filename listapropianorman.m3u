@@ -1149,32 +1149,38 @@ http://204.157.251.250:8001/play/a02o/index.m3u8
 #EXTINF:-1 tvg-chno="604" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR (Opc 2) ²
 http://201.159.113.219:49000/play/a04x/index.m3u8
 
-#EXTINF:-1 tvg-chno="606" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD + ²
+#EXTINF:-1 tvg-chno="605" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD + ²
 http://204.157.251.250:8000/play/a06b/index.m3u8
 
-#EXTINF:-1 tvg-chno="607" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD + (Opc 2)
+#EXTINF:-1 tvg-chno="606" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD + (Opc 2)
 http://138.59.177.34:25461/live/7682/7682/175.m3u8
 
-#EXTINF:-1 tvg-chno="608" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 ²
+#EXTINF:-1 tvg-chno="607" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 ²
 http://204.157.251.250:8000/play/a06c/index.m3u8
 
-#EXTINF:-1 tvg-chno="609" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 (Opc 2)
+#EXTINF:-1 tvg-chno="608" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 (Opc 2)
 http://138.59.177.34:25461/live/7682/7682/174.m3u8
 
-#EXTINF:-1 tvg-chno="610" tvg-logo="https://www.telcocom.com.ar/img/canales/espn.png",ESPN Norte ✓
+#EXTINF:-1 tvg-chno="609" tvg-logo="https://www.telcocom.com.ar/img/canales/espn.png",ESPN Norte ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/10963.m3u8
+
+#EXTINF:-1 tvg-chno="610" tvg-logo="https://www.telcocom.com.ar/img/canales/espn.png",ESPN Norte
+http://go.iptvhn.net:25461/live/7682/7682/87.m3u8
 
 #EXTINF:-1 tvg-chno="611" tvg-logo="https://www.telcocom.com.ar/img/canales/espn-2.png",ESPN 2 Norte ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/10962.m3u8
 
-#EXTINF:-1 tvg-chno="612" tvg-logo="https://www.telcocom.com.ar/img/canales/espn-3.png",ESPN 3 Norte ✓
+#EXTINF:-1 tvg-chno="612" tvg-logo="https://www.telcocom.com.ar/img/canales/espn-2.png",ESPN 2 Norte 
+http://go.iptvhn.net:25461/live/7682/7682/13191.m3u8
+
+#EXTINF:-1 tvg-chno="613" tvg-logo="https://www.telcocom.com.ar/img/canales/espn-3.png",ESPN 3 Norte ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/155475.m3u8
 
-#EXTINF:-1 tvg-chno="613" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 4 Norte 
+#EXTINF:-1 tvg-chno="614" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 4 Norte 
 http://go.iptvhn.net:25461/live/7682/7682/13189.m3u8
 
-#EXTINF:-1 tvg-chno="615" tvg-logo="https://www.telcocom.com.ar/img/canales/fox-sports.png",Fox Sports MX 🇲🇽
-http://2.magmas5.com:8000/live/Y78PIVSQGY/ZTY3Y2FNXB/138035.m3u8
+#EXTINF:-1 tvg-chno="615" tvg-logo="https://www.telcocom.com.ar/img/canales/fox-sports.png",Fox Sports MX 🇲🇽 ✓
+http://xpz.com.mx:80/live/Koko8164/8164koko/155648.m3u8
 
 #EXTINF:-1 tvg-chno="616" tvg-logo="https://www.telcocom.com.ar/img/canales/fox-sports-2.png",Fox Sports 2 MX 🇲🇽 ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/155649.m3u8
@@ -1225,7 +1231,7 @@ http://190.60.40.37:12500/play/a019/index.m3u8
 http://181.78.73.221:8000/play/a140/index.m3u8
 
 #EXTINF:-1 tvg-chno="632" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Colombia 6
-http://go.iptvhn.net:25461/live/7682/7682/97.m3u8
+http://go.iptvhn.net:25461/live/7682/7682/13201.m3u8
 
 #EXTINF:-1 tvg-chno="633" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Deportes Latino 🇺🇲
 http://ultrapremium.cloud:8080/live/942330689tv/0as03m/23624.m3u8
@@ -1329,11 +1335,11 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46837.m3u8
 #EXTINF:-1 tvg-chno="671" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1340px-Movistar_Deportes.svg.png",Movistar Deportes ² 🇵🇪 
 http://45.164.64.141:3131/play/a09a/index.m3u8
 
-#EXTINF:-1 tvg-chno="672" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Tigo Sports Panamá 🇵🇦 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/2146834.m3u8
+#EXTINF:-1 tvg-chno="672" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Tigo Sports Panamá 🇵🇦 
+http://go.iptvhn.net:25461/live/7682/7682/13307.m3u8
 
 #EXTINF:-1 tvg-chno="673" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Tigo Sports Honduras 🇭🇳
-http://home-playtv.com:8080/live/SiaFlores21/BSMRA/471057.m3u8
+http://go.iptvhn.net:25461/live/7682/7682/13090.m3u8
 
 #EXTINF:-1 tvg-chno="674" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Tigo Sports Bolivia 🇧🇴 ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/2154027.m3u8
