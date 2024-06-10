@@ -1323,8 +1323,8 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/47078.m3u8
 #EXTINF:-1 tvg-chno="670" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Win Sports 🇨🇴
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46837.m3u8
 
-#EXTINF:-1 tvg-chno="671" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1340px-Movistar_Deportes.svg.png",Movistar Deportes 🇵🇪 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/11438.m3u8
+#EXTINF:-1 tvg-chno="671" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1340px-Movistar_Deportes.svg.png",Movistar Deportes ² 🇵🇪 
+http://45.164.64.141:3131/play/a09a/index.m3u8
 
 #EXTINF:-1 tvg-chno="672" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Tigo Sports Panamá 🇵🇦 ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/2146834.m3u8
