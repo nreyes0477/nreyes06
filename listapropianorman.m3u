@@ -1272,8 +1272,8 @@ http://181.78.105.146:31589/play/a08m/index.m3u8
 #EXTINF:-1 tvg-chno="651" tvg-logo="https://banner2.cleanpng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg",Sky Sports Bundesliga 🇺🇸
 http://go.iptvhn.net:25461/live/7682/7682/13118.m3u8
 
-#EXTINF:-1 tvg-chno="653" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Bein Sports 🇺🇸 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/10929.m3u8
+#EXTINF:-1 tvg-chno="653" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Bein Sports 🇺🇸 
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/12301.m3u8
 
 #EXTINF:-1 tvg-chno="654" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Bein Sports XTRA HD USA ¹ 🇺🇸
 https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
@@ -1290,14 +1290,14 @@ http://go.iptvhn.net:25461/live/7682/7682/218.m3u8
 #EXTINF:-1 tvg-chno="658" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/f9y6oe1692444384.png",Sky La Liga ²
 http://168.232.168.242:4000/play/a04g/index.m3u8
 
-#EXTINF:-1 tvg-chno="659" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GOL_PLAY.svg/250px-GOL_PLAY.svg.png",Gol Play ¹ 🇪🇦
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-chno="659" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GOL_PLAY.svg/250px-GOL_PLAY.svg.png",Gol Play 🇪🇦
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/236506.m3u8
 
 #EXTINF:-1 tvg-chno="660" tvg-logo="https://www.deportestvc.com/images/home/logo-white-yellow.png",Deportes TVC 🇭🇳
-http://go.iptvhn.net:25461/live/7682/7682/13093.m3u8
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/24950.m3u8
 
-#EXTINF:-1 tvg-chno="661" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports-mediano.png",A y M Sports 🇲🇽 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/10961.m3u8
+#EXTINF:-1 tvg-chno="661" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports-mediano.png",A y M Sports 🇲🇽
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/59513.m3u8
 
 #EXTINF:-1 tvg-chno="662" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aztecadeporteslogo.png/480px-Aztecadeporteslogo.png",Azteca Deportes 🇲🇽 ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/2191519.m3u8
@@ -1314,11 +1314,11 @@ http://xpz.com.mx:8080/live/Koko8164/8164koko/10920.m3u8
 #EXTINF:-1 tvg-chno="666" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",TNT Sports 🇦🇷 ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/2140800.m3u8
 
-#EXTINF:-1 tvg-chno="667" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",TNT Sports 🇨🇱 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/25369.m3u8
+#EXTINF:-1 tvg-chno="667" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",TNT Sports 🇨🇱 
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/54405.m3u8
 
-#EXTINF:-1 tvg-chno="668" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",TNT Sports Premium 🇨🇱 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/25363.m3u8
+#EXTINF:-1 tvg-chno="668" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",TNT Sports Premium 🇨🇱
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/90.m3u8
 
 #EXTINF:-1 tvg-chno="669" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",VTV Plus 🇺🇾
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47078.m3u8
@@ -1338,7 +1338,7 @@ http://home-playtv.com:8080/live/SiaFlores21/BSMRA/471057.m3u8
 #EXTINF:-1 tvg-chno="674" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Tigo Sports Bolivia 🇧🇴 ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/2154027.m3u8
 
-#EXTINF:-1 tvg-chno="675" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos-fc.png",Cableonda 🇵🇦 ★
+#EXTINF:-1 tvg-chno="675" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos-fc.png",Cableonda 🇵🇦 ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/201868.m3u8
 
 #EXTINF:-1 tvg-chno="676" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Eurosport-Logo-1080x675.png",Eurosport 1 🇪🇦 ✓
