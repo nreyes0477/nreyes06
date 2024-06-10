@@ -1242,8 +1242,8 @@ http://ultrapremium.cloud:8080/live/942330689tv/0as03m/24030.m3u8
 #EXTINF:-1 tvg-chno="637" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports Sur ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/10959.m3u8
 
-#EXTINF:-1 tvg-chno="638" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports 2 Sur
-http://home-playtv.com:8080/live/SiaFlores21/BSMRA/518960.m3u8
+#EXTINF:-1 tvg-chno="638" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports 2 Sur ✓
+http://xpz.com.mx:80/live/Koko8164/8164koko/183215.m3u8
 
 #EXTINF:-1 tvg-chno="639" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports 3 Sur ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/10958.m3u8
