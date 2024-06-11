@@ -1264,13 +1264,13 @@ http://go.iptvhn.net:25461/live/7682/7682/13161.m3u8
 http://go.iptvhn.net:25461/live/7682/7682/13163.m3u8
 
 #EXTINF:-1 tvg-chno="647" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",DirecTV Sports AR 🇦🇷
-http://home-playtv.com:8080/live/SiaFlores21/BSMRA/310536.m3u8
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/480.m3u8
 
-#EXTINF:-1 tvg-chno="648" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",DirecTV Sports 2 🇦🇷 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/2190643.m3u8
+#EXTINF:-1 tvg-chno="648" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",DirecTV Sports 2 🇦🇷
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/473.m3u8
 
-#EXTINF:-1 tvg-chno="649" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",DirecTV Sports + AR 🇦🇷
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/47093.m3u8
+#EXTINF:-1 tvg-chno="649" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_mobile_ORIGINAL.png",ECDF 🇪🇨
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/471.m3u8
 
 #EXTINF:-1 tvg-chno="650" tvg-logo="https://banner2.cleanpng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg",Sky Sports La Liga ² 🇺🇸
 http://181.78.105.146:31589/play/a08m/index.m3u8
