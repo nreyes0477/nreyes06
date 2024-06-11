@@ -1278,26 +1278,32 @@ http://181.78.105.146:31589/play/a08m/index.m3u8
 #EXTINF:-1 tvg-chno="651" tvg-logo="https://banner2.cleanpng.com/20180329/qzw/kisspng-sky-sports-news-sky-sports-f1-television-channel-sports-5abca1c7a50e72.2560746115223116236761.jpg",Sky Sports Bundesliga 🇺🇸
 http://go.iptvhn.net:25461/live/7682/7682/13118.m3u8
 
-#EXTINF:-1 tvg-chno="653" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Bein Sports 🇺🇸 
+#EXTINF:-1 tvg-chno="652" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Bein Sports 🇺🇸 
 http://ultrapremium.cloud:8080/live/942330689tv/0as03m/12301.m3u8
 
-#EXTINF:-1 tvg-chno="654" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Bein Sports XTRA HD USA ¹ 🇺🇸
+#EXTINF:-1 tvg-chno="653" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Bein Sports XTRA HD USA ¹ 🇺🇸
 https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="655" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/640px-DAZN_LaLiga_2023_Logo.svg.png",Dazn La Liga 🇪🇦
+#EXTINF:-1 tvg-chno="654" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/640px-DAZN_LaLiga_2023_Logo.svg.png",Dazn La Liga 🇪🇦
 http://ultrapremium.cloud:8080/live/942330689tv/0as03m/60244.m3u8
 
-#EXTINF:-1 tvg-chno="656" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Gol Tv HD 🇵🇪 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/180460.m3u8
+#EXTINF:-1 tvg-chno="655" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Gol Tv ² 🇵🇪
+http://181.188.216.148:8001/play/a04y
 
-#EXTINF:-1 tvg-chno="657" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/f9y6oe1692444384.png",La Liga TV Bar
-http://go.iptvhn.net:25461/live/7682/7682/218.m3u8
+#EXTINF:-1 tvg-chno="656" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/LaLiga_2023_Horizontal_Logo.svg/1024px-LaLiga_2023_Horizontal_Logo.svg.png",La Liga Vix ²
+http://170.82.37.21:8000/play/a048/index.m3u8
 
-#EXTINF:-1 tvg-chno="658" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/f9y6oe1692444384.png",Sky La Liga ²
+#EXTINF:-1 tvg-chno="657" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/f9y6oe1692444384.png",Sky La Liga ²
 http://168.232.168.242:4000/play/a04g/index.m3u8
 
+#EXTINF:-1 tvg-chno="658" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/f9y6oe1692444384.png",La Liga TV Bar
+http://ky-iptv.com:80/live/RE4T3AR4/TRH5Y4T4/219561.m3u8
+
 #EXTINF:-1 tvg-chno="659" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GOL_PLAY.svg/250px-GOL_PLAY.svg.png",Gol Play 🇪🇦
-http://ultrapremium.cloud:8080/live/942330689tv/0as03m/236506.m3u8
+http://xpz.com.mx:8080/live/Koko8164/8164koko/180460.m3u8
+
+#EXTINF:-1 tvg-chno="660" tvg-logo="https://www.deportestvc.com/images/home/logo-white-yellow.png"Deportes TVC ² 🇭🇳
+http://45.4.85.214:58001/play/a04z
 
 #EXTINF:-1 tvg-chno="660" tvg-logo="https://publicidadmegacable.com.mx/wp-content/uploads/2023/07/tvcdeportes.png"TVC Deportes 🇲🇽
 http://ky-iptv.com:80/live/RE4T3AR4/TRH5Y4T4/385014.m3u8
