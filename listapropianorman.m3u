@@ -441,14 +441,14 @@ http://2.magmas5.com:8000/live/Y78PIVSQGY/ZTY3Y2FNXB/150281.m3u8
 #EXTINF:-1 tvg-chno="202" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png",El Trece Internacional ² 🇦🇷
 http://191.97.6.30:8000/play/a0c9/index.m3u8
 
-#EXTINF:-1 tvg-chno="203" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe ² 🇦🇷 
-http://170.82.37.21:8000/play/a042/index.m3u8
+#EXTINF:-1 tvg-chno="203" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe 🇦🇷 
+http://ky-iptv.com:80/live/RE4T3AR4/TRH5Y4T4/221662.m3u8
 
 #EXTINF:-1 tvg-chno="204" tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2023/02/Mi-8-alta-06.png",Canal 8 (Telefe) ¹ 🇦🇷
 https://stream.arcast.live:443/c8mdp/ngrp:c8mdp_all/chunklist_w1845721960_b1662976.m3u8
 
-#EXTINF:-1 tvg-chno="206" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png",Telefe Internacional ² 🇦🇷
-http://138.59.227.148:5151/play/a0eg
+#EXTINF:-1 tvg-chno="206" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png",Telefe Internacional 🇦🇷
+http://ky-iptv.com:80/live/RE4T3AR4/TRH5Y4T4/176346.m3u8
 
 #EXTINF:-1 tvg-chno="207" tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg",El Nueve 🇦🇷 ✓
 http://xpz.com.mx:80/live/Koko8164/8164koko/210851.m3u8
@@ -1153,24 +1153,24 @@ http://201.159.113.219:49000/play/a04x/index.m3u8
 http://204.157.251.250:8000/play/a06b/index.m3u8
 
 #EXTINF:-1 tvg-chno="606" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD + (Opc 2)
-http://138.59.177.34:25461/live/7682/7682/175.m3u8
+http://go.iptvhn.net:25461/live/7682/7682/13284.m3u8
 
 #EXTINF:-1 tvg-chno="607" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 ²
 http://204.157.251.250:8000/play/a06c/index.m3u8
 
 #EXTINF:-1 tvg-chno="608" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 (Opc 2)
-http://138.59.177.34:25461/live/7682/7682/174.m3u8
+http://go.iptvhn.net:25461/live/7682/7682/13283.m3u8
 
 #EXTINF:-1 tvg-chno="609" tvg-logo="https://www.telcocom.com.ar/img/canales/espn.png",ESPN Norte ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/10963.m3u8
 
-#EXTINF:-1 tvg-chno="610" tvg-logo="https://www.telcocom.com.ar/img/canales/espn.png",ESPN Norte
+#EXTINF:-1 tvg-chno="610" tvg-logo="https://www.telcocom.com.ar/img/canales/espn.png",ESPN Norte CA
 http://go.iptvhn.net:25461/live/7682/7682/87.m3u8
 
 #EXTINF:-1 tvg-chno="611" tvg-logo="https://www.telcocom.com.ar/img/canales/espn-2.png",ESPN 2 Norte ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/10962.m3u8
 
-#EXTINF:-1 tvg-chno="612" tvg-logo="https://www.telcocom.com.ar/img/canales/espn-2.png",ESPN 2 Norte 
+#EXTINF:-1 tvg-chno="612" tvg-logo="https://www.telcocom.com.ar/img/canales/espn-2.png",ESPN 2 Norte CA
 http://go.iptvhn.net:25461/live/7682/7682/13191.m3u8
 
 #EXTINF:-1 tvg-chno="613" tvg-logo="https://www.telcocom.com.ar/img/canales/espn-3.png",ESPN 3 Norte ✓
@@ -1233,11 +1233,11 @@ http://181.78.73.221:8000/play/a140/index.m3u8
 #EXTINF:-1 tvg-chno="632" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Colombia 6
 http://go.iptvhn.net:25461/live/7682/7682/13201.m3u8
 
-#EXTINF:-1 tvg-chno="633" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Deportes Latino 🇺🇲 ✓
-http://xpz.com.mx:80/live/Koko8164/8164koko/2218544.m3u8
+#EXTINF:-1 tvg-chno="633" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Deportes Latino 🇺🇲 
+http://ky-iptv.com:80/live/RE4T3AR4/TRH5Y4T4/514467.m3u8
 
 #EXTINF:-1 tvg-chno="634" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Deportes 🇺🇲
-http://ultrapremium.cloud:8080/live/942330689tv/0as03m/24030.m3u8
+http://ky-iptv.com:80/live/RE4T3AR4/TRH5Y4T4/176294.m3u8
 
 #EXTINF:-1 tvg-chno="637" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports Sur ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/10959.m3u8
@@ -1258,10 +1258,10 @@ http://ky-iptv.com:80/RE4T3AR4/TRH5Y4T4/385008.ts
 https://dc0yy1cy2mqs1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cmi4c1ko7cgug/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 #EXTINF:-1 tvg-chno="645" tvg-logo="https://images.squarespace-cdn.com/content/v1/58597a19e58c62ba7fa48bf9/1626211994542-XUWFSKZ5AW26W6RBLXOA/1200px-Claro_Sports_logo.svg.png",Claro Sports MX 🇲🇽
-http://go.iptvhn.net:25461/live/7682/7682/60.m3u8
+http://go.iptvhn.net:25461/live/7682/7682/13161.m3u8
 
 #EXTINF:-1 tvg-chno="646" tvg-logo="https://images.squarespace-cdn.com/content/v1/58597a19e58c62ba7fa48bf9/1626211994542-XUWFSKZ5AW26W6RBLXOA/1200px-Claro_Sports_logo.svg.png",Claro Sports 2 MX 🇲🇽
-http://138.59.177.34:25461/live/7682/7682/62.m3u8
+http://go.iptvhn.net:25461/live/7682/7682/13163.m3u8
 
 #EXTINF:-1 tvg-chno="647" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",DirecTV Sports AR 🇦🇷
 http://home-playtv.com:8080/live/SiaFlores21/BSMRA/310536.m3u8
