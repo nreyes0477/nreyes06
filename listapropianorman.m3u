@@ -45,9 +45,6 @@ http://tvn.obix.tv:1935/TVN/CH14.stream_720p/chunklist_w1881922243.m3u8
 #EXTINF:-1 tvg-chno="17" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Extra-TV.png",Extra Tv 42 ²
 http://204.157.251.250:8000/play/a06l/index.m3u8
 
-#EXTINF:-1 tvg-chno="18" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/tv.png",49.1 Tv + CR ¹
-https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="19" tvg-logo="https://costaricatelevision.com/sites/default/files/2022-09/_Telered%252520Television.png",Telered ¹
 https://k20.usastreams.com:8081/telered/index.m3u8
 
@@ -61,7 +58,7 @@ https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/playlist.m3u8
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 
 #EXTINF:-1 tvg-chno="25" tvg-logo="https://i2.paste.pics/b89953d1d7327bb67304a18eb0bc354a.png",Tica Visión ¹
-https://62fc643fbf1aa.streamlock.net:443/HBTV/HBTV/chunklist_w1022063060.m3u8
+https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="26" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telesur-costa-rica.png",Telesur CR ¹
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
