@@ -24,8 +24,8 @@ https://opa.usastreams.com:3101/live/canalopalive.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-logo="https://static3.teletica.com/Files/Sizes/2023/6/2/logo-teletica-radio_176429888_380x260.png",Teletica Radio ¹
 https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamTRadio/bbcfd43fb9ad3b22af53808371ce9a16.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png",Canal 11 Repretel ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/224194.m3u8
+#EXTINF:-1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png",Canal 11 Repretel ¹
+https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-chno="12" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Trivisio%CC%81n-Canal-36-en-vivo-Online.png",Canal 36 Trivisión ¹
 https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR
