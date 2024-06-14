@@ -1221,22 +1221,28 @@ http://190.60.40.37:12500/play/a019/index.m3u8
 #EXTINF:-1 tvg-chno="632" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Colombia 5 ²
 http://186.148.195.206:8000/play/a03u/index.m3u8
 
-#EXTINF:-1 tvg-chno="633" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Colombia 6
-http://go.iptvhn.net:25461/live/7682/7682/13201.m3u8
+#EXTINF:-1 tvg-chno="633" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Colombia 6 ²
+http://186.148.195.206:8000/play/a00q/index.m3u8
 
-#EXTINF:-1 tvg-chno="634" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Deportes Latino 🇺🇲 
+#EXTINF:-1 tvg-chno="634" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Colombia 7 ²
+http://186.148.195.206:8000/play/a03v/index.m3u8
+
+#EXTINF:-1 tvg-chno="635" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Premium Colombia ²
+http://186.148.195.206:8000/play/a05a/index.m3u8
+
+#EXTINF:-1 tvg-chno="636" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Deportes Latino 🇺🇲 
 http://ky-iptv.com:80/live/RE4T3AR4/TRH5Y4T4/514467.m3u8
 
-#EXTINF:-1 tvg-chno="635" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Deportes 🇺🇲
+#EXTINF:-1 tvg-chno="637" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Deportes 🇺🇲
 http://ky-iptv.com:80/live/RE4T3AR4/TRH5Y4T4/220415.m3u8
 
-#EXTINF:-1 tvg-chno="637" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports Sur ✓
+#EXTINF:-1 tvg-chno="638" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports Sur ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/10959.m3u8
 
-#EXTINF:-1 tvg-chno="638" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports 2 Sur ✓
+#EXTINF:-1 tvg-chno="639" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports 2 Sur ✓
 http://xpz.com.mx:80/live/Koko8164/8164koko/183215.m3u8
 
-#EXTINF:-1 tvg-chno="639" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports 3 Sur ✓
+#EXTINF:-1 tvg-chno="640" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Fox Sports 3 Sur ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/10958.m3u8
 
 #EXTINF:-1 tvg-chno="642" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png",TUDN MX ² 🇲🇽
