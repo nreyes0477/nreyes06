@@ -1180,31 +1180,31 @@ http://xpz.com.mx:8080/live/Koko8164/8164koko/155650.m3u8
 http://xpz.com.mx:8080/live/Koko8164/8164koko/2106730.m3u8
 
 #EXTINF:-1 tvg-chno="619" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Sur ²
-http://38.56.118.88:4000/play/a00j
+http://190.61.44.34:1010/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-chno="620" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 2 Sur ²
-http://38.56.118.88:4000/play/a00f
+http://190.61.44.34:1010/play/a00d/index.m3u8
 
 #EXTINF:-1 tvg-chno="621" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 3 Sur ²
-http://38.56.118.88:4000/play/a00s
+http://190.61.44.34:1010/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-chno="622" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 4 Sur ²
-http://38.56.118.88:4000/play/a028
+http://190.61.44.34:1010/play/a04r/index.m3u8
 
 #EXTINF:-1 tvg-chno="623" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 5 Sur ²
-http://38.56.118.88:4000/play/a01s
+http://190.61.44.34:1010/play/a04b/index.m3u8
 
 #EXTINF:-1 tvg-chno="624" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 5 Sur ²
 http://186.189.215.34:8200/play/a065/index.m3u8
 
 #EXTINF:-1 tvg-chno="625" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 6 Sur  ²
-http://38.56.118.88:4000/play/a07t
+http://190.61.44.34:1010/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-chno="626" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 7 Sur  ²
-http://38.56.118.88:4000/play/a01t
+http://190.61.44.34:1010/play/a04c/index.m3u8
 
 #EXTINF:-1 tvg-chno="627" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Premium Sur ²
-http://38.56.118.88:4000/play/a03d
+http://190.61.44.34:1010/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-chno="628" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Colombia ²
 http://190.60.40.37:12500/play/a096/index.m3u8
@@ -1219,7 +1219,7 @@ http://190.60.40.37:12500/play/a00q/index.m3u8
 http://190.60.40.37:12500/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-chno="632" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Colombia 5 ²
-http://181.78.73.221:8000/play/a140/index.m3u8
+http://186.148.195.206:8000/play/a03u/index.m3u8
 
 #EXTINF:-1 tvg-chno="633" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Colombia 6
 http://go.iptvhn.net:25461/live/7682/7682/13201.m3u8
