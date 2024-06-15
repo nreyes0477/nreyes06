@@ -588,32 +588,32 @@ http://xpz.com.mx:8080/live/Koko8164/8164koko/2120490.m3u8
 #EXTINF:-1 tvg-chno="262" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-6-El-Salvador-en-vivo-Online.png",Canal 6 ¹ 🇸🇻
 https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/live-video=2000000-audio_0=64000.m3u8
 
-#EXTINF:-1 tvg-chno="263" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/TVES_Canal_10.png",Canal 10 🇸🇻 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/10444.m3u8
+#EXTINF:-1 tvg-chno="263" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CANAL_12_2023_VA_CON_VOS.png/500px-CANAL_12_2023_VA_CON_VOS.png",Canal 12 🇸🇻
+http://ky-iptv.com:80/live/RE4T3AR4/TRH5Y4T4/181703.m3u8
 
 #EXTINF:-1 tvg-chno="265" tvg-logo="https://logos.streamsites.eu/2756_tve-en-directo-la-1_overview.png",La 1 🇪🇸
-http://live.budtvlight.com:25461/live/bud-3150799/ps1N9wRnc5Q/162723.m3u8
+http://ky-iptv.com:80/live/RE4T3AR4/TRH5Y4T4/388309.m3u8
 
-#EXTINF:-1 tvg-chno="266" tvg-logo="https://logos.streamsites.eu/2894_la-2-en-directo_overview.png",La 2 ¹ 🇪🇸
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-chno="266" tvg-logo="https://logos.streamsites.eu/2894_la-2-en-directo_overview.png",La 2 🇪🇸
+http://ky-iptv.com:80/live/RE4T3AR4/TRH5Y4T4/388313.m3u8
 
 #EXTINF:-1 tvg-chno="267" tvg-logo="https://logos.streamsites.eu/2516_antena3_overview.png",Antena 3 🇪🇸
-http://live.budtvlight.com:25461/live/bud-3150799/ps1N9wRnc5Q/129500.m3u8
+http://ky-iptv.com:80/live/RE4T3AR4/TRH5Y4T4/388319.m3u8
 
-#EXTINF:-1 tvg-chno="268" tvg-logo="https://mma.prnewswire.com/media/1638822/logo_internacional_cuadrado.jpg?w=200",Antena 3 Internacional 🇪🇸 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/2100549.m3u8
+#EXTINF:-1 tvg-chno="268" tvg-logo="https://mma.prnewswire.com/media/1638822/logo_internacional_cuadrado.jpg?w=200",Antena 3 Internacional 🇪🇸 
+http://ky-iptv.com:80/live/RE4T3AR4/TRH5Y4T4/176298.m3u8
 
-#EXTINF:-1 tvg-chno="269" tvg-logo="https://logos.streamsites.eu/2551_cuatro_overview.png",Cuatro ¹ 🇪🇸
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-chno="269" tvg-logo="https://logos.streamsites.eu/2551_cuatro_overview.png",Cuatro 🇪🇸
+http://ky-iptv.com:80/live/RE4T3AR4/TRH5Y4T4/388325.m3u8
 
 #EXTINF:-1 tvg-chno="270" tvg-logo="https://logos.streamsites.eu/2531_telecinco_overview.png",Telecinco 🇪🇸
-http://live.budtvlight.com:25461/live/bud-3150799/ps1N9wRnc5Q/162726.m3u8
+http://ky-iptv.com:80/live/RE4T3AR4/TRH5Y4T4/388329.m3u8
 
-#EXTINF:-1 tvg-chno="271" tvg-logo="https://logos.streamsites.eu/2697_la-sexta_overview.png",La Sexta ¹ 🇪🇸
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/index.m3u8
+#EXTINF:-1 tvg-chno="271" tvg-logo="https://logos.streamsites.eu/2697_la-sexta_overview.png",La Sexta 🇪🇸
+http://ky-iptv.com:80/live/RE4T3AR4/TRH5Y4T4/388333.m3u8
 
 #EXTINF:-1 tvg-chno="272" tvg-logo="https://logos.streamsites.eu/3488_mega_overview.png",Mega 🇪🇸
-http://live.budtvlight.com:25461/live/bud-3150799/ps1N9wRnc5Q/162731.m3u8
+http://ky-iptv.com:80/live/RE4T3AR4/TRH5Y4T4/388343.m3u8
 
 #EXTINF:-1 tvg-chno="273" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",Star TVE ¹ 🇪🇸
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8
