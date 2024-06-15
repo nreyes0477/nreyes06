@@ -531,17 +531,17 @@ http://xpz.com.mx:8080/live/Koko8164/8164koko/25357.m3u8
 #EXTINF:-1 tvg-chno="239" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png",Caracol ² 🇨🇴
 http://186.148.163.18:8000/play/a045/index.m3u8
 
-#EXTINF:-1 tvg-chno="240" tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg",RCN ² 🇨🇴
-http://161.132.108.74:50001/play/a02z/index.m3u8
+#EXTINF:-1 tvg-chno="240" tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg",RCN 🇨🇴
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/343.m3u8
 
-#EXTINF:-1 tvg-chno="241" tvg-logo="https://1.bp.blogspot.com/-jslL1CIeqqk/YaVCAmvGxvI/AAAAAAAADDo/wPaGYipC7Eo_6NVRuL0XESV1lzjq6xhLgCLcBGAsYHQ/s16000/rcnmas.jpg",RCN Más+ ¹ 🇨🇴
+#EXTINF:-1 tvg-chno="241" tvg-logo="https://1.bp.blogspot.com/-jslL1CIeqqk/YaVCAmvGxvI/AAAAAAAADDo/wPaGYipC7Eo_6NVRuL0XESV1lzjq6xhLgCLcBGAsYHQ/s16000/rcnmas.jpg",RCN Más + ¹ 🇨🇴
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="242" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Rcn-xtra_2.png/640px-Rcn-xtra_2.png",RCN Xtra ¹ 🇨🇴
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="243" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/1586px-RCN_Novelas_logo_2019.png",RCN Novelas ² 🇨🇴
-http://138.59.177.34:8000/play/a040/index.m3u8
+#EXTINF:-1 tvg-chno="243" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/1586px-RCN_Novelas_logo_2019.png",RCN Novelas 🇨🇴
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/348.m3u8
 
 #EXTINF:-1 tvg-chno="244" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/250px-Channel_1_%28Colombia%29_-_2017_logo.svg.png",Canal Uno 🇨🇴
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46773.m3u8
@@ -556,22 +556,22 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46779.m3u8
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47550.m3u8
 
 #EXTINF:-1 tvg-chno="250" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/233px-EcuadorTV_logo.png",Ecuador TV 🇪🇨
-http://tv.boxdigital.org:8080/live/Maic924EA/kUMzBKcYdaqz/245547.m3u8
+http://xpz.com.mx:80/live/Koko8164/8164koko/153889.m3u8
 
-#EXTINF:-1 tvg-chno="251" tvg-logo="https://canalunoecuador.com/wp-content/uploads/2023/04/logo_uno.jpg",Canal Uno  🇪🇨
-http://tv.boxdigital.org:8080/live/Maic924EA/kUMzBKcYdaqz/245565.m3u8
+#EXTINF:-1 tvg-chno="251" tvg-logo="https://canalunoecuador.com/wp-content/uploads/2023/04/logo_uno.jpg",Canal Uno ¹ 🇪🇨
+https://us.ejeserver.com/live/canaluno.m3u8
 
 #EXTINF:-1 tvg-chno="252" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/400px-Ecuavisa_Logo_2019.png",Ecuavisa 🇪🇨 ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/11032.m3u8
 
-#EXTINF:-1 tvg-chno="253" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",Gamavisión 🇪🇨 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/147955.m3u8
+#EXTINF:-1 tvg-chno="253" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",Gamavisión 🇪🇨
+http://ky-iptv.com:80/live/RE4T3AR4/TRH5Y4T4/181680.m3u8
 
 #EXTINF:-1 tvg-chno="254" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oromar_logo.png/300px-Oromar_logo.png",Oromar TV ² 🇪🇨
 http://177.234.230.226:8010/play/a02e/index.m3u8
 
-#EXTINF:-1 tvg-chno="255" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/300px-Rts_logo.png",RTS TV 🇪🇨 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/11036.m3u8
+#EXTINF:-1 tvg-chno="255" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/300px-Rts_logo.png",RTS TV 🇪🇨
+http://ky-iptv.com:80/live/RE4T3AR4/TRH5Y4T4/181687.m3u8
 
 #EXTINF:-1 tvg-chno="256" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png",TC Televisión 🇪🇨 ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/11039.m3u8
