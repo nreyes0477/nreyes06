@@ -424,28 +424,28 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/47084.m3u8
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",El Trece 🇦🇷
-http://2.magmas5.com:8000/live/Y78PIVSQGY/ZTY3Y2FNXB/150281.m3u8
+http://ky-iptv.com:80/live/RE4T3AR4/TRH5Y4T4/221595.m3u8
 
 #EXTINF:-1 tvg-chno="202" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png",El Trece Internacional ² 🇦🇷
 http://191.97.6.30:8000/play/a0c9/index.m3u8
 
 #EXTINF:-1 tvg-chno="203" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe 🇦🇷 
-http://ultrapremium.cloud:8080/live/942330689tv/0as03m/61545.m3u8
+http://ky-iptv.com:80/live/RE4T3AR4/TRH5Y4T4/221662.m3u8
 
 #EXTINF:-1 tvg-chno="204" tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2023/02/Mi-8-alta-06.png",Canal 8 (Telefe) ¹ 🇦🇷
 https://stream.arcast.live:443/c8mdp/ngrp:c8mdp_all/chunklist_w1845721960_b1662976.m3u8
 
-#EXTINF:-1 tvg-chno="206" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png",Telefe Internacional 🇦🇷
-http://ky-iptv.com:80/live/RE4T3AR4/TRH5Y4T4/176346.m3u8
+#EXTINF:-1 tvg-chno="206" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png",Telefe Internacional ² 🇦🇷
+http://45.232.176.17:8000/play/a027
 
 #EXTINF:-1 tvg-chno="207" tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg",El Nueve 🇦🇷 ✓
 http://xpz.com.mx:80/live/Koko8164/8164koko/210851.m3u8
 
-#EXTINF:-1 tvg-chno="208" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",TV Pública 🇦🇷 ✓
-http://xpz.com.mx:80/live/Koko8164/8164koko/210865.m3u8
+#EXTINF:-1 tvg-chno="208" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",TV Pública 🇦🇷
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/16159.m3u8
 
-#EXTINF:-1 tvg-chno="209" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG",América TV 🇦🇷 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/210835.m3u8
+#EXTINF:-1 tvg-chno="209" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG",América TV 🇦🇷
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/61551.m3u8
 
 #EXTINF:-1 tvg-chno="210" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png",TN Noticias ¹ 🇦🇷
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
@@ -453,8 +453,8 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-chno="211" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/588px-Canal_26_logo_%282022%29.svg.png",Canal 26 🇦🇷 ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/210841.m3u8
 
-#EXTINF:-1 tvg-chno="212" tvg-logo="https://assets.iproup.com/assets/jpg/2021/04/17689.jpg",Crónica TV 🇦🇷 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/210848.m3u8
+#EXTINF:-1 tvg-chno="212" tvg-logo="https://assets.iproup.com/assets/jpg/2021/04/17689.jpg",Crónica TV 🇦🇷
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/61584.m3u8
 
 #EXTINF:-1 tvg-chno="214" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/C5N_%282017%29.png/606px-C5N_%282017 %29.png",C5N 🇦🇷 ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/210834.m3u8
