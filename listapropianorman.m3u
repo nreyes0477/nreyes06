@@ -502,19 +502,19 @@ http://xpz.com.mx:8080/live/Koko8164/8164koko/188396.m3u8
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="230" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png",CHV ² 🇨🇱
-http://45.71.252.16:8000/play/a09y/index.m3u8
+http://45.232.176.17:8000/play/a00v
 
-#EXTINF:-1 tvg-chno="231" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png",TVN 🇨🇱
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46832.m3u8
+#EXTINF:-1 tvg-chno="231" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png",TVN ² 🇨🇱
+http://45.232.176.17:8000/play/a00t
 
-#EXTINF:-1 tvg-chno="232" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png",Canal 13 🇨🇱 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/25358.m3u8
+#EXTINF:-1 tvg-chno="232" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png",Canal 13 ² 🇨🇱 
+http://45.232.176.17:8000/play/a004
 
 #EXTINF:-1 tvg-chno="233" tvg-logo="https://elcomercio.pe/resizer/yihFxlkddrP0HjI7-6_7HKJ7GNc=/992x661/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/VELQ4IWQYZHETFPPHGPNLPTHME.jpg",Canal T13 🇨🇱
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46813.m3u8
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/83.m3u8
 
-#EXTINF:-1 tvg-chno="234" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mega_chile-mediano.png",Mega ¹ 🇨🇱
-https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="234" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mega_chile-mediano.png",Mega 🇨🇱
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/43.m3u8
 
 #EXTINF:-1 tvg-chno="235" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_red_chile-mediano.png",La Red ¹ 🇨🇱
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
