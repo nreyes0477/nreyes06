@@ -630,7 +630,7 @@ https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
 #EXTINF:-1 tvg-chno="280" tvg-logo="https://img.onesignal.com/t/9386b748-b30f-4f48-946a-361ce4f6c8cc.jpg",Mega TV 🇺🇸 ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/126161.m3u8
 
-#EXTINF:-1 tvg-chno="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión Vk 🇺🇸
+#EXTINF:-1 tvg-chno="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión VK ² 🇺🇸
 http://170.82.37.21:8000/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-chno="282" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión NY 🇺🇸
@@ -657,8 +657,8 @@ http://nextlevelvpn.nl:8080/live/5069577162/9495726015/366951.m3u8
 #EXTINF:-1 tvg-chno="295" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo PX  🇺🇸
 http://offshore.lat:8080/live/LUISAFR6/9144390132/361622.m3u8
 
-#EXTINF:-1 tvg-chno="299" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/telemundo.jpg",Telemundo Internacional ¹ 🇺🇸
-http://599905028712824007.tkop413.xyz:80/play/ja98064/fseeTrJD5hBt/824007.ts
+#EXTINF:-1 tvg-chno="299" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/telemundo.jpg",Telemundo Internacional ² 🇺🇸
+http://45.5.117.182:8000/play/a0fo/index.m3u8
 
 #EXTINF:-1 tvg-chno="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_5_HN_logo.png/180px-Canal_5_HN_logo.png",Canal 5 ¹ 🇭🇳
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
@@ -960,8 +960,8 @@ http://xpz.com.mx:8080/live/Koko8164/8164koko/12256.m3u8
 #EXTINF:-1 tvg-chno="435" tvg-logo="https://cdn.mitvstatic.com/channels/ar_pasiones_m.png",Pasiones ²
 http://45.5.117.182:8000/play/a0jw/index.m3u8
 
-#EXTINF:-1 tvg-chno="436" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/1024px-Claro_TV_wordmark.svg.png",Canal Claro
-http://go.iptvhn.net:25461/live/7682/7682/50.m3u8
+#EXTINF:-1 tvg-chno="436" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/1024px-Claro_TV_wordmark.svg.png",Canal Claro ²
+http://45.5.117.182:8000/play/a0e6/index.m3u8
 
 #EXTINF:-1 tvg-chno="437" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/220px-%C2%A1HOLA%21TVlogo.jpg",¡Hola! TV ¹
 http://168.227.22.18:1935/live/mobile-013/playlist.m3u8
@@ -1029,8 +1029,8 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46691.m3u8
 #EXTINF:-1 tvg-chno="527" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png",FX ²
 http://45.5.117.182:8000/play/a0fp/index.m3u8
 
-#EXTINF:-1 tvg-chno="530" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png",DHE
-http://go.iptvhn.net:25461/live/7682/7682/71.m3u8
+#EXTINF:-1 tvg-chno="530" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png",DHE ²
+http://45.5.117.182:8000/play/a0fs/index.m3u8
 
 #EXTINF:-1 tvg-chno="560" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/640px-Starz_2008.png",Starz
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46667.m3u8
