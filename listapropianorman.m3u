@@ -814,13 +814,13 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/47016.m3u8
 https://nbculocallive.akamaized.net:443/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 
 #EXTINF:-1 tvg-chno="371" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Univisi%C3%B3n-Puerto-Rico-en-vivo-Online.png?zoom=3&resize=218%2C150&ssl=1",Univision Puerto Rico 🇵🇷 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/126162.m3u8
+http://xpz.com.mx:80/live/Koko8164/8164koko/213854.m3u8
 
 #EXTINF:-1 tvg-chno="372" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/america-teve.png?zoom=2&resize=218%2C150&ssl=1",América TeVe Miami ¹ 🇵🇷
 https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="373" tvg-logo="https://www.spanishbroadcasting.com/wp-content/uploads/sites/5/2020/12/thumbnail_pr-feature-thumbnail-megatv-ratings.jpg",Mega TV 🇵🇷
-http://tv.boxdigital.org:8080/live/Maic924EA/kUMzBKcYdaqz/72402.m3u8
+http://home-playtv.com:8080/live/SiaFlores21/BSMRA/60699.ts
 
 #EXTINF:-1 tvg-chno="374" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/TeleOnce-en-vivo.png?resize=1068%2C601&ssl=1",Teleonce ¹ 🇵🇷
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
@@ -834,23 +834,23 @@ http://xpz.com.mx:8080/live/Koko8164/8164koko/223876.m3u8
 #EXTINF:-1 tvg-chno="377" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Color-Visio%CC%81n-9-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Color Visión Canal 9 🇩🇴 ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/190802.m3u8
 
-#EXTINF:-1 tvg-chno="378" tvg-logo="https://canalesdominicanos.live/template/images/radios/digital-15.png",Canal 15 🇩🇴 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/224023.m3u8
+#EXTINF:-1 tvg-chno="378" tvg-logo="https://canalesdominicanos.live/template/images/radios/digital-15.png",Canal 15 ² 🇩🇴
+http://38.252.238.204:6102/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-chno="379" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/cdn.png?zoom=3&resize=100%2C70&ssl=1",CDN ¹ 🇩🇴
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="380" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Megavision-Canal-43-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Megavisión ¹ 🇩🇴
-http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
+https://server2grupocam.com/megavision/MV/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="381" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telesistemac.png?zoom=3&resize=100%2C70&ssl=1",Telesistema 🇩🇴 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/190812.m3u8
+#EXTINF:-1 tvg-chno="381" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telesistemac.png?zoom=3&resize=100%2C70&ssl=1",Telesistema 🇩🇴
+http://go.iptvhn.net:25461/live/7682/7682/13304.ts
 
 #EXTINF:-1 tvg-chno="382" tvg-logo="https://canalesdominicanos.live/template/images/radios/antena_latina_canal_7.jpg",Antena Latina ¹ 🇩🇴
 http://51.81.106.157:8084/hls/alatina.m3u8
 
-#EXTINF:-1 tvg-chno="384" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/06/telecentro.png?zoom=3&resize=100%2C70&ssl=1",Telecentro 🇩🇴 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/214868.m3u8
+#EXTINF:-1 tvg-chno="384" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/06/telecentro.png?zoom=3&resize=100%2C70&ssl=1",Telecentro 🇩🇴
+http://go.iptvhn.net:25461/live/7682/7682/13301.ts
 
 #EXTINF:-1 tvg-chno="385" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/canal-4-montecarlo-en-vivo.png?zoom=3&resize=100%2C70&ssl=1",Canal 4 🇺🇾 ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/2055388.m3u8
