@@ -751,7 +751,7 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46975.m3u8
 http://xpz.com.mx:8080/live/Koko8164/8164koko/2149213.m3u8
 
 #EXTINF:-1 tvg-chno="334" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Nicarao_TV_Logo.jpg/300px-Nicarao_TV_Logo.jpg",Nicarao TV ² 🇳🇮
-http://138.59.177.34:8000/play/a027/index.m3u8
+http://181.78.105.146:6060/play/a01l
 
 #EXTINF:-1 tvg-chno="335" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TN8_Nicaragua.svg/1280px-TN8_Nicaragua.svg.png",TN8 🇳🇮 ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/2151932.m3u8
