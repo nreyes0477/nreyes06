@@ -673,7 +673,7 @@ https://mdstrm.com/live-stream-playlist/6444304a7c35450938089b24.m3u8
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46905.m3u8
 
 #EXTINF:-1 tvg-chno="305" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Canal-11-Honduras-en-vivo-Online.png",Canal 11 🇭🇳
-http://go.iptvhn.net:25461/live/7682/7682/34.m3u8
+http://ky-iptv.com:80/live/RE4T3AR4/TRH5Y4T4/181714.m3u8
 
 #EXTINF:-1 tvg-chno="307" tvg-logo="https://hch.tv/wp-content/uploads/2021/09/logos-hch-bueno-1.png",HCH 🇭🇳 ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/2100980.m3u8
@@ -684,8 +684,8 @@ https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 #EXTINF:-1 tvg-chno="309" tvg-logo="https://image.roku.com/developer_channels/prod/51815da9f86794012aed4f696ce25f08ca883f2560a1a6c1fb0361bb16716c87.png",CTV Internacional ¹ 🇭🇳
 https://mediacp.us:8081/ctvhn/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="310" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal10Honduras2019.png/revision/latest/scale-to-width-down/250?cb=20190604153849",Ten 🇭🇳
-http://go.iptvhn.net:25461/live/7682/7682/32.m3u8
+#EXTINF:-1 tvg-chno="310" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal10Honduras2019.png/revision/latest/scale-to-width-down/250?cb=20190604153849",Ten ² 🇭🇳
+http://170.82.37.21:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png",Azteca Uno (Opc 1) ² 🇲🇽
 http://45.228.234.167:8000/play/a0l1/index.m3u8
@@ -705,14 +705,14 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46934.m3u8
 #EXTINF:-1 tvg-chno="318" tvg-logo="https://digitalcontent.prensariozone.com/wp-content/uploads/2021/10/Azteca_logo_trans_516x287.png",Azteca Internacional ¹ 🇲🇽
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
-#EXTINF:-1 tvg-chno="319" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas MX ¹ 🇲🇽
-https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-chno="319" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas MX ² 🇲🇽
+http://181.188.216.148:8001/play/a05d
 
 #EXTINF:-1 tvg-chno="320" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas Latino ¹ 🇲🇽
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
 
-#EXTINF:-1 tvg-chno="321" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas Latino -2hr ¹ 🇲🇽
-https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-chno="321" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas Latino -2hr ² 🇲🇽
+http://45.228.234.173:4000/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-chno="322" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas Latino -1hr ¹ 🇲🇽
 https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
@@ -723,17 +723,17 @@ http://45.228.234.167:8000/play/a0ll/index.m3u8
 #EXTINF:-1 tvg-chno="324" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/10/Multimedios-TV-Canal-6-en-vivo-Online.png?resize=1068%2C601&ssl=1",Multimedios Canal 6 ¹ 🇲🇽
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
-#EXTINF:-1 tvg-chno="325" tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default_mobile/public/images/logos/canl-nueve-100x100.png",Nu9ve ¹ 🇲🇽
-https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-chno="325" tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default_mobile/public/images/logos/canl-nueve-100x100.png",Nu9ve 🇲🇽
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/59587.m3u8
 
-#EXTINF:-1 tvg-chno="326" tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png",Canal Once 🇲🇽 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/84527.m3u8
+#EXTINF:-1 tvg-chno="326" tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png",Canal Once 🇲🇽 
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/59604.m3u8
 
 #EXTINF:-1 tvg-chno="327" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo-Imagen-TV-MX.png/800px-Logo -Imagen-TV-MX.png",Imagen TV 🇲🇽
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46953.m3u8
 
 #EXTINF:-1 tvg-chno="328" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/400px-Unicable_logo.svg.png",Unicable ¹ 🇲🇽
-https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
+http://45.228.234.173:4000/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-chno="329" tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png",Azteca Cinema 🇲🇽 ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/197413.m3u8
