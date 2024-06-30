@@ -345,8 +345,8 @@ http://xpz.com.mx:80/live/Koko8164/8164koko/176609.m3u8
 #EXTINF:-1 tvg-chno="163" tvg-logo="https://www.ntn24.com/__assets/images/logo.png",NTN24 🇨🇴
 http://home-playtv.com:8080/live/SiaFlores21/BSMRA/9483.m3u8
 
-#EXTINF:-1 tvg-chno="164" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/Noticias-Caracol-en-vivo-Online.png",Noticias Caracol 🇨🇴 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/202069.m3u8
+#EXTINF:-1 tvg-chno="164" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/Noticias-Caracol-en-vivo-Online.png",Noticias Caracol ¹ 🇨🇴 
+https://ythls.armelin.one/channel/UC2Xq2PK-got3Rtz9ZJ32hLQ.m3u8
 
 #EXTINF:-1 tvg-chno="166" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png",TV Perú Noticias ¹ 🇵🇪
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
