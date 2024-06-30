@@ -249,8 +249,8 @@ http://xpz.com.mx:8080/live/Koko8164/8164koko/203977.m3u8
 #EXTINF:-1 tvg-chno="112" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png",24/7 Disney Clásicos ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/2090938.m3u8
 
-#EXTINF:-1 tvg-chno="130" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cnn-en-espanol_m.png",CNN Español 🇺🇸
-http://sdmx.vip:80/live/marlon123/marlon123/155162.m3u8
+#EXTINF:-1 tvg-chno="130" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cnn-en-espanol_m.png",CNN Español 🇺🇸 ✓
+http://xpz.com.mx:80/live/Koko8164/8164koko/10608.m3u8
 
 #EXTINF:-1 tvg-chno="131" tvg-logo="https://cnnespanol.cnn.com/wp-content/uploads/2021/10/VERT-LOGO-in-white-2.png?w=335",CNN Conclusiones ¹ 🇺🇸
 https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
@@ -339,8 +339,8 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-chno="160" tvg-logo="https://i0.wp.com/adnoticias.mx/wp-content/uploads/2023/09/amx-noticias-mexiquense.png",AMX Noticias ¹ 🇲🇽
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="162" tvg-logo="https://cnwebsite.blob.core.windows.net/files/2021/05/logo_cablenoticias.png",Cablenoticias 🇨🇴
-http://sdmx.vip:80/live/marlon123/marlon123/155162.m3u8
+#EXTINF:-1 tvg-chno="162" tvg-logo="https://cnwebsite.blob.core.windows.net/files/2021/05/logo_cablenoticias.png",Cablenoticias 🇨🇴 ✓
+http://xpz.com.mx:80/live/Koko8164/8164koko/176609.m3u8
 
 #EXTINF:-1 tvg-chno="163" tvg-logo="https://www.ntn24.com/__assets/images/logo.png",NTN24 🇨🇴
 http://home-playtv.com:8080/live/SiaFlores21/BSMRA/9483.m3u8
