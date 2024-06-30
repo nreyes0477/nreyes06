@@ -358,7 +358,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-chno="169" tvg-logo="https://cdn.mitvstatic.com/channels/ar_france-24-espanol_m.png",France 24 HD ¹ 🇨🇵
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719740135/ei/h9KAZqCQCIe8y_sPh4-E2A4/ip/172.70.55.117/id/Y-IlMeCCtIg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181297/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAWDgWbB3F-RmRLpjzcucshjWavbx0V-nZ6Aj_11G9EB4yNhEmQ8wxr4A_-I/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgS3QE2DWM6D9lJnbApKu7O32DX8UwbPqFO2xhs7vh9ygCIQCs-gIlDjcK20ndy3sUhY1nHZChpUHxbCZXECZrU2qlsg%3D%3D/file/index.m3u8
+https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 #EXTINF:-1 tvg-chno="170" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png",Euronews ¹ 🇪🇺
 https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
