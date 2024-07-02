@@ -1083,14 +1083,14 @@ http://200.41.79.165:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-chno="582" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",HBO Family ²
 http://200.41.79.165:8000/play/a01o/index.m3u8
 
-#EXTINF:-1 tvg-chno="583" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO Plus ²
-http://161.132.108.74:50001/play/a03h/index.m3u8
+#EXTINF:-1 tvg-chno="583" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO + ²
+http://45.5.119.106:8000/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-chno="584" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png",HBO Pop ²
 http://200.41.79.165:8000/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-chno="585" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png",HBO Signature ²
-http://161.132.108.74:50001/play/a03i/index.m3u8
+http://45.181.123.233:8000/play/a17i
 
 #EXTINF:-1 tvg-chno="586" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme ²
 http://200.41.79.165:8000/play/a01p/index.m3u8
