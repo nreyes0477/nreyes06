@@ -591,8 +591,8 @@ https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c
 #EXTINF:-1 tvg-chno="263" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CANAL_12_2023_VA_CON_VOS.png/500px-CANAL_12_2023_VA_CON_VOS.png",Canal 12 🇸🇻
 http://ky-iptv.com:80/live/RE4T3AR4/TRH5Y4T4/181703.m3u8
 
-#EXTINF:-1 tvg-chno="265" tvg-logo="https://logos.streamsites.eu/2756_tve-en-directo-la-1_overview.png",La 1 🇪🇸
-http://ky-iptv.com:80/live/RE4T3AR4/TRH5Y4T4/388309.m3u8
+#EXTINF:-1 tvg-chno="265" tvg-logo="https://logos.streamsites.eu/2756_tve-en-directo-la-1_overview.png",La 1 ¹ 🇪🇸
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
 
 #EXTINF:-1 tvg-chno="266" tvg-logo="https://logos.streamsites.eu/2894_la-2-en-directo_overview.png",La 2 🇪🇸
 http://ky-iptv.com:80/live/RE4T3AR4/TRH5Y4T4/388313.m3u8
