@@ -1299,10 +1299,10 @@ http://xpz.com.mx:8080/live/Koko8164/8164koko/180460.m3u8
 #EXTINF:-1 tvg-chno="660" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/600px-Teledeporte.svg.png",Teledeporte (TVE) ² 🇪🇦
 http://77.228.160.100:61800/play/a027
 
-#EXTINF:-1 tvg-chno="661" tvg-logo="https://www.deportestvc.com/images/home/logo-white-yellow.png"Deportes TVC ² 🇭🇳
+#EXTINF:-1 tvg-chno="661" tvg-logo="https://www.deportestvc.com/images/home/logo-white-yellow.png",Deportes TVC ² 🇭🇳
 http://45.4.85.214:58001/play/a04z
 
-#EXTINF:-1 tvg-chno="662" tvg-logo="https://publicidadmegacable.com.mx/wp-content/uploads/2023/07/tvcdeportes.png"TVC Deportes 🇲🇽
+#EXTINF:-1 tvg-chno="662" tvg-logo="https://publicidadmegacable.com.mx/wp-content/uploads/2023/07/tvcdeportes.png",TVC Deportes 🇲🇽
 http://ky-iptv.com:80/live/RE4T3AR4/TRH5Y4T4/385014.m3u8
 
 #EXTINF:-1 tvg-chno="663" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports-mediano.png",A y M Sports 🇲🇽
