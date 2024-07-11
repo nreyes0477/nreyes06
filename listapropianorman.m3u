@@ -927,8 +927,8 @@ http://45.232.148.101:8000/play/a08e/index.m3u8
 #EXTINF:-1 tvg-chno="423" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery World ²
 http://45.232.148.101:8000/play/a07u/index.m3u8
 
-#EXTINF:-1 tvg-chno="424" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery Science ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/10412.m3u8
+#EXTINF:-1 tvg-chno="424" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery Science
+http://5tgvb.art:2052/live/Yram50/5gDVKhPdk/581.m3u8
 
 #EXTINF:-1 tvg-chno="425" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png",HGTV Latino ²
 http://200.115.120.1:8000/play/ca082/index.m3u8
