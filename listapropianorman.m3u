@@ -1083,8 +1083,8 @@ http://200.41.79.165:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-chno="582" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",HBO Family ²
 http://200.41.79.165:8000/play/a01o/index.m3u8
 
-#EXTINF:-1 tvg-chno="583" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO + ²
-http://45.5.119.106:8000/play/a01s/index.m3u8
+#EXTINF:-1 tvg-chno="583" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO +
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/219120.m3u8
 
 #EXTINF:-1 tvg-chno="584" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png",HBO Pop ²
 http://200.41.79.165:8000/play/a00r/index.m3u8
@@ -1095,8 +1095,8 @@ http://45.181.123.233:8000/play/a17i
 #EXTINF:-1 tvg-chno="586" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme ²
 http://200.41.79.165:8000/play/a01p/index.m3u8
 
-#EXTINF:-1 tvg-chno="587" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png",HBO Mundi ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/10863.m3u8
+#EXTINF:-1 tvg-chno="587" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png",HBO Mundi
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/104308.m3u8
 
 #EXTINF:-1 tvg-chno="590" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png",Universal Channel ²
 http://179.1.146.21:8000/play/a062/index.m3u8
