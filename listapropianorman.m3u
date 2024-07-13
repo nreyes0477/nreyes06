@@ -502,7 +502,7 @@ http://xpz.com.mx:8080/live/Koko8164/8164koko/188396.m3u8
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="230" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png",CHV ² 🇨🇱
-http://45.232.176.17:8000/play/a00v
+http://45.232.148.101:8000/play/a05o/index.m3u8
 
 #EXTINF:-1 tvg-chno="231" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png",TVN ² 🇨🇱
 http://45.232.176.17:8000/play/a00t
