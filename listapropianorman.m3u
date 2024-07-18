@@ -1075,25 +1075,25 @@ https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
 http://200.115.120.1:8000/play/ca005/index.m3u8
 
 #EXTINF:-1 tvg-chno="580" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO ²
-http://200.41.79.165:8000/play/a02q/index.m3u8
+http://200.59.188.3:8000/play/a020
 
 #EXTINF:-1 tvg-chno="581" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",HBO 2 ²
-http://200.41.79.165:8000/play/a02x/index.m3u8
+http://200.59.188.3:8000/play/a027
 
 #EXTINF:-1 tvg-chno="582" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",HBO Family ²
-http://200.41.79.165:8000/play/a01o/index.m3u8
+http://200.59.188.3:8000/play/a034
 
 #EXTINF:-1 tvg-chno="583" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO +
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30654.m3u8
 
 #EXTINF:-1 tvg-chno="584" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png",HBO Pop ²
-http://200.41.79.165:8000/play/a00r/index.m3u8
+http://200.59.188.3:8000/play/a00m
 
 #EXTINF:-1 tvg-chno="585" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png",HBO Signature ²
 http://45.181.123.233:8000/play/a17i
 
 #EXTINF:-1 tvg-chno="586" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme ²
-http://200.41.79.165:8000/play/a01p/index.m3u8
+http://200.59.188.3:8000/play/a035
 
 #EXTINF:-1 tvg-chno="587" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png",HBO Mundi
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/104308.m3u8
