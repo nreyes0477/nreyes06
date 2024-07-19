@@ -969,23 +969,23 @@ http://45.5.117.182:8000/play/a0ez/index.m3u8
 #EXTINF:-1 tvg-chno="440" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Clic_%28TV_channel%29_logo_2021.png",Clic!
 http://ultrapremium.cloud:8080/live/942330689tv/0as03m/24891.m3u8
 
-#EXTINF:-1 tvg-chno="500" tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png",A&E 
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46528.m3u8
+#EXTINF:-1 tvg-chno="500" tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png",A&E ²
+http://45.228.234.167:8000/play/a017/index.m3u8
 
-#EXTINF:-1 tvg-chno="501" tvg-logo="https://cdn.mitvstatic.com/channels/cl_amc_m.png",AMC 
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46530.m3u8
+#EXTINF:-1 tvg-chno="501" tvg-logo="https://cdn.mitvstatic.com/channels/cl_amc_m.png",AMC ²
+http://45.228.234.167:8000/play/a018/index.m3u8
 
-#EXTINF:-1 tvg-chno="502" tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png",AXN 
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46535.m3u8
+#EXTINF:-1 tvg-chno="502" tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png",AXN ²
+http://45.228.234.167:8000/play/a04f/index.m3u8
 
-#EXTINF:-1 tvg-chno="505" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png",Cinecanal 
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46538.m3u8
+#EXTINF:-1 tvg-chno="505" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png",Cinecanal ²
+http://138.186.122.170:8000/play/a016
 
-#EXTINF:-1 tvg-chno="506" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinemax_m.png",Cinemax ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/10847.m3u8
+#EXTINF:-1 tvg-chno="506" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinemax_m.png",Cinemax ²
+http://200.59.188.3:8000/play/a016
 
 #EXTINF:-1 tvg-chno="510" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden.png",Golden 
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46624.m3u8
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/127.m3u8
 
 #EXTINF:-1 tvg-chno="511" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/420px-Golden_Edge_Logo_2020.png",Golden Edge 
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46625.m3u8
@@ -996,8 +996,8 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46626.m3u8
 #EXTINF:-1 tvg-chno="513" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden-premier.png",Golden Premier 
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46627.m3u8
 
-#EXTINF:-1 tvg-chno="516" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png",Paramount 
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46654.m3u8
+#EXTINF:-1 tvg-chno="516" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png",Paramount ²
+http://200.59.188.3:8000/play/a023
 
 #EXTINF:-1 tvg-chno="520" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox_m.png",Star Channel ²
 http://45.5.117.182:8000/play/a0i1/index.m3u8
