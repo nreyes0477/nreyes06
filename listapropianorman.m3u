@@ -904,22 +904,22 @@ http://45.5.117.182:8000/play/a0fb/index.m3u8
 http://45.232.148.101:8000/play/a06j/index.m3u8
 
 #EXTINF:-1 tvg-chno="411" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo ²
-http://45.232.148.101:8000/play/a07t/index.m3u8
+http://138.186.122.170:8000/play/a01b
 
 #EXTINF:-1 tvg-chno="414" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/500px-National_Geographic_Wild_logo.svg.png",Nat Geo Wild
-http://sdmx.vip:80/live/marlon123/marlon123/2100612.m3u8
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/236344.m3u8
 
 #EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png",Animal Planet ²
-http://45.5.117.182:8000/play/a0fj/index.m3u8
+http://138.186.122.170:8000/play/a014
 
 #EXTINF:-1 tvg-chno="418" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health ²
 http://45.232.148.101:8000/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-chno="420" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/370px-TLC_Logo.svg.png",TLC
-http://sdmx.vip:80/live/marlon123/marlon123/148714.m3u8
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/59553.m3u8
 
 #EXTINF:-1 tvg-chno="421" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery_m.png",Discovery Channel ²
-http://45.232.148.101:8000/play/a06h/index.m3u8
+http://138.186.122.170:8000/play/a00z
 
 #EXTINF:-1 tvg-chno="422" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png",Discovery Theater ²
 http://45.232.148.101:8000/play/a08e/index.m3u8
@@ -928,10 +928,10 @@ http://45.232.148.101:8000/play/a08e/index.m3u8
 http://45.232.148.101:8000/play/a07u/index.m3u8
 
 #EXTINF:-1 tvg-chno="424" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery Science
-http://5tgvb.art:2052/live/Yram50/5gDVKhPdk/581.m3u8
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/59526.m3u8
 
 #EXTINF:-1 tvg-chno="425" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png",HGTV Latino ²
-http://200.115.120.1:8000/play/ca082/index.m3u8
+http://45.238.20.154:8000/play/a0ej
 
 #EXTINF:-1 tvg-chno="427" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png",Comedy Central ²
 http://45.232.148.101:8000/play/a05z/index.m3u8
@@ -940,10 +940,10 @@ http://45.232.148.101:8000/play/a05z/index.m3u8
 http://45.232.148.101:8000/play/a080/index.m3u8
 
 #EXTINF:-1 tvg-chno="431" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiU87VgwvgsVvkxsZ4Lhx-AbQplLVwmdwxh2MHwjv6-cfkKLfKdxanACuFwoZiE47JeJ3Y58FK9dj69nOTMsPOLf1BiBPx7g3TwMVy24NrF0Xpff9lT_xYE5cMlgbwF_jIaG1Lh40Lw4tuamw4q_RhSVypYoVRKkWcRaOEKjnS9MkpKAI_72Qkgw-hDziH/w640-h360-rw/adultswimtvlaint.jpg",Adult Swim ²
-http://161.132.108.74:50001/play/a00d/index.m3u8
+http://45.238.20.154:8000/play/a0h4
 
-#EXTINF:-1 tvg-chno="432" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/350px-DistritoComediaLOGO2018.png",Distrito Comedia ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/210855.m3u8
+#EXTINF:-1 tvg-chno="432" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/350px-DistritoComediaLOGO2018.png",Distrito Comedia ²
+http://170.82.37.21:8000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-chno="433" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sun_channel-mediano.png",Sun Channel ²
 http://45.232.148.101:8000/play/a08b/index.m3u8
@@ -955,19 +955,19 @@ http://45.232.148.101:8000/play/a062/index.m3u8
 http://45.232.148.101:8000/play/a05p/index.m3u8
 
 #EXTINF:-1 tvg-chno="436" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/1024px-Claro_TV_wordmark.svg.png",Canal Claro ²
-http://45.5.117.182:8000/play/a0e6/index.m3u8
+http://200.59.188.3:8000/play/a07t
 
 #EXTINF:-1 tvg-chno="437" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/220px-%C2%A1HOLA%21TVlogo.jpg",¡Hola! TV ²
 http://45.232.148.101:8000/play/a05r/index.m3u8
 
 #EXTINF:-1 tvg-chno="438" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/125px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png",Mas Chic ²
-http://138.59.177.34:8000/play/a00r/index.m3u8
+http://168.181.122.234:8000/play/a01y/index.m3u8
 
 #EXTINF:-1 tvg-chno="439" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png",Lifetime ²
 http://45.5.117.182:8000/play/a0ez/index.m3u8
 
-#EXTINF:-1 tvg-chno="440" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Clic_%28TV_channel%29_logo_2021.png",Clic! ¹
-http://168.227.22.18:1935/live/mobile-119/playlist.m3u8
+#EXTINF:-1 tvg-chno="440" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Clic_%28TV_channel%29_logo_2021.png",Clic!
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/24891.m3u8
 
 #EXTINF:-1 tvg-chno="500" tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png",A&E 
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46528.m3u8
