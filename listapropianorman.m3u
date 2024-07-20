@@ -735,8 +735,8 @@ http://ultrapremium.cloud:8080/live/942330689tv/0as03m/24927.m3u8
 #EXTINF:-1 tvg-chno="328" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/400px-Unicable_logo.svg.png",Unicable ² 🇲🇽
 http://45.228.234.173:4000/play/a00f/index.m3u8
 
-#EXTINF:-1 tvg-chno="329" tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png",Azteca Cinema 🇲🇽 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/197413.m3u8
+#EXTINF:-1 tvg-chno="329" tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png",Azteca Cinema ² 🇲🇽 
+http://45.228.234.173:4000/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-chno="330" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal 2 🇳🇮 ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/155894.m3u8
