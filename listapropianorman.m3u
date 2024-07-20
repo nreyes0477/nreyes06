@@ -691,7 +691,7 @@ http://170.82.37.21:8000/play/a00b/index.m3u8
 http://45.228.234.167:8000/play/a0l1/index.m3u8
 
 #EXTINF:-1 tvg-chno="312" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png",Azteca Uno (Opc 2) 🇲🇽
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46937.m3u8
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/55054.m3u8
 
 #EXTINF:-1 tvg-chno="313" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png",Azteca Uno -1hr ¹ 🇲🇽
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
@@ -700,7 +700,7 @@ https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.
 http://45.228.234.167:8000/play/a0la/index.m3u8
 
 #EXTINF:-1 tvg-chno="317" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png",Azteca 7 (Opc 2) 🇲🇽
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46934.m3u8
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/24894.m3u8
 
 #EXTINF:-1 tvg-chno="318" tvg-logo="https://digitalcontent.prensariozone.com/wp-content/uploads/2021/10/Azteca_logo_trans_516x287.png",Azteca Internacional ¹ 🇲🇽
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
