@@ -705,11 +705,11 @@ http://ultrapremium.cloud:8080/live/942330689tv/0as03m/24894.m3u8
 #EXTINF:-1 tvg-chno="318" tvg-logo="https://digitalcontent.prensariozone.com/wp-content/uploads/2021/10/Azteca_logo_trans_516x287.png",Azteca Internacional ¹ 🇲🇽
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
-#EXTINF:-1 tvg-chno="319" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas MX ² 🇲🇽
-http://181.188.216.148:8001/play/a05d
+#EXTINF:-1 tvg-chno="319" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas MX 🇲🇽
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/59598.m3u8
 
-#EXTINF:-1 tvg-chno="320" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas Latino ¹ 🇲🇽
-https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
+#EXTINF:-1 tvg-chno="320" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas Latino ² 🇲🇽
+http://177.93.41.134:4000/play/a08r/index.m3u8
 
 #EXTINF:-1 tvg-chno="321" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas Latino -2hr ² 🇲🇽
 http://45.228.234.173:4000/play/a00g/index.m3u8
