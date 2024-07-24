@@ -988,13 +988,13 @@ http://200.59.188.3:8000/play/a016
 http://ultrapremium.cloud:8080/live/942330689tv/0as03m/127.m3u8
 
 #EXTINF:-1 tvg-chno="511" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/420px-Golden_Edge_Logo_2020.png",Golden Edge 
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46625.m3u8
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/65221.m3u8
 
 #EXTINF:-1 tvg-chno="512" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png",Golden Plus 
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46626.m3u8
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/128.m3u8
 
 #EXTINF:-1 tvg-chno="513" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden-premier.png",Golden Premier 
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46627.m3u8
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/65223.m3u8
 
 #EXTINF:-1 tvg-chno="516" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png",Paramount ²
 http://200.59.188.3:8000/play/a023
