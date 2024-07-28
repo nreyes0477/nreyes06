@@ -1174,7 +1174,7 @@ http://45.5.119.106:8000/play/a035/index.m3u8
 http://45.5.119.106:8000/play/a036/index.m3u8
 
 #EXTINF:-1 tvg-chno="618" tvg-logo="https://www.telcocom.com.ar/img/canales/fox-sports-3.png",Fox Sports Premium MX 🇲🇽 
-http://ultrapremium.cloud:8080/live/942330689tv/0as03m/540.m3u8
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/24775.m3u8
 
 #EXTINF:-1 tvg-chno="619" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Sur ²
 http://190.61.44.34:1010/play/a00h/index.m3u8
