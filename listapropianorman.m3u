@@ -19,7 +19,7 @@ http://170.82.37.21:8000/play/a03u/index.m3u8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=5dAe2fGb7gE6c1jXaP2GttShy86nHQLK&sid=CVn7tK4xgUFZqDuteItbmSnAyuXsGP0O&pid=eABeayxCV1GThUTcWOCLE8UDPYQ6WI50&an=screen&at=web-app&av=v5.2.420&ref=https%3A%2F%2Famp-telediario-cr.cdn.ampproject.org%2Fv%2Fs%2Famp.telediario.cr%2Ftelevision%3Famp_gsa%3D1%26amp_js_v%3Da9%26usqp%3Dmq331AQIUAKwASCAAgM%253D&res=375x187&without_cookies=false&listenerid=&dnt=true
 
 #EXTINF:-1 tvg-chno="9" tvg-logo="https://meganettv.fun/storage/channel-logos/ySwjxbNmEY2GbocranaMX22871ZiAP8HuV16jJZM.png",Canal 38 ¡Opa! ¹
-https://opa.usastreams.com:3101/live/canalopalive.m3u8
+https://opa.usastreams.com:3066/live/canalopalive.m3u8
 
 #EXTINF:-1 tvg-chno="10" tvg-logo="https://static3.teletica.com/Files/Sizes/2023/6/2/logo-teletica-radio_176429888_380x260.png",Teletica Radio ¹
 https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamTRadio/bbcfd43fb9ad3b22af53808371ce9a16.sdp/playlist.m3u8
