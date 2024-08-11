@@ -67,7 +67,7 @@ https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 https://lstv.duckdns.org:449/hls/lstv.m3u8
 
 #EXTINF:-1 tvg-chno="28" tvg-logo="https://i2.paste.pics/83fb31ad5340bda41b8e6f5930e1d4fc.png",TV Curre PZ ¹
-http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
+https://59ef525c24caa.streamlock.net/TVcurre/TVcurre/playlist.m3u8?fbclid=IwZXh0bgNhZW0CMTEAAR1poepQzw2jOLYf5LM6CzIPnGxbn2Q36DVsaYEK1-o5lUi-mOmc_6LU234_aem_W4FPklC6Pi8ev1wpRvQoZA
 
 #EXTINF:-1 tvg-chno="29" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/san-jose-tv-costa-rica.png",San José TV ¹
 https://rtmp.info:443/sanjosetv/envivo/chunklist_w1786370191.m3u8
@@ -79,7 +79,7 @@ https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 https://rtmp.info/tvsantacruz/envivo/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="32" tvg-logo="https://i2.paste.pics/e82bca2c48209fe7ff1a9a559f36689f.png",Cartago Medios TV ¹
-https://acceso.radiosportstv.online:3162/live/cartagomedioslive.m3u8
+https://acceso.radiosportstv.online:3162/stream/play.m3u8
 
 #EXTINF:-1 tvg-chno="33" tvg-logo="https://i2.paste.pics/3238d7371f23b09198d794d2979411b9.png",Nicoya TV ¹
 https://59ef525c24caa.streamlock.net:443/nicoyatv/nicoyatv/chunklist_w221500905.m3u8
@@ -115,7 +115,7 @@ https://lstv.duckdns.org:449/hls/stv.m3u8
 http://k4.usastreams.com/telebrunca/telebrunca/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="47" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0d6vD4coSsdc8wF8umj0rjvo5bZxQ9r3TeNsyNZ4qq4PlEzOusv9eVDvlWdVi80KF9ltur1f4LfJ2xVSl93yNpgZabFunN909DWUKUpV-wgPXTiqmaqNQPMP0xNYQTCdU8o-HDTpD0qmt_6gugfVq4Aj1xjNTZBfIoahPL5xT7xFuVF6K307G6CvVJrk/s400/14.png",Canal 10 CR ¹
-https://acceso.radiosportstv.online:3138/stream/play.m3u8
+https://acceso.radiosportstv.online:3384/stream/play.m3u8
 
 #EXTINF:-1 tvg-chno="48" tvg-logo="https://image.roku.com/developer_channels/prod/db4a766d6686e0ec2d17d0307c9a4c3bd0dc27a13f0647fb8561bfb0754300a2.png",TV Nosara ¹
 https://stmv.streamingvip.click/tvnosara2/tvnosara2/playlist.m3u8
