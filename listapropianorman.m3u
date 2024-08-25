@@ -1060,25 +1060,25 @@ http://200.59.188.3:8000/play/a023
 http://45.5.117.182:8000/play/a0i1/index.m3u8
 
 #EXTINF:-1 tvg-chno="521" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png",Sony
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46660.m3u8
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/37684.m3u8
 
 #EXTINF:-1 tvg-chno="522" tvg-logo="https://cdn.mitvstatic.com/channels/mx_space_m.png",Space 
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46662.m3u8
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49348.m3u8
 
 #EXTINF:-1 tvg-chno="523" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png",Studio Universal 
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46675.m3u8
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/176813.m3u8
 
-#EXTINF:-1 tvg-chno="524" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tnt_m.png",TNT ²
-http://45.166.92.22:58001/play/a013/index.m3u8
+#EXTINF:-1 tvg-chno="524" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tnt_m.png",TNT
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30665.m3u8
 
 #EXTINF:-1 tvg-chno="525" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png",TNT Series 
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46683.m3u8
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30646.m3u8
 
 #EXTINF:-1 tvg-chno="526" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner_m.png",Warner Channel 
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46691.m3u8
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30664.m3u8
 
-#EXTINF:-1 tvg-chno="527" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png",FX ²
-http://45.5.117.182:8000/play/a0fp/index.m3u8
+#EXTINF:-1 tvg-chno="527" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png",FX
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30662.m3u8
 
 #EXTINF:-1 tvg-chno="530" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png",DHE ²
 http://45.5.117.182:8000/play/a0fs/index.m3u8
