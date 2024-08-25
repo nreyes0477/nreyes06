@@ -955,22 +955,22 @@ http://45.5.117.182:8000/play/a0jy/index.m3u8
 http://45.5.117.182:8000/play/a0fb/index.m3u8
 
 #EXTINF:-1 tvg-chno="410" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",History Channel 2 ²
-http://45.232.148.101:8000/play/a06j/index.m3u8
+http://190.60.38.114:1010/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-chno="411" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo ²
 http://138.186.122.170:8000/play/a01b
 
 #EXTINF:-1 tvg-chno="414" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/500px-National_Geographic_Wild_logo.svg.png",Nat Geo Wild
-http://ultrapremium.cloud:8080/live/942330689tv/0as03m/236344.m3u8
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/159938.m3u8
 
 #EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png",Animal Planet ²
-http://138.186.122.170:8000/play/a014
+http://190.60.38.114:1010/play/a06t/index.m3u8
 
 #EXTINF:-1 tvg-chno="418" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health ²
-http://45.232.148.101:8000/play/a08d/index.m3u8
+http://190.60.38.114:1010/play/a06q/index.m3u8
 
 #EXTINF:-1 tvg-chno="420" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/370px-TLC_Logo.svg.png",TLC
-http://ultrapremium.cloud:8080/live/942330689tv/0as03m/59553.m3u8
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/144298.m3u8
 
 #EXTINF:-1 tvg-chno="421" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery_m.png",Discovery Channel ²
 http://138.186.122.170:8000/play/a00z
