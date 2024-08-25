@@ -973,16 +973,16 @@ http://190.60.38.114:1010/play/a06q/index.m3u8
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/144298.m3u8
 
 #EXTINF:-1 tvg-chno="421" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery_m.png",Discovery Channel ²
-http://138.186.122.170:8000/play/a00z
+http://190.60.38.114:1010/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-chno="422" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png",Discovery Theater ²
-http://45.232.148.101:8000/play/a08e/index.m3u8
+http://190.60.38.114:1010/play/a06r/index.m3u8
 
 #EXTINF:-1 tvg-chno="423" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery World ²
-http://45.232.148.101:8000/play/a07u/index.m3u8
+http://190.60.38.114:1010/play/a06s/index.m3u8
 
 #EXTINF:-1 tvg-chno="424" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery Science
-http://ultrapremium.cloud:8080/live/942330689tv/0as03m/59526.m3u8
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/156167.m3u8
 
 #EXTINF:-1 tvg-chno="425" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png",HGTV Latino ²
 http://45.238.20.154:8000/play/a0ej
