@@ -376,13 +376,13 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://mdstrm.com/live-stream-playlist/5ff462cc0c34b9420400e834.m3u8
 
 #EXTINF:-1 tvg-chno="155" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Foro-TV-en-directo-Online-1.png?resize=1068%2C601&ssl=1",Foro TV 🇲🇽
-https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8?hdnea=exp=1724656368~acl=/*~hmac=5acf02a736c633fa22e3332864e24845e99607791a1d7d2ad01a3c4c44978d78
+https://channel02dai-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8?hdnea=st=1724658838~exp=1724659138~acl=*~id=1c7e4272-c26c-46fb-ac7b-24de51e90cc4~hmac=a90004f83f16369886f8e053aee3a017baae2ccfade837416b18765cc7c9aece&originpath=/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/8715742e-a226-4e36-9ba3-ea9a1ba005a4:TUL/master.m3u8
 
 #EXTINF:-1 tvg-chno="156" tvg-logo="https://i.imgur.com/kARz7SR.png",Meganoticias MX ¹ 🇲🇽
 https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="157" tvg-logo="https://img.asmedia.epimg.net/resizer/kYJ1YW8zmMp2x-ecORU978Y0jEk=/1288x725/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/EW3U7NAIBNCOZCYGAGD3NYY54A.jpg",N + 🇲🇽
-https://channel07secure-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8?hdnea=exp=1724656508~acl=/*~hmac=304737d27a22ef0ed0c68cf42bf3c8f2ffdf0fda99829153d3fe14a372b3cf24
+https://channel07dai-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8?hdnea=st=1724658958~exp=1724659258~acl=*~id=67fee182-163f-4b47-a6cf-b1140f9f5c74~hmac=425d87b2b3f75e1b8b40e22184efb42a1f44dc6b93f56abca490c0cbb0f42514&originpath=/linear/hls/pa/event/-upN13W-TT6fUrHnL3XddQ/stream/3f5680ba-a13c-45de-81d0-b5d69e420f3d:CHS/master.m3u8
 
 #EXTINF:-1 tvg-chno="158" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/Milenio-Television-en-vivo-Online.png?resize=1068%2C601&ssl=1",Milenio Noticias ¹ 🇲🇽
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
