@@ -322,10 +322,10 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 #EXTINF:-1 tvg-chno="137" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1",CNN Chile 🇨🇱
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46788.m3u8
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278975.m3u8
 
-#EXTINF:-1 tvg-chno="138" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png",Canal 24 Horas ² 🇨🇱
-http://138.186.122.170:8000/play/a00x
+#EXTINF:-1 tvg-chno="138" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png",Canal 24 Horas 🇨🇱
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278969.m3u8
 
 #EXTINF:-1 tvg-chno="139" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Meganoticias-en-vivo-Online.png",Meganoticias ¹ 🇨🇱
 https://ythls.armelin.one/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
@@ -336,8 +336,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62aa5740a47b6c0007
 #EXTINF:-1 tvg-chno="141" tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2020/12/CANAL-UCL_Logo-350.png",UCL Televisión ¹ 🇺🇾
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
-#EXTINF:-1 tvg-chno="142" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png",TN Noticias ¹ 🇦🇷
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1 tvg-chno="142" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png",TN Noticias 🇦🇷
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278775.m3u8
 
 #EXTINF:-1 tvg-chno="143" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/588px-Canal_26_logo_%282022%29.svg.png",Canal 26 ¹ 🇦🇷
 https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
