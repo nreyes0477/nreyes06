@@ -16,7 +16,7 @@ https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 http://45.163.205.110:8000/play/a0fx/index.m3u8
 
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://pbs.twimg.com/profile_images/1510311834800246787/sfWgWmqk.jpg",Canal 8 Multimedios ¹
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=5dAe2fGb7gE6c1jXaP2GttShy86nHQLK&sid=CVn7tK4xgUFZqDuteItbmSnAyuXsGP0O&pid=eABeayxCV1GThUTcWOCLE8UDPYQ6WI50&an=screen&at=web-app&av=v5.2.420&ref=https%3A%2F%2Famp-telediario-cr.cdn.ampproject.org%2Fv%2Fs%2Famp.telediario.cr%2Ftelevision%3Famp_gsa%3D1%26amp_js_v%3Da9%26usqp%3Dmq331AQIUAKwASCAAgM%253D&res=375x187&without_cookies=false&listenerid=&dnt=true
+https://ythls.armelin.one/channel/UCILU2ghO8GrOeB-zo93eYdA.m3u8
 
 #EXTINF:-1 tvg-chno="9" tvg-logo="https://meganettv.fun/storage/channel-logos/ySwjxbNmEY2GbocranaMX22871ZiAP8HuV16jJZM.png",Canal 38 ¡Opa! ¹
 https://opa.usastreams.com:3066/live/canalopalive.m3u8
@@ -324,8 +324,8 @@ https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-chno="137" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1",CNN Chile 🇨🇱
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278975.m3u8
 
-#EXTINF:-1 tvg-chno="138" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png",Canal 24 Horas 🇨🇱
-http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278969.m3u8
+#EXTINF:-1 tvg-chno="138" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png",Canal 24 Horas ¹ 🇨🇱
+https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 
 #EXTINF:-1 tvg-chno="139" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Meganoticias-en-vivo-Online.png",Meganoticias ¹ 🇨🇱
 https://ythls.armelin.one/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
@@ -373,16 +373,16 @@ https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-chno="154" tvg-logo="https://imcp.org.mx/wp-content/uploads/2017/01/AztecaNoticias.jpg",Azteca Noticias ¹ 🇲🇽
-https://mdstrm.com/live-stream-playlist/5ff462cc0c34b9420400e834.m3u8
+https://ythls.armelin.one/channel/UCUP6qv-_EIL0hwTsJaKYnvw.m3u8
 
-#EXTINF:-1 tvg-chno="155" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Foro-TV-en-directo-Online-1.png?resize=1068%2C601&ssl=1",Foro TV 🇲🇽
-https://channel02dai-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8?hdnea=st=1724658838~exp=1724659138~acl=*~id=1c7e4272-c26c-46fb-ac7b-24de51e90cc4~hmac=a90004f83f16369886f8e053aee3a017baae2ccfade837416b18765cc7c9aece&originpath=/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/8715742e-a226-4e36-9ba3-ea9a1ba005a4:TUL/master.m3u8
+#EXTINF:-1 tvg-chno="155" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Foro-TV-en-directo-Online-1.png?resize=1068%2C601&ssl=1",Foro TV ¹ 🇲🇽
+https://ythls.armelin.one/channel/UCUsm-fannqOY02PNN67C0KA.m3u8
 
 #EXTINF:-1 tvg-chno="156" tvg-logo="https://i.imgur.com/kARz7SR.png",Meganoticias MX ¹ 🇲🇽
 https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="157" tvg-logo="https://img.asmedia.epimg.net/resizer/kYJ1YW8zmMp2x-ecORU978Y0jEk=/1288x725/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/EW3U7NAIBNCOZCYGAGD3NYY54A.jpg",N + 🇲🇽
-https://channel07dai-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8?hdnea=st=1724658958~exp=1724659258~acl=*~id=67fee182-163f-4b47-a6cf-b1140f9f5c74~hmac=425d87b2b3f75e1b8b40e22184efb42a1f44dc6b93f56abca490c0cbb0f42514&originpath=/linear/hls/pa/event/-upN13W-TT6fUrHnL3XddQ/stream/3f5680ba-a13c-45de-81d0-b5d69e420f3d:CHS/master.m3u8
+#EXTINF:-1 tvg-chno="157" tvg-logo="https://img.asmedia.epimg.net/resizer/kYJ1YW8zmMp2x-ecORU978Y0jEk=/1288x725/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/EW3U7NAIBNCOZCYGAGD3NYY54A.jpg",N + ¹ 🇲🇽
+https://ythls.armelin.one/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
 
 #EXTINF:-1 tvg-chno="158" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/Milenio-Television-en-vivo-Online.png?resize=1068%2C601&ssl=1",Milenio Noticias ¹ 🇲🇽
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
@@ -420,8 +420,8 @@ https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-chno="171" tvg-logo="https://vpitv.com/pywhidub/elementor/thumbs/logo-vpi-b-263x300-1-p2z3incdsrpngf2yhvuk1g838o90xfwksu0oidoueg.png",VPItv ¹ 🇻🇪
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="172" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Globovision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Globovisión 🇻🇪
-http://sdmx.vip:80/live/marlon123/marlon123/2106060.m3u8
+#EXTINF:-1 tvg-chno="172" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Globovision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Globovisión ¹ 🇻🇪
+https://ythls.armelin.one/channel/UC06Tup55KpXujnN9LzHXBAw.m3u8
 
 #EXTINF:-1 tvg-chno="173" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/04/Telesur-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Telesur ¹ 🇻🇪
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
