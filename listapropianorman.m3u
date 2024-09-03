@@ -151,7 +151,7 @@ https://mc.servidor.stream:19360/megatv/megatv.m3u8
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 
 #EXTINF:-1 tvg-chno="63" tvg-logo="https://img1.wsimg.com/isteam/ip/0b6749a7-4d1f-4663-98a6-82c3788efdcb/RETROX%20TV%20LOGO%20PNG.png",Retrox TV ¹
-https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
+https://cloudvideo.servers10.com:8081/8064/index.m3u8
 
 #EXTINF:-1 tvg-chno="64" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/RETRO-TV-PALMARES.png",Retro Tv Palmares ¹
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
