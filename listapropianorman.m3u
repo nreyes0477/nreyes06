@@ -157,7 +157,7 @@ https://cloudvideo.servers10.com:8081/8064/index.m3u8
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="65" tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png",Dreiko TV ¹ 🇵🇦 
-https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
+https://cloudvideo.servers10.com:8081/8096/index.m3u8
 
 #EXTINF:-1 tvg-chno="66" tvg-logo="https://i.paste.pics/9c22ea0df4ad9c0affc8fe065875781f.png",Retro Mágico ¹ 🇦🇷
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
