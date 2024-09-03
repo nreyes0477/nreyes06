@@ -1189,13 +1189,13 @@ http://190.92.10.66:4000/play/a00c/index.m3u8
 http://45.186.106.207:8000/play/a06x/index.m3u8
 
 #EXTINF:-1 tvg-chno="602" tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg",Futv (Opc 3) ²
-http://204.157.251.250:8001/play/a03j/index.m3u8
+http://181.78.109.49:8000/play/a05x/index.m3u8
 
 #EXTINF:-1 tvg-chno="603" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR ²
-http://204.157.251.250:8001/play/a02o/index.m3u8
+http://190.211.102.42:4000/play/a07l/index.m3u8
 
 #EXTINF:-1 tvg-chno="604" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR (Opc 2) ²
-http://201.159.113.219:49000/play/a04x/index.m3u8
+http://181.78.109.49:8000/play/a06m/index.m3u8
 
 #EXTINF:-1 tvg-chno="605" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD + ²
 http://204.157.251.250:8000/play/a06b/index.m3u8
