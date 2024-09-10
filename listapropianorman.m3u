@@ -589,7 +589,7 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 http://138.186.122.170:8000/play/a00x
 
 #EXTINF:-1 tvg-chno="239" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png",Caracol ² 🇨🇴
-http://190.61.44.34:1010/play/a05q/index.m3u8
+http://200.59.188.3:8000/play/a02y
 
 #EXTINF:-1 tvg-chno="240" tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg",RCN ² 🇨🇴
 http://186.148.195.206:8000/play/a040/index.m3u8
