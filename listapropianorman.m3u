@@ -537,8 +537,8 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-chno="220" tvg-logo="https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-BLANCA-300x99.png",Multivisión ¹ 🇦🇷
 https://panel.host-live.com:443/825000/825000/chunklist_w2056887441.m3u8
 
-#EXTINF:-1 tvg-chno="221" tvg-logo="https://i.paste.pics/6ea1efdaba3065291386bc1637fc488a.png",Encuentro ¹ 🇦🇷
-https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+#EXTINF:-1 tvg-chno="221" tvg-logo="https://i.paste.pics/6ea1efdaba3065291386bc1637fc488a.png",Encuentro 🇦🇷
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278761.m3u8
 
 #EXTINF:-1 tvg-chno="222" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/ATB-en-vivo-Online.png",ATB 🇧🇴 ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/188400.m3u8
