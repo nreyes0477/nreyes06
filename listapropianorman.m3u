@@ -540,22 +540,22 @@ https://panel.host-live.com:443/825000/825000/chunklist_w2056887441.m3u8
 #EXTINF:-1 tvg-chno="221" tvg-logo="https://i.paste.pics/6ea1efdaba3065291386bc1637fc488a.png",Encuentro 🇦🇷
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278761.m3u8
 
-#EXTINF:-1 tvg-chno="222" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/ATB-en-vivo-Online.png",ATB 🇧🇴 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/188400.m3u8
+#EXTINF:-1 tvg-chno="222" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/ATB-en-vivo-Online.png",ATB 🇧🇴
+http://kstv.us:8080/live/2qt65aetuZ/0527822179/46752.m3u8
 
-#EXTINF:-1 tvg-chno="223" tvg-logo="https://3.bp.blogspot.com/-OFbQmNvw9ns/XCFQN1j9pUI/AAAAAAAAHOU/_HbtJbA4x-ADtnD5ol6JDZmTrRmZCtOSgCLcBGAs/w350-h350-p-k-no-nu/Bolivision%2Ben%2Bvivo.png",Bolivisión ² 🇧🇴 
-http://190.186.131.21:81/play/tdt02/index.m3u8
+#EXTINF:-1 tvg-chno="223" tvg-logo="https://3.bp.blogspot.com/-OFbQmNvw9ns/XCFQN1j9pUI/AAAAAAAAHOU/_HbtJbA4x-ADtnD5ol6JDZmTrRmZCtOSgCLcBGAs/w350-h350-p-k-no-nu/Bolivision%2Ben%2Bvivo.png",Bolivisión 1 🇧🇴 
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-chno="224" tvg-logo="https://3.bp.blogspot.com/-IqEHK3sLw9M/XCFIjI0FUOI/AAAAAAAAHOE/B86GSdMBqBQX5MEb6i9r40jZcoyx0AhqQCLcBGAs/w700-h400-p-k-no-nu/blanco-crop.png",Cadena A ² 🇧🇴
 http://190.186.131.21:81/play/tdt01/index.m3u8
 
 #EXTINF:-1 tvg-chno="225" tvg-logo="https://static-media.streema.com/media/cache/c4/42/c442ed13a23c1f824bfdb25ab0b1397a.jpg",Gigavisión ¹ 🇧🇴
-https://master.tucableip.com:443/gigavision/tracks-v1a1/mono.m3u8
+https://tv2.bitstreaming.net:3896/multi_web/play.m3u8
 
 #EXTINF:-1 tvg-chno="226" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/New_Unitel_logo_HD.jpg",Unitel ² 🇧🇴 
 http://190.186.131.21:81/play/tdt08/index.m3u8
 
-#EXTINF:-1 tvg-chno="227" tvg-logo="https://4.bp.blogspot.com/--7IX2NCKelU/XCFC17d96gI/AAAAAAAAHN0/u3Qj0frMRGMNHKWr3dpKYJfCbbo94kANACLcBGAs/w350-h350-p-k-no-nu/Red%2BUno%2Ben%2Bvivo.png",Red Uno 🇧🇴 ✓
+#EXTINF:-1 tvg-chno="227" tvg-logo="https://4.bp.blogspot.com/--7IX2NCKelU/XCFC17d96gI/AAAAAAAAHN0/u3Qj0frMRGMNHKWr3dpKYJfCbbo94kANACLcBGAs/w350-h350-p-k-no-nu/Red%2BUno%2Ben%2Bvivo.png",Red Uno 🇧🇴 
 http://xpz.com.mx:8080/live/Koko8164/8164koko/188396.m3u8
 
 #EXTINF:-1 tvg-chno="228" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Bolivia TV ¹ 🇧🇴
