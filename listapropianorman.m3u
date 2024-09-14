@@ -1674,4 +1674,11 @@ https://ythls.armelin.one/channel/UC6qrG3W8SMK0jior2olka3g.m3u8
 #EXTINF:-1 tvg-chno="905" tvg-logo="https://quenotepilleeltoro.es/wp-content/uploads/2022/01/camaras-en-vivo-en-el-mundo.png",Cámara Tokio, Japón 
 https://ythls.armelin.one/channel/UCpk2ftN35L3xfoV2S5xLN2A.m3u8
 
+#EXTINF:-1 tvg-chno="950" tvg-logo="https://cdn.instant.audio/images/logos/radios-co-cr/radio-monumental.png",📻 Radio Monumental CR (Solo Audio)
+https://alba-cr-monumental-monumental.stream.mediatiquestream.com/index.m3u8
 
+#EXTINF:-1 tvg-chno="951" tvg-logo="https://cdn.instant.audio/images/logos/radios-co-cr/radio-columbia.png",📻 Radio Columbia CR (Solo Audio)
+https://s2.radio.co/s83b86382e/listen
+
+#EXTINF:-1 tvg-chno="952" tvg-logo="https://cdn.instant.audio/images/logos/radios-co-cr/teletica.png",📻 Teletica Radio (Solo Audio)
+https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/playlist.m3u8
