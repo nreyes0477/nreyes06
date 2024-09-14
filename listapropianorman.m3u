@@ -561,25 +561,25 @@ http://xpz.com.mx:8080/live/Koko8164/8164koko/188396.m3u8
 #EXTINF:-1 tvg-chno="228" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Bolivia TV ¹ 🇧🇴
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="230" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png",Chilevisión 🇨🇱
-http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278974.m3u8
+#EXTINF:-1 tvg-chno="230" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png",Chilevisión ² 🇨🇱
+http://201.219.29.246:8000/play/a00n/index.m3u8
 
-#EXTINF:-1 tvg-chno="231" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png",TVN 🇨🇱
-http://live.budtvlight.com:25461/live/bud-4583224/324a549067/165472.m3u8
+#EXTINF:-1 tvg-chno="231" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png",TVN ² 🇨🇱
+http://201.219.29.246:8000/play/a00m/index.m3u8
 
-#EXTINF:-1 tvg-chno="232" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png",Canal 13 🇨🇱 
-http://live.budtvlight.com:25461/live/bud-4583224/324a549067/162457.m3u8
+#EXTINF:-1 tvg-chno="232" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png",Canal 13 ² 🇨🇱 
+http://201.219.29.246:8000/play/a02l/index.m3u8
 
 #EXTINF:-1 tvg-chno="233" tvg-logo="https://elcomercio.pe/resizer/yihFxlkddrP0HjI7-6_7HKJ7GNc=/992x661/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/VELQ4IWQYZHETFPPHGPNLPTHME.jpg",Canal T13 🇨🇱
 http://ultrapremium.cloud:8080/live/942330689tv/0as03m/83.m3u8
 
-#EXTINF:-1 tvg-chno="234" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mega_chile-mediano.png",Mega 🇨🇱
-http://190.110.163.218:8000/play/a02e
+#EXTINF:-1 tvg-chno="234" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mega_chile-mediano.png",Mega ² 🇨🇱
+http://201.219.29.246:8000/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-chno="235" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_red_chile-mediano.png",La Red ¹ 🇨🇱
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="236" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",TV + ² 🇨🇱
+#EXTINF:-1 tvg-chno="236" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",TV + ¹ 🇨🇱
 https://marine2.miplay.cl/tvmas/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="237" tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-13-c_m.png",Canal 13C ¹ 🇨🇱
