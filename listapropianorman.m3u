@@ -81,9 +81,6 @@ https://acceso.radiosportstv.online:3162/stream/play.m3u8
 #EXTINF:-1 tvg-chno="33" tvg-logo="https://i2.paste.pics/3238d7371f23b09198d794d2979411b9.png",Nicoya TV ¹
 https://59ef525c24caa.streamlock.net:443/nicoyatv/nicoyatv/chunklist_w221500905.m3u8
 
-#EXTINF:-1 tvg-chno="34" tvg-logo="https://image.roku.com/developer_channels/prod/40ac5254789f3c5da9f33dced9cfad859b79400fce2dc23d8527fc36f41cf571.png",Canal Multizonas TV ¹
-https://cloudvideo.servers10.com:8081/8068/index.m3u8
-
 #EXTINF:-1 tvg-chno="35" tvg-logo="https://geomedios.fcs.ucr.ac.cr/wp-content/uploads/2019/07/Limon_TV_Logo.png",Limón TV ¹
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 
