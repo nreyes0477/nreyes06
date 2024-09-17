@@ -112,7 +112,7 @@ http://k4.usastreams.com/telebrunca/telebrunca/playlist.m3u8
 https://acceso.radiosportstv.online:3384/stream/play.m3u8
 
 #EXTINF:-1 tvg-chno="48" tvg-logo="https://image.roku.com/developer_channels/prod/db4a766d6686e0ec2d17d0307c9a4c3bd0dc27a13f0647fb8561bfb0754300a2.png",TV Nosara ¹
-https://stmv.streamingvip.click/tvnosara2/tvnosara2/playlist.m3u8
+https://acceso.radiosportstv.online:3430/stream/play.m3u8
 
 #EXTINF:-1 tvg-chno="49" tvg-logo="https://image.roku.com/developer_channels/prod/3d89b0129300d4fcc1b74f51c7dbee45020d18b6c3457995c78895567ab1a39f.png",Coto Brus TV ¹
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
