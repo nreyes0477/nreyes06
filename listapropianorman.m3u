@@ -21,9 +21,6 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=5dAe2f
 #EXTINF:-1 tvg-chno="9" tvg-logo="https://meganettv.fun/storage/channel-logos/ySwjxbNmEY2GbocranaMX22871ZiAP8HuV16jJZM.png",Canal 38 ¡Opa! ¹
 https://opa.usastreams.com:3066/live/canalopalive.m3u8
 
-#EXTINF:-1 tvg-chno="10" tvg-logo="https://static3.teletica.com/Files/Sizes/2023/6/2/logo-teletica-radio_176429888_380x260.png",Teletica Radio ¹
-https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/chunks.m3u8
-
 #EXTINF:-1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png",Canal 11 Repretel ¹
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 
