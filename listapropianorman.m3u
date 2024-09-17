@@ -139,7 +139,7 @@ https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="60" tvg-logo="https://www.megatvarequipa.com/wp-content/uploads/2023/05/cropped-cropped-cropped-cropped-cropped-Polish_20230519_110858425.jpg",Mega Tv Cine ¹ 🇵🇪
-https://mc.servidor.stream:19360/megatv/megatv.m3u8
+https://stmv5.voxtvhd.com.br/tvytv/tvytv/chunklist_w1751351932.m3u8
 
 #EXTINF:-1 tvg-chno="61" tvg-logo="https://megatvjaen.pe/wp-content/uploads/2022/12/cropped-megajaen.png",Mega Tv ¹ 🇵🇪
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
