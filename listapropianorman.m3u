@@ -526,10 +526,10 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 http://megaxtv.com:80/live/anderson123/anderson123/291669.m3u8
 
 #EXTINF:-1 tvg-chno="239" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png",Caracol ² 🇨🇴
-http://201.219.29.246:8000/play/a02u/index.m3u8
+http://181.78.21.46:8000/play/a00g
 
 #EXTINF:-1 tvg-chno="240" tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg",RCN ² 🇨🇴
-http://201.219.29.246:8000/play/a01j/index.m3u8
+http://181.78.21.46:8000/play/a020
 
 #EXTINF:-1 tvg-chno="241" tvg-logo="https://1.bp.blogspot.com/-jslL1CIeqqk/YaVCAmvGxvI/AAAAAAAADDo/wPaGYipC7Eo_6NVRuL0XESV1lzjq6xhLgCLcBGAsYHQ/s16000/rcnmas.jpg",RCN Más + ¹ 🇨🇴
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
@@ -706,7 +706,7 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49306.m3u8
 
 #EXTINF:-1 tvg-chno="320" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas Latino ² 🇲🇽
-http://177.93.41.134:4000/play/a08r/index.m3u8
+http://181.78.21.46:8000/play/a00a
 
 #EXTINF:-1 tvg-chno="321" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas Latino -2hr 🇲🇽
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/103591.m3u8
@@ -729,11 +729,11 @@ http://181.78.105.146:31589/play/a03a/index.m3u8
 #EXTINF:-1 tvg-chno="327" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo-Imagen-TV-MX.png/800px-Logo -Imagen-TV-MX.png",Imagen TV 🇲🇽
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/39401.m3u8
 
-#EXTINF:-1 tvg-chno="328" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/400px-Unicable_logo.svg.png",Unicable ² 🇲🇽
-http://45.228.234.173:4000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-chno="328" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/400px-Unicable_logo.svg.png",Unicable 🇲🇽
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30643.m3u8
 
 #EXTINF:-1 tvg-chno="329" tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png",Azteca Cinema ² 🇲🇽 
-http://45.228.234.173:4000/play/a00k/index.m3u8
+http://181.78.21.46:8000/play/a030
 
 #EXTINF:-1 tvg-chno="330" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal 2 🇳🇮 ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/155894.m3u8
