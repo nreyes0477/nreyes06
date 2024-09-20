@@ -1257,11 +1257,11 @@ http://go.iptvhn.net:25461/live/7682/7682/13161.m3u8
 #EXTINF:-1 tvg-chno="646" tvg-logo="https://images.squarespace-cdn.com/content/v1/58597a19e58c62ba7fa48bf9/1626211994542-XUWFSKZ5AW26W6RBLXOA/1200px-Claro_Sports_logo.svg.png",Claro Sports 2 MX 🇲🇽
 http://go.iptvhn.net:25461/live/7682/7682/13163.m3u8
 
-#EXTINF:-1 tvg-chno="647" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",DirecTV Sports AR 🇦🇷
-http://ultrapremium.cloud:8080/live/942330689tv/0as03m/480.m3u8
+#EXTINF:-1 tvg-chno="647" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",DirecTV Sports 🇦🇷
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49302.m3u8
 
 #EXTINF:-1 tvg-chno="648" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",DirecTV Sports 2 🇦🇷
-http://ultrapremium.cloud:8080/live/942330689tv/0as03m/473.m3u8
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49301.m3u8
 
 #EXTINF:-1 tvg-chno="649" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_mobile_ORIGINAL.png",ECDF ² 🇪🇨
 http://45.232.148.101:8000/play/a07p/index.m3u8
