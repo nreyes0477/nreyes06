@@ -1593,11 +1593,11 @@ http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/221159.m
 #EXTINF:-1 tvg-chno="812" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF 🇲🇽 (Baño)
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/221158.m3u8
 
-#EXTINF:-1 tvg-chno="900" tvg-logo="https://cdn.instant.audio/images/logos/radios-co-cr/radio-monumental.png",📻 Radio Monumental (Solo Audio)
+#EXTINF:-1 tvg-chno="900" tvg-logo="https://cdn.instant.audio/images/logos/radios-co-cr/radio-monumental.png",Radio Monumental 📻 (Solo Audio)
 https://alba-cr-monumental-monumental.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-chno="901" tvg-logo="https://cdn.instant.audio/images/logos/radios-co-cr/radio-columbia.png",📻 Radio Columbia (Solo Audio)
+#EXTINF:-1 tvg-chno="901" tvg-logo="https://cdn.instant.audio/images/logos/radios-co-cr/radio-columbia.png",Radio Columbia 📻 (Solo Audio)
 https://s2.radio.co/s83b86382e/listen
 
-#EXTINF:-1 tvg-chno="902" tvg-logo="https://cdn.instant.audio/images/logos/radios-co-cr/teletica.png",📻 Teletica Radio (Solo Audio)
+#EXTINF:-1 tvg-chno="902" tvg-logo="https://cdn.instant.audio/images/logos/radios-co-cr/teletica.png",Teletica Radio 📻 (Solo Audio)
 https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/playlist.m3u8
