@@ -552,29 +552,29 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46779.m3u8
 #EXTINF:-1 tvg-chno="247" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/03/RCN_Nuestra_Tele_Int_516x287.jpg",RCN Internacional 🇨🇴
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47550.m3u8
 
-#EXTINF:-1 tvg-chno="250" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/233px-EcuadorTV_logo.png",Ecuador TV ² 🇪🇨
-http://45.71.252.16:8000/play/a0be/index.m3u8
+#EXTINF:-1 tvg-chno="250" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/233px-EcuadorTV_logo.png",Ecuador TV 🇪🇨
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/279330.m3u8
 
 #EXTINF:-1 tvg-chno="251" tvg-logo="https://canalunoecuador.com/wp-content/uploads/2023/04/logo_uno.jpg",Canal Uno ¹ 🇪🇨
 https://us.ejeserver.com/live/canaluno.m3u8
 
-#EXTINF:-1 tvg-chno="252" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/400px-Ecuavisa_Logo_2019.png",Ecuavisa ² 🇪🇨
-http://45.71.252.16:8000/play/a0hz/index.m3u8
+#EXTINF:-1 tvg-chno="252" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/400px-Ecuavisa_Logo_2019.png",Ecuavisa 🇪🇨
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/279322.m3u8
 
-#EXTINF:-1 tvg-chno="253" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",Gamavisión ² 🇪🇨
-http://45.71.252.16:8000/play/a0hy/index.m3u8
+#EXTINF:-1 tvg-chno="253" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",Gamavisión 🇪🇨
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/279323.m3u8
 
-#EXTINF:-1 tvg-chno="254" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oromar_logo.png/300px-Oromar_logo.png",Oromar TV 🇪🇨 ✓
-http://xpz.com.mx:80/live/Koko8164/8164koko/176967.m3u8
+#EXTINF:-1 tvg-chno="254" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oromar_logo.png/300px-Oromar_logo.png",Oromar TV 🇪🇨
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/279324.m3u8
 
 #EXTINF:-1 tvg-chno="255" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/300px-Rts_logo.png",RTS TV 🇪🇨
 http://ky-iptv.com:80/live/RE4T3AR4/TRH5Y4T4/181687.m3u8
 
-#EXTINF:-1 tvg-chno="256" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png",TC Televisión 🇪🇨 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/11039.m3u8
+#EXTINF:-1 tvg-chno="256" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png",TC Televisión 🇪🇨
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/279326.m3u8
 
-#EXTINF:-1 tvg-chno="257" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/Televicentro-Ecuador-TVC-en-vivo-Online.png",TVC ¹ 🇪🇨
-https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-chno="257" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/Televicentro-Ecuador-TVC-en-vivo-Online.png",TVC 🇪🇨
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/279329.m3u8
 
 #EXTINF:-1 tvg-chno="259" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/TCS_2_2016.png/300px-TCS_2_2016.png",Canal 2 ¹ 🇸🇻
 https://telecorporacion.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-video=2000000-audio_0=64000.m3u8
