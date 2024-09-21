@@ -1308,9 +1308,6 @@ http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/38925.m3
 #EXTINF:-1 tvg-chno="664" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aztecadeporteslogo.png/480px-Aztecadeporteslogo.png",Azteca Deportes ² 🇲🇽
 http://38.252.158.1:8000/play/a02x
 
-#EXTINF:-1 tvg-chno="665" tvg-logo="https://1.bp.blogspot.com/-RfPJG64UbjY/X2znqGjfaxI/AAAAAAAAz-U/Nh8HHsidGng56Uro35CXGjU2eWgOYmZqQCLcBGAsYHQ/s640/afizzionados-izzi.jpg",Afizzionados 🇲🇽 
-http://xpz.com.mx:8080/live/Koko8164/8164koko/155471.m3u8
-
 #EXTINF:-1 tvg-chno="666" tvg-logo="https://www.telcocom.com.ar/img/canales/tyc-sports.png",TyC Sports 🇦🇷 
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/127555.m3u8
 
@@ -1339,7 +1336,7 @@ http://live.budtvlight.com:25461/live/bud-4583224/324a549067/279285.m3u8
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278885.m3u8
 
 #EXTINF:-1 tvg-chno="676" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos-fc.png",Cableonda 🇵🇦 
-http://xpz.com.mx:8080/live/Koko8164/8164koko/201868.m3u8
+http://home-playtv.com:8080/live/SiaFlores21/BSMRA/55621.ts
 
 #EXTINF:-1 tvg-chno="677" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Eurosport-Logo-1080x675.png",Eurosport 1 🇪🇦
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/194715.m3u8
@@ -1347,8 +1344,8 @@ http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/194715.m
 #EXTINF:-1 tvg-chno="678" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Eurosport-Logo-1080x675.png",Eurosport 2 🇪🇦
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/194716.m3u8
 
-#EXTINF:-1 tvg-chno="699" tvg-logo="https://www.telcocom.com.ar/img/canales/deportv-hd.png",DeporTV ¹ 🇦🇷
-https://538d0bde28ccf.streamlock.net:443/live-cont.ar/deportv/chunklist_w986698151.m3u8
+#EXTINF:-1 tvg-chno="699" tvg-logo="https://www.telcocom.com.ar/img/canales/deportv-hd.png",DeporTV 🇦🇷
+http://home-playtv.com:8080/live/SiaFlores21/BSMRA/19709.ts
 
 #EXTINF:-1 tvg-chno="700" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
