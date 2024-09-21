@@ -615,6 +615,12 @@ http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/127884.m
 #EXTINF:-1 tvg-chno="272" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/nova-en-directo-online-y-en-vivo.png",Nova 🇪🇸
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/221166.m3u8
 
+#EXTINF:-1 tvg-chno="272" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/neox-en-directo-online-y-en-vivo.png",Neox 🇪🇸
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/221165.m3u8
+
+#EXTINF:-1 tvg-chno="272" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/be-mad-en-directo-online-y-en-vivo.png",Be Mad 🇪🇸
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/221164.m3u8
+
 
 
 
