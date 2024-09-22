@@ -684,8 +684,8 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46905.m3u8
 #EXTINF:-1 tvg-chno="305" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Canal-11-Honduras-en-vivo-Online.png",Canal 11 🇭🇳
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/180075.m3u8
 
-#EXTINF:-1 tvg-chno="307" tvg-logo="https://hch.tv/wp-content/uploads/2021/09/logos-hch-bueno-1.png",HCH 🇭🇳 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/2100980.m3u8
+#EXTINF:-1 tvg-chno="307" tvg-logo="https://hch.tv/wp-content/uploads/2021/09/logos-hch-bueno-1.png",HCH 🇭🇳
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/279280.m3u8
 
 #EXTINF:-1 tvg-chno="308" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/TSI-Telesistema-en-vivo-Online.png",TSI 🇭🇳
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/180078.m3u8
