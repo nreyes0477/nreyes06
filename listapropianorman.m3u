@@ -766,19 +766,19 @@ http://181.78.105.146:6060/play/a01l
 http://xpz.com.mx:8080/live/Koko8164/8164koko/2151932.m3u8
 
 #EXTINF:-1 tvg-chno="340" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png",Tv Max ¹ 🇵🇦
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+https://mdstrm.com/live-stream-playlist/65d4c7bcbe741b6c4131bd70.m3u8?uid=5dAe2fGb7gE6c1jXaP2GttShy86nHQLK&sid=Trw2y3vO774lfLhZAErhvVRC56zXeVbx&pid=cx0B5Hpylhhu6mwZeWs0UczIdmlieF54&an=tvn-pass-app-web&at=web-app&av=v6.0.57&ref=https%3A%2F%2Ftvnpass.com%2F&res=373x210&without_cookies=false&listenerid=&dnt=true&access_token=4LRKo45lFVvYvDeliu2bSSnt6eOco9tiRVURNbTkUZN5MdwdDR7ZF9ex0VnpT8iJMhAuATWZmV4&adInsertionGoogleStreamId=8bd4b887-0bda-43d5-aaf1-94aa4dbc02b9:MRN2
 
 #EXTINF:-1 tvg-chno="341" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png",TVN ¹ 🇵🇦
-https://bcovlive-a.akamaihd.net:443/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
+https://mdstrm.com/live-stream-playlist/64cbe53b46ee28089166c04f.m3u8?uid=5dAe2fGb7gE6c1jXaP2GttShy86nHQLK&sid=Trw2y3vO774lfLhZAErhvVRC56zXeVbx&pid=lK0GJXE6k8gi4MUzXVO842SqcBIAIxe3&an=tvn-pass-app-web&at=web-app&av=v6.0.57&ref=https%3A%2F%2Ftvnpass.com%2F&res=373x210&without_cookies=false&listenerid=&dnt=true&access_token=PD3D3ouso2C5EYRm4VZWvQiG9eVspYgLTGjHTyqyDrcFCvYirASFQmuRDvX8q3Thcsrw1zRseoD&adInsertionGoogleStreamId=f8e1590a-ca8d-49e9-a8c8-e157178977a7:CBF2
 
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/300px-Logo-telemetro.svg.png",Telemetro 🇵🇦 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/201865.m3u8
+#EXTINF:-1 tvg-chno="342" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/300px-Logo-telemetro.svg.png",Telemetro 🇵🇦
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/279307.m3u8
 
 #EXTINF:-1 tvg-chno="343" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/RPC-en-vivo-Online.png?resize=1068%2C601&ssl=1",RPC 🇵🇦
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/47023.m3u8
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/279305.m3u8
 
 #EXTINF:-1 tvg-chno="344" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/NEX-TV-Panam%C3%A1-en-vivo-Online.png?zoom=3&resize=218%2C150&ssl=1",Next TV ¹ 🇵🇦
-https://vcp4.myplaytv.com:1936/nextv/nextv/chunklist_w1170120982.m3u8
+https://vcp8.myplaytv.com:1936/nextv/nextv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="350" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png",Paraguay TV 🇵🇾
 http://home-playtv.com:8080/live/SiaFlores21/BSMRA/186597.ts
