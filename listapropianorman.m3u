@@ -834,8 +834,8 @@ http://home-playtv.com:8080/live/SiaFlores21/BSMRA/60699.ts
 #EXTINF:-1 tvg-chno="374" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/TeleOnce-en-vivo.png?resize=1068%2C601&ssl=1",Teleonce ¹ 🇵🇷
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
-#EXTINF:-1 tvg-chno="375" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/wapa.png?zoom=2&resize=218%2C150&ssl=1",Wapa América 🇵🇷
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/47040.m3u8
+#EXTINF:-1 tvg-chno="375" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/wapa.png?zoom=2&resize=218%2C150&ssl=1",Wapa América ¹ 🇵🇷
+https://live.field59.com/wapa/wapa1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="376" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/telemicro.png?zoom=3&resize=100%2C70&ssl=1",Telemicro Canal 5 ¹ 🇩🇴
 https://glb.bozztv.com/glb/ssh101/0005/index.m3u8
