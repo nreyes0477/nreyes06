@@ -837,11 +837,11 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 #EXTINF:-1 tvg-chno="375" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/wapa.png?zoom=2&resize=218%2C150&ssl=1",Wapa América 🇵🇷
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47040.m3u8
 
-#EXTINF:-1 tvg-chno="376" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/telemicro.png?zoom=3&resize=100%2C70&ssl=1",Telemicro Canal 5 🇩🇴 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/223876.m3u8
+#EXTINF:-1 tvg-chno="376" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/telemicro.png?zoom=3&resize=100%2C70&ssl=1",Telemicro Canal 5 ¹ 🇩🇴
+https://glb.bozztv.com/glb/ssh101/0005/index.m3u8
 
-#EXTINF:-1 tvg-chno="377" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Color-Visio%CC%81n-9-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Color Visión Canal 9 🇩🇴 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/190802.m3u8
+#EXTINF:-1 tvg-chno="377" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Color-Visio%CC%81n-9-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Color Visión Canal 9 ¹ 🇩🇴
+https://glb.bozztv.com/glb/ssh101/0009/index.m3u8
 
 #EXTINF:-1 tvg-chno="378" tvg-logo="https://canalesdominicanos.live/template/images/radios/digital-15.png",Canal 15 ² 🇩🇴
 http://38.252.238.204:6102/play/a01s/index.m3u8
@@ -852,14 +852,14 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/p
 #EXTINF:-1 tvg-chno="380" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Megavision-Canal-43-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Megavisión ¹ 🇩🇴
 https://server2grupocam.com/megavision/MV/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="381" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telesistemac.png?zoom=3&resize=100%2C70&ssl=1",Telesistema 🇩🇴
-http://go.iptvhn.net:25461/live/7682/7682/13304.ts
+#EXTINF:-1 tvg-chno="381" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telesistemac.png?zoom=3&resize=100%2C70&ssl=1",Telesistema ¹ 🇩🇴
+https://glb.bozztv.com/glb/ssh101/0011/index.m3u8
 
 #EXTINF:-1 tvg-chno="382" tvg-logo="https://canalesdominicanos.live/template/images/radios/antena_latina_canal_7.jpg",Antena Latina ¹ 🇩🇴
 http://51.81.106.157:8084/hls/alatina.m3u8
 
-#EXTINF:-1 tvg-chno="384" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/06/telecentro.png?zoom=3&resize=100%2C70&ssl=1",Telecentro 🇩🇴
-http://go.iptvhn.net:25461/live/7682/7682/13301.ts
+#EXTINF:-1 tvg-chno="384" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/06/telecentro.png?zoom=3&resize=100%2C70&ssl=1",Telecentro ¹ 🇩🇴
+https://glb.bozztv.com/glb/ssh101/0013/index.m3u8
 
 #EXTINF:-1 tvg-chno="385" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/canal-4-montecarlo-en-vivo.png?zoom=3&resize=100%2C70&ssl=1",Canal 4 🇺🇾 ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/2055388.m3u8
