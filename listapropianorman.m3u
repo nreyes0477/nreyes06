@@ -768,11 +768,11 @@ http://181.78.105.146:6060/play/a01l
 #EXTINF:-1 tvg-chno="335" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TN8_Nicaragua.svg/1280px-TN8_Nicaragua.svg.png",TN8 🇳🇮 ✓
 http://xpz.com.mx:8080/live/Koko8164/8164koko/2151932.m3u8
 
-#EXTINF:-1 tvg-chno="340" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png",Tv Max ¹ 🇵🇦
-https://mdstrm.com/live-stream-playlist/65d4c7bcbe741b6c4131bd70.m3u8?uid=5dAe2fGb7gE6c1jXaP2GttShy86nHQLK&sid=Trw2y3vO774lfLhZAErhvVRC56zXeVbx&pid=cx0B5Hpylhhu6mwZeWs0UczIdmlieF54&an=tvn-pass-app-web&at=web-app&av=v6.0.57&ref=https%3A%2F%2Ftvnpass.com%2F&res=373x210&without_cookies=false&listenerid=&dnt=true&access_token=4LRKo45lFVvYvDeliu2bSSnt6eOco9tiRVURNbTkUZN5MdwdDR7ZF9ex0VnpT8iJMhAuATWZmV4&adInsertionGoogleStreamId=8bd4b887-0bda-43d5-aaf1-94aa4dbc02b9:MRN2
+#EXTINF:-1 tvg-chno="340" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png",Tv Max 🇵🇦
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/279309.m3u8
 
-#EXTINF:-1 tvg-chno="341" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png",TVN ¹ 🇵🇦
-https://mdstrm.com/live-stream-playlist/64cbe53b46ee28089166c04f.m3u8?uid=5dAe2fGb7gE6c1jXaP2GttShy86nHQLK&sid=Trw2y3vO774lfLhZAErhvVRC56zXeVbx&pid=lK0GJXE6k8gi4MUzXVO842SqcBIAIxe3&an=tvn-pass-app-web&at=web-app&av=v6.0.57&ref=https%3A%2F%2Ftvnpass.com%2F&res=373x210&without_cookies=false&listenerid=&dnt=true&access_token=PD3D3ouso2C5EYRm4VZWvQiG9eVspYgLTGjHTyqyDrcFCvYirASFQmuRDvX8q3Thcsrw1zRseoD&adInsertionGoogleStreamId=f8e1590a-ca8d-49e9-a8c8-e157178977a7:CBF2
+#EXTINF:-1 tvg-chno="341" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png",TVN 🇵🇦
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/279310.m3u8
 
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/300px-Logo-telemetro.svg.png",Telemetro 🇵🇦
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/279307.m3u8
@@ -864,20 +864,20 @@ https://fl1002.bozztv.com/ssh101/0007/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="384" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/06/telecentro.png?zoom=3&resize=100%2C70&ssl=1",Telecentro ¹ 🇩🇴
 https://glb.bozztv.com/glb/ssh101/0013/index.m3u8
 
-#EXTINF:-1 tvg-chno="385" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/canal-4-montecarlo-en-vivo.png?zoom=3&resize=100%2C70&ssl=1",Canal 4 🇺🇾 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/2055388.m3u8
+#EXTINF:-1 tvg-chno="385" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/canal-4-montecarlo-en-vivo.png?zoom=3&resize=100%2C70&ssl=1",Canal 4 🇺🇾
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278794.m3u8
 
 #EXTINF:-1 tvg-chno="386" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/08/Canal-5-Uruguay-en-vivo-Online.png?resize=1068%2C601&ssl=1",Canal 5 🇺🇾
-http://tv.boxdigital.org:8080/live/Maic924EA/kUMzBKcYdaqz/245796.m3u8
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278796.m3u8
 
 #EXTINF:-1 tvg-chno="387" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/canal-7-punta-del-este-2.png?w=800&ssl=1",Canal 7 🇺🇾
-https://vxlive.cdn.antel.net.uy/auth_V_Canal_7_Punta,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWxfN19QdW50YSUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzEwOTk3NTUwJnJhbmRvbT10V2VyN0JoYjhOJmMtaXA9NDUuNjUuMTg5LjYwJmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTE5NiZwdWJsaWNfaWQ9MnNoODMsMDljZjM0ZmM0YjgyZjZkMzMxYTlkNDRjMjJhNDhiNTExOWFmY2RlYTkwOTE3YzI2OTE3NmZjMTIwNmMzYjcxNw==/vxfmt=hls/playlist.m3u8
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278797.m3u8
 
-#EXTINF:-1 tvg-chno="388" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png?zoom=3&resize=100%2C70&ssl=1",Canal 10 🇺🇾 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/2055383.m3u8
+#EXTINF:-1 tvg-chno="388" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png?zoom=3&resize=100%2C70&ssl=1",Canal 10 🇺🇾
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278792.m3u8
 
-#EXTINF:-1 tvg-chno="389" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/Teledoce-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Teledoce 🇺🇾 ✓
-http://xpz.com.mx:8080/live/Koko8164/8164koko/2055384.m3u8
+#EXTINF:-1 tvg-chno="389" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/Teledoce-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Teledoce 🇺🇾
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278789.m3u8
 
 #EXTINF:-1 tvg-chno="390" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Venevision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Venevisión ² 🇻🇪
 http://45.179.164.30:8000/play/a02n/index.m3u8
@@ -885,17 +885,17 @@ http://45.179.164.30:8000/play/a02n/index.m3u8
 #EXTINF:-1 tvg-chno="391" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Venezolana-de-Televisi%C3%B3n-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Venezolana de TV ² 🇻🇪
 http://38.41.8.1:8000/play/a03i
 
-#EXTINF:-1 tvg-chno="392" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Televen-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1",Televen ² 🇻🇪
-http://38.41.8.1:8000/play/a03x
+#EXTINF:-1 tvg-chno="392" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Televen-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1",Televen 🇻🇪
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278999.m3u8
 
-#EXTINF:-1 tvg-chno="393" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/TVES-Venezuela-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",TVes ² 🇻🇪
-http://38.41.8.1:8000/play/a03k
+#EXTINF:-1 tvg-chno="393" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/TVES-Venezuela-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",TVes 🇻🇪
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/279000.m3u8
 
 #EXTINF:-1 tvg-chno="394" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Ve-Plus-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Venevisión Plus ² 🇻🇪
 http://38.41.8.1:8000/play/a0a0
 
-#EXTINF:-1 tvg-chno="395" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/IVC_Network_Logo.png/300px-IVC_Network_Logo.png",IVC ² 🇻🇪 
-http://38.41.8.1:8000/play/a09r
+#EXTINF:-1 tvg-chno="395" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/IVC_Network_Logo.png/300px-IVC_Network_Logo.png",IVC 🇻🇪 
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278997.m3u8
 
 #EXTINF:-1 tvg-chno="396" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_Meridiano_TV_Venezuela.png",Meridiano ² 🇻🇪
 http://38.41.8.1:8000/play/a03w
