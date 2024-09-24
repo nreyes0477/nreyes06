@@ -795,8 +795,8 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/47027.m3u8
 #EXTINF:-1 tvg-chno="353" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/240px-Logotrececanal.png",Canal Trece ¹ 🇵🇾
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8?k=7bbcd2c29036c5780ea487ec3c5331e9f9b59d1fb301321e7d5c8805d61e8c5c&exp=1718519821
 
-#EXTINF:-1 tvg-chno="354" tvg-logo="https://latele.com.py/wp-content/uploads/2022/06/logo-latele.png",La Tele ¹ 🇵🇾
-https://rds3tf.desdeparaguay.net/latele/latele_int_baja/playlist.m3u8?k=ce755d2229b4d240eb110a45b09064da9cb6715a7b8991bb2d195e1069cfbee3&exp=1718519735
+#EXTINF:-1 tvg-chno="354" tvg-logo="https://latele.com.py/wp-content/uploads/2022/06/logo-latele.png",La Tele 🇵🇾
+http://ky-iptv.com:80/live/RE4T3AR4/TRH5Y4T4/180854.m3u8
 
 #EXTINF:-1 tvg-chno="355" tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png",Unicanal ¹ 🇵🇾 
 https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
