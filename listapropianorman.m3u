@@ -1323,8 +1323,8 @@ http://190.92.10.66:4000/play/a008/index.m3u8
 #EXTINF:-1 tvg-chno="662" tvg-logo="https://publicidadmegacable.com.mx/wp-content/uploads/2023/07/tvcdeportes.png",TVC Deportes 🇲🇽
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/189964.m3u8
 
-#EXTINF:-1 tvg-chno="663" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports-mediano.png",A y M Sports 🇲🇽
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/38925.m3u8
+#EXTINF:-1 tvg-chno="663" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports-mediano.png",A y M Sports ¹ 🇲🇽
+https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 
 #EXTINF:-1 tvg-chno="664" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aztecadeporteslogo.png/480px-Aztecadeporteslogo.png",Azteca Deportes ² 🇲🇽
 http://38.252.158.1:8000/play/a02x
