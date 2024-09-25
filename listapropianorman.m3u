@@ -1161,8 +1161,8 @@ http://204.157.251.250:8000/play/a06c/index.m3u8
 #EXTINF:-1 tvg-chno="608" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 (Opc 2)
 http://go.iptvhn.net:25461/live/7682/7682/13283.m3u8
 
-#EXTINF:-1 tvg-chno="609" tvg-logo="https://www.telcocom.com.ar/img/canales/espn.png",ESPN Centro América ²
-http://186.189.222.205:1993/play/015/index.m3u8
+#EXTINF:-1 tvg-chno="609" tvg-logo="https://www.telcocom.com.ar/img/canales/espn.png",ESPN Centro América
+http://dnslivetv.online:80/live/Victor1234/Victor1234/1069845.m3u8
 
 #EXTINF:-1 tvg-chno="610" tvg-logo="https://www.telcocom.com.ar/img/canales/espn-2.png",ESPN 2 Centro América
 http://go.iptvhn.net:25461/live/7682/7682/13191.m3u8
@@ -1192,7 +1192,7 @@ http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/50751.m3
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/37307.m3u8
 
 #EXTINF:-1 tvg-chno="618" tvg-logo="https://www.telcocom.com.ar/img/canales/fox-sports-3.png",Fox Sports Premium MX 🇲🇽 
-http://xtream.lat:8880/live/Alex2023/Alex2023/29641.m3u8
+http://dnslivetv.online:80/live/Victor1234/Victor1234/591683.m3u8
 
 #EXTINF:-1 tvg-chno="619" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Sur ²
 http://181.78.21.46:8000/play/a015
