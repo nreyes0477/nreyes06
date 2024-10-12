@@ -1140,28 +1140,28 @@ http://45.163.205.110:8000/play/a0ha/index.m3u8
 #EXTINF:-1 tvg-chno="600" tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg",Futv ²
 http://190.92.10.66:4000/play/a00c/index.m3u8
 
-#EXTINF:-1 tvg-chno="601" tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg",Futv (Opc 2) ²
+#EXTINF:-1 tvg-chno="601" tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg",Futv (2) ²
 http://45.186.106.207:8000/play/a06x/index.m3u8
 
-#EXTINF:-1 tvg-chno="602" tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg",Futv (Opc 3) ²
+#EXTINF:-1 tvg-chno="602" tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg",Futv (3) ²
 http://181.78.109.49:8000/play/a05x/index.m3u8
 
 #EXTINF:-1 tvg-chno="603" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR ²
-http://45.228.234.167:8000/play/a038/index.m3u8
+http://38.159.227.124:8000/play/a02n
 
-#EXTINF:-1 tvg-chno="604" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR (Opc 2)
+#EXTINF:-1 tvg-chno="604" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR (2)
 http://go.iptvhn.net:25461/live/7682/7682/13307.m3u8
 
 #EXTINF:-1 tvg-chno="605" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD + ²
-http://204.157.251.250:8000/play/a06b/index.m3u8
+http://38.159.227.124:8000/play/a09h
 
-#EXTINF:-1 tvg-chno="606" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD + (Opc 2)
+#EXTINF:-1 tvg-chno="606" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD + (2)
 http://go.iptvhn.net:25461/live/7682/7682/13284.m3u8
 
 #EXTINF:-1 tvg-chno="607" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 ²
-http://204.157.251.250:8000/play/a06c/index.m3u8
+http://38.159.227.124:8000/play/a09i
 
-#EXTINF:-1 tvg-chno="608" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 (Opc 2)
+#EXTINF:-1 tvg-chno="608" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 (2)
 http://go.iptvhn.net:25461/live/7682/7682/13283.m3u8
 
 #EXTINF:-1 tvg-chno="609" tvg-logo="https://www.telcocom.com.ar/img/canales/espn.png",ESPN Centro América
