@@ -1198,28 +1198,31 @@ http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/37307.m3
 https://xca5.pricesaskeloadsc.com/global/foxsportspremium/index.m3u8?token=104685660a9702094a48e1fcb2c7e30c8f5a221b-62-1727873987-1727837987
 
 #EXTINF:-1 tvg-chno="619" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Sur ²
-http://181.78.21.46:8000/play/a015
+http://38.41.8.1:8000/play/a01i
 
 #EXTINF:-1 tvg-chno="620" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 2 Sur ²
-http://181.78.21.46:8000/play/a016
+http://38.41.8.1:8000/play/a00c
 
-#EXTINF:-1 tvg-chno="621" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 3 Sur ²
-http://181.78.21.46:8000/play/a017
+#EXTINF:-1 tvg-chno="621" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 2 Sur ²
+http://38.41.8.1:8000/play/a00v
 
-#EXTINF:-1 tvg-chno="622" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 4 Sur ²
-http://168.197.196.98:82/stream/channelid/336130359?profile=pass
+#EXTINF:-1 tvg-chno="622" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 3 Sur ²
+http://38.41.8.1:8000/play/a00t
 
-#EXTINF:-1 tvg-chno="623" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 5 Sur ²
-http://181.78.21.46:8000/play/a018
+#EXTINF:-1 tvg-chno="623" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 4 Sur ²
+http://38.41.8.1:8000/play/a01c
+
+#EXTINF:-1 tvg-chno="624" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 5 Sur ²
+http://38.41.8.1:8000/play/a0br
 
 #EXTINF:-1 tvg-chno="625" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 6 Sur  ²
-http://181.78.21.46:8000/play/a019
+http://38.41.8.1:8000/play/a0bp
 
 #EXTINF:-1 tvg-chno="626" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN 7 Sur  ²
-http://181.78.21.46:8000/play/a01a
+http://38.41.8.1:8000/play/a0bs
 
 #EXTINF:-1 tvg-chno="627" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Premium Sur ²
-http://168.197.196.98:82/stream/channelid/382818403?profile=pass
+http://38.41.8.1:8000/play/a0ca
 
 #EXTINF:-1 tvg-chno="628" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Colombia ²
 http://190.60.40.37:12500/play/a096/index.m3u8
