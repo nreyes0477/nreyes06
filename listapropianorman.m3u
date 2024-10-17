@@ -1326,8 +1326,8 @@ http://ky-iptv.com:80/live/RE4T3AR4/TRH5Y4T4/219561.m3u8
 #EXTINF:-1 tvg-chno="659" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GOL_PLAY.svg/250px-GOL_PLAY.svg.png",Gol Play ² 🇪🇦
 http://45.153.96.44:8000/play/a00u
 
-#EXTINF:-1 tvg-chno="660" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/600px-Teledeporte.svg.png",Teledeporte (TVE) ² 🇪🇦
-http://77.228.160.100:61800/play/a027
+#EXTINF:-1 tvg-chno="660" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/600px-Teledeporte.svg.png",Teledeporte (TVE) ¹ 🇪🇦
+https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 
 #EXTINF:-1 tvg-chno="661" tvg-logo="https://www.deportestvc.com/images/home/logo-white-yellow.png",Deportes TVC ² 🇭🇳
 http://190.92.10.66:4000/play/a008/index.m3u8
