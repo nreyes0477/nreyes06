@@ -1153,7 +1153,7 @@ http://190.92.10.66:4000/play/a00c/index.m3u8
 http://45.186.106.207:8000/play/a06x/index.m3u8
 
 #EXTINF:-1 tvg-chno="601" tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg",Futv (3) ²
-http://181.78.109.49:8000/play/a05x/index.m3u8
+http://45.186.106.207:8000/play/a06x
 
 #EXTINF:-1 tvg-chno="602" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR ¹
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
