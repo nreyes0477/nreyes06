@@ -441,8 +441,8 @@ http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278759.m3u8
 #EXTINF:-1 tvg-chno="208" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",TV Pública 🇦🇷
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/162336.m3u8
 
-#EXTINF:-1 tvg-chno="209" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG",América TV 🇦🇷
-http://live.budtvlight.com:25461/live/bud-3150799/ps1N9wRnc5Q/278751.m3u8
+#EXTINF:-1 tvg-chno="209" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG",América TV * 🇦🇷
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:18:11:5E&stream=150916&extension=ts
 
 #EXTINF:-1 tvg-chno="210" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png",TN Noticias 🇦🇷
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278775.m3u8
