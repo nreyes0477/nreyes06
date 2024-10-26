@@ -1341,7 +1341,7 @@ http://tv1.darktv.eu:80/play/live.php?mac=00:1A:79:F6:6F:BF&stream=162670&extens
 #EXTINF:-1 tvg-chno="664" tvg-logo="https://static.wixstatic.com/media/27d2df_aa6a01e490a545b8b5973d06025aa9cd~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LIGA-DE-CAMPEONES-POR-M.png",Movistar Liga de Campeones ™ 🇪🇸
 http://tv1.darktv.eu:80/play/live.php?mac=00:1A:79:F6:6F:BF&stream=56334&extension=ts
 
-#EXTINF:-1 tvg-chno="665" tvg-logo="https://static.wixstatic.com/https://static.wixstatic.com/media/27d2df_e67e19ff3031474eb55f193671f99c58~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DEPORTES-POR-M.png",Movistar Deportes ™ 🇪🇸
+#EXTINF:-1 tvg-chno="665" tvg-logo="https://static.wixstatic.com/media/27d2df_b3af5440b55c4187a22603dec862fa45~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/M-DEPORTES.png",Movistar Deportes ™ 🇪🇸
 http://tv1.darktv.eu:80/play/live.php?mac=00:1A:79:F6:6F:BF&stream=56336&extension=ts
 
 #EXTINF:-1 tvg-chno="666" tvg-logo="https://static.wixstatic.com/media/27d2df_5ff1a2453f4d42f5961fbd1063004468~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BEIN-SPORTS.png",Bein Sports 🇺🇸 
