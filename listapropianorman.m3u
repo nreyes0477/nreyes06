@@ -1404,11 +1404,11 @@ http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278885.m3u8
 #EXTINF:-1 tvg-chno="685" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos.png?resize=600%2C360&ssl=1",Cableonda 🇵🇦 
 http://dnslivetv.online:80/live/Victor1234/Victor1234/1070418.m3u8
 
-#EXTINF:-1 tvg-chno="686" tvg-logo="https://static.wixstatic.com/media/27d2df_6f105d86f6594198a9fc6590dee6b3c0~mv2.png/v1/fill/w_200,h_182,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/EUROSPORT-1.png",Eurosport 1 🇪🇦
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/194715.m3u8
+#EXTINF:-1 tvg-chno="686" tvg-logo="https://static.wixstatic.com/media/27d2df_6f105d86f6594198a9fc6590dee6b3c0~mv2.png/v1/fill/w_200,h_182,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/EUROSPORT-1.png",Eurosport 1 ² 🇪🇦
+http://185.189.225.157/EuroSport1/index.m3u8
 
-#EXTINF:-1 tvg-chno="687" tvg-logo="https://static.wixstatic.com/media/27d2df_4614cbf5c6084044b063fff6f5de6d04~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/EUROSPORT-2.png",Eurosport 2 🇪🇦
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/194716.m3u8
+#EXTINF:-1 tvg-chno="687" tvg-logo="https://static.wixstatic.com/media/27d2df_4614cbf5c6084044b063fff6f5de6d04~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/EUROSPORT-2.png",Eurosport 2 ² 🇪🇦
+http://185.189.225.157/EuroSport2/index.m3u8
 
 #EXTINF:-1 tvg-chno="688" tvg-logo="https://static.wixstatic.com/media/27d2df_7198c6ed4299494984dce09650a355c2~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DEPORTV.png",DeporTV 🇦🇷
 http://home-playtv.com:8080/live/SiaFlores21/BSMRA/19709.ts
