@@ -1,7 +1,7 @@
 4#EXTM3U
 
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png",Canal 2 Repretel ¹
-https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
+https://d30230c1j3h08x.cloudfront.net:443/live2/alba-cr-repretel-c2_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/1200px-Repretel_4_logo.png",Canal 4 Repretel ¹
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
