@@ -33,9 +33,6 @@ https://ssh101.bozztv.com/ssh101/sinart13/playlist.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2022/09/tvsur-logo-01-1-300x120.png",Tv Sur Canal 14 ¹
 https://k20.usastreams.com:8081/tvsur/index.m3u8
 
-#EXTINF:-1 tvg-chno="15" tvg-logo="https://www.ucr.ac.cr/medios/fotos/pri_xx-large/2007/logo_canal_15_Oct_2007.jpg",Canal 15 UCR ¹
-http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="16" tvg-logo="https://elnortehoycr.com/wp-content/uploads/2020/07/captura-19.jpg",TVN 14 San Carlos ¹
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/chunklist_w1881922243.m3u8
 
