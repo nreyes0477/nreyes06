@@ -7,7 +7,7 @@ https://d30230c1j3h08x.cloudfront.net:443/live2/alba-cr-repretel-c2_720p/chunks.
 https://d35xpyc30huab3.cloudfront.net:443/live2/alba-cr-repretel-c4_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://canal1cr.com/wp-content/uploads/2023/02/logo-canal-1-png.png",Canal 1 CR ¹
-https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
+https://59ef525c24caa.streamlock.net:443/canal1cr/canal1cr/chunklist_w1393812620.m3u8
 
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/768px-Repretel_6_logo.png",Canal 6 Repretel ¹
 http://alba-cr-repretel-c6.stream.mediatiquestream.com:80/live2/alba-cr-repretel-c6_720p/chunks.m3u8
@@ -16,7 +16,7 @@ http://alba-cr-repretel-c6.stream.mediatiquestream.com:80/live2/alba-cr-repretel
 http://38.159.227.124:8000/play/a04l
 
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://pbs.twimg.com/profile_images/1510311834800246787/sfWgWmqk.jpg",Canal 8 Multimedios ¹
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+https://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream/5a7b1e63a8da282c34d65445/publish/media_2000.m3u8
 
 #EXTINF:-1 tvg-chno="9" tvg-logo="https://meganettv.fun/storage/channel-logos/ySwjxbNmEY2GbocranaMX22871ZiAP8HuV16jJZM.png",Canal 38 ¡Opa! ¹
 https://opa.usastreams.com:3066/live/canalopalive.m3u8
@@ -25,7 +25,7 @@ https://opa.usastreams.com:3066/live/canalopalive.m3u8
 https://alba-cr-repretel-c11.stream.mediatiquestream.com:443/live2/alba-cr-repretel-c11_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="12" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Trivisio%CC%81n-Canal-36-en-vivo-Online.png",Canal 36 Trivisión ¹
-https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR
+https://liveingesta118.cdnmedia.tv:443/trivision36live/dvrlive-1500/chunklist.m3u8?DVR
 
 #EXTINF:-1 tvg-chno="13" tvg-logo="https://observador.cr/wp-content/uploads/2022/07/Logo-nuevo-canal-13-768x692.png",Canal 13 Sinart ¹
 https://ssh101.bozztv.com/ssh101/sinart13/playlist.m3u8
