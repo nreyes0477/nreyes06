@@ -1081,25 +1081,25 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46673.m3u8
 https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="571" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/974900e1-ac0c-4b14-b53e-709256647580-peliculas-top-rakuten-tv-1646658076-width308-quality100.png",Rakuten Pelis Top ¹
-https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_TopFree/playlist.m3u8
+https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
 
 #EXTINF:-1 tvg-chno="572" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/0b06f362-181a-4739-93ee-3107e97a6647-peliculas-de-drama-rakuten-tv-1646657029-width308-quality100.png",Rakuten Thriller ¹
 https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="573" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork_negative/9c3a32bb-dc79-4a77-8044-49074061fb30-peliculas-romanticas-rakuten-tv-1646309973-width308-quality100.png",Rakuten Romántico ¹
-https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/playlist.m3u8
+https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
 
 #EXTINF:-1 tvg-chno="574" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/51e01112-6f31-49ba-b421-47031627a140-peliculas-de-accion-rakuten-tv-1646655516-width308-quality100.png",Rakuten Acción ¹
-https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
 
 #EXTINF:-1 tvg-chno="575" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/458ca863-1e87-4e97-8a6f-f6f51d746d28-width308-quality100.png",Rakuten Comedia ¹
-https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
+https://69e10208b9a0477c91a7d3c5bc302b85.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_RakutenComedyMovies/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="576" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/7c17c13b-c287-4d6f-9140-f9b01397db6a-familiares-rakuten-tv-1646657513-width308-quality100.png",Rakuten Familia ¹
-https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
+https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
 
 #EXTINF:-1 tvg-chno="577" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/a4096669-588b-40b7-87ac-9acc8295882c-width308-quality100.png",Rakuten Historias ¹
-https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
+https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
 
 #EXTINF:-1 tvg-chno="578" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png",DreamWorks
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/183782.m3u8
