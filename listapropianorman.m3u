@@ -1278,8 +1278,8 @@ http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/50085.m3
 #EXTINF:-1 tvg-chno="643" tvg-logo="https://seeklogo.com/images/F/fox-sports-3-argentina-2023-logo-2A58AB321F-seeklogo.com.png",Fox Sports 3 Sur
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/190524.m3u8
 
-#EXTINF:-1 tvg-chno="644" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png",TUDN MX 🇲🇽
-http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278559.m3u8
+#EXTINF:-1 tvg-chno="644" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png",TUDN MX ² 🇲🇽
+http://190.92.10.66:4000/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-chno="645" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png",TUDN USA 🇺🇸
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/180970.m3u8
