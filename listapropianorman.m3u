@@ -1180,7 +1180,7 @@ http://190.211.102.42:4000/play/a085/index.m3u8
 http://38.159.227.124:8000/play/a043
 
 #EXTINF:-1 tvg-chno="610" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN Norte
-http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278578.m3u8
+https://24a.pricesaskeloadsc.com/espnmx/tracks-v1a1/mono.m3u8?token=10fc917672bfcba916d6fcaec8dfcbc473e57bb6-7d-1731246638-1731210638
 
 #EXTINF:-1 tvg-chno="611" tvg-logo="https://static.wixstatic.com/media/27d2df_3855b68f65c541f1a3e6b3c89e80a07b~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-2.png",ESPN 2 Norte
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/277642.m3u8
