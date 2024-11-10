@@ -1306,7 +1306,7 @@ http://45.232.148.101:8000/play/a07p/index.m3u8
 http://190.92.10.66:4000/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-chno="653" tvg-logo="https://static.wixstatic.com/media/27d2df_8560e12d0965432f912670021b8da9bc~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/SKY-SPORTS.png",Sky Sports La Liga ² 🇺🇸
-http://45.5.117.182:8000/play/jnl0/index.m3u8
+http://181.78.105.146:8800/play/a07h
 
 #EXTINF:-1 tvg-chno="654" tvg-logo="https://static.wixstatic.com/media/27d2df_a2dd2c74ec5a4092ab9be022ee52ea8e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-LA-LIGA.png",Dazn La Liga ™ 🇪🇦
 http://tv1.darktv.eu:80/play/live.php?mac=00:1A:79:F6:6F:BF&stream=162673&extension=ts
