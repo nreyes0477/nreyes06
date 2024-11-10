@@ -1341,8 +1341,8 @@ http://tv1.darktv.eu:80/play/live.php?mac=00:1A:79:F6:6F:BF&stream=56336&extensi
 #EXTINF:-1 tvg-chno="666" tvg-logo="https://static.wixstatic.com/media/27d2df_5ff1a2453f4d42f5961fbd1063004468~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BEIN-SPORTS.png",Bein Sports 🇺🇸 
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30763.m3u8
 
-#EXTINF:-1 tvg-chno="667" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sport-XTRA.png",Bein Sports XTRA 🇺🇸
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/155719.m3u8
+#EXTINF:-1 tvg-chno="667" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sport-XTRA.png",Bein Sports XTRA ¹ 🇺🇸
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="668" tvg-logo="https://static.wixstatic.com/media/27d2df_671d5242045d41078058c9361622dacd~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/GOL-TV.png",Gol Tv ² 🇵🇪
 http://200.60.124.20:29000/play/a0ak/index.m3u8
