@@ -1380,8 +1380,8 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/47078.m3u8
 #EXTINF:-1 tvg-chno="679" tvg-logo="https://static.wixstatic.com/media/27d2df_e7790a6174964e8f971e92664372a4ad~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/WIN-SPORTS.png",Win Sports 🇨🇴
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/279400.m3u8
 
-#EXTINF:-1 tvg-chno="680" tvg-logo="https://static.wixstatic.com/media/27d2df_b3af5440b55c4187a22603dec862fa45~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/M-DEPORTES.png",Movistar Deportes ² 🇵🇪 
-http://45.164.64.141:3131/play/a09a/index.m3u8
+#EXTINF:-1 tvg-chno="680" tvg-logo="https://static.wixstatic.com/media/27d2df_b3af5440b55c4187a22603dec862fa45~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/M-DEPORTES.png",Movistar Deportes 🇵🇪 
+http://dnslivetv.online:80/live/Victor1234/Victor1234/1070265.m3u8
 
 #EXTINF:-1 tvg-chno="681" tvg-logo="https://i.imgur.com/6wkmgGM.png",Tigo Sports Panamá 🇵🇦 
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/279308.m3u8
