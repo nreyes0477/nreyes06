@@ -1270,13 +1270,13 @@ https://gucprez.online:9090/ESPNDEP/index.fmp4.m3u8
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
 #EXTINF:-1 tvg-chno="641" tvg-logo="https://seeklogo.com/images/F/fox-sports-argentina-2023-logo-2874DA0937-seeklogo.com.png",Fox Sports Sur ¹
-https://gucprez.online:9090/FOXSPORTS3/index.fmp4.m3u8
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278766.m3u8
 
 #EXTINF:-1 tvg-chno="642" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-argentina-2023-logo-15FC12510F-seeklogo.com.png",Fox Sports 2 Sur 
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/50085.m3u8
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278767.m3u8
 
 #EXTINF:-1 tvg-chno="643" tvg-logo="https://seeklogo.com/images/F/fox-sports-3-argentina-2023-logo-2A58AB321F-seeklogo.com.png",Fox Sports 3 Sur
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/190524.m3u8
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278768.m3u8
 
 #EXTINF:-1 tvg-chno="644" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png",TUDN MX ² 🇲🇽
 http://190.92.10.66:4000/play/a002/index.m3u8
@@ -1306,7 +1306,7 @@ http://45.232.148.101:8000/play/a07p/index.m3u8
 http://190.92.10.66:4000/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-chno="653" tvg-logo="https://static.wixstatic.com/media/27d2df_8560e12d0965432f912670021b8da9bc~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/SKY-SPORTS.png",Sky Sports La Liga ² 🇺🇸
-http://181.78.105.146:8800/play/a07h
+http://45.5.117.182:8000/play/jnl0/index.m3u8
 
 #EXTINF:-1 tvg-chno="654" tvg-logo="https://static.wixstatic.com/media/27d2df_a2dd2c74ec5a4092ab9be022ee52ea8e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-LA-LIGA.png",Dazn La Liga ™ 🇪🇦
 http://tv1.darktv.eu:80/play/live.php?mac=00:1A:79:F6:6F:BF&stream=162673&extension=ts
