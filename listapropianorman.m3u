@@ -1179,7 +1179,7 @@ http://190.211.102.42:4000/play/a085/index.m3u8
 #EXTINF:-1 tvg-chno="609" tvg-logo="https://static.wixstatic.com/media/27d2df_3855b68f65c541f1a3e6b3c89e80a07b~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-2.png",ESPN 2 Centro América ²
 http://38.159.227.124:8000/play/a043
 
-#EXTINF:-1 tvg-chno="610" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN Norte 
+#EXTINF:-1 tvg-chno="610" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN Norte ⁽ᵗˢ⁾
 http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=132278&extension=ts
 
 #EXTINF:-1 tvg-chno="611" tvg-logo="https://static.wixstatic.com/media/27d2df_3855b68f65c541f1a3e6b3c89e80a07b~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-2.png",ESPN 2 Norte
@@ -1242,7 +1242,7 @@ http://186.167.81.111:8126/play/a0do/index.m3u8
 #EXTINF:-1 tvg-chno="631" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN Sur ²
 http://190.61.44.34:1010/play/a00h/index.m3u8
 
-#EXTINF:-1 tvg-chno="632" tvg-logo="https://static.wixstatic.com/media/27d2df_3855b68f65c541f1a3e6b3c89e80a07b~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-2.png",ESPN Sur 2
+#EXTINF:-1 tvg-chno="632" tvg-logo="https://static.wixstatic.com/media/27d2df_3855b68f65c541f1a3e6b3c89e80a07b~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-2.png",ESPN Sur 2 ⁽ᵗˢ⁾
 http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=151114&extension=ts
 
 #EXTINF:-1 tvg-chno="633" tvg-logo="https://static.wixstatic.com/media/27d2df_924eed614eed44d3a36344f60a9fcde1~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-3.png",ESPN Sur 3 ²
