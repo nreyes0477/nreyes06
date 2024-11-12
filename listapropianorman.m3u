@@ -1102,25 +1102,25 @@ https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/183782.m3u8
 
 #EXTINF:-1 tvg-chno="580" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO ²
-http://186.167.81.111:8126/play/a0d9/index.m3u8
+http://45.181.123.233:8000/play/a0j6
 
 #EXTINF:-1 tvg-chno="581" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",HBO 2 ²
-http://186.167.81.111:8126/play/a0de/index.m3u8
+http://45.181.123.233:8000/play/a0j3
 
 #EXTINF:-1 tvg-chno="582" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",HBO Family ²
-http://186.167.81.111:8126/play/a0dq/index.m3u8
+http://45.181.123.233:8000/play/a0ls
 
 #EXTINF:-1 tvg-chno="583" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO + ²
 http://186.167.81.111:8126/play/a0fc/index.m3u8
 
 #EXTINF:-1 tvg-chno="584" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png",HBO Pop ²
-http://186.167.81.111:8126/play/a0h1/index.m3u8
+http://45.181.123.194:8000/play/a0g8/index.m3u8
 
 #EXTINF:-1 tvg-chno="585" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png",HBO Signature ²
-http://186.167.81.111:8126/play/a0fd/index.m3u8
+http://45.181.123.233:8000/play/a17i
 
 #EXTINF:-1 tvg-chno="586" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme ²
-http://186.167.81.111:8126/play/a0dr/index.m3u8
+http://45.181.123.233:8000/play/a157
 
 #EXTINF:-1 tvg-chno="587" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png",HBO Mundi
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278501.m3u8
@@ -1228,31 +1228,31 @@ https://gucprez.online:9090/FOXSPORTSPREMIUM/index.fmp4.m3u8
 http://38.41.8.1:8000/play/a00k
 
 #EXTINF:-1 tvg-chno="621" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN 🇨🇱 ²
-http://186.167.81.111:8126/play/a0d2/index.m3u8
+http://45.181.123.233:8000/play/a0o9
 
 #EXTINF:-1 tvg-chno="622" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN 🇨🇴 ²
 http://38.41.8.1:8000/play/a02b
 
 #EXTINF:-1 tvg-chno="623" tvg-logo="https://static.wixstatic.com/media/27d2df_3855b68f65c541f1a3e6b3c89e80a07b~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-2.png",ESPN 2 Sur ²
-http://186.167.81.111:8126/play/a0fp/index.m3u8
+http://45.181.123.233:8000/play/a0qt
 
 #EXTINF:-1 tvg-chno="625" tvg-logo="https://static.wixstatic.com/media/27d2df_924eed614eed44d3a36344f60a9fcde1~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-3.png",ESPN 3 Sur ²
-http://186.167.81.111:8126/play/a0fn/index.m3u8
+http://45.181.123.233:8000/play/a0p2
 
 #EXTINF:-1 tvg-chno="626" tvg-logo="https://static.wixstatic.com/media/27d2df_995efad2b6c34c68a7f81275c00ad162~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-4.png",ESPN 4 Sur ²
-http://186.167.81.111:8126/play/a0d8/index.m3u8
+http://45.181.123.233:8000/play/a164
 
 #EXTINF:-1 tvg-chno="627" tvg-logo="https://static.wixstatic.com/media/27d2df_fdc7de25263246f09a2975eac638f0a8~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-5.png",ESPN 5 Sur ²
 http://186.167.81.111:8126/play/a0cz/index.m3u8
 
 #EXTINF:-1 tvg-chno="628" tvg-logo="https://static.wixstatic.com/media/27d2df_7b0572454923490f87cd649cbb5a39ac~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-6.png",ESPN 6 Sur  ²
-http://186.167.81.111:8126/play/a0fo/index.m3u8
+http://45.181.123.233:8000/play/a0ok
 
 #EXTINF:-1 tvg-chno="629" tvg-logo="https://static.wixstatic.com/media/27d2df_50648e80b5bb41e091209006875097c9~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-7.png",ESPN 7 Sur  ²
-http://186.167.81.111:8126/play/a0d0/index.m3u8
+http://45.181.123.233:8000/play/a0oj
 
 #EXTINF:-1 tvg-chno="630" tvg-logo="https://static.wixstatic.com/media/27d2df_fcf3392d82c34d0aa8d7b567bcbcd89f~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-PREMIUM.png",ESPN Premium Sur ²
-http://186.167.81.111:8126/play/a0do/index.m3u8
+http://45.181.123.233:8000/play/a0qm
 
 #EXTINF:-1 tvg-chno="631" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN Sur ²
 http://190.61.44.34:1010/play/a00h/index.m3u8
