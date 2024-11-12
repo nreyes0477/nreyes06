@@ -1335,7 +1335,7 @@ http://tv1.darktv.eu:80/play/live.php?mac=00:1A:79:F6:6F:BF&stream=162674&extens
 #EXTINF:-1 tvg-chno="656" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/LaLiga_2023_Horizontal_Logo.svg/1024px-LaLiga_2023_Horizontal_Logo.svg.png",La Liga Vix ⁽ᵗˢ⁾ 🇺🇸
 http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=162334&extension=ts
 
-#EXTINF:-1 tvg-chno="657" tvg-logo="https://iusport.com/upload/images/01_2023/385_laliga-bar.jpg",La Liga TV Bar 🇪🇸
+#EXTINF:-1 tvg-chno="657" tvg-logo="https://www.lyngsat.com/logo/tv/ll/laliga-tv-bar-es.svg",La Liga TV Bar 🇪🇸
 http://dnslivetv.online:80/live/Victor1234/Victor1234/1069893.m3u8
 
 #EXTINF:-1 tvg-chno="660" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/1600px-LaLiga_TV_Por_M%2B_Logo.png",La Liga TV Movistar + ™ 🇪🇸
