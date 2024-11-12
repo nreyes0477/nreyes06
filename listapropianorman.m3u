@@ -1344,14 +1344,14 @@ http://tv1.darktv.eu:80/play/live.php?mac=00:1A:79:F6:6F:BF&stream=56331&extensi
 #EXTINF:-1 tvg-chno="661" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/1600px-LaLiga_TV_Por_M%2B_Logo.png",La Liga TV Movistar + ™ 🇪🇸
 http://tv1.darktv.eu:80/play/live.php?mac=00:1A:79:F6:6F:BF&stream=121005&extension=ts
 
-#EXTINF:-1 tvg-chno="662" tvg-logo="https://static.wixstatic.com/media/27d2df_613ef20a822d42de9067babf9f21852b~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN.png",Dazn 1 ™ 🇪🇸
-http://tv1.darktv.eu:80/play/live.php?mac=00:1A:79:F6:6F:BF&stream=162671&extension=ts
+#EXTINF:-1 tvg-chno="662" tvg-logo="https://static.wixstatic.com/media/27d2df_613ef20a822d42de9067babf9f21852b~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN.png",Dazn 1 ⁽ᵗˢ⁾ 🇪🇸
+http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=140965&extension=ts
 
-#EXTINF:-1 tvg-chno="663" tvg-logo="https://static.wixstatic.com/media/27d2df_eae3f65a0b5b42c8adbcf1d583639799~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-2.png",Dazn 2 ™ 🇪🇸
-http://tv1.darktv.eu:80/play/live.php?mac=00:1A:79:F6:6F:BF&stream=162670&extension=ts
+#EXTINF:-1 tvg-chno="663" tvg-logo="https://static.wixstatic.com/media/27d2df_eae3f65a0b5b42c8adbcf1d583639799~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-2.png",Dazn 2 ⁽ᵗˢ⁾ 🇪🇸
+http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=144815&extension=ts
 
-#EXTINF:-1 tvg-chno="664" tvg-logo="https://static.wixstatic.com/media/27d2df_aa6a01e490a545b8b5973d06025aa9cd~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LIGA-DE-CAMPEONES-POR-M.png",Movistar Liga de Campeones ™ 🇪🇸
-http://tv1.darktv.eu:80/play/live.php?mac=00:1A:79:F6:6F:BF&stream=56334&extension=ts
+#EXTINF:-1 tvg-chno="664" tvg-logo="https://static.wixstatic.com/media/27d2df_aa6a01e490a545b8b5973d06025aa9cd~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LIGA-DE-CAMPEONES-POR-M.png",Movistar Liga de Campeones ⁽ᵗˢ⁾ 🇪🇸
+http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=4321&extension=ts
 
 #EXTINF:-1 tvg-chno="665" tvg-logo="https://static.wixstatic.com/media/27d2df_b3af5440b55c4187a22603dec862fa45~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/M-DEPORTES.png",Movistar Deportes ⁽ᵗˢ⁾ 🇪🇸
 http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=4339&extension=ts
