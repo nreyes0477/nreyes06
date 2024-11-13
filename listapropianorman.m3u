@@ -753,8 +753,8 @@ https://d2t7ujjc7lurgd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-chno="328" tvg-logo="https://sonyone.com.mx/sites/g/files/objgke226/files/styles/discover_menu_icon/public/2022-11/menu_icon_13219.png",Sony Novelas ¹ 🇲🇽 
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="329" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png",TNT Novelas ¹ 🇲🇽 
-http://stkip.ddns.me:2082/live/restreamtvplux/Mhsi3wMSJSEjska343255/57189.m3u8
+#EXTINF:-1 tvg-chno="329" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png",TNT Novelas 🇲🇽 
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278408.m3u8
 
 #EXTINF:-1 tvg-chno="330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png",TLnovelas ¹ 🇲🇽 
 http://bantel.iptvperu.tv:1935/transcoder_t4/TL_Novelas_t4/playlist.m3u8
