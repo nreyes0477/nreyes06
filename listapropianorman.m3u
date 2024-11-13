@@ -921,14 +921,14 @@ http://go.iptvhn.net:25461/live/7682/7682/13178.m3u8
 #EXTINF:-1 tvg-chno="409" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png",History Channel
 http://go.iptvhn.net:25461/live/7682/7682/13227.m3u8
 
-#EXTINF:-1 tvg-chno="410" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",History Channel 2 ²
-http://190.60.38.114:1010/play/a04j/index.m3u8
+#EXTINF:-1 tvg-chno="410" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",History Channel 2
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/161266.m3u8
 
 #EXTINF:-1 tvg-chno="411" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo
 http://go.iptvhn.net:25461/live/7682/7682/13249.m3u8
 
 #EXTINF:-1 tvg-chno="414" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/500px-National_Geographic_Wild_logo.svg.png",Nat Geo Wild
-http://live.budtvlight.com:25461/live/bud-4583224/324a549067/159938.m3u8
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/92940.m3u8
 
 #EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png",Animal Planet
 http://go.iptvhn.net:25461/live/7682/7682/13110.m3u8
@@ -937,7 +937,7 @@ http://go.iptvhn.net:25461/live/7682/7682/13110.m3u8
 http://go.iptvhn.net:25461/live/7682/7682/13229.m3u8
 
 #EXTINF:-1 tvg-chno="420" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/370px-TLC_Logo.svg.png",TLC
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/144298.m3u8
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278413.m3u8
 
 #EXTINF:-1 tvg-chno="421" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery_m.png",Discovery Channel
 http://go.iptvhn.net:25461/live/7682/7682/13176.m3u8
@@ -949,10 +949,10 @@ http://go.iptvhn.net:25461/live/7682/7682/13172.m3u8
 http://go.iptvhn.net:25461/live/7682/7682/13183.m3u8
 
 #EXTINF:-1 tvg-chno="424" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery Science
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/156167.m3u8
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278621.m3u8
 
 #EXTINF:-1 tvg-chno="425" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png",HGTV Latino
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/72863.m3u8
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278430.m3u8
 
 #EXTINF:-1 tvg-chno="427" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png",Comedy Central
 http://go.iptvhn.net:25461/live/7682/7682/13166.m3u8
@@ -970,7 +970,7 @@ http://go.iptvhn.net:25461/live/7682/7682/13173.m3u8
 http://go.iptvhn.net:25461/live/7682/7682/13278.m3u8
 
 #EXTINF:-1 tvg-chno="434" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-gourmet_m.png",El Gourmet
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/154232.m3u8
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278421.m3u8
 
 #EXTINF:-1 tvg-chno="435" tvg-logo="https://cdn.mitvstatic.com/channels/ar_pasiones_m.png",Pasiones
 http://go.iptvhn.net:25461/live/7682/7682/13258.m3u8
@@ -982,10 +982,10 @@ http://200.60.124.20:29000/play/a04w/index.m3u8
 http://go.iptvhn.net:25461/live/7682/7682/13224.m3u8
 
 #EXTINF:-1 tvg-chno="438" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/125px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png",Mas Chic
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/173178.m3u8
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278435.m3u8
 
 #EXTINF:-1 tvg-chno="439" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png",Lifetime
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30704.m3u8
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278433.m3u8
 
 #EXTINF:-1 tvg-chno="440" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Clic_%28TV_channel%29_logo_2021.png",Clic!
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278333.m3u8
