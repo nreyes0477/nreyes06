@@ -912,41 +912,41 @@ http://38.41.8.1:8000/play/a03w
 #EXTINF:-1 tvg-chno="399" tvg-logo="https://www.novelisima.com/assets/images/logo.png",Novelisima ¹ 🇻🇪
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1yn-&did=5de3272ca828334125a8958b379e80ca&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=en&site_page=https%253a%252f%252fwww.canela.tv%252flinear%252fnovelisima&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1682534197&id=29260&ip=45.239.66.196&override_expiration=1500&deliveryProfileId=23762&sign=AnTU27Owgu%2FvemMRtOIK%2BuHtqV7PpNMyoU1iGCyVV%2B8%3D
 
-#EXTINF:-1 tvg-chno="400" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg",E! Entertainment ²
-http://45.5.117.182:8000/play/a0fk/index.m3u8
+#EXTINF:-1 tvg-chno="400" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg",E! Entertainment
+http://go.iptvhn.net:25461/live/7682/7682/13187.m3u8
 
-#EXTINF:-1 tvg-chno="405" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-id_m.png",ID Investigation ²
-http://45.5.117.182:8000/play/a0jy/index.m3u8
+#EXTINF:-1 tvg-chno="405" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-id_m.png",ID Investigation
+http://go.iptvhn.net:25461/live/7682/7682/13178.m3u8
 
-#EXTINF:-1 tvg-chno="409" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png",History Channel ²
-http://45.5.117.182:8000/play/a0fb/index.m3u8
+#EXTINF:-1 tvg-chno="409" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png",History Channel
+http://go.iptvhn.net:25461/live/7682/7682/13227.m3u8
 
 #EXTINF:-1 tvg-chno="410" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",History Channel 2 ²
 http://190.60.38.114:1010/play/a04j/index.m3u8
 
-#EXTINF:-1 tvg-chno="411" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo ²
-http://138.186.122.170:8000/play/a01b
+#EXTINF:-1 tvg-chno="411" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo
+http://go.iptvhn.net:25461/live/7682/7682/13249.m3u8
 
 #EXTINF:-1 tvg-chno="414" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/500px-National_Geographic_Wild_logo.svg.png",Nat Geo Wild
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/159938.m3u8
 
-#EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png",Animal Planet ²
-http://190.60.38.114:1010/play/a06t/index.m3u8
+#EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png",Animal Planet
+http://go.iptvhn.net:25461/live/7682/7682/13110.m3u8
 
-#EXTINF:-1 tvg-chno="418" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health ²
-http://190.60.38.114:1010/play/a06q/index.m3u8
+#EXTINF:-1 tvg-chno="418" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health
+http://go.iptvhn.net:25461/live/7682/7682/13229.m3u8
 
 #EXTINF:-1 tvg-chno="420" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/370px-TLC_Logo.svg.png",TLC
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/144298.m3u8
 
-#EXTINF:-1 tvg-chno="421" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery_m.png",Discovery Channel ²
-http://190.60.38.114:1010/play/a076/index.m3u8
+#EXTINF:-1 tvg-chno="421" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery_m.png",Discovery Channel
+http://go.iptvhn.net:25461/live/7682/7682/13176.m3u8
 
-#EXTINF:-1 tvg-chno="422" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png",Discovery Theater ²
-http://190.60.38.114:1010/play/a06r/index.m3u8
+#EXTINF:-1 tvg-chno="422" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png",Discovery Theater
+http://go.iptvhn.net:25461/live/7682/7682/13172.m3u8
 
-#EXTINF:-1 tvg-chno="423" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery World ²
-http://190.60.38.114:1010/play/a06s/index.m3u8
+#EXTINF:-1 tvg-chno="423" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery World
+http://go.iptvhn.net:25461/live/7682/7682/13183.m3u8
 
 #EXTINF:-1 tvg-chno="424" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery Science
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/156167.m3u8
@@ -955,7 +955,7 @@ http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/156167.m
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/72863.m3u8
 
 #EXTINF:-1 tvg-chno="427" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png",Comedy Central
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30660.m3u8
+http://go.iptvhn.net:25461/live/7682/7682/13166.m3u8
 
 #EXTINF:-1 tvg-chno="430" tvg-logo="https://i4.hurimg.com/i/hurriyet/75/600x338/5dbd043ed3806c1dec53824d.jpg",Kanal Drama
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/214417.m3u8
@@ -964,7 +964,7 @@ http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/214417.m
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278391.m3u8
 
 #EXTINF:-1 tvg-chno="432" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/350px-DistritoComediaLOGO2018.png",Distrito Comedia
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49341.m3u8
+http://go.iptvhn.net:25461/live/7682/7682/13173.m3u8
 
 #EXTINF:-1 tvg-chno="433" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sun_channel-mediano.png",Sun Channel
 http://go.iptvhn.net:25461/live/7682/7682/13278.m3u8
@@ -973,13 +973,13 @@ http://go.iptvhn.net:25461/live/7682/7682/13278.m3u8
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/154232.m3u8
 
 #EXTINF:-1 tvg-chno="435" tvg-logo="https://cdn.mitvstatic.com/channels/ar_pasiones_m.png",Pasiones
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49512.m3u8
+http://go.iptvhn.net:25461/live/7682/7682/13258.m3u8
 
 #EXTINF:-1 tvg-chno="436" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/1024px-Claro_TV_wordmark.svg.png",Canal Claro ²
 http://200.60.124.20:29000/play/a04w/index.m3u8
 
 #EXTINF:-1 tvg-chno="437" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/220px-%C2%A1HOLA%21TVlogo.jpg",¡Hola! TV
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/173177.m3u8
+http://go.iptvhn.net:25461/live/7682/7682/13224.m3u8
 
 #EXTINF:-1 tvg-chno="438" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/125px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png",Mas Chic
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/173178.m3u8
