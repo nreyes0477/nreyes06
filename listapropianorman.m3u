@@ -1323,11 +1323,8 @@ http://190.92.10.66:4000/play/a006/index.m3u8
 #EXTINF:-1 tvg-chno="653" tvg-logo="https://static.wixstatic.com/media/27d2df_8560e12d0965432f912670021b8da9bc~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/SKY-SPORTS.png",Sky Sports La Liga ² 🇺🇸
 http://45.5.117.182:8000/play/jnl0/index.m3u8
 
-#EXTINF:-1 tvg-chno="654" tvg-logo="https://static.wixstatic.com/media/27d2df_a2dd2c74ec5a4092ab9be022ee52ea8e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-LA-LIGA.png",Dazn La Liga ™ 🇪🇦
-http://tv1.darktv.eu:80/play/live.php?mac=00:1A:79:F6:6F:BF&stream=162673&extension=ts
-
-#EXTINF:-1 tvg-chno="655" tvg-logo="https://static.wixstatic.com/media/27d2df_a2dd2c74ec5a4092ab9be022ee52ea8e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-LA-LIGA.png",Dazn La Liga 2 ™ 🇪🇦
-http://tv1.darktv.eu:80/play/live.php?mac=00:1A:79:F6:6F:BF&stream=162674&extension=ts
+#EXTINF:-1 tvg-chno="654" tvg-logo="https://static.wixstatic.com/media/27d2df_a2dd2c74ec5a4092ab9be022ee52ea8e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-LA-LIGA.png",Dazn La Liga 🇪🇦
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278828.m3u8
 
 #EXTINF:-1 tvg-chno="656" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/LaLiga_2023_Horizontal_Logo.svg/1024px-LaLiga_2023_Horizontal_Logo.svg.png",La Liga Vix ⁽ᵗˢ⁾ 🇺🇸
 http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=162334&extension=ts
@@ -1338,8 +1335,8 @@ http://dnslivetv.online:80/live/Victor1234/Victor1234/1069893.m3u8
 #EXTINF:-1 tvg-chno="660" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/1600px-LaLiga_TV_Por_M%2B_Logo.png",La Liga TV Movistar + ⁽ᵗˢ⁾ 🇪🇸
 http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=4309&extension=ts
 
-#EXTINF:-1 tvg-chno="661" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/1600px-LaLiga_TV_Por_M%2B_Logo.png",La Liga TV Movistar + ™ 🇪🇸
-http://tv1.darktv.eu:80/play/live.php?mac=00:1A:79:F6:6F:BF&stream=121005&extension=ts
+#EXTINF:-1 tvg-chno="661" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/1600px-LaLiga_TV_Por_M%2B_Logo.png",La Liga TV Movistar + 🇪🇸
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278844.m3u8
 
 #EXTINF:-1 tvg-chno="662" tvg-logo="https://static.wixstatic.com/media/27d2df_613ef20a822d42de9067babf9f21852b~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN.png",Dazn 1 ⁽ᵗˢ⁾ 🇪🇸
 http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=140965&extension=ts
