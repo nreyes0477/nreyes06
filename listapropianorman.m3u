@@ -1002,20 +1002,17 @@ http://go.iptvhn.net:25461/live/7682/7682/13102.m3u8
 #EXTINF:-1 tvg-chno="505" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png",Cinecanal
 http://go.iptvhn.net:25461/live/7682/7682/13127.m3u8
 
-#EXTINF:-1 tvg-chno="506" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinemax_m.png",Cinemax ²
-http://200.59.188.3:8000/play/a016
+#EXTINF:-1 tvg-chno="506" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinemax_m.png",Cinemax
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278468.m3u8
 
 #EXTINF:-1 tvg-chno="510" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden.png",Golden 
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30675.m3u8
-
-#EXTINF:-1 tvg-chno="511" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden.png",Golden Multiplex
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/185945.m3u8
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278483.m3u8
 
 #EXTINF:-1 tvg-chno="512" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/420px-Golden_Edge_Logo_2020.png",Golden Edge 
 http://go.iptvhn.net:25461/live/7682/7682/13209.m3u8
 
 #EXTINF:-1 tvg-chno="513" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png",Golden Plus 
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/156356.m3u8
+http://live.budtvlight.com:25461/live/bud-4583224/324a549067/282214.m3u8
 
 #EXTINF:-1 tvg-chno="514" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden-premier.png",Golden Premier 
 http://go.iptvhn.net:25461/live/7682/7682/13212.m3u8
