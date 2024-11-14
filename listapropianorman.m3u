@@ -1047,7 +1047,7 @@ http://go.iptvhn.net:25461/live/7682/7682/13321.m3u8
 #EXTINF:-1 tvg-chno="527" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png",FX
 http://go.iptvhn.net:25461/live/7682/7682/13205.m3u8
 
-#EXTINF:-1 tvg-chno="530" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png",DHEp
+#EXTINF:-1 tvg-chno="530" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png",DHE
 http://go.iptvhn.net:25461/live/7682/7682/13171.m3u8
 
 #EXTINF:-1 tvg-chno="560" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/640px-Starz_2008.png",Starz
