@@ -255,14 +255,14 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-chno="135" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo Noticias CA ¹ 🇺🇸
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 tvg-chno="136" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1",CNN Chile 🇨🇱
-http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278975.m3u8
+#EXTINF:-1 tvg-chno="136" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1",CNN Chile ⁽ᵗˢ⁾ 🇨🇱
+http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=132639&extension=ts
 
 #EXTINF:-1 tvg-chno="137" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png",Canal 24 Horas ² 🇨🇱
 http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278969&extension=ts
 
-#EXTINF:-1 tvg-chno="138" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Meganoticias2019.png/380px-Meganoticias2019.png",Meganoticias ¹ 🇨🇱
-https://ythls.armelin.one/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
+#EXTINF:-1 tvg-chno="138" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Meganoticias2019.png/380px-Meganoticias2019.png",Meganoticias ⁽ᵗˢ⁾ 🇨🇱
+http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=3310&extension=ts
 
 #EXTINF:-1 tvg-chno="139" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Chvcontigoptv.png/revision/latest?cb=20231014035938&path-prefix=es",CHV Contigo ¹ 🇨🇱
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62aa5740a47b6c000769f407livestitch/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=fc4ecd2b-3353-5b86-73d4-12ceedc5a646&deviceDNT=0&deviceModel=0&profilesFromStream=true
@@ -330,8 +330,8 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-chno="160" tvg-logo="https://i0.wp.com/adnoticias.mx/wp-content/uploads/2023/09/amx-noticias-mexiquense.png",AMX Noticias ¹ 🇲🇽
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="161" tvg-logo="https://cnwebsite.blob.core.windows.net/files/2021/05/logo_cablenoticias.png",Cablenoticias 🇨🇴
-http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=279384&extension=ts
+#EXTINF:-1 tvg-chno="161" tvg-logo="https://cnwebsite.blob.core.windows.net/files/2021/05/logo_cablenoticias.png",Cablenoticias ⁽ᵗˢ⁾ 🇨🇴
+http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=3588&extension=ts
 
 #EXTINF:-1 tvg-chno="162" tvg-logo="https://www.ntn24.com/__assets/images/logo.png",NTN24 🇨🇴
 http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=279392&extension=ts
@@ -339,8 +339,8 @@ http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224
 #EXTINF:-1 tvg-chno="163" tvg-logo="https://www.wola.org/wp-content/uploads/2019/09/noticias-caracol-768x768.jpg",Noticias Caracol ¹ 🇨🇴 
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
-#EXTINF:-1 tvg-chno="164" tvg-logo="https://latinanoticias.pe/wp-content/themes/genesis-latina-noticias/img/logo-head-n.png",Latina Noticias ¹ 🇵🇪
-https://ythls.armelin.one/channel/UCpSJ5fGhmAME9Kx2D3ZvN3Q.m3u8
+#EXTINF:-1 tvg-chno="164" tvg-logo="https://latinanoticias.pe/wp-content/themes/genesis-latina-noticias/img/logo-head-n.png",Latina Noticias ⁽ᵗˢ⁾ 🇵🇪
+http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=151521&extension=ts
 
 #EXTINF:-1 tvg-chno="166" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png",TV Perú Noticias ¹ 🇵🇪
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
@@ -351,8 +351,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1 tvg-chno="168" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/250px-Russia-today-logo.svg.png",RT Español ¹ 🇷🇺
 https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
 
-#EXTINF:-1 tvg-chno="169" tvg-logo="https://cdn.mitvstatic.com/channels/ar_france-24-espanol_m.png",France 24 HD ¹ 🇨🇵
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24sp_720p/playlist.m3u8
+#EXTINF:-1 tvg-chno="169" tvg-logo="https://cdn.mitvstatic.com/channels/ar_france-24-espanol_m.png",France 24 ⁽ᵗˢ⁾ 🇨🇵
+http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=212040&extension=ts
 
 #EXTINF:-1 tvg-chno="170" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png",Euronews ¹ 🇪🇺
 https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
@@ -360,8 +360,8 @@ https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-chno="171" tvg-logo="https://vpitv.com/wp-content/uploads/elementor/thumbs/logo-vpi-b-263x300-1-p2z3incdjzyd4tg7m3obm8gf17ep739fmh3na3lee8.png",VPItv ¹ 🇻🇪
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="172" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Globovision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Globovisión ¹ 🇻🇪
-https://ythls.armelin.one/channel/UC06Tup55KpXujnN9LzHXBAw.m3u8
+#EXTINF:-1 tvg-chno="172" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Globovision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Globovisión ⁽ᵗˢ⁾ 🇻🇪
+http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=4826&extension=ts
 
 #EXTINF:-1 tvg-chno="173" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/04/Telesur-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Telesur ¹ 🇻🇪
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
