@@ -480,8 +480,8 @@ http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&p
 #EXTINF:-1 tvg-chno="223" tvg-logo="https://3.bp.blogspot.com/-OFbQmNvw9ns/XCFQN1j9pUI/AAAAAAAAHOU/_HbtJbA4x-ADtnD5ol6JDZmTrRmZCtOSgCLcBGAs/w350-h350-p-k-no-nu/Bolivision%2Ben%2Bvivo.png",Bolivisión 1 🇧🇴 
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-chno="224" tvg-logo="https://3.bp.blogspot.com/-IqEHK3sLw9M/XCFIjI0FUOI/AAAAAAAAHOE/B86GSdMBqBQX5MEb6i9r40jZcoyx0AhqQCLcBGAs/w700-h400-p-k-no-nu/blanco-crop.png",Cadena A ⁽ᵗˢ⁾ 🇧🇴
-http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=131679&extension=ts
+#EXTINF:-1 tvg-chno="224" tvg-logo="https://3.bp.blogspot.com/-IqEHK3sLw9M/XCFIjI0FUOI/AAAAAAAAHOE/B86GSdMBqBQX5MEb6i9r40jZcoyx0AhqQCLcBGAs/w700-h400-p-k-no-nu/blanco-crop.png",Cadena A ¹ 🇧🇴
+https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/chunklist_w2032633977.m3u8
 
 #EXTINF:-1 tvg-chno="225" tvg-logo="https://static-media.streema.com/media/cache/c4/42/c442ed13a23c1f824bfdb25ab0b1397a.jpg",Gigavisión ¹ 🇧🇴
 https://tv2.bitstreaming.net:3896/multi_web/play.m3u8
@@ -495,20 +495,20 @@ http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&p
 #EXTINF:-1 tvg-chno="228" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Bolivia TV ¹ 🇧🇴
 https://5fe2654d6127d.streamlock.net:443/boliviatv/videoboliviatv/chunklist_w985377986.m3u8
 
-#EXTINF:-1 tvg-chno="230" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png",Chilevisión ² 🇨🇱
-http://45.181.123.233:8000/play/a0kl
+#EXTINF:-1 tvg-chno="230" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png",Chilevisión ⁽ᵗˢ⁾ 🇨🇱
+http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=135058&extension=ts
 
-#EXTINF:-1 tvg-chno="231" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png",TVN ² 🇨🇱
-http://45.181.123.233:8000/play/a0kk
+#EXTINF:-1 tvg-chno="231" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png",TVN ⁽ᵗˢ⁾ 🇨🇱
+http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=3306&extension=ts
 
-#EXTINF:-1 tvg-chno="232" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png",Canal 13 ² 🇨🇱 
-http://45.181.123.233:8000/play/a0lh
+#EXTINF:-1 tvg-chno="232" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png",Canal 13 ⁽ᵗˢ⁾ 🇨🇱 
+http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=237426&extension=ts
 
 #EXTINF:-1 tvg-chno="233" tvg-logo="https://elcomercio.pe/resizer/yihFxlkddrP0HjI7-6_7HKJ7GNc=/992x661/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/VELQ4IWQYZHETFPPHGPNLPTHME.jpg",Canal T13 ¹ 🇨🇱
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?did=b131176395625465cbd92084d9a
 
-#EXTINF:-1 tvg-chno="234" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mega_chile-mediano.png",Mega ² 🇨🇱
-http://201.219.29.246:8000/play/a01n/index.m3u8
+#EXTINF:-1 tvg-chno="234" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mega_chile-mediano.png",Mega ⁽ᵗˢ⁾ 🇨🇱
+http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=3310&extension=ts
 
 #EXTINF:-1 tvg-chno="235" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_red_chile-mediano.png",La Red ¹ 🇨🇱
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
@@ -519,8 +519,8 @@ https://marine2.miplay.cl/tvmas/playlist.m3u8
 #EXTINF:-1 tvg-chno="237" tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-13-c_m.png",Canal 13C ¹ 🇨🇱
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
-#EXTINF:-1 tvg-chno="238" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png",Canal 24 Horas ² 🇨🇱
-http://45.181.123.233:8000/play/a0xk
+#EXTINF:-1 tvg-chno="238" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png",Canal 24 Horas ⁽ᵗˢ⁾ 🇨🇱
+http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=151792&extension=ts
 
 #EXTINF:-1 tvg-chno="239" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png",Caracol ² 🇨🇴
 http://45.181.123.233:8000/play/a0lk
@@ -1114,7 +1114,7 @@ http://45.186.106.207:8000/play/a07o/index.m3u8
 http://45.181.123.194:8000/play/a0g8/index.m3u8
 
 #EXTINF:-1 tvg-chno="585" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png",HBO Signature ⁽ᵗˢ⁾
-http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=55&extension=ts
+http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=150081&extension=ts
 
 #EXTINF:-1 tvg-chno="586" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme ²
 http://45.181.123.233:8000/play/a157
