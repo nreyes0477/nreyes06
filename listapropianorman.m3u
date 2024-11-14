@@ -595,7 +595,7 @@ http://live.budtvlight.com:25461/live/bud-4583224/324a549067/167830.m3u8
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278812.m3u8
 
 #EXTINF:-1 tvg-chno="266" tvg-logo="https://logos.streamsites.eu/2551_cuatro_overview.png",Cuatro 🇪🇸
-http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278808.m3u8
+http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278808&extension=ts
 
 #EXTINF:-1 tvg-chno="267" tvg-logo="https://logos.streamsites.eu/2531_telecinco_overview.png",Telecinco 🇪🇸
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278855.m3u8
