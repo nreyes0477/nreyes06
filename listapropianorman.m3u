@@ -1057,7 +1057,7 @@ http://go.iptvhn.net:25461/live/7682/7682/13205.m3u8
 http://go.iptvhn.net:25461/live/7682/7682/13171.m3u8
 
 #EXTINF:-1 tvg-chno="560" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/640px-Starz_2008.png",Starz
-http://185.180.13.161:25461/live/2qt65aetuZ/0527822179/46667.m3u8?token=TUEMUBFQFVsUVwxWUgZdBlkBUQlfBAkFAAIBBVBcVwUABVcAU1kBWVMWFRdHQxcHWQk6UV0SAwVUBVUBGhpGEFMRO1gGGg1DBwMLDAwOR04aEAxVXBIDAU4RE19SGglBBFNdBVAaG0NTTE1QRlkEDmcAAE5QU1wTWF0WWloUEQxYPABUD1lZBRQOGwUWG0cLSxRHAldFVV1OEQFfQkpSF1NBXhNQDg5QFBgbVltCCxZKHUcCG3NrE04RBk5CXV0QXwwKE1gaWlJDDBsZFl4WPUoBFkxLVVhcB0FBDBQIEU8UDgVJPVtYD1hRWkFdWAsRGl5HDRscG1wNXQpCWUpsE18HRgtADAdYBA0IF0k=
+http://kstv.us:8080/streaming/clients_live.php?username=2qt65aetuZ&password=0527822179&stream=46667&extension=ts
 
 #EXTINF:-1 tvg-chno="561" tvg-logo="https://sc.dish.com/shared/images/station-logos/SCINE.png",Starz Cinema
 http://kstv.us:8080/streaming/clients_live.php?username=2qt65aetuZ&password=0527822179&stream=46665&extension=ts
@@ -1191,8 +1191,8 @@ http://190.211.102.42:4000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-chno="607" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13283&extension=ts
 
-#EXTINF:-1 tvg-chno="608" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN Centro América ²
-http://190.211.102.42:4000/play/a085/index.m3u8
+#EXTINF:-1 tvg-chno="608" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN Centro América ⁽ᵗˢ⁾
+http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=134462&extension=ts
 
 #EXTINF:-1 tvg-chno="609" tvg-logo="https://static.wixstatic.com/media/27d2df_3855b68f65c541f1a3e6b3c89e80a07b~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-2.png",ESPN 2 Centro América ²
 http://38.159.227.124:8000/play/a043
