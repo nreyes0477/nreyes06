@@ -439,7 +439,7 @@ http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224
 http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=162336&extension=ts
 
 #EXTINF:-1 tvg-chno="209" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG",América TV ² 🇦🇷
-http://190.123.90.146:8000/play/a00l/97552281.m3u8
+http://190.123.90.146:8000/play/a00l/index.m3u8
 
 #EXTINF:-1 tvg-chno="210" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png",TN Noticias 🇦🇷
 http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278775&extension=ts
