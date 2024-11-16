@@ -857,13 +857,13 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 https://live.field59.com/wapa/wapa1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="376" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/telemicro.png?zoom=3&resize=100%2C70&ssl=1",Telemicro Canal 5 ¹ 🇩🇴
-https://glb.bozztv.com/glb/ssh101/0005/index.m3u8
+https://livestreamapis.com/v2/accounts/27456795/events/10633780/master.m3u8?token=b87577f2c1c6fe05509c1b735f3a0c40&client_id=20457&timestamp=1731716555789
 
 #EXTINF:-1 tvg-chno="377" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Color-Visio%CC%81n-9-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Color Visión Canal 9 ¹ 🇩🇴
 https://glb.bozztv.com/glb/ssh101/0009/index.m3u8
 
 #EXTINF:-1 tvg-chno="378" tvg-logo="https://canalesdominicanos.live/template/images/radios/digital-15.png",Canal 15 ¹ 🇩🇴
-https://glb.bozztv.com/glb/ssh101/0015/index.m3u8
+https://player-api.new.livestream.com/accounts/27456795/events/10633798/broadcasts/253506834.secure.m3u8?dw=80&hdnea=st=1731717029~exp=1731718829~acl=/i/27456795_10633798_lsiizxxa5xez2r3322x_1@688091/*~hmac=1cde8250a6567fd3678a82a2d3dc3c8982a89ed204222171fd0a370485c7bd72&token=6737e8d1_afcc299bdf6b3f3767e4063f877481c39709ca74
 
 #EXTINF:-1 tvg-chno="379" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/cdn.png?zoom=3&resize=100%2C70&ssl=1",CDN ¹ 🇩🇴
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
