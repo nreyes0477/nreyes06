@@ -1,7 +1,4 @@
-4#EXTM3U
-
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.sopitas.com/wp-content/uploads/2024/06/jake-paul-mike-tyson-pelea-de-tamano-grande.jpeg",Evento: Jake Paul vs. Mike Tyson (Netflix)
-https://nxt.plus:8443/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=219166&extension=ts
+#EXTM3U
 
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png",Canal 2 Repretel ¹
 https://d30230c1j3h08x.cloudfront.net:443/live2/alba-cr-repretel-c2_720p/chunks.m3u8
