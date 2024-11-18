@@ -920,40 +920,40 @@ http://38.41.8.1:8000/play/a03w
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1yn-&did=5de3272ca828334125a8958b379e80ca&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=en&site_page=https%253a%252f%252fwww.canela.tv%252flinear%252fnovelisima&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1682534197&id=29260&ip=45.239.66.196&override_expiration=1500&deliveryProfileId=23762&sign=AnTU27Owgu%2FvemMRtOIK%2BuHtqV7PpNMyoU1iGCyVV%2B8%3D
 
 #EXTINF:-1 tvg-chno="400" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg",E! Entertainment
-http://go.iptvhn.net:25461/live/7682/7682/13187.m3u8
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13187&extension=ts
 
 #EXTINF:-1 tvg-chno="405" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-id_m.png",ID Investigation
-http://go.iptvhn.net:25461/live/7682/7682/13178.m3u8
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13178&extension=ts
 
 #EXTINF:-1 tvg-chno="409" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png",History Channel
-http://go.iptvhn.net:25461/live/7682/7682/13227.m3u8
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13227&extension=ts
 
 #EXTINF:-1 tvg-chno="410" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",History Channel 2
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/161266.m3u8
 
 #EXTINF:-1 tvg-chno="411" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo
-http://go.iptvhn.net:25461/live/7682/7682/13249.m3u8
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13249&extension=ts
 
 #EXTINF:-1 tvg-chno="414" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/500px-National_Geographic_Wild_logo.svg.png",Nat Geo Wild
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/92940.m3u8
 
 #EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png",Animal Planet
-http://go.iptvhn.net:25461/live/7682/7682/13110.m3u8
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13110&extension=ts
 
 #EXTINF:-1 tvg-chno="418" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health
-http://go.iptvhn.net:25461/live/7682/7682/13229.m3u8
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13229&extension=ts
 
 #EXTINF:-1 tvg-chno="420" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/370px-TLC_Logo.svg.png",TLC
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278413.m3u8
 
 #EXTINF:-1 tvg-chno="421" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery_m.png",Discovery Channel
-http://go.iptvhn.net:25461/live/7682/7682/13176.m3u8
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13176&extension=ts
 
 #EXTINF:-1 tvg-chno="422" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png",Discovery Theater
-http://go.iptvhn.net:25461/live/7682/7682/13172.m3u8
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13172&extension=ts
 
 #EXTINF:-1 tvg-chno="423" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery World
-http://go.iptvhn.net:25461/live/7682/7682/13183.m3u8
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13183&extension=ts
 
 #EXTINF:-1 tvg-chno="424" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery Science
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278621.m3u8
@@ -962,7 +962,7 @@ http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278621.m3u8
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278430.m3u8
 
 #EXTINF:-1 tvg-chno="427" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png",Comedy Central
-http://go.iptvhn.net:25461/live/7682/7682/13166.m3u8
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13166&extension=ts
 
 #EXTINF:-1 tvg-chno="430" tvg-logo="https://i4.hurimg.com/i/hurriyet/75/600x338/5dbd043ed3806c1dec53824d.jpg",Kanal Drama ¹
 https://amg01602-amg01602c2-canelatv-international-5561.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-themavivekanalddrama-canelatvinternational/playlist.m3u8?rights_holder_id=vive-kanal-d-drama&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=0e5adb91-3380-43f4-afa6-574df288f505&url=https://www.canela.tv/player/channel/vive-kanal-d-drama&us_privacy=null_us_privacy&coppa=0&ifa_type=NA&lmt=NA&device_language=es
@@ -971,22 +971,22 @@ https://amg01602-amg01602c2-canelatv-international-5561.playouts.now.amagi.tv/pl
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278391.m3u8
 
 #EXTINF:-1 tvg-chno="432" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/350px-DistritoComediaLOGO2018.png",Distrito Comedia
-http://go.iptvhn.net:25461/live/7682/7682/13173.m3u8
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13173&extension=ts
 
 #EXTINF:-1 tvg-chno="433" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sun_channel-mediano.png",Sun Channel
-http://go.iptvhn.net:25461/live/7682/7682/13278.m3u8
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13278&extension=ts
 
 #EXTINF:-1 tvg-chno="434" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-gourmet_m.png",El Gourmet
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278421.m3u8
 
 #EXTINF:-1 tvg-chno="435" tvg-logo="https://cdn.mitvstatic.com/channels/ar_pasiones_m.png",Pasiones
-http://go.iptvhn.net:25461/live/7682/7682/13258.m3u8
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13258&extension=ts
 
 #EXTINF:-1 tvg-chno="436" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/1024px-Claro_TV_wordmark.svg.png",Canal Claro ²
 http://200.60.124.20:29000/play/a04w/index.m3u8
 
 #EXTINF:-1 tvg-chno="437" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/220px-%C2%A1HOLA%21TVlogo.jpg",¡Hola! TV
-http://go.iptvhn.net:25461/live/7682/7682/13224.m3u8
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13224&extension=ts
 
 #EXTINF:-1 tvg-chno="438" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/125px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png",Mas Chic
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278435.m3u8
@@ -998,16 +998,16 @@ http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278433.m3u8
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278333.m3u8
 
 #EXTINF:-1 tvg-chno="500" tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png",A&E
-http://go.iptvhn.net:25461/live/7682/7682/13098.m3u8
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13098&extension=ts
 
-#EXTINF:-1 tvg-chno="501" tvg-logo="https://cdn.mitvstatic.com/channels/cl_amc_m.png",AMC 
-http://go.iptvhn.net:25461/live/7682/7682/13100.m3u8
+#EXTINF:-1 tvg-chno="501" tvg-logo="https://cdn.mitvstatic.com/channels/cl_amc_m.png",AMC
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13100&extension=ts
 
 #EXTINF:-1 tvg-chno="502" tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png",AXN
-http://go.iptvhn.net:25461/live/7682/7682/13102.m3u8
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13102&extension=ts
 
 #EXTINF:-1 tvg-chno="505" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png",Cinecanal
-http://go.iptvhn.net:25461/live/7682/7682/13127.m3u8
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13127&extension=ts
 
 #EXTINF:-1 tvg-chno="506" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinemax_m.png",Cinemax
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278468.m3u8
@@ -1015,47 +1015,47 @@ http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278468.m3u8
 #EXTINF:-1 tvg-chno="510" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden.png",Golden 
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278483.m3u8
 
-#EXTINF:-1 tvg-chno="512" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/420px-Golden_Edge_Logo_2020.png",Golden Edge 
-http://go.iptvhn.net:25461/live/7682/7682/13209.m3u8
+#EXTINF:-1 tvg-chno="512" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/420px-Golden_Edge_Logo_2020.png",Golden Edge
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13209&extension=ts
 
 #EXTINF:-1 tvg-chno="513" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png",Golden Plus 
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/282214.m3u8
 
-#EXTINF:-1 tvg-chno="514" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden-premier.png",Golden Premier 
-http://go.iptvhn.net:25461/live/7682/7682/13212.m3u8
+#EXTINF:-1 tvg-chno="514" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden-premier.png",Golden Premier
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13212&extension=ts
 
 #EXTINF:-1 tvg-chno="515" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png",Paramount
-http://go.iptvhn.net:25461/live/7682/7682/13257.m3u8
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13257&extension=ts
 
 #EXTINF:-1 tvg-chno="519" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox_m.png",Star Channel
-http://go.iptvhn.net:25461/live/7682/7682/13271.m3u8
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13271&extension=ts
 
 #EXTINF:-1 tvg-chno="520" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SonyMovies.png",Cine Sony
-http://go.iptvhn.net:25461/live/7682/7682/13274.m3u8
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13274&extension=ts
 
 #EXTINF:-1 tvg-chno="521" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png",Sony
-http://go.iptvhn.net:25461/live/7682/7682/13267.m3u8
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13267&extension=ts
 
-#EXTINF:-1 tvg-chno="522" tvg-logo="https://cdn.mitvstatic.com/channels/mx_space_m.png",Space 
-http://go.iptvhn.net:25461/live/7682/7682/13269.m3u8
+#EXTINF:-1 tvg-chno="522" tvg-logo="https://cdn.mitvstatic.com/channels/mx_space_m.png",Space
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13269&extension=ts
 
-#EXTINF:-1 tvg-chno="523" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png",Studio Universal 
-http://go.iptvhn.net:25461/live/7682/7682/13277.m3u8
+#EXTINF:-1 tvg-chno="523" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png",Studio Universal
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13277&extension=ts
 
 #EXTINF:-1 tvg-chno="524" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tnt_m.png",TNT
-http://go.iptvhn.net:25461/live/7682/7682/13290.m3u8
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13290&extension=ts
 
-#EXTINF:-1 tvg-chno="525" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png",TNT Series 
-http://go.iptvhn.net:25461/live/7682/7682/13292.m3u8
+#EXTINF:-1 tvg-chno="525" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png",TNT Series
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13292&extension=ts
 
-#EXTINF:-1 tvg-chno="526" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner_m.png",Warner Channel 
-http://go.iptvhn.net:25461/live/7682/7682/13321.m3u8
+#EXTINF:-1 tvg-chno="526" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner_m.png",Warner Channel
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13321&extension=ts
 
 #EXTINF:-1 tvg-chno="527" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png",FX
-http://go.iptvhn.net:25461/live/7682/7682/13205.m3u8
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13205&extension=ts
 
 #EXTINF:-1 tvg-chno="530" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png",DHE
-http://go.iptvhn.net:25461/live/7682/7682/13171.m3u8
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13171&extension=ts
 
 #EXTINF:-1 tvg-chno="560" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/640px-Starz_2008.png",Starz
 http://kstv.us:8080/streaming/clients_live.php?username=2qt65aetuZ&password=0527822179&stream=46667&extension=ts
