@@ -865,20 +865,20 @@ https://nxt.plus:8443/streaming/clients_live.php?username=cablestream&password=u
 #EXTINF:-1 tvg-chno="378" tvg-logo="https://canalesdominicanos.live/template/images/radios/digital-15.png",Canal 15 ⁽ᵗˢ⁾ 🇩🇴
 https://nxt.plus:8443/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=160235&extension=ts
 
-#EXTINF:-1 tvg-chno="379" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/cdn.png?zoom=3&resize=100%2C70&ssl=1",CDN ¹ 🇩🇴
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
+#EXTINF:-1 tvg-chno="379" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/cdn.png?zoom=3&resize=100%2C70&ssl=1",CDN ⁽ᵗˢ⁾ 🇩🇴
+https://nxt.plus:8443/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=190372&extension=ts
 
 #EXTINF:-1 tvg-chno="380" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Megavision-Canal-43-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Megavisión ¹ 🇩🇴
 https://server2grupocam.com/megavision/MV/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="381" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telesistemac.png?zoom=3&resize=100%2C70&ssl=1",Telesistema ¹ 🇩🇴
-https://glb.bozztv.com/glb/ssh101/0011/index.m3u8
+#EXTINF:-1 tvg-chno="381" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telesistemac.png?zoom=3&resize=100%2C70&ssl=1",Telesistema ⁽ᵗˢ⁾ 🇩🇴
+https://nxt.plus:8443/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=160233&extension=ts
 
-#EXTINF:-1 tvg-chno="382" tvg-logo="https://canalesdominicanos.live/template/images/radios/antena_latina_canal_7.jpg",Antena Latina ¹ 🇩🇴
-https://fl1002.bozztv.com/ssh101/0007/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="382" tvg-logo="https://canalesdominicanos.live/template/images/radios/antena_latina_canal_7.jpg",Antena Latina ⁽ᵗˢ⁾ 🇩🇴
+https://nxt.plus:8443/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=174898&extension=ts
 
-#EXTINF:-1 tvg-chno="384" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/06/telecentro.png?zoom=3&resize=100%2C70&ssl=1",Telecentro ¹ 🇩🇴
-https://glb.bozztv.com/glb/ssh101/0013/index.m3u8
+#EXTINF:-1 tvg-chno="384" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/06/telecentro.png?zoom=3&resize=100%2C70&ssl=1",Telecentro ⁽ᵗˢ⁾ 🇩🇴
+https://nxt.plus:8443/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=160236&extension=ts
 
 #EXTINF:-1 tvg-chno="385" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/canal-4-montecarlo-en-vivo.png?zoom=3&resize=100%2C70&ssl=1",Canal 4 🇺🇾
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278794.m3u8
