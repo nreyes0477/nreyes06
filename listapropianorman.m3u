@@ -1379,7 +1379,7 @@ http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278563.m3u8
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 
 #EXTINF:-1 tvg-chno="674" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aztecadeporteslogo.png/480px-Aztecadeporteslogo.png",Azteca Deportes ⁽ᵗˢ⁾ 🇲🇽
-https://nxt.plus:8443/streaming/clients_live.php?username=cablestream&password=193967uSgBFYRL78sA&stream=193967&extension=ts
+https://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=193967uSgBFYRL78sA&stream=193967&extension=ts
 
 #EXTINF:-1 tvg-chno="684" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aztecadeporteslogo.png/480px-Aztecadeporteslogo.png",Azteca Deportes (Pluto) ¹ 🇲🇽
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
