@@ -1300,8 +1300,8 @@ http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278768.m3u8
 #EXTINF:-1 tvg-chno="644" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png",TUDN MX ² 🇲🇽
 http://190.92.10.66:4000/play/a002/index.m3u8
 
-#EXTINF:-1 tvg-chno="645" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png",TUDN USA 🇺🇸
-http://live.budtvlight.com:25461/live/bud-4583224/324a549067/180970.m3u8
+#EXTINF:-1 tvg-chno="645" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png",TUDN USA ⁽ᵗˢ⁾ 🇺🇸
+https://nxt.plus:8443/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=3283&extension=ts
 
 #EXTINF:-1 tvg-chno="646" tvg-logo="https://iili.io/J2wureR.png",Zona TUDN USA 🇺🇸
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278570.m3u8
