@@ -19,7 +19,7 @@ http://38.159.227.124:8000/play/a04l
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445/master.m3u8
 
 #EXTINF:-1 tvg-chno="9" tvg-logo="https://meganettv.fun/storage/channel-logos/ySwjxbNmEY2GbocranaMX22871ZiAP8HuV16jJZM.png",Canal 38 ¡Opa! ¹
-https://opa.usastreams.com:3066/live/canalopalive.m3u8
+https://5fc584f3f19c9.streamlock.net:443/genteopa/videogenteopa/chunklist_w1191705862.m3u8
 
 #EXTINF:-1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png",Canal 11 Repretel ¹
 https://alba-cr-repretel-c11.stream.mediatiquestream.com:443/live2/alba-cr-repretel-c11_720p/chunks.m3u8
@@ -706,7 +706,7 @@ http://170.82.37.21:8000/play/a00b/index.m3u8
 https://srdiegoiptvfast.alwaysdata.net/pagtv/telextrema-m3u8/aztecauno.m3u8
 
 #EXTINF:-1 tvg-chno="312" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png",Azteca Uno ⁽ᵗˢ⁾ 🇲🇽
-http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=129032&extension=ts
+https://nxt.plus:8443/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=160516&extension=ts
 
 #EXTINF:-1 tvg-chno="313" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png",Azteca Uno -2hr 🇲🇽
 http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=158616&extension=ts
@@ -718,7 +718,7 @@ https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.
 https://srdiegoiptvfast.alwaysdata.net/pagtv/telextrema-m3u8/azteca7.m3u8
 
 #EXTINF:-1 tvg-chno="315" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png",Azteca 7 ⁽ᵗˢ⁾ 🇲🇽
-http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=129033&extension=ts
+https://nxt.plus:8443/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=237828&extension=ts
 
 #EXTINF:-1 tvg-chno="316" tvg-logo="https://digitalcontent.prensariozone.com/wp-content/uploads/2021/10/Azteca_logo_trans_516x287.png",Azteca Internacional ¹ 🇲🇽
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
@@ -1378,52 +1378,55 @@ http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278563.m3u8
 #EXTINF:-1 tvg-chno="673" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports-mediano.png",A y M Sports ¹ 🇲🇽
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 
-#EXTINF:-1 tvg-chno="674" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aztecadeporteslogo.png/480px-Aztecadeporteslogo.png",Azteca Deportes ¹ 🇲🇽
+#EXTINF:-1 tvg-chno="674" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aztecadeporteslogo.png/480px-Aztecadeporteslogo.png",Azteca Deportes ⁽ᵗˢ⁾ 🇲🇽
+https://nxt.plus:8443/streaming/clients_live.php?username=cablestream&password=193967uSgBFYRL78sA&stream=&extension=ts
+
+#EXTINF:-1 tvg-chno="684" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aztecadeporteslogo.png/480px-Aztecadeporteslogo.png",Azteca Deportes (Pluto) ¹ 🇲🇽
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 tvg-chno="675" tvg-logo="https://static.wixstatic.com/media/27d2df_304369b4987a4309ac7bfa2e88926465~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TYC-SPORTS.png",TyC Sports 🇦🇷 
+#EXTINF:-1 tvg-chno="685" tvg-logo="https://static.wixstatic.com/media/27d2df_304369b4987a4309ac7bfa2e88926465~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TYC-SPORTS.png",TyC Sports 🇦🇷 
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278778.m3u8
 
-#EXTINF:-1 tvg-chno="676" tvg-logo="https://static.wixstatic.com/media/27d2df_7dd86f95523f4e74a9f6134ecc3ef7d9~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TNT-SPORTS.png",TNT Sports 🇦🇷
+#EXTINF:-1 tvg-chno="686" tvg-logo="https://static.wixstatic.com/media/27d2df_7dd86f95523f4e74a9f6134ecc3ef7d9~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TNT-SPORTS.png",TNT Sports 🇦🇷
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278776.m3u8
 
-#EXTINF:-1 tvg-chno="677" tvg-logo="https://static.wixstatic.com/media/27d2df_7dd86f95523f4e74a9f6134ecc3ef7d9~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TNT-SPORTS.png",TNT Sports 🇨🇱 
+#EXTINF:-1 tvg-chno="687" tvg-logo="https://static.wixstatic.com/media/27d2df_7dd86f95523f4e74a9f6134ecc3ef7d9~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TNT-SPORTS.png",TNT Sports 🇨🇱 
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278777.m3u8
 
-#EXTINF:-1 tvg-chno="678" tvg-logo="https://static.wixstatic.com/media/27d2df_aa09c9d58f564e09897e5918f4c0f769~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/VTV.png",VTV Plus 🇺🇾
+#EXTINF:-1 tvg-chno="688" tvg-logo="https://static.wixstatic.com/media/27d2df_aa09c9d58f564e09897e5918f4c0f769~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/VTV.png",VTV Plus 🇺🇾
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47078.m3u8
 
-#EXTINF:-1 tvg-chno="679" tvg-logo="https://static.wixstatic.com/media/27d2df_e7790a6174964e8f971e92664372a4ad~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/WIN-SPORTS.png",Win Sports 🇨🇴
+#EXTINF:-1 tvg-chno="689" tvg-logo="https://static.wixstatic.com/media/27d2df_e7790a6174964e8f971e92664372a4ad~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/WIN-SPORTS.png",Win Sports 🇨🇴
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/279400.m3u8
 
-#EXTINF:-1 tvg-chno="680" tvg-logo="https://static.wixstatic.com/media/27d2df_b3af5440b55c4187a22603dec862fa45~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/M-DEPORTES.png",Movistar Deportes ⁽ᵗˢ⁾ 🇵🇪 
+#EXTINF:-1 tvg-chno="690" tvg-logo="https://static.wixstatic.com/media/27d2df_b3af5440b55c4187a22603dec862fa45~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/M-DEPORTES.png",Movistar Deportes ⁽ᵗˢ⁾ 🇵🇪 
 http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=140572&extension=ts
 
-#EXTINF:-1 tvg-chno="681" tvg-logo="https://i.imgur.com/6wkmgGM.png",Tigo Sports Panamá 🇵🇦 
+#EXTINF:-1 tvg-chno="691" tvg-logo="https://i.imgur.com/6wkmgGM.png",Tigo Sports Panamá 🇵🇦 
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/279308.m3u8
 
-#EXTINF:-1 tvg-chno="682" tvg-logo="https://i.imgur.com/6wkmgGM.png",Tigo Sports Guatemala ¹ 🇬🇹
+#EXTINF:-1 tvg-chno="692" tvg-logo="https://i.imgur.com/6wkmgGM.png",Tigo Sports Guatemala ¹ 🇬🇹
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 
-#EXTINF:-1 tvg-chno="683" tvg-logo="https://i.imgur.com/6wkmgGM.png",Tigo Sports Honduras 🇭🇳
+#EXTINF:-1 tvg-chno="693" tvg-logo="https://i.imgur.com/6wkmgGM.png",Tigo Sports Honduras 🇭🇳
 http://go.iptvhn.net:25461/live/7682/7682/13325.m3u8
 
-#EXTINF:-1 tvg-chno="684" tvg-logo="https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/128579b4-6ac2-11ed-8535-d36612803c67.png",Wapa Deportes 🇵🇷
+#EXTINF:-1 tvg-chno="694" tvg-logo="https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/128579b4-6ac2-11ed-8535-d36612803c67.png",Wapa Deportes 🇵🇷
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278885.m3u8
 
-#EXTINF:-1 tvg-chno="685" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos.png?resize=600%2C360&ssl=1",Cableonda 🇵🇦 
-http://dnslivetv.online:80/live/Victor1234/Victor1234/1070418.m3u8
+#EXTINF:-1 tvg-chno="695" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos.png?resize=600%2C360&ssl=1",Cableonda 🇵🇦 
+http://dnslivetv.onlin:80/live/Victor1234/Victor1234/1070418.m3u8
 
-#EXTINF:-1 tvg-chno="686" tvg-logo="https://static.wixstatic.com/media/27d2df_6f105d86f6594198a9fc6590dee6b3c0~mv2.png/v1/fill/w_200,h_182,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/EUROSPORT-1.png",Eurosport 1 ² 🇪🇦
+#EXTINF:-1 tvg-chno="696" tvg-logo="https://static.wixstatic.com/media/27d2df_6f105d86f6594198a9fc6590dee6b3c0~mv2.png/v1/fill/w_200,h_182,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/EUROSPORT-1.png",Eurosport 1 ² 🇪🇦
 http://185.189.225.157/EuroSport1/index.m3u8
 
-#EXTINF:-1 tvg-chno="687" tvg-logo="https://static.wixstatic.com/media/27d2df_4614cbf5c6084044b063fff6f5de6d04~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/EUROSPORT-2.png",Eurosport 2 ² 🇪🇦
+#EXTINF:-1 tvg-chno="697" tvg-logo="https://static.wixstatic.com/media/27d2df_4614cbf5c6084044b063fff6f5de6d04~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/EUROSPORT-2.png",Eurosport 2 ² 🇪🇦
 http://185.189.225.157/EuroSport2/index.m3u8
 
-#EXTINF:-1 tvg-chno="688" tvg-logo="https://static.wixstatic.com/media/27d2df_7198c6ed4299494984dce09650a355c2~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DEPORTV.png",DeporTV 🇦🇷
+#EXTINF:-1 tvg-chno="698" tvg-logo="https://static.wixstatic.com/media/27d2df_7198c6ed4299494984dce09650a355c2~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DEPORTV.png",DeporTV 🇦🇷
 http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278756.m3u8
 
-#EXTINF:-1 tvg-chno="689" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png",VM Latino
+#EXTINF:-1 tvg-chno="699" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="701" tvg-logo="https://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png",88 Estéreo
