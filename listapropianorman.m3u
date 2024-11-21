@@ -1,13 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://canal1cr.com/wp-content/uploads/2023/02/logo-canal-1-png.png",Canal 1 CR ¹
+https://59ef525c24caa.streamlock.net:443/canal1cr/canal1cr/chunklist_w1393812620.m3u8
+
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png",Canal 2 Repretel ¹
 https://d30230c1j3h08x.cloudfront.net:443/live2/alba-cr-repretel-c2_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/1200px-Repretel_4_logo.png",Canal 4 Repretel ¹
 https://d35xpyc30huab3.cloudfront.net:443/live2/alba-cr-repretel-c4_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-chno="5" tvg-logo="https://canal1cr.com/wp-content/uploads/2023/02/logo-canal-1-png.png",Canal 1 CR ¹
-https://59ef525c24caa.streamlock.net:443/canal1cr/canal1cr/chunklist_w1393812620.m3u8
 
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/768px-Repretel_6_logo.png",Canal 6 Repretel ¹
 http://alba-cr-repretel-c6.stream.mediatiquestream.com:80/live2/alba-cr-repretel-c6_720p/chunks.m3u8
@@ -18,14 +18,8 @@ http://38.159.227.124:8000/play/a04l
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://pbs.twimg.com/profile_images/1510311834800246787/sfWgWmqk.jpg",Canal 8 Multimedios ¹
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445/master.m3u8
 
-#EXTINF:-1 tvg-chno="9" tvg-logo="https://meganettv.fun/storage/channel-logos/ySwjxbNmEY2GbocranaMX22871ZiAP8HuV16jJZM.png",Canal 38 ¡Opa! ¹
-https://5fc584f3f19c9.streamlock.net:443/genteopa/videogenteopa/chunklist_w1191705862.m3u8
-
 #EXTINF:-1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png",Canal 11 Repretel ¹
 https://alba-cr-repretel-c11.stream.mediatiquestream.com:443/live2/alba-cr-repretel-c11_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-chno="12" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Trivisio%CC%81n-Canal-36-en-vivo-Online.png",Canal 36 Trivisión ¹
-https://liveingesta118.cdnmedia.tv:443/trivision36live/dvrlive-1500/chunklist.m3u8?DVR
 
 #EXTINF:-1 tvg-chno="13" tvg-logo="https://observador.cr/wp-content/uploads/2022/07/Logo-nuevo-canal-13-768x692.png",Canal 13 Sinart ¹
 https://ssh101.bozztv.com/ssh101/sinart13/playlist.m3u8
@@ -33,10 +27,16 @@ https://ssh101.bozztv.com/ssh101/sinart13/playlist.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2022/09/tvsur-logo-01-1-300x120.png",Tv Sur Canal 14 ¹
 https://k20.usastreams.com:8081/tvsur/index.m3u8
 
-#EXTINF:-1 tvg-chno="16" tvg-logo="https://elnortehoycr.com/wp-content/uploads/2020/07/captura-19.jpg",TVN 14 San Carlos ¹
+#EXTINF:-1 tvg-chno="15" tvg-logo="https://elnortehoycr.com/wp-content/uploads/2020/07/captura-19.jpg",TVN 14 San Carlos ¹
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/chunklist_w1881922243.m3u8
 
-#EXTINF:-1 tvg-chno="17" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/extra_tv-mediano.png",Extra Tv 42 ¹
+#EXTINF:-1 tvg-chno="16" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Trivisio%CC%81n-Canal-36-en-vivo-Online.png",Canal 36 Trivisión ¹
+https://liveingesta118.cdnmedia.tv:443/trivision36live/dvrlive-1500/chunklist.m3u8?DVR
+
+#EXTINF:-1 tvg-chno="17" tvg-logo="https://meganettv.fun/storage/channel-logos/ySwjxbNmEY2GbocranaMX22871ZiAP8HuV16jJZM.png",Canal 38 ¡Opa! ¹
+https://5fc584f3f19c9.streamlock.net:443/genteopa/videogenteopa/chunklist_w1191705862.m3u8
+
+#EXTINF:-1 tvg-chno="18" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/extra_tv-mediano.png",Extra Tv 42 ¹
 https://d2axu5ozwr5gk0.cloudfront.net/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Fd2axu5ozwr5gk0.cloudfront.net%2Findex.m3u8%22%2Csid%3D%22ee715f81-21b9-4bd4-aabc-422472501a3c%22
 
 #EXTINF:-1 tvg-chno="19" tvg-logo="https://costaricatelevision.com/sites/default/files/2022-09/_Telered%252520Television.png",Telered ¹
