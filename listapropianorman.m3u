@@ -37,7 +37,7 @@ https://k20.usastreams.com:8081/tvsur/index.m3u8
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/chunklist_w1881922243.m3u8
 
 #EXTINF:-1 tvg-chno="17" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/extra_tv-mediano.png",Extra Tv 42 ¹
-https://d2axu5ozwr5gk0.cloudfront.net:443/live2/gxtra-cr-dxtra-tv_720p/chunks.m3u8
+https://d2axu5ozwr5gk0.cloudfront.net/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Fd2axu5ozwr5gk0.cloudfront.net%2Findex.m3u8%22%2Csid%3D%22ee715f81-21b9-4bd4-aabc-422472501a3c%22
 
 #EXTINF:-1 tvg-chno="19" tvg-logo="https://costaricatelevision.com/sites/default/files/2022-09/_Telered%252520Television.png",Telered ¹
 https://k20.usastreams.com:8081/telered/index.m3u8
