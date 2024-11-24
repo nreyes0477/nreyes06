@@ -1177,8 +1177,8 @@ http://45.186.106.207:8000/play/a06x
 #EXTINF:-1 tvg-chno="602" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR ²
 http://45.167.3.81:45000/play/a04a
 
-#EXTINF:-1 tvg-chno="603" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13307&extension=ts
+#EXTINF:-1 tvg-chno="603" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR ²
+http://190.83.2.172:8081/play/a05f/index.m3u8
 
 #EXTINF:-1 tvg-chno="604" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD + ²
 http://190.211.102.42:4000/play/a00q/index.m3u8
