@@ -351,8 +351,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1 tvg-chno="168" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/250px-Russia-today-logo.svg.png",RT Español ¹ 🇷🇺
 https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
 
-#EXTINF:-1 tvg-chno="169" tvg-logo="https://cdn.mitvstatic.com/channels/ar_france-24-espanol_m.png",France 24 ⁽ᵗˢ⁾ 🇨🇵
-http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=212040&extension=ts
+#EXTINF:-1 tvg-chno="169" tvg-logo="https://cdn.mitvstatic.com/channels/ar_france-24-espanol_m.png",France 24 ¹ 🇨🇵
+https://marine2.miplay.cl/france24/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="170" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png",Euronews ¹ 🇪🇺
 https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
