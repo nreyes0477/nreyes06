@@ -423,14 +423,14 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/47084.m3u8
 #EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",El Trece ¹ 🇦🇷
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",El Trece 🇦🇷
-http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278760&extension=ts
+#EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",El Trece ⁽ᵗˢ⁾ 🇦🇷
+http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=13226&extension=ts
 
-#EXTINF:-1 tvg-chno="202" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png",El Trece Internacional 🇦🇷
-http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=3568&extension=ts
+#EXTINF:-1 tvg-chno="202" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png",El Trece Internacional ⁽ᵗˢ⁾ 🇦🇷
+http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=187903&extension=ts
 
-#EXTINF:-1 tvg-chno="203" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe ² 🇦🇷
-http://190.123.90.146:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-chno="203" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe ⁽ᵗˢ⁾ 🇦🇷
+http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=1634&extension=ts
 
 #EXTINF:-1 tvg-chno="204" tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2023/02/Mi-8-alta-06.png",Canal 8 (Telefe) ¹ 🇦🇷
 https://stream.arcast.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8?wowzatokenendtime=1733014680&wowzatokenstarttime=0&wowzatokenhash=7hXh26xsId0v2hk2LIPM_WLLlvivClk6D4jzFALi7E0=
@@ -444,17 +444,17 @@ http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224
 #EXTINF:-1 tvg-chno="208" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",TV Pública 🇦🇷
 http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=162336&extension=ts
 
-#EXTINF:-1 tvg-chno="209" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG",América TV ² 🇦🇷
-http://190.123.90.146:8000/play/a00l/index.m3u8
+#EXTINF:-1 tvg-chno="209" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG",América TV ⁽ᵗˢ⁾ 🇦🇷
+http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=12262&extension=ts
 
 #EXTINF:-1 tvg-chno="210" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png",TN Noticias 🇦🇷
 http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278775&extension=ts
 
-#EXTINF:-1 tvg-chno="211" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/588px-Canal_26_logo_%282022%29.svg.png",Canal 26 🇦🇷 
-http://dnslivetv.online:80/live/Victor1234/Victor1234/1070124.m3u8
+#EXTINF:-1 tvg-chno="211" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/588px-Canal_26_logo_%282022%29.svg.png",Canal 26 ⁽ᵗˢ⁾ 🇦🇷 
+http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=114557&extension=ts
 
-#EXTINF:-1 tvg-chno="212" tvg-logo="https://assets.iproup.com/assets/jpg/2021/04/17689.jpg",Crónica TV 🇦🇷
-http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278755&extension=ts
+#EXTINF:-1 tvg-chno="212" tvg-logo="https://assets.iproup.com/assets/jpg/2021/04/17689.jpg",Crónica TV ⁽ᵗˢ⁾ 🇦🇷
+http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=171109&extension=ts
 
 #EXTINF:-1 tvg-chno="214" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/C5N_%282017%29.png/606px-C5N_%282017 %29.png",C5N 🇦🇷
 http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278752&extension=ts
@@ -466,7 +466,7 @@ http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224
 http://dnslivetv.online:80/live/Victor1234/Victor1234/1070161.m3u8
 
 #EXTINF:-1 tvg-chno="217" tvg-logo="https://media.canalnet.tv/2018/11/logo-notificaciones-150x150.png",Net TV ¹ 🇦🇷
-https://unlimited1-us.dps.live:443/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?nimblesessionid=725304002
+https://unlimited1-us.dps.live:443/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?nimblesessionid=1418850105
 
 #EXTINF:-1 tvg-chno="218" tvg-logo="https://i.imgur.com/p9aaBKg.png",Cinco TV ¹ 🇦🇷
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
