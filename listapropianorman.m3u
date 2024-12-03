@@ -429,8 +429,8 @@ http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uS
 #EXTINF:-1 tvg-chno="202" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png",El Trece Internacional ⁽ᵗˢ⁾ 🇦🇷
 http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=187903&extension=ts
 
-#EXTINF:-1 tvg-chno="203" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe ⁽ᵗˢ⁾ 🇦🇷
-http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=1634&extension=ts
+#EXTINF:-1 tvg-chno="203" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe 🇦🇷
+http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278773extension=ts
 
 #EXTINF:-1 tvg-chno="204" tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2023/02/Mi-8-alta-06.png",13Max TV (Telefe) ¹ 🇦🇷
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w591180067.m3u8
@@ -592,10 +592,10 @@ https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92
 http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=35052&extension=ts
 
 #EXTINF:-1 tvg-chno="263" tvg-logo="https://logos.streamsites.eu/2756_tve-en-directo-la-1_overview.png",La 1 ⁽ᵗˢ⁾ 🇪🇸
-http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=13652&extension=ts
+http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278840&extension=ts
 
 #EXTINF:-1 tvg-chno="264" tvg-logo="https://logos.streamsites.eu/2894_la-2-en-directo_overview.png",La 2 ⁽ᵗˢ⁾ 🇪🇸
-http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=13653&extension=ts
+http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278841&extension=ts
 
 #EXTINF:-1 tvg-chno="265" tvg-logo="https://logos.streamsites.eu/2516_antena3_overview.png",Antena 3 🇪🇸
 http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278812&extension=ts
