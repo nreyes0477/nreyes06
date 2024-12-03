@@ -430,7 +430,7 @@ http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uS
 http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=187903&extension=ts
 
 #EXTINF:-1 tvg-chno="203" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe 🇦🇷
-http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278773extension=ts
+http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278773&extension=ts
 
 #EXTINF:-1 tvg-chno="204" tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2023/02/Mi-8-alta-06.png",13Max TV (Telefe) ¹ 🇦🇷
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w591180067.m3u8
