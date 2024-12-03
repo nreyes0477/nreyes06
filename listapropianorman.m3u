@@ -657,11 +657,14 @@ http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uS
 #EXTINF:-1 tvg-chno="285" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo NY ⁽ᵗˢ⁾ 🇺🇸
 http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=24523&extension=ts
 
-#EXTINF:-1 tvg-chno="286" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo LA ⁽ᵗˢ⁾ 🇺🇸
-http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=189349&extension=ts
+#EXTINF:-1 tvg-chno="286" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo MI ⁽ᵗˢ⁾ 🇺🇸
+http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=334&extension=ts
 
-#EXTINF:-1 tvg-chno="287" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo FL ⁽ᵗˢ⁾ 🇺🇸
-http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=192392&extension=ts
+#EXTINF:-1 tvg-chno="287" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo LV ⁽ᵗˢ⁾ 🇺🇸
+http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=361&extension=ts
+
+#EXTINF:-1 tvg-chno="288" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo PX ⁽ᵗˢ⁾ 🇺🇸
+http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=6899&extension=ts
 
 #EXTINF:-1 tvg-chno="289" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png",Galavisión MI ⁽ᵗˢ⁾ 🇺🇸
 http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=25704&extension=ts
@@ -669,11 +672,14 @@ http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uS
 #EXTINF:-1 tvg-chno="290" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png",Galavisión NY ⁽ᵗˢ⁾ 🇺🇸
 http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=242929&extension=ts
 
-#EXTINF:-1 tvg-chno="293" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás LV ⁽ᵗˢ⁾ 🇺🇸
-http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=242924&extension=ts
+#EXTINF:-1 tvg-chno="293" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás MI ⁽ᵗˢ⁾ 🇺🇸
+http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=12784&extension=ts
 
 #EXTINF:-1 tvg-chno="294" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás LA ⁽ᵗˢ⁾ 🇺🇸
-http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=24524&extension=ts
+http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=1079&extension=ts
+
+#EXTINF:-1 tvg-chno="295" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás PX ⁽ᵗˢ⁾ 🇺🇸
+http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=286&extension=ts
 
 #EXTINF:-1 tvg-chno="299" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/telemundo.jpg",Telemundo Internacional ² 🇺🇸
 http://45.5.117.182:8000/play/a0fo/index.m3u8
@@ -711,7 +717,7 @@ https://nxt.plus:8443/streaming/clients_live.php?username=cablestream&password=u
 #EXTINF:-1 tvg-chno="313" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png",Azteca Uno -2hr 🇲🇽
 http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=158616&extension=ts
 
-#EXTINF:-1 tvg-chno="313" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png",Azteca Uno -1hr ¹ 🇲🇽
+#EXTINF:-1 tvg-chno="313" tvg-logo="https://mexio.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png",Azteca Uno -1hr ¹ 🇲🇽
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
 
 #EXTINF:-1 tvg-chno="315" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png",Azteca 7 ⁽ᵗˢ⁾ 🇲🇽
