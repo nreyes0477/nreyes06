@@ -1638,6 +1638,18 @@ https://26b638b2564d41f8b6a36b6dd59e8d4f.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-chno="801" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/trailertv.png",Tráilers TV 🇪🇸
 https://bit.ly/3WChqoj?ESBC1700004PX.m3u8
 
+#EXTINF:-1 tvg-chno="850" tvg-logo="https://fotos.perfil.com/2024/12/02/trim/414/233/gran-hermano-2025-1922635.jpg?webp",GH (Cam 1) ⁽ᵗˢ⁾ 🇦🇷
+http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=255314&extension=ts
+
+#EXTINF:-1 tvg-chno="850" tvg-logo="https://fotos.perfil.com/2024/12/02/trim/414/233/gran-hermano-2025-1922635.jpg?webp",GH (Cam 2) ⁽ᵗˢ⁾ 🇦🇷
+http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=255315&extension=ts
+
+#EXTINF:-1 tvg-chno="850" tvg-logo="https://fotos.perfil.com/2024/12/02/trim/414/233/gran-hermano-2025-1922635.jpg?webp",GH (Cam 3) ⁽ᵗˢ⁾ 🇦🇷
+http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=255316&extension=ts
+
+#EXTINF:-1 tvg-chno="850" tvg-logo="https://fotos.perfil.com/2024/12/02/trim/414/233/gran-hermano-2025-1922635.jpg?webp",GH (Cam 4) ⁽ᵗˢ⁾ 🇦🇷
+http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=255317&extension=ts
+
 #EXTINF:-1 tvg-chno="900" tvg-logo="https://cdn.instant.audio/images/logos/radios-co-cr/radio-monumental.png",Radio Monumental 📻 (Solo Audio)
 https://alba-cr-monumental-monumental.stream.mediatiquestream.com/index.m3u8
 
