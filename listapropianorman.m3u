@@ -30,7 +30,7 @@ https://k20.usastreams.com:8081/tvsur/index.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://elnortehoycr.com/wp-content/uploads/2020/07/captura-19.jpg",TVN 14 San Carlos ¹
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/chunklist_w1881922243.m3u8
 
-#EXTINF:-1 tvg-chno="16" tvg-logo="https://elnortehoycr.com/wp-content/uploads/2020/07/captura-19.jpg",Canal 15 UCR ¹
+#EXTINF:-1 tvg-chno="16" tvg-logo="https://semanariouniversidad.com/wp-content/uploads/2021/04/Logo-canal15-1024x1024.jpeg",Canal 15 UCR ¹
 http://163.178.170.127:1935/quinceucr/_definst_/quinceucr.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="17" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Trivisio%CC%81n-Canal-36-en-vivo-Online.png",Canal 36 Trivisión ¹
