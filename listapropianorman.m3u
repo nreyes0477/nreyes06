@@ -12,8 +12,8 @@ https://d35xpyc30huab3.cloudfront.net:443/live2/alba-cr-repretel-c4_720p/chunks.
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/768px-Repretel_6_logo.png",Canal 6 Repretel ¹
 https://d1vr8yxz55pucr.cloudfront.net:443/original.m3u8
 
-#EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/670px-Teletica_Logo.png",Canal 7 Teletica ²
-http://38.159.227.124:8000/play/a04l
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/670px-Teletica_Logo.png",Canal 7 Teletica ¹
+https://acceso.radiosportstv.online:3203/stream/play.m3u8
 
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://pbs.twimg.com/profile_images/1510311834800246787/sfWgWmqk.jpg",Canal 8 Multimedios ¹
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445/master.m3u8
@@ -30,25 +30,28 @@ https://k20.usastreams.com:8081/tvsur/index.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://elnortehoycr.com/wp-content/uploads/2020/07/captura-19.jpg",TVN 14 San Carlos ¹
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/chunklist_w1881922243.m3u8
 
-#EXTINF:-1 tvg-chno="16" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Trivisio%CC%81n-Canal-36-en-vivo-Online.png",Canal 36 Trivisión ¹
+#EXTINF:-1 tvg-chno="16" tvg-logo="https://elnortehoycr.com/wp-content/uploads/2020/07/captura-19.jpg",Canal 15 UCR ¹
+http://163.178.170.127:1935/quinceucr/_definst_/quinceucr.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="17" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Trivisio%CC%81n-Canal-36-en-vivo-Online.png",Canal 36 Trivisión ¹
 https://liveingesta118.cdnmedia.tv:443/trivision36live/dvrlive-1500/chunklist.m3u8?DVR
 
-#EXTINF:-1 tvg-chno="17" tvg-logo="https://meganettv.fun/storage/channel-logos/ySwjxbNmEY2GbocranaMX22871ZiAP8HuV16jJZM.png",Canal 38 ¡Opa! ¹
+#EXTINF:-1 tvg-chno="18" tvg-logo="https://meganettv.fun/storage/channel-logos/ySwjxbNmEY2GbocranaMX22871ZiAP8HuV16jJZM.png",Canal 38 ¡Opa! ¹
 https://5fc584f3f19c9.streamlock.net:443/genteopa/videogenteopa/chunklist_w1191705862.m3u8
 
-#EXTINF:-1 tvg-chno="18" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/extra_tv-mediano.png",Extra Tv 42 ¹
+#EXTINF:-1 tvg-chno="19" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/extra_tv-mediano.png",Extra Tv 42 ¹
 https://library-amerix.fireclip.tv:443/66ba7dde399e042414a866cd/live/live_0.m3u8
 
-#EXTINF:-1 tvg-chno="19" tvg-logo="https://costaricatelevision.com/sites/default/files/2022-09/_Telered%252520Television.png",Telered ¹
+#EXTINF:-1 tvg-chno="20" tvg-logo="https://costaricatelevision.com/sites/default/files/2022-09/_Telered%252520Television.png",Telered ¹
 https://k20.usastreams.com:8081/telered/index.m3u8
 
-#EXTINF:-1 tvg-chno="20" tvg-logo="https://image.roku.com/developer_channels/prod/0059b385c4fae2dcd6cbacc1a47c1418b2b3c82cd431a05a2aa34b3eae8ac5ed.png",Telesistema ¹
+#EXTINF:-1 tvg-chno="21" tvg-logo="https://image.roku.com/developer_channels/prod/0059b385c4fae2dcd6cbacc1a47c1418b2b3c82cd431a05a2aa34b3eae8ac5ed.png",Telesistema ¹
 https://k20.usastreams.com:8081/telesistema/index.m3u8
 
-#EXTINF:-1 tvg-chno="21" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica-en-vivo-Online.png?resize=1068%2C601&ssl=1",Teleuno ¹
+#EXTINF:-1 tvg-chno="22" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica-en-vivo-Online.png?resize=1068%2C601&ssl=1",Teleuno ¹
 https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="22" tvg-logo="https://costaricachannel.org/wp-content/uploads/2022/08/cropped-LOGO-CR-2022-2022-1024x342.png",Costa Rica Channel ¹
+#EXTINF:-1 tvg-chno="23" tvg-logo="https://costaricachannel.org/wp-content/uploads/2022/08/cropped-LOGO-CR-2022-2022-1024x342.png",Costa Rica Channel ¹
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 
 #EXTINF:-1 tvg-chno="25" tvg-logo="https://image.roku.com/developer_channels/prod/54692756b637a7fe9bddfa2a9d03c90ab00be93516aef3828db91b5040886b9d.png",Tica Visión ¹
@@ -103,7 +106,7 @@ https://cloudvideo.servers10.com:8081/8230/index.m3u8
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="44" tvg-logo="https://i.imgur.com/Yd7JOxr.png",San Vito TV ¹
-https://video.misistemareseller.com:1936/sanvito/sanvito/playlist.m3u8
+https://acceso.radiosportstv.online:3150/live/sanvitotvlive.m3u8
 
 #EXTINF:-1 tvg-chno="45" tvg-logo="https://geomedios.fcs.ucr.ac.cr/wp-content/uploads/2019/07/LogoSTV.png",Sarapiquí TV ¹
 https://lstv.duckdns.org:449/hls/stv.m3u8
@@ -112,7 +115,7 @@ https://lstv.duckdns.org:449/hls/stv.m3u8
 http://k4.usastreams.com/telebrunca/telebrunca/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="47" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0d6vD4coSsdc8wF8umj0rjvo5bZxQ9r3TeNsyNZ4qq4PlEzOusv9eVDvlWdVi80KF9ltur1f4LfJ2xVSl93yNpgZabFunN909DWUKUpV-wgPXTiqmaqNQPMP0xNYQTCdU8o-HDTpD0qmt_6gugfVq4Aj1xjNTZBfIoahPL5xT7xFuVF6K307G6CvVJrk/s400/14.png",Canal 10 CR ¹
-https://acceso.radiosportstv.online:3384/stream/play.m3u8
+https://acceso.radiosportstv.online:3285/multi_live/play_1080.m3u8
 
 #EXTINF:-1 tvg-chno="48" tvg-logo="https://image.roku.com/developer_channels/prod/db4a766d6686e0ec2d17d0307c9a4c3bd0dc27a13f0647fb8561bfb0754300a2.png",TV Nosara ¹
 https://acceso.radiosportstv.online:3430/hybrid/play.m3u8
@@ -1179,8 +1182,8 @@ http://38.159.227.124:8000/play/a02y
 #EXTINF:-1 tvg-chno="599" tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg",Futv ²
 http://190.92.10.66:4000/play/a00c/index.m3u8
 
-#EXTINF:-1 tvg-chno="600" tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg",Futv ²
-http://45.186.106.207:8000/play/a06x
+#EXTINF:-1 tvg-chno="600" tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg",Futv ¹
+https://acceso.radiosportstv.online:3746/stream/play.m3u8
 
 #EXTINF:-1 tvg-chno="602" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR ²
 http://45.167.3.81:45000/play/a04a
@@ -1189,13 +1192,13 @@ http://45.167.3.81:45000/play/a04a
 https://acceso.radiosportstv.online:3795/stream/play.m3u8
 
 #EXTINF:-1 tvg-chno="604" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD + ²
-http://190.211.102.42:4000/play/a00q/index.m3u8
+http://181.78.109.49:8000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-chno="605" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD +
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13284&extension=ts
 
 #EXTINF:-1 tvg-chno="606" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 ²
-http://190.211.102.42:4000/play/a00r/index.m3u8
+http://181.78.109.49:8000/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-chno="607" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13283&extension=ts
