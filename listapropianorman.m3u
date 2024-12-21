@@ -115,7 +115,7 @@ https://videohd.live:19360/8076/8076.m3u8
 https://acceso.radiosportstv.online:3150/live/sanvitotvlive.m3u8
 
 #EXTINF:-1 tvg-chno="45" tvg-logo="https://geomedios.fcs.ucr.ac.cr/wp-content/uploads/2019/07/LogoSTV.png",Sarapiquí TV ¹
-https://lstv.duckdns.org:449/hls/stv.m3u8
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="46" tvg-logo="https://image.roku.com/developer_channels/prod/cb20a7cb94abfe34e8aec64a16664d6ea8330cec1c1bddcfe23f139e5b274d4f.png",Telebrunca CR ¹
 http://k4.usastreams.com/telebrunca/telebrunca/playlist.m3u8
