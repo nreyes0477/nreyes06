@@ -24,23 +24,20 @@ https://d2n1dt6uwqq83r.cloudfront.net:443/original.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-logo="https://observador.cr/wp-content/uploads/2022/07/Logo-nuevo-canal-13-768x692.png",Canal 13 Sinart ¹
 https://ssh101.bozztv.com/ssh101/sinart13/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="14" tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2022/09/tvsur-logo-01-1-300x120.png",Tv Sur Canal 14 ¹
-https://k20.usastreams.com:8081/tvsur/index.m3u8
-
-#EXTINF:-1 tvg-chno="15" tvg-logo="https://elnortehoycr.com/wp-content/uploads/2020/07/captura-19.jpg",TVN 14 San Carlos ¹
-http://tvn.obix.tv:1935/TVN/CH14.stream_720p/chunklist_w1881922243.m3u8
-
-#EXTINF:-1 tvg-chno="16" tvg-logo="https://semanariouniversidad.com/wp-content/uploads/2021/04/Logo-canal15-1024x1024.jpeg",Canal 15 UCR ¹
-http://163.178.170.127:1935/quinceucr/_definst_/quinceucr.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="17" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Trivisio%CC%81n-Canal-36-en-vivo-Online.png",Canal 36 Trivisión ¹
+#EXTINF:-1 tvg-chno="14" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Trivisio%CC%81n-Canal-36-en-vivo-Online.png",Canal 36 Trivisión ¹
 https://liveingesta118.cdnmedia.tv:443/trivision36live/dvrlive-1500/chunklist.m3u8?DVR
 
-#EXTINF:-1 tvg-chno="18" tvg-logo="https://meganettv.fun/storage/channel-logos/ySwjxbNmEY2GbocranaMX22871ZiAP8HuV16jJZM.png",Canal 38 ¡Opa! ¹
+#EXTINF:-1 tvg-chno="15" tvg-logo="https://meganettv.fun/storage/channel-logos/ySwjxbNmEY2GbocranaMX22871ZiAP8HuV16jJZM.png",Canal 38 ¡Opa! ¹
 https://5fc584f3f19c9.streamlock.net:443/genteopa/videogenteopa/chunklist_w1191705862.m3u8
 
-#EXTINF:-1 tvg-chno="19" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/extra_tv-mediano.png",Extra Tv 42 ¹
+#EXTINF:-1 tvg-chno="16" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/extra_tv-mediano.png",Extra Tv 42 ¹
 https://library-amerix.fireclip.tv:443/66ba7dde399e042414a866cd/live/live_0.m3u8
+
+#EXTINF:-1 tvg-chno="17" tvg-logo="https://image.roku.com/developer_channels/prod/54692756b637a7fe9bddfa2a9d03c90ab00be93516aef3828db91b5040886b9d.png",Tica Visión ¹
+https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="18" tvg-logo="https://elnortehoycr.com/wp-content/uploads/2020/07/captura-19.jpg",TVN 14 San Carlos ¹
+http://tvn.obix.tv:1935/TVN/CH14.stream_720p/chunklist_w1881922243.m3u8
 
 #EXTINF:-1 tvg-chno="20" tvg-logo="https://costaricatelevision.com/sites/default/files/2022-09/_Telered%252520Television.png",Telered ¹
 https://k20.usastreams.com:8081/telered/index.m3u8
@@ -51,11 +48,14 @@ https://k20.usastreams.com:8081/telesistema/index.m3u8
 #EXTINF:-1 tvg-chno="22" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica-en-vivo-Online.png?resize=1068%2C601&ssl=1",Teleuno ¹
 https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="23" tvg-logo="https://costaricachannel.org/wp-content/uploads/2022/08/cropped-LOGO-CR-2022-2022-1024x342.png",Costa Rica Channel ¹
-https://video0.rogohosting.com:19360/8006/8006.m3u8
+#EXTINF:-1 tvg-chno="23" tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2022/09/tvsur-logo-01-1-300x120.png",Tv Sur Canal 14 ¹
+https://k20.usastreams.com:8081/tvsur/index.m3u8
 
-#EXTINF:-1 tvg-chno="25" tvg-logo="https://image.roku.com/developer_channels/prod/54692756b637a7fe9bddfa2a9d03c90ab00be93516aef3828db91b5040886b9d.png",Tica Visión ¹
-https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
+#EXTINF:-1 tvg-chno="24" tvg-logo="https://semanariouniversidad.com/wp-content/uploads/2021/04/Logo-canal15-1024x1024.jpeg",Canal 15 UCR ¹
+http://163.178.170.127:1935/quinceucr/_definst_/quinceucr.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="25" tvg-logo="https://costaricachannel.org/wp-content/uploads/2022/08/cropped-LOGO-CR-2022-2022-1024x342.png",Costa Rica Channel ¹
+https://video0.rogohosting.com:19360/8006/8006.m3u8
 
 #EXTINF:-1 tvg-chno="26" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telesur-costa-rica.png",Telesur CR ¹
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
