@@ -102,8 +102,14 @@ https://cloudvideo.servers10.com:8081/8132/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="40" tvg-logo="https://i.imgur.com/OFSOvpd.jpeg",TDtv ¹ 🇨🇷
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
 
+#EXTINF:-1 tvg-chno="41" tvg-logo="https://megatvcr.net/images/logo-mega.png",Mega Tv CR ¹ 🇨🇷
+.https://fl1004.bozztv.com:443/ssh101/megatvcr2024/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-chno="42" tvg-logo="https://static.wixstatic.com/media/e9b9b7_356efe37d4cb4ea3aaf42fb3c975af40~mv2.png",Garabito TV ¹
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="43" tvg-logo="https://static.wixstatic.com/media/e9b9b7_356efe37d4cb4ea3aaf42fb3c975af40~mv2.png",Canal Norte Informativo ¹
+https://videohd.live:19360/8076/8076.m3u8
 
 #EXTINF:-1 tvg-chno="44" tvg-logo="https://i.imgur.com/Yd7JOxr.png",San Vito TV ¹
 https://acceso.radiosportstv.online:3150/live/sanvitotvlive.m3u8
