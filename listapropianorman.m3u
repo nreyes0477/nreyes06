@@ -1188,14 +1188,14 @@ http://38.159.227.124:8000/play/a02y
 #EXTINF:-1 tvg-chno="599" tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg",Futv ²
 http://190.92.10.66:4000/play/a00c/index.m3u8
 
-#EXTINF:-1 tvg-chno="600" tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg",Futv ¹
-https://acceso.radiosportstv.online:3746/stream/play.m3u8
+#EXTINF:-1 tvg-chno="600" tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg",Futv ²
+http://200.125.170.122:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-chno="602" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR ²
 http://45.167.3.81:45000/play/a04a
 
 #EXTINF:-1 tvg-chno="603" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR ¹
-https://acceso.radiosportstv.online:3795/stream/play.m3u8
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13307&extension=ts
 
 #EXTINF:-1 tvg-chno="604" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD + ²
 http://181.78.109.49:8000/play/a00q/index.m3u8
