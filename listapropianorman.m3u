@@ -1651,16 +1651,16 @@ https://26b638b2564d41f8b6a36b6dd59e8d4f.mediatailor.eu-west-1.amazonaws.com/v1/
 https://bit.ly/3WChqoj?ESBC1700004PX.m3u8
 
 #EXTINF:-1 tvg-chno="850" tvg-logo="https://fotos.perfil.com/2024/12/02/trim/414/233/gran-hermano-2025-1922635.jpg?webp",GH (Cam 1) 🇦🇷
-http://tv.nousiptv.com:8080/streaming/clients_live.php?username=095488530&password=Alvaro&stream=1226119&extension=ts
+http://todoplus.digital:80/live/5MUK2Fhqtq/wqq6nhKF4W/615499.m3u8
 
 #EXTINF:-1 tvg-chno="850" tvg-logo="https://fotos.perfil.com/2024/12/02/trim/414/233/gran-hermano-2025-1922635.jpg?webp",GH (Cam 2) 🇦🇷
-http://tv.nousiptv.com:8080/streaming/clients_live.php?username=095488530&password=Alvaro&stream=1226120&extension=ts
+http://todoplus.digital:80/live/5MUK2Fhqtq/wqq6nhKF4W/615502.m3u8
 
 #EXTINF:-1 tvg-chno="850" tvg-logo="https://fotos.perfil.com/2024/12/02/trim/414/233/gran-hermano-2025-1922635.jpg?webp",GH (Cam 3) 🇦🇷
-http://tv.nousiptv.com:8080/streaming/clients_live.php?username=095488530&password=Alvaro&stream=1226121&extension=ts
+http://todoplus.digital:80/live/5MUK2Fhqtq/wqq6nhKF4W/615505.m3u8
 
 #EXTINF:-1 tvg-chno="850" tvg-logo="https://fotos.perfil.com/2024/12/02/trim/414/233/gran-hermano-2025-1922635.jpg?webp",GH (Cam 4) 🇦🇷
-http://tv.nousiptv.com:8080/streaming/clients_live.php?username=095488530&password=Alvaro&stream=1226122&extension=ts
+http://todoplus.digital:80/live/5MUK2Fhqtq/wqq6nhKF4W/615508.m3u8
 
 #EXTINF:-1 tvg-chno="900" tvg-logo="https://cdn.instant.audio/images/logos/radios-co-cr/radio-monumental.png",Radio Monumental 📻 (Solo Audio)
 https://alba-cr-monumental-monumental.stream.mediatiquestream.com/index.m3u8
