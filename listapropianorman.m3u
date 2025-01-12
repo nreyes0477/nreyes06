@@ -151,7 +151,7 @@ https://167790.global.ssl.fastly.net:443/6189746bccf0424c112f5476/live_50bbca502
 https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
 
 #EXTINF:-1 tvg-chno="57" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/10microvision.png?zoom=3&resize=100%2C70&ssl=1",Microvisión ¹ 🇩🇴
-https://streaming.telecablecentral.com.do:443/live/MicroHD/chunklist_w1035457375.m3u8
+https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="60" tvg-logo="https://www.megatvarequipa.com/wp-content/uploads/2023/05/cropped-cropped-cropped-cropped-cropped-Polish_20230519_110858425.jpg",Mega Tv Cine ¹ 🇵🇪
 https://stmv5.voxtvhd.com.br/tvytv/tvytv/chunklist_w1751351932.m3u8
