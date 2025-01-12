@@ -1305,8 +1305,8 @@ http://190.61.44.34:1010/play/a04c/index.m3u8
 #EXTINF:-1 tvg-chno="638" tvg-logo="https://static.wixstatic.com/media/27d2df_fcf3392d82c34d0aa8d7b567bcbcd89f~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-PREMIUM.png",ESPN Premium Sur ²
 http://190.61.44.34:1010/play/a05u/index.m3u8
 
-#EXTINF:-1 tvg-chno="639" tvg-logo="https://static.wixstatic.com/media/27d2df_6f7903b0a78e45a2a6b0d18b03ac0fcc~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-DEPORTES.png",ESPN Deportes Latino ¹ 🇺🇲
-http://tv.nousiptv.com:8080/streaming/clients_live.php?username=095488530&password=Alvaro&stream=1155891&extension=ts
+#EXTINF:-1 tvg-chno="639" tvg-logo="https://static.wixstatic.com/media/27d2df_6f7903b0a78e45a2a6b0d18b03ac0fcc~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-DEPORTES.png",ESPN Deportes Latino 🇺🇲
+http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=528&extension=ts
 
 #EXTINF:-1 tvg-chno="640" tvg-logo="https://static.wixstatic.com/media/27d2df_ee7829cdf05b4202baabb7203c80ae4c~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-DEPORTES.png",Fox Deportes ¹ 🇺🇲
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
