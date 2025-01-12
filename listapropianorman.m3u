@@ -129,6 +129,9 @@ https://acceso.radiosportstv.online:3430/hybrid/play.m3u8
 #EXTINF:-1 tvg-chno="49" tvg-logo="https://image.roku.com/developer_channels/prod/3d89b0129300d4fcc1b74f51c7dbee45020d18b6c3457995c78895567ab1a39f.png",Coto Brus TV ¹
 https://s1.tvdatta.com:3072/live/cotobrustvlive.m3u8
 
+#EXTINF:-1 tvg-chno="50" tvg-logo="https://i.imgur.com/7HbISMV.png",TV Sur Canal 9 ¹
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://i2.paste.pics/1379fe5bb8fd807ea046564b62f40acb.png",Bayres TV ¹ 🇦🇷
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
