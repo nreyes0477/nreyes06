@@ -265,7 +265,7 @@ http://tv.nousiptv.com:8080/streaming/clients_live.php?username=095488530&passwo
 http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278311&extension=ts
 
 #EXTINF:-1 tvg-chno="131" tvg-logo="https://cdn-profiles.tunein.com/s320627/images/logoq.png",Estrella News ¹ 🇺🇸
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia
+https://estrella-news-oando.amagi.tv:443/playlistR1080p.m3u8
 
 #EXTINF:-1 tvg-chno="132" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/NoticiasUnivision247.png/revision/latest?cb=20211012054124",24/7 Noticias Univisión ¹ 🇺🇸
 https://linear-254.frequency.stream:443/mt/studio/254/hls/master/playlist_1280x720.m3u8
