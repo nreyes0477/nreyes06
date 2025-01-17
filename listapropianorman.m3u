@@ -439,7 +439,7 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/47084.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",El Trece 🇦🇷
-http://tv.nousiptv.com:8080/streaming/clients_live.php?username=095488530&password=Alvaro&stream=51070&extension=ts
+http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=64385&extension=ts
 
 #EXTINF:-1 tvg-chno="202" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png",El Trece Internacional ¹ 🇦🇷
 http://tv.h-p.store:80/live/web-full/VhtXqbDsYu/101.m3u8
@@ -478,10 +478,10 @@ http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224
 http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278750&extension=ts
 
 #EXTINF:-1 tvg-chno="216" tvg-logo="https://dossiernet.com/_next/image?url=https%3A%2F%2Fdmdqet87i5rod.cloudfront.net%2Festoesmedia%2F609bcd5342359_lnmas.jpg&w=1080&q=75",La Nación + 🇦🇷
-http://dnslivetv.online:80/live/Victor1234/Victor1234/1070161.m3u8
+http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278769&extension=ts
 
 #EXTINF:-1 tvg-chno="217" tvg-logo="https://media.canalnet.tv/2018/11/logo-notificaciones-150x150.png",Net TV ¹ 🇦🇷
-https://unlimited1-us.dps.live:443/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?nimblesessionid=1418850105
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="218" tvg-logo="https://i.imgur.com/p9aaBKg.png",Cinco TV ¹ 🇦🇷
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
