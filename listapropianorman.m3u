@@ -808,16 +808,16 @@ http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&pas
 http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=87157&extension=ts
 
 #EXTINF:-1 tvg-chno="338" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png",Tv Max 🇵🇦
-http://go.iptvhn.net:25461/live/7682/7682/13295.m3u8
+http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=196317&extension=ts
 
-#EXTINF:-1 tvg-chno="341" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png",TVN ⁽ᵗˢ⁾ 🇵🇦
-http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=126566&extension=ts
+#EXTINF:-1 tvg-chno="341" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png",TVN 🇵🇦
+http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=196316&extension=ts
 
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/300px-Logo-telemetro.svg.png",Telemetro ⁽ᵗˢ⁾ 🇵🇦
-http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=126565&extension=ts
+#EXTINF:-1 tvg-chno="342" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/300px-Logo-telemetro.svg.png",Telemetro 🇵🇦
+http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=196314&extension=ts
 
-#EXTINF:-1 tvg-chno="343" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/RPC-en-vivo-Online.png?resize=1068%2C601&ssl=1",RPC ⁽ᵗˢ⁾ 🇵🇦
-http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=126570&extension=ts
+#EXTINF:-1 tvg-chno="343" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/RPC-en-vivo-Online.png?resize=1068%2C601&ssl=1",RPC 🇵🇦
+http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=196315&extension=ts
 
 #EXTINF:-1 tvg-chno="344" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/NEX-TV-Panam%C3%A1-en-vivo-Online.png?zoom=3&resize=218%2C150&ssl=1",Next TV ¹ 🇵🇦
 https://vcp8.myplaytv.com:1936/nextv/nextv/playlist.m3u8
