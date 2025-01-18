@@ -846,8 +846,8 @@ http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&pas
 #EXTINF:-1 tvg-chno="361" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png",Latina ¹ 🇵🇪
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina/.m3u8
 
-#EXTINF:-1 tvg-chno="362" tvg-logo="https://cdn.mitvstatic.com/channels/pe_panamericana-tv_m.png",Panamericana ¹ 🇵🇪
-https://cdnhd.iblups.com/hls/ptv5.m3u8
+#EXTINF:-1 tvg-chno="362" tvg-logo="https://cdn.mitvstatic.com/channels/pe_panamericana-tv_m.png",Panamericana 🇵🇪
+http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=124554&extension=ts
 
 #EXTINF:-1 tvg-chno="363" tvg-logo="https://canala1.com/wp-content/uploads/2024/07/logo-ba-a-1.png",Antena 1 ¹ 🇵🇪
 https://tv.h-p.store:443/live/web-full/VhtXqbDsYu/5.m3u8
