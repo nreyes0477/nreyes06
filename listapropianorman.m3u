@@ -340,7 +340,7 @@ http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224
 https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="157" tvg-logo="https://img.asmedia.epimg.net/resizer/kYJ1YW8zmMp2x-ecORU978Y0jEk=/1288x725/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/EW3U7NAIBNCOZCYGAGD3NYY54A.jpg",N + ¹ 🇲🇽
-https://ythls.armelin.one/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
+https://channel07secure-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8?hdnea=exp=1737162890~acl=/*~hmac=79257a3ac4d4349704ae60fda79e0a007922033df6e9e874dbbc5f052683b92c
 
 #EXTINF:-1 tvg-chno="158" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/Milenio-Television-en-vivo-Online.png?resize=1068%2C601&ssl=1",Milenio Noticias ¹ 🇲🇽
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
