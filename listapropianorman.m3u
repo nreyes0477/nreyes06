@@ -955,7 +955,7 @@ http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=768
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13227&extension=ts
 
 #EXTINF:-1 tvg-chno="410" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",History Channel 2
-http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=161266&extension=ts
+http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/31054.ts
 
 #EXTINF:-1 tvg-chno="411" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13249&extension=ts
