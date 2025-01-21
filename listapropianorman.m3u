@@ -1168,7 +1168,7 @@ http://181.204.79.182:8202/play/a02v
 http://181.143.230.202:8000/play/a02p/index.m3u8
 
 #EXTINF:-1 tvg-chno="566" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png",HBO Signature
-http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278705&extension=ts
+http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278505&extension=ts
 
 #EXTINF:-1 tvg-chno="567" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme Sur ²
 http://181.204.79.182:8202/play/a02w
@@ -1186,7 +1186,7 @@ http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224
 http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/30979.ts
 
 #EXTINF:-1 tvg-chno="577" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",HBO 2
-http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/30970.ts
+http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/5514.ts
 
 #EXTINF:-1 tvg-chno="593" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png",Universal Channel ²
 http://45.181.123.233:8000/play/a0je
