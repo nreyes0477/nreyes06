@@ -961,7 +961,7 @@ http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13249&extension=ts
 
 #EXTINF:-1 tvg-chno="414" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/500px-National_Geographic_Wild_logo.svg.png",Nat Geo Wild
-http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=92940&extension=ts
+http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/55858.ts
 
 #EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png",Animal Planet
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13110&extension=ts
