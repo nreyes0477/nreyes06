@@ -1188,8 +1188,8 @@ http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/30979.ts
 #EXTINF:-1 tvg-chno="577" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",HBO 2
 http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/5514.ts
 
-#EXTINF:-1 tvg-chno="593" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png",Universal Channel ²
-http://45.181.123.233:8000/play/a0je
+#EXTINF:-1 tvg-chno="593" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png",Universal Channel
+http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278449&extension=ts
 
 #EXTINF:-1 tvg-chno="594" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644505043521-Imagen.jpg",Universal Cinema ²
 http://38.159.227.124:8000/play/a04e
