@@ -1134,47 +1134,9 @@ https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-chno="553" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png",DreamWorks ¹
 http://tv.h-p.store:80/live/web-full/VhtXqbDsYu/38.m3u8
 
-#EXTINF:-1 tvg-chno="580" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO ⁽ᵗˢ⁾
-http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=36378&extension=ts
 
-#EXTINF:-1 tvg-chno="581" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",HBO 2 ²
-http://45.181.123.233:8000/play/a0j3
 
-#EXTINF:-1 tvg-chno="582" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",HBO Family ²
-http://45.181.123.233:8000/play/a0ls
 
-#EXTINF:-1 tvg-chno="583" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO + ²
-http://45.186.106.207:8000/play/a07o/index.m3u8
-
-#EXTINF:-1 tvg-chno="584" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png",HBO Pop ²
-http://45.181.123.194:8000/play/a0g8/index.m3u8
-
-#EXTINF:-1 tvg-chno="585" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png",HBO Signature ⁽ᵗˢ⁾
-http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=150081&extension=ts
-
-#EXTINF:-1 tvg-chno="586" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme ²
-http://45.181.123.233:8000/play/a157
-
-#EXTINF:-1 tvg-chno="587" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png",HBO Mundi
-http://live.budtvlight.com:25461/live/bud-4583224/324a549067/278501.m3u8
-
-#EXTINF:-1 tvg-chno="588" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO
-http://go.iptvhn.net:25461/live/7682/7682/13218.m3u8
-
-#EXTINF:-1 tvg-chno="589" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",HBO 2
-http://go.iptvhn.net:25461/live/7682/7682/13221.m3u8
-
-#EXTINF:-1 tvg-chno="590" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",HBO Family
-http://go.iptvhn.net:25461/live/7682/7682/13217.m3u8
-
-#EXTINF:-1 tvg-chno="591" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO +
-http://go.iptvhn.net:25461/live/7682/7682/13219.m3u8
-
-#EXTINF:-1 tvg-chno="584" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png",HBO Pop ²
-http://38.41.8.1:8000/play/a00d
-
-#EXTINF:-1 tvg-chno="592" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme
-http://go.iptvhn.net:25461/live/7682/7682/13220.m3u8
 
 #EXTINF:-1 tvg-chno="593" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png",Universal Channel ²
 http://45.181.123.233:8000/play/a0je
