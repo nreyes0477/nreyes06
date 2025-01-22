@@ -1264,7 +1264,7 @@ http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uS
 http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/288105.ts
 
 #EXTINF:-1 tvg-chno="618" tvg-logo="https://static.wixstatic.com/media/27d2df_246284b7cb4b4ed9ad586ef862c7cf32~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-SPORTS-2.png",Fox Sports 2 MX 🇲🇽 
-http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/32109.ts
+http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/61814.ts
 
 #EXTINF:-1 tvg-chno="619" tvg-logo="https://static.wixstatic.com/media/27d2df_ebcbd722879a447bbc7960e593f8551e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-SPORTS-3.png",Fox Sports 3 MX 🇲🇽 
 http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/22889.ts
