@@ -1387,7 +1387,7 @@ http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/768101.ts
 http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=162334&extension=ts
 
 #EXTINF:-1 tvg-chno="659" tvg-logo="https://www.lyngsat.com/logo/tv/ll/laliga-tv-bar-es.svg",La Liga TV Bar 🇪🇸
-http://tv.nousiptv.com:8080/streaming/clients_live.php?username=095488530&password=Alvaro&stream=1156045&extension=ts
+http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/159052.ts
 
 #EXTINF:-1 tvg-chno="660" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/1600px-LaLiga_TV_Por_M%2B_Logo.png",La Liga TV Movistar + 🇪🇸
 http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/159027.ts
@@ -1403,6 +1403,9 @@ http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/278218.ts
 
 #EXTINF:-1 tvg-chno="664" tvg-logo="https://static.wixstatic.com/media/27d2df_aa6a01e490a545b8b5973d06025aa9cd~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LIGA-DE-CAMPEONES-POR-M.png",Movistar Liga de Campeones ⁽ᵗˢ⁾ 🇪🇸
 http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=4321&extension=ts
+
+#EXTINF:-1 tvg-chno="665" tvg-logo="https://static.wixstatic.com/media/27d2df_aa6a01e490a545b8b5973d06025aa9cd~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LIGA-DE-CAMPEONES-POR-M.png",La Liga Hypermotion 🇪🇸
+http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/535995.ts
 
 #EXTINF:-1 tvg-chno="666" tvg-logo="https://static.wixstatic.com/media/27d2df_5ff1a2453f4d42f5961fbd1063004468~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BEIN-SPORTS.png",Bein Sports 🇺🇸
 http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=279422&extension=ts
