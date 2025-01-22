@@ -1375,25 +1375,31 @@ http://190.92.10.66:4000/play/a006/index.m3u8
 http://45.5.117.182:8000/play/jnl0/index.m3u8
 
 #EXTINF:-1 tvg-chno="655" tvg-logo="https://static.wixstatic.com/media/27d2df_a2dd2c74ec5a4092ab9be022ee52ea8e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-LA-LIGA.png",Dazn La Liga 🇪🇦
-http://tv.nousiptv.com:8080/streaming/clients_live.php?username=095488530&password=Alvaro&stream=1205959&extension=ts
+http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/342777.ts
 
-#EXTINF:-1 tvg-chno="656" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/LaLiga_2023_Horizontal_Logo.svg/1024px-LaLiga_2023_Horizontal_Logo.svg.png",La Liga Vix ⁽ᵗˢ⁾ 🇺🇸
+#EXTINF:-1 tvg-chno="656" tvg-logo="https://static.wixstatic.com/media/27d2df_a2dd2c74ec5a4092ab9be022ee52ea8e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-LA-LIGA.png",Dazn La Liga 2 🇪🇦
+http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/279008.ts
+
+#EXTINF:-1 tvg-chno="657" tvg-logo="https://static.wixstatic.com/media/27d2df_a2dd2c74ec5a4092ab9be022ee52ea8e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-LA-LIGA.png",Dazn Serie A 🇪🇸
+http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/768101.ts
+
+#EXTINF:-1 tvg-chno="658" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/LaLiga_2023_Horizontal_Logo.svg/1024px-LaLiga_2023_Horizontal_Logo.svg.png",La Liga Vix ⁽ᵗˢ⁾ 🇺🇸
 http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=162334&extension=ts
 
-#EXTINF:-1 tvg-chno="657" tvg-logo="https://www.lyngsat.com/logo/tv/ll/laliga-tv-bar-es.svg",La Liga TV Bar 🇪🇸
+#EXTINF:-1 tvg-chno="659" tvg-logo="https://www.lyngsat.com/logo/tv/ll/laliga-tv-bar-es.svg",La Liga TV Bar 🇪🇸
 http://tv.nousiptv.com:8080/streaming/clients_live.php?username=095488530&password=Alvaro&stream=1156045&extension=ts
 
 #EXTINF:-1 tvg-chno="660" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/1600px-LaLiga_TV_Por_M%2B_Logo.png",La Liga TV Movistar + 🇪🇸
-http://tv.nousiptv.com:8080/streaming/clients_live.php?username=095488530&password=Alvaro&stream=1156047&extension=ts
+http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/159027.ts
 
 #EXTINF:-1 tvg-chno="661" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/1600px-LaLiga_TV_Por_M%2B_Logo.png",La Liga TV Movistar + 🇪🇸
-http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278844&extension=ts
+http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/136649.ts
 
 #EXTINF:-1 tvg-chno="662" tvg-logo="https://static.wixstatic.com/media/27d2df_613ef20a822d42de9067babf9f21852b~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN.png",Dazn 1 🇪🇸
-http://tv.nousiptv.com:8080/streaming/clients_live.php?username=095488530&password=Alvaro&stream=53380&extension=ts
+http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/768095.ts
 
-#EXTINF:-1 tvg-chno="663" tvg-logo="https://static.wixstatic.com/media/27d2df_eae3f65a0b5b42c8adbcf1d583639799~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-2.png",Dazn 2 ⁽ᵗˢ⁾ 🇪🇸
-http://tv.nousiptv.com:8080/streaming/clients_live.php?username=095488530&password=Alvaro&stream=3468&extension=ts
+#EXTINF:-1 tvg-chno="663" tvg-logo="https://static.wixstatic.com/media/27d2df_eae3f65a0b5b42c8adbcf1d583639799~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-2.png",Dazn 2 🇪🇸
+http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/278218.ts
 
 #EXTINF:-1 tvg-chno="664" tvg-logo="https://static.wixstatic.com/media/27d2df_aa6a01e490a545b8b5973d06025aa9cd~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LIGA-DE-CAMPEONES-POR-M.png",Movistar Liga de Campeones ⁽ᵗˢ⁾ 🇪🇸
 http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=4321&extension=ts
