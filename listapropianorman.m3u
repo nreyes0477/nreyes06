@@ -1344,8 +1344,8 @@ http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224
 #EXTINF:-1 tvg-chno="644" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png",TUDN MX ² 🇲🇽
 http://190.92.10.66:4000/play/a002/index.m3u8
 
-#EXTINF:-1 tvg-chno="645" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png",TUDN USA ⁽ᵗˢ⁾ 🇺🇸
-http://tv.nousiptv.com:8080/streaming/clients_live.php?username=095488530&password=Alvaro&stream=3962&extension=ts
+#EXTINF:-1 tvg-chno="645" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png",TUDN USA 🇺🇸
+http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/291856.ts
 
 #EXTINF:-1 tvg-chno="646" tvg-logo="https://iili.io/J2wureR.png",Zona TUDN USA 🇺🇸
 http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278570&extension=ts
@@ -1357,21 +1357,24 @@ http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=768
 http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=103887&extension=ts
 
 #EXTINF:-1 tvg-chno="649" tvg-logo="https://static.wixstatic.com/media/27d2df_96e8f3dd921c4fe4a8c26070d5b9da9a~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DSPORTS.png",DirecTV Sports 🇦🇷
-http://tv.nousiptv.com:8080/streaming/clients_live.php?username=095488530&password=Alvaro&stream=1091366&extension=ts
+http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/124531.ts
 
 #EXTINF:-1 tvg-chno="650" tvg-logo="https://static.wixstatic.com/media/27d2df_780da30c761044d1b8f70fa1d89e3b67~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DSPORTS-2.png",DirecTV Sports 2 🇦🇷
-http://tv.nousiptv.com:8080/streaming/clients_live.php?username=095488530&password=Alvaro&stream=1091367&extension=ts
+http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/192358.ts
 
-#EXTINF:-1 tvg-chno="651" tvg-logo="https://static.wixstatic.com/media/27d2df_cf328a73209b424d89d08c0a1f893ed3~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ECDF.png",ECDF ² 🇪🇨
-http://45.232.148.101:8000/play/a07p/index.m3u8
+#EXTINF:-1 tvg-chno="651" tvg-logo="https://static.wixstatic.com/media/27d2df_780da30c761044d1b8f70fa1d89e3b67~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DSPORTS-2.png",DirecTV + 🇦🇷
+http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/57.ts
 
-#EXTINF:-1 tvg-chno="652" tvg-logo="https://static.wixstatic.com/media/27d2df_8560e12d0965432f912670021b8da9bc~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/SKY-SPORTS.png",Sky Sports Bundesliga ² 🇺🇸
+#EXTINF:-1 tvg-chno="652" tvg-logo="https://static.wixstatic.com/media/27d2df_cf328a73209b424d89d08c0a1f893ed3~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ECDF.png",ECDF 🇪🇨
+http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/338.ts
+
+#EXTINF:-1 tvg-chno="653" tvg-logo="https://static.wixstatic.com/media/27d2df_8560e12d0965432f912670021b8da9bc~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/SKY-SPORTS.png",Sky Sports Bundesliga ² 🇺🇸
 http://190.92.10.66:4000/play/a006/index.m3u8
 
-#EXTINF:-1 tvg-chno="653" tvg-logo="https://static.wixstatic.com/media/27d2df_8560e12d0965432f912670021b8da9bc~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/SKY-SPORTS.png",Sky Sports La Liga ² 🇺🇸
+#EXTINF:-1 tvg-chno="654" tvg-logo="https://static.wixstatic.com/media/27d2df_8560e12d0965432f912670021b8da9bc~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/SKY-SPORTS.png",Sky Sports La Liga ² 🇺🇸
 http://45.5.117.182:8000/play/jnl0/index.m3u8
 
-#EXTINF:-1 tvg-chno="654" tvg-logo="https://static.wixstatic.com/media/27d2df_a2dd2c74ec5a4092ab9be022ee52ea8e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-LA-LIGA.png",Dazn La Liga 🇪🇦
+#EXTINF:-1 tvg-chno="655" tvg-logo="https://static.wixstatic.com/media/27d2df_a2dd2c74ec5a4092ab9be022ee52ea8e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-LA-LIGA.png",Dazn La Liga 🇪🇦
 http://tv.nousiptv.com:8080/streaming/clients_live.php?username=095488530&password=Alvaro&stream=1205959&extension=ts
 
 #EXTINF:-1 tvg-chno="656" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/LaLiga_2023_Horizontal_Logo.svg/1024px-LaLiga_2023_Horizontal_Logo.svg.png",La Liga Vix ⁽ᵗˢ⁾ 🇺🇸
