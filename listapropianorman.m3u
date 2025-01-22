@@ -1260,17 +1260,17 @@ http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uS
 #EXTINF:-1 tvg-chno="616" tvg-logo="tic.com/media/27d2df_924eed614eed44d3a36344f60a9fcde1~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-3.png",ESPN 3 MX ⁽ᵗˢ⁾ 🇲🇽
 http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=29764&extension=ts
 
-#EXTINF:-1 tvg-chno="617" tvg-logo="https://static.wixstatic.com/media/27d2df_524c1552967841858f7f7eaa72299e17~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-SPORTS.png",Fox Sports MX ⁽ᵗˢ⁾ 🇲🇽 
-http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=92&extension=ts
+#EXTINF:-1 tvg-chno="617" tvg-logo="https://static.wixstatic.com/media/27d2df_524c1552967841858f7f7eaa72299e17~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-SPORTS.png",Fox Sports MX 🇲🇽 
+http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/288105.ts
 
-#EXTINF:-1 tvg-chno="618" tvg-logo="https://static.wixstatic.com/media/27d2df_246284b7cb4b4ed9ad586ef862c7cf32~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-SPORTS-2.png",Fox Sports 2 MX ¹ 🇲🇽 
-https://gucprez.online:9090/FOXSPORTS2/index.fmp4.m3u8
+#EXTINF:-1 tvg-chno="618" tvg-logo="https://static.wixstatic.com/media/27d2df_246284b7cb4b4ed9ad586ef862c7cf32~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-SPORTS-2.png",Fox Sports 2 MX 🇲🇽 
+http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/32109.ts
 
-#EXTINF:-1 tvg-chno="619" tvg-logo="https://static.wixstatic.com/media/27d2df_ebcbd722879a447bbc7960e593f8551e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-SPORTS-3.png",Fox Sports 3 MX ⁽ᵗˢ⁾ 🇲🇽 
-http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=100&extension=ts
+#EXTINF:-1 tvg-chno="619" tvg-logo="https://static.wixstatic.com/media/27d2df_ebcbd722879a447bbc7960e593f8551e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-SPORTS-3.png",Fox Sports 3 MX 🇲🇽 
+http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/22889.ts
 
-#EXTINF:-1 tvg-chno="620" tvg-logo="https://static.wixstatic.com/media/27d2df_e7ee5501d67c4839add6f4ffc72baa3e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-SPORTS-PREMIUM.png",Fox Sports Premium MX ¹ 🇲🇽 
-https://gucprez.online:9090/FOXSPORTSPREMIUM/index.fmp4.m3u8
+#EXTINF:-1 tvg-chno="620" tvg-logo="https://static.wixstatic.com/media/27d2df_e7ee5501d67c4839add6f4ffc72baa3e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-SPORTS-PREMIUM.png",Fox Sports Premium MX 🇲🇽 
+http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/277666.ts
 
 #EXTINF:-1 tvg-chno="621" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN 🇦🇷 ²
 http://181.78.82.6:46090/play/a00q/index.m3u8
@@ -1333,10 +1333,10 @@ http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=h
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
 #EXTINF:-1 tvg-chno="641" tvg-logo="https://seeklogo.com/images/F/fox-sports-argentina-2023-logo-2874DA0937-seeklogo.com.png",Fox Sports Sur
-http://tv.nousiptv.com:8080/streaming/clients_live.php?username=095488530&password=Alvaro&stream=1090738&extension=ts
+http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/440990.ts
 
 #EXTINF:-1 tvg-chno="642" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-argentina-2023-logo-15FC12510F-seeklogo.com.png",Fox Sports 2 Sur
-http://tv.nousiptv.com:8080/streaming/clients_live.php?username=095488530&password=Alvaro&stream=1090741&extension=ts
+http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/32109.ts
 
 #EXTINF:-1 tvg-chno="643" tvg-logo="https://seeklogo.com/images/F/fox-sports-3-argentina-2023-logo-2A58AB321F-seeklogo.com.png",Fox Sports 3 Sur
 http://tv.nousiptv.com:8080/streaming/clients_live.php?username=095488530&password=Alvaro&stream=33475&extension=ts
