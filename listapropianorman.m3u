@@ -1312,7 +1312,7 @@ http://38.44.109.41:8003/play/a02v
 http://181.205.130.194:4000/play/a07i
 
 #EXTINF:-1 tvg-chno="633" tvg-logo="https://static.wixstatic.com/media/27d2df_924eed614eed44d3a36344f60a9fcde1~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-3.png",ESPN Sur 3 ²
-http://38.41.8.1:8000/play/a06a
+http://190.61.42.218:9000/play/a061
 
 #EXTINF:-1 tvg-chno="634" tvg-logo="https://static.wixstatic.com/media/27d2df_995efad2b6c34c68a7f81275c00ad162~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-4.png",ESPN Sur 4 ²
 http://181.78.106.127:9000/play/ca036/index.m3u8
@@ -1321,7 +1321,7 @@ http://181.78.106.127:9000/play/ca036/index.m3u8
 http://38.41.8.1:8000/play/a07b
 
 #EXTINF:-1 tvg-chno="636" tvg-logo="https://static.wixstatic.com/media/27d2df_7b0572454923490f87cd649cbb5a39ac~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-6.png",ESPN Sur 6 ²
-http://181.204.79.182:8202/play/a01x
+http://190.61.42.218:9000/play/a062
 
 #EXTINF:-1 tvg-chno="637" tvg-logo="https://static.wixstatic.com/media/27d2df_50648e80b5bb41e091209006875097c9~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-7.png",ESPN Sur 7 ²
 http://181.119.86.1:8000/play/a01g
