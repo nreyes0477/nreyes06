@@ -27,7 +27,7 @@ https://ssh101.bozztv.com/ssh101/sinart13/playlist.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Trivisio%CC%81n-Canal-36-en-vivo-Online.png",Canal 36 Trivisión ¹
 https://liveingesta118.cdnmedia.tv:443/trivision36live/dvrlive-1500/chunklist.m3u8?DVR
 
-#EXTINF:-1 tvg-chno="15" tvg-logo="https://meganettv.fun/storage/channel-logos/ySwjxbNmEY2GbocranaMX22871ZiAP8HuV16jJZM.png",Canal 38 ¡Opa! ¹
+#EXTINF:-1 tvg-chno="15" tvg-logo="https://genteopa.com/wp-content/uploads/2024/03/cropped-logo-opa-1.png",Canal 38 ¡Opa! ¹
 https://5fc584f3f19c9.streamlock.net:443/genteopa/videogenteopa/chunklist_w1191705862.m3u8
 
 #EXTINF:-1 tvg-chno="16" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/extra_tv-mediano.png",Extra Tv 42 ¹
@@ -62,9 +62,6 @@ https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 
 #EXTINF:-1 tvg-chno="27" tvg-logo="https://lossantostv.com/chat/static/img/logo_small.png",Los Santos TV ¹
 https://lstv.duckdns.org/hls/lstv.m3u8
-
-#EXTINF:-1 tvg-chno="28" tvg-logo="https://tvcurrecr.com/wp-content/uploads/2023/02/cropped-logo-curre-pajaro-pz-1024x1024.png",TV Curre PZ ¹
-https://59ef525c24caa.streamlock.net/TVcurre/TVcurre/playlist.m3u8?fbclid=IwZXh0bgNhZW0CMTEAAR1poepQzw2jOLYf5LM6CzIPnGxbn2Q36DVsaYEK1-o5lUi-mOmc_6LU234_aem_W4FPklC6Pi8ev1wpRvQoZA
 
 #EXTINF:-1 tvg-chno="29" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/san-jose-tv-costa-rica.png",San José TV ¹
 https://rtmp.info:443/sanjosetv/envivo/chunklist_w1786370191.m3u8
