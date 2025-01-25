@@ -1341,8 +1341,8 @@ http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224
 #EXTINF:-1 tvg-chno="644" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png",TUDN MX ² 🇲🇽
 http://190.92.10.66:4000/play/a002/index.m3u8
 
-#EXTINF:-1 tvg-chno="645" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png",TUDN USA 🇺🇸
-http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/291856.ts
+#EXTINF:-1 tvg-chno="645" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png",TUDN USA ² 🇺🇸
+http://45.186.106.207:8000/play/a099/index.m3u8
 
 #EXTINF:-1 tvg-chno="646" tvg-logo="https://iili.io/J2wureR.png",Zona TUDN USA 🇺🇸
 http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278570&extension=ts
