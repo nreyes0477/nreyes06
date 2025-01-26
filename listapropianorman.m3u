@@ -984,8 +984,8 @@ http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=768
 #EXTINF:-1 tvg-chno="424" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery Science
 http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278621&extension=ts
 
-#EXTINF:-1 tvg-chno="425" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png",HGTV Latino ¹
-http://tv.h-p.store:80/live/web-full/VhtXqbDsYu/62.m3u8
+#EXTINF:-1 tvg-chno="425" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png",HGTV Latino
+http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278430&extension=ts
 
 #EXTINF:-1 tvg-chno="427" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png",Comedy Central
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13166&extension=ts
@@ -1062,8 +1062,8 @@ http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=768
 #EXTINF:-1 tvg-chno="520" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png",Sony
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13267&extension=ts
 
-#EXTINF:-1 tvg-chno="521" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png",USA Network ¹
-http://tv.h-p.store:80/live/web-full/VhtXqbDsYu/106.m3u8
+#EXTINF:-1 tvg-chno="521" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png",USA Network
+http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278452&extension=ts
 
 #EXTINF:-1 tvg-chno="522" tvg-logo="https://cdn.mitvstatic.com/channels/mx_space_m.png",Space
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13269&extension=ts
