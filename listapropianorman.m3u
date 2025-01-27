@@ -481,7 +481,7 @@ http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224
 http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278769&extension=ts
 
 #EXTINF:-1 tvg-chno="217" tvg-logo="https://media.canalnet.tv/2018/11/logo-notificaciones-150x150.png",Net TV ¹ 🇦🇷
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="218" tvg-logo="https://i.imgur.com/p9aaBKg.png",Cinco TV ¹ 🇦🇷
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
