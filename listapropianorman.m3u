@@ -1357,16 +1357,16 @@ http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=768
 http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=103887&extension=ts
 
 #EXTINF:-1 tvg-chno="649" tvg-logo="https://static.wixstatic.com/media/27d2df_96e8f3dd921c4fe4a8c26070d5b9da9a~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DSPORTS.png",DirecTV Sports 🇦🇷
-http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/124531.ts
+http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=124531extension=ts
 
 #EXTINF:-1 tvg-chno="650" tvg-logo="https://static.wixstatic.com/media/27d2df_780da30c761044d1b8f70fa1d89e3b67~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DSPORTS-2.png",DirecTV Sports 2 🇦🇷
-http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/192358.ts
+http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=192358&extension=ts
 
 #EXTINF:-1 tvg-chno="651" tvg-logo="https://static.wixstatic.com/media/27d2df_780da30c761044d1b8f70fa1d89e3b67~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DSPORTS-2.png",DirecTV + 🇦🇷
-http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/57.ts
+http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=57&extension=ts
 
 #EXTINF:-1 tvg-chno="652" tvg-logo="https://static.wixstatic.com/media/27d2df_cf328a73209b424d89d08c0a1f893ed3~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ECDF.png",ECDF 🇪🇨
-http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/338.ts
+http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=338&extension=ts
 
 #EXTINF:-1 tvg-chno="653" tvg-logo="https://static.wixstatic.com/media/27d2df_8560e12d0965432f912670021b8da9bc~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/SKY-SPORTS.png",Sky Sports Bundesliga ² 🇺🇸
 http://190.92.10.66:4000/play/a006/index.m3u8
@@ -1375,19 +1375,19 @@ http://190.92.10.66:4000/play/a006/index.m3u8
 http://45.5.117.182:8000/play/jnl0/index.m3u8
 
 #EXTINF:-1 tvg-chno="655" tvg-logo="https://static.wixstatic.com/media/27d2df_a2dd2c74ec5a4092ab9be022ee52ea8e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-LA-LIGA.png",Dazn La Liga 🇪🇦
-http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/342777.ts
+http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=342777extension=ts
 
 #EXTINF:-1 tvg-chno="656" tvg-logo="https://static.wixstatic.com/media/27d2df_a2dd2c74ec5a4092ab9be022ee52ea8e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-LA-LIGA.png",Dazn La Liga 2 🇪🇦
-http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/279008.ts
+http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=279008&extension=ts
 
 #EXTINF:-1 tvg-chno="657" tvg-logo="https://static.wixstatic.com/media/27d2df_a2dd2c74ec5a4092ab9be022ee52ea8e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-LA-LIGA.png",Dazn Serie A 🇪🇸
-http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/768101.ts
+http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=768101&extension=ts
 
 #EXTINF:-1 tvg-chno="658" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/LaLiga_2023_Horizontal_Logo.svg/1024px-LaLiga_2023_Horizontal_Logo.svg.png",La Liga Vix ⁽ᵗˢ⁾ 🇺🇸
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13326&extension=ts
 
 #EXTINF:-1 tvg-chno="659" tvg-logo="https://www.lyngsat.com/logo/tv/ll/laliga-tv-bar-es.svg",La Liga TV Bar 🇪🇸
-http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/159052.ts
+http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=159052&extension=ts
 
 #EXTINF:-1 tvg-chno="660" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/1600px-LaLiga_TV_Por_M%2B_Logo.png",La Liga TV Movistar + 🇪🇸
 http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/159027.ts
