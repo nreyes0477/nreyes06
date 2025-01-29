@@ -1282,7 +1282,7 @@ http://190.60.34.46:9999/play/a0lt/index.m3u8
 http://181.205.251.114:8090/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-chno="624" tvg-logo="https://static.wixstatic.com/media/27d2df_3855b68f65c541f1a3e6b3c89e80a07b~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-2.png",ESPN 2 Sur ²
-http://181.78.82.6:46090/play/a00i/index.m3u8
+http://38.41.8.1:8000/play/a00v
 
 #EXTINF:-1 tvg-chno="625" tvg-logo="https://static.wixstatic.com/media/27d2df_924eed614eed44d3a36344f60a9fcde1~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-3.png",ESPN 3 Sur ²
 http://190.60.34.46:9999/play/a0ln/index.m3u8
