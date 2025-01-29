@@ -1276,10 +1276,10 @@ http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/277666.ts
 http://181.78.82.6:46090/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-chno="622" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN 🇨🇱 ²
-http://179.49.113.37:8000/play/a0el/index.m3u8
+http://181.205.251.114:8090/play/a01c/59558777.m3u8
 
 #EXTINF:-1 tvg-chno="623" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN 🇨🇴 ²
-http://200.59.188.3:8000/play/a03i
+http://181.205.251.114:8090/play/a02i/48419357.m3u8
 
 #EXTINF:-1 tvg-chno="624" tvg-logo="https://static.wixstatic.com/media/27d2df_3855b68f65c541f1a3e6b3c89e80a07b~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-2.png",ESPN 2 Sur ²
 http://181.78.82.6:46090/play/a00i/index.m3u8
@@ -1297,7 +1297,7 @@ http://200.60.124.19:29000/play/a04y
 http://181.78.82.6:46090/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-chno="629" tvg-logo="https://static.wixstatic.com/media/27d2df_50648e80b5bb41e091209006875097c9~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-7.png",ESPN 7 Sur  ²
-http://200.60.124.19:29000/play/a01e
+http://181.205.251.114:8090/play/a01k/36741954.m3u8
 
 #EXTINF:-1 tvg-chno="630" tvg-logo="https://static.wixstatic.com/media/27d2df_fcf3392d82c34d0aa8d7b567bcbcd89f~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-PREMIUM.png",ESPN Premium Sur ²
 http://181.78.82.6:46090/play/a02g/index.m3u8
