@@ -1474,7 +1474,7 @@ http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=768
 http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278885&extension=ts
 
 #EXTINF:-1 tvg-chno="695" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos.png?resize=600%2C360&ssl=1",Cableonda 🇵🇦 
-http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=279300extension=ts
+http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=279300&extension=ts
 
 #EXTINF:-1 tvg-chno="696" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_Meridiano_TV_Venezuela.png",Meridiano 🇻🇪
 http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=297283&extension=ts
