@@ -1383,7 +1383,7 @@ http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&pas
 #EXTINF:-1 tvg-chno="657" tvg-logo="https://static.wixstatic.com/media/27d2df_a2dd2c74ec5a4092ab9be022ee52ea8e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-LA-LIGA.png",Dazn Serie A 🇪🇸
 http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=769834&extension=ts
 
-#EXTINF:-1 tvg-chno="658" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/LaLiga_2023_Horizontal_Logo.svg/1024px-LaLiga_2023_Horizontal_Logo.svg.png",La Liga Vix ⁽ᵗˢ⁾ 🇺🇸
+#EXTINF:-1 tvg-chno="658" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/LaLiga_2023_Horizontal_Logo.svg/1024px-LaLiga_2023_Horizontal_Logo.svg.png",La Liga Vix 🇺🇸
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13326&extension=ts
 
 #EXTINF:-1 tvg-chno="659" tvg-logo="https://www.lyngsat.com/logo/tv/ll/laliga-tv-bar-es.svg",La Liga TV Bar 🇪🇸
@@ -1413,8 +1413,8 @@ http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224
 #EXTINF:-1 tvg-chno="667" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",Bein Sports XTRA ¹ 🇺🇸
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="668" tvg-logo="https://static.wixstatic.com/media/27d2df_671d5242045d41078058c9361622dacd~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/GOL-TV.png",Gol Tv 🇺🇾
-http://tv.nousiptv.com:8080/streaming/clients_live.php?username=095488530&password=Alvaro&stream=53491&extension=ts
+#EXTINF:-1 tvg-chno="668" tvg-logo="https://static.wixstatic.com/media/27d2df_671d5242045d41078058c9361622dacd~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/GOL-TV.png",Gol Tv 🇪🇨
+http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=62211&extension=ts
 
 #EXTINF:-1 tvg-chno="669" tvg-logo="https://static.wixstatic.com/media/27d2df_a58e5f34fe0f432a8e7b46ccea038300~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/GOL-PLAY.png",Gol Play 🇪🇸
 http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278838&extension=ts
@@ -1426,7 +1426,7 @@ https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://190.92.10.66:4000/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-chno="672" tvg-logo="https://static.wixstatic.com/media/27d2df_e6c4e4800b724c67b704d7e4c597af49~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TVC-DEORTES.png",TVC Deportes 🇲🇽
-http://tv.nousiptv.com:8080/streaming/clients_live.php?username=095488530&password=Alvaro&stream=4139&extension=ts
+http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278564&extension=ts
 
 #EXTINF:-1 tvg-chno="673" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports-mediano.png",A y M Sports ¹ 🇲🇽
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
@@ -1450,13 +1450,13 @@ http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224
 http://190.60.37.115:8001/play/a08g/index.m3u8
 
 #EXTINF:-1 tvg-chno="686" tvg-logo="https://static.wixstatic.com/media/27d2df_aa09c9d58f564e09897e5918f4c0f769~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/VTV.png",VTV Plus 🇺🇾
-http://tv.nousiptv.com:8080/streaming/clients_live.php?username=095488530&password=Alvaro&stream=19354&extension=ts
+http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278804&extension=ts
 
 #EXTINF:-1 tvg-chno="687" tvg-logo="https://static.wixstatic.com/media/27d2df_e7790a6174964e8f971e92664372a4ad~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/WIN-SPORTS.png",Win Sports 🇨🇴
 http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=279400&extension=ts
 
 #EXTINF:-1 tvg-chno="688" tvg-logo="https://static.wixstatic.com/media/27d2df_b3af5440b55c4187a22603dec862fa45~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/M-DEPORTES.png",Movistar Deportes 🇵🇪 
-http://tv.nousiptv.com:8080/streaming/clients_live.php?username=095488530&password=Alvaro&stream=1156051&extension=ts
+http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=124552&extension=ts
 
 #EXTINF:-1 tvg-chno="689" tvg-logo="https://i.imgur.com/6wkmgGM.png",Tigo Sports Panamá 🇵🇦
 http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=279308&extension=ts
@@ -1470,17 +1470,14 @@ https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 #EXTINF:-1 tvg-chno="692" tvg-logo="https://i.imgur.com/6wkmgGM.png",Tigo Sports Honduras 🇭🇳
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13325&extension=ts
 
-#EXTINF:-1 tvg-chno="693" tvg-logo="https://i.imgur.com/6wkmgGM.png",Tigo Sports El Salvador ² 🇸🇻
-http://181.78.106.127:9000/play/ca038/index.m3u8
-
 #EXTINF:-1 tvg-chno="694" tvg-logo="https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/128579b4-6ac2-11ed-8535-d36612803c67.png",Wapa Deportes 🇵🇷
 http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278885&extension=ts
 
 #EXTINF:-1 tvg-chno="695" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos.png?resize=600%2C360&ssl=1",Cableonda 🇵🇦 
-http://tv.nousiptv.com:8080/streaming/clients_live.php?username=095488530&password=Alvaro&stream=1078663&extension=ts
+http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=279300extension=ts
 
-#EXTINF:-1 tvg-chno="696" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_Meridiano_TV_Venezuela.png",Meridiano ² 🇻🇪
-http://38.41.8.1:8000/play/a03w
+#EXTINF:-1 tvg-chno="696" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_Meridiano_TV_Venezuela.png",Meridiano 🇻🇪
+http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=297283&extension=ts
 
 #EXTINF:-1 tvg-chno="697" tvg-logo="https://static.wixstatic.com/media/27d2df_6f105d86f6594198a9fc6590dee6b3c0~mv2.png/v1/fill/w_200,h_182,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/EUROSPORT-1.png",Eurosport 1 ² 🇪🇦
 http://185.189.225.157/EuroSport1/index.m3u8
