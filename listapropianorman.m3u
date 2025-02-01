@@ -1357,7 +1357,7 @@ http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=768
 http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=103887&extension=ts
 
 #EXTINF:-1 tvg-chno="649" tvg-logo="https://static.wixstatic.com/media/27d2df_96e8f3dd921c4fe4a8c26070d5b9da9a~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DSPORTS.png",DirecTV Sports 🇦🇷
-http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=19extension=ts
+http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=289665extension=ts
 
 #EXTINF:-1 tvg-chno="650" tvg-logo="https://static.wixstatic.com/media/27d2df_780da30c761044d1b8f70fa1d89e3b67~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DSPORTS-2.png",DirecTV Sports 2 🇦🇷
 http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=192358&extension=ts
@@ -1413,7 +1413,7 @@ http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224
 #EXTINF:-1 tvg-chno="667" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",Bein Sports XTRA ¹ 🇺🇸
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="668" tvg-logo="https://static.wixstatic.com/media/27d2df_671d5242045d41078058c9361622dacd~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/GOL-TV.png",Gol Tv 🇪🇨
+#EXTINF:-1 tvg-chno="668" tvg-logo="https://static.wixstatic.com/media/27d2df_671d5242045d41078058c9361622dacd~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/GOL-TV.png",Gol Tv 🇺🇾
 http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=62211&extension=ts
 
 #EXTINF:-1 tvg-chno="669" tvg-logo="https://static.wixstatic.com/media/27d2df_a58e5f34fe0f432a8e7b46ccea038300~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/GOL-PLAY.png",Gol Play 🇪🇸
