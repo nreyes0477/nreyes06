@@ -1443,8 +1443,8 @@ http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224
 #EXTINF:-1 tvg-chno="683" tvg-logo="https://static.wixstatic.com/media/27d2df_304369b4987a4309ac7bfa2e88926465~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TYC-SPORTS.png",TyC Sports Internacional 🇦🇷
 http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=285432&extension=ts
 
-#EXTINF:-1 tvg-chno="684" tvg-logo="https://static.wixstatic.com/media/27d2df_7dd86f95523f4e74a9f6134ecc3ef7d9~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TNT-SPORTS.png",TNT Sports ² 🇦🇷
-http://190.123.90.146:8000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-chno="684" tvg-logo="https://static.wixstatic.com/media/27d2df_7dd86f95523f4e74a9f6134ecc3ef7d9~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TNT-SPORTS.png",TNT Sports 🇦🇷
+http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=67384&extension=ts
 
 #EXTINF:-1 tvg-chno="685" tvg-logo="https://static.wixstatic.com/media/27d2df_7dd86f95523f4e74a9f6134ecc3ef7d9~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TNT-SPORTS.png",TNT Sports Premium ² 🇨🇱 
 http://190.60.37.115:8001/play/a08g/index.m3u8
