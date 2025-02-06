@@ -451,7 +451,7 @@ https://telefegoogle1.akamaized.net:443/hls/live/2037988/googleADI/TOK/master-da
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w591180067.m3u8
 
 #EXTINF:-1 tvg-chno="206" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png",Telefe Internacional 🇦🇷
-http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278774&extension=ts
+http://2.magmas5.com:8000/streaming/clients_live.php?username=andyf73&password=Q01RRG9TT0&stream=3559&extension=ts
 
 #EXTINF:-1 tvg-chno="207" tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg",El Nueve 🇦🇷
 http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278759&extension=ts
