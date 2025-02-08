@@ -958,13 +958,13 @@ http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=768
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13227&extension=ts
 
 #EXTINF:-1 tvg-chno="410" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",History Channel 2
-http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/31054.ts
+http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=473767&extension=ts
 
 #EXTINF:-1 tvg-chno="411" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13249&extension=ts
 
 #EXTINF:-1 tvg-chno="414" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/500px-National_Geographic_Wild_logo.svg.png",Nat Geo Wild
-http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/55858.ts
+http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=55858&extension=ts
 
 #EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png",Animal Planet
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13110&extension=ts
@@ -1048,7 +1048,7 @@ http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmo
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13209&extension=ts
 
 #EXTINF:-1 tvg-chno="513" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png",Golden Plus
-http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=473812&extension=ts
+http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=76874&extension=ts
 
 #EXTINF:-1 tvg-chno="514" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden-premier.png",Golden Premier
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13212&extension=ts
