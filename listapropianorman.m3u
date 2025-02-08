@@ -1042,7 +1042,7 @@ http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=768
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=335449&extension=ts
 
 #EXTINF:-1 tvg-chno="510" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden.png",Golden
-http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=334772&extension=ts
+http://todoplus.digital:80/live/5MUK2Fhqtq/wqq6nhKF4W/46143.m3u8
 
 #EXTINF:-1 tvg-chno="512" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/420px-Golden_Edge_Logo_2020.png",Golden Edge
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13209&extension=ts
