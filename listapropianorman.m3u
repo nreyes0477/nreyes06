@@ -1065,8 +1065,8 @@ http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=768
 #EXTINF:-1 tvg-chno="520" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png",Sony
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13267&extension=ts
 
-#EXTINF:-1 tvg-chno="521" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png",USA Network
-http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278452&extension=ts
+#EXTINF:-1 tvg-chno="521" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png",USA Network ²
+http://200.60.124.20:29000/play/a0a5/72739134.m3u8
 
 #EXTINF:-1 tvg-chno="522" tvg-logo="https://cdn.mitvstatic.com/channels/mx_space_m.png",Space
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13269&extension=ts
