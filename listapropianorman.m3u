@@ -334,10 +334,10 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://ythls.armelin.one/channel/UCUP6qv-_EIL0hwTsJaKYnvw.m3u8
 
 #EXTINF:-1 tvg-chno="155" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Foro-TV-en-directo-Online-1.png?resize=1068%2C601&ssl=1",Foro TV 🇲🇽
-http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278339&extension=ts
+http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=90214&extension=ts
 
-#EXTINF:-1 tvg-chno="156" tvg-logo="https://i.imgur.com/kARz7SR.png",Meganoticias MX ¹ 🇲🇽
-https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="156" tvg-logo="https://i.imgur.com/kARz7SR.png",Meganoticias MX 🇲🇽
+http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=269605&extension=ts
 
 #EXTINF:-1 tvg-chno="157" tvg-logo="https://img.asmedia.epimg.net/resizer/kYJ1YW8zmMp2x-ecORU978Y0jEk=/1288x725/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/EW3U7NAIBNCOZCYGAGD3NYY54A.jpg",N + ¹ 🇲🇽
 https://channel07secure-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8?hdnea=exp=1737162890~acl=/*~hmac=79257a3ac4d4349704ae60fda79e0a007922033df6e9e874dbbc5f052683b92c
@@ -352,10 +352,10 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="161" tvg-logo="https://cnwebsite.blob.core.windows.net/files/2021/05/logo_cablenoticias.png",Cablenoticias 🇨🇴
-http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=84868&extension=ts
+http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=125610&extension=ts
 
 #EXTINF:-1 tvg-chno="162" tvg-logo="https://www.ntn24.com/__assets/images/logo.png",NTN24 🇨🇴
-http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=279392&extension=ts
+http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=482334&extension=ts
 
 #EXTINF:-1 tvg-chno="163" tvg-logo="https://www.wola.org/wp-content/uploads/2019/09/noticias-caracol-768x768.jpg",Noticias Caracol ¹ 🇨🇴 
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
@@ -376,13 +376,13 @@ https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
 https://marine2.miplay.cl/france24/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="170" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png",Euronews ¹ 🇪🇺
-https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv:80/stitch/hls/channel/60492dcf1c9b6a00089f41dflivestitch/2977920/playlist.m3u8?terminate=false&sid=fa72d986-0119-4efe-aab7-e87e09aafd24&deviceDNT=0&deviceModel=web&deviceVersion=unknown&appName=web&deviceId=6c28a357-30d3-11ef-9cf5-e9ddff8ff496&appVersion=unknown&deviceType=web&deviceMake=Chrome
 
 #EXTINF:-1 tvg-chno="171" tvg-logo="https://vpitv.com/wp-content/uploads/elementor/thumbs/logo-vpi-b-263x300-1-p2z3incdjzyd4tg7m3obm8gf17ep739fmh3na3lee8.png",VPItv ¹ 🇻🇪
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="172" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Globovision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Globovisión ⁽ᵗˢ⁾ 🇻🇪
-http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=435277&extension=ts
+#EXTINF:-1 tvg-chno="172" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Globovision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Globovisión 🇻🇪
+http://offshore.lat:80/live/LUISAFR6/9144390132/268054.m3u8
 
 #EXTINF:-1 tvg-chno="173" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/04/Telesur-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Telesur ¹ 🇻🇪
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
@@ -393,7 +393,7 @@ https://live.presstv.ir/hls/hispantv.m3u8
 #EXTINF:-1 tvg-chno="175" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/cgtn-espa%C3%B1ol.png?resize=500%2C300&ssl=1",CGTN Español ¹ 🇨🇳
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="176" tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1",Canal E ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="176" tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1",Canal Economía ¹ 🇦🇷
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="177" tvg-logo="https://ocopen.org/wp-content/uploads/2021/11/OCOPEN-Negocios.png",Negocios TV ¹ 🇪🇦
