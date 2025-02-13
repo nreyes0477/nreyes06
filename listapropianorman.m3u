@@ -648,8 +648,8 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 #EXTINF:-1 tvg-chno="276" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1403px-Logo_TVE-Internacional.svg.png",TVE Internacional ¹ 🇪🇸
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main_dvr.m3u8
 
-#EXTINF:-1 tvg-chno="278" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png",NBC Universo ⁽ᵗˢ⁾ 🇺🇸
-http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=279440&extension=ts
+#EXTINF:-1 tvg-chno="278" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png",NBC Universo 🇺🇸
+http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=76141&extension=ts
 
 #EXTINF:-1 tvg-chno="279" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/300px-Estrella_TV_Logo_2020.png",Estrella TV ¹ 🇺🇸
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv:80/stitch/hls/channel/5cf0622da00ca1e2f6fac712livestitch/2977920/playlist.m3u8?terminate=false&sid=73f1f3b5-9aab-48b7-b385-cc16a962802a&deviceDNT=0&deviceModel=web&deviceVersion=unknown&appName=web&deviceId=6c28a355-30d3-11ef-9cf5-e9ddff8ff496&appVersion=unknown&deviceType=web&deviceMake=Chrome
@@ -703,7 +703,7 @@ http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&pas
 http://45.5.117.182:8000/play/a0fo/index.m3u8
 
 #EXTINF:-1 tvg-chno="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_5_HN_logo.png/180px-Canal_5_HN_logo.png",Canal 5 🇭🇳
-http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=279277&extension=ts
+http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=3725&extension=ts
 
 #EXTINF:-1 tvg-chno="302" tvg-logo="https://image.roku.com/developer_channels/prod/0d4a03ad9e1dd2ff1db1306d7b592cda8e08df57922237ff9797ef4bc18d30ec.png",RHC TV 🇭🇳
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46891.m3u8
@@ -718,10 +718,10 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46905.m3u8
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/canal11hn/livestream1/chunks.m3u8?dpssid=b131176395625465cbd92084d9a&sid=ba5t1l1xb230348567067a9a9a3f38dc&ndvc=0
 
 #EXTINF:-1 tvg-chno="307" tvg-logo="https://hch.tv/wp-content/uploads/2021/09/logos-hch-bueno-1.png",HCH 🇭🇳
-http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=279280&extension=ts
+http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=3722&extension=ts
 
 #EXTINF:-1 tvg-chno="308" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/TSI-Telesistema-en-vivo-Online.png",TSI 🇭🇳
-http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=279292&extension=ts
+http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=88180&extension=ts
 
 #EXTINF:-1 tvg-chno="309" tvg-logo="https://image.roku.com/developer_channels/prod/51815da9f86794012aed4f696ce25f08ca883f2560a1a6c1fb0361bb16716c87.png",CTV Internacional ¹ 🇭🇳
 https://mediacp.us:8081/ctvhn/tracks-v1a1/mono.m3u8
@@ -729,8 +729,8 @@ https://mediacp.us:8081/ctvhn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="310" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal10Honduras2019.png/revision/latest/scale-to-width-down/250?cb=20190604153849",Ten ² 🇭🇳
 http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=298269&extension=ts
 
-#EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png",Azteca Uno ⁽ᵗˢ⁾ 🇲🇽
-https://nxt.plus:8443/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=160516&extension=ts
+#EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png",Azteca Uno 🇲🇽
+http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=90192&extension=ts
 
 #EXTINF:-1 tvg-chno="312" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png",Azteca Uno -2hr 🇲🇽
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=473750&extension=ts
@@ -793,22 +793,22 @@ http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmo
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=463614&extension=ts
 
 #EXTINF:-1 tvg-chno="332" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal 2 🇳🇮
-http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=55186&extension=ts
+http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=31108&extension=ts
 
 #EXTINF:-1 tvg-chno="333" tvg-logo="https://1.bp.blogspot.com/-Fi3j72ih8b8/YSzl1J95lrI/AAAAAAAAQVE/qDJWftQ2kVUOGhTCR9IFxSk5dUbv00OGACLcBGAsYHQ/w700-h400-p-k-no-nu/Canal%2B4%2Ben%2Bvivo.jpg",Canal 4 🇳🇮
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46974.m3u8
+http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=31109&extension=ts
 
 #EXTINF:-1 tvg-chno="334" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal 6 🇳🇮
-http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=87156&extension=ts
+http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=31110&extension=ts
 
 #EXTINF:-1 tvg-chno="335" tvg-logo="https://1.bp.blogspot.com/-zyfzTiv-0YY/YSgNAyVUnYI/AAAAAAAAQQw/63cf8CyUoLQlwDWY2-9zdME5dzjewFpJQCLcBGAsYHQ/w700-h400-p-k-no-nu/Canal%2B10%2Ben%2Bvivo.png",Canal 10 🇳🇮
-http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=461388&extension=ts
+http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=31113&extension=ts
 
 #EXTINF:-1 tvg-chno="336" tvg-logo="https://www.vivanicaragua.com.ni/contenido/archivos/2019/03/logo-blanco.png?x75729",Canal 13 🇳🇮
 http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=279538&extension=ts
 
 #EXTINF:-1 tvg-chno="337" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TN8_Nicaragua.svg/1280px-TN8_Nicaragua.svg.png",TN8 🇳🇮
-http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=87157&extension=ts
+http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=31111&extension=ts
 
 #EXTINF:-1 tvg-chno="338" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png",Tv Max 🇵🇦
 http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=196317&extension=ts
@@ -820,7 +820,7 @@ http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&pas
 http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=196314&extension=ts
 
 #EXTINF:-1 tvg-chno="343" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/RPC-en-vivo-Online.png?resize=1068%2C601&ssl=1",RPC 🇵🇦
-http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=196315&extension=ts
+http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=40417&extension=ts
 
 #EXTINF:-1 tvg-chno="344" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/NEX-TV-Panam%C3%A1-en-vivo-Online.png?zoom=3&resize=218%2C150&ssl=1",Next TV ¹ 🇵🇦
 https://vcp8.myplaytv.com:1936/nextv/nextv/playlist.m3u8
