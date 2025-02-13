@@ -510,11 +510,11 @@ https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/chunklist_w2032633
 #EXTINF:-1 tvg-chno="225" tvg-logo="https://static-media.streema.com/media/cache/c4/42/c442ed13a23c1f824bfdb25ab0b1397a.jpg",Gigavisión ¹ 🇧🇴
 https://tv2.bitstreaming.net:3896/multi_web/play.m3u8
 
-#EXTINF:-1 tvg-chno="226" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/New_Unitel_logo_HD.jpg",Unitel ⁽ᵗˢ⁾ 🇧🇴 
-http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=61473&extension=ts
+#EXTINF:-1 tvg-chno="226" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/New_Unitel_logo_HD.jpg",Unitel 🇧🇴 
+http://todoplus.digital:80/live/5MUK2Fhqtq/wqq6nhKF4W/328912.m3u8
 
-#EXTINF:-1 tvg-chno="227" tvg-logo="https://4.bp.blogspot.com/--7IX2NCKelU/XCFC17d96gI/AAAAAAAAHN0/u3Qj0frMRGMNHKWr3dpKYJfCbbo94kANACLcBGAs/w350-h350-p-k-no-nu/Red%2BUno%2Ben%2Bvivo.png",Red Uno ⁽ᵗˢ⁾ 🇧🇴 
-http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=172752&extension=ts
+#EXTINF:-1 tvg-chno="227" tvg-logo="https://4.bp.blogspot.com/--7IX2NCKelU/XCFC17d96gI/AAAAAAAAHN0/u3Qj0frMRGMNHKWr3dpKYJfCbbo94kANACLcBGAs/w350-h350-p-k-no-nu/Red%2BUno%2Ben%2Bvivo.png",Red Uno 🇧🇴 
+http://todoplus.digital:80/live/5MUK2Fhqtq/wqq6nhKF4W/2133.m3u8
 
 #EXTINF:-1 tvg-chno="228" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Bolivia TV ¹ 🇧🇴
 https://5fe2654d6127d.streamlock.net:443/boliviatv/videoboliviatv/chunklist_w985377986.m3u8
@@ -526,7 +526,7 @@ http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&pas
 http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=556428&extension=ts
 
 #EXTINF:-1 tvg-chno="232" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png",Canal 13 🇨🇱
-http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=440950&extension=ts
+http://galaxypro.online:8080/streaming/clients_live.php?username=Guardi151023gro&password=ROROtv1Gg&stream=99695&extension=ts
 
 #EXTINF:-1 tvg-chno="233" tvg-logo="https://elcomercio.pe/resizer/yihFxlkddrP0HjI7-6_7HKJ7GNc=/992x661/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/VELQ4IWQYZHETFPPHGPNLPTHME.jpg",Canal T13 ¹ 🇨🇱
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?did=b131176395625465cbd92084d9a
@@ -544,7 +544,7 @@ https://marine2.miplay.cl/tvmas/playlist.m3u8
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
 #EXTINF:-1 tvg-chno="238" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png",Canal 24 Horas 🇨🇱
-http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=440875&extension=ts
+http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=334639&extension=ts
 
 #EXTINF:-1 tvg-chno="239" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png",Caracol 🇨🇴
 http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=299221&extension=ts
@@ -555,23 +555,20 @@ http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&pas
 #EXTINF:-1 tvg-chno="241" tvg-logo="https://1.bp.blogspot.com/-jslL1CIeqqk/YaVCAmvGxvI/AAAAAAAADDo/wPaGYipC7Eo_6NVRuL0XESV1lzjq6xhLgCLcBGAsYHQ/s16000/rcnmas.jpg",RCN Más + ¹ 🇨🇴
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="242" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Rcn-xtra_2.png/640px-Rcn-xtra_2.png",RCN Xtra ¹ 🇨🇴
-https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="243" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/1586px-RCN_Novelas_logo_2019.png",RCN Novelas 🇨🇴
 http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=33395&extension=ts
 
 #EXTINF:-1 tvg-chno="244" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/250px-Channel_1_%28Colombia%29_-_2017_logo.svg.png",Canal Uno 🇨🇴
-http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=279385&extension=ts
+http://galaxypro.online:8080/streaming/clients_live.php?username=Guardi151023gro&password=ROROtv1Gg&stream=93754&extension=ts
 
 #EXTINF:-1 tvg-chno="245" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Logo_Citytv_2023.jpg",City TV 🇨🇴
-http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=168232&extension=ts
+http://galaxypro.online:8080/streaming/clients_live.php?username=Guardi151023gro&password=ROROtv1Gg&stream=98130&extension=ts
 
 #EXTINF:-1 tvg-chno="246" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Caracol_HD_Internacional.png/250px-Caracol_HD_Internacional.png",Caracol Internacional 🇨🇴
-http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=279388&extension=ts
+http://galaxypro.online:8080/streaming/clients_live.php?username=Guardi151023gro&password=ROROtv1Gg&stream=93747extension=ts
 
 #EXTINF:-1 tvg-chno="247" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/03/RCN_Nuestra_Tele_Int_516x287.jpg",RCN Internacional 🇨🇴
-http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=279394&extension=ts
+http://galaxypro.online:8080/streaming/clients_live.php?username=Guardi151023gro&password=ROROtv1Gg&stream=93751&extension=ts
 
 #EXTINF:-1 tvg-chno="250" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/233px-EcuadorTV_logo.png",Ecuador TV ¹ 🇪🇨
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
