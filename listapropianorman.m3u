@@ -10,7 +10,7 @@ https://d30230c1j3h08x.cloudfront.net/index.m3u8
 https://alba-cr-repretel-c4.stream.mediatiquestream.com:443/original.m3u8
 
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/768px-Repretel_6_logo.png",Canal 6 Repretel ¹
-https://alba-cr-repretel-c6.stream.mediatiquestream.com:443/live2/alba-cr-repretel-c6_720p/chunks.m3u8
+https://alba-cr-repretel-c6.stream.mediatiquestream.com:443/original.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/670px-Teletica_Logo.png",Canal 7 Teletica ²
 http://38.159.227.124:8000/play/a04l
@@ -19,7 +19,7 @@ http://38.159.227.124:8000/play/a04l
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445/master.m3u8
 
 #EXTINF:-1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png",Canal 11 Repretel ¹
-https://alba-cr-repretel-c11.stream.mediatiquestream.com:443/live2/alba-cr-repretel-c11_720p/chunks.m3u8
+https://alba-cr-repretel-c11.stream.mediatiquestream.com:443/original.m3u8
 
 #EXTINF:-1 tvg-chno="13" tvg-logo="https://observador.cr/wp-content/uploads/2022/07/Logo-nuevo-canal-13-768x692.png",Canal 13 Sinart ¹
 https://ssh101.bozztv.com/ssh101/sinart13/playlist.m3u8
