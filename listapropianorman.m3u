@@ -31,7 +31,7 @@ https://liveingesta118.cdnmedia.tv:443/trivision36live/dvrlive-1500/chunklist.m3
 https://5fc584f3f19c9.streamlock.net:443/genteopa/videogenteopa/chunklist_w1191705862.m3u8
 
 #EXTINF:-1 tvg-chno="16" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/extra_tv-mediano.png",Extra Tv 42 ¹
-https://d2axu5ozwr5gk0.cloudfront.net:443/live2/gxtra-cr-dxtra-tv_720p/chunks.m3u8
+https://d2axu5ozwr5gk0.cloudfront.net/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Fd2axu5ozwr5gk0.cloudfront.net%2Findex.m3u8%22%2Csid%3D%2291ed89ed-a1ad-4fce-8294-92a11eec5694%22
 
 #EXTINF:-1 tvg-chno="17" tvg-logo="https://image.roku.com/developer_channels/prod/54692756b637a7fe9bddfa2a9d03c90ab00be93516aef3828db91b5040886b9d.png",Tica Visión ¹
 https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
