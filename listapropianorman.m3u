@@ -1116,25 +1116,22 @@ http://kstv.us:8080/streaming/clients_live.php?username=2qt65aetuZ&password=0527
 #EXTINF:-1 tvg-chno="545" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1024px-Rakuten_TV_logo.svg.png",Rakuten TV ¹
 https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="546" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/974900e1-ac0c-4b14-b53e-709256647580-peliculas-top-rakuten-tv-1646658076-width308-quality100.png",Rakuten Pelis Top ¹
+#EXTINF:-1 tvg-chno="546" tvg-logo="https://images-1.https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg",Rakuten Pelis Top ¹
 https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
 
-#EXTINF:-1 tvg-chno="547" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/0b06f362-181a-4739-93ee-3107e97a6647-peliculas-de-drama-rakuten-tv-1646657029-width308-quality100.png",Rakuten Thriller ¹
+#EXTINF:-1 tvg-chno="547" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/6183803c-66f1-4fe9-98fa-f0ce319c4650.jpeg",Rakuten Thrillers ¹
 https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="548" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork_negative/9c3a32bb-dc79-4a77-8044-49074061fb30-peliculas-romanticas-rakuten-tv-1646309973-width308-quality100.png",Rakuten Romántico ¹
+#EXTINF:-1 tvg-chno="548" tvg-logo="https://images-3.rakuthttps://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg",Rakuten Romántico ¹
 https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
 
-#EXTINF:-1 tvg-chno="549" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/51e01112-6f31-49ba-b421-47031627a140-peliculas-de-accion-rakuten-tv-1646655516-width308-quality100.png",Rakuten Acción ¹
+#EXTINF:-1 tvg-chno="549" tvg-logo="https://images-2.rakuthttps://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg",Rakuten Acción ¹
 https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
 
-#EXTINF:-1 tvg-chno="550" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/458ca863-1e87-4e97-8a6f-f6f51d746d28-width308-quality100.png",Rakuten Comedia ¹
+#EXTINF:-1 tvg-chno="550" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/f46d8e24-5150-443b-a370-f938eda185e9.jpeg",Rakuten Comedia ¹
 https://69e10208b9a0477c91a7d3c5bc302b85.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_RakutenComedyMovies/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="551" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/7c17c13b-c287-4d6f-9140-f9b01397db6a-familiares-rakuten-tv-1646657513-width308-quality100.png",Rakuten Familia ¹
-https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
-
-#EXTINF:-1 tvg-chno="552" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/a4096669-588b-40b7-87ac-9acc8295882c-width308-quality100.png",Rakuten Historias ¹
+#EXTINF:-1 tvg-chno="551" tvg-logo="https://imageshttps://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg",Rakuten Drama ¹
 https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
 
 #EXTINF:-1 tvg-chno="555" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO Norte
