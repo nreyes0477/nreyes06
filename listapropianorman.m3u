@@ -826,7 +826,7 @@ http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmo
 https://vcp8.myplaytv.com:1936/nextv/nextv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="350" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png",Paraguay TV ¹ 🇵🇾
-https://video-weaver.mia05.hls.live-video.net/v1/playlist/CsEFf3GIwBmwRxBSkrd6JbpqkVbWM67WyirDe1oxX8Xv5VLyvMqkpK4d1KwIn9CpIylwV9IduM5P_7ua6UpgemzBijC-U70gAa5jNDSdaP6pRY_pIi994OuJXJ4znzShovtfUfnq7JWPQscpBu5KWYwz5D8MJPl8zyb-65sRv6xd1AXzRlFAZjUQvfB_Eiqg5kixUhUa8OWidMTz5HeY8Mq3McleWwE6bKuWR3Wp8ixFyd43KtCWm48cIBxd3JPFpFUJyRZYhM7XBLewbts6fFQQ3U7i6Dh-WGHUMwPrQ8qmifCROizzcijubQTPUP0GRjGXcDw4qk4allVXqchWNeRuvnOD-pSaWA4mQbx2yhXGe4IHbGCp8boDwDrxvbzSUmc5GTh4PPZMzdeXwVU8BrJCeFjXadR_13wLuBkuawEuutA8-MyuFmPnl7TdACLV_Ac-DhDtZO0spspbnzLv5p2Jw21LbqE45ZZ-EAwCWE4T45Iq68kmrmnl0MDqSymkuGE7QFwwVjWtMJtnlqySqOhyY4Hmuabw9UEry6FsiqdtkeNEV_ndAay_e1dLdxLTYr-XhI8BC7F783y3f4yoPuoo-dQgKHxEo7CG_ZTg6Rkwbgxm50CX0O90qldO2fplvIFL2PVm3eOZ4lXeqhfHOqS2UtvlKFNalWrDlHbDujEjRW1d8C4-2Z0N_d-K-PnlGa6941KtlDYGMuIKXf8MX8cEwC08Y9EaD2lqHo7o6t1vnO18OlGAHDamQOjMFyoSsns4f1YCJPJ-4Uy9BgygULQI_vaB5idn3_HTx21BCgP3Db5ipQVgJZaht-pots8UlsYBYO96XvLyxx4mO9D_c89E9vX6EbCzXKBh_4XdRkMeSpHU4elDknp70xKxOwmL5WysnRt0aQ_biKNqohA6i9wWOH1sIuHto5S8ScEFJGs_rUliGgygMb0vxuiOYZN2sgQgASoJZXUtd2VzdC0yMMkL.m3u8
+https://stream.paraguaytv.gov.py/memfs/400fcc83-8f04-4497-8011-150847d44702.m3u8
 
 #EXTINF:-1 tvg-chno="351" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png",Paravisión 🇵🇾
 http://dnslivetv.online:80/streaming/clients_live.php?username=Victor1234&password=Victor1234&stream=1070410&extension=ts
@@ -840,8 +840,8 @@ https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8?k=7bbcd2c29
 #EXTINF:-1 tvg-chno="354" tvg-logo="https://grupovierci.brightspotcdn.com/dims4/default/0ba2b73/2147483647/strip/true/crop/1665x1152+0+0/resize/800x554!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F62%2F0d%2F757573ac4c0bba7301c7a61a424d%2Flogo-latele.png",La Tele 🇵🇾
 http://kstv.us:8080/streaming/clients_live.php?username=2qt65aetuZ&password=0527822179&stream=47001&extension=ts
 
-#EXTINF:-1 tvg-chno="355" tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png",Unicanal 🇵🇾 
-http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=124574&extension=ts
+#EXTINF:-1 tvg-chno="355" tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png",Unicanal ¹ 🇵🇾 
+https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8?k=544b93c4a9fe4f3fc5c2a90081d5b5b10c08317b9e4f424c831d0a12a1fc5b57&exp=1740203560
 
 #EXTINF:-1 tvg-chno="360" tvg-logo="https://gzcsecurity.com/img/nosotros/seguridad/americatv-min.jpg",América TV ² 🇵🇪
 http://200.60.124.20:29000/play/a04r/index.m3u8
