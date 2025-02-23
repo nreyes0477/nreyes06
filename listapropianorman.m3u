@@ -1222,13 +1222,13 @@ http://38.159.227.124:8000/play/a02n
 http://45.167.3.81:45000/play/a04a
 
 #EXTINF:-1 tvg-chno="604" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD + ²
-http://181.78.109.49:8000/play/a00q/index.m3u8
+http://38.159.227.124:8000/play/a09h
 
 #EXTINF:-1 tvg-chno="605" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD +
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13284&extension=ts
 
 #EXTINF:-1 tvg-chno="606" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 ²
-http://181.78.109.49:8000/play/a00r/index.m3u8
+http://38.159.227.124:8000/play/a09i
 
 #EXTINF:-1 tvg-chno="607" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13283&extension=ts
