@@ -63,6 +63,9 @@ https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-logo="https://lossantostv.com/chat/static/img/logo_small.png",Los Santos TV ¹
 https://lstv.duckdns.org/hls/lstv.m3u8
 
+#EXTINF:-1 tvg-chno="28" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP1uwaCcllXnyxP9as8wsSMaGamAcjP9mancgvJEwicwrwdBhFs9_txwOhH4ipqmOaTnVzqJSMHtouKwadZiMCIVXfW3vE2En_lfu1EDDuFAblUFMabdEEnmqyD-rvUzRHBNF7VERlrI1QEbvPGWvdSUVAtWZRhOpCRgNCjvrNzTwOG_Mnmuw2nOgAntKY/s400/CANAL%20506%20TV%20PORTADA.png",506 TV ¹
+https://acceso.radiosportstv.online:3974/stream/play.m3u8
+
 #EXTINF:-1 tvg-chno="29" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/san-jose-tv-costa-rica.png",San José TV ¹
 https://rtmp.info:443/sanjosetv/envivo/chunklist_w1786370191.m3u8
 
