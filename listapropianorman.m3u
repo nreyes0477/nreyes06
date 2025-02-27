@@ -1029,11 +1029,11 @@ http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmo
 #EXTINF:-1 tvg-chno="440" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Clic_%28TV_channel%29_logo_2021.png",Clic!
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=395362&extension=ts
 
-#EXTINF:-1 tvg-chno="500" tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png",A&E
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13098&extension=ts
+#EXTINF:-1 tvg-chno="500" tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png",A&E ²
+http://181.78.105.146:8800/play/a04r
 
-#EXTINF:-1 tvg-chno="501" tvg-logo="https://cdn.mitvstatic.com/channels/cl_amc_m.png",AMC
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13100&extension=ts
+#EXTINF:-1 tvg-chno="501" tvg-logo="https://cdn.mitvstatic.com/channels/cl_amc_m.png",AMC ²
+http://181.78.105.146:8800/play/a04s
 
 #EXTINF:-1 tvg-chno="502" tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png",AXN
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13102&extension=ts
@@ -1056,14 +1056,14 @@ http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmo
 #EXTINF:-1 tvg-chno="514" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden-premier.png",Golden Premier
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13212&extension=ts
 
-#EXTINF:-1 tvg-chno="517" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png",Paramount
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13257&extension=ts
+#EXTINF:-1 tvg-chno="517" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png",Paramount ²
+http://181.78.105.146:8800/play/a058
 
 #EXTINF:-1 tvg-chno="518" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox_m.png",Star Channel
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13271&extension=ts
 
-#EXTINF:-1 tvg-chno="519" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SonyMovies.png",Cine Sony
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13274&extension=ts
+#EXTINF:-1 tvg-chno="519" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SonyMovies.png",Cine Sony ²
+http://181.78.105.146:8800/play/a04w
 
 #EXTINF:-1 tvg-chno="520" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png",Sony
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13267&extension=ts
@@ -1074,23 +1074,23 @@ http://200.60.124.20:29000/play/a0a5/index.m3u8
 #EXTINF:-1 tvg-chno="522" tvg-logo="https://cdn.mitvstatic.com/channels/mx_space_m.png",Space
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13269&extension=ts
 
-#EXTINF:-1 tvg-chno="523" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png",Studio Universal
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13277&extension=ts
+#EXTINF:-1 tvg-chno="523" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png",Studio Universal ²
+http://181.78.105.146:8800/play/a04m
 
-#EXTINF:-1 tvg-chno="524" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tnt_m.png",TNT
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13290&extension=ts
+#EXTINF:-1 tvg-chno="524" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tnt_m.png",TNT ²
+http://181.78.105.146:8800/play/a060
 
-#EXTINF:-1 tvg-chno="525" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png",TNT Series
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13292&extension=ts
+#EXTINF:-1 tvg-chno="525" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png",TNT Series ²
+http://181.78.105.146:8800/play/a059
 
 #EXTINF:-1 tvg-chno="526" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner_m.png",Warner Channel
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13321&extension=ts
 
-#EXTINF:-1 tvg-chno="527" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png",FX
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13205&extension=ts
+#EXTINF:-1 tvg-chno="527" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png",FX ²
+http://181.78.105.146:8800/play/a04u
 
-#EXTINF:-1 tvg-chno="530" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png",DHE
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13171&extension=ts
+#EXTINF:-1 tvg-chno="530" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png",DHE ²
+http://181.78.105.146:8800/play/a04x
 
 #EXTINF:-1 tvg-chno="531" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png",DreamWorks
 http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/396233.ts
