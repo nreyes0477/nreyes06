@@ -1195,22 +1195,22 @@ http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/5514.ts
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=473774&extension=ts
 
 #EXTINF:-1 tvg-chno="594" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644505043521-Imagen.jpg",Universal Cinema ²
-http://38.159.227.124:8000/play/a04e
+http://181.78.105.146:8800/play/a05f
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504904675-Imagen.jpg",Universal Comedy ²
-http://38.159.227.124:8000/play/a030
+http://181.78.105.146:8800/play/a06b
 
 #EXTINF:-1 tvg-chno="596" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504857757-Imagen.jpg",Universal Crime ²
-http://38.159.227.124:8000/play/a02z
+http://181.78.105.146:8800/play/a06a
 
 #EXTINF:-1 tvg-chno="597" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504463678-Imagen.jpg",Universal Premiere ²
-http://38.159.227.124:8000/play/a02w
+http://181.78.105.146:8800/play/a067
 
 #EXTINF:-1 tvg-chno="598" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504463678-Imagen.jpg",Universal Premiere 2 ²
-http://38.159.227.124:8000/play/a02x
+http://181.78.105.146:8800/play/a068
 
 #EXTINF:-1 tvg-chno="599" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1646691382488-Imagen.jpg",Universal Reality ²
-http://38.159.227.124:8000/play/a02y
+http://181.78.105.146:8800/play/a069
 
 #EXTINF:-1 tvg-chno="600" tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg",Futv ²
 http://190.92.10.66:4000/play/a00c/index.m3u8
