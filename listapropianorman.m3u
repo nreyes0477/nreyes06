@@ -1237,13 +1237,13 @@ http://38.159.227.124:8000/play/a09i
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13283&extension=ts
 
 #EXTINF:-1 tvg-chno="608" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN Norte ²
-http://45.186.106.207:8000/play/a08w
+http://45.186.106.207:8000/play/a08x
 
 #EXTINF:-1 tvg-chno="609" tvg-logo="https://static.wixstatic.com/media/27d2df_3855b68f65c541f1a3e6b3c89e80a07b~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-2.png",ESPN 2 Norte ²
-http://38.159.227.124:8000/play/a043
+http://45.186.106.207:8000/play/a08w
 
 #EXTINF:-1 tvg-chno="610" tvg-logo="https://static.wixstatic.com/media/27d2df_924eed614eed44d3a36344f60a9fcde1~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-3.png",ESPN 3 Norte ²
-http://38.159.227.124:8000/play/a044
+http://45.186.106.207:8000/play/a08y
 
 #EXTINF:-1 tvg-chno="611" tvg-logo="https://static.wixstatic.com/media/27d2df_995efad2b6c34c68a7f81275c00ad162~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-4.png",ESPN 4 Norte ²
 http://38.159.227.124:8000/play/a091
@@ -1252,7 +1252,7 @@ http://38.159.227.124:8000/play/a091
 http://38.159.227.124:8000/play/a06x
 
 #EXTINF:-1 tvg-chno="613" tvg-logo="https://static.wixstatic.com/media/27d2df_7b0572454923490f87cd649cbb5a39ac~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-6.png",ESPN 6 Norte ²
-http://38.159.227.124:8000/play/a045
+http://45.186.106.207:8000/play/a08z
 
 #EXTINF:-1 tvg-chno="614" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN MX 🇲🇽
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=335457&extension=ts
