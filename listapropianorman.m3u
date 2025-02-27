@@ -874,7 +874,7 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/46989.m3u8
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47016.m3u8
 
 #EXTINF:-1 tvg-chno="369" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/telemundo-puerto-rico-en-vivo-1391.png",Telemundo Puerto Rico ¹ 🇵🇷
-https://nbculocallive.akamaized.net:443/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-chno="371" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Univisi%C3%B3n-Puerto-Rico-en-vivo-Online.png?zoom=3&resize=218%2C150&ssl=1",Univision Puerto Rico ⁽ᵗˢ⁾ 🇵🇷
 http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=126536&extension=ts
@@ -1348,10 +1348,10 @@ http://galaxypro.online:8080/streaming/clients_live.php?username=Guardi151023gro
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=3802&extension=ts
 
 #EXTINF:-1 tvg-chno="645" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png",TUDN MX ² 🇲🇽
-http://190.92.10.66:4000/play/a002/index.m3u8
+http://45.186.106.207:8000/play/a099/index.m3u8
 
 #EXTINF:-1 tvg-chno="646" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png",TUDN USA ² 🇺🇸
-http://45.186.106.207:8000/play/a099/index.m3u8
+http://190.92.10.66:4000/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-chno="647" tvg-logo="https://iili.io/J2wureR.png",Zona TUDN USA 🇺🇸
 http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278570&extension=ts
