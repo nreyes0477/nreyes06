@@ -618,8 +618,8 @@ https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-chno="264" tvg-logo="https://logos.streamsites.eu/2894_la-2-en-directo_overview.png",La 2 ¹ 🇪🇸
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
 
-#EXTINF:-1 tvg-chno="265" tvg-logo="https://logos.streamsites.eu/2516_antena3_overview.png",Antena 3 ¹ 🇪🇸
-https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/Qm66MKEGUVlGfBH8YNTdxDhw0fAHlXCpUM2_m8Z9vAEkxVP9AWeWJxjtv7PyvDj2Tcqn9XlLtXsQoMjIZ9nNs0E9pSzP2-y882WL_qGqrlSjqrEzbYlGMcWBqtW2iN6t5mpk_outPfRYNqYWCpt63KqxriRNd9XBiCIxvb6Z7hg/hls/index.m3u8
+#EXTINF:-1 tvg-chno="265" tvg-logo="https://logos.streamsites.eu/2516_antena3_overview.png",Antena 3 🇪🇸
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=169823&extension=ts
 
 #EXTINF:-1 tvg-chno="266" tvg-logo="https://logos.streamsites.eu/2551_cuatro_overview.png",Cuatro 🇪🇸
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=30164&extension=ts
@@ -627,17 +627,17 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 #EXTINF:-1 tvg-chno="267" tvg-logo="https://logos.streamsites.eu/2531_telecinco_overview.png",Telecinco 🇪🇸
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147103&extension=ts
 
-#EXTINF:-1 tvg-chno="268" tvg-logo="https://logos.streamsites.eu/2697_la-sexta_overview.png",La Sexta ¹ 🇪🇸
-http://hls.webredirect.org/48590/mp_9367.php/https://atres-live.atresmedia.com/be01353a6fe15b2a6ae75cdb285ce9e53448a348_ES_1740872887_1740901627/h264leg/live/lasexta/bitrate_2.m3u8
+#EXTINF:-1 tvg-chno="268" tvg-logo="https://logos.streamsites.eu/2697_la-sexta_overview.png",La Sexta 🇪🇸
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147104&extension=ts
 
-#EXTINF:-1 tvg-chno="269" tvg-logo="https://logos.streamsites.eu/3488_mega_overview.png",Mega ¹ 🇪🇸
-http://hls.webredirect.org/48590/mp_9367.php/https://atres-live.atresmedia.com/baa6711c31e518015aa8430e80c8c905a1741ed8_ES_1740875383_1740904123/h264leg/live/mega/bitrate_2.m3u8
+#EXTINF:-1 tvg-chno="269" tvg-logo="https://logos.streamsites.eu/3488_mega_overview.png",Mega 🇪🇸
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147208&extension=ts
 
-#EXTINF:-1 tvg-chno="270" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/nova-en-directo-online-y-en-vivo.png",Nova ¹ 🇪🇸
-http://hls.webredirect.org/48590/mp_9367.php/https://atres-live.atresmedia.com/e23366fce649c0f8c6cb69c4f404ac35b4ef5abe_ES_1740871160_1740899900/h264leg/live/nova/bitrate_2.m3u8
+#EXTINF:-1 tvg-chno="270" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/nova-en-directo-online-y-en-vivo.png",Nova 🇪🇸
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147178&extension=ts
 
-#EXTINF:-1 tvg-chno="271" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/neox-en-directo-online-y-en-vivo.png",Neox ¹ 🇪🇸
-http://hls.webredirect.org/48590/mp_9367.php/https://atres-live.atresmedia.com/ef33b81a49e337282b9bc65657d969d52d3768bc_ES_1740872002_1740900742/h264leg/live/neox/bitrate_2.m3u8
+#EXTINF:-1 tvg-chno="271" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/neox-en-directo-online-y-en-vivo.png",Neox 🇪🇸
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=171805&extension=ts
 
 #EXTINF:-1 tvg-chno="272" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/be-mad-en-directo-online-y-en-vivo.png",Be Mad 🇪🇸
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147180&extension=ts
