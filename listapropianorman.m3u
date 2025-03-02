@@ -1223,7 +1223,7 @@ http://38.159.227.124:8000/play/a02n
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13307&extension=ts
 
 #EXTINF:-1 tvg-chno="604" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD + ²
-http://38.159.227.124:8000/play/a09h
+http://45.186.106.207:8000/play/a06r
 
 #EXTINF:-1 tvg-chno="605" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD +
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13284&extension=ts
