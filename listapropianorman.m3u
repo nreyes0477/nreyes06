@@ -286,16 +286,13 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=73662&extension=ts
 
 #EXTINF:-1 tvg-chno="138" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Meganoticias2019.png/380px-Meganoticias2019.png",Meganoticias 🇨🇱
-http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=3723&extension=ts
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=30366&extension=ts
 
 #EXTINF:-1 tvg-chno="139" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Chvcontigoptv.png/revision/latest?cb=20231014035938&path-prefix=es",CHV Contigo ¹ 🇨🇱
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62aa5740a47b6c000769f407livestitch/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=fc4ecd2b-3353-5b86-73d4-12ceedc5a646&deviceDNT=0&deviceModel=0&profilesFromStream=true
 
 #EXTINF:-1 tvg-chno="140" tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2020/12/CANAL-UCL_Logo-350.png",UCL Televisión ¹ 🇺🇾
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-
-#EXTINF:-1 tvg-chno="141" tvg-logo="https://telefe-static2.akamaized.net/media/465308/logo_telefe_noticias_2022.png",Telefe Noticias ¹ 🇦🇷
-https://ythls.armelin.one/channel/UChxGASjdNEYHhVKpl667Huw.m3u8
 
 #EXTINF:-1 tvg-chno="142" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png",TN Noticias 🇦🇷
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=29936&extension=ts
@@ -311,9 +308,6 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 
 #EXTINF:-1 tvg-chno="146" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",A24 🇦🇷
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=163683&extension=ts
-
-#EXTINF:-1 tvg-chno="147" tvg-logo="https://atvargentina.com/wp-content/uploads/2021/07/atvargentina-x2.png",ATV ¹ 🇦🇷
-https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="148" tvg-logo="https://www.tvcinco.com/images/logo2.jpg",5tv ¹ 🇦🇷
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
@@ -332,9 +326,6 @@ https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 #EXTINF:-1 tvg-chno="153" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/ADN-40-en-vivo-Online.png?zoom=3&resize=324%2C235&ssl=1",ADN 40 ¹ 🇲🇽
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-
-#EXTINF:-1 tvg-chno="154" tvg-logo="https://imcp.org.mx/wp-content/uploads/2017/01/AztecaNoticias.jpg",Azteca Noticias ¹ 🇲🇽
-https://ythls.armelin.one/channel/UCUP6qv-_EIL0hwTsJaKYnvw.m3u8
 
 #EXTINF:-1 tvg-chno="155" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Foro-TV-en-directo-Online-1.png?resize=1068%2C601&ssl=1",Foro TV 🇲🇽
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=90214&extension=ts
@@ -363,9 +354,6 @@ http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmo
 #EXTINF:-1 tvg-chno="163" tvg-logo="https://www.wola.org/wp-content/uploads/2019/09/noticias-caracol-768x768.jpg",Noticias Caracol ¹ 🇨🇴 
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
-#EXTINF:-1 tvg-chno="164" tvg-logo="https://latinanoticias.pe/wp-content/themes/genesis-latina-noticias/img/logo-head-n.png",Latina Noticias ⁽ᵗˢ⁾ 🇵🇪
-http://latintvplus.com:8000/streaming/clients_live.php?username=Lapsus0OO22x1x&password=03987ClI1119mx22x&stream=151521&extension=ts
-
 #EXTINF:-1 tvg-chno="166" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png",TV Perú Noticias ¹ 🇵🇪
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 
@@ -376,10 +364,10 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-chno="169" tvg-logo="https://cdn.mitvstatic.com/channels/ar_france-24-espanol_m.png",France 24 ¹ 🇨🇵
-https://marine2.miplay.cl/france24/playlist.m3u8
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1 tvg-chno="170" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png",Euronews ¹ 🇪🇺
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv:80/stitch/hls/channel/60492dcf1c9b6a00089f41dflivestitch/2977920/playlist.m3u8?terminate=false&sid=fa72d986-0119-4efe-aab7-e87e09aafd24&deviceDNT=0&deviceModel=web&deviceVersion=unknown&appName=web&deviceId=6c28a357-30d3-11ef-9cf5-e9ddff8ff496&appVersion=unknown&deviceType=web&deviceMake=Chrome
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492dcf1c9b6a00089f41df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a357-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fa72d986-0119-4efe-aab7-e87e09aafd24
 
 #EXTINF:-1 tvg-chno="171" tvg-logo="https://vpitv.com/wp-content/uploads/elementor/thumbs/logo-vpi-b-263x300-1-p2z3incdjzyd4tg7m3obm8gf17ep739fmh3na3lee8.png",VPItv ¹ 🇻🇪
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
@@ -403,7 +391,7 @@ https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
 #EXTINF:-1 tvg-chno="179" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/200px-Ucvtvlogo2014mejorado.png",UCV Chile ¹ 🇨🇱
-https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/chunks.m3u8?nimblesessionid=261304196
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="180" tvg-logo="https://cdn.m3u.cl/logo/1356_El_Histonauta_TV.png",El Histonauta TV ¹ 🇦🇷
 https://stmv6.voxtvhd.com.br/elhistonautatv/elhistonautatv/playlist.m3u8
