@@ -622,22 +622,22 @@ https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 http://hls.webredirect.org/48590/mp_9367.php/https://atres-live.atresmedia.com/7dad8c62200918de348af11dc6089876705ab0bb_ES_1740868908_1740897648/h264leg/live/antena3/bitrate_2.m3u8
 
 #EXTINF:-1 tvg-chno="266" tvg-logo="https://logos.streamsites.eu/2551_cuatro_overview.png",Cuatro 🇪🇸
-http://offshore.lat:80/live/LUISAFR6/9144390132/1146.m3u8
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=30164&extension=ts
 
 #EXTINF:-1 tvg-chno="267" tvg-logo="https://logos.streamsites.eu/2531_telecinco_overview.png",Telecinco 🇪🇸
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=398019&extension=ts
 
-#EXTINF:-1 tvg-chno="268" tvg-logo="https://logos.streamsites.eu/2697_la-sexta_overview.png",La Sexta 🇪🇸
-http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=397988&extension=ts
+#EXTINF:-1 tvg-chno="268" tvg-logo="https://logos.streamsites.eu/2697_la-sexta_overview.png",La Sexta ¹ 🇪🇸
+http://hls.webredirect.org/48590/mp_9367.php/https://atres-live.atresmedia.com/be01353a6fe15b2a6ae75cdb285ce9e53448a348_ES_1740872887_1740901627/h264leg/live/lasexta/bitrate_2.m3u8
 
-#EXTINF:-1 tvg-chno="269" tvg-logo="https://logos.streamsites.eu/3488_mega_overview.png",Mega 🇪🇸
-http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=398001&extension=ts
+#EXTINF:-1 tvg-chno="269" tvg-logo="https://logos.streamsites.eu/3488_mega_overview.png",Mega ¹ 🇪🇸
+http://hls.webredirect.org/48590/mp_9367.php/https://atres-live.atresmedia.com/baa6711c31e518015aa8430e80c8c905a1741ed8_ES_1740875383_1740904123/h264leg/live/mega/bitrate_2.m3u8
 
-#EXTINF:-1 tvg-chno="270" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/nova-en-directo-online-y-en-vivo.png",Nova 🇪🇸
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147178&extension=ts
+#EXTINF:-1 tvg-chno="270" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/nova-en-directo-online-y-en-vivo.png",Nova ¹ 🇪🇸
+http://hls.webredirect.org/48590/mp_9367.php/https://atres-live.atresmedia.com/e23366fce649c0f8c6cb69c4f404ac35b4ef5abe_ES_1740871160_1740899900/h264leg/live/nova/bitrate_2.m3u8
 
-#EXTINF:-1 tvg-chno="271" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/neox-en-directo-online-y-en-vivo.png",Neox 🇪🇸
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=171805&extension=ts
+#EXTINF:-1 tvg-chno="271" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/neox-en-directo-online-y-en-vivo.png",Neox ¹ 🇪🇸
+http://hls.webredirect.org/48590/mp_9367.php/https://atres-live.atresmedia.com/ef33b81a49e337282b9bc65657d969d52d3768bc_ES_1740872002_1740900742/h264leg/live/neox/bitrate_2.m3u8
 
 #EXTINF:-1 tvg-chno="272" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/be-mad-en-directo-online-y-en-vivo.png",Be Mad 🇪🇸
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147180&extension=ts
