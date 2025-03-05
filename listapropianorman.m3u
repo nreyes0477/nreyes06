@@ -666,8 +666,8 @@ http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&pas
 #EXTINF:-1 tvg-chno="284" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión SF 🇺🇸
 
 
-#EXTINF:-1 tvg-chno="285" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo MI ² 🇺🇸
-http://190.92.10.66:4000/play/a004
+#EXTINF:-1 tvg-chno="285" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo MI 🇺🇸
+http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=395378&extension=ts
 
 #EXTINF:-1 tvg-chno="286" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo NY 🇺🇸
 
