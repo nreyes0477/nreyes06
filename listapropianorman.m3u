@@ -1286,7 +1286,7 @@ http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmo
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=334678&extension=ts
 
 #EXTINF:-1 tvg-chno="625" tvg-logo="https://static.wixstatic.com/media/27d2df_3855b68f65c541f1a3e6b3c89e80a07b~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-2.png",ESPN 2 Sur
-http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=2622098&extension=ts
+http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=262209&extension=ts
 
 #EXTINF:-1 tvg-chno="626" tvg-logo="https://static.wixstatic.com/media/27d2df_924eed614eed44d3a36344f60a9fcde1~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-3.png",ESPN 3 Sur
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=334631&extension=ts
@@ -1294,13 +1294,13 @@ http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmo
 #EXTINF:-1 tvg-chno="627" tvg-logo="https://static.wixstatic.com/media/27d2df_995efad2b6c34c68a7f81275c00ad162~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-4.png",ESPN 4 Sur
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=130895&extension=ts
 
-#EXTINF:-1 tvg-chno="628" tvg-logo="https://static.wixstatic.com/media/27d2df_fdc7de25263246f09a2975eac638f0a8~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-5.png",ESPN 5 Sur
-http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=398912&extension=ts
+#EXTINF:-1 tvg-chno="628" tvg-logo="https://static.wixstatic.com/media/27d2df_fdc7de25263246f09a2975eac638f0a8~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-5.png",ESPN 5 Sur ²
+http://190.14.242.93:8088/play/a01d
 
 #EXTINF:-1 tvg-chno="629" tvg-logo="https://static.wixstatic.com/media/27d2df_7b0572454923490f87cd649cbb5a39ac~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-6.png",ESPN 6 Sur
-http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/292845.m3u8
+http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=292845&extension=ts
 
-#EXTINF:-1 tvg-chno="630" tvg-logo="https://static.wixstatic.com/media/27d2df_50648e80b5bb41e091209006875097c9~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-7.png",ESPN 7 Sur  ²
+#EXTINF:-1 tvg-chno="630" tvg-logo="https://static.wixstatic.com/media/27d2df_50648e80b5bb41e091209006875097c9~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-7.png",ESPN 7 Sur ²
 http://181.119.86.1:8000/play/a01g
 
 #EXTINF:-1 tvg-chno="631" tvg-logo="https://static.wixstatic.com/media/27d2df_fcf3392d82c34d0aa8d7b567bcbcd89f~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-PREMIUM.png",ESPN Premium Sur ²
