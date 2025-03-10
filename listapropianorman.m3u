@@ -1361,13 +1361,13 @@ http://190.92.10.66:4000/play/a002/index.m3u8
 http://sdmx.vip:80/live/Megatvplus/pZNvewtBmjTfAe/2130323.m3u8
 
 #EXTINF:-1 tvg-chno="648" tvg-logo="https://static.wixstatic.com/media/27d2df_893e94675e2f471fa8db741d5152a259~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/CLARO-SPORTS.png",Claro Sports MX 🇲🇽
-http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=311378&extension=ts
+http://shacktv.com:8080/live/caravantes965/fernanado928/61054.m3u8
 
 #EXTINF:-1 tvg-chno="649" tvg-logo="https://static.wixstatic.com/media/27d2df_893e94675e2f471fa8db741d5152a259~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/CLARO-SPORTS.png",Claro Sports 2 MX 🇲🇽
-http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=441003&extension=ts
+http://shacktv.com:8080/live/caravantes965/fernanado928/111134.m3u8
 
-#EXTINF:-1 tvg-chno="650" tvg-logo="https://static.wixstatic.com/media/27d2df_96e8f3dd921c4fe4a8c26070d5b9da9a~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DSPORTS.png",DirecTV Sports ² 🇦🇷
-http://45.5.117.182:8000/play/cj9t/index.m3u8
+#EXTINF:-1 tvg-chno="650" tvg-logo="https://static.wixstatic.com/media/27d2df_96e8f3dd921c4fe4a8c26070d5b9da9a~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DSPORTS.png",DirecTV Sports 🇦🇷
+http://shacktv.com:8080/live/caravantes965/fernanado928/61059.m3u8
 
 #EXTINF:-1 tvg-chno="651" tvg-logo="https://static.wixstatic.com/media/27d2df_780da30c761044d1b8f70fa1d89e3b67~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DSPORTS-2.png",DirecTV Sports 2 🇦🇷
 http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=192358&extension=ts
@@ -1477,20 +1477,23 @@ https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 #EXTINF:-1 tvg-chno="692" tvg-logo="https://i.imgur.com/6wkmgGM.png",Tigo Sports Honduras 🇭🇳
 http://todoplus.digital:80/live/5MUK2Fhqtq/wqq6nhKF4W/250372.m3u8
 
-#EXTINF:-1 tvg-chno="694" tvg-logo="https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/128579b4-6ac2-11ed-8535-d36612803c67.png",Wapa Deportes 🇵🇷
+#EXTINF:-1 tvg-chno="693" tvg-logo="https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/128579b4-6ac2-11ed-8535-d36612803c67.png",Wapa Deportes 🇵🇷
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=194167&extension=ts
 
-#EXTINF:-1 tvg-chno="695" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos.png?resize=600%2C360&ssl=1",Cableonda 🇵🇦 
+#EXTINF:-1 tvg-chno="694" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos.png?resize=600%2C360&ssl=1",Cableonda 🇵🇦 
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=392121&extension=ts
 
-#EXTINF:-1 tvg-chno="696" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_Meridiano_TV_Venezuela.png",Meridiano 🇻🇪
+#EXTINF:-1 tvg-chno="695" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_Meridiano_TV_Venezuela.png",Meridiano 🇻🇪
 http://xxip9.top:8080/live/nCqH8t/631017/164930.m3u8
 
-#EXTINF:-1 tvg-chno="697" tvg-logo="https://static.wixstatic.com/media/27d2df_6f105d86f6594198a9fc6590dee6b3c0~mv2.png/v1/fill/w_200,h_182,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/EUROSPORT-1.png",Eurosport 1 ² 🇪🇦
+#EXTINF:-1 tvg-chno="696" tvg-logo="https://static.wixstatic.com/media/27d2df_6f105d86f6594198a9fc6590dee6b3c0~mv2.png/v1/fill/w_200,h_182,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/EUROSPORT-1.png",Eurosport 1 ² 🇪🇦
 http://185.189.225.157/EuroSport1/index.m3u8
 
-#EXTINF:-1 tvg-chno="698" tvg-logo="https://static.wixstatic.com/media/27d2df_4614cbf5c6084044b063fff6f5de6d04~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/EUROSPORT-2.png",Eurosport 2 ² 🇪🇦
+#EXTINF:-1 tvg-chno="697" tvg-logo="https://static.wixstatic.com/media/27d2df_4614cbf5c6084044b063fff6f5de6d04~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/EUROSPORT-2.png",Eurosport 2 ² 🇪🇦
 http://185.189.225.157/EuroSport2/index.m3u8
+
+#EXTINF:-1 tvg-chno="698" tvg-logo="https://stahttps://claroperupoc.vtexassets.com/arquivos/ids/1206316/adrenalina-sports-network.png",Adrenalina Sports Network 🇲🇽
+http://shacktv.com:8080/live/caravantes965/fernanado928/111067.m3u8
 
 #EXTINF:-1 tvg-chno="699" tvg-logo="https://static.wixstatic.com/media/27d2df_7198c6ed4299494984dce09650a355c2~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DEPORTV.png",DeporTV 🇦🇷
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147257&extension=ts
