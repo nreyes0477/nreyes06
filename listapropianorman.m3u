@@ -1706,28 +1706,28 @@ https://26b638b2564d41f8b6a36b6dd59e8d4f.mediatailor.eu-west-1.amazonaws.com/v1/
 https://bit.ly/3WChqoj?ESBC1700004PX.m3u8
 
 #EXTINF:-1 tvg-chno="850" tvg-logo="https://fotos.perfil.com/2024/12/02/trim/414/233/gran-hermano-2025-1922635.jpg?webp",GH (Cam 1) 🇦🇷
-http://2.magmas5.com:8000/streaming/clients_live.php?username=andyf73&password=Q01RRG9TT0&stream=255314&extension=ts
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=260276&extension=ts
 
 #EXTINF:-1 tvg-chno="850" tvg-logo="https://fotos.perfil.com/2024/12/02/trim/414/233/gran-hermano-2025-1922635.jpg?webp",GH (Cam 2) 🇦🇷
-http://2.magmas5.com:8000/streaming/clients_live.php?username=andyf73&password=Q01RRG9TT0&stream=255315&extension=ts
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=265784&extension=ts
 
 #EXTINF:-1 tvg-chno="850" tvg-logo="https://fotos.perfil.com/2024/12/02/trim/414/233/gran-hermano-2025-1922635.jpg?webp",GH (Cam 3) 🇦🇷
-http://2.magmas5.com:8000/streaming/clients_live.php?username=andyf73&password=Q01RRG9TT0&stream=255316&extension=ts
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=265785&extension=ts
 
 #EXTINF:-1 tvg-chno="850" tvg-logo="https://fotos.perfil.com/2024/12/02/trim/414/233/gran-hermano-2025-1922635.jpg?webp",GH (Cam 4) 🇦🇷
-http://2.magmas5.com:8000/streaming/clients_live.php?username=andyf73&password=Q01RRG9TT0&stream=255317&extension=ts
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=265786&extension=ts
 
 #EXTINF:-1 tvg-chno="851" tvg-logo="https://www.elfinanciero.com.mx/resizer/v2/DKE46OYTV5BS5CKD42ZZX4YKBA.jpg?smart=true&auth=131e9fae6d2d6eef0971069523d8c2395305eb0d3cbb2b1b0e96dc9277f5f4bc&width=1600&height=900",LCDLF All Stars (Cam 1) 🇺🇸
-http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=492231&extension=ts
-
-#EXTINF:-1 tvg-chno="852" tvg-logo="https://www.elfinanciero.com.mx/resizer/v2/DKE46OYTV5BS5CKD42ZZX4YKBA.jpg?smart=true&auth=131e9fae6d2d6eef0971069523d8c2395305eb0d3cbb2b1b0e96dc9277f5f4bc&width=1600&height=900",LCDLF All Stars (Cam 2) 🇺🇸
-http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=492232&extension=ts
-
-#EXTINF:-1 tvg-chno="853" tvg-logo="https://www.elfinanciero.com.mx/resizer/v2/DKE46OYTV5BS5CKD42ZZX4YKBA.jpg?smart=true&auth=131e9fae6d2d6eef0971069523d8c2395305eb0d3cbb2b1b0e96dc9277f5f4bc&width=1600&height=900",LCDLF All Stars (Cam 3) 🇺🇸
 http://tv.zapping.life:8080/streaming/clients_live.php?username=PiedadGoldring&password=8ZcgpvS7wP&stream=107978&extension=ts
 
-#EXTINF:-1 tvg-chno="854" tvg-logo="https://www.elfinanciero.com.mx/resizer/v2/DKE46OYTV5BS5CKD42ZZX4YKBA.jpg?smart=true&auth=131e9fae6d2d6eef0971069523d8c2395305eb0d3cbb2b1b0e96dc9277f5f4bc&width=1600&height=900",LCDLF All Stars (Cam 4) 🇺🇸
+#EXTINF:-1 tvg-chno="852" tvg-logo="https://www.elfinanciero.com.mx/resizer/v2/DKE46OYTV5BS5CKD42ZZX4YKBA.jpg?smart=true&auth=131e9fae6d2d6eef0971069523d8c2395305eb0d3cbb2b1b0e96dc9277f5f4bc&width=1600&height=900",LCDLF All Stars (Cam 2) 🇺🇸
 http://tv.zapping.life:8080/streaming/clients_live.php?username=PiedadGoldring&password=8ZcgpvS7wP&stream=107979&extension=ts
+
+#EXTINF:-1 tvg-chno="853" tvg-logo="https://www.elfinanciero.com.mx/resizer/v2/DKE46OYTV5BS5CKD42ZZX4YKBA.jpg?smart=true&auth=131e9fae6d2d6eef0971069523d8c2395305eb0d3cbb2b1b0e96dc9277f5f4bc&width=1600&height=900",LCDLF All Stars (Cam 3) 🇺🇸
+http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=492231&extension=ts
+
+#EXTINF:-1 tvg-chno="854" tvg-logo="https://www.elfinanciero.com.mx/resizer/v2/DKE46OYTV5BS5CKD42ZZX4YKBA.jpg?smart=true&auth=131e9fae6d2d6eef0971069523d8c2395305eb0d3cbb2b1b0e96dc9277f5f4bc&width=1600&height=900",LCDLF All Stars (Cam 4) 🇺🇸
+http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=492232&extension=ts
 
 #EXTINF:-1 tvg-chno="900" tvg-logo="https://cdn.instant.audio/images/logos/radios-co-cr/radio-monumental.png",Radio Monumental 📻 (Solo Audio)
 https://alba-cr-monumental-monumental.stream.mediatiquestream.com/index.m3u8
