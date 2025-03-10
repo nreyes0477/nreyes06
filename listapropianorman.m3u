@@ -1499,7 +1499,7 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=392121&extension=ts
 
 #EXTINF:-1 tvg-chno="695" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_Meridiano_TV_Venezuela.png",Meridiano 🇻🇪
-http://xxip9.top:8080/live/nCqH8t/631017/164930.m3u8
+http://todoplus.digital:80/live/5MUK2Fhqtq/wqq6nhKF4W/18469.m3u8
 
 #EXTINF:-1 tvg-chno="696" tvg-logo="https://static.wixstatic.com/media/27d2df_6f105d86f6594198a9fc6590dee6b3c0~mv2.png/v1/fill/w_200,h_182,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/EUROSPORT-1.png",Eurosport 1 ² 🇪🇦
 http://185.189.225.157/EuroSport1/index.m3u8
@@ -1511,7 +1511,7 @@ http://185.189.225.157/EuroSport2/index.m3u8
 http://shacktv.com:8080/live/caravantes965/fernanado928/111067.m3u8
 
 #EXTINF:-1 tvg-chno="699" tvg-logo="https://static.wixstatic.com/media/27d2df_7198c6ed4299494984dce09650a355c2~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DEPORTV.png",DeporTV 🇦🇷
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147257&extension=ts
+http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=491297&extension=ts
 
 #EXTINF:-1 tvg-chno="700" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
