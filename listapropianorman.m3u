@@ -1274,7 +1274,7 @@ http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&pas
 http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=22889&extension=ts
 
 #EXTINF:-1 tvg-chno="621" tvg-logo="https://static.wixstatic.com/media/27d2df_e7ee5501d67c4839add6f4ffc72baa3e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-SPORTS-PREMIUM.png",Fox Sports Premium MX 🇲🇽
-http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=22890&extension=ts
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=79179&extension=ts
 
 #EXTINF:-1 tvg-chno="622" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN 🇦🇷
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=81369&extension=ts
@@ -1351,6 +1351,9 @@ http://galaxypro.online:8080/streaming/clients_live.php?username=Guardi151023gro
 #EXTINF:-1 tvg-chno="644" tvg-logo="https://seeklogo.com/images/F/fox-sports-3-argentina-2023-logo-2A58AB321F-seeklogo.com.png",Fox Sports 3 Sur
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=3802&extension=ts
 
+#EXTINF:-1 tvg-chno="644" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/logos/FuboSports_Logo_OneColor_box_rgb.png?w=300&ch=width&auto=format,compress",Fubo Sports 🇺🇸
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=62550&extension=ts
+
 #EXTINF:-1 tvg-chno="645" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png",TUDN MX ² 🇲🇽
 http://45.186.106.207:8000/play/a099/index.m3u8
 
@@ -1366,8 +1369,14 @@ http://shacktv.com:8080/live/caravantes965/fernanado928/61054.m3u8
 #EXTINF:-1 tvg-chno="649" tvg-logo="https://static.wixstatic.com/media/27d2df_893e94675e2f471fa8db741d5152a259~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/CLARO-SPORTS.png",Claro Sports 2 MX 🇲🇽
 http://shacktv.com:8080/live/caravantes965/fernanado928/111134.m3u8
 
+#EXTINF:-1 tvg-chno="649" tvg-logo="https://static.wixstatic.com/media/27d2df_893e94675e2f471fa8db741d5152a259~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/CLARO-SPORTS.png",Claro Sports 2 CO 🇨🇴
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=174645&extension=ts
+
 #EXTINF:-1 tvg-chno="650" tvg-logo="https://static.wixstatic.com/media/27d2df_96e8f3dd921c4fe4a8c26070d5b9da9a~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DSPORTS.png",DirecTV Sports 🇦🇷
-http://shacktv.com:8080/live/caravantes965/fernanado928/61059.m3u8
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=76985&extension=ts
+
+#EXTINF:-1 tvg-chno="650" tvg-logo="https://static.wixstatic.com/media/27d2df_96e8f3dd921c4fe4a8c26070d5b9da9a~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DSPORTS.png",DirecTV Sports 🇦🇷
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=151374&extension=ts
 
 #EXTINF:-1 tvg-chno="651" tvg-logo="https://static.wixstatic.com/media/27d2df_780da30c761044d1b8f70fa1d89e3b67~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DSPORTS-2.png",DirecTV Sports 2 🇦🇷
 http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=192358&extension=ts
@@ -1384,11 +1393,11 @@ http://190.92.10.66:4000/play/a006/index.m3u8
 #EXTINF:-1 tvg-chno="655" tvg-logo="https://static.wixstatic.com/media/27d2df_8560e12d0965432f912670021b8da9bc~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/SKY-SPORTS.png",Sky Sports La Liga ² 🇺🇸
 http://181.78.106.127:9000/play/ca030
 
-#EXTINF:-1 tvg-chno="656" tvg-logo="https://static.wixstatic.com/media/27d2df_a2dd2c74ec5a4092ab9be022ee52ea8e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-LA-LIGA.png",Dazn La Liga ² 🇪🇦
-http://79.117.39.146:8000/play/a0ln
+#EXTINF:-1 tvg-chno="656" tvg-logo="https://static.wixstatic.com/media/27d2df_a2dd2c74ec5a4092ab9be022ee52ea8e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-LA-LIGA.png",Dazn La Liga 🇪🇦
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=126783&extension=ts
 
 #EXTINF:-1 tvg-chno="657" tvg-logo="https://static.wixstatic.com/media/27d2df_a2dd2c74ec5a4092ab9be022ee52ea8e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-LA-LIGA.png",Dazn La Liga 2 🇪🇦
-http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=279008&extension=ts
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=79412&extension=ts
 
 #EXTINF:-1 tvg-chno="658" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/LaLiga_2023_Horizontal_Logo.svg/1024px-LaLiga_2023_Horizontal_Logo.svg.png",La Liga Vix 🇺🇸
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13326&extension=ts
@@ -1403,16 +1412,22 @@ http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&pas
 http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=136649&extension=ts
 
 #EXTINF:-1 tvg-chno="662" tvg-logo="https://static.wixstatic.com/media/27d2df_613ef20a822d42de9067babf9f21852b~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN.png",Dazn 1 🇪🇸
-http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=768095&extension=ts
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=126809&extension=ts
 
 #EXTINF:-1 tvg-chno="663" tvg-logo="https://static.wixstatic.com/media/27d2df_eae3f65a0b5b42c8adbcf1d583639799~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-2.png",Dazn 2 🇪🇸
-http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=278218&extension=ts
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=244482&extension=ts
+
+#EXTINF:-1 tvg-chno="663" tvg-logo="https://static.wixstatic.com/media/27d2df_eae3f65a0b5b42c8adbcf1d583639799~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-2.png",Dazn F1 🇪🇸
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=126828&extension=ts
 
 #EXTINF:-1 tvg-chno="664" tvg-logo="https://static.wixstatic.com/media/27d2df_aa6a01e490a545b8b5973d06025aa9cd~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LIGA-DE-CAMPEONES-POR-M.png",Movistar Liga de Campeones 🇪🇸
-http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=37953&extension=ts
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=30303&extension=ts
 
 #EXTINF:-1 tvg-chno="665" tvg-logo="https://static.wixstatic.com/media/27d2df_aa6a01e490a545b8b5973d06025aa9cd~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LIGA-DE-CAMPEONES-POR-M.png",La Liga Hypermotion 🇪🇸
 http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=535995&extension=ts
+
+#EXTINF:-1 tvg-chno="665" tvg-logo="https://static.wixstatic.com/media/27d2df_aa6a01e490a545b8b5973d06025aa9cd~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LIGA-DE-CAMPEONES-POR-M.png",Movistar + Deportes 🇪🇸
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=126837&extension=ts
 
 #EXTINF:-1 tvg-chno="666" tvg-logo="https://static.wixstatic.com/media/27d2df_5ff1a2453f4d42f5961fbd1063004468~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BEIN-SPORTS.png",Bein Sports 🇺🇸
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=488239&extension=ts
