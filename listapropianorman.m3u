@@ -559,7 +559,7 @@ http://galaxypro.online:8080/streaming/clients_live.php?username=Guardi151023gro
 http://galaxypro.online:8080/streaming/clients_live.php?username=Guardi151023gro&password=ROROtv1Gg&stream=98130&extension=ts
 
 #EXTINF:-1 tvg-chno="246" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Caracol_HD_Internacional.png/250px-Caracol_HD_Internacional.png",Caracol Internacional 🇨🇴
-http://galaxypro.online:8080/streaming/clients_live.php?username=Guardi151023gro&password=ROROtv1Gg&stream=93751&extension=ts
+http://redima.pro:8880/streaming/clients_live.php?username=DALAHOL&password=12345&stream=423&extension=ts
 
 #EXTINF:-1 tvg-chno="247" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/03/RCN_Nuestra_Tele_Int_516x287.jpg",RCN Internacional 🇨🇴
 http://galaxypro.online:8080/streaming/clients_live.php?username=Guardi151023gro&password=ROROtv1Gg&stream=93751&extension=ts
@@ -583,7 +583,7 @@ https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 https://alba-ec-rts-rts.stream.mediatiquestream.com:443/original.m3u8
 
 #EXTINF:-1 tvg-chno="256" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png",TC Televisión ⁽ᵗˢ⁾ 🇪🇨
-http://redima.pro:8880/streaming/clients_live.php?username=DALAHOL&password=12345&stream=461extension=ts
+http://redima.pro:8880/streaming/clients_live.php?username=DALAHOL&password=12345&stream=461&extension=ts
 
 #EXTINF:-1 tvg-chno="257" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/Televicentro-Ecuador-TVC-en-vivo-Online.png",TVC 🇪🇨
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=79611&extension=ts
