@@ -582,7 +582,7 @@ https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-chno="255" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/300px-Rts_logo.png",RTS TV ¹ 🇪🇨
 https://alba-ec-rts-rts.stream.mediatiquestream.com:443/original.m3u8
 
-#EXTINF:-1 tvg-chno="256" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png",TC Televisión ⁽ᵗˢ⁾ 🇪🇨
+#EXTINF:-1 tvg-chno="256" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png",TC Televisión 🇪🇨
 http://redima.pro:8880/streaming/clients_live.php?username=DALAHOL&password=12345&stream=461&extension=ts
 
 #EXTINF:-1 tvg-chno="257" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/Televicentro-Ecuador-TVC-en-vivo-Online.png",TVC 🇪🇨
