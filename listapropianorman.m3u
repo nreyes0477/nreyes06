@@ -1423,10 +1423,10 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=126837&extension=ts
 
 #EXTINF:-1 tvg-chno="679" tvg-logo="https://static.wixstatic.com/media/27d2df_304369b4987a4309ac7bfa2e88926465~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TYC-SPORTS.png",TyC Sports 🇦🇷
-http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=395373&extension=ts
+http://shacktv.com:8080/live/caravantes965/fernanado928/45.m3u8
 
 #EXTINF:-1 tvg-chno="679" tvg-logo="https://static.wixstatic.com/media/27d2df_304369b4987a4309ac7bfa2e88926465~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TYC-SPORTS.png",TyC Sports Internacional 🇦🇷
-http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=72731&extension=ts
+http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=395373&extension=ts
 
 #EXTINF:-1 tvg-chno="679" tvg-logo="https://static.wixstatic.com/media/27d2df_7dd86f95523f4e74a9f6134ecc3ef7d9~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TNT-SPORTS.png",TNT Sports 🇦🇷
 http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=67384&extension=ts
@@ -1459,7 +1459,7 @@ http://45.5.117.182:8000/play/ljt0/index.m3u8
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 
 #EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png",Tigo Sports Honduras 🇭🇳
-http://todoplus.digital:80/live/5MUK2Fhqtq/wqq6nhKF4W/250372.m3u8
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=40017&extension=ts
 
 #EXTINF:-1 tvg-chno="686" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos.png?resize=600%2C360&ssl=1",Cableonda 🇵🇦 
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=392121&extension=ts
@@ -1503,11 +1503,14 @@ http://shacktv.com:8080/live/caravantes965/fernanado928/111067.m3u8
 #EXTINF:-1 tvg-chno="697" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_Meridiano_TV_Venezuela.png",Meridiano 🇻🇪
 http://todoplus.digital:80/live/5MUK2Fhqtq/wqq6nhKF4W/18469.m3u8
 
-#EXTINF:-1 tvg-chno="698" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/logos/FuboSports_Logo_OneColor_box_rgb.png?w=300&ch=width&auto=format,compress",Fubo Sports 🇺🇸
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=62550&extension=ts
+#EXTINF:-1 tvg-chno="698" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/logos/FuboSports_Logo_OneColor_box_rgb.png?w=300&ch=width&auto=format,compress",Fubo Latino 🇺🇸
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=194161&extension=ts
+
+#EXTINF:-1 tvg-chno="698" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/logos/FuboSports_Logo_OneColor_box_rgb.png?w=300&ch=width&auto=format,compress",Fubo Sports Networks 🇺🇸
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=175758&extension=ts
 
 #EXTINF:-1 tvg-chno="699" tvg-logo="https://static.wixstatic.com/media/27d2df_7198c6ed4299494984dce09650a355c2~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DEPORTV.png",DeporTV 🇦🇷
-http://sdmx.vip:80/live/Megatvplus/pZNvewtBmjTfAe/210849.m3u8
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=29934&extension=ts
 
 #EXTINF:-1 tvg-chno="700" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
