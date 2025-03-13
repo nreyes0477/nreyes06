@@ -1266,8 +1266,8 @@ http://190.92.10.66:4000/play/a003
 #EXTINF:-1 tvg-chno="618" tvg-logo="https://static.wixstatic.com/media/27d2df_524c1552967841858f7f7eaa72299e17~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-SPORTS.png",Fox Sports MX ² 🇲🇽
 http://181.78.106.127:9000/play/ca031
 
-#EXTINF:-1 tvg-chno="619" tvg-logo="https://static.wixstatic.com/media/27d2df_246284b7cb4b4ed9ad586ef862c7cf32~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-SPORTS-2.png",Fox Sports 2 MX 🇲🇽
-http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=124527&extension=ts
+#EXTINF:-1 tvg-chno="619" tvg-logo="https://static.wixstatic.com/media/27d2df_246284b7cb4b4ed9ad586ef862c7cf32~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-SPORTS-2.png",Fox Sports 2 MX ² 🇲🇽
+http://181.78.106.127:9000/play/ca032
 
 #EXTINF:-1 tvg-chno="620" tvg-logo="https://static.wixstatic.com/media/27d2df_ebcbd722879a447bbc7960e593f8551e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-SPORTS-3.png",Fox Sports 3 MX 🇲🇽
 http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=22889&extension=ts
@@ -1321,13 +1321,13 @@ http://45.184.87.142:8000/play/a045
 http://181.78.82.6:46090/play/a00q
 
 #EXTINF:-1 tvg-chno="642" tvg-logo="https://static.wixstatic.com/media/27d2df_3855b68f65c541f1a3e6b3c89e80a07b~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-2.png",ESPN Sur 2 ²
-http://181.78.82.6:46090/play/a00i/index.m3u8
+http://181.78.82.6:46090/play/a00i
 
 #EXTINF:-1 tvg-chno="643" tvg-logo="https://static.wixstatic.com/media/27d2df_924eed614eed44d3a36344f60a9fcde1~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-3.png",ESPN Sur 3 ²
-http://190.60.34.46:9999/play/a0ln/index.m3u8
+http://190.60.34.46:9999/play/a0ln
 
 #EXTINF:-1 tvg-chno="644" tvg-logo="https://static.wixstatic.com/media/27d2df_995efad2b6c34c68a7f81275c00ad162~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-4.png",ESPN Sur 4 ²
-http://190.60.34.46:9999/play/a0lm/index.m3u8
+http://190.60.34.46:9999/play/a0lm
 
 #EXTINF:-1 tvg-chno="645" tvg-logo="https://static.wixstatic.com/media/27d2df_fdc7de25263246f09a2975eac638f0a8~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-5.png",ESPN Sur 5 ²
 http://190.14.242.93:8088/play/a01d
@@ -1351,10 +1351,10 @@ http://galaxypro.online:8080/streaming/clients_live.php?username=Guardi151023gro
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=3802&extension=ts
 
 #EXTINF:-1 tvg-chno="654" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png",TUDN MX ² 🇲🇽
-http://45.186.106.207:8000/play/a099/index.m3u8
+http://181.78.106.127:9000/play/ca025
 
 #EXTINF:-1 tvg-chno="655" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png",TUDN USA ² 🇺🇸
-http://190.92.10.66:4000/play/a002/index.m3u8
+http://190.92.10.66:4000/play/a002
 
 #EXTINF:-1 tvg-chno="656" tvg-logo="https://iili.io/J2wureR.png",Zona TUDN USA 🇺🇸
 http://sdmx.vip:80/live/Megatvplus/pZNvewtBmjTfAe/2130323.m3u8
