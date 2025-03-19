@@ -1221,22 +1221,22 @@ http://38.159.227.124:8000/play/a02n
 #EXTINF:-1 tvg-chno="603" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR 
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13307&extension=ts
 
+#EXTINF:-1 tvg-chno="605" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD +
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13284&extension=ts
+
 #EXTINF:-1 tvg-chno="604" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD + ²
 http://45.186.106.207:8000/play/a06r
 
-#EXTINF:-1 tvg-chno="605" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD +
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13284&extension=ts
+#EXTINF:-1 tvg-chno="605" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13283&extension=ts
 
 #EXTINF:-1 tvg-chno="606" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 ²
 http://38.159.227.124:8000/play/a09i
 
-#EXTINF:-1 tvg-chno="607" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13283&extension=ts
-
-#EXTINF:-1 tvg-chno="608" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN Centro ²
+#EXTINF:-1 tvg-chno="607" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN Centro ²
 http://45.186.106.207:8000/play/a08w
 
-#EXTINF:-1 tvg-chno="609" tvg-logo="https://static.wixstatic.com/media/27d2df_3855b68f65c541f1a3e6b3c89e80a07b~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-2.png",ESPN 2 Centro ²
+#EXTINF:-1 tvg-chno="608" tvg-logo="https://static.wixstatic.com/media/27d2df_3855b68f65c541f1a3e6b3c89e80a07b~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-2.png",ESPN 2 Centro ²
 http://45.186.106.207:8000/play/a08x
 
 #EXTINF:-1 tvg-chno="610" tvg-logo="https://static.wixstatic.com/media/27d2df_924eed614eed44d3a36344f60a9fcde1~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-3.png",ESPN 3 Centro ²
@@ -1441,7 +1441,10 @@ http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmo
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=289323&extension=ts
 
 #EXTINF:-1 tvg-chno="683" tvg-logo="https://static.wixstatic.com/media/27d2df_e7790a6174964e8f971e92664372a4ad~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/WIN-SPORTS.png",Win Sports 🇨🇴
-http://tvmate.icu:8080/nCqH8t/631017/78717?extension=m3u8
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=30179&extension=ts
+
+#EXTINF:-1 tvg-chno="683" tvg-logo="https://static.wixstatic.com/media/27d2df_e7790a6174964e8f971e92664372a4ad~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/WIN-SPORTS.png",Win Sports + 🇨🇴
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=39957&extension=ts
 
 #EXTINF:-1 tvg-chno="684" tvg-logo="https://static.wixstatic.com/media/27d2df_b3af5440b55c4187a22603dec862fa45~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/M-DEPORTES.png",Movistar Deportes 🇵🇪 
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=3759&extension=ts
@@ -1495,7 +1498,7 @@ https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=194167&extension=ts
 
 #EXTINF:-1 tvg-chno="696" tvg-logo="https://stahttps://claroperupoc.vtexassets.com/arquivos/ids/1206316/adrenalina-sports-network.png",Adrenalina Sports Network 🇲🇽
-http://shacktv.com:8080/live/caravantes965/fernanado928/111067.m3u8
+http://fastream.xyz:8080/streaming/clients_live.php?username=72ge9hPFGZNs&password=cdQ8YVktcY5T&stream=59599&extension=ts
 
 #EXTINF:-1 tvg-chno="697" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_Meridiano_TV_Venezuela.png",Meridiano 🇻🇪
 http://todoplus.digital:80/live/5MUK2Fhqtq/wqq6nhKF4W/18469.m3u8
