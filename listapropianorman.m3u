@@ -1284,7 +1284,7 @@ http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmo
 #EXTINF:-1 tvg-chno="625" tvg-logo="https://static.wixstatic.com/media/27d2df_ee7829cdf05b4202baabb7203c80ae4c~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-DEPORTES.png",Fox Deportes Tubi (Latino) ¹ 🇺🇲
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
-#EXTINF:-1 tvg-chno="627" tvg-logo="https://image.roku.com/developer_channels/prod/f89955f4a64b7dc2fb4b3b0d9527aa659b28c8480b37802fed3c0ed58ae2e2cd.png",Caliente TV 🇲🇽 *
+#EXTINF:-1 tvg-chno="627" tvg-logo="https://image.roku.com/developer_channels/prod/f89955f4a64b7dc2fb4b3b0d9527aa659b28c8480b37802fed3c0ed58ae2e2cd.png",Caliente TV 🇲🇽
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=490318&extension=ts
 
 #EXTINF:-1 tvg-chno="630" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN 🇦🇷
@@ -1342,13 +1342,13 @@ http://190.60.34.46:9999/play/a0sz
 http://190.123.90.146:8000/play/a00f
 
 #EXTINF:-1 tvg-chno="650" tvg-logo="https://seeklogo.com/images/F/fox-sports-argentina-2023-logo-2874DA0937-seeklogo.com.png",Fox Sports Sur
-http://galaxypro.online:8080/streaming/clients_live.php?username=Guardi151023gro&password=ROROtv1Gg&stream=671754&extension=ts
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=163705&extension=ts
 
 #EXTINF:-1 tvg-chno="651" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-argentina-2023-logo-15FC12510F-seeklogo.com.png",Fox Sports 2 Sur
-http://galaxypro.online:8080/streaming/clients_live.php?username=Guardi151023gro&password=ROROtv1Gg&stream=671755&extension=ts
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=163703&extension=ts
 
 #EXTINF:-1 tvg-chno="652" tvg-logo="https://seeklogo.com/images/F/fox-sports-3-argentina-2023-logo-2A58AB321F-seeklogo.com.png",Fox Sports 3 Sur
-http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=3802&extension=ts
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=30245&extension=ts
 
 #EXTINF:-1 tvg-chno="654" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png",TUDN MX ² 🇲🇽
 http://181.78.106.127:9000/play/ca025
