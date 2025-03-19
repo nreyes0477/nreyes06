@@ -1360,7 +1360,7 @@ http://190.92.10.66:4000/play/a002
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=78280&extension=ts
 
 #EXTINF:-1 tvg-chno="657" tvg-logo="https://static.wixstatic.com/media/27d2df_893e94675e2f471fa8db741d5152a259~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/CLARO-SPORTS.png",Claro Sports MX 🇲🇽
-http://shacktv.com:8080/live/caravantes965/fernanado928/61054.m3u8
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=151348&extension=ts
 
 #EXTINF:-1 tvg-chno="658" tvg-logo="https://static.wixstatic.com/media/27d2df_893e94675e2f471fa8db741d5152a259~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/CLARO-SPORTS.png",Claro Sports 2 MX 🇲🇽
 http://shacktv.com:8080/live/caravantes965/fernanado928/111134.m3u8
