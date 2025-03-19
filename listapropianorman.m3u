@@ -1393,13 +1393,10 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13326&extension=ts
 
 #EXTINF:-1 tvg-chno="671" tvg-logo="https://www.lyngsat.com/logo/tv/ll/laliga-tv-bar-es.svg",La Liga TV Bar 🇪🇸
-http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=750191&extension=ts
+http://fastream.xyz:8080/streaming/clients_live.php?username=72ge9hPFGZNs&password=cdQ8YVktcY5T&stream=254286&extension=ts
 
-#EXTINF:-1 tvg-chno="672" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/1600px-LaLiga_TV_Por_M%2B_Logo.png",La Liga TV Movistar + (1) 🇪🇸
-http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=159027&extension=ts
-
-#EXTINF:-1 tvg-chno="672" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/1600px-LaLiga_TV_Por_M%2B_Logo.png",La Liga TV Movistar + (2) 🇪🇸
-http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=136649&extension=ts
+#EXTINF:-1 tvg-chno="672" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/1600px-LaLiga_TV_Por_M%2B_Logo.png",La Liga TV Movistar + 🇪🇸
+http://fastream.xyz:8080/streaming/clients_live.php?username=72ge9hPFGZNs&password=cdQ8YVktcY5T&stream=12354&extension=ts
 
 #EXTINF:-1 tvg-chno="673" tvg-logo="https://static.wixstatic.com/media/27d2df_a58e5f34fe0f432a8e7b46ccea038300~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/GOL-PLAY.png",Gol Play 🇪🇸
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=397987&extension=ts
@@ -1423,7 +1420,7 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=126837&extension=ts
 
 #EXTINF:-1 tvg-chno="679" tvg-logo="https://static.wixstatic.com/media/27d2df_304369b4987a4309ac7bfa2e88926465~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TYC-SPORTS.png",TyC Sports 🇦🇷
-http://shacktv.com:8080/live/caravantes965/fernanado928/45.m3u8
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=69033&extension=ts
 
 #EXTINF:-1 tvg-chno="679" tvg-logo="https://static.wixstatic.com/media/27d2df_304369b4987a4309ac7bfa2e88926465~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TYC-SPORTS.png",TyC Sports Internacional 🇦🇷
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=395373&extension=ts
