@@ -1453,7 +1453,7 @@ http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmo
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=3742&extension=ts
 
 #EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png",Tigo Sports Guatemala (1) ² 🇬🇹
-http://45.5.117.182:8000/play/ljt0/index.m3u8
+http://181.78.106.127:9000/play/ca038
 
 #EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png",Tigo Sports Guatemala (2) ¹ 🇬🇹
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
