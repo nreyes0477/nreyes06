@@ -1264,7 +1264,7 @@ http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmo
 http://190.92.10.66:4000/play/a003
 
 #EXTINF:-1 tvg-chno="618" tvg-logo="https://static.wixstatic.com/media/27d2df_524c1552967841858f7f7eaa72299e17~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-SPORTS.png",Fox Sports MX ² 🇲🇽
-http://190.61.117.35:8000/play/a05n
+http://181.78.106.127:9000/play/ca031
 
 #EXTINF:-1 tvg-chno="619" tvg-logo="https://static.wixstatic.com/media/27d2df_246284b7cb4b4ed9ad586ef862c7cf32~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-SPORTS-2.png",Fox Sports 2 MX ² 🇲🇽
 http://181.78.106.127:9000/play/ca032
