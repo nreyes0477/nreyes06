@@ -1243,10 +1243,10 @@ http://45.186.106.207:8000/play/a08x
 http://45.186.106.207:8000/play/a08y
 
 #EXTINF:-1 tvg-chno="611" tvg-logo="https://static.wixstatic.com/media/27d2df_995efad2b6c34c68a7f81275c00ad162~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-4.png",ESPN 4 Centro ²
-http://181.119.107.201:5054/play/a0b4
+http://45.186.106.207:8000/play/a08v
 
 #EXTINF:-1 tvg-chno="612" tvg-logo="https://static.wixstatic.com/media/27d2df_fdc7de25263246f09a2975eac638f0a8~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-5.png",ESPN 5 Centro ²
-http://181.119.107.201:5054/play/a0cx
+http://45.186.106.207:8000/play/a08q
 
 #EXTINF:-1 tvg-chno="613" tvg-logo="https://static.wixstatic.com/media/27d2df_7b0572454923490f87cd649cbb5a39ac~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-6.png",ESPN 6 Centro ²
 http://45.186.106.207:8000/play/a08z
