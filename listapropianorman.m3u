@@ -514,10 +514,10 @@ http://todoplus.digital:80/live/5MUK2Fhqtq/wqq6nhKF4W/2133.m3u8
 https://5fe2654d6127d.streamlock.net:443/boliviatv/videoboliviatv/chunklist_w985377986.m3u8
 
 #EXTINF:-1 tvg-chno="230" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png",Chilevisión 🇨🇱
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=30520&extension=ts
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=42439&extension=ts
 
 #EXTINF:-1 tvg-chno="231" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png",TVN 🇨🇱
-http://kstv.us:8080/streaming/clients_live.php?username=2qt65aetuZ&password=0527822179&stream=46832&extension=ts
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=30302&extension=ts
 
 #EXTINF:-1 tvg-chno="232" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png",Canal 13 🇨🇱
 http://galaxypro.online:8080/streaming/clients_live.php?username=Guardi151023gro&password=ROROtv1Gg&stream=99695&extension=ts
@@ -541,7 +541,7 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=73662&extension=ts
 
 #EXTINF:-1 tvg-chno="239" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png",Caracol 🇨🇴
-http://kstv.us:8080/streaming/clients_live.php?username=2qt65aetuZ&password=0527822179&stream=46777&extension=ts
+http://kstv.us:8080/streaming/clients_live.php?username=2qt65aetuZ&password=0527822179&stream=46774&extension=ts
 
 #EXTINF:-1 tvg-chno="240" tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg",RCN 🇨🇴
 http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=31359&extension=ts
@@ -756,8 +756,8 @@ http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmo
 #EXTINF:-1 tvg-chno="320" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas Latino -1hr 🇲🇽
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=334745&extension=ts
 
-#EXTINF:-1 tvg-chno="321" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/724px-Canal_5_2016.svg.png",Canal 5 ² 🇲🇽
-http://181.78.105.146:2000/play/a038
+#EXTINF:-1 tvg-chno="321" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/724px-Canal_5_2016.svg.png",Canal 5 🇲🇽
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13122&extension=ts
 
 #EXTINF:-1 tvg-chno="322" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/10/Multimedios-TV-Canal-6-en-vivo-Online.png?resize=1068%2C601&ssl=1",Multimedios Canal 6 ¹ 🇲🇽
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
@@ -1353,8 +1353,8 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 #EXTINF:-1 tvg-chno="654" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png",TUDN MX ² 🇲🇽
 http://181.78.106.127:9000/play/ca025
 
-#EXTINF:-1 tvg-chno="655" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png",TUDN USA ² 🇺🇸
-http://190.92.10.66:4000/play/a002
+#EXTINF:-1 tvg-chno="655" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png",TUDN USA 🇺🇸
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=67806&extension=ts
 
 #EXTINF:-1 tvg-chno="656" tvg-logo="https://iili.io/J2wureR.png",Zona TUDN USA 🇺🇸
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=78280&extension=ts
