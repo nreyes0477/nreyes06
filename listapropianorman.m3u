@@ -444,8 +444,8 @@ https://telefegoogle1.akamaized.net:443/hls/live/2037988/googleADI/TOK/master-da
 #EXTINF:-1 tvg-chno="204" tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2023/02/Mi-8-alta-06.png",13Max TV (Telefe) ¹ 🇦🇷
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w591180067.m3u8
 
-#EXTINF:-1 tvg-chno="206" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png",Telefe Internacional 🇦🇷
-http://daleplay.vip:8080/live/3848Yevkerkkk/Menrhrh73646aeatT/394316.m3u8
+#EXTINF:-1 tvg-chno="206" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png",Telefe Internacional ² 🇦🇷
+http://138.84.49.213:18000/play/a02t
 
 #EXTINF:-1 tvg-chno="207" tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg",El Nueve 🇦🇷
 http://galaxypro.online:8080/streaming/clients_live.php?username=Guardi151023gro&password=ROROtv1Gg&stream=374595&extension=ts
@@ -1218,8 +1218,8 @@ http://190.111.16.106:40000/play/a06q
 #EXTINF:-1 tvg-chno="602" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR ²
 http://38.159.227.124:8000/play/a02n
 
-#EXTINF:-1 tvg-chno="603" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR 
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=174356&extension=ts
+#EXTINF:-1 tvg-chno="603" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR ²
+http://45.228.233.254:18000/play/a03x
 
 #EXTINF:-1 tvg-chno="605" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD +
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13284&extension=ts
