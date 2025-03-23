@@ -967,7 +967,7 @@ http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&pas
 http://181.78.105.146:8800/play/a04o
 
 #EXTINF:-1 tvg-chno="418" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13177&extension=ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13229&extension=ts
 
 #EXTINF:-1 tvg-chno="420" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/370px-TLC_Logo.svg.png",TLC
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=335479&extension=ts
@@ -1030,7 +1030,7 @@ http://181.78.105.146:8800/play/a04r
 http://181.78.105.146:8800/play/a04s
 
 #EXTINF:-1 tvg-chno="502" tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png",AXN
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13102&extension=ts
+http://go.iptvhn.net:25461/live/7682/7682/13102.m3u8
 
 #EXTINF:-1 tvg-chno="505" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png",Cinecanal
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13127&extension=ts
@@ -1048,13 +1048,13 @@ http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=768
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=76874&extension=ts
 
 #EXTINF:-1 tvg-chno="514" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden-premier.png",Golden Premier
-http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=76873&extension=ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13212&extension=ts
 
 #EXTINF:-1 tvg-chno="517" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png",Paramount ²
 http://181.78.105.146:8800/play/a058
 
 #EXTINF:-1 tvg-chno="518" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox_m.png",Star Channel
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13271&extension=ts
+http://go.iptvhn.net:25461/live/7682/7682/13271.m3u8
 
 #EXTINF:-1 tvg-chno="519" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SonyMovies.png",Cine Sony ²
 http://181.78.105.146:8800/play/a04w
@@ -1074,8 +1074,8 @@ http://181.78.105.146:8800/play/a04m
 #EXTINF:-1 tvg-chno="524" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tnt_m.png",TNT ²
 http://181.78.105.146:8800/play/a060
 
-#EXTINF:-1 tvg-chno="525" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png",TNT Series ²
-http://181.78.105.146:8800/play/a059
+#EXTINF:-1 tvg-chno="525" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png",TNT Series
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13292&extension=ts
 
 #EXTINF:-1 tvg-chno="526" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner_m.png",Warner Channel
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13321&extension=ts
