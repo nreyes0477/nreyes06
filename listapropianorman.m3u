@@ -808,7 +808,7 @@ http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&pas
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=31111&extension=ts
 
 #EXTINF:-1 tvg-chno="338" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png",Tv Max 🇵🇦
-http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=381824&extension=ts
+http://nxt.plus:8080/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=213140&extension=ts
 
 #EXTINF:-1 tvg-chno="341" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png",TVN 🇵🇦
 http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=100089&extension=ts
