@@ -1152,35 +1152,29 @@ http://201.230.110.204:8000/play/a0c0/index.m3u8
 #EXTINF:-1 tvg-chno="560" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme Norte ²
 http://clubtv.link/25marzo/phpcode/lista4.php?c=a019&token=TecnotvGeneradorPlaylist&f=.m3u8
 
-#EXTINF:-1 tvg-chno="561" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO Sur ²
-http://190.14.242.93:8088/play/a01j
+#EXTINF:-1 tvg-chno="561" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO Sur
+http://stklatino.dynns.com:2082/streaming/clients_live.php?username=juanzamora549&password=549292&stream=2676&extension=ts
 
-#EXTINF:-1 tvg-chno="562" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",HBO 2 Sur ²
+#EXTINF:-1 tvg-chno="562" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",HBO 2 Sur
+http://stklatino.dynns.com:2082/streaming/clients_live.php?username=juanzamora549&password=549292&stream=2643&extension=ts
 
+#EXTINF:-1 tvg-chno="563" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",HBO Family Sur
+http://stklatino.dynns.com:2082/streaming/clients_live.php?username=juanzamora549&password=549292&stream=6509&extension=ts
 
-#EXTINF:-1 tvg-chno="563" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",HBO Family Sur ²
-http://190.14.242.93:8088/play/a022
+#EXTINF:-1 tvg-chno="564" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO Plus Sur
+http://stklatino.dynns.com:2082/streaming/clients_live.php?username=juanzamora549&password=549292&stream=2645&extension=ts
 
-#EXTINF:-1 tvg-chno="564" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO Plus Sur ²
-http://190.14.242.93:8088/play/a029
+#EXTINF:-1 tvg-chno="565" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png",HBO Pop Sur
+http://stklatino.dynns.com:2082/streaming/clients_live.php?username=juanzamora549&password=549292&stream=30416&extension=ts
 
-#EXTINF:-1 tvg-chno="565" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png",HBO Pop Sur ²
-http://190.14.242.93:8088/play/a055
+#EXTINF:-1 tvg-chno="566" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png",HBO Signature Sur
+http://stklatino.dynns.com:2082/streaming/clients_live.php?username=juanzamora549&password=549292&stream=2646&extension=ts
 
-#EXTINF:-1 tvg-chno="566" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png",HBO Signature
+#EXTINF:-1 tvg-chno="567" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme Sur
+http://stklatino.dynns.com:2082/streaming/clients_live.php?username=juanzamora549&password=549292&stream=2695&extension=ts
 
-
-#EXTINF:-1 tvg-chno="567" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme Sur ²
-
-
-#EXTINF:-1 tvg-chno="568" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png",HBO Mundi
-
-
-#EXTINF:-1 tvg-chno="570" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO ⁽ᵗˢ⁾
-http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=36378&extension=ts
-
-#EXTINF:-1 tvg-chno="571" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",HBO 2
-
+#EXTINF:-1 tvg-chno="568" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png",HBO Mundi Sur
+http://stklatino.dynns.com:2082/streaming/clients_live.php?username=juanzamora549&password=549292&stream=30415&extension=ts
 
 #EXTINF:-1 tvg-chno="576" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO
 http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/30979.ts
