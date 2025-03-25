@@ -655,7 +655,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv:80/stitch/hls/channel
 https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
 
 #EXTINF:-1 tvg-chno="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión MI ² 🇺🇸
-http://190.92.10.66:4000/play/a005
+http://clubtv.link/ma2103/phpcode/lista4.php?c=a05d&token=TecnotvGeneradorPlaylist&f=.m3u8
 
 #EXTINF:-1 tvg-chno="282" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión LA 🇺🇸
 http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=33801&extension=ts
@@ -697,7 +697,7 @@ http://smarterstv99.dyndns.tv:25461/live/Miguelmoreno/jg8AwXkZL2yE/137734.m3u8
 http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=443506&extension=ts
 
 #EXTINF:-1 tvg-chno="299" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/telemundo.jpg",Telemundo Internacional ² 🇺🇸
-http://190.61.42.218:9000/play/a01l
+http://clubtv.link/ma2103/phpcode/lista4.php?c=a04t&token=TecnotvGeneradorPlaylist&f=.m3u8
 
 #EXTINF:-1 tvg-chno="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_5_HN_logo.png/180px-Canal_5_HN_logo.png",Canal 5 🇭🇳
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=3725&extension=ts
@@ -1216,19 +1216,19 @@ http://190.92.10.66:4000/play/a00c
 http://clubtv.link/ma2103/phpcode/lista4.php?c=a052&token=TecnotvGeneradorPlaylist&f=.m3u8
 
 #EXTINF:-1 tvg-chno="602" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR ²
-http://38.159.227.124:8000/play/a02n
-
-#EXTINF:-1 tvg-chno="603" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR ²
 http://45.228.233.254:18000/play/a03x
 
-#EXTINF:-1 tvg-chno="605" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD +
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=60695&extension=ts
+#EXTINF:-1 tvg-chno="603" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR ²
+http://38.159.227.124:8000/play/a02n
+
+#EXTINF:-1 tvg-chno="605" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD + ²
+http://clubtv.link/ma2103/phpcode/lista4.php?c=a00p&token=TecnotvGeneradorPlaylist&f=.m3u8
 
 #EXTINF:-1 tvg-chno="604" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD + ²
 http://45.186.106.207:8000/play/a06r
 
-#EXTINF:-1 tvg-chno="605" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=177770&extension=ts
+#EXTINF:-1 tvg-chno="605" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 ²
+http://clubtv.link/ma2103/phpcode/lista4.php?c=a00q&token=TecnotvGeneradorPlaylist&f=.m3u8
 
 #EXTINF:-1 tvg-chno="606" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 ²
 http://38.159.227.124:8000/play/a09i
