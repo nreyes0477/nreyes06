@@ -1134,23 +1134,23 @@ https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670
 #EXTINF:-1 tvg-chno="552" tvg-logo="https://imageshttps://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg",Rakuten Viki ¹
 https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="555" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO Norte
-http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/109.ts
+#EXTINF:-1 tvg-chno="555" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO Norte ²
+http://clubtv.link/ma2103/phpcode/lista4.php?c=a015&token=TecnotvGeneradorPlaylist&f=.m3u8
 
-#EXTINF:-1 tvg-chno="556" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",HBO 2 Norte
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13221&extension=ts
+#EXTINF:-1 tvg-chno="556" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",HBO 2 Norte ²
+http://clubtv.link/ma2103/phpcode/lista4.php?c=a016&token=TecnotvGeneradorPlaylist&f=.m3u8
 
-#EXTINF:-1 tvg-chno="557" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",HBO Family Norte
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13217&extension=ts
+#EXTINF:-1 tvg-chno="557" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",HBO Family Norte ²
+http://clubtv.link/ma2103/phpcode/lista4.php?c=a018&token=TecnotvGeneradorPlaylist&f=.m3u8
 
-#EXTINF:-1 tvg-chno="558" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO Plus Norte
-http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/30969.ts
+#EXTINF:-1 tvg-chno="558" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO Plus Norte ²
+http://clubtv.link/ma2103/phpcode/lista4.php?c=a017&token=TecnotvGeneradorPlaylist&f=.m3u8
 
 #EXTINF:-1 tvg-chno="559" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png",HBO Pop Norte ²
 http://201.230.110.204:8000/play/a0c0/index.m3u8
 
-#EXTINF:-1 tvg-chno="560" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme Norte
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13220&extension=ts
+#EXTINF:-1 tvg-chno="560" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme Norte ²
+http://clubtv.link/ma2103/phpcode/lista4.php?c=a019&token=TecnotvGeneradorPlaylist&f=.m3u8
 
 #EXTINF:-1 tvg-chno="561" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO Sur ²
 http://190.14.242.93:8088/play/a01j
@@ -1381,7 +1381,7 @@ http://fastream.xyz:8080/streaming/clients_live.php?username=72ge9hPFGZNs&passwo
 http://190.92.10.66:4000/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-chno="666" tvg-logo="https://static.wixstatic.com/media/27d2df_8560e12d0965432f912670021b8da9bc~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/SKY-SPORTS.png",Sky Sports La Liga ² 🇺🇸
-http://181.78.105.146:8800/play/a07h
+http://clubtv.link/ma2103/phpcode/lista4.php?c=a07h&token=TecnotvGeneradorPlaylist&f=.m3u8
 
 #EXTINF:-1 tvg-chno="668" tvg-logo="https://static.wixstatic.com/media/27d2df_a2dd2c74ec5a4092ab9be022ee52ea8e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-LA-LIGA.png",Dazn La Liga 🇪🇦
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=126783&extension=ts
