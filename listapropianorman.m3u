@@ -1176,12 +1176,6 @@ http://stklatino.dynns.com:2082/streaming/clients_live.php?username=juanzamora54
 #EXTINF:-1 tvg-chno="568" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png",HBO Mundi Sur
 http://stklatino.dynns.com:2082/streaming/clients_live.php?username=juanzamora549&password=549292&stream=30415&extension=ts
 
-#EXTINF:-1 tvg-chno="576" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO
-http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/30979.ts
-
-#EXTINF:-1 tvg-chno="577" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",HBO 2
-http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/5514.ts
-
 #EXTINF:-1 tvg-chno="593" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png",Universal Channel
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=473774&extension=ts
 
