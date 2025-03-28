@@ -829,16 +829,16 @@ https://stream.paraguaytv.gov.py/memfs/400fcc83-8f04-4497-8011-150847d44702.m3u8
 http://dnslivetv.online:80/streaming/clients_live.php?username=Victor1234&password=Victor1234&stream=1070410&extension=ts
 
 #EXTINF:-1 tvg-chno="352" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg",Telefuturo 🇵🇾
-http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=124560&extension=ts
+http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=68486&extension=ts
 
 #EXTINF:-1 tvg-chno="353" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/240px-Logotrececanal.png",Canal Trece ¹ 🇵🇾
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8?k=7bbcd2c29036c5780ea487ec3c5331e9f9b59d1fb301321e7d5c8805d61e8c5c&exp=1718519821
 
 #EXTINF:-1 tvg-chno="354" tvg-logo="https://grupovierci.brightspotcdn.com/dims4/default/0ba2b73/2147483647/strip/true/crop/1665x1152+0+0/resize/800x554!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F62%2F0d%2F757573ac4c0bba7301c7a61a424d%2Flogo-latele.png",La Tele 🇵🇾
-http://kstv.us:8080/streaming/clients_live.php?username=2qt65aetuZ&password=0527822179&stream=47001&extension=ts
+https://rds3tf.desdeparaguay.net/latele/latele_int_baja/playlist.m3u8?k=d3ef6bb554857c8ed0f360881e41812fefcbb8128872cde6fae197ea978df20c&exp=1743122985
 
-#EXTINF:-1 tvg-chno="355" tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png",Unicanal ¹ 🇵🇾 
-https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8?k=544b93c4a9fe4f3fc5c2a90081d5b5b10c08317b9e4f424c831d0a12a1fc5b57&exp=1740203560
+#EXTINF:-1 tvg-chno="355" tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png",Unicanal 🇵🇾 
+http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=100093&extension=ts
 
 #EXTINF:-1 tvg-chno="360" tvg-logo="https://gzcsecurity.com/img/nosotros/seguridad/americatv-min.jpg",América TV ² 🇵🇪
 http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=10776&extension=ts
