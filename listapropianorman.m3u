@@ -445,7 +445,7 @@ https://telefegoogle1.akamaized.net:443/hls/live/2037988/googleADI/TOK/master-da
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w591180067.m3u8
 
 #EXTINF:-1 tvg-chno="206" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png",Telefe Internacional 🇦🇷
-http://tvlat2020.com:8080/streaming/clients_live.php?username=XTmpZa9qk&password=bnHVGeqX7RME&stream=22735&extension=ts
+http://tvlat2020.com:8080/streaming/clients_live.php?username=XTmpZa9qk&password=bnHVGeqX7RME&stream=327&extension=ts
 
 #EXTINF:-1 tvg-chno="207" tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg",El Nueve 🇦🇷
 http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=342083&extension=ts
@@ -957,7 +957,7 @@ http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&pas
 #EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png",Animal Planet ²
 http://181.78.105.146:8800/play/a04o
 
-#EXTINF:-1 tvg-chno="418" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health (Latino)
+#EXTINF:-1 tvg-chno="418" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=38333&extension=ts
 
 #EXTINF:-1 tvg-chno="420" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/370px-TLC_Logo.svg.png",TLC
