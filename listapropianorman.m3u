@@ -43,7 +43,7 @@ http://tvn.obix.tv:1935/TVN/CH14.stream_720p/chunklist_w1881922243.m3u8
 https://k20.usastreams.com:8081/telered/index.m3u8
 
 #EXTINF:-1 tvg-chno="21" tvg-logo="https://image.roku.com/developer_channels/prod/0059b385c4fae2dcd6cbacc1a47c1418b2b3c82cd431a05a2aa34b3eae8ac5ed.png",Telesistema ¹
-https://glb.bozztv.com/glb/ssh101/telesistemacrtv/index.m3u8
+https://k20.usastreams.com:8081/telesistema/index.m3u8
 
 #EXTINF:-1 tvg-chno="22" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica-en-vivo-Online.png?resize=1068%2C601&ssl=1",Teleuno ¹
 https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/playlist.m3u8
