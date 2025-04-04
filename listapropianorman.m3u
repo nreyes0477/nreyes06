@@ -76,7 +76,7 @@ https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 https://rtmp.info/tvsantacruz/envivo/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="32" tvg-logo="https://cartagomedios.com/wp-content/uploads/2023/08/cropped-logoguarcoradio-e1693664043592.jpg",Cartago Medios TV ¹
-https://ssh101-fl.bozztv.com/ssh101/tvcdstreaming/tracks-v1a1/mono.m3u8
+https://acceso.radiosportstv.online:3368/live/cartagomediostvlive.m3u8
 
 #EXTINF:-1 tvg-chno="33" tvg-logo="https://www.nicoyatv.com/images/Logos/Coope%20Logo%203.png",Nicoya TV ¹
 https://59ef525c24caa.streamlock.net:443/nicoyatv/nicoyatv/chunklist_w221500905.m3u8
