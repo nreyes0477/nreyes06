@@ -1125,23 +1125,26 @@ https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670
 #EXTINF:-1 tvg-chno="552" tvg-logo="https://imageshttps://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg",Rakuten Viki ¹
 https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="555" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO Norte ²
-http://clubtv.link/ab0804/phpcode/lista4.php?c=a015&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 tvg-chno="554" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO Norte ²
+http://45.186.106.207:8000/play/a07m
 
-#EXTINF:-1 tvg-chno="556" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",HBO 2 Norte ²
-http://clubtv.link/ab0804/phpcode/lista4.php?c=a016&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 tvg-chno="555" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",HBO 2 Norte ²
+http://45.186.106.207:8000/play/a07n
 
-#EXTINF:-1 tvg-chno="557" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",HBO Family Norte ²
-http://clubtv.link/ab0804/phpcode/lista4.php?c=a018&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 tvg-chno="556" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",HBO Family Norte ²
+http://45.186.106.207:8000/play/a07p
 
-#EXTINF:-1 tvg-chno="558" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO Plus Norte ²
-http://clubtv.link/ab0804/phpcode/lista4.php?c=a017&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 tvg-chno="557" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO Plus Norte ²
+http://45.186.106.207:8000/play/a07o
 
-#EXTINF:-1 tvg-chno="559" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png",HBO Pop Norte ²
-http://201.230.110.204:8000/play/a0c0/index.m3u8
+#EXTINF:-1 tvg-chno="558" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png",HBO Pop Norte ²
+http://38.41.8.1:8000/play/a0rq
+
+#EXTINF:-1 tvg-chno="559" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png",HBO Signature Norte
+http://shacktv.com:8080/live/tney5830/7086745830/120618.ts
 
 #EXTINF:-1 tvg-chno="560" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme Norte ²
-http://clubtv.link/ab0804/phpcode/lista4.php?c=a019&token=TecnotvGeneradorPlaylist&f=.m3u8
+http://45.186.106.207:8000/play/a07q
 
 #EXTINF:-1 tvg-chno="561" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO Sur
 http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=207834&extension=ts
