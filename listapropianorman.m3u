@@ -432,19 +432,19 @@ http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmo
 #EXTINF:-1 tvg-chno="210" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png",TN Noticias • 🇦🇷
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=29936&extension=ts
 
-#EXTINF:-1 tvg-chno="211" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/588px-Canal_26_logo_%282022%29.svg.png",Canal 26 🇦🇷 
+#EXTINF:-1 tvg-chno="211" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/588px-Canal_26_logo_%282022%29.svg.png",Canal 26 • 🇦🇷 
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147248&extension=ts
 
-#EXTINF:-1 tvg-chno="212" tvg-logo="https://assets.iproup.com/assets/jpg/2021/04/17689.jpg",Crónica TV 🇦🇷
+#EXTINF:-1 tvg-chno="212" tvg-logo="https://assets.iproup.com/assets/jpg/2021/04/17689.jpg",Crónica TV • 🇦🇷
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=163694&extension=ts
 
-#EXTINF:-1 tvg-chno="213" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/C5N_%282017%29.png/606px-C5N_%282017 %29.png",C5N 🇦🇷
+#EXTINF:-1 tvg-chno="213" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/C5N_%282017%29.png/606px-C5N_%282017 %29.png",C5N • 🇦🇷
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=128753&extension=ts
 
-#EXTINF:-1 tvg-chno="214" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",A24 🇦🇷
+#EXTINF:-1 tvg-chno="214" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",A24 • 🇦🇷
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=163683&extension=ts
 
-#EXTINF:-1 tvg-chno="215" tvg-logo="https://dossiernet.com/_next/image?url=https%3A%2F%2Fdmdqet87i5rod.cloudfront.net%2Festoesmedia%2F609bcd5342359_lnmas.jpg&w=1080&q=75",La Nación + 🇦🇷
+#EXTINF:-1 tvg-chno="215" tvg-logo="https://dossiernet.com/_next/image?url=https%3A%2F%2Fdmdqet87i5rod.cloudfront.net%2Festoesmedia%2F609bcd5342359_lnmas.jpg&w=1080&q=75",La Nación + • 🇦🇷
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=163706&extension=ts
 
 #EXTINF:-1 tvg-chno="216" tvg-logo="https://media.canalnet.tv/2018/11/logo-notificaciones-150x150.png",Net TV ¹ 🇦🇷
@@ -453,10 +453,10 @@ https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="217" tvg-logo="https://tavilatam.com/wp-content/uploads/2024/02/TAVI_Caras-TV.png",Caras TV ¹ 🇦🇷
 https://unlimited1-buenosaires.dps.live/carastv/carastv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="218" tvg-logo="https://i.imgur.com/p9aaBKg.png",Cinco TV ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="218" tvg-logo="https://i.imgur.com/p9aaBKg.png",Cinco TV ¹ • 🇦🇷
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
-#EXTINF:-1 tvg-chno="219" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-5-TV-Corrientes-en-vivo-Online.png",5tv ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="219" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-5-TV-Corrientes-en-vivo-Online.png",5tv ¹ • 🇦🇷
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="220" tvg-logo="https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-BLANCA-300x99.png",Multivisión 🇦🇷
@@ -626,12 +626,6 @@ http://clubtv.link/ab0804/phpcode/lista4.php?c=a05d&token=TecnotvGeneradorPlayli
 
 #EXTINF:-1 tvg-chno="282" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión LA 🇺🇸
 http://visualservice.xyz:8080/streaming/clients_live.php?username=HUGO_1_Y_2&password=Q9*mYCB&stream=33801&extension=ts
-
-#EXTINF:-1 tvg-chno="283" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión SC 🇺🇸
-
-
-#EXTINF:-1 tvg-chno="284" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión SF 🇺🇸
-
 
 #EXTINF:-1 tvg-chno="285" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo MI 🇺🇸
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=395378&extension=ts
