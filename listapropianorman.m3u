@@ -957,8 +957,8 @@ http://201.182.248.254:8888/play/a0br/index.m3u8
 #EXTINF:-1 tvg-chno="432" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/350px-DistritoComediaLOGO2018.png",Distrito Comedia
 http://latino777.xyz:8080/live/Alex1592/Alex882d1/68158.m3u8?Android_vs.ts
 
-#EXTINF:-1 tvg-chno="433" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sun_channel-mediano.png",Sun Channel
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=133084&extension=ts
+#EXTINF:-1 tvg-chno="433" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sun_channel-mediano.png",Sun Channel ²
+http://38.159.227.124:8000/play/a07m
 
 #EXTINF:-1 tvg-chno="434" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-gourmet_m.png",El Gourmet
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=335478&extension=ts
