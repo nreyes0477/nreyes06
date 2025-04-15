@@ -1174,7 +1174,7 @@ http://181.78.105.146:8800/play/a069
 http://190.92.10.66:4000/play/a00c
 
 #EXTINF:-1 tvg-chno="601" tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg",Futv ²
-http://clubtv.link/ab0804/phpcode/lista4.php?c=a052&token=TecnotvGeneradorPlaylist&f=.m3u8
+http://45.186.106.207:8000/play/a06x
 
 #EXTINF:-1 tvg-chno="602" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR ²
 http://45.228.233.254:18000/play/a03x
@@ -1182,17 +1182,18 @@ http://45.228.233.254:18000/play/a03x
 #EXTINF:-1 tvg-chno="603" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR ²
 http://38.159.227.124:8000/play/a02n
 
-#EXTINF:-1 tvg-chno="605" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD + ²
-http://clubtv.link/ab0804/phpcode/lista4.php?c=a00p&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 tvg-chno="605" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD +
+http://latino777.xyz:8080/live/Alex1592/Alex882d1/90603.m3u8?Android_vs.ts
 
 #EXTINF:-1 tvg-chno="604" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD + ²
 http://45.186.106.207:8000/play/a06r
 
-#EXTINF:-1 tvg-chno="605" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 ²
-http://clubtv.link/ab0804/phpcode/lista4.php?c=a00q&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 tvg-chno="605" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2
+http://latino777.xyz:8080/live/Alex1592/Alex882d1/90602.m3u8?Android_vs.ts
+http://45.186.106.207:8000/play/a06s
 
 #EXTINF:-1 tvg-chno="606" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 ²
-http://38.159.227.124:8000/play/a09i
+http://45.186.106.207:8000/play/a06s
 
 #EXTINF:-1 tvg-chno="607" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN Centro ²
 http://45.186.106.207:8000/play/a08w
