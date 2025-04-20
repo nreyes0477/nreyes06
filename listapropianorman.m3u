@@ -978,14 +978,14 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 #EXTINF:-1 tvg-chno="440" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Clic_%28TV_channel%29_logo_2021.png",Clic!
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=151358&extension=ts
 
-#EXTINF:-1 tvg-chno="500" tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png",A&E ²
-http://181.78.105.146:8800/play/a04r
+#EXTINF:-1 tvg-chno="500" tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png",A&E
+http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=601&extension=ts
 
-#EXTINF:-1 tvg-chno="501" tvg-logo="https://cdn.mitvstatic.com/channels/cl_amc_m.png",AMC ²
-http://181.78.105.146:8800/play/a04s
+#EXTINF:-1 tvg-chno="501" tvg-logo="https://cdn.mitvstatic.com/channels/cl_amc_m.png",AMC
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=45864&extension=ts
 
 #EXTINF:-1 tvg-chno="502" tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png",AXN
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=133853&extension=ts
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=207749&extension=ts
 
 #EXTINF:-1 tvg-chno="505" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png",Cinecanal
 http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=207753&extension=ts
@@ -1008,17 +1008,17 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 #EXTINF:-1 tvg-chno="515" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png",Lifetime
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=473790&extension=ts
 
-#EXTINF:-1 tvg-chno="517" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png",Paramount ²
-http://181.78.105.146:8800/play/a058
+#EXTINF:-1 tvg-chno="517" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png",Paramount
+http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=207781&extension=ts
 
 #EXTINF:-1 tvg-chno="518" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox_m.png",Star Channel
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=133842&extension=ts
 
 #EXTINF:-1 tvg-chno="519" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SonyMovies.png",Cine Sony ²
-http://181.78.105.146:8800/play/a04w
+http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=207754&extension=ts
 
 #EXTINF:-1 tvg-chno="520" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png",Sony
-http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=28499&extension=ts
+http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=133847&extension=ts
 
 #EXTINF:-1 tvg-chno="521" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png",USA Network ²
 http://200.60.124.20:29000/play/a0a5/index.m3u8
@@ -1026,11 +1026,11 @@ http://200.60.124.20:29000/play/a0a5/index.m3u8
 #EXTINF:-1 tvg-chno="522" tvg-logo="https://cdn.mitvstatic.com/channels/mx_space_m.png",Space
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=62801&extension=ts
 
-#EXTINF:-1 tvg-chno="523" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png",Studio Universal ²
-http://181.78.105.146:8800/play/a04m
+#EXTINF:-1 tvg-chno="523" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png",Studio Universal
+http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=210697&extension=ts
 
-#EXTINF:-1 tvg-chno="524" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tnt_m.png",TNT ²
-http://181.78.105.146:8800/play/a060
+#EXTINF:-1 tvg-chno="524" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tnt_m.png",TNT
+http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=210698&extension=ts
 
 #EXTINF:-1 tvg-chno="525" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png",TNT Series
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=133860&extension=ts
@@ -1038,14 +1038,17 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 #EXTINF:-1 tvg-chno="526" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner_m.png",Warner Channel
 http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=210701&extension=ts
 
-#EXTINF:-1 tvg-chno="527" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png",FX ²
-http://181.78.105.146:8800/play/a04u
+#EXTINF:-1 tvg-chno="527" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png",FX 
+http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=207756&extension=ts
 
-#EXTINF:-1 tvg-chno="530" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png",DHE ²
-http://181.78.105.146:8800/play/a04x
+#EXTINF:-1 tvg-chno="530" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png",DHE
+http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=77160&extension=ts
 
 #EXTINF:-1 tvg-chno="531" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png",DreamWorks
-http://visualservice.xyz:8080/live/HUGO_1_Y_2/Q9*mYCB/396233.ts
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=151352&extension=ts
+
+#EXTINF:-1 tvg-chno="531" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png",One TV
+http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=532072&extension=ts
 
 #EXTINF:-1 tvg-chno="535" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/640px-Starz_2008.png",Starz
 http://kstv.us:8080/streaming/clients_live.php?username=2qt65aetuZ&password=0527822179&stream=46667&extension=ts
