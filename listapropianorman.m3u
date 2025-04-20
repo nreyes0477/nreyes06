@@ -949,7 +949,7 @@ http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=
 http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=210656&extension=ts
 
 #EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png",Animal Planet
-http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=28560extension=ts
+http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=28560&extension=ts
 
 #EXTINF:-1 tvg-chno="418" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=38333&extension=ts
