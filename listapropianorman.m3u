@@ -945,8 +945,11 @@ http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmo
 #EXTINF:-1 tvg-chno="411" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo ²
 http://45.186.106.207:8000/play/a072
 
+#EXTINF:-1 tvg-chno="412" tvg-logo="https://disneyventas.com/wp-content/uploads/2020/05/portafolio-3-1.png",Nat Geo Mundo
+http://nxt.plus:8080/streaming/clients_live.php?username=olmos&password=1234guz&stream=58674&extension=ts
+
 #EXTINF:-1 tvg-chno="414" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/500px-National_Geographic_Wild_logo.svg.png",Nat Geo Wild
-http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=210656&extension=ts
+http://nxt.plus:8080/streaming/clients_live.php?username=olmos&password=1234guz&stream=167088&extension=ts
 
 #EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png",Animal Planet ²
 http://45.186.106.207:8000/play/a07u
