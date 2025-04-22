@@ -1008,8 +1008,8 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 #EXTINF:-1 tvg-chno="440" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Clic_%28TV_channel%29_logo_2021.png",Clic!
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=151358&extension=ts
 
-#EXTINF:-1 tvg-chno="500" tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png",A&E
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=151316&extension=ts
+#EXTINF:-1 tvg-chno="500" tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png",A&E ²
+http://45.186.106.207:8000/play/a07x
 
 #EXTINF:-1 tvg-chno="501" tvg-logo="https://cdn.mitvstatic.com/channels/cl_amc_m.png",AMC
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=45874&extension=ts
