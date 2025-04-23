@@ -1155,26 +1155,26 @@ http://45.186.106.207:8000/play/a07q
 #EXTINF:-1 tvg-chno="579" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO Sur ²
 http://190.102.246.93:9005/play/a01a
 
-#EXTINF:-1 tvg-chno="584" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",HBO 2 Sur
-http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=207762&extension=ts
+#EXTINF:-1 tvg-chno="584" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",HBO 2 Sur ²
+http://181.78.201.70:8000/play/a0ip
 
-#EXTINF:-1 tvg-chno="585" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",HBO Family Sur
-http://stklatino.dynns.com:2082/streaming/clients_live.php?username=juanzamora549&password=549292&stream=6509&extension=ts
+#EXTINF:-1 tvg-chno="585" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",HBO Family Sur ²
+http://190.102.246.93:9005/play/a01g
 
 #EXTINF:-1 tvg-chno="586" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO Plus Sur
-http://stklatino.dynns.com:2082/streaming/clients_live.php?username=juanzamora549&password=549292&stream=2645&extension=ts
+http://nxt.plus:8080/streaming/clients_live.php?username=olmos&password=1234guz&stream=16900&extension=ts
 
 #EXTINF:-1 tvg-chno="587" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png",HBO Pop Sur
-http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=207765&extension=ts
+http://nxt.plus:8080/streaming/clients_live.php?username=olmos&password=1234guz&stream=16902&extension=ts
 
 #EXTINF:-1 tvg-chno="588" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png",HBO Signature Sur
-http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=635&extension=ts
+http://nxt.plus:8080/streaming/clients_live.php?username=olmos&password=1234guz&stream=16898&extension=ts
 
-#EXTINF:-1 tvg-chno="589" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme Sur
-http://stklatino.dynns.com:2082/streaming/clients_live.php?username=juanzamora549&password=549292&stream=2695&extension=ts
+#EXTINF:-1 tvg-chno="589" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme Sur ²
+http://190.102.246.93:9005/play/a010
 
 #EXTINF:-1 tvg-chno="590" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png",HBO Mundi Sur
-http://stklatino.dynns.com:2082/streaming/clients_live.php?username=juanzamora549&password=549292&stream=30415&extension=ts
+http://nxt.plus:8080/streaming/clients_live.php?username=olmos&password=1234guz&stream=13883&extension=ts
 
 #EXTINF:-1 tvg-chno="593" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png",Universal Channel
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=473774&extension=ts
