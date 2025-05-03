@@ -1330,13 +1330,13 @@ http://190.60.34.46:9999/play/a0sz
 http://190.123.90.146:8000/play/a00f
 
 #EXTINF:-1 tvg-chno="650" tvg-logo="https://seeklogo.com/images/F/fox-sports-argentina-2023-logo-2874DA0937-seeklogo.com.png",Fox Sports Sur
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=163705&extension=ts
+http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=135645&extension=ts
 
 #EXTINF:-1 tvg-chno="651" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-argentina-2023-logo-15FC12510F-seeklogo.com.png",Fox Sports 2 Sur ²
 http://181.78.106.127:9000/play/ca032
 
 #EXTINF:-1 tvg-chno="652" tvg-logo="https://seeklogo.com/images/F/fox-sports-3-argentina-2023-logo-2A58AB321F-seeklogo.com.png",Fox Sports 3 Sur
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=30245&extension=ts
+http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=135647&extension=ts
 
 #EXTINF:-1 tvg-chno="654" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png",TUDN MX ² 🇲🇽
 http://181.78.106.127:9000/play/ca025
