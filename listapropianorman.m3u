@@ -759,8 +759,8 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 #EXTINF:-1 tvg-chno="326" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/Cinema_Logo_Black.png",Cinema 🇲🇽
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=151330&extension=ts
 
-#EXTINF:-1 tvg-chno="327" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/400px-Unicable_logo.svg.png",Unicable 🇲🇽
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=151464&extension=ts
+#EXTINF:-1 tvg-chno="327" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/400px-Unicable_logo.svg.png",Unicable ² 🇲🇽
+http://45.228.234.173:9999/play/a059
 
 #EXTINF:-1 tvg-chno="328" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png",Todo Novelas ¹ 🇲🇽 
 https://d2t7ujjc7lurgd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-q0go87ctcenys-ssai-prd/index.m3u8
