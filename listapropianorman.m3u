@@ -1387,10 +1387,10 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=4305&extension=ts
 
 #EXTINF:-1 tvg-chno="673" tvg-logo="https://static.wixstatic.com/media/27d2df_a58e5f34fe0f432a8e7b46ccea038300~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/GOL-PLAY.png",Gol Play 🇪🇸
-https://nubex.stream:8443/live/MartinRodriguez/gEGYJrpf/6801.m3u8
+http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=4338&extension=ts
 
 #EXTINF:-1 tvg-chno="674" tvg-logo="https://static.wixstatic.com/media/27d2df_aa6a01e490a545b8b5973d06025aa9cd~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LIGA-DE-CAMPEONES-POR-M.png",Movistar Liga de Campeones 🇪🇸
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147155&extension=ts
+http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=4299&extension=ts
 
 #EXTINF:-1 tvg-chno="675" tvg-logo="https://static.wixstatic.com/media/27d2df_aa6a01e490a545b8b5973d06025aa9cd~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LIGA-DE-CAMPEONES-POR-M.png",La Liga Hypermotion 🇪🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=175094&extension=ts
@@ -1405,7 +1405,7 @@ http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmo
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=4354&extension=ts
 
 #EXTINF:-1 tvg-chno="677" tvg-logo="https://static.wixstatic.com/media/27d2df_aa6a01e490a545b8b5973d06025aa9cd~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LIGA-DE-CAMPEONES-POR-M.png",Movistar + Deportes 🇪🇸
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=126837&extension=ts
+http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=126501&extension=ts
 
 #EXTINF:-1 tvg-chno="679" tvg-logo="https://static.wixstatic.com/media/27d2df_304369b4987a4309ac7bfa2e88926465~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TYC-SPORTS.png",TyC Sports ² 🇦🇷
 http://190.109.31.53:9000/play/a0a6
@@ -1428,8 +1428,11 @@ http://190.60.37.115:8001/play/a08g/index.m3u8
 #EXTINF:-1 tvg-chno="680" tvg-logo="https://static.wixstatic.com/media/27d2df_cf328a73209b424d89d08c0a1f893ed3~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ECDF.png",ECDF ² 🇪🇨
 http://38.44.109.41:8003/play/a038
 
-#EXTINF:-1 tvg-chno="681" tvg-logo="https://static.wixstatic.com/media/27d2df_671d5242045d41078058c9361622dacd~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/GOL-TV.png",Gol Tv ² 🇺🇾
-http://38.44.109.41:8003/play/a02h
+#EXTINF:-1 tvg-chno="681" tvg-logo="https://static.wixstatic.com/media/27d2df_cf328a73209b424d89d08c0a1f893ed3~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ECDF.png",Gol Perú 🇵🇪
+http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=145450&extension=ts
+
+#EXTINF:-1 tvg-chno="681" tvg-logo="https://static.wixstatic.com/media/27d2df_671d5242045d41078058c9361622dacd~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/GOL-TV.png",Gol Tv 🇺🇾
+http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=145445&extension=ts
 
 #EXTINF:-1 tvg-chno="682" tvg-logo="https://static.wixstatic.com/media/27d2df_aa09c9d58f564e09897e5918f4c0f769~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/VTV.png",VTV Plus 🇺🇾
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=289323&extension=ts
@@ -1504,7 +1507,7 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=175758&extension=ts
 
 #EXTINF:-1 tvg-chno="699" tvg-logo="https://static.wixstatic.com/media/27d2df_7198c6ed4299494984dce09650a355c2~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DEPORTV.png",DeporTV 🇦🇷
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=3540&extension=ts
+http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=145464&extension=ts
 
 #EXTINF:-1 tvg-chno="700" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
