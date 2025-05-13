@@ -1131,6 +1131,15 @@ https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670
 #EXTINF:-1 tvg-chno="552" tvg-logo="https://imageshttps://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg",Rakuten Viki ¹
 https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="553" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png",Cine Familiar ²
+http://190.102.246.93:9005/play/a034
+
+#EXTINF:-1 tvg-chno="554" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinehispano.png",Cine Hispano ²
+http://190.102.246.93:9005/play/a035
+
+#EXTINF:-1 tvg-chno="555" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png",Cine Premium ²
+http://190.102.246.93:9005/play/a036
+
 #EXTINF:-1 tvg-chno="568" tvg-logo="https://sitelco.tv/wp-content/uploads/2023/08/mxfamily.png",MX Family ²
 http://190.102.246.93:9005/play/a03i
 
