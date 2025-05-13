@@ -1140,6 +1140,9 @@ http://190.102.246.93:9005/play/a035
 #EXTINF:-1 tvg-chno="555" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png",Cine Premium ²
 http://190.102.246.93:9005/play/a036
 
+#EXTINF:-1 tvg-chno="556" tvg-logo="https://contenidostv.b-cdn.net/images/clover512.jpg",Clover Channel ²
+http://190.102.246.93:9005/play/a028
+
 #EXTINF:-1 tvg-chno="568" tvg-logo="https://sitelco.tv/wp-content/uploads/2023/08/mxfamily.png",MX Family ²
 http://190.102.246.93:9005/play/a03i
 
