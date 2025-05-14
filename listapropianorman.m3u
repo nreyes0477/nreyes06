@@ -156,6 +156,9 @@ https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 #EXTINF:-1 tvg-chno="58" tvg-logo="https://satelcanal4.com/wp-content/uploads/2023/08/SATEL-LOGO-1-1024x652.png",Satel Canal 4 🇨🇴
 https://server.asilivehd.com:3802/live/canal4live.m3u8
 
+#EXTINF:-1 tvg-chno="59" tvg-logo="https://cineramatv.com/wp-content/uploads/2024/10/sin-fondo.png",Cinerama TV 🇧🇴
+https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-chno="60" tvg-logo="https://www.megatvarequipa.com/wp-content/uploads/2023/05/cropped-cropped-cropped-cropped-cropped-Polish_20230519_110858425.jpg",Mega Tv Cine ¹ 🇵🇪
 https://stmv5.voxtvhd.com.br/tvytv/tvytv/chunklist_w1751351932.m3u8
 
@@ -396,14 +399,17 @@ https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="177" tvg-logo="https://ocopen.org/wp-content/uploads/2021/11/OCOPEN-Negocios.png",Negocios TV ¹ 🇪🇦
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
-#EXTINF:-1 tvg-chno="179" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/200px-Ucvtvlogo2014mejorado.png",UCV Chile ¹ 🇨🇱
+#EXTINF:-1 tvg-chno="178" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/200px-Ucvtvlogo2014mejorado.png",UCV Chile ¹ 🇨🇱
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="180" tvg-logo="https://cdn.m3u.cl/logo/1356_El_Histonauta_TV.png",El Histonauta TV ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="179" tvg-logo="https://cdn.m3u.cl/logo/1356_El_Histonauta_TV.png",El Histonauta TV ¹ 🇦🇷
 https://stmv6.voxtvhd.com.br/elhistonautatv/elhistonautatv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="181" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/TEC_TV_-_2014_logo.png",Tec TV ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="180" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/TEC_TV_-_2014_logo.png",Tec TV ¹ 🇦🇷
 https://vd01.streaminghd.net.ar:3787/live/jcslppmtlive.m3u8
+
+#EXTINF:-1 tvg-chno="181" tvg-logo="https://academiajoven.es/wp-content/uploads/2020/09/xataka.png",Xataka TV ¹ 🇪🇸
+https://wbd-xat.otteravision.com/wbd/xat/xat.m3u8
 
 #EXTINF:-1 tvg-chno="182" tvg-logo="https://image.roku.com/developer_channels/prod/2ee8ed69266a33986437dd4fea6fc49cd2ebf61ac54c1a230ee6ce65eacba267.png",Hiperconectados TV ¹ 🇨🇱
 https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
@@ -449,6 +455,9 @@ https://telefegoogle1.akamaized.net:443/hls/live/2037988/googleADI/TOK/master-da
 
 #EXTINF:-1 tvg-chno="204" tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2023/02/Mi-8-alta-06.png",13Max TV (Telefe) ¹ 🇦🇷
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w591180067.m3u8
+
+#EXTINF:-1 tvg-chno="205" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png",Telefe Internacional (Pluto) ¹ 🇦🇷
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/613237a1c9e0db0007a91350/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=b928fc63-5373-dbd5-be6e-d30c87e8b781&deviceDNT=0&deviceModel=0
 
 #EXTINF:-1 tvg-chno="206" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png",Telefe Internacional ² 🇦🇷
 http://45.71.37.194:8010/play/a07j
