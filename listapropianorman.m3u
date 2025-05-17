@@ -132,12 +132,14 @@ https://s1.tvdatta.com:3072/live/cotobrustvlive.m3u8
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://i.imgur.com/7HbISMV.png",TV Sur Canal 9 ¹ 🇨🇷
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="50" tvg-logo="https://i.imgur.com/RqdpiYo.jpeg",Megahits ¹ 🇨🇷
+https://giatv.bozztv.com/giatv/giatv-Supercanal/Supercanal/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://i2.paste.pics/1379fe5bb8fd807ea046564b62f40acb.png",Bayres TV ¹ 🇦🇷
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://butaca.tv/_next/static/media/logo-black.32e2c785.png",Butaca TV ¹ 🇺🇸
 https://linear-842.frequency.stream/mt/plex/842/hls/master/playlist.m3u8
-
 
 #EXTINF:-1 tvg-chno="53" tvg-logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png",Neo TV ¹ 🇦🇷
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
