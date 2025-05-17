@@ -171,16 +171,19 @@ https://stmv5.voxtvhd.com.br/tvytv/tvytv/chunklist_w1751351932.m3u8
 #EXTINF:-1 tvg-chno="62" tvg-logo="https://megatvjaen.pe/wp-content/uploads/2022/12/cropped-megajaen.png",Mega Tv ¹ 🇵🇪
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 
-#EXTINF:-1 tvg-chno="63" tvg-logo="https://img1.wsimg.com/isteam/ip/0b6749a7-4d1f-4663-98a6-82c3788efdcb/RETROX%20TV%20LOGO%20PNG.png",Retrox TV ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="63" tvg-logo="https://images.squarespace-cdn.com/content/v1/6011bffa317a1f7611f12428/1633029915078-2CAE2GWWFE4AU8FSX4NL/kiss-cut-stickers-3x3-default-61560f185c199.png",Canal Retro TV ¹ 🇨🇷
+https://server.streamtech.com.co:5443/retroTv/streams/sJlaR9zuk3cJ8jqN4467369974529.m3u8
+
+#EXTINF:-1 tvg-chno="64" tvg-logo="https://img1.wsimg.com/isteam/ip/0b6749a7-4d1f-4663-98a6-82c3788efdcb/RETROX%20TV%20LOGO%20PNG.png",Retrox TV ¹ 🇨🇷
 https://acceso.radiosportstv.online:3259/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-chno="64" tvg-logo="https://image.roku.com/developer_channels/prod/57ab74c4faa79c70ed4ac4a5e84e17dc731fbded16d330e3bf320a4613a9f5e6.png",Retro Tv Palmares ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="65" tvg-logo="https://image.roku.com/developer_channels/prod/57ab74c4faa79c70ed4ac4a5e84e17dc731fbded16d330e3bf320a4613a9f5e6.png",Retro Tv Palmares ¹ 🇨🇷
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="65" tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png",Dreiko TV ¹ 🇵🇦 
-https://cloudvideo.servers10.com:8081/8096/index.m3u8
+#EXTINF:-1 tvg-chno="66" tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png",Dreiko TV ¹ 🇵🇦 
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
-#EXTINF:-1 tvg-chno="66" tvg-logo="https://i.paste.pics/9c22ea0df4ad9c0affc8fe065875781f.png",Retro Mágico ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="67" tvg-logo="https://i.paste.pics/9c22ea0df4ad9c0affc8fe065875781f.png",Retro Mágico ¹ 🇦🇷
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png",24/7 Chavo del 8 (1)
