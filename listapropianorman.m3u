@@ -159,11 +159,11 @@ https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
 #EXTINF:-1 tvg-chno="58" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/10microvision.png?zoom=3&resize=100%2C70&ssl=1",Microvisión ¹ 🇩🇴
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="59" tvg-logo="https://satelcanal4.com/wp-content/uploads/2023/08/SATEL-LOGO-1-1024x652.png",Satel Canal 4 🇨🇴
+#EXTINF:-1 tvg-chno="59" tvg-logo="https://satelcanal4.com/wp-content/uploads/2023/08/SATEL-LOGO-1-1024x652.png",Satel Canal 4 ¹ 🇨🇴
 https://server.asilivehd.com:3802/live/canal4live.m3u8
 
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://cineramatv.com/wp-content/uploads/2024/10/sin-fondo.png",Cinerama TV 🇧🇴
-https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8
+#EXTINF:-1 tvg-chno="60" tvg-logo="https://cineramatv.com/wp-content/uploads/2024/10/sin-fondo.png",Cinerama TV ¹ 🇧🇴
+https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8?cachebust=7e749c
 
 #EXTINF:-1 tvg-chno="61" tvg-logo="https://www.megatvarequipa.com/wp-content/uploads/2023/05/cropped-cropped-cropped-cropped-cropped-Polish_20230519_110858425.jpg",Mega Tv Cine ¹ 🇵🇪
 https://stmv5.voxtvhd.com.br/tvytv/tvytv/chunklist_w1751351932.m3u8
