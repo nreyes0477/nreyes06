@@ -25,7 +25,7 @@ https://alba-cr-repretel-c11.stream.mediatiquestream.com:443/original.m3u8
 https://ssh101.bozztv.com/ssh101/sinart13/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="14" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Trivisio%CC%81n-Canal-36-en-vivo-Online.png",Canal 36 Trivisión ¹ 🇨🇷
-https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR
+https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=
 
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://genteopa.com/wp-content/uploads/2024/03/cropped-logo-opa-1.png",Canal 38 ¡Opa! ¹ 🇨🇷
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/chunklist_w1359843927.m3u8
