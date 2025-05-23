@@ -970,7 +970,7 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1yn-&did=5de3272ca828334125a8958b379e80ca&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=en&site_page=https%253a%252f%252fwww.canela.tv%252flinear%252fnovelisima&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1682534197&id=29260&ip=45.239.66.196&override_expiration=1500&deliveryProfileId=23762&sign=AnTU27Owgu%2FvemMRtOIK%2BuHtqV7PpNMyoU1iGCyVV%2B8%3D
 
 #EXTINF:-1 tvg-chno="400" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg",E! Entertainment ²
-http://45.186.106.207:8000/play/a07v
+http://38.159.227.124:8000/play/a04p
 
 #EXTINF:-1 tvg-chno="405" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-id_m.png",ID Investigation ²
 http://45.186.106.207:8000/play/a079
@@ -1002,14 +1002,14 @@ http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmo
 #EXTINF:-1 tvg-chno="421" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery_m.png",Discovery Channel
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=29738&extension=ts
 
-#EXTINF:-1 tvg-chno="422" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png",Discovery Theater
-http://nxt.plus:8080/streaming/clients_live.php?username=olmos&password=1234guz&stream=13969&extension=ts
+#EXTINF:-1 tvg-chno="422" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png",Discovery Theater ²
+http://38.159.227.124:8000/play/a02q
 
 #EXTINF:-1 tvg-chno="423" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery World ²
 http://45.186.106.207:8000/play/a076
 
-#EXTINF:-1 tvg-chno="424" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery Science
-http://nxt.plus:8080/streaming/clients_live.php?username=olmos&password=1234guz&stream=30423&extension=ts
+#EXTINF:-1 tvg-chno="424" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery Science ²
+http://38.159.227.124:8000/play/a099
 
 #EXTINF:-1 tvg-chno="425" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png",HGTV Latino
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=156063&extension=ts
