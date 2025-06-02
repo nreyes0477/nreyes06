@@ -654,6 +654,9 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 #EXTINF:-1 tvg-chno="273" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/dmax-en-directo-online-en-vivo.png",DMAX 🇪🇸
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=31255&extension=ts
 
+#EXTINF:-1 tvg-chno="273" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/640px-La_Otra_logo_%282017%29.svg.png",La Otra ¹ 🇪🇸
+https://laotra-1-23-secure2.akamaized.net/master.m3u8
+
 #EXTINF:-1 tvg-chno="274" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",Star TVE ¹ 🇪🇸
 https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
 
@@ -1562,6 +1565,9 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 
 #EXTINF:-1 tvg-chno="698" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/logos/FuboSports_Logo_OneColor_box_rgb.png?w=300&ch=width&auto=format,compress",Fubo Sports Networks 🇺🇸
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=175758&extension=ts
+
+#EXTINF:-1 tvg-chno="698" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/logos/FuboSports_Logo_OneColor_box_rgb.png?w=300&ch=width&auto=format,compress",Real Madrid TV ¹ 🇪🇸
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 #EXTINF:-1 tvg-chno="699" tvg-logo="https://static.wixstatic.com/media/27d2df_7198c6ed4299494984dce09650a355c2~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DEPORTV.png",DeporTV 🇦🇷
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=145464&extension=ts
