@@ -1108,7 +1108,7 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 http://45.186.106.207:8000/play/a07t
 
 #EXTINF:-1 tvg-chno="524" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tnt_m.png",TNT
-http://tv.zapping.life:8080//streaming/clients_live.php?username=MarshallHimym&password=2a57554620b4&stream=9744&extension=ts
+http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=138044&extension=ts
 
 #EXTINF:-1 tvg-chno="525" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png",TNT Series
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=133860&extension=ts
