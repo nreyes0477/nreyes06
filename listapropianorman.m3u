@@ -519,8 +519,8 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1 tvg-chno="219" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-5-TV-Corrientes-en-vivo-Online.png",5tv ¹ • 🇦🇷
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="220" tvg-logo="https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-BLANCA-300x99.png",Multivisión 🇦🇷
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=163707&extension=ts
+#EXTINF:-1 tvg-chno="220" tvg-logo="https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-BLANCA-300x99.png",Multivisión ¹ 🇦🇷
+https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
 
 #EXTINF:-1 tvg-chno="222" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/ATB-en-vivo-Online.png",ATB 🇧🇴
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=131672&extension=ts
@@ -665,6 +665,9 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 
 #EXTINF:-1 tvg-chno="273" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/5e2b31c99b97574a06696454a5ada922_ODISEA%202.png",Odisea ² 🇪🇸
 http://185.189.225.150:85/odisea/index.m3u8
+
+#EXTINF:-1 tvg-chno="273" tvg-logo="https://tivify.tv/static/img/tivify/tivify-logo.png",Tivify ¹ 🇪🇸
+https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
 
 #EXTINF:-1 tvg-chno="273" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/640px-La_Otra_logo_%282017%29.svg.png",La Otra ¹ 🇪🇸
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
