@@ -541,7 +541,7 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 https://5fe2654d6127d.streamlock.net:443/boliviatv/videoboliviatv/chunklist_w985377986.m3u8
 
 #EXTINF:-1 tvg-chno="230" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png",Chilevisión 🇨🇱
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=42439&extension=ts
+http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=151704&extension=ts
 
 #EXTINF:-1 tvg-chno="231" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png",TVN 🇨🇱
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=30302&extension=ts
