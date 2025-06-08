@@ -400,10 +400,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="172" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Globovision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Globovisión 🇻🇪
-http://todoplus.digital:80/live/5MUK2Fhqtq/wqq6nhKF4W/18468.m3u8
+http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=156075&extension=ts
 
 #EXTINF:-1 tvg-chno="173" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/04/Telesur-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Telesur ¹ 🇻🇪
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="174" tvg-logo="https://cdn77.pressenza.com/wp-content/uploads/2016/01/HispanTV-300x128.jpg",Hispan TV ¹ 🇮🇷
 https://live.presstv.ir/hls/hispantv.m3u8
