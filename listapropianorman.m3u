@@ -1084,10 +1084,16 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 http://45.186.106.207:8000/play/a07x
 
 #EXTINF:-1 tvg-chno="501" tvg-logo="https://cdn.mitvstatic.com/channels/cl_amc_m.png",AMC
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=45874&extension=ts
+http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=150103&extension=ts
 
-#EXTINF:-1 tvg-chno="502" tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png",AXN
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=133853&extension=ts
+#EXTINF:-1 tvg-chno="501" tvg-logo="https://cdn.mitvstatic.com/channels/cl_amc_m.png",AMC (2)
+http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=37&extension=ts
+
+#EXTINF:-1 tvg-chno="501" tvg-logo="https://i.postimg.cc/ncsmtW5L/amce.jpg",AMC (USA) ¹
+https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="502" tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png",AXN ²
+http://216.122.181.10:8081/play/a0dv/index.m3u8
 
 #EXTINF:-1 tvg-chno="505" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png",Cinecanal ²
 http://45.186.106.207:8000/play/a020
@@ -1095,17 +1101,23 @@ http://45.186.106.207:8000/play/a020
 #EXTINF:-1 tvg-chno="506" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinemax_m.png",Cinemax
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=7989&extension=ts
 
+#EXTINF:-1 tvg-chno="506" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinemax_m.png",Cinemax Diferido 2
+http://216.122.181.10:8081/play/a0hb
+
 #EXTINF:-1 tvg-chno="510" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden.png",Golden
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=210087&extension=ts
+http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=7998&extension=ts
 
 #EXTINF:-1 tvg-chno="512" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/420px-Golden_Edge_Logo_2020.png",Golden Edge
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13209&extension=ts
 
 #EXTINF:-1 tvg-chno="513" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png",Golden Plus
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=77161&extension=ts
+http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=3648&extension=ts
 
-#EXTINF:-1 tvg-chno="514" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden-premier.png",Golden Premier
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=128510&extension=ts
+#EXTINF:-1 tvg-chno="514" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden-premier.png",Golden Premier ²
+http://216.122.181.10:8081/play/a0q2
+
+#EXTINF:-1 tvg-chno="514" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden-premier.png",Golden Premier 2 ²
+http://216.122.181.10:8081/play/a0ol
 
 #EXTINF:-1 tvg-chno="515" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png",Lifetime
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=154828&extension=ts
@@ -1114,7 +1126,10 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 http://45.186.106.207:8000/play/a073
 
 #EXTINF:-1 tvg-chno="518" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox_m.png",Star Channel
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=150088&extension=ts
+http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=3642&extension=ts
+
+#EXTINF:-1 tvg-chno="518" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox_m.png",Star Channel (2)
+http://181.78.4.186:8000/play/a0dt
 
 #EXTINF:-1 tvg-chno="519" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SonyMovies.png",Cine Sony ²
 http://45.186.106.207:8000/play/a082
@@ -1123,10 +1138,10 @@ http://45.186.106.207:8000/play/a082
 http://45.186.106.207:8000/play/a01z
 
 #EXTINF:-1 tvg-chno="521" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png",USA Network ²
-http://200.60.124.20:29000/play/a0a5/index.m3u8
+http://181.78.4.186:8000/play/a0e4
 
-#EXTINF:-1 tvg-chno="522" tvg-logo="https://cdn.mitvstatic.com/channels/mx_space_m.png",Space
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=62801&extension=ts
+#EXTINF:-1 tvg-chno="522" tvg-logo="https://cdn.mitvstatic.com/channels/mx_space_m.png",Space ²
+http://216.122.181.10:8081/play/a0dn
 
 #EXTINF:-1 tvg-chno="523" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png",Studio Universal ²
 http://45.186.106.207:8000/play/a07t
@@ -1134,8 +1149,8 @@ http://45.186.106.207:8000/play/a07t
 #EXTINF:-1 tvg-chno="524" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tnt_m.png",TNT
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=138044&extension=ts
 
-#EXTINF:-1 tvg-chno="525" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png",TNT Series
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=133860&extension=ts
+#EXTINF:-1 tvg-chno="525" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png",TNT Series ²
+http://216.122.181.10:8081/play/a0do
 
 #EXTINF:-1 tvg-chno="526" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner_m.png",Warner Channel ²
 http://45.186.106.207:8000/play/a08i
@@ -1144,10 +1159,10 @@ http://45.186.106.207:8000/play/a08i
 http://45.186.106.207:8000/play/a080
 
 #EXTINF:-1 tvg-chno="530" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png",DHE
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=77160&extension=ts
+http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=153595&extension=ts
 
-#EXTINF:-1 tvg-chno="531" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png",DreamWorks
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=151372&extension=ts
+#EXTINF:-1 tvg-chno="531" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png",DreamWorks ²
+http://181.78.106.127:9000/play/ca054
 
 #EXTINF:-1 tvg-chno="535" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/640px-Starz_2008.png",Starz
 http://kstv.us:8080/streaming/clients_live.php?username=2qt65aetuZ&password=0527822179&stream=46667&extension=ts
