@@ -528,23 +528,26 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-chno="220" tvg-logo="https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-BLANCA-300x99.png",Multivisión ¹ 🇦🇷
 https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
 
-#EXTINF:-1 tvg-chno="222" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/ATB-en-vivo-Online.png",ATB 🇧🇴
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=131672&extension=ts
+#EXTINF:-1 tvg-chno="222" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/ATB-en-vivo-Online.png",ATB ² 🇧🇴
+http://186.121.206.197/live/daniel/index.m3u8
 
-#EXTINF:-1 tvg-chno="223" tvg-logo="https://3.bp.blogspot.com/-OFbQmNvw9ns/XCFQN1j9pUI/AAAAAAAAHOU/_HbtJbA4x-ADtnD5ol6JDZmTrRmZCtOSgCLcBGAs/w350-h350-p-k-no-nu/Bolivision%2Ben%2Bvivo.png",Bolivisión ¹ 🇧🇴 
-https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-chno="223" tvg-logo="https://3.bp.blogspot.com/-OFbQmNvw9ns/XCFQN1j9pUI/AAAAAAAAHOU/_HbtJbA4x-ADtnD5ol6JDZmTrRmZCtOSgCLcBGAs/w350-h350-p-k-no-nu/Bolivision%2Ben%2Bvivo.png",Bolivisión 🇧🇴 
+http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=131662&extension=ts
 
 #EXTINF:-1 tvg-chno="225" tvg-logo="https://static-media.streema.com/media/cache/c4/42/c442ed13a23c1f824bfdb25ab0b1397a.jpg",Gigavisión ¹ 🇧🇴
 https://tv2.bitstreaming.net:3896/multi_web/play.m3u8
 
 #EXTINF:-1 tvg-chno="226" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/New_Unitel_logo_HD.jpg",Unitel 🇧🇴 
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=131692&extension=ts
+http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=131691&extension=ts
 
 #EXTINF:-1 tvg-chno="227" tvg-logo="https://4.bp.blogspot.com/--7IX2NCKelU/XCFC17d96gI/AAAAAAAAHN0/u3Qj0frMRGMNHKWr3dpKYJfCbbo94kANACLcBGAs/w350-h350-p-k-no-nu/Red%2BUno%2Ben%2Bvivo.png",Red Uno 🇧🇴 
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=131660&extension=ts
 
 #EXTINF:-1 tvg-chno="228" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Bolivia TV ¹ 🇧🇴
 https://5fe2654d6127d.streamlock.net:443/boliviatv/videoboliviatv/chunklist_w985377986.m3u8
+
+#EXTINF:-1 tvg-chno="229" tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/logoaweb.png",Cadena A ¹ 🇧🇴
+https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="230" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png",Chilevisión 🇨🇱
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=151704&extension=ts
