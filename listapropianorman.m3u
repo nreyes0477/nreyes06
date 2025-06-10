@@ -552,8 +552,8 @@ https://5fe2654d6127d.streamlock.net:443/boliviatv/videoboliviatv/chunklist_w985
 #EXTINF:-1 tvg-chno="229" tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/logoaweb.png",Cadena A ² 🇧🇴
 http://45.225.75.8:81/play/tdt09/index.m3u8
 
-#EXTINF:-1 tvg-chno="230" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png",Chilevisión 🇨🇱
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=151704&extension=ts
+#EXTINF:-1 tvg-chno="230" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png",Chilevisión ² 🇨🇱
+http://200.113.4.75:7210/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-chno="231" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png",TVN 🇨🇱
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=30302&extension=ts
