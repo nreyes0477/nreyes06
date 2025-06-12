@@ -559,7 +559,7 @@ http://191.52.214.5:8000/play/a06p/index.m3u8
 http://200.113.4.75:7210/play/a007/index.m3u8
 
 #EXTINF:-1 tvg-chno="232" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png",Canal 13 ² 🇨🇱
-http://200.60.124.19:29000/play/a0id/index.m3u8
+http://181.78.201.70:8000/play/a0pd/index.m3u8
 
 #EXTINF:-1 tvg-chno="233" tvg-logo="https://elcomercio.pe/resizer/yihFxlkddrP0HjI7-6_7HKJ7GNc=/992x661/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/VELQ4IWQYZHETFPPHGPNLPTHME.jpg",Canal T13 ¹ 🇨🇱
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?did=b131176395625465cbd92084d9a
@@ -573,7 +573,10 @@ https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="236" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",TV + ¹ 🇨🇱
 https://marine2.miplay.cl/tvmas/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="237" tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-13-c_m.png",Canal 13C ¹ 🇨🇱
+#EXTINF:-1 tvg-chno="236" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Canal_13C_2025.svg/250px-Canal_13C_2025.svg.png",Canal 13c ² 🇨🇱
+http://200.60.124.19:29000/play/a0id/index.m3u8
+
+#EXTINF:-1 tvg-chno="237" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/09/13-Cultura-en-vivo-Online-1536x864.png",Canal 13 Cultura ¹ 🇨🇱
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
 #EXTINF:-1 tvg-chno="238" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png",Canal 24 Horas • 🇨🇱
