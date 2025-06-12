@@ -474,8 +474,8 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",El Trece ² 🇦🇷
 http://190.123.90.146:8000/play/a00n/index.m3u8
 
-#EXTINF:-1 tvg-chno="202" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png",El Trece Internacional 🇦🇷
-http://tvlat2020.com:8080/live/XTmpZa9qk/bnHVGeqX7RME/334.m3u8
+#EXTINF:-1 tvg-chno="202" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png",El Trece Internacional ² 🇦🇷
+http://200.60.124.19:29000/play/a0ld/index.m3u8
 
 #EXTINF:-1 tvg-chno="203" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe ² 🇦🇷
 http://190.123.90.146:8000/play/a00p/index.m3u8
@@ -1477,7 +1477,7 @@ http://181.78.106.127:9000/play/ca037
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=174645&extension=ts
 
 #EXTINF:-1 tvg-chno="660" tvg-logo="https://static.wixstatic.com/media/27d2df_96e8f3dd921c4fe4a8c26070d5b9da9a~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DSPORTS.png",DirecTV Sports ² 🇦🇷
-http://200.60.124.19:29000/play/a081
+http://200.60.124.19:29000/play/a081/index.m3u8
 
 #EXTINF:-1 tvg-chno="661" tvg-logo="https://static.wixstatic.com/media/27d2df_96e8f3dd921c4fe4a8c26070d5b9da9a~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DSPORTS.png",DirecTV Sports 🇨🇴
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=135642&extension=ts
@@ -1557,11 +1557,11 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 #EXTINF:-1 tvg-chno="681" tvg-logo="https://static.wixstatic.com/media/27d2df_671d5242045d41078058c9361622dacd~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/GOL-TV.png",Gol Tv 🇺🇾
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=145445&extension=ts
 
-#EXTINF:-1 tvg-chno="682" tvg-logo="https://static.wixstatic.com/media/27d2df_aa09c9d58f564e09897e5918f4c0f769~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/VTV.png",VTV Plus 🇺🇾
-http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=289323&extension=ts
+#EXTINF:-1 tvg-chno="682" tvg-logo="https://static.wixstatic.com/media/27d2df_aa09c9d58f564e09897e5918f4c0f769~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/VTV.png",VTV ² 🇺🇾
+http://200.60.124.19:29000/play/a0j7/index.m3u8
 
-#EXTINF:-1 tvg-chno="683" tvg-logo="https://static.wixstatic.com/media/27d2df_e7790a6174964e8f971e92664372a4ad~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/WIN-SPORTS.png",Win Sports 🇨🇴
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=30179&extension=ts
+#EXTINF:-1 tvg-chno="683" tvg-logo="https://static.wixstatic.com/media/27d2df_e7790a6174964e8f971e92664372a4ad~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/WIN-SPORTS.png",Win Sports ² 🇨🇴
+http://191.97.15.250:45000/play/a04c/index.m3u8
 
 #EXTINF:-1 tvg-chno="683" tvg-logo="https://static.wixstatic.com/media/27d2df_e7790a6174964e8f971e92664372a4ad~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/WIN-SPORTS.png",Win Sports + 🇨🇴
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=39957&extension=ts
