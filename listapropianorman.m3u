@@ -487,7 +487,7 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w591180067.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/613237a1c9e0db0007a91350/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=b928fc63-5373-dbd5-be6e-d30c87e8b781&deviceDNT=0&deviceModel=0
 
 #EXTINF:-1 tvg-chno="206" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png",Telefe Internacional ² 🇦🇷
-http://45.71.37.194:8010/play/a07j
+http://181.78.201.70:8000/play/a0ti/index.m3u8
 
 #EXTINF:-1 tvg-chno="207" tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg",El Nueve 🇦🇷
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=3539&extension=ts
