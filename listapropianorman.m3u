@@ -1372,7 +1372,7 @@ http://disfruta.net/live/balooshy/Dcw7jXk5T5/f6c3675a-0031-4788-820d-0b4913ca36f
 http://disfruta.net/live/balooshy/Dcw7jXk5T5/6760ba79-4638-47d0-b487-24514d8f1afc.m3u8
 
 #EXTINF:-1 tvg-chno="617" tvg-logo="https://static.wixstatic.com/media/27d2df_6f7903b0a78e45a2a6b0d18b03ac0fcc~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-DEPORTES.png",ESPN Deportes 🇺🇲
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/ec5e5d0c-ce5f-487e-a923-d44242c5b4b8.m3u8
+http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2218544.m3u8
 
 #EXTINF:-1 tvg-chno="617" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/fox-deportes.png",Fox Deportes 🇺🇲
 http://disfruta.net/live/balooshy/Dcw7jXk5T5/b3be4505-7efa-4a5a-99d5-8516325716b9.m3u8
@@ -1467,8 +1467,8 @@ http://190.123.90.146:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-chno="654" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png",TUDN MX ² 🇲🇽
 http://190.92.10.66:4000/play/a002/index.m3u8
 
-#EXTINF:-1 tvg-chno="655" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png",TUDN USA 🇺🇸
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/33499fe0-7ac3-4596-a167-1c9fbe122b6d.m3u8
+#EXTINF:-1 tvg-chno="655" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png",TUDN USA ² 🇺🇸
+http://103.111.40.242:9999/play/a007/index.m3u8
 
 #EXTINF:-1 tvg-chno="656" tvg-logo="https://iili.io/J2wureR.png",Zona TUDN USA 🇺🇸
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=78280&extension=ts
