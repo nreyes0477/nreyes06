@@ -477,8 +477,8 @@ http://190.123.90.146:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-chno="202" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png",El Trece Internacional ² 🇦🇷
 http://181.78.201.70:8000/play/a0mu/index.m3u8
 
-#EXTINF:-1 tvg-chno="203" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe ² 🇦🇷
-http://190.123.90.146:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-chno="203" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe 🇦🇷
+http://tvpremium.pro:80/live/Erick12345/Erick12345/334341.m3u8
 
 #EXTINF:-1 tvg-chno="204" tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2023/02/Mi-8-alta-06.png",13Max TV (Telefe) ¹ 🇦🇷
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w591180067.m3u8
@@ -1402,13 +1402,13 @@ http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2121734.m3u8
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
 #EXTINF:-1 tvg-chno="627" tvg-logo="https://image.roku.com/developer_channels/prod/f89955f4a64b7dc2fb4b3b0d9527aa659b28c8480b37802fed3c0ed58ae2e2cd.png",Caliente TV 🇲🇽
-http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2227022.m3u8
+http://tvpremium.pro:80/live/Erick12345/Erick12345/1444144.m3u8
 
 #EXTINF:-1 tvg-chno="630" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN 🇦🇷
-http://playtv44.com:8080/streaming/clients_live.php?username=vmar394&password=123123&stream=218999&extension=ts
+http://tvpremium.pro:80/live/Erick12345/Erick12345/73.m3u8
 
 #EXTINF:-1 tvg-chno="631" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN 🇨🇱
-http://playtv44.com:8080/streaming/clients_live.php?username=vmar394&password=123123&stream=219012&extension=ts
+http://tvpremium.pro:80/live/Erick12345/Erick12345/496558.m3u8
 
 #EXTINF:-1 tvg-chno="632" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN 🇨🇴 
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/202064.m3u8
