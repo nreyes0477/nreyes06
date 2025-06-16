@@ -1380,8 +1380,8 @@ http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2123475.m3u8
 #EXTINF:-1 tvg-chno="617" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/fox-deportes.png",Fox Deportes 🇺🇲
 http://disfruta.net/live/balooshy/Dcw7jXk5T5/b3be4505-7efa-4a5a-99d5-8516325716b9.m3u8
 
-#EXTINF:-1 tvg-chno="618" tvg-logo="https://static.wixstatic.com/media/27d2df_524c1552967841858f7f7eaa72299e17~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-SPORTS.png",Fox Sports MX 🇲🇽
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/67bf848b-2f3c-4272-8860-fa5536f8cf43.m3u8
+#EXTINF:-1 tvg-chno="618" tvg-logo="https://static.wixstatic.com/media/27d2df_524c1552967841858f7f7eaa72299e17~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-SPORTS.png",Fox Sports MX ² 🇲🇽
+http://200.115.120.1:8000/play/ca041
 
 #EXTINF:-1 tvg-chno="619" tvg-logo="https://static.wixstatic.com/media/27d2df_246284b7cb4b4ed9ad586ef862c7cf32~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-SPORTS-2.png",Fox Sports 2 MX 🇲🇽
 http://disfruta.net/live/balooshy/Dcw7jXk5T5/c0030764-11bf-4ba9-8254-e533606a5017.m3u8
