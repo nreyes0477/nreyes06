@@ -1405,10 +1405,10 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2227022.m3u8
 
 #EXTINF:-1 tvg-chno="630" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN 🇦🇷
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=4938&extension=ts
+http://playtv44.com:8080/streaming/clients_live.php?username=vmar394&password=123123&stream=218999&extension=ts
 
 #EXTINF:-1 tvg-chno="631" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN 🇨🇱
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=3527&extension=ts
+http://playtv44.com:8080/streaming/clients_live.php?username=vmar394&password=123123&stream=219012&extension=ts
 
 #EXTINF:-1 tvg-chno="632" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN 🇨🇴 
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/202064.m3u8
