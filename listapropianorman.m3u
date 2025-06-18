@@ -1446,8 +1446,8 @@ http://190.102.246.93:9005/play/a01w
 #EXTINF:-1 tvg-chno="641" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN 🇨🇴 ²
 http://38.44.109.41:8003/play/a03x/index.m3u8
 
-#EXTINF:-1 tvg-chno="642" tvg-logo="https://static.wixstatic.com/media/27d2df_3855b68f65c541f1a3e6b3c89e80a07b~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-2.png",ESPN Sur 2 ²
-http://190.102.246.93:9005/play/a02n
+#EXTINF:-1 tvg-chno="642" tvg-logo="https://static.wixstatic.com/media/27d2df_3855b68f65c541f1a3e6b3c89e80a07b~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-2.png",ESPN Sur 2 ² √
+http://191.52.214.5:8000/play/a027
 
 #EXTINF:-1 tvg-chno="643" tvg-logo="https://static.wixstatic.com/media/27d2df_924eed614eed44d3a36344f60a9fcde1~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-3.png",ESPN Sur 3 ²
 http://190.102.246.93:9005/play/a02l
