@@ -375,8 +375,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62aa5740a47b6c0007
 #EXTINF:-1 tvg-chno="140" tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2020/12/CANAL-UCL_Logo-350.png",UCL Televisión ¹ 🇺🇾
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
-#EXTINF:-1 tvg-chno="142" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png",TN Noticias 🇦🇷
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=29936&extension=ts
+#EXTINF:-1 tvg-chno="142" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png",TN Noticias ¹ 🇦🇷
+https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/57d67e41-d675-4665-bbed-5660d9ebe533:TUL/master.m3u8
 
 #EXTINF:-1 tvg-chno="143" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/588px-Canal_26_logo_%282022%29.svg.png",Canal 26 ² 🇦🇷
 http://190.123.90.146:8000/play/a001/index.m3u8
@@ -546,8 +546,8 @@ http://190.123.90.146:8000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-chno="209" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG",América TV 🇦🇷
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=137746&extension=ts
 
-#EXTINF:-1 tvg-chno="210" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png",TN Noticias • 🇦🇷
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=29936&extension=ts
+#EXTINF:-1 tvg-chno="210" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png",TN Noticias • ¹ 🇦🇷
+https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/57d67e41-d675-4665-bbed-5660d9ebe533:TUL/master.m3u8
 
 #EXTINF:-1 tvg-chno="211" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/588px-Canal_26_logo_%282022%29.svg.png",Canal 26 ² • 🇦🇷 
 http://190.123.90.146:8000/play/a001/index.m3u8
