@@ -28,7 +28,7 @@ https://alba-cr-repretel-c11.stream.mediatiquestream.com:443/original.m3u8
 https://ssh101.bozztv.com/ssh101/sinart13/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="14" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Trivisio%CC%81n-Canal-36-en-vivo-Online.png",Canal 36 Trivisión ¹ 🇨🇷
-https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=
+https://liveingesta318.cdnmedia.tv/trivisionlive/smil:rtmp01.smil/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://genteopa.com/wp-content/uploads/2024/03/cropped-logo-opa-1.png",Canal 38 ¡Opa! ¹ 🇨🇷
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
@@ -74,9 +74,6 @@ https://rtmp.info:443/sanjosetv/envivo/chunklist_w1786370191.m3u8
 
 #EXTINF:-1 tvg-chno="30" tvg-logo="https://www.radioextremacr.com/img/logo.png",Extrema TV ¹ 🇨🇷
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="31" tvg-logo="https://www.tvsantacruzcr.net/img/logotvsc_2.png",Santa Cruz TV ¹ 🇨🇷
-https://rtmp.info/tvsantacruz/envivo/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="31" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGLhhtg5NJMWt3KwH3VG7flKs9C2E1wdf9Y4ICHz8J0GEMXa4fNvkEr_-JiwX8PEzX2ibjkta0fvSBwaGbzF4RnJewHVmBQ82JnUR3Ce2bUI_Do3Q1kHIe9HWMUY_5UvIfN_Nnwri3CEd-dZG7bJNyOVtrfg4sAO8zmaX_T8ZnNdSiAucNMMLDk8PCLz4I/s600/TURRIALBA%20LOGO%20PORTADA%202.png",Radio Turrialba TV ¹ 🇨🇷
 https://acceso.radiosportstv.online:3723/live/radioturrialbatvlive.m3u8
@@ -1907,18 +1904,6 @@ https://26b638b2564d41f8b6a36b6dd59e8d4f.mediatailor.eu-west-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-chno="801" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/trailertv.png",Tráilers TV 🇪🇸
 https://bit.ly/3WChqoj?ESBC1700004PX.m3u8
-
-#EXTINF:-1 tvg-chno="850" tvg-logo="https://fotos.perfil.com/2024/12/02/trim/414/233/gran-hermano-2025-1922635.jpg?webp",GH (Cam 1) 🇦🇷
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=260276&extension=ts
-
-#EXTINF:-1 tvg-chno="850" tvg-logo="https://fotos.perfil.com/2024/12/02/trim/414/233/gran-hermano-2025-1922635.jpg?webp",GH (Cam 2) 🇦🇷
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=265784&extension=ts
-
-#EXTINF:-1 tvg-chno="850" tvg-logo="https://fotos.perfil.com/2024/12/02/trim/414/233/gran-hermano-2025-1922635.jpg?webp",GH (Cam 3) 🇦🇷
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=265785&extension=ts
-
-#EXTINF:-1 tvg-chno="850" tvg-logo="https://fotos.perfil.com/2024/12/02/trim/414/233/gran-hermano-2025-1922635.jpg?webp",GH (Cam 4) 🇦🇷
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=265786&extension=ts
 
 #EXTINF:-1 tvg-chno="900" tvg-logo="https://cdn.instant.audio/images/logos/radios-co-cr/radio-monumental.png",Radio Monumental 📻 (Solo Audio)
 https://alba-cr-monumental-monumental.stream.mediatiquestream.com/index.m3u8
