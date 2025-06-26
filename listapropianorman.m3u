@@ -120,6 +120,9 @@ https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1 tvg-chno="44" tvg-logo="https://i.imgur.com/Yd7JOxr.png",San Vito TV ¹ 🇨🇷
 https://acceso.radiosportstv.online:3150/live/sanvitotvlive.m3u8
 
+#EXTINF:-1 tvg-chno="44" tvg-logo="https://image.roku.com/developer_channels/prod/cc9bfad56cc1948d03b78c0b4adf3d215ce35bfe08a99b661b575950b8830afb.png",Rio Frío TV ¹ 🇨🇷
+https://acceso.radiosportstv.online:3417/live/360rftvcrlive.m3u8
+
 #EXTINF:-1 tvg-chno="45" tvg-logo="https://geomedios.fcs.ucr.ac.cr/wp-content/uploads/2019/07/LogoSTV.png",Sarapiquí TV ¹ 🇨🇷
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 
