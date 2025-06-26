@@ -106,7 +106,7 @@ https://cloudvideo.servers10.com:8081/8132/tracks-v1a1/mono.m3u8
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
 
 #EXTINF:-1 tvg-chno="41" tvg-logo="https://megatvcr.net/images/logo-mega.png",Mega Tv CR ¹ 🇨🇷
-https://ssh101stream.ssh101.com:443/akamaissh101/ssh101/megatvcr2024/chunks.m3u8
+https://server.streamtech.com.co:5443/megatvcr/streams/J43tmGC4kNDaxPAZ1235868496603.m3u8
 
 #EXTINF:-1 tvg-chno="42" tvg-logo="https://static.wixstatic.com/media/e9b9b7_356efe37d4cb4ea3aaf42fb3c975af40~mv2.png",Garabito TV ¹ 🇨🇷
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
