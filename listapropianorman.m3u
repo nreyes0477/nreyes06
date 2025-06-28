@@ -363,17 +363,14 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-chno="135" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1",CNN Chile ¹ 🇨🇱
 https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="137" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png",Canal 24 Horas 🇨🇱
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=151792&extension=ts
+#EXTINF:-1 tvg-chno="137" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png",Canal 24 Horas ² 🇨🇱
+http://170.239.207.48:4050/play/CH50
 
 #EXTINF:-1 tvg-chno="138" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Meganoticias2019.png/380px-Meganoticias2019.png",Meganoticias 🇨🇱
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=151731&extension=ts
 
 #EXTINF:-1 tvg-chno="139" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Chvcontigoptv.png/revision/latest?cb=20231014035938&path-prefix=es",CHV Contigo ¹ 🇨🇱
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62aa5740a47b6c000769f407livestitch/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=fc4ecd2b-3353-5b86-73d4-12ceedc5a646&deviceDNT=0&deviceModel=0&profilesFromStream=true
-
-#EXTINF:-1 tvg-chno="140" tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2020/12/CANAL-UCL_Logo-350.png",UCL Televisión ¹ 🇺🇾
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
 #EXTINF:-1 tvg-chno="142" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png",TN Noticias ¹ 🇦🇷
 https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/57d67e41-d675-4665-bbed-5660d9ebe533:TUL/master.m3u8
@@ -441,6 +438,9 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/67d9b0ebc290c9499046e
 #EXTINF:-1 tvg-chno="166" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png",TV Perú Noticias ¹ 🇵🇪
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 
+#EXTINF:-1 tvg-chno="166" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png",Latina Noticias ¹ 🇵🇪
+https://jireh-5-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8?dpssid=b131176395625465cbd92084d9a&sid=ba5t1l1xb2897089257685f608fe3da5&ndvc=0
+
 #EXTINF:-1 tvg-chno="167" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/DW-German-Live-TV-Online.png?resize=1068%2C601&ssl=1",DW Español ¹ 🇩🇪
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
@@ -476,6 +476,9 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
 #EXTINF:-1 tvg-chno="178" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/200px-Ucvtvlogo2014mejorado.png",UCV Chile ¹ 🇨🇱
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="140" tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2020/12/CANAL-UCL_Logo-350.png",UCL Televisión ¹ 🇺🇾
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
 #EXTINF:-1 tvg-chno="179" tvg-logo="https://cdn.m3u.cl/logo/1356_El_Histonauta_TV.png",El Histonauta TV ¹ 🇦🇷
 https://stmv6.voxtvhd.com.br/elhistonautatv/elhistonautatv/playlist.m3u8
@@ -627,8 +630,8 @@ http://200.60.124.19:29000/play/a0id/index.m3u8
 #EXTINF:-1 tvg-chno="237" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/09/13-Cultura-en-vivo-Online-1536x864.png",Canal 13 Cultura ¹ 🇨🇱
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
-#EXTINF:-1 tvg-chno="238" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png",Canal 24 Horas • 🇨🇱
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=151792&extension=ts
+#EXTINF:-1 tvg-chno="238" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png",Canal 24 Horas • ² 🇨🇱
+http://170.239.207.48:4050/play/CH50
 
 #EXTINF:-1 tvg-chno="239" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png",Caracol 🇨🇴
 http://xxip9.top:8080/streaming/clients_live.php?username=7686199&password=9576982&stream=78700&extension=ts
