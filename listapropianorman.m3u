@@ -580,7 +580,7 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="220" tvg-logo="https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-BLANCA-300x99.png",Multivisión ¹ 🇦🇷
-https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0362
+https://panel.host-live.com:19360/8250/8250.m3u8
 
 #EXTINF:-1 tvg-chno="222" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/ATB-en-vivo-Online.png",ATB ² 🇧🇴
 http://45.225.75.8:81/play/tdt01
