@@ -426,8 +426,8 @@ http://5ea86ddd14ce7.streamlock.net:1935/live/cable09061970/.m3u8
 #EXTINF:-1 tvg-chno="162" tvg-logo="https://www.ntn24.com/__assets/images/logo.png",NTN24 🇨🇴
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=132638&extension=ts
 
-#EXTINF:-1 tvg-chno="163" tvg-logo="https://www.wola.org/wp-content/uploads/2019/09/noticias-caracol-768x768.jpg",Caracol Noticias ¹ 🇨🇴 
-https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+#EXTINF:-1 tvg-chno="163" tvg-logo="https://www.wola.org/wp-content/uploads/2019/09/noticias-caracol-768x768.jpg",Noticias Caracol ¹ 🇨🇴 
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8?uid=5dAe2fGb7gE6c1jXaP2GttShy86nHQLK&sid=O0AejFyDKpdhaeyLk7gPwNiMpmcOO4Ip&pid=uYRtuYUSYltZoFmv79Hwbg51yCqsTv7O&pid_dvr=VJCnagB6GCmFzHP262vwUZrnGAeDJxTK&an=screen&at=web-app&av=v6.0.176&ref=https%3A%2F%2Fwww.noticiascaracol.com%2F&res=393x221&without_cookies=false&listenerid=&dnt=true&access_token=JSz0UWBmsUn8TkHc4115r8pP0HGrLkh0hSP8TXSubfediv3wx7Dna7QqWP68Ev7WcYtirqm9vXp&adInsertionGoogleStreamId=77ef1fdd-481f-4828-bc8b-1ab52122827c:CHS
 
 #EXTINF:-1 tvg-chno="163" tvg-logo="https://images.pluto.tv/channels/67d9b0ebc290c9499046e88f/colorLogoPNG_1747143716006.png",Noticias RCN ¹ 🇨🇴 
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/67d9b0ebc290c9499046e88flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
