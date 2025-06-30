@@ -397,7 +397,7 @@ http://190.123.90.146:8000/play/a006/index.m3u8
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_576.m3u8
 
 #EXTINF:-1 tvg-chno="151" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/El_Pais_logo_2007.svg/294px-El_Pais_logo_2007.svg.png",El País ¹ 🇪🇦
-https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+https://d2xqbi89ghm9hh.cloudfront.net/fast-channel-el-pais.m3u8
 
 #EXTINF:-1 tvg-chno="152" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/El-Confidencial-TV-en-directo-Online.png?resize=1068%2C601&ssl=1",El Confidencial ¹ 🇪🇦
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
@@ -819,8 +819,8 @@ http://103.111.40.242:9999/play/a02i
 #EXTINF:-1 tvg-chno="299" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/telemundo.jpg",Telemundo Internacional (2) ² 🇺🇸
 http://190.116.38.19:9090/play/a04c/index.m3u8
 
-#EXTINF:-1 tvg-chno="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_5_HN_logo.png/180px-Canal_5_HN_logo.png",Canal 5 🇭🇳
-http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=3725&extension=ts
+#EXTINF:-1 tvg-chno="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_5_HN_logo.png/180px-Canal_5_HN_logo.png",Canal 5 ¹ 🇭🇳
+http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="302" tvg-logo="https://image.roku.com/developer_channels/prod/0d4a03ad9e1dd2ff1db1306d7b592cda8e08df57922237ff9797ef4bc18d30ec.png",RHC TV 🇭🇳
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=131630&extension=ts
@@ -933,8 +933,8 @@ http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=
 #EXTINF:-1 tvg-chno="336" tvg-logo="https://www.vivanicaragua.com.ni/contenido/archivos/2019/03/logo-blanco.png?x75729",Canal 13 🇳🇮
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=125971&extension=ts
 
-#EXTINF:-1 tvg-chno="337" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TN8_Nicaragua.svg/1280px-TN8_Nicaragua.svg.png",TN8 🇳🇮
-http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=31111&extension=ts
+#EXTINF:-1 tvg-chno="337" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TN8_Nicaragua.svg/1280px-TN8_Nicaragua.svg.png",TN8 ¹ 🇳🇮
+https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="338" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png",Tv Max 🇵🇦
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=126567&extension=ts
@@ -969,8 +969,8 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 #EXTINF:-1 tvg-chno="355" tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png",Unicanal 🇵🇾 
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=125965&extension=ts
 
-#EXTINF:-1 tvg-chno="360" tvg-logo="https://gzcsecurity.com/img/nosotros/seguridad/americatv-min.jpg",América TV ¹ 🇵🇪
-https://live-evg1.tv360.bitel.com.pe:443/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-chno="360" tvg-logo="https://gzcsecurity.com/img/nosotros/seguridad/americatv-min.jpg",América TV ² 🇵🇪
+http://170.239.207.48:4050/play/CH54
 
 #EXTINF:-1 tvg-chno="361" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png",Latina ¹ 🇵🇪
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina/.m3u8
@@ -1076,6 +1076,9 @@ http://38.41.8.1:8000/play/a03j
 
 #EXTINF:-1 tvg-chno="396" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Ve-Plus-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Venevisión Plus 🇻🇪
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=190838&extension=ts
+
+#EXTINF:-1 tvg-chno="397" tvg-logo="https://www.newslinereport.com/online/foto_120.jpg",Venevisión Internacional ¹ 🇻🇪
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/1160000.m3u8
 
 #EXTINF:-1 tvg-chno="400" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg",E! Entertainment ²
 http://38.159.227.124:8000/play/a04p
