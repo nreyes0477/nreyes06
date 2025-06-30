@@ -405,9 +405,6 @@ https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-chno="153" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/ADN-40-en-vivo-Online.png?zoom=3&resize=324%2C235&ssl=1",ADN 40 ¹ 🇲🇽
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-chno="155" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Foro-TV-en-directo-Online-1.png?resize=1068%2C601&ssl=1",Foro TV 🇲🇽
-http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=90214&extension=ts
-
 #EXTINF:-1 tvg-chno="156" tvg-logo="https://i.imgur.com/kARz7SR.png",Meganoticias MX 🇲🇽
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=269605&extension=ts
 
