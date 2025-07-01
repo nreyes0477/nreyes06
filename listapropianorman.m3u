@@ -946,10 +946,10 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=126566&extension=ts
 
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/300px-Logo-telemetro.svg.png",Telemetro 🇵🇦
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=76939&extension=ts
+http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/201865.m3u8
 
 #EXTINF:-1 tvg-chno="343" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/RPC-en-vivo-Online.png?resize=1068%2C601&ssl=1",RPC 🇵🇦
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=31159&extension=ts
+http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/201866.m3u8
 
 #EXTINF:-1 tvg-chno="344" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/NEX-TV-Panam%C3%A1-en-vivo-Online.png?zoom=3&resize=218%2C150&ssl=1",Next TV ¹ 🇵🇦
 https://vcp8.myplaytv.com:1936/nextv/nextv/playlist.m3u8
