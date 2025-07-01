@@ -834,8 +834,8 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 #EXTINF:-1 tvg-chno="305" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Canal-11-Honduras-en-vivo-Online.png",Canal 11 ¹ 🇭🇳
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/canal11hn/livestream1/chunks.m3u8?dpssid=b131176395625465cbd92084d9a&sid=ba5t1l1xb230348567067a9a9a3f38dc&ndvc=0
 
-#EXTINF:-1 tvg-chno="307" tvg-logo="https://hch.tv/wp-content/uploads/2021/09/logos-hch-bueno-1.png",HCH 🇭🇳
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=125935&extension=ts
+#EXTINF:-1 tvg-chno="307" tvg-logo="https://hch.tv/wp-content/uploads/2021/09/logos-hch-bueno-1.png",HCH ¹ 🇭🇳
+https://dvrfl03.bozztv.com/hondu-hchtv/index.m3u8
 
 #EXTINF:-1 tvg-chno="309" tvg-logo="https://image.roku.com/developer_channels/prod/51815da9f86794012aed4f696ce25f08ca883f2560a1a6c1fb0361bb16716c87.png",CTV Internacional ¹ 🇭🇳
 https://mediacp.us:8081/ctvhn/tracks-v1a1/mono.m3u8
