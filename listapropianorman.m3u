@@ -373,7 +373,7 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62aa5740a47b6c000769f407livestitch/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=fc4ecd2b-3353-5b86-73d4-12ceedc5a646&deviceDNT=0&deviceModel=0&profilesFromStream=true
 
 #EXTINF:-1 tvg-chno="142" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png",TN Noticias 🇦🇷
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=3556&extension=ts
+http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/210864.m3u8
 
 #EXTINF:-1 tvg-chno="143" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/588px-Canal_26_logo_%282022%29.svg.png",Canal 26 🇦🇷
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=3543&extension=ts
@@ -526,7 +526,7 @@ http://190.123.90.146:8000/play/a00n/index.m3u8
 http://181.78.201.70:8000/play/a0mu/index.m3u8
 
 #EXTINF:-1 tvg-chno="203" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe 🇦🇷
-http://iptvglobal.site:80/live/ZznTnr2HgeX/DAprVZ2EkB/462644.m3u8
+http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/210861.m3u8
 
 #EXTINF:-1 tvg-chno="204" tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2023/02/Mi-8-alta-06.png",13Max TV (Telefe) ¹ 🇦🇷
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w591180067.m3u8
@@ -547,7 +547,7 @@ http://190.123.90.146:8000/play/a00q/index.m3u8
 http://181.78.23.26:45000/play/a029
 
 #EXTINF:-1 tvg-chno="210" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png",TN Noticias • 🇦🇷
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=3556&extension=ts
+http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/210864.m3u8
 
 #EXTINF:-1 tvg-chno="211" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/588px-Canal_26_logo_%282022%29.svg.png",Canal 26 • 🇦🇷 
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=3543&extension=ts
@@ -631,10 +631,10 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 http://170.239.207.48:4050/play/CH50
 
 #EXTINF:-1 tvg-chno="239" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png",Caracol 🇨🇴
-http://xxip9.top:8080/streaming/clients_live.php?username=7686199&password=9576982&stream=78700&extension=ts
+http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/176569.m3u8
 
 #EXTINF:-1 tvg-chno="240" tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg",RCN 🇨🇴
-http://xxip9.top:8080/streaming/clients_live.php?username=7686199&password=9576982&stream=78694&extension=ts
+http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/176580.m3u8
 
 #EXTINF:-1 tvg-chno="241" tvg-logo="https://1.bp.blogspot.com/-jslL1CIeqqk/YaVCAmvGxvI/AAAAAAAADDo/wPaGYipC7Eo_6NVRuL0XESV1lzjq6xhLgCLcBGAsYHQ/s16000/rcnmas.jpg",RCN Más + ¹ 🇨🇴
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
@@ -642,8 +642,8 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="242" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/250px-Channel_1_%28Colombia%29_-_2017_logo.svg.png",Canal 1 🇨🇴
 http://xxip9.top:8080/streaming/clients_live.php?username=7686199&password=9576982&stream=78698&extension=ts
 
-#EXTINF:-1 tvg-chno="243" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Logo_Citytv_2023.jpg",City TV ² 🇨🇴
-http://181.78.23.26:45000/play/a02v
+#EXTINF:-1 tvg-chno="243" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Logo_Citytv_2023.jpg",City TV 🇨🇴
+http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/176595.m3u8
 
 #EXTINF:-1 tvg-chno="244" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/500px-Se%C3%B1al_Colombia_logo.svg.png",Señal Colombia 🇨🇴
 http://xxip9.top:8080/live/7686199/9576982/78711.m3u8
@@ -652,7 +652,7 @@ http://xxip9.top:8080/live/7686199/9576982/78711.m3u8
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=3573&extension=ts
 
 #EXTINF:-1 tvg-chno="247" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/03/RCN_Nuestra_Tele_Int_516x287.jpg",RCN Internacional 🇨🇴
-http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=307021&extension=ts
+http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/199513.m3u8
 
 #EXTINF:-1 tvg-chno="250" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/233px-EcuadorTV_logo.png",Ecuador TV ¹ 🇪🇨
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
