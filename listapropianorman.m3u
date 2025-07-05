@@ -1656,8 +1656,8 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 #EXTINF:-1 tvg-chno="686" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos.png?resize=600%2C360&ssl=1",Cableonda 🇵🇦 
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=151800&extension=ts
 
-#EXTINF:-1 tvg-chno="687" tvg-logo="https://www.deportestvc.com/images/home/logo-white-yellow.png",Deportes TVC ² 🇭🇳
-http://190.92.10.66:4000/play/a008/index.m3u8
+#EXTINF:-1 tvg-chno="687" tvg-logo="https://www.deportestvc.com/images/home/logo-white-yellow.png",Deportes TVC 🇭🇳
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13169&extension=ts
 
 #EXTINF:-1 tvg-chno="688" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aztecadeporteslogo.png/480px-Aztecadeporteslogo.png",Azteca Deportes ² 🇲🇽
 http://190.60.33.245:4002/play/a0hw
