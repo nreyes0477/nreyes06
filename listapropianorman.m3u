@@ -829,7 +829,7 @@ http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=131630&extension=ts
 
 #EXTINF:-1 tvg-chno="303" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/180px-Telecadena7y42018.png",Telecadena 🇭🇳
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=125933&extension=ts
+http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2100969.m3u8
 
 #EXTINF:-1 tvg-chno="304" tvg-logo="https://logopond.com/logos/c3966093ee94ae75a6f65778327bf70c.png",Telesistema 🇭🇳
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=125932&extension=ts
@@ -925,7 +925,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380&avod=1&coppa=0&is_lat
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=125968&extension=ts
 
 #EXTINF:-1 tvg-chno="333" tvg-logo="https://1.bp.blogspot.com/-Fi3j72ih8b8/YSzl1J95lrI/AAAAAAAAQVE/qDJWftQ2kVUOGhTCR9IFxSk5dUbv00OGACLcBGAsYHQ/w700-h400-p-k-no-nu/Canal%2B4%2Ben%2Bvivo.jpg",Canal 4 🇳🇮
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=125976&extension=ts
+http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2151063.m3u8
 
 #EXTINF:-1 tvg-chno="334" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal 6 🇳🇮
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=125975&extension=ts
@@ -939,8 +939,8 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 #EXTINF:-1 tvg-chno="337" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TN8_Nicaragua.svg/1280px-TN8_Nicaragua.svg.png",TN8 ¹ 🇳🇮
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="338" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png",Tv Max ² 🇵🇦
-http://172.93.102.112:8989/279309_.m3u8
+#EXTINF:-1 tvg-chno="338" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png",Tv Max 🇵🇦
+http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/155916.m3u8
 
 #EXTINF:-1 tvg-chno="341" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png",TVN ² 🇵🇦
 http://172.93.102.112:8989/279310_.m3u8
@@ -961,7 +961,7 @@ https://stream.paraguaytv.gov.py/memfs/400fcc83-8f04-4497-8011-150847d44702.m3u8
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=131712&extension=ts
 
 #EXTINF:-1 tvg-chno="352" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg",Telefuturo 🇵🇾
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=131713&extension=ts
+http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2107631.m3u8
 
 #EXTINF:-1 tvg-chno="353" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/240px-Logotrececanal.png",Canal Trece ¹ 🇵🇾
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8?k=7bbcd2c29036c5780ea487ec3c5331e9f9b59d1fb301321e7d5c8805d61e8c5c&exp=1718519821
@@ -1065,22 +1065,25 @@ https://vod2live.univtec.com/manifest/92fdf936-8cde-4ac2-b5a0-3dfe3663301d.m3u8
 #EXTINF:-1 tvg-chno="391" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Venezolana-de-Televisi%C3%B3n-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Venezolana de TV ² 🇻🇪
 http://38.41.8.1:8000/play/a03i
 
-#EXTINF:-1 tvg-chno="392" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Televen-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1",Televen ¹ 🇻🇪
-https://d39cdj6x0ssnqk.cloudfront.net/out/v1/ae3f5ad3ac9d4bcfbedc1894a62782b4/index.m3u8
+#EXTINF:-1 tvg-chno="392" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Televen-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1",Televen 🇻🇪
+http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2106066.m3u8
 
 #EXTINF:-1 tvg-chno="393" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/TVES-Venezuela-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",TVes ² 🇻🇪
 http://38.41.8.1:8000/play/a03k
 
-#EXTINF:-1 tvg-chno="394" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/IVC_Network_Logo.png/300px-IVC_Network_Logo.png",IVC 🇻🇪 
+#EXTINF:-1 tvg-chno="394" tvg-logo="https://www.promar.tv/wp-content/uploads/2024/07/a-384x384-logo-para-el-de-512.png",Promar ¹ 🇻🇪
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="395" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/IVC_Network_Logo.png/300px-IVC_Network_Logo.png",IVC 🇻🇪 
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=158470&extension=ts
 
-#EXTINF:-1 tvg-chno="395" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Vivetv.png/500px-Vivetv.png",Canal Vive ² 🇻🇪 
+#EXTINF:-1 tvg-chno="396" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Vivetv.png/500px-Vivetv.png",Canal Vive ² 🇻🇪 
 http://38.41.8.1:8000/play/a03j
 
-#EXTINF:-1 tvg-chno="396" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Ve-Plus-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Venevisión Plus 🇻🇪
+#EXTINF:-1 tvg-chno="397" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Ve-Plus-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Venevisión Plus 🇻🇪
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=190838&extension=ts
 
-#EXTINF:-1 tvg-chno="397" tvg-logo="https://www.newslinereport.com/online/foto_120.jpg",Venevisión Internacional ¹ 🇻🇪
+#EXTINF:-1 tvg-chno="398" tvg-logo="https://www.newslinereport.com/online/foto_120.jpg",Venevisión Internacional ¹ 🇻🇪
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/1160000.m3u8
 
 #EXTINF:-1 tvg-chno="400" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg",E! Entertainment ²
