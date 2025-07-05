@@ -1020,6 +1020,9 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 #EXTINF:-1 tvg-chno="375" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/wapa.png?zoom=2&resize=218%2C150&ssl=1",Wapa América 🇵🇷
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=126531&extension=ts
 
+#EXTINF:-1 tvg-chno="375" tvg-logo="https://wipr.pr/wp-content/uploads/2024/10/logo.png",Wipr TV 🇵🇷
+http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/126153.m3u8
+
 #EXTINF:-1 tvg-chno="376" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/telemicro.png?zoom=3&resize=100%2C70&ssl=1",Telemicro Canal 5 🇩🇴
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=131918&extension=ts
 
