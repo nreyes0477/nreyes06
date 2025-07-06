@@ -1317,26 +1317,26 @@ http://190.102.246.93:9005/play/a03t
 #EXTINF:-1 tvg-chno="570" tvg-logo="https://sitelco.tv/wp-content/uploads/2023/08/mxclassic.png",MX Classic ²
 http://190.102.246.93:9005/play/a03h
 
-#EXTINF:-1 tvg-chno="572" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO Norte ²
-http://45.186.106.207:8000/play/a07m
+#EXTINF:-1 tvg-chno="572" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO Norte
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13218&extension=ts
 
-#EXTINF:-1 tvg-chno="573" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",HBO 2 Norte ²
-http://45.186.106.207:8000/play/a07n
+#EXTINF:-1 tvg-chno="573" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",HBO 2 Norte
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13221&extension=ts
 
-#EXTINF:-1 tvg-chno="574" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",HBO Family Norte ²
-http://45.186.106.207:8000/play/a07p
+#EXTINF:-1 tvg-chno="574" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",HBO Family Norte 
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13217&extension=ts
 
-#EXTINF:-1 tvg-chno="575" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO Plus Norte ²
-http://45.186.106.207:8000/play/a07o
+#EXTINF:-1 tvg-chno="575" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO Plus Norte 
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13219&extension=ts
 
 #EXTINF:-1 tvg-chno="576" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png",HBO Pop Norte ²
 http://190.102.246.93:9005/play/a05b
 
 #EXTINF:-1 tvg-chno="577" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png",HBO Signature Norte
-http://shacktv.com:8080/live/tney5830/7086745830/120618.ts
+http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/10882.m3u8
 
-#EXTINF:-1 tvg-chno="578" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme Norte ²
-http://45.186.106.207:8000/play/a07q
+#EXTINF:-1 tvg-chno="578" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme Norte
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13220&extension=ts
 
 #EXTINF:-1 tvg-chno="579" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO Sur ²
 http://190.102.246.93:9005/play/a01a
