@@ -1162,7 +1162,7 @@ http://200.60.124.20:29000/play/a04w/index.m3u8
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=164038&extension=ts
 
 #EXTINF:-1 tvg-chno="438" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/125px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png",Mas Chic
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13245&extension=ts
+http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/10569.m3u8
 
 #EXTINF:-1 tvg-chno="440" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Clic_%28TV_channel%29_logo_2021.png",Clic!
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=151358&extension=ts
