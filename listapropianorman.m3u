@@ -1131,8 +1131,8 @@ http://216.122.181.10:8081/play/a0lx
 #EXTINF:-1 tvg-chno="424" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png",Discovery Science ²
 http://38.159.227.124:8000/play/a099
 
-#EXTINF:-1 tvg-chno="425" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png",HGTV Latino ™
-http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2218847.m3u8
+#EXTINF:-1 tvg-chno="425" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png",HGTV Latino
+http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2218859.m3u8
 
 #EXTINF:-1 tvg-chno="427" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png",Comedy Central ²
 http://38.159.227.124:8000/play/a02t
