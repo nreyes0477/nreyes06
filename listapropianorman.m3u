@@ -877,7 +877,7 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=334745&extension=ts
 
 #EXTINF:-1 tvg-chno="321" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/724px-Canal_5_2016.svg.png",Canal 5 🇲🇽
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13122&extension=ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13122&extension=ts
 
 #EXTINF:-1 tvg-chno="322" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/10/Multimedios-TV-Canal-6-en-vivo-Online.png?resize=1068%2C601&ssl=1",Multimedios Canal 6 ¹ 🇲🇽
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
@@ -1093,16 +1093,16 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/11600
 http://38.159.227.124:8000/play/a04p
 
 #EXTINF:-1 tvg-chno="405" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-id_m.png",ID Investigation
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13178&extension=ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13178&extension=ts
 
 #EXTINF:-1 tvg-chno="409" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png",History Channel
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13227&extension=ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13227&extension=ts
 
 #EXTINF:-1 tvg-chno="410" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",History Channel 2 ²
 http://216.122.181.10:8081/play/a0f6
 
 #EXTINF:-1 tvg-chno="411" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13249&extension=ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13249&extension=ts
 
 #EXTINF:-1 tvg-chno="412" tvg-logo="https://www.disneyadvertising.com/wp-content/uploads/2023/09/das_nat-geo_nat-geo-mundo_logo_KO-uai-720x405-1.png",Nat Geo Mundo
 http://nxt.plus:8080/streaming/clients_live.php?username=olmos&password=1234guz&stream=58674&extension=ts
@@ -1111,7 +1111,7 @@ http://nxt.plus:8080/streaming/clients_live.php?username=olmos&password=1234guz&
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=126163&extension=ts
 
 #EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png",Animal Planet
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13110&extension=ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13110&extension=ts
 
 #EXTINF:-1 tvg-chno="418" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=132578&extension=ts
@@ -1144,7 +1144,7 @@ https://amg01602-amg01602c2-canelatv-international-5561.playouts.now.amagi.tv/pl
 http://216.122.181.10:8081/play/a0ro
 
 #EXTINF:-1 tvg-chno="432" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/350px-DistritoComediaLOGO2018.png",Distrito Comedia
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13173&extension=ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13173&extension=ts
 
 #EXTINF:-1 tvg-chno="433" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sun_channel-mediano.png",Sun Channel ²
 http://190.102.246.93:9005/play/a01j
@@ -1168,7 +1168,7 @@ http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/10569.m3u8
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=151358&extension=ts
 
 #EXTINF:-1 tvg-chno="500" tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png",A&E
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13098&extension=ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13098&extension=ts
 
 #EXTINF:-1 tvg-chno="501" tvg-logo="https://cdn.mitvstatic.com/channels/cl_amc_m.png",AMC
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=150103&extension=ts
@@ -1183,7 +1183,7 @@ https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
 http://216.122.181.10:8081/play/a0dv/index.m3u8
 
 #EXTINF:-1 tvg-chno="505" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png",Cinecanal
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13127&extension=ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13127&extension=ts
 
 #EXTINF:-1 tvg-chno="506" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinemax_m.png",Cinemax
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=7989&extension=ts
@@ -1195,7 +1195,7 @@ http://216.122.181.10:8081/play/a0hb
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=7998&extension=ts
 
 #EXTINF:-1 tvg-chno="512" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/420px-Golden_Edge_Logo_2020.png",Golden Edge
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13209&extension=ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13209&extension=ts
 
 #EXTINF:-1 tvg-chno="513" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png",Golden Plus
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=3648&extension=ts
@@ -1222,7 +1222,7 @@ http://181.78.4.186:8000/play/a0dt
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/197327.m3u8
 
 #EXTINF:-1 tvg-chno="520" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png",Sony
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13267&extension=ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13267&extension=ts
 
 #EXTINF:-1 tvg-chno="521" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png",USA Network ²
 http://181.78.4.186:8000/play/a0e4
@@ -1231,7 +1231,7 @@ http://181.78.4.186:8000/play/a0e4
 http://216.122.181.10:8081/play/a0dn
 
 #EXTINF:-1 tvg-chno="523" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png",Studio Universal
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13277&extension=ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13277&extension=ts
 
 #EXTINF:-1 tvg-chno="524" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tnt_m.png",TNT
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=138044&extension=ts
@@ -1240,7 +1240,7 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 http://216.122.181.10:8081/play/a0do
 
 #EXTINF:-1 tvg-chno="526" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner_m.png",Warner Channel
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13321&extension=ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13321&extension=ts
 
 #EXTINF:-1 tvg-chno="527" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png",FX 
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/148725.m3u8
@@ -1318,16 +1318,16 @@ http://190.102.246.93:9005/play/a03t
 http://190.102.246.93:9005/play/a03h
 
 #EXTINF:-1 tvg-chno="572" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO Norte
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13218&extension=ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13218&extension=ts
 
 #EXTINF:-1 tvg-chno="573" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",HBO 2 Norte
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13221&extension=ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13221&extension=ts
 
 #EXTINF:-1 tvg-chno="574" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",HBO Family Norte 
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13217&extension=ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13217&extension=ts
 
 #EXTINF:-1 tvg-chno="575" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO Plus Norte 
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13219&extension=ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13219&extension=ts
 
 #EXTINF:-1 tvg-chno="576" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png",HBO Pop Norte ²
 http://190.102.246.93:9005/play/a05b
@@ -1336,7 +1336,7 @@ http://190.102.246.93:9005/play/a05b
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/10882.m3u8
 
 #EXTINF:-1 tvg-chno="578" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme Norte
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13220&extension=ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13220&extension=ts
 
 #EXTINF:-1 tvg-chno="579" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO Sur ²
 http://190.102.246.93:9005/play/a01a
@@ -1348,7 +1348,7 @@ http://181.78.201.70:8000/play/a0ip
 http://190.102.246.93:9005/play/a01g
 
 #EXTINF:-1 tvg-chno="586" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO Plus Sur
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13219&extension=ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13219&extension=ts
 
 #EXTINF:-1 tvg-chno="587" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png",HBO Pop Sur
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=7969&extension=ts
@@ -1357,7 +1357,7 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=7970&extension=ts
 
 #EXTINF:-1 tvg-chno="589" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme Sur
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13220&extension=ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13220&extension=ts
 
 #EXTINF:-1 tvg-chno="590" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png",HBO Mundi Sur
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=7968&extension=ts
@@ -1579,7 +1579,7 @@ http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/197233.m3u8
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=4316&extension=ts
 
 #EXTINF:-1 tvg-chno="670" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/LaLiga_2023_Horizontal_Logo.svg/1024px-LaLiga_2023_Horizontal_Logo.svg.png",La Liga Vix 🇺🇸
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13326&extension=ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13326&extension=ts
 
 #EXTINF:-1 tvg-chno="671" tvg-logo="https://www.lyngsat.com/logo/tv/ll/laliga-tv-bar-es.svg",La Liga TV Bar 🇪🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=126460&extension=ts
