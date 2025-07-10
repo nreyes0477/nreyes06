@@ -471,9 +471,6 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-chno="179" tvg-logo="https://cdn.m3u.cl/logo/1356_El_Histonauta_TV.png",El Histonauta TV ¹ 🇦🇷
 https://stmv6.voxtvhd.com.br/elhistonautatv/elhistonautatv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="180" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/TEC_TV_-_2014_logo.png",Tec TV ¹ 🇦🇷
-https://vd01.streaminghd.net.ar:3787/live/jcslppmtlive.m3u8
-
 #EXTINF:-1 tvg-chno="181" tvg-logo="https://academiajoven.es/wp-content/uploads/2020/09/xataka.png",Xataka TV ¹ 🇪🇸
 https://wbd-xat.otteravision.com/wbd/xat/xat.m3u8
 
@@ -483,29 +480,17 @@ https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
 #EXTINF:-1 tvg-chno="183" tvg-logo="https://www.deel.com/hs-fs/hubfs/Platzi%20logo.png?width=1000&height=387&name=Platzi%20logo.png",Platzi TV ¹ 🇨🇱
 https://mdstrm.com/live-stream-playlist/663ba07c06e6e3577a30452a.m3u8?uid=5dAe2fGb7gE6c1jXaP2GttShy86nHQLK&sid=00NPHR4Yl6L3eYoGqdgqPrfGk6lK6jpR&pid=kEwRnUOEtOQTXGUJJmkWSBpPnPtOca61&an=screen&at=web-app&av=v6.0.57&ref=https%3A%2F%2Fplatzi.com%2Flive%2F&res=393x221&without_cookies=false&listenerid=&dnt=true
 
-#EXTINF:-1 tvg-chno="184" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal Te lo cuento ¹ 🇦🇷
-https://stmv1.cnarlatam.com/telocuento/telocuento/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="185" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal Astronet ¹ 🇦🇷
 https://stmv6.voxtvhd.com.br/astronet/astronet/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="186" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal Mundo TV ¹ 🇦🇷
 https://stmv4.voxtvhd.com.br/elbuenvivir/elbuenvivir/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="187" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal TechsCience365 ¹ 🇦🇷
-https://stmv6.voxtvhd.com.br/techscience365/techscience365/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="188" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal XtremaAnimal ¹ 🇦🇷
 https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="189" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Vale-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1",Vale TV ¹ 🇻🇪
 https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="190" tvg-logo="https://i.imgur.com/2WirGqb.png",Inti TV ¹ 🇪🇨
-https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
-
-#EXTINF:-1 tvg-chno="191" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ConcienciaTV_logo_letras.png/1280px-ConcienciaTV_logo_letras.png",ConCiencia TV 🇻🇪
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/47084.m3u8
 
 #EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",El Trece ¹ 🇦🇷
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
