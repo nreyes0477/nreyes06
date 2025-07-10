@@ -1402,13 +1402,13 @@ http://200.125.170.120:8000/play/a04f/index.m3u8
 http://200.229.147.210:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-chno="604" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/320px-TD_M%C3%A1s_Logo.png",TD + ²
-http://45.186.106.207:8000/play/a06r
+http://38.180.133.31:8000/play/a0kt/index.m3u8
 
 #EXTINF:-1 tvg-chno="605" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 ²
 http://200.229.147.210:8000/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-chno="606" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 ²
-http://45.186.106.207:8000/play/a06s
+http://38.180.133.31:8000/play/a0ku/index.m3u8
 
 #EXTINF:-1 tvg-chno="607" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN Centro ²
 http://181.119.111.25:8000/play/a0dj/index.m3u8
