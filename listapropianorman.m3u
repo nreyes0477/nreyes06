@@ -96,17 +96,11 @@ https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 #EXTINF:-1 tvg-chno="37" tvg-logo="https://radiocostarica.net/sites/default/files/styles/player_image/public/2024-06/GAM%20TV%20CR-Costa%20Rica_0.png.webp?itok=ExXxZFSr",GAM TV ¹ 🇨🇷
 https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="38" tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=362,fit=crop,q=95/m6Lv6l8oEjFbvwk5/imagotipo-dWxlNo0yaeFnnNL0.png",Metaversus ¹ 🇨🇷
-https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
-
 #EXTINF:-1 tvg-chno="39" tvg-logo="https://www.coolstreaming.us/img/ch/image6702628824.jpg",Antena Seis TV ¹ 🇨🇷
 https://cloudvideo.servers10.com:8081/8132/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="40" tvg-logo="https://i.imgur.com/OFSOvpd.jpeg",TDtv ¹ 🇨🇷
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
-
-#EXTINF:-1 tvg-chno="41" tvg-logo="https://megatvcr.net/images/logo-mega.png",Mega Tv CR ¹ 🇨🇷
-https://server.streamtech.com.co:5443/megatvcr/streams/J43tmGC4kNDaxPAZ1235868496603.m3u8
 
 #EXTINF:-1 tvg-chno="42" tvg-logo="https://static.wixstatic.com/media/e9b9b7_356efe37d4cb4ea3aaf42fb3c975af40~mv2.png",Garabito TV ¹ 🇨🇷
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
@@ -134,9 +128,6 @@ https://latamvdo.com:3870/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-chno="49" tvg-logo="https://image.roku.com/developer_channels/prod/3d89b0129300d4fcc1b74f51c7dbee45020d18b6c3457995c78895567ab1a39f.png",Coto Brus TV ¹ 🇨🇷
 https://s1.tvdatta.com:3072/live/cotobrustvlive.m3u8
-
-#EXTINF:-1 tvg-chno="50" tvg-logo="https://i.imgur.com/7HbISMV.png",TV Sur Canal 9 ¹ 🇨🇷
-http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://i.imgur.com/RqdpiYo.jpeg",Megahits ¹ 🇨🇷
 https://giatv.bozztv.com/giatv/giatv-Supercanal/Supercanal/playlist.m3u8
