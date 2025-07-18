@@ -1068,9 +1068,6 @@ http://216.122.181.10:8081/play/a0f6
 #EXTINF:-1 tvg-chno="411" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13249&extension=ts
 
-#EXTINF:-1 tvg-chno="412" tvg-logo="https://www.disneyadvertising.com/wp-content/uploads/2023/09/das_nat-geo_nat-geo-mundo_logo_KO-uai-720x405-1.png",Nat Geo Mundo
-http://nxt.plus:8080/streaming/clients_live.php?username=olmos&password=1234guz&stream=58674&extension=ts
-
 #EXTINF:-1 tvg-chno="414" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/500px-National_Geographic_Wild_logo.svg.png",Nat Geo Wild
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=126163&extension=ts
 
@@ -1137,8 +1134,8 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 #EXTINF:-1 tvg-chno="501" tvg-logo="https://i.postimg.cc/ncsmtW5L/amce.jpg",AMC (USA) ¹
 https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="502" tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png",AXN ²
-http://216.122.181.10:8081/play/a0dv/index.m3u8
+#EXTINF:-1 tvg-chno="502" tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png",AXN
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13102&extension=ts
 
 #EXTINF:-1 tvg-chno="505" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png",Cinecanal
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13127&extension=ts
@@ -1170,14 +1167,11 @@ http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/155172.m3u8
 #EXTINF:-1 tvg-chno="518" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox_m.png",Star Channel
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=3642&extension=ts
 
-#EXTINF:-1 tvg-chno="518" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox_m.png",Star Channel (2)
-http://181.78.4.186:8000/play/a0dt
-
 #EXTINF:-1 tvg-chno="519" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SonyMovies.png",Cine Sony
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/197327.m3u8
 
 #EXTINF:-1 tvg-chno="520" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png",Sony
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13267&extension=ts
+http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=46660&extension=ts
 
 #EXTINF:-1 tvg-chno="521" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png",USA Network ²
 http://181.78.4.186:8000/play/a0e4
