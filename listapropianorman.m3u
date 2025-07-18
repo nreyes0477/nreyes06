@@ -399,8 +399,8 @@ https://nbcu-telemundonortheast-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-chno="133" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo Noticias FL ¹ 🇺🇸
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
-#EXTINF:-1 tvg-chno="135" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1",CNN Chile ¹ 🇨🇱
-https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="135" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1",CNN Chile 🇨🇱
+http://satk.pro:2082/streaming/clients_live.php?username=2025XChinaxPor2025&password=56yCCTvdyF5H&stream=2368&extension=ts
 
 #EXTINF:-1 tvg-chno="137" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png",Canal 24 Horas 🇨🇱
 http://satk.pro:2082/streaming/clients_live.php?username=2025XChinaxPor2025&password=56yCCTvdyF5H&stream=2360&extension=ts
