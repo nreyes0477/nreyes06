@@ -1314,23 +1314,23 @@ http://216.122.181.10:8081/play/a0h7
 #EXTINF:-1 tvg-chno="593" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png",Universal Channel Diferido ²
 http://181.78.23.26:45000/play/a007
 
-#EXTINF:-1 tvg-chno="594" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644505043521-Imagen.jpg",Universal Cinema ²
-http://38.159.227.124:8000/play/a04e
+#EXTINF:-1 tvg-chno="594" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644505043521-Imagen.jpg",Universal Cinema 
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7685&stream=13310&extension=ts
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504904675-Imagen.jpg",Universal Comedy ²
-http://38.159.227.124:8000/play/a030
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504904675-Imagen.jpg",Universal Comedy
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7685&stream=13311&extension=ts
 
-#EXTINF:-1 tvg-chno="596" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504857757-Imagen.jpg",Universal Crime ²
-http://38.159.227.124:8000/play/a02z
+#EXTINF:-1 tvg-chno="596" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504857757-Imagen.jpg",Universal Crime
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7685&stream=13312&extension=ts
 
-#EXTINF:-1 tvg-chno="597" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504463678-Imagen.jpg",Universal Premiere ²
-http://38.159.227.124:8000/play/a02w
+#EXTINF:-1 tvg-chno="597" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504463678-Imagen.jpg",Universal Premiere
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7685&stream=13313&extension=ts
 
-#EXTINF:-1 tvg-chno="598" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504463678-Imagen.jpg",Universal Premiere 2 ²
-http://38.159.227.124:8000/play/a02x
+#EXTINF:-1 tvg-chno="598" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504463678-Imagen.jpg",Universal Premiere 2 
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7685&stream=13314&extension=ts
 
-#EXTINF:-1 tvg-chno="599" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1646691382488-Imagen.jpg",Universal Reality ²
-http://38.159.227.124:8000/play/a02y
+#EXTINF:-1 tvg-chno="599" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1646691382488-Imagen.jpg",Universal Reality 
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7685&stream=13315&extension=ts
 
 #EXTINF:-1 tvg-chno="600" tvg-logo="https://www.larepublica.net/storage/images/2020/08/18/20200818082353.futv.jpg",Futv ²
 http://190.92.10.66:4000/play/a00c
