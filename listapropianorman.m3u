@@ -18,10 +18,10 @@ http://crlive1.service.osllacdn.com/teleticahdcr/vxfmt=dp/playlist.m3u8?device_p
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://www.teleticaradio.com/img/Logo-Color.png",Teletica Radio ¹ 🇨🇷
 https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamTRadio/bbcfd43fb9ad3b22af53808371ce9a16.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/XPERTV_logo.png/330px-XPERTV_logo.png",Xpertv ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://libertycr.com/documents/297305827/297420738/xpertv.jpg",Xpertv ¹ 🇨🇷
 http://crlive1.service.osllacdn.com/xpertvcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="8" tvg-logo="https://pbs.twimg.com/profile_images/1510311834800246787/sfWgWmqk.jpg",Canal 8 Multimedios ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="8" tvg-logo="https://libertycr.com/documents/297305827/297420738/multimedios.jpg",Canal 8 Multimedios ¹ 🇨🇷
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445/master.m3u8
 
 #EXTINF:-1 tvg-chno="9" tvg-logo="https://www.canal9.cr/IMAGES/Logo%20Canal%209%202D%20Color.png",Canal 9 ¹ 🇨🇷
@@ -36,25 +36,25 @@ http://crlive1.service.osllacdn.com/canal13sinarthdcr/vxfmt=dp/playlist.m3u8?dev
 #EXTINF:-1 tvg-chno="14" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Trivisio%CC%81n-Canal-36-en-vivo-Online.png",Canal 36 Trivisión ¹ 🇨🇷
 http://crlive1.service.osllacdn.com/trivisionhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="15" tvg-logo="https://genteopa.com/wp-content/uploads/2024/03/cropped-logo-opa-1.png",Canal 38 ¡Opa! ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="15" tvg-logo="https://libertycr.com/documents/297305827/297420738/canalopa!.jpg",Canal 38 ¡Opa! ¹ 🇨🇷
 http://crlive1.service.osllacdn.com/opacr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-chno="16" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/extra_tv-mediano.png",Extra Tv 42 ¹ 🇨🇷
 https://live.airstream.run/gxtra-cr-dxtra-tv/live/4508d726-f0c8-450c-b377-140a45707149/ts:abr.m3u8
 
-#EXTINF:-1 tvg-chno="17" tvg-logo="https://image.roku.com/developer_channels/prod/54692756b637a7fe9bddfa2a9d03c90ab00be93516aef3828db91b5040886b9d.png",Tica Visión ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="17" tvg-logo="https://libertycr.com/documents/297305827/297420738/ticavision.jpg",Tica Visión ¹ 🇨🇷
 https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="18" tvg-logo="https://elnortehoycr.com/wp-content/uploads/2020/07/captura-19.jpg",TVN 14 San Carlos ¹ 🇨🇷
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/chunklist_w1881922243.m3u8
 
-#EXTINF:-1 tvg-chno="20" tvg-logo="https://costaricatelevision.com/sites/default/files/2022-09/_Telered%252520Television.png",Telered ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="20" tvg-logo="https://libertycr.com/documents/297305827/297420738/telered.jpg",Telered ¹ 🇨🇷
 https://k20.usastreams.com:8081/telered/index.m3u8
 
 #EXTINF:-1 tvg-chno="21" tvg-logo="https://image.roku.com/developer_channels/prod/0059b385c4fae2dcd6cbacc1a47c1418b2b3c82cd431a05a2aa34b3eae8ac5ed.png",Telesistema ¹ 🇨🇷
 https://k20.usastreams.com:8081/telesistema/index.m3u8
 
-#EXTINF:-1 tvg-chno="22" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica-en-vivo-Online.png?resize=1068%2C601&ssl=1",Teleuno ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="22" tvg-logo="https://libertycr.com/documents/297305827/297420738/teleunotv.jpg",Teleuno ¹ 🇨🇷
 https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="23" tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2022/09/tvsur-logo-01-1-300x120.png",Tv Sur Canal 14 ¹ 🇨🇷
