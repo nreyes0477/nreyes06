@@ -24,7 +24,7 @@ http://crlive1.service.osllacdn.com/xpertvcr/vxfmt=dp/playlist.m3u8?device_profi
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://libertycr.com/documents/297305827/297420738/multimedios.jpg",Canal 8 Multimedios ¹ 🇨🇷
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445/master.m3u8
 
-#EXTINF:-1 tvg-chno="9" tvg-logo="https://www.canal9.cr/IMAGES/Logo%20Canal%209%202D%20Color.png",Canal 9 ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="9" tvg-logo="https://libertycr.com/documents/297305827/297420738/canal9.jpg",Canal 9 ¹ 🇨🇷
 http://crlive1.service.osllacdn.com/canal9cr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
 #EXTINF:-1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png",Canal 11 Repretel ¹ 🇨🇷
