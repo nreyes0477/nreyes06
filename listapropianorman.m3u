@@ -1059,23 +1059,23 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/11600
 #EXTINF:-1 tvg-chno="400" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg",E! Entertainment ²
 http://190.83.2.172:8080/play/a02y
 
-#EXTINF:-1 tvg-chno="405" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-id_m.png",ID Investigation
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13178&extension=ts
+#EXTINF:-1 tvg-chno="405" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-id_m.png",ID Investigation ²
+http://38.159.227.124:8000/play/a04d
 
-#EXTINF:-1 tvg-chno="409" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png",History Channel
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13227&extension=ts
+#EXTINF:-1 tvg-chno="409" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png",History Channel ²
+http://38.159.227.124:8000/play/a08z
 
 #EXTINF:-1 tvg-chno="410" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",History Channel 2 ²
 http://216.122.181.10:8081/play/a0f6
 
-#EXTINF:-1 tvg-chno="411" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13249&extension=ts
+#EXTINF:-1 tvg-chno="411" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png",Nat Geo ²
+http://38.159.227.124:8000/play/a046
 
 #EXTINF:-1 tvg-chno="414" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/500px-National_Geographic_Wild_logo.svg.png",Nat Geo Wild
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=126163&extension=ts
 
-#EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png",Animal Planet
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13110&extension=ts
+#EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png",Animal Planet ¹
+http://crlive1.service.osllacdn.com/animalplanethdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-chno="418" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png",Home & Health
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=132578&extension=ts
@@ -1125,8 +1125,8 @@ http://38.159.227.124:8000/play/a095
 #EXTINF:-1 tvg-chno="440" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Clic_%28TV_channel%29_logo_2021.png",Clic!
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=151358&extension=ts
 
-#EXTINF:-1 tvg-chno="500" tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png",A&E
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13098&extension=ts
+#EXTINF:-1 tvg-chno="500" tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png",A&E ²
+http://38.159.227.124:8000/play/a04r
 
 #EXTINF:-1 tvg-chno="501" tvg-logo="https://cdn.mitvstatic.com/channels/cl_amc_m.png",AMC
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=150103&extension=ts
@@ -1140,8 +1140,8 @@ https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="502" tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png",AXN
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/10549.m3u8
 
-#EXTINF:-1 tvg-chno="503" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png",Cinecanal
-http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/154085.m3u8
+#EXTINF:-1 tvg-chno="503" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png",Cinecanal ²
+http://38.159.227.124:8000/play/a05x
 
 #EXTINF:-1 tvg-chno="505" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png",Cinecanal Diferido
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13127&extension=ts
@@ -1170,8 +1170,8 @@ http://216.122.181.10:8081/play/a0ol
 #EXTINF:-1 tvg-chno="517" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png",Paramount
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/155172.m3u8
 
-#EXTINF:-1 tvg-chno="518" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox_m.png",Star Channel
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=3642&extension=ts
+#EXTINF:-1 tvg-chno="518" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox_m.png",Star Channel ²
+http://38.159.227.124:8000/play/a05u
 
 #EXTINF:-1 tvg-chno="519" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SonyMovies.png",Cine Sony ²
 http://38.159.227.124:8000/play/a04w
@@ -1191,8 +1191,8 @@ http://216.122.181.10:8081/play/a0dn
 #EXTINF:-1 tvg-chno="523" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png",Lifetime
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/188850.m3u8
 
-#EXTINF:-1 tvg-chno="524" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png",Studio Universal
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13277&extension=ts
+#EXTINF:-1 tvg-chno="524" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png",Studio Universal ²
+http://38.159.227.124:8000/play/a04n
 
 #EXTINF:-1 tvg-chno="525" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tnt_m.png",TNT
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=138044&extension=ts
@@ -1200,8 +1200,8 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 #EXTINF:-1 tvg-chno="526" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png",TNT Series ²
 http://38.159.227.124:8000/play/a08k
 
-#EXTINF:-1 tvg-chno="527" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner_m.png",Warner Channel
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13321&extension=ts
+#EXTINF:-1 tvg-chno="527" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner_m.png",Warner Channel ²
+http://38.159.227.124:8000/play/a05v
 
 #EXTINF:-1 tvg-chno="528" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png",FX 
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/148725.m3u8
