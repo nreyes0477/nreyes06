@@ -1401,8 +1401,8 @@ http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722
 #EXTINF:-1 tvg-chno="616" tvg-logo="tic.com/media/27d2df_924eed614eed44d3a36344f60a9fcde1~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-3.png",ESPN 4 MX 🇲🇽
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47110&extension=ts
 
-#EXTINF:-1 tvg-chno="617" tvg-logo="https://static.wixstatic.com/media/27d2df_6f7903b0a78e45a2a6b0d18b03ac0fcc~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-DEPORTES.png",ESPN Deportes ² 🇺🇲
-http://190.92.10.66:4000/play/a003/index.m3u8
+#EXTINF:-1 tvg-chno="617" tvg-logo="https://static.wixstatic.com/media/27d2df_6f7903b0a78e45a2a6b0d18b03ac0fcc~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-DEPORTES.png",ESPN Deportes 🇺🇲
+http://thevdm.xyz:25461/streaming/clients_live.php?username=Vargasfam99&password=fBTVegQTCz&stream=19938&extension=ts
 
 #EXTINF:-1 tvg-chno="617" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/fox-deportes.png",Fox Deportes 🇺🇲
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2216927.m3u8
