@@ -700,7 +700,7 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com:443/original.m3u8
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
 #EXTINF:-1 tvg-chno="264" tvg-logo="https://logos.streamsites.eu/2894_la-2-en-directo_overview.png",La 2 ¹ 🇪🇸
-https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
+https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 
 #EXTINF:-1 tvg-chno="265" tvg-logo="https://logos.streamsites.eu/2516_antena3_overview.png",Antena 3 ² 🇪🇸
 http://185.189.225.150:85/Antena3HD/index.m3u8
