@@ -709,25 +709,25 @@ http://fastream.xyz:8080/streaming/clients_live.php?username=JOSEWEBTV2025@203&p
 http://fastream.xyz:8080/streaming/clients_live.php?username=JOSEWEBTV2025@203&password=@@w454vdidco0ww0w&stream=12331&extension=ts
 
 #EXTINF:-1 tvg-chno="267" tvg-logo="https://logos.streamsites.eu/2531_telecinco_overview.png",Telecinco 🇪🇸
-http://fastream.xyz:8080/streaming/clients_live.php?username=JOSEWEBTV2025@203&password=@@w454vdidco0ww0w&stream=12330&extension=ts
+http://fastream.xyz:8080/streaming/clients_live.php?username=JOSEWEBTV2025@203&password=@@w454vdidco0ww0w&stream=236487&extension=ts
 
 #EXTINF:-1 tvg-chno="268" tvg-logo="https://logos.streamsites.eu/2697_la-sexta_overview.png",La Sexta 🇪🇸
-http://fastream.xyz:8080/streaming/clients_live.php?username=JOSEWEBTV2025@203&password=@@w454vdidco0ww0w&stream=12451&extension=ts
+http://fastream.xyz:8080/streaming/clients_live.php?username=JOSEWEBTV2025@203&password=@@w454vdidco0ww0w&stream=236489&extension=ts
 
 #EXTINF:-1 tvg-chno="269" tvg-logo="https://logos.streamsites.eu/3488_mega_overview.png",Mega 🇪🇸
 http://fastream.xyz:8080/streaming/clients_live.php?username=JOSEWEBTV2025@203&password=@@w454vdidco0ww0w&stream=12406&extension=ts
 
-#EXTINF:-1 tvg-chno="271" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/neox-en-directo-online-y-en-vivo.png",Neox ² 🇪🇸
-http://185.189.225.150:85/neox/index.m3u8
+#EXTINF:-1 tvg-chno="271" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/neox-en-directo-online-y-en-vivo.png",Neox 🇪🇸
+http://fastream.xyz:8080/streaming/clients_live.php?username=JOSEWEBTV2025@203&password=@@w454vdidco0ww0w&stream=236512&extension=ts
 
 #EXTINF:-1 tvg-chno="272" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/be-mad-en-directo-online-y-en-vivo.png",Be Mad 🇪🇸
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=126431&extension=ts
+http://fastream.xyz:8080/streaming/clients_live.php?username=JOSEWEBTV2025@203&password=@@w454vdidco0ww0w&stream=12423&extension=ts
 
 #EXTINF:-1 tvg-chno="273" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/dmax-en-directo-online-en-vivo.png",DMAX 🇪🇸
 http://fastream.xyz:8080/streaming/clients_live.php?username=JOSEWEBTV2025@203&password=@@w454vdidco0ww0w&stream=12377&extension=ts
 
 #EXTINF:-1 tvg-chno="273" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/5e2b31c99b97574a06696454a5ada922_ODISEA%202.png",Odisea 🇪🇸
-http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2100583.m3u8
+http://fastream.xyz:8080/streaming/clients_live.php?username=JOSEWEBTV2025@203&password=@@w454vdidco0ww0w&stream=236372&extension=ts
 
 #EXTINF:-1 tvg-chno="273" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/640px-La_Otra_logo_%282017%29.svg.png",La Otra ¹ 🇪🇸
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
