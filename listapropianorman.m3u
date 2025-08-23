@@ -1432,7 +1432,7 @@ http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722
 http://thevdm.xyz:25461/streaming/clients_live.php?username=Vargasfam99&password=fBTVegQTCz&stream=19888&extension=ts
 
 #EXTINF:-1 tvg-chno="617" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/fox-deportes.png",Fox Deportes 🇺🇲
-http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2216927.m3u8
+http://thevdm.xyz:25461/streaming/clients_live.php?username=Vargasfam99&password=fBTVegQTCz&stream=19894&extension=ts
 
 #EXTINF:-1 tvg-chno="618" tvg-logo="https://static.wixstatic.com/media/27d2df_524c1552967841858f7f7eaa72299e17~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-SPORTS.png",Fox Sports MX 🇲🇽
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47128&extension=ts
