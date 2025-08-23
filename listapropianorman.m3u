@@ -1449,11 +1449,11 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 #EXTINF:-1 tvg-chno="622" tvg-logo="https://www.westminsterkennelclub.org/wp-content/uploads/2024/02/Asset-1-1.png",Fox Deportes en Tubi (MX) 🇲🇽
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2121734.m3u8
 
-#EXTINF:-1 tvg-chno="623" tvg-logo="https://www.westminsterkennelclub.org/wp-content/uploads/2024/02/Asset-1-1.png",Fox Deportes en Tubi (MX) 🇲🇽
-
-
 #EXTINF:-1 tvg-chno="625" tvg-logo="https://static.wixstatic.com/media/27d2df_ee7829cdf05b4202baabb7203c80ae4c~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-DEPORTES.png",Fox Deportes Tubi (Latino) ¹ 🇺🇲
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+
+#EXTINF:-1 tvg-chno="626" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/3/30/HISportslogo.png/revision/latest?cb=20230427055859&path-prefix=es",Hi! Sports TV 🇲🇽
+http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2234522.m3u8
 
 #EXTINF:-1 tvg-chno="627" tvg-logo="https://image.roku.com/developer_channels/prod/f89955f4a64b7dc2fb4b3b0d9527aa659b28c8480b37802fed3c0ed58ae2e2cd.png",Caliente TV 🇲🇽
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2227022.m3u8
