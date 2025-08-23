@@ -21,7 +21,7 @@ https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamTRadio/bbcfd43fb9a
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://libertycr.com/documents/297305827/297420738/xpertv.jpg",Xpertv ¹ 🇨🇷
 http://crlive1.service.osllacdn.com/xpertvcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="8" tvg-logo="https://libertycr.com/documents/297305827/297420738/multimedios.jpg",Canal 8 Multimedios ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="8" tvg-logo="https://observador.cr/wp-content/uploads/2020/04/87390081_2470570269875494_1434326408926068736_o.jpg",Canal 8 Multimedios ¹ 🇨🇷
 http://crlive1.service.osllacdn.com/multimedioshdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-chno="9" tvg-logo="https://libertycr.com/documents/297305827/297420738/canal9.jpg",Canal 9 ¹ 🇨🇷
@@ -36,7 +36,7 @@ http://crlive1.service.osllacdn.com/canal13sinarthdcr/vxfmt=dp/playlist.m3u8?dev
 #EXTINF:-1 tvg-chno="14" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Trivisio%CC%81n-Canal-36-en-vivo-Online.png",Canal 36 Trivisión ¹ 🇨🇷
 http://crlive1.service.osllacdn.com/trivisionhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="15" tvg-logo="https://libertycr.com/documents/297305827/297420738/canalopa!.jpg",Canal 38 ¡Opa! ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="15" tvg-logo="https://media.lichttps://genteopa.com/wp-content/uploads/2024/03/cropped-logo-opa-1.png",Canal 38 ¡Opa! ¹ 🇨🇷
 http://crlive1.service.osllacdn.com/opacr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-chno="16" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/extra_tv-mediano.png",Extra Tv 42 ¹ 🇨🇷
