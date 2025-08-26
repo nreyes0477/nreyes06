@@ -777,6 +777,9 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 #EXTINF:-1 tvg-chno="276" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1403px-Logo_TVE-Internacional.svg.png",TVE Internacional ¹ 🇪🇸
 https://rtvelivestream.rtve.es/rtvesec/int/tvei_ame_main_dvr.m3u8
 
+#EXTINF:-1 tvg-chno="277" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/logos/FuboSports_Logo_OneColor_box_rgb.png?w=300&ch=width&auto=format,compress",Fubo Latino 🇺🇸
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=194161&extension=ts
+
 #EXTINF:-1 tvg-chno="278" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png",NBC Universo 🇺🇸
 http://thevdm.xyz:25461/streaming/clients_live.php?username=Vargasfam99&password=fBTVegQTCz&stream=19938&extension=ts
 
@@ -1681,7 +1684,7 @@ http://185.189.225.157/EuroSport1/index.m3u8
 http://185.189.225.157/EuroSport2/index.m3u8
 
 #EXTINF:-1 tvg-chno="694" tvg-logo="https://static.wixstatic.com/media/27d2df_88c2321f1f8b4cbdbc22f44367c1a8b7~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TDP.png",Teledeporte (TVE) ¹ 🇪🇦
-https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
+https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
 
 #EXTINF:-1 tvg-chno="695" tvg-logo="https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/128579b4-6ac2-11ed-8535-d36612803c67.png",Wapa Deportes 🇵🇷
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=126530&extension=ts
@@ -1691,9 +1694,6 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 
 #EXTINF:-1 tvg-chno="697" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_Meridiano_TV_Venezuela.png",Meridiano ² 🇻🇪
 http://38.41.8.1:8000/play/a03w
-
-#EXTINF:-1 tvg-chno="698" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/logos/FuboSports_Logo_OneColor_box_rgb.png?w=300&ch=width&auto=format,compress",Fubo Latino 🇺🇸
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=194161&extension=ts
 
 #EXTINF:-1 tvg-chno="698" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/logos/FuboSports_Logo_OneColor_box_rgb.png?w=300&ch=width&auto=format,compress",Fubo Sports Networks 🇺🇸
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=175758&extension=ts
