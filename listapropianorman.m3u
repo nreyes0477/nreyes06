@@ -1407,19 +1407,19 @@ http://45.71.254.1:8000/play/a0a3/index.m3u8
 #EXTINF:-1 tvg-chno="607" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-01.jpg",ESPN Centro América ¹ *
 http://crlivebpk.service.osllacdn.com/espnhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="608" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/500px-ESPN2_logo.svg.png",ESPN 2 Centro América ²
+#EXTINF:-1 tvg-chno="608" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-02.jpg",ESPN 2 Centro América ²
 http://181.78.106.127:9000/play/ca034/index.m3u8
 
-#EXTINF:-1 tvg-chno="610" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/500px-ESPN3_Logo.png",ESPN 3 Centro América ²
+#EXTINF:-1 tvg-chno="610" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-03.jpg",ESPN 3 Centro América ²
 http://181.78.106.127:9000/play/ca035/index.m3u8
 
-#EXTINF:-1 tvg-chno="611" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/500px-ESPN_4_logo.svg.png",ESPN 4 Centro América ²
+#EXTINF:-1 tvg-chno="611" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/ESPN4-1.png",ESPN 4 Centro América ²
 http://181.188.216.5:18000/play/a0am
 
-#EXTINF:-1 tvg-chno="612" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png",ESPN 5 Centro América ¹
+#EXTINF:-1 tvg-chno="612" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/ESPN_5_logo.svg_.png",ESPN 5 Centro América ¹
 http://crlivebpk.service.osllacdn.com/espn5hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="613" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/500px-ESPN_6_logo.svg.png",ESPN 6 Centro América ¹
+#EXTINF:-1 tvg-chno="613" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/ESPN_6_logo.svg_.png",ESPN 6 Centro América ¹
 http://crlivebpk.service.osllacdn.com/espn6hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-chno="614" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN MX 🇲🇽
