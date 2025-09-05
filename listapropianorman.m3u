@@ -1380,10 +1380,10 @@ http://38.159.227.124:8000/play/a02x
 #EXTINF:-1 tvg-chno="599" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1646691382488-Imagen.jpg",Universal Reality ²
 http://38.159.227.124:8000/play/a02y
 
-#EXTINF:-1 tvg-chno="600" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-08.jpg",Futv ²
+#EXTINF:-1 tvg-chno="600" tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg",Futv ²
 http://190.92.10.66:4000/play/a00c
 
-#EXTINF:-1 tvg-chno="601" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-08.jpg",Futv ²
+#EXTINF:-1 tvg-chno="601" tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg",Futv ²
 http://200.229.147.210:8000/play/a08h/index.m3u8
 
 #EXTINF:-1 tvg-chno="602" tvg-logo="https://i.imgur.com/6wkmgGM.png",Tigo Sports CR ²
@@ -1623,10 +1623,10 @@ http://38.41.8.1:8000/play/a0wi
 #EXTINF:-1 tvg-chno="682" tvg-logo="https://www.cableplus.com.uy/assets/img/logos-canales/logo-vtv-plus.jpg",VTV + ² 🇺🇾
 http://200.60.124.19:29000/play/a0j7/index.m3u8
 
-#EXTINF:-1 tvg-chno="683" tvg-logo="https://i.postimg.cc/QMsDwbxR/winsport.jpg"",Win Sports ² 🇨🇴
+#EXTINF:-1 tvg-chno="683" tvg-logo="https://i.postimg.cc/QMsDwbxR/winsport.jpg",Win Sports ² 🇨🇴
 http://191.97.15.250:45000/play/a04c/index.m3u8
 
-#EXTINF:-1 tvg-chno="683" tvg-logo="https://i.postimg.cc/QMsDwbxR/winsport.jpg"",Win Sports + ² 🇨🇴
+#EXTINF:-1 tvg-chno="683" tvg-logo="https://i.postimg.cc/MZrWHVdQ/winsportplus.jpg",Win Sports + ² 🇨🇴
 http://38.41.8.1:8000/play/a0tp
 
 #EXTINF:-1 tvg-chno="684" tvg-logo="https://elcomercio-elcomercio-prod.web.arc-cdn.net/resizer/v2/SI7SCQMDSFHVPMWEG7JTBRDA4E.jpg?auth=ee9002b30119e489b0177c3764bb01abd56ae3d285b2b42f2a1a3f8b0d0b455a&width=600&height=400&smart=true&quality=75",Movistar Deportes ² 🇵🇪 
