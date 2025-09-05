@@ -1386,10 +1386,10 @@ http://190.92.10.66:4000/play/a00c
 #EXTINF:-1 tvg-chno="601" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-08.jpg",Futv ²
 http://200.229.147.210:8000/play/a08h/index.m3u8
 
-#EXTINF:-1 tvg-chno="602" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2023/07/Tigo_Sports_logo.svg_.png",Tigo Sports CR ²
+#EXTINF:-1 tvg-chno="602" tvg-logo="https://i.imgur.com/6wkmgGM.png",Tigo Sports CR ²
 http://200.229.147.210:8000/play/a0as/index.m3u8
 
-#EXTINF:-1 tvg-chno="603" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2023/07/Tigo_Sports_logo.svg_.png",Tigo Sports CR ²
+#EXTINF:-1 tvg-chno="603" tvg-logo="https://i.imgur.com/6wkmgGM.png",Tigo Sports CR ²
 http://200.125.170.120:8000/play/a04f/index.m3u8
 
 #EXTINF:-1 tvg-chno="605" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png",TD + ²
@@ -1404,7 +1404,7 @@ http://200.229.147.210:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-chno="606" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-3.png",TD + 2 ²
 http://45.71.254.1:8000/play/a0a3/index.m3u8
 
-#EXTINF:-1 tvg-chno="607" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png",ESPN Centro América ¹ *
+#EXTINF:-1 tvg-chno="607" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png",ESPN Centro América ¹
 http://crlivebpk.service.osllacdn.com/espnhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-chno="608" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png",ESPN 2 Centro América ²
@@ -1650,16 +1650,16 @@ http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2154027.m3u8
 #EXTINF:-1 tvg-chno="686" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos.png?resize=600%2C360&ssl=1",Cableonda 🇵🇦 
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=151800&extension=ts
 
-#EXTINF:-1 tvg-chno="687" tvg-logo="https://www.deportestvc.com/images/home/logo-white-yellow.png",Deportes TVC 🇭🇳
+#EXTINF:-1 tvg-chno="687" tvg-logo="https://img.streann.com/streann-img/admin/image/1746888232702.png?height=50",Deportes TVC 🇭🇳
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13169&extension=ts
 
-#EXTINF:-1 tvg-chno="688" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aztecadeporteslogo.png/480px-Aztecadeporteslogo.png",Azteca Deportes ² 🇲🇽
+#EXTINF:-1 tvg-chno="688" tvg-logo="https://images.seeklogo.com/logo-png/38/2/azteca-deportes-logo-png_seeklogo-381619.png",Azteca Deportes ² 🇲🇽
 http://190.60.33.245:4002/play/a0hw
 
-#EXTINF:-1 tvg-chno="688" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aztecadeporteslogo.png/480px-Aztecadeporteslogo.png",Azteca Deportes (Pluto) ¹ 🇲🇽
+#EXTINF:-1 tvg-chno="688" tvg-logo="https://images.seeklogo.com/logo-png/38/2/azteca-deportes-logo-png_seeklogo-381619.png",Azteca Deportes (Pluto) ¹ 🇲🇽
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 tvg-chno="690" tvg-logo="https://static.wixstatic.com/media/27d2df_e6c4e4800b724c67b704d7e4c597af49~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TVC-DEORTES.png",TVC Deportes 🇲🇽
+#EXTINF:-1 tvg-chno="690" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png",TVC Deportes 🇲🇽
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=150069&extension=ts
 
 #EXTINF:-1 tvg-chno="691" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports-mediano.png",A y M Sports ¹ 🇲🇽
@@ -1671,10 +1671,10 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 #EXTINF:-1 tvg-chno="692" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",Bein Sports XTRA ¹ 🇺🇸
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="693" tvg-logo="https://static.wixstatic.com/media/27d2df_6f105d86f6594198a9fc6590dee6b3c0~mv2.png/v1/fill/w_200,h_182,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/EUROSPORT-1.png",Eurosport 1 ² 🇪🇦
+#EXTINF:-1 tvg-chno="693" tvg-logo="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/1a/10000154.png",Eurosport 1 ² 🇪🇦
 http://185.189.225.157/EuroSport1/index.m3u8
 
-#EXTINF:-1 tvg-chno="693" tvg-logo="https://static.wixstatic.com/media/27d2df_4614cbf5c6084044b063fff6f5de6d04~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/EUROSPORT-2.png",Eurosport 2 ² 🇪🇦
+#EXTINF:-1 tvg-chno="693" tvg-logo="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/6b/10000491.png",Eurosport 2 ² 🇪🇦
 http://185.189.225.157/EuroSport2/index.m3u8
 
 #EXTINF:-1 tvg-chno="694" tvg-logo="https://static.wixstatic.com/media/27d2df_88c2321f1f8b4cbdbc22f44367c1a8b7~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TDP.png",Teledeporte (TVE) ¹ 🇪🇦
