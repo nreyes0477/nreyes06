@@ -1539,10 +1539,10 @@ http://190.92.10.66:4000/play/a002/index.m3u8
 #EXTINF:-1 tvg-chno="656" tvg-logo="https://iili.io/J2wureR.png",Zona TUDN USA 🇺🇸
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=78280&extension=ts
 
-#EXTINF:-1 tvg-chno="657" tvg-logo="https://static.wixstatic.com/media/27d2df_893e94675e2f471fa8db741d5152a259~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/CLARO-SPORTS.png",Claro Sports MX ¹ 🇲🇽
+#EXTINF:-1 tvg-chno="657" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png",Claro Sports MX ¹ 🇲🇽
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
-#EXTINF:-1 tvg-chno="658" tvg-logo="https://static.wixstatic.com/media/27d2df_893e94675e2f471fa8db741d5152a259~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/CLARO-SPORTS.png",Claro Sports 2 MX ² 🇲🇽
+#EXTINF:-1 tvg-chno="658" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png",Claro Sports 2 MX ² 🇲🇽
 http://181.78.106.127:9000/play/ca037
 
 #EXTINF:-1 tvg-chno="660" tvg-logo="http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/203185.m3u8",Sky Sports Bundesliga ² 🇺🇸
