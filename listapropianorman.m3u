@@ -1386,10 +1386,10 @@ http://190.92.10.66:4000/play/a00c
 #EXTINF:-1 tvg-chno="601" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-08.jpg",Futv ²
 http://200.229.147.210:8000/play/a08h/index.m3u8
 
-#EXTINF:-1 tvg-chno="602" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR ²
+#EXTINF:-1 tvg-chno="602" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2023/07/Tigo_Sports_logo.svg_.png",Tigo Sports CR ²
 http://200.229.147.210:8000/play/a0as/index.m3u8
 
-#EXTINF:-1 tvg-chno="603" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR ²
+#EXTINF:-1 tvg-chno="603" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2023/07/Tigo_Sports_logo.svg_.png",Tigo Sports CR ²
 http://200.125.170.120:8000/play/a04f/index.m3u8
 
 #EXTINF:-1 tvg-chno="605" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png",TD + ²
@@ -1401,7 +1401,7 @@ http://200.229.147.210:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-chno="605" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-3.png",TD + 2 ²
 http://200.229.147.210:8000/play/a00h/index.m3u8
 
-#EXTINF:-1 tvg-chno="606" tvg-logo"https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-3.png",TD + 2 ²
+#EXTINF:-1 tvg-chno="606" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-3.png",TD + 2 ²
 http://45.71.254.1:8000/play/a0a3/index.m3u8
 
 #EXTINF:-1 tvg-chno="607" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-01.jpg",ESPN Centro América ¹ *
@@ -1485,7 +1485,7 @@ http://104.238.205.28:8989/278558_.m3u8
 #EXTINF:-1 tvg-chno="637" tvg-logo="https://static.wixstatic.com/media/27d2df_7b0572454923490f87cd649cbb5a39ac~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-6.png",ESPN 6 Sur América °
 http://104.238.205.28:8989/278566_.m3u8
 
-#EXTINF:-1 tvg-chno="638" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/500px-ESPN_7_logo.svg.png",ESPN 7 Sur América °
+#EXTINF:-1 tvg-chno="638" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png",ESPN 7 Sur América °
 http://104.238.205.28:8989/278567_.m3u8
 
 #EXTINF:-1 tvg-chno="639" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/500px-ESPN_Premium_logo.svg.png",ESPN Premium Sur (1) ²
