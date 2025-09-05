@@ -1623,10 +1623,10 @@ http://38.41.8.1:8000/play/a0wi
 #EXTINF:-1 tvg-chno="682" tvg-logo="https://www.cableplus.com.uy/assets/img/logos-canales/logo-vtv-plus.jpg",VTV + ² 🇺🇾
 http://200.60.124.19:29000/play/a0j7/index.m3u8
 
-#EXTINF:-1 tvg-chno="683" tvg-logo="https://images.seeklogo.com/logo-png/25/1/win-sports-logo-png_seeklogo-259337.png",Win Sports ² 🇨🇴
+#EXTINF:-1 tvg-chno="683" tvg-logo="https://i.postimg.cc/QMsDwbxR/winsport.jpg"",Win Sports ² 🇨🇴
 http://191.97.15.250:45000/play/a04c/index.m3u8
 
-#EXTINF:-1 tvg-chno="683" tvg-logo="https://images.seeklogo.com/logo-png/37/1/win-sport-logo-png_seeklogo-371670.png",Win Sports + ² 🇨🇴
+#EXTINF:-1 tvg-chno="683" tvg-logo="https://i.postimg.cc/QMsDwbxR/winsport.jpg"",Win Sports + ² 🇨🇴
 http://38.41.8.1:8000/play/a0tp
 
 #EXTINF:-1 tvg-chno="684" tvg-logo="https://elcomercio-elcomercio-prod.web.arc-cdn.net/resizer/v2/SI7SCQMDSFHVPMWEG7JTBRDA4E.jpg?auth=ee9002b30119e489b0177c3764bb01abd56ae3d285b2b42f2a1a3f8b0d0b455a&width=600&height=400&smart=true&quality=75",Movistar Deportes ² 🇵🇪 
@@ -1653,10 +1653,10 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 #EXTINF:-1 tvg-chno="687" tvg-logo="https://img.streann.com/streann-img/admin/image/1746888232702.png?height=50",Deportes TVC 🇭🇳
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13169&extension=ts
 
-#EXTINF:-1 tvg-chno="688" tvg-logo="https://images.seeklogo.com/logo-png/38/1/tv-azteca-deportes-logo-png_seeklogo-381618.png",Azteca Deportes ² 🇲🇽
+#EXTINF:-1 tvg-chno="688" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aztecadeporteslogo.png/500px-Aztecadeporteslogo.png",Azteca Deportes ² 🇲🇽
 http://190.60.33.245:4002/play/a0hw
 
-#EXTINF:-1 tvg-chno="688" tvg-logo="https://images.seeklogo.com/logo-png/38/1/tv-azteca-deportes-logo-png_seeklogo-381618.png",Azteca Deportes (Pluto) ¹ 🇲🇽
+#EXTINF:-1 tvg-chno="688" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aztecadeporteslogo.png/500px-Aztecadeporteslogo.png",Azteca Deportes (Pluto) ¹ 🇲🇽
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
 #EXTINF:-1 tvg-chno="690" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/2/2b/TVCDep16Logo.png/revision/latest/scale-to-width/360?cb=20160715002021&path-prefix=es",TVC Deportes 🇲🇽
@@ -1683,7 +1683,7 @@ https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-chno="695" tvg-logo="https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/128579b4-6ac2-11ed-8535-d36612803c67.png",Wapa Deportes 🇵🇷
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=126530&extension=ts
 
-#EXTINF:-1 tvg-chno="696" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Logo_Adrenalina-%2820q6%29.png/1600px-Logo_Adrenalina-%2820q6%29.png",Adrenalina Sports 🇲🇽
+#EXTINF:-1 tvg-chno="696" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adrenalina_sports_network-mediano.png",Adrenalina Sports 🇲🇽
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=145469&extension=ts
 
 #EXTINF:-1 tvg-chno="697" tvg-logo="https://cdn.storage.foromedios.com/monthly_2021_06/large.MeridianoTV2019-1.png.05f368152f6fdb6351c2265a5db41cbb.png",Meridiano ² 🇻🇪
