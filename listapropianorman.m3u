@@ -1404,16 +1404,13 @@ http://200.229.147.210:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-chno="606" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 ²
 http://45.71.254.1:8000/play/a0a3/index.m3u8
 
-#EXTINF:-1 tvg-chno="607" tvg-logo="https://telecentro.com.ar/img/cm/channels/logo%20espn%20128x128.png",ESPN Centro América ¹ *
+#EXTINF:-1 tvg-chno="607" tvg-logo="https://telecentro.com.ar/img/cm/channels/logo%20espn%20128x128.png",ESPN Centro América ¹
 http://crlivebpk.service.osllacdn.com/espnhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="607" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN Centro América ²
-http://181.188.216.5:18000/play/a0ou
-
-#EXTINF:-1 tvg-chno="608" tvg-logo="https://static.wixstatic.com/media/27d2df_3855b68f65c541f1a3e6b3c89e80a07b~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-2.png",ESPN 2 Centro América ²
+#EXTINF:-1 tvg-chno="608" tvg-logo="https://telecentro.com.ar/img/cm/channels/logo%20espn%202%20128x128.png",ESPN 2 Centro América ²
 http://181.78.106.127:9000/play/ca034/index.m3u8
 
-#EXTINF:-1 tvg-chno="610" tvg-logo="https://static.wixstatic.com/media/27d2df_924eed614eed44d3a36344f60a9fcde1~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-3.png",ESPN 3 Centro América ²
+#EXTINF:-1 tvg-chno="610" tvg-logo="https://telecentro.com.ar/img/cm/channels/logo%20espn%203%20128x128.png",ESPN 3 Centro América ²
 http://181.78.106.127:9000/play/ca035/index.m3u8
 
 #EXTINF:-1 tvg-chno="611" tvg-logo="https://static.wixstatic.com/media/27d2df_995efad2b6c34c68a7f81275c00ad162~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-4.png",ESPN 4 Centro América ²
