@@ -1404,22 +1404,22 @@ http://200.229.147.210:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-chno="606" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png",TD + 2 ²
 http://45.71.254.1:8000/play/a0a3/index.m3u8
 
-#EXTINF:-1 tvg-chno="607" tvg-logo="https://telecentro.com.ar/img/cm/channels/logo%20espn%20128x128.png",ESPN Centro América ¹
+#EXTINF:-1 tvg-chno="607" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/330px-ESPN_wordmark.svg.png",ESPN Centro América ¹
 http://crlivebpk.service.osllacdn.com/espnhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="608" tvg-logo="https://telecentro.com.ar/img/cm/channels/logo%20espn%202%20128x128.png",ESPN 2 Centro América ²
+#EXTINF:-1 tvg-chno="608" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/500px-ESPN2_logo.svg.png",ESPN 2 Centro América ²
 http://181.78.106.127:9000/play/ca034/index.m3u8
 
-#EXTINF:-1 tvg-chno="610" tvg-logo="https://telecentro.com.ar/img/cm/channels/logo%20espn%203%20128x128.png",ESPN 3 Centro América ²
+#EXTINF:-1 tvg-chno="610" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/500px-ESPN3_Logo.png",ESPN 3 Centro América ²
 http://181.78.106.127:9000/play/ca035/index.m3u8
 
-#EXTINF:-1 tvg-chno="611" tvg-logo="https://static.wixstatic.com/media/27d2df_995efad2b6c34c68a7f81275c00ad162~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-4.png",ESPN 4 Centro América ²
+#EXTINF:-1 tvg-chno="611" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/500px-ESPN_4_logo.svg.png",ESPN 4 Centro América ²
 http://181.188.216.5:18000/play/a0am
 
-#EXTINF:-1 tvg-chno="612" tvg-logo="https://static.wixstatic.com/media/27d2df_fdc7de25263246f09a2975eac638f0a8~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-5.png",ESPN 5 Centro América ¹
+#EXTINF:-1 tvg-chno="612" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png",ESPN 5 Centro América ¹
 http://crlivebpk.service.osllacdn.com/espn5hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="613" tvg-logo="https://static.wixstatic.com/media/27d2df_7b0572454923490f87cd649cbb5a39ac~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-6.png",ESPN 6 Centro América ¹
+#EXTINF:-1 tvg-chno="613" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/500px-ESPN_6_logo.svg.png",ESPN 6 Centro América ¹
 http://crlivebpk.service.osllacdn.com/espn6hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-chno="614" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN MX 🇲🇽
@@ -1431,10 +1431,10 @@ http://199.127.63.143:8989/159320_.m3u8
 #EXTINF:-1 tvg-chno="616" tvg-logo="tic.com/media/27d2df_924eed614eed44d3a36344f60a9fcde1~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-3.png",ESPN 3 MX ° 🇲🇽
 http://172.93.102.119:8989/278580_.m3u8
 
-#EXTINF:-1 tvg-chno="617" tvg-logo="https://static.wixstatic.com/media/27d2df_6f7903b0a78e45a2a6b0d18b03ac0fcc~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-DEPORTES.png",ESPN Deportes ° 🇺🇲
+#EXTINF:-1 tvg-chno="617" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/360px-ESPN_Deportes.svg.png",ESPN Deportes ° 🇺🇲
 http://199.127.63.143:8989/158831_.m3u8
 
-#EXTINF:-1 tvg-chno="617" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/fox-deportes.png",Fox Deportes 🇺🇲
+#EXTINF:-1 tvg-chno="617" tvg-logo="https://es.m.wikipedia.org/wiki/Fox_Deportes#/media/Archivo%3AFox_sports_en_espa%C3%B1ol_2012.jpg",Fox Deportes 🇺🇲
 http://thevdm.xyz:25461/streaming/clients_live.php?username=Vargasfam99&password=fBTVegQTCz&stream=19894&extension=ts
 
 #EXTINF:-1 tvg-chno="618" tvg-logo="https://static.wixstatic.com/media/27d2df_524c1552967841858f7f7eaa72299e17~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-SPORTS.png",Fox Sports MX 🇲🇽
@@ -1485,13 +1485,13 @@ http://104.238.205.28:8989/278558_.m3u8
 #EXTINF:-1 tvg-chno="637" tvg-logo="https://static.wixstatic.com/media/27d2df_7b0572454923490f87cd649cbb5a39ac~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-6.png",ESPN 6 Sur América °
 http://104.238.205.28:8989/278566_.m3u8
 
-#EXTINF:-1 tvg-chno="638" tvg-logo="https://static.wixstatic.com/media/27d2df_50648e80b5bb41e091209006875097c9~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-7.png",ESPN 7 Sur América °
+#EXTINF:-1 tvg-chno="638" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/500px-ESPN_7_logo.svg.png",ESPN 7 Sur América °
 http://104.238.205.28:8989/278567_.m3u8
 
-#EXTINF:-1 tvg-chno="639" tvg-logo="https://static.wixstatic.com/media/27d2df_fcf3392d82c34d0aa8d7b567bcbcd89f~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-PREMIUM.png",ESPN Premium Sur (1) ²
+#EXTINF:-1 tvg-chno="639" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/500px-ESPN_Premium_logo.svg.png",ESPN Premium Sur (1) ²
 http://190.102.246.93:9005/play/a00x
 
-#EXTINF:-1 tvg-chno="640" tvg-logo="https://static.wixstatic.com/media/27d2df_fcf3392d82c34d0aa8d7b567bcbcd89f~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-PREMIUM.png",ESPN Premium Sur (2) ²
+#EXTINF:-1 tvg-chno="640" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/500px-ESPN_Premium_logo.svg.png",ESPN Premium Sur (2) ²
 http://190.123.90.146:8000/play/a00f
 
 #EXTINF:-1 tvg-chno="641" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN Argentina ² 🇦🇷 
