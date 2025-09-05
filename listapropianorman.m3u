@@ -1476,13 +1476,13 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278762.m3u8
 #EXTINF:-1 tvg-chno="634" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-03.jpg",ESPN 3 Sur América °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278763.m3u8
 
-#EXTINF:-1 tvg-chno="635" tvg-logo="https://static.wixstatic.com/media/27d2df_995efad2b6c34c68a7f81275c00ad162~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-4.png",ESPN 4 Sur América °
+#EXTINF:-1 tvg-chno="635" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png",ESPN 4 Sur América °
 http://104.238.205.28:8989/278764_.m3u8
 
-#EXTINF:-1 tvg-chno="636" tvg-logo="https://static.wixstatic.com/media/27d2df_fdc7de25263246f09a2975eac638f0a8~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-5.png",ESPN 5 Sur América °
+#EXTINF:-1 tvg-chno="636" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png",ESPN 5 Sur América °
 http://104.238.205.28:8989/278558_.m3u8
 
-#EXTINF:-1 tvg-chno="637" tvg-logo="https://static.wixstatic.com/media/27d2df_7b0572454923490f87cd649cbb5a39ac~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-6.png",ESPN 6 Sur América °
+#EXTINF:-1 tvg-chno="637" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png",ESPN 6 Sur América °
 http://104.238.205.28:8989/278566_.m3u8
 
 #EXTINF:-1 tvg-chno="638" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png",ESPN 7 Sur América °
@@ -1509,16 +1509,16 @@ http://181.188.216.5:18000/play/a0il
 #EXTINF:-1 tvg-chno="643" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-03.jpg",ESPN Sur América 3 ²
 http://45.184.87.142:8000/play/a04b
 
-#EXTINF:-1 tvg-chno="644" tvg-logo="https://static.wixstatic.com/media/27d2df_995efad2b6c34c68a7f81275c00ad162~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-4.png",ESPN Sur América 4 ²
+#EXTINF:-1 tvg-chno="644" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png",ESPN Sur América 4 ²
 http://181.188.216.5:18000/play/a0pf
 
-#EXTINF:-1 tvg-chno="645" tvg-logo="https://static.wixstatic.com/media/27d2df_fdc7de25263246f09a2975eac638f0a8~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-5.png",ESPN Sur América 5 ²
+#EXTINF:-1 tvg-chno="645" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png",ESPN Sur América 5 ²
 http://181.188.216.5:18000/play/a0oa
 
-#EXTINF:-1 tvg-chno="646" tvg-logo="https://static.wixstatic.com/media/27d2df_7b0572454923490f87cd649cbb5a39ac~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-6.png",ESPN Sur América 6 ²
+#EXTINF:-1 tvg-chno="646" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png",ESPN Sur América 6 ²
 http://181.188.216.5:18000/play/a0dn
 
-#EXTINF:-1 tvg-chno="647" tvg-logo="https://static.wixstatic.com/media/27d2df_50648e80b5bb41e091209006875097c9~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-7.png",ESPN Sur América 7 ²
+#EXTINF:-1 tvg-chno="647" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png",ESPN Sur América 7 ²
 http://181.188.216.5:18000/play/a0pg
 
 #EXTINF:-1 tvg-chno="650" tvg-logo="https://seeklogo.com/images/F/fox-sports-argentina-2023-logo-2874DA0937-seeklogo.com.png",Fox Sports Sur América ²
@@ -1530,10 +1530,10 @@ http://181.78.106.127:9000/play/ca032
 #EXTINF:-1 tvg-chno="652" tvg-logo="https://seeklogo.com/images/F/fox-sports-3-argentina-2023-logo-2A58AB321F-seeklogo.com.png",Fox Sports 3 Sur América ²
 http://104.238.205.28:8989/278768_.m3u8
 
-#EXTINF:-1 tvg-chno="654" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png",TUDN MX ¹ 🇲🇽
+#EXTINF:-1 tvg-chno="654" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg",TUDN MX ¹ 🇲🇽
 http://crlive1.service.osllacdn.com/tudnhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="655" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png",TUDN USA ² 🇺🇸
+#EXTINF:-1 tvg-chno="655" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg",TUDN USA ² 🇺🇸
 http://190.92.10.66:4000/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-chno="656" tvg-logo="https://iili.io/J2wureR.png",Zona TUDN USA 🇺🇸
