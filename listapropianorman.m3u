@@ -1314,46 +1314,46 @@ http://190.102.246.93:9005/play/a03h
 #EXTINF:-1 tvg-chno="571" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo.png",HBO Norte ²
 http://45.184.87.142:8000/play/a04k
 
-#EXTINF:-1 tvg-chno="572" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",HBO 2 Norte ²
+#EXTINF:-1 tvg-chno="572" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo2.png",HBO 2 Norte ²
 http://45.184.87.142:8000/play/a05a
 
-#EXTINF:-1 tvg-chno="573" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",HBO Family Norte ²
+#EXTINF:-1 tvg-chno="573" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbofamily.png",HBO Family Norte ²
 http://181.188.216.5:18000/play/a0lr/index.m3u8
 
-#EXTINF:-1 tvg-chno="574" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO Plus Norte ²
+#EXTINF:-1 tvg-chno="574" tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus.png",HBO Plus Norte ²
 http://45.184.87.142:8000/play/a05m
 
-#EXTINF:-1 tvg-chno="575" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png",HBO Pop Norte ²
+#EXTINF:-1 tvg-chno="575" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxup.png",HBO Pop Norte ²
 http://181.188.216.5:18000/play/a0im/index.m3u8
 
-#EXTINF:-1 tvg-chno="576" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png",HBO Signature Norte ²
+#EXTINF:-1 tvg-chno="576" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbosignature.png",HBO Signature Norte ²
 http://104.238.222.251:8989/278505_.m3u8
 
-#EXTINF:-1 tvg-chno="577" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme Norte ²
+#EXTINF:-1 tvg-chno="577" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime.png",HBO Xtreme Norte ²
 http://45.184.87.142:8000/play/a04l
 
-#EXTINF:-1 tvg-chno="578" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png",HBO Mundi Norte ²
+#EXTINF:-1 tvg-chno="578" tvg-logo="https://telecentro.com.ar/img/cm/channels/max.png",HBO Mundi Norte ²
 http://104.238.222.251:8989/278501_.m3u8
 
-#EXTINF:-1 tvg-chno="579" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png",HBO Sur ²
+#EXTINF:-1 tvg-chno="579" tvg-logo="https://images.seeklogo.com/logo-png/17/1/hbo-logo-png_seeklogo-178109.png",HBO Sur ²
 http://190.102.246.93:9005/play/a01a
 
 #EXTINF:-1 tvg-chno="584" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png",HBO 2 Sur ²
 http://181.78.201.70:8000/play/a0ip
 
-#EXTINF:-1 tvg-chno="585" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",HBO Family Sur ²
+#EXTINF:-1 tvg-chno="585" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbofamily.png",HBO Family Sur ²
 http://190.102.246.93:9005/play/a01g
 
-#EXTINF:-1 tvg-chno="586" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO Plus Sur
+#EXTINF:-1 tvg-chno="586" tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus.png",HBO Plus Sur
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13219&extension=ts
 
-#EXTINF:-1 tvg-chno="587" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png",HBO Pop Sur
+#EXTINF:-1 tvg-chno="587" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxup.png",HBO Pop Sur
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=7969&extension=ts
 
-#EXTINF:-1 tvg-chno="588" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png",HBO Signature Sur
+#EXTINF:-1 tvg-chno="588" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbosignature.png",HBO Signature Sur
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=7970&extension=ts
 
-#EXTINF:-1 tvg-chno="589" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme Sur
+#EXTINF:-1 tvg-chno="589" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime.png",HBO Xtreme Sur
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13220&extension=ts
 
 #EXTINF:-1 tvg-chno="593" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png",Universal Channel ²
