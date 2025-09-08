@@ -564,8 +564,8 @@ https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
 #EXTINF:-1 tvg-chno="189" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Vale-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1",Vale TV ¹ 🇻🇪
 https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe ¹ 🇦🇷
-http://crlive1.service.osllacdn.com/telefecr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png",Telefe ° 🇦🇷
+http://104.238.205.28:8989/278773_.m3u8
 
 #EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png",El Trece ¹ 🇦🇷
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
