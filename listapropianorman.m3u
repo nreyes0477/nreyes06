@@ -192,7 +192,7 @@ https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1 tvg-chno="67" tvg-logo="https://static.wixstatic.com/media/3ebf2e_6c71f9a7aa66459ea6140c872c515467~mv2.png/v1/crop/x_21,y_41,w_1259,h_566/fill/w_244,h_110,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20letras%203d.png",Retro Mágico ¹ 🇦🇷
 https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png",Todo Novelas ¹ 🇲🇽 
+#EXTINF:-1 tvg-chno="69" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png" group-title="24/7 Novelas",Todo Novelas ¹ 🇲🇽 
 https://d2t7ujjc7lurgd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-q0go87ctcenys-ssai-prd/index.m3u8
 
 #EXTINF:-1 tvg-chno="69" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a3bd552eca6645942a60a053fe61fafb.webp",Sony Novelas ¹ 🇲🇽 
@@ -1326,7 +1326,7 @@ http://45.184.87.142:8000/play/a05a
 #EXTINF:-1 tvg-chno="573" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbofamily.png" group-title="Cine y Películas",HBO Family Norte ²
 http://181.188.216.5:18000/play/a0lr/index.m3u8
 
-#EXTINF:-1 tvg-chno="574" tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus.png" ,HBO Plus Norte ²
+#EXTINF:-1 tvg-chno="574" tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus.png",HBO Plus Norte ²
 http://45.184.87.142:8000/play/a05m
 
 #EXTINF:-1 tvg-chno="575" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxup.png" group-title="Cine y Películas",HBO Pop Norte ²
