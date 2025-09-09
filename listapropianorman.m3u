@@ -1,195 +1,195 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://canal1cr.com/wp-content/uploads/2023/02/logo-canal-1-png.png" group-title="Canales Nacionales",Canal 1 CR ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://canal1cr.com/wp-content/uploads/2023/02/logo-canal-1-png.png" group-title="Nacionales",Canal 1 CR ¹ 🇨🇷
 http://crlive1.service.osllacdn.com/canal1hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="2" tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="Canales Nacionales",Canal 2 Repretel ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="2" tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="Nacionales",Canal 2 Repretel ¹ 🇨🇷
 http://crlive1.service.osllacdn.com/canal2cr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="4" tvg-logo="https://i.imgur.com/5arZEgO.png" group-title="Canales Nacionales",Canal 4 Repretel ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="4" tvg-logo="https://i.imgur.com/5arZEgO.png" group-title="Nacionales",Canal 4 Repretel ¹ 🇨🇷
 https://alba-cr-repretel-c4.stream.mediatiquestream.com:443/original.m3u8
 
-#EXTINF:-1 tvg-chno="6" tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="Canales Nacionales",Canal 6 Repretel ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="6" tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="Nacionales",Canal 6 Repretel ¹ 🇨🇷
 http://crlive1.service.osllacdn.com/canal6hdcr/vxfmt=dp/playlist.m3u8?device_profile=HEVC_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="7" tvg-logo="https://i.imgur.com/ctnvE3c.png" group-title="Canales Nacionales",Canal 7 Teletica ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://i.imgur.com/ctnvE3c.png" group-title="Nacionales",Canal 7 Teletica ¹ 🇨🇷
 http://crlive1.service.osllacdn.com/teleticahdcr/vxfmt=dp/playlist.m3u8?device_profile=HEVC_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="7" tvg-logo="https://www.teleticaradio.com/img/Logo-Color.png" group-title="Canales Nacionales" group-title="Canales Nacionales",Teletica Radio ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://www.teleticaradio.com/img/Logo-Color.png" group-title="Nacionales" group-title="Canales Nacionales",Teletica Radio ¹ 🇨🇷
 https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamTRadio/bbcfd43fb9ad3b22af53808371ce9a16.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="7" tvg-logo="https://libertycr.com/documents/297305827/297420738/xpertv.jpg" group-title="Canales Nacionales" group-title="Canales Nacionales",Xpertv ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://libertycr.com/documents/297305827/297420738/xpertv.jpg" group-title="Nacionales" group-title="Canales Nacionales",Xpertv ¹ 🇨🇷
 http://crlive1.service.osllacdn.com/xpertvcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="8" tvg-logo="https://observador.cr/wp-content/uploads/2020/04/87390081_2470570269875494_1434326408926068736_o.jpg" group-title="Canales Nacionales",Canal 8 Multimedios ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="8" tvg-logo="https://observador.cr/wp-content/uploads/2020/04/87390081_2470570269875494_1434326408926068736_o.jpg" group-title="Nacionales",Canal 8 Multimedios ¹ 🇨🇷
 http://crlive1.service.osllacdn.com/multimedioshdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="9" tvg-logo="https://i.imgur.com/7knekJU.png" group-title="Canales Nacionales",Canal 9 ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="9" tvg-logo="https://i.imgur.com/7knekJU.png" group-title="Nacionales",Canal 9 ¹ 🇨🇷
 http://crlive1.service.osllacdn.com/canal9cr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/1200px-Repretel_11_logo.png" group-title="Canales Nacionales",Canal 11 Repretel ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/1200px-Repretel_11_logo.png" group-title="Nacionales",Canal 11 Repretel ¹ 🇨🇷
 https://alba-cr-repretel-c11.stream.mediatiquestream.com:443/original.m3u8
 
-#EXTINF:-1 tvg-chno="13" tvg-logo="https://observador.cr/wp-content/uploads/2022/07/Logo-nuevo-canal-13-768x692.png" group-title="Canales Nacionales",Canal 13 Sinart ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="13" tvg-logo="https://observador.cr/wp-content/uploads/2022/07/Logo-nuevo-canal-13-768x692.png" group-title="Nacionales",Canal 13 Sinart ¹ 🇨🇷
 http://crlive1.service.osllacdn.com/canal13sinarthdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="14" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Trivisio%CC%81n-Canal-36-en-vivo-Online.png" group-title="Canales Nacionales",Canal 36 Trivisión ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="14" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Trivisio%CC%81n-Canal-36-en-vivo-Online.png" group-title="Nacionales",Canal 36 Trivisión ¹ 🇨🇷
 http://crlive1.service.osllacdn.com/trivisionhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="15" tvg-logo="https://image.roku.com/developer_channels/prod/15028c316a76bcd9408f730b04579257af5273595c5049db126ba4540b81a936.png" group-title="Canales Nacionales",Canal 38 ¡Opa! ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="15" tvg-logo="https://image.roku.com/developer_channels/prod/15028c316a76bcd9408f730b04579257af5273595c5049db126ba4540b81a936.png" group-title="Nacionales",Canal 38 ¡Opa! ¹ 🇨🇷
 http://crlive1.service.osllacdn.com/opacr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="16" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/extra_tv-mediano.png" group-title="Canales Nacionales",Extra Tv 42 ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="16" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/extra_tv-mediano.png" group-title="Nacionales",Extra Tv 42 ¹ 🇨🇷
 https://live.airstream.run/gxtra-cr-dxtra-tv/live/4508d726-f0c8-450c-b377-140a45707149/ts:abr.m3u8
 
-#EXTINF:-1 tvg-chno="17" tvg-logo="https://libertycr.com/documents/297305827/297420738/ticavision.jpg" group-title="Canales Nacionales",Tica Visión ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="17" tvg-logo="https://libertycr.com/documents/297305827/297420738/ticavision.jpg" group-title="Nacionales",Tica Visión ¹ 🇨🇷
 https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="18" tvg-logo="https://elnortehoycr.com/wp-content/uploads/2020/07/captura-19.jpg" group-title="Canales Nacionales",TVN 14 San Carlos ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="18" tvg-logo="https://elnortehoycr.com/wp-content/uploads/2020/07/captura-19.jpg" group-title="Nacionales",TVN 14 San Carlos ¹ 🇨🇷
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/chunklist_w1881922243.m3u8
 
-#EXTINF:-1 tvg-chno="20" tvg-logo="https://i.imgur.com/cIvfnsa.jpeg" group-title="Canales Nacionales",Telered ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="20" tvg-logo="https://i.imgur.com/cIvfnsa.jpeg" group-title="Nacionales",Telered ¹ 🇨🇷
 https://k20.usastreams.com:8081/telered/index.m3u8
 
-#EXTINF:-1 tvg-chno="21" tvg-logo="https://image.roku.com/developer_channels/prod/0059b385c4fae2dcd6cbacc1a47c1418b2b3c82cd431a05a2aa34b3eae8ac5ed.png" group-title="Canales Nacionales",Telesistema ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="21" tvg-logo="https://image.roku.com/developer_channels/prod/0059b385c4fae2dcd6cbacc1a47c1418b2b3c82cd431a05a2aa34b3eae8ac5ed.png" group-title="Nacionales",Telesistema ¹ 🇨🇷
 https://k20.usastreams.com:8081/telesistema/index.m3u8
 
 #EXTINF:-1 tvg-chno="22" tvg-logo="https://i.imgur.com/eRwYxc2.png" group-title="Canales Nacionales",Teleuno ¹ 🇨🇷
 https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="23" tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2022/09/tvsur-logo-01-1-300x120.png" group-title="Canales Nacionales",Tv Sur Canal 14 ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="23" tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2022/09/tvsur-logo-01-1-300x120.png" group-title="Nacionales",Tv Sur Canal 14 ¹ 🇨🇷
 https://k20.usastreams.com:8081/tvsur/index.m3u8
 
-#EXTINF:-1 tvg-chno="24" tvg-logo="https://semanariouniversidad.com/wp-content/uploads/2021/04/Logo-canal15-1024x1024.jpeg" group-title="Canales Nacionales",Canal 15 UCR ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="24" tvg-logo="https://semanariouniversidad.com/wp-content/uploads/2021/04/Logo-canal15-1024x1024.jpeg" group-title="Nacionales",Canal 15 UCR ¹ 🇨🇷
 http://163.178.170.127:1935/quinceucr/_definst_/quinceucr.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="25" tvg-logo="https://costaricachannel.org/wp-content/uploads/2022/08/cropped-LOGO-CR-2022-2022-1024x342.png" group-title="Canales Nacionales",Costa Rica Channel ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="25" tvg-logo="https://costaricachannel.org/wp-content/uploads/2022/08/cropped-LOGO-CR-2022-2022-1024x342.png" group-title="Nacionales",Costa Rica Channel ¹ 🇨🇷
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 
-#EXTINF:-1 tvg-chno="26" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telesur-costa-rica.png" group-title="Canales Nacionales",Telesur CR ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="26" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telesur-costa-rica.png" group-title="Nacionales",Telesur CR ¹ 🇨🇷
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 
-#EXTINF:-1 tvg-chno="27" tvg-logo="https://lossantostv.com/chat/static/img/logo_small.png" group-title="Canales Nacionales",Los Santos TV ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="27" tvg-logo="https://lossantostv.com/chat/static/img/logo_small.png" group-title="Nacionales",Los Santos TV ¹ 🇨🇷
 https://lstv.duckdns.org/hls/lstv.m3u8
 
-#EXTINF:-1 tvg-chno="28" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP1uwaCcllXnyxP9as8wsSMaGamAcjP9mancgvJEwicwrwdBhFs9_txwOhH4ipqmOaTnVzqJSMHtouKwadZiMCIVXfW3vE2En_lfu1EDDuFAblUFMabdEEnmqyD-rvUzRHBNF7VERlrI1QEbvPGWvdSUVAtWZRhOpCRgNCjvrNzTwOG_Mnmuw2nOgAntKY/s400/CANAL%20506%20TV%20PORTADA.png" group-title="Canales Nacionales",Canal 506 TV ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="28" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP1uwaCcllXnyxP9as8wsSMaGamAcjP9mancgvJEwicwrwdBhFs9_txwOhH4ipqmOaTnVzqJSMHtouKwadZiMCIVXfW3vE2En_lfu1EDDuFAblUFMabdEEnmqyD-rvUzRHBNF7VERlrI1QEbvPGWvdSUVAtWZRhOpCRgNCjvrNzTwOG_Mnmuw2nOgAntKY/s400/CANAL%20506%20TV%20PORTADA.png" group-title="Nacionales",Canal 506 TV ¹ 🇨🇷
 https://cp.panelchs.com:1936/crwfnxfxvj/crwfnxfxvj/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="30" tvg-logo="https://www.radioextremacr.com/img/logo.png" group-title="Canales Nacionales",Extrema TV ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="30" tvg-logo="https://www.radioextremacr.com/img/logo.png" group-title="Nacionales",Extrema TV ¹ 🇨🇷
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="31" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGLhhtg5NJMWt3KwH3VG7flKs9C2E1wdf9Y4ICHz8J0GEMXa4fNvkEr_-JiwX8PEzX2ibjkta0fvSBwaGbzF4RnJewHVmBQ82JnUR3Ce2bUI_Do3Q1kHIe9HWMUY_5UvIfN_Nnwri3CEd-dZG7bJNyOVtrfg4sAO8zmaX_T8ZnNdSiAucNMMLDk8PCLz4I/s600/TURRIALBA%20LOGO%20PORTADA%202.png" group-title="Canales Nacionales",Radio Turrialba TV ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="31" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGLhhtg5NJMWt3KwH3VG7flKs9C2E1wdf9Y4ICHz8J0GEMXa4fNvkEr_-JiwX8PEzX2ibjkta0fvSBwaGbzF4RnJewHVmBQ82JnUR3Ce2bUI_Do3Q1kHIe9HWMUY_5UvIfN_Nnwri3CEd-dZG7bJNyOVtrfg4sAO8zmaX_T8ZnNdSiAucNMMLDk8PCLz4I/s600/TURRIALBA%20LOGO%20PORTADA%202.png" group-title="Nacionales",Radio Turrialba TV ¹ 🇨🇷
 https://acceso.radiosportstv.online:3723/live/radioturrialbatvlive.m3u8
 
-#EXTINF:-1 tvg-chno="32" tvg-logo="https://i.imgur.com/Vcd40AL.png" group-title="Canales Nacionales",Cartago Medios TV ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="32" tvg-logo="https://i.imgur.com/Vcd40AL.png" group-title="Nacionales",Cartago Medios TV ¹ 🇨🇷
 https://acceso.radiosportstv.online:3368/live/cartagomediostvlive.m3u8
 
-#EXTINF:-1 tvg-chno="33" tvg-logo="https://www.nicoyatv.com/images/Logos/Coope%20Logo%203.png" group-title="Canales Nacionales",Nicoya TV ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="33" tvg-logo="https://www.nicoyatv.com/images/Logos/Coope%20Logo%203.png" group-title="Nacionales",Nicoya TV ¹ 🇨🇷
 https://59ef525c24caa.streamlock.net:443/nicoyatv/nicoyatv/chunklist_w221500905.m3u8
 
-#EXTINF:-1 tvg-chno="34" tvg-logo="https://geomedios.fcs.ucr.ac.cr/wp-content/uploads/2019/07/Limon_TV_Logo.png" group-title="Canales Nacionales",Limón TV ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="34" tvg-logo="https://geomedios.fcs.ucr.ac.cr/wp-content/uploads/2019/07/Limon_TV_Logo.png" group-title="Nacionales",Limón TV ¹ 🇨🇷
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="35" tvg-logo="https://i.imgur.com/G0BRKFc.jpeg" group-title="Canales Nacionales",Caribe Tv CR ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="35" tvg-logo="https://i.imgur.com/G0BRKFc.jpeg" group-title="Nacionales",Caribe Tv CR ¹ 🇨🇷
 https://live20.bozztv.com/akamaissh101/ssh101/caribetv/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="36" tvg-logo="https://i.imgur.com/XvktUBB.jpeg" group-title="Canales Nacionales",Zurqui TV ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="36" tvg-logo="https://i.imgur.com/XvktUBB.jpeg" group-title="Nacionales",Zurqui TV ¹ 🇨🇷
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 
-#EXTINF:-1 tvg-chno="37" tvg-logo="https://radiocostarica.net/sites/default/files/styles/player_image/public/2024-06/GAM%20TV%20CR-Costa%20Rica_0.png.webp?itok=ExXxZFSr" group-title="Canales Nacionales",GAM TV ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="37" tvg-logo="https://radiocostarica.net/sites/default/files/styles/player_image/public/2024-06/GAM%20TV%20CR-Costa%20Rica_0.png.webp?itok=ExXxZFSr" group-title="Nacionales",GAM TV ¹ 🇨🇷
 https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="39" tvg-logo="https://www.coolstreaming.us/img/ch/image6702628824.jpg" group-title="Canales Nacionales",Antena Seis TV ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="39" tvg-logo="https://www.coolstreaming.us/img/ch/image6702628824.jpg" group-title="Nacionales",Antena Seis TV ¹ 🇨🇷
 https://cloudvideo.servers10.com:8081/8132/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="40" tvg-logo="https://i.imgur.com/OFSOvpd.jpeg" group-title="Canales Nacionales",TDtv ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="40" tvg-logo="https://i.imgur.com/OFSOvpd.jpeg" group-title="Nacionales",TDtv ¹ 🇨🇷
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
 
-#EXTINF:-1 tvg-chno="42" tvg-logo="https://static.wixstatic.com/media/e9b9b7_356efe37d4cb4ea3aaf42fb3c975af40~mv2.png" group-title="Canales Nacionales",Garabito TV ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="42" tvg-logo="https://static.wixstatic.com/media/e9b9b7_356efe37d4cb4ea3aaf42fb3c975af40~mv2.png" group-title="Nacionales",Garabito TV ¹ 🇨🇷
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="43" tvg-logo="https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg" group-title="Canales Nacionales",Canal Norte Informativo ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="43" tvg-logo="https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg" group-title="Nacionales",Canal Norte Informativo ¹ 🇨🇷
 https://videohd.live:19360/8076/8076.m3u8
 
-#EXTINF:-1 tvg-chno="44" tvg-logo="https://i.imgur.com/Yd7JOxr.png" group-title="Canales Nacionales",San Vito TV ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="44" tvg-logo="https://i.imgur.com/Yd7JOxr.png" group-title="Nacionales",San Vito TV ¹ 🇨🇷
 https://acceso.radiosportstv.online:3150/live/sanvitotvlive.m3u8
 
-#EXTINF:-1 tvg-chno="44" tvg-logo="https://image.roku.com/developer_channels/prod/cc9bfad56cc1948d03b78c0b4adf3d215ce35bfe08a99b661b575950b8830afb.png" group-title="Canales Nacionales",Rio Frío TV ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="44" tvg-logo="https://image.roku.com/developer_channels/prod/cc9bfad56cc1948d03b78c0b4adf3d215ce35bfe08a99b661b575950b8830afb.png" group-title="Nacionales",Rio Frío TV ¹ 🇨🇷
 https://acceso.radiosportstv.online:3417/live/360rftvcrlive.m3u8
 
-#EXTINF:-1 tvg-chno="45" tvg-logo="https://geomedios.fcs.ucr.ac.cr/wp-content/uploads/2019/07/LogoSTV.png" group-title="Canales Nacionales",Sarapiquí TV ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="45" tvg-logo="https://geomedios.fcs.ucr.ac.cr/wp-content/uploads/2019/07/LogoSTV.png" group-title="Nacionales",Sarapiquí TV ¹ 🇨🇷
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="46" tvg-logo="https://image.roku.com/developer_channels/prod/cb20a7cb94abfe34e8aec64a16664d6ea8330cec1c1bddcfe23f139e5b274d4f.png" group-title="Canales Nacionales",Telebrunca CR ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="46" tvg-logo="https://image.roku.com/developer_channels/prod/cb20a7cb94abfe34e8aec64a16664d6ea8330cec1c1bddcfe23f139e5b274d4f.png" group-title="Nacionales",Telebrunca CR ¹ 🇨🇷
 http://k4.usastreams.com/telebrunca/telebrunca/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="47" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0d6vD4coSsdc8wF8umj0rjvo5bZxQ9r3TeNsyNZ4qq4PlEzOusv9eVDvlWdVi80KF9ltur1f4LfJ2xVSl93yNpgZabFunN909DWUKUpV-wgPXTiqmaqNQPMP0xNYQTCdU8o-HDTpD0qmt_6gugfVq4Aj1xjNTZBfIoahPL5xT7xFuVF6K307G6CvVJrk/s400/14.png" group-title="Canales Nacionales",Canal 10 CR ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="47" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0d6vD4coSsdc8wF8umj0rjvo5bZxQ9r3TeNsyNZ4qq4PlEzOusv9eVDvlWdVi80KF9ltur1f4LfJ2xVSl93yNpgZabFunN909DWUKUpV-wgPXTiqmaqNQPMP0xNYQTCdU8o-HDTpD0qmt_6gugfVq4Aj1xjNTZBfIoahPL5xT7xFuVF6K307G6CvVJrk/s400/14.png" group-title="Nacionales",Canal 10 CR ¹ 🇨🇷
 https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
 
-#EXTINF:-1 tvg-chno="48" tvg-logo="https://image.roku.com/developer_channels/prod/db4a766d6686e0ec2d17d0307c9a4c3bd0dc27a13f0647fb8561bfb0754300a2.png" group-title="Canales Nacionales",TV Nosara ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="48" tvg-logo="https://image.roku.com/developer_channels/prod/db4a766d6686e0ec2d17d0307c9a4c3bd0dc27a13f0647fb8561bfb0754300a2.png" group-title="Nacionales",TV Nosara ¹ 🇨🇷
 https://latamvdo.com:3870/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-chno="49" tvg-logo="https://image.roku.com/developer_channels/prod/3d89b0129300d4fcc1b74f51c7dbee45020d18b6c3457995c78895567ab1a39f.png" group-title="Canales Nacionales",Coto Brus TV ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="49" tvg-logo="https://image.roku.com/developer_channels/prod/3d89b0129300d4fcc1b74f51c7dbee45020d18b6c3457995c78895567ab1a39f.png" group-title="Nacionales",Coto Brus TV ¹ 🇨🇷
 https://s1.tvdatta.com:3072/live/cotobrustvlive.m3u8
 
-#EXTINF:-1 tvg-chno="50" tvg-logo="https://i.imgur.com/RqdpiYo.jpeg" group-title="Canales Nacionales",Megahits ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="50" tvg-logo="https://i.imgur.com/RqdpiYo.jpeg" group-title="Nacionales",Megahits ¹ 🇨🇷
 https://giatv.bozztv.com/giatv/giatv-Supercanal/Supercanal/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="Cine Locales",Ciudad Magazine ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="Cine Latinos",Ciudad Magazine ¹ 🇦🇷
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://bayrestv.com.ar/assets/logo-bayres-tv.png" group-title="Cine Locales",Bayres TV ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://bayrestv.com.ar/assets/logo-bayres-tv.png" group-title="Cine Latinos",Bayres TV ¹ 🇦🇷
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
-#EXTINF:-1 tvg-chno="52" tvg-logo="https://butaca.tv/_next/static/media/logo-black.32e2c785.png" group-title="Cine Locales",Butaca TV ¹ 🇺🇸
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://butaca.tv/_next/static/media/logo-black.32e2c785.png" group-title="Cine Latinos",Butaca TV ¹ 🇺🇸
 https://linear-842.frequency.stream/mt/plex/842/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="53" tvg-logo="https://play-lh.googleusercontent.com/OdWhvPhBs4DfqmC_0TgmlZELLX_8UHlmXqOWOvYMIVLsEncE2tRPHI-2xUiAbJRxJVtg=s75-rw" group-title="Cine Locales",Neo TV ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="53" tvg-logo="https://play-lh.googleusercontent.com/OdWhvPhBs4DfqmC_0TgmlZELLX_8UHlmXqOWOvYMIVLsEncE2tRPHI-2xUiAbJRxJVtg=s75-rw" group-title="Cine Latinos",Neo TV ¹ 🇦🇷
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-chno="54" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-5-Tigre-Tv-en-vivo-Online.png?resize=1068%2C601&ssl=1" group-title="Cine Locales",Cinco TV ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="54" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-5-Tigre-Tv-en-vivo-Online.png?resize=1068%2C601&ssl=1" group-title="Cine Latinos",Cinco TV ¹ 🇦🇷
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
-#EXTINF:-1 tvg-chno="55" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Cine Locales",Cosmos TV ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="55" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Cine Latinos",Cosmos TV ¹ 🇦🇷
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
-#EXTINF:-1 tvg-chno="56" tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="Cine Locales",Canal 57 Florida ¹ 🇺🇸
+#EXTINF:-1 tvg-chno="56" tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="Cine Latinos",Canal 57 Florida ¹ 🇺🇸
 https://167790.global.ssl.fastly.net:443/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="57" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/vegavision-canal-18.jpg" group-title="Cine Locales",Vegavisión Canal 18 ¹ 🇩🇴 
+#EXTINF:-1 tvg-chno="57" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/vegavision-canal-18.jpg" group-title="Cine Latinos",Vegavisión Canal 18 ¹ 🇩🇴 
 https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
 
-#EXTINF:-1 tvg-chno="58" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/10microvision.png?zoom=3&resize=100%2C70&ssl=1" group-title="Cine Locales",Microvisión ¹ 🇩🇴
+#EXTINF:-1 tvg-chno="58" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/10microvision.png?zoom=3&resize=100%2C70&ssl=1" group-title="Cine Latinos",Microvisión ¹ 🇩🇴
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="59" tvg-logo="https://satelcanal4.com/wp-content/uploads/2023/08/SATEL-LOGO-1-1024x652.png" group-title="Cine Locales",Satel Canal 4 ¹ 🇨🇴
+#EXTINF:-1 tvg-chno="59" tvg-logo="https://satelcanal4.com/wp-content/uploads/2023/08/SATEL-LOGO-1-1024x652.png" group-title="Cine Latinos",Satel Canal 4 ¹ 🇨🇴
 https://server.asilivehd.com:3802/live/canal4live.m3u8
 
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://cineramatv.com/wp-content/uploads/2024/10/sin-fondo.png" group-title="Cine Locales",Cinerama TV ¹ 🇧🇴
+#EXTINF:-1 tvg-chno="60" tvg-logo="https://cineramatv.com/wp-content/uploads/2024/10/sin-fondo.png" group-title="Cine Latinos",Cinerama TV ¹ 🇧🇴
 https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8?cachebust=7e749c
 
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://megatvcr.net/images/logo-mega.png" group-title="Canales Nacionales",Mega Tv CR 🇨🇷
+#EXTINF:-1 tvg-chno="60" tvg-logo="https://megatvcr.net/images/logo-mega.png" group-title="Nacionales",Mega Tv CR 🇨🇷
 https://k20.usastreams.com:8081/tvtico/video.m3u8
 
-#EXTINF:-1 tvg-chno="61" tvg-logo="https://www.megatvarequipa.com/wp-content/uploads/2023/05/cropped-cropped-cropped-cropped-cropped-Polish_20230519_110858425.jpg" group-title="Cine Locales",Mega Tv Arequipa ¹ 🇵🇪
+#EXTINF:-1 tvg-chno="61" tvg-logo="https://www.megatvarequipa.com/wp-content/uploads/2023/05/cropped-cropped-cropped-cropped-cropped-Polish_20230519_110858425.jpg" group-title="Cine Latinos",Mega Tv Arequipa ¹ 🇵🇪
 https://stmv5.voxtvhd.com.br/tvytv/tvytv/chunklist_w1751351932.m3u8
 
-#EXTINF:-1 tvg-chno="62" tvg-logo="https://megatvjaen.pe/wp-content/uploads/2022/12/cropped-megajaen.png" group-title="Cine Locales",Mega Tv ¹ 🇵🇪
+#EXTINF:-1 tvg-chno="62" tvg-logo="https://megatvjaen.pe/wp-content/uploads/2022/12/cropped-megajaen.png" group-title="Cine Latinos",Mega Tv ¹ 🇵🇪
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 
-#EXTINF:-1 tvg-chno="63" tvg-logo="https://images.squarespace-cdn.com/content/v1/6011bffa317a1f7611f12428/1633029916787-F3MHJD8N95PE2K176HL0/kiss-cut-stickers-5.5x5.5-default-61560f185cc2a.png?format=1500w" group-title="Canales Nacionales",Canal Retro TV ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="63" tvg-logo="https://images.squarespace-cdn.com/content/v1/6011bffa317a1f7611f12428/1633029916787-F3MHJD8N95PE2K176HL0/kiss-cut-stickers-5.5x5.5-default-61560f185cc2a.png?format=1500w" group-title="Nacionales",Canal Retro TV ¹ 🇨🇷
 https://server.streamtech.com.co:5443/retroTv/streams/sJlaR9zuk3cJ8jqN4467369974529.m3u8
 
-#EXTINF:-1 tvg-chno="64" tvg-logo="https://img1.wsimg.com/isteam/ip/0b6749a7-4d1f-4663-98a6-82c3788efdcb/RETROX%20TV%20LOGO%20PNG.png" group-title="Canales Nacionales",Retrox TV ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="64" tvg-logo="https://img1.wsimg.com/isteam/ip/0b6749a7-4d1f-4663-98a6-82c3788efdcb/RETROX%20TV%20LOGO%20PNG.png" group-title="Nacionales",Retrox TV ¹ 🇨🇷
 https://acceso.radiosportstv.online:3259/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-chno="65" tvg-logo="https://image.roku.com/developer_channels/prod/57ab74c4faa79c70ed4ac4a5e84e17dc731fbded16d330e3bf320a4613a9f5e6.png" group-title="Canales Nacionales",Retro Tv Palmares ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="65" tvg-logo="https://image.roku.com/developer_channels/prod/57ab74c4faa79c70ed4ac4a5e84e17dc731fbded16d330e3bf320a4613a9f5e6.png" group-title="Nacionales",Retro Tv Palmares ¹ 🇨🇷
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="66" tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png" group-title="Cine Locales",Dreiko TV ¹ 🇵🇦 
+#EXTINF:-1 tvg-chno="66" tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png" group-title="Cine Latinos",Dreiko TV ¹ 🇵🇦 
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
-#EXTINF:-1 tvg-chno="67" tvg-logo="https://static.wixstatic.com/media/3ebf2e_6c71f9a7aa66459ea6140c872c515467~mv2.png/v1/crop/x_21,y_41,w_1259,h_566/fill/w_244,h_110,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20letras%203d.png" group-title="Cine Locales",Retro Mágico ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="67" tvg-logo="https://static.wixstatic.com/media/3ebf2e_6c71f9a7aa66459ea6140c872c515467~mv2.png/v1/crop/x_21,y_41,w_1259,h_566/fill/w_244,h_110,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20letras%203d.png" group-title="Cine Latinos",Retro Mágico ¹ 🇦🇷
 https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="69" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png" group-title="24/7 Novelas",Todo Novelas ¹ 🇲🇽 
@@ -234,169 +234,169 @@ https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
 #EXTINF:-1 tvg-chno="69" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Rakuten_Viki_2022.svg/500px-Rakuten_Viki_2022.svg.png" group-title="24/7 Novelas",Rakuten Viki ¹
 https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Chavo del 8 (1) °
+#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Chavo del 8 (1) °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279007.m3u8
 
-#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Chavo del 8 (2)
+#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Chavo del 8 (2)
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=129315&extension=ts
 
-#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Chavo del 8 (3)
+#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Chavo del 8 (3)
 http://tvpremium.pro:80/live/Erick12345/Erick12345/361281.m3u8
 
-#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Chavo del 8 (4)
+#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Chavo del 8 (4)
 http://planettvweb.com:8091/streaming/clients_live.php?username=ArielMndo&password=ARIMDO815433&stream=16425&extension=ts
 
-#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Chapulín Colorado (1) °
+#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Chapulín Colorado (1) °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279027.m3u8
 
-#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Chapulín Colorado (2)
+#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Chapulín Colorado (2)
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=129323&extension=ts
 
-#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Chapulín Colorado (3)
+#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Chapulín Colorado (3)
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=30641&extension=ts
 
-#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Chespirito 
+#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Chespirito 
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2385286.m3u8
 
-#EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Los Simpson (1) °
+#EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Los Simpson (1) °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279041.m3u8
 
-#EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Los Simpson (2) °
+#EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Los Simpson (2) °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279042.m3u8
 
-#EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Los Simpson (3) °
+#EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Los Simpson (3) °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279043.m3u8
 
-#EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Los Simpson (4) °
+#EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Los Simpson (4) °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279044.m3u8
 
-#EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Los Simpson (5)
+#EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Los Simpson (5)
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=129313&extension=ts
 
-#EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Los Simpson (6)
+#EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Los Simpson (6)
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2387517.m3u8
 
-#EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Los Simpson (7)
+#EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Los Simpson (7)
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2387518.m3u8
 
-#EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Los Simpson (8)
+#EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Los Simpson (8)
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2091016.m3u8
 
-#EXTINF:-1 tvg-chno="72" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Futurama (1) °
+#EXTINF:-1 tvg-chno="72" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Futurama (1) °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279008.m3u8
 
-#EXTINF:-1 tvg-chno="72" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Futurama (2)
+#EXTINF:-1 tvg-chno="72" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Futurama (2)
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=162187&extension=ts
 
-#EXTINF:-1 tvg-chno="72" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Futurama (3)
+#EXTINF:-1 tvg-chno="72" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Futurama (3)
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2394840.m3u8
 
-#EXTINF:-1 tvg-chno="72" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Futurama (4)
+#EXTINF:-1 tvg-chno="72" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Futurama (4)
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2394842.m3u8
 
-#EXTINF:-1 tvg-chno="73" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Padre de Familia
+#EXTINF:-1 tvg-chno="73" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Padre de Familia
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2387527.m3u8
 
-#EXTINF:-1 tvg-chno="74" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 South Park
+#EXTINF:-1 tvg-chno="74" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 South Park
 http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=536181&extension=ts
 
-#EXTINF:-1 tvg-chno="75" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 La Casa de los Dibujos 
+#EXTINF:-1 tvg-chno="75" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 La Casa de los Dibujos 
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2387504.m3u8
 
-#EXTINF:-1 tvg-chno="76" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Bob Esponja
+#EXTINF:-1 tvg-chno="76" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Bob Esponja
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=129332&extension=ts
 
-#EXTINF:-1 tvg-chno="77" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Los Pitufos 
+#EXTINF:-1 tvg-chno="77" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Los Pitufos 
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2387516.m3u8
 
-#EXTINF:-1 tvg-chno="78" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Mazinger Z
+#EXTINF:-1 tvg-chno="78" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Mazinger Z
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2387520.m3u8
 
-#EXTINF:-1 tvg-chno="79" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Scooby Doo
+#EXTINF:-1 tvg-chno="79" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Scooby Doo
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2387542.m3u8
 
-#EXTINF:-1 tvg-chno="80" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Tom & Jerry 
+#EXTINF:-1 tvg-chno="80" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Tom & Jerry 
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2387552.m3u8
 
-#EXTINF:-1 tvg-chno="81" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Vecinos (1)
+#EXTINF:-1 tvg-chno="81" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Vecinos (1)
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=165433&extension=ts
 
-#EXTINF:-1 tvg-chno="81" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Vecinos (2)
+#EXTINF:-1 tvg-chno="81" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Vecinos (2)
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2384966.m3u8
 
-#EXTINF:-1 tvg-chno="82" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Nosotros Los Guapos (1)
+#EXTINF:-1 tvg-chno="82" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Nosotros Los Guapos (1)
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=165386&extension=ts
 
-#EXTINF:-1 tvg-chno="82" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Nosotros Los Guapos (2)
+#EXTINF:-1 tvg-chno="82" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Nosotros Los Guapos (2)
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2384946.m3u8
 
-#EXTINF:-1 tvg-chno="83" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Una Familia de Diez 
+#EXTINF:-1 tvg-chno="83" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Una Familia de Diez 
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2384965.m3u8
 
-#EXTINF:-1 tvg-chno="84" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 La Familia Peluche (1)
+#EXTINF:-1 tvg-chno="84" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 La Familia Peluche (1)
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2384930.m3u8
 
-#EXTINF:-1 tvg-chno="85" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 La Familia Peluche (2)
+#EXTINF:-1 tvg-chno="85" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 La Familia Peluche (2)
 http://tvpremium.pro:80/live/Erick12345/Erick12345/766994.m3u8
 
-#EXTINF:-1 tvg-chno="86" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Cantinflas (1)
+#EXTINF:-1 tvg-chno="86" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Cantinflas (1)
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=63155&extension=ts
 
-#EXTINF:-1 tvg-chno="86" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Cantinflas (2)
+#EXTINF:-1 tvg-chno="86" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Cantinflas (2)
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=117814&extension=ts
 
-#EXTINF:-1 tvg-chno="86" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Cantinflas (3)
+#EXTINF:-1 tvg-chno="86" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Cantinflas (3)
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2385231.m3u8
 
-#EXTINF:-1 tvg-chno="87" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Pedro Infante 
+#EXTINF:-1 tvg-chno="87" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Pedro Infante 
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2385262.m3u8
 
-#EXTINF:-1 tvg-chno="88" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Betty La Fea
+#EXTINF:-1 tvg-chno="88" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Betty La Fea
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2384901.m3u8
 
-#EXTINF:-1 tvg-chno="89" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 El Príncipe del Rap (1)
+#EXTINF:-1 tvg-chno="89" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 El Príncipe del Rap (1)
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2384916.m3u8
 
-#EXTINF:-1 tvg-chno="89" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 El Príncipe del Rap (2)
+#EXTINF:-1 tvg-chno="89" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 El Príncipe del Rap (2)
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2385289.m3u8
 
-#EXTINF:-1 tvg-chno="90" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Walker Texas Ranger
+#EXTINF:-1 tvg-chno="90" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Walker Texas Ranger
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2385310.m3u8
 
-#EXTINF:-1 tvg-chno="91" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Alf (1)
+#EXTINF:-1 tvg-chno="91" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Alf (1)
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2385281.m3u8
 
-#EXTINF:-1 tvg-chno="91" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Alf (2)
+#EXTINF:-1 tvg-chno="91" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Alf (2)
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=30507&extension=ts
 
-#EXTINF:-1 tvg-chno="92" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Los Años Maravillosos 
+#EXTINF:-1 tvg-chno="92" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Los Años Maravillosos 
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2385298.m3u8
 
-#EXTINF:-1 tvg-chno="93" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Mejorando La Casa
+#EXTINF:-1 tvg-chno="93" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Mejorando La Casa
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2385304.m3u8
 
-#EXTINF:-1 tvg-chno="94" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Los Expedientes Secretos X
+#EXTINF:-1 tvg-chno="94" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Los Expedientes Secretos X
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2385300.m3u8
 
-#EXTINF:-1 tvg-chno="95" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Dos Hombres y Medio
+#EXTINF:-1 tvg-chno="95" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Dos Hombres y Medio
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2384964.m3u8
 
-#EXTINF:-1 tvg-chno="96" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Dr. House
+#EXTINF:-1 tvg-chno="96" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Dr. House
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2384911.m3u8
 
-#EXTINF:-1 tvg-chno="97" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Luisito Comunica 
+#EXTINF:-1 tvg-chno="97" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Luisito Comunica 
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=176971&extension=ts
 
-#EXTINF:-1 tvg-chno="97" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Shark Thank México
+#EXTINF:-1 tvg-chno="97" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Shark Thank México
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2384951.m3u8
 
-#EXTINF:-1 tvg-chno="98" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Caso Cerrado
+#EXTINF:-1 tvg-chno="98" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Caso Cerrado
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2384905.m3u8
 
-#EXTINF:-1 tvg-chno="99" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Alerta Aeropuerto (1)
+#EXTINF:-1 tvg-chno="99" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Alerta Aeropuerto (1)
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=228655&extension=ts
 
-#EXTINF:-1 tvg-chno="99" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Canales",24/7 Alerta Aeropuerto (2)
+#EXTINF:-1 tvg-chno="99" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Alerta Aeropuerto (2)
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2384897.m3u8
 
 #EXTINF:-1 tvg-chno="130" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cnn-en-espanol_m.png" group-title="Noticias",CNN Español ¹ 🇺🇸
