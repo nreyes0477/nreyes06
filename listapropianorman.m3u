@@ -135,46 +135,46 @@ https://s1.tvdatta.com:3072/live/cotobrustvlive.m3u8
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://i.imgur.com/RqdpiYo.jpeg" group-title="Canales Nacionales",Megahits ¹ 🇨🇷
 https://giatv.bozztv.com/giatv/giatv-Supercanal/Supercanal/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png",Ciudad Magazine ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="Cine Locales",Ciudad Magazine ¹ 🇦🇷
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://bayrestv.com.ar/assets/logo-bayres-tv.png",Bayres TV ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://bayrestv.com.ar/assets/logo-bayres-tv.png" group-title="Cine Locales",Bayres TV ¹ 🇦🇷
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
-#EXTINF:-1 tvg-chno="52" tvg-logo="https://butaca.tv/_next/static/media/logo-black.32e2c785.png",Butaca TV ¹ 🇺🇸
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://butaca.tv/_next/static/media/logo-black.32e2c785.png" group-title="Cine Locales",Butaca TV ¹ 🇺🇸
 https://linear-842.frequency.stream/mt/plex/842/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="53" tvg-logo="https://play-lh.googleusercontent.com/OdWhvPhBs4DfqmC_0TgmlZELLX_8UHlmXqOWOvYMIVLsEncE2tRPHI-2xUiAbJRxJVtg=s75-rw",Neo TV ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="53" tvg-logo="https://play-lh.googleusercontent.com/OdWhvPhBs4DfqmC_0TgmlZELLX_8UHlmXqOWOvYMIVLsEncE2tRPHI-2xUiAbJRxJVtg=s75-rw" group-title="Cine Locales",Neo TV ¹ 🇦🇷
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-chno="54" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-5-Tigre-Tv-en-vivo-Online.png?resize=1068%2C601&ssl=1",Cinco TV ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="54" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-5-Tigre-Tv-en-vivo-Online.png?resize=1068%2C601&ssl=1" group-title="Cine Locales",Cinco TV ¹ 🇦🇷
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
-#EXTINF:-1 tvg-chno="55" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png",Cosmos TV ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="55" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Cine Locales",Cosmos TV ¹ 🇦🇷
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
-#EXTINF:-1 tvg-chno="56" tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png",Canal 57 Florida ¹ 🇺🇸
+#EXTINF:-1 tvg-chno="56" tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="Cine Locales",Canal 57 Florida ¹ 🇺🇸
 https://167790.global.ssl.fastly.net:443/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="57" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/vegavision-canal-18.jpg",Vegavisión Canal 18 ¹ 🇩🇴 
+#EXTINF:-1 tvg-chno="57" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/vegavision-canal-18.jpg" group-title="Cine Locales",Vegavisión Canal 18 ¹ 🇩🇴 
 https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
 
-#EXTINF:-1 tvg-chno="58" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/10microvision.png?zoom=3&resize=100%2C70&ssl=1",Microvisión ¹ 🇩🇴
+#EXTINF:-1 tvg-chno="58" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/10microvision.png?zoom=3&resize=100%2C70&ssl=1" group-title="Cine Locales",Microvisión ¹ 🇩🇴
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="59" tvg-logo="https://satelcanal4.com/wp-content/uploads/2023/08/SATEL-LOGO-1-1024x652.png",Satel Canal 4 ¹ 🇨🇴
+#EXTINF:-1 tvg-chno="59" tvg-logo="https://satelcanal4.com/wp-content/uploads/2023/08/SATEL-LOGO-1-1024x652.png" group-title="Cine Locales",Satel Canal 4 ¹ 🇨🇴
 https://server.asilivehd.com:3802/live/canal4live.m3u8
 
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://cineramatv.com/wp-content/uploads/2024/10/sin-fondo.png",Cinerama TV ¹ 🇧🇴
+#EXTINF:-1 tvg-chno="60" tvg-logo="https://cineramatv.com/wp-content/uploads/2024/10/sin-fondo.png" group-title="Cine Locales",Cinerama TV ¹ 🇧🇴
 https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8?cachebust=7e749c
 
 #EXTINF:-1 tvg-chno="60" tvg-logo="https://megatvcr.net/images/logo-mega.png" group-title="Canales Nacionales",Mega Tv CR 🇨🇷
 https://k20.usastreams.com:8081/tvtico/video.m3u8
 
-#EXTINF:-1 tvg-chno="61" tvg-logo="https://www.megatvarequipa.com/wp-content/uploads/2023/05/cropped-cropped-cropped-cropped-cropped-Polish_20230519_110858425.jpg",Mega Tv Arequipa ¹ 🇵🇪
+#EXTINF:-1 tvg-chno="61" tvg-logo="https://www.megatvarequipa.com/wp-content/uploads/2023/05/cropped-cropped-cropped-cropped-cropped-Polish_20230519_110858425.jpg" group-title="Cine Locales",Mega Tv Arequipa ¹ 🇵🇪
 https://stmv5.voxtvhd.com.br/tvytv/tvytv/chunklist_w1751351932.m3u8
 
-#EXTINF:-1 tvg-chno="62" tvg-logo="https://megatvjaen.pe/wp-content/uploads/2022/12/cropped-megajaen.png",Mega Tv ¹ 🇵🇪
+#EXTINF:-1 tvg-chno="62" tvg-logo="https://megatvjaen.pe/wp-content/uploads/2022/12/cropped-megajaen.png" group-title="Cine Locales",Mega Tv ¹ 🇵🇪
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 
 #EXTINF:-1 tvg-chno="63" tvg-logo="https://images.squarespace-cdn.com/content/v1/6011bffa317a1f7611f12428/1633029916787-F3MHJD8N95PE2K176HL0/kiss-cut-stickers-5.5x5.5-default-61560f185cc2a.png?format=1500w" group-title="Canales Nacionales",Canal Retro TV ¹ 🇨🇷
@@ -186,10 +186,10 @@ https://acceso.radiosportstv.online:3259/hybrid/play.m3u8
 #EXTINF:-1 tvg-chno="65" tvg-logo="https://image.roku.com/developer_channels/prod/57ab74c4faa79c70ed4ac4a5e84e17dc731fbded16d330e3bf320a4613a9f5e6.png" group-title="Canales Nacionales",Retro Tv Palmares ¹ 🇨🇷
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="66" tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png",Dreiko TV ¹ 🇵🇦 
+#EXTINF:-1 tvg-chno="66" tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png" group-title="Cine Locales",Dreiko TV ¹ 🇵🇦 
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
-#EXTINF:-1 tvg-chno="67" tvg-logo="https://static.wixstatic.com/media/3ebf2e_6c71f9a7aa66459ea6140c872c515467~mv2.png/v1/crop/x_21,y_41,w_1259,h_566/fill/w_244,h_110,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20letras%203d.png",Retro Mágico ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="67" tvg-logo="https://static.wixstatic.com/media/3ebf2e_6c71f9a7aa66459ea6140c872c515467~mv2.png/v1/crop/x_21,y_41,w_1259,h_566/fill/w_244,h_110,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20letras%203d.png" group-title="Cine Locales",Retro Mágico ¹ 🇦🇷
 https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="69" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png" group-title="24/7 Novelas",Todo Novelas ¹ 🇲🇽 
@@ -534,34 +534,34 @@ https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="177" tvg-logo="https://ocopen.org/wp-content/uploads/2021/11/OCOPEN-Negocios.png"bgroup-title="Noticias",Negocios TV ¹ 🇪🇦
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
-#EXTINF:-1 tvg-chno="178" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/200px-Ucvtvlogo2014mejorado.png",UCV Chile ¹ 🇨🇱
+#EXTINF:-1 tvg-chno="178" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/200px-Ucvtvlogo2014mejorado.png" group-title="Canales Educativos",UCV Chile ¹ 🇨🇱
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="140" tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2020/12/CANAL-UCL_Logo-350.png",UCL Televisión ¹ 🇺🇾
+#EXTINF:-1 tvg-chno="140" tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2020/12/CANAL-UCL_Logo-350.png" group-title="Canales Educativos",UCL Televisión ¹ 🇺🇾
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
-#EXTINF:-1 tvg-chno="179" tvg-logo="https://cdn.m3u.cl/logo/1356_El_Histonauta_TV.png",El Histonauta TV ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="179" tvg-logo="https://cdn.m3u.cl/logo/1356_El_Histonauta_TV.png" group-title="Canales Educativos",El Histonauta TV ¹ 🇦🇷
 https://stmv6.voxtvhd.com.br/elhistonautatv/elhistonautatv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="181" tvg-logo="https://academiajoven.es/wp-content/uploads/2020/09/xataka.png",Xataka TV ¹ 🇪🇸
+#EXTINF:-1 tvg-chno="181" tvg-logo="https://academiajoven.es/wp-content/uploads/2020/09/xataka.png" group-title="Canales Educativos",Xataka TV ¹ 🇪🇸
 https://wbd-xat.otteravision.com/wbd/xat/xat.m3u8
 
-#EXTINF:-1 tvg-chno="182" tvg-logo="https://image.roku.com/developer_channels/prod/2ee8ed69266a33986437dd4fea6fc49cd2ebf61ac54c1a230ee6ce65eacba267.png",Hiperconectados TV ¹ 🇨🇱
+#EXTINF:-1 tvg-chno="182" tvg-logo="https://image.roku.com/developer_channels/prod/2ee8ed69266a33986437dd4fea6fc49cd2ebf61ac54c1a230ee6ce65eacba267.png" group-title="Canales Educativos",Hiperconectados TV ¹ 🇨🇱
 https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="183" tvg-logo="https://www.deel.com/hs-fs/hubfs/Platzi%20logo.png?width=1000&height=387&name=Platzi%20logo.png",Platzi TV ¹ 🇨🇱
+#EXTINF:-1 tvg-chno="183" tvg-logo="https://www.deel.com/hs-fs/hubfs/Platzi%20logo.png?width=1000&height=387&name=Platzi%20logo.png" group-title="Canales Educativos",Platzi TV ¹ 🇨🇱
 https://mdstrm.com/live-stream-playlist/663ba07c06e6e3577a30452a.m3u8?uid=5dAe2fGb7gE6c1jXaP2GttShy86nHQLK&sid=00NPHR4Yl6L3eYoGqdgqPrfGk6lK6jpR&pid=kEwRnUOEtOQTXGUJJmkWSBpPnPtOca61&an=screen&at=web-app&av=v6.0.57&ref=https%3A%2F%2Fplatzi.com%2Flive%2F&res=393x221&without_cookies=false&listenerid=&dnt=true
 
-#EXTINF:-1 tvg-chno="185" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal Astronet ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="185" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Canales Educativos",Canal Astronet ¹ 🇦🇷
 https://stmv6.voxtvhd.com.br/astronet/astronet/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="186" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal Mundo TV ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="186" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Canales Educativos",Canal Mundo TV ¹ 🇦🇷
 https://stmv4.voxtvhd.com.br/elbuenvivir/elbuenvivir/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="188" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal XtremaAnimal ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="188" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Canales Educativos",Canal XtremaAnimal ¹ 🇦🇷
 https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="189" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Vale-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1",Vale TV ¹ 🇻🇪
+#EXTINF:-1 tvg-chno="189" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Vale-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Canales Educativos",Vale TV ¹ 🇻🇪
 https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina",Telefe ° 🇦🇷
