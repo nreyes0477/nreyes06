@@ -945,17 +945,17 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 #EXTINF:-1 tvg-chno="337" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TN8_Nicaragua.svg/1280px-TN8_Nicaragua.svg.png",TN8 ¹ 🇳🇮
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="338" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png",Tv Max 🇵🇦
-http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/155916.m3u8
+#EXTINF:-1 tvg-chno="338" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png",Tv Max ° 🇵🇦
+http://172.93.102.112:8989/279309_.m3u8
 
-#EXTINF:-1 tvg-chno="341" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png",TVN ² 🇵🇦
+#EXTINF:-1 tvg-chno="341" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png",TVN ² ° 🇵🇦
 http://172.93.102.112:8989/279310_.m3u8
 
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/300px-Logo-telemetro.svg.png",Telemetro 🇵🇦
-http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/201865.m3u8
+#EXTINF:-1 tvg-chno="342" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/300px-Logo-telemetro.svg.png",Telemetro ° 🇵🇦
+http://172.93.102.112:8989/279307_.m3u8
 
-#EXTINF:-1 tvg-chno="343" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/RPC-en-vivo-Online.png?resize=1068%2C601&ssl=1",RPC 🇵🇦
-http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/201866.m3u8
+#EXTINF:-1 tvg-chno="343" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/RPC-en-vivo-Online.png?resize=1068%2C601&ssl=1",RPC ° 🇵🇦
+http://172.93.102.112:8989/279305_.m3u8
 
 #EXTINF:-1 tvg-chno="344" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/NEX-TV-Panam%C3%A1-en-vivo-Online.png?zoom=3&resize=218%2C150&ssl=1",Next TV ¹ 🇵🇦
 https://vcp8.myplaytv.com:1936/nextv/nextv/playlist.m3u8
@@ -1638,8 +1638,8 @@ http://38.41.8.1:8000/play/a0tp
 #EXTINF:-1 tvg-chno="684" tvg-logo="https://elcomercio-elcomercio-prod.web.arc-cdn.net/resizer/v2/SI7SCQMDSFHVPMWEG7JTBRDA4E.jpg?auth=ee9002b30119e489b0177c3764bb01abd56ae3d285b2b42f2a1a3f8b0d0b455a&width=600&height=400&smart=true&quality=75",Movistar Deportes ² 🇵🇪 
 http://38.41.8.1:8000/play/a0ry
 
-#EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png",Tigo Sports Panamá 🇵🇦
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=239198&extension=ts
+#EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png",Tigo Sports Panamá ° 🇵🇦
+http://172.93.102.112:8989/279308_.m3u8
 
 #EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png",Tigo Sports Guatemala (1) 🇬🇹
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=237859&extension=ts
