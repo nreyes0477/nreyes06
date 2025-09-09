@@ -534,34 +534,34 @@ https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="177" tvg-logo="https://ocopen.org/wp-content/uploads/2021/11/OCOPEN-Negocios.png"bgroup-title="Noticias",Negocios TV ¹ 🇪🇦
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
-#EXTINF:-1 tvg-chno="178" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/200px-Ucvtvlogo2014mejorado.png" group-title="Canales Educativos",UCV Chile ¹ 🇨🇱
+#EXTINF:-1 tvg-chno="178" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/200px-Ucvtvlogo2014mejorado.png" group-title="Educativos",UCV Chile ¹ 🇨🇱
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="140" tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2020/12/CANAL-UCL_Logo-350.png" group-title="Canales Educativos",UCL Televisión ¹ 🇺🇾
+#EXTINF:-1 tvg-chno="140" tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2020/12/CANAL-UCL_Logo-350.png" group-title="Educativos",UCL Televisión ¹ 🇺🇾
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
-#EXTINF:-1 tvg-chno="179" tvg-logo="https://cdn.m3u.cl/logo/1356_El_Histonauta_TV.png" group-title="Canales Educativos",El Histonauta TV ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="179" tvg-logo="https://cdn.m3u.cl/logo/1356_El_Histonauta_TV.png" group-title="Educativos",El Histonauta TV ¹ 🇦🇷
 https://stmv6.voxtvhd.com.br/elhistonautatv/elhistonautatv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="181" tvg-logo="https://academiajoven.es/wp-content/uploads/2020/09/xataka.png" group-title="Canales Educativos",Xataka TV ¹ 🇪🇸
+#EXTINF:-1 tvg-chno="181" tvg-logo="https://academiajoven.es/wp-content/uploads/2020/09/xataka.png" group-title="Educativos",Xataka TV ¹ 🇪🇸
 https://wbd-xat.otteravision.com/wbd/xat/xat.m3u8
 
-#EXTINF:-1 tvg-chno="182" tvg-logo="https://image.roku.com/developer_channels/prod/2ee8ed69266a33986437dd4fea6fc49cd2ebf61ac54c1a230ee6ce65eacba267.png" group-title="Canales Educativos",Hiperconectados TV ¹ 🇨🇱
+#EXTINF:-1 tvg-chno="182" tvg-logo="https://image.roku.com/developer_channels/prod/2ee8ed69266a33986437dd4fea6fc49cd2ebf61ac54c1a230ee6ce65eacba267.png" group-title="Educativos",Hiperconectados TV ¹ 🇨🇱
 https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="183" tvg-logo="https://www.deel.com/hs-fs/hubfs/Platzi%20logo.png?width=1000&height=387&name=Platzi%20logo.png" group-title="Canales Educativos",Platzi TV ¹ 🇨🇱
+#EXTINF:-1 tvg-chno="183" tvg-logo="https://www.deel.com/hs-fs/hubfs/Platzi%20logo.png?width=1000&height=387&name=Platzi%20logo.png" group-title="Educativos",Platzi TV ¹ 🇨🇱
 https://mdstrm.com/live-stream-playlist/663ba07c06e6e3577a30452a.m3u8?uid=5dAe2fGb7gE6c1jXaP2GttShy86nHQLK&sid=00NPHR4Yl6L3eYoGqdgqPrfGk6lK6jpR&pid=kEwRnUOEtOQTXGUJJmkWSBpPnPtOca61&an=screen&at=web-app&av=v6.0.57&ref=https%3A%2F%2Fplatzi.com%2Flive%2F&res=393x221&without_cookies=false&listenerid=&dnt=true
 
-#EXTINF:-1 tvg-chno="185" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Canales Educativos",Canal Astronet ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="185" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Educativos",Canal Astronet ¹ 🇦🇷
 https://stmv6.voxtvhd.com.br/astronet/astronet/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="186" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Canales Educativos",Canal Mundo TV ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="186" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Educativos",Canal Mundo TV ¹ 🇦🇷
 https://stmv4.voxtvhd.com.br/elbuenvivir/elbuenvivir/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="188" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Canales Educativos",Canal XtremaAnimal ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="188" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Educativos",Canal XtremaAnimal ¹ 🇦🇷
 https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="189" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Vale-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Canales Educativos",Vale TV ¹ 🇻🇪
+#EXTINF:-1 tvg-chno="189" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Vale-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Educativos",Vale TV ¹ 🇻🇪
 https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina",Telefe ° 🇦🇷
@@ -1905,10 +1905,10 @@ http://go.iptvhn.net:25461/live/7682/7682/62.m3u8
 #EXTINF:-1 tvg-chno="784" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Música",The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/trailertv.png" group-title="Cine Locales",Tráilers TV 🇺🇸
+#EXTINF:-1 tvg-chno="800" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/trailertv.png" group-title="Cine Latinos",Tráilers TV 🇺🇸
 https://26b638b2564d41f8b6a36b6dd59e8d4f.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4313/master.m3u8
 
-#EXTINF:-1 tvg-chno="801" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/trailertv.png" group-title="Cine Locales",Tráilers TV 🇪🇸
+#EXTINF:-1 tvg-chno="801" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/trailertv.png" group-title="Cine Latinos",Tráilers TV 🇪🇸
 https://bit.ly/3WChqoj?ESBC1700004PX.m3u8
 
 #EXTINF:-1 tvg-chno="900" tvg-logo="https://cdn.instant.audio/images/logos/radios-co-cr/radio-monumental.png" group-title="Radios",Radio Monumental 📻 (Solo Audio)
