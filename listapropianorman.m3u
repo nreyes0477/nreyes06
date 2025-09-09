@@ -54,7 +54,7 @@ https://k20.usastreams.com:8081/telered/index.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-logo="https://image.roku.com/developer_channels/prod/0059b385c4fae2dcd6cbacc1a47c1418b2b3c82cd431a05a2aa34b3eae8ac5ed.png" group-title="Nacionales",Telesistema ¹ 🇨🇷
 https://k20.usastreams.com:8081/telesistema/index.m3u8
 
-#EXTINF:-1 tvg-chno="22" tvg-logo="https://i.imgur.com/eRwYxc2.png" group-title="Canales Nacionales",Teleuno ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="22" tvg-logo="https://i.imgur.com/eRwYxc2.png" group-title="Nacionales",Teleuno ¹ 🇨🇷
 https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="23" tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2022/09/tvsur-logo-01-1-300x120.png" group-title="Nacionales",Tv Sur Canal 14 ¹ 🇨🇷
