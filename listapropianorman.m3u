@@ -681,7 +681,7 @@ https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="251" tvg-logo="https://canalunoecuador.com/wp-content/uploads/2023/04/logo_uno.jpg" group-title="Ecuador",Canal Uno ¹ 🇪🇨
 https://movil.ejeserver.com/live/canaluno.m3u8
 
-#EXTINF:-1 tvg-chno="252" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/400px-Ecuavisa_Logo_2019.png" group-title=Ecuador",Ecuavisa ¹ 🇪🇨
+#EXTINF:-1 tvg-chno="252" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/400px-Ecuavisa_Logo_2019.png" group-title="Ecuador",Ecuavisa ¹ 🇪🇨
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream0/chunks.m3u8?dpssid=1072c3237bf3d698ddcf03f262a0969b&sid=ba5t1l1xb248821975867a84d372f4a2&ndvc=0
 
 #EXTINF:-1 tvg-chno="253" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="Ecuador",Gamavisión 🇪🇨
@@ -1911,11 +1911,11 @@ https://26b638b2564d41f8b6a36b6dd59e8d4f.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-chno="801" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/trailertv.png",Tráilers TV 🇪🇸
 https://bit.ly/3WChqoj?ESBC1700004PX.m3u8
 
-#EXTINF:-1 tvg-chno="900" tvg-logo="https://cdn.instant.audio/images/logos/radios-co-cr/radio-monumental.png",Radio Monumental 📻 (Solo Audio)
+#EXTINF:-1 tvg-chno="900" tvg-logo="https://cdn.instant.audio/images/logos/radios-co-cr/radio-monumental.png" group-title="Radios",Radio Monumental 📻 (Solo Audio)
 https://alba-cr-monumental-monumental.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-chno="901" tvg-logo="https://cdn.instant.audio/images/logos/radios-co-cr/radio-columbia.png",Radio Columbia 📻 (Solo Audio)
+#EXTINF:-1 tvg-chno="901" tvg-logo="https://cdn.instant.audio/images/logos/radios-co-cr/radio-columbia.png" group-title="Radios",Radio Columbia 📻 (Solo Audio)
 https://s2.radio.co/s83b86382e/listen
 
-#EXTINF:-1 tvg-chno="902" tvg-logo="https://cdn.instant.audio/images/logos/radios-co-cr/teletica.png",Teletica Radio 📻 (Solo Audio)
+#EXTINF:-1 tvg-chno="902" tvg-logo="https://cdn.instant.audio/images/logos/radios-co-cr/teletica.png" group-title="Radios",Teletica Radio 📻 (Solo Audio)
 https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/playlist.m3u8
