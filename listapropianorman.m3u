@@ -1386,322 +1386,322 @@ http://38.159.227.124:8000/play/a02x
 #EXTINF:-1 tvg-chno="599" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1646691382488-Imagen.jpg",Universal Reality ²
 http://38.159.227.124:8000/play/a02y
 
-#EXTINF:-1 tvg-chno="600" tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg",Futv ²
+#EXTINF:-1 tvg-chno="600" tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes",Futv (1) ²
 http://190.92.10.66:4000/play/a00c
 
-#EXTINF:-1 tvg-chno="601" tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg",Futv ²
+#EXTINF:-1 tvg-chno="601" tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes",Futv (2)²
 http://200.229.147.210:8000/play/a08h/index.m3u8
 
-#EXTINF:-1 tvg-chno="602" tvg-logo="https://i.imgur.com/6wkmgGM.png",Tigo Sports CR ²
+#EXTINF:-1 tvg-chno="602" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports CR (1) ²
 http://200.229.147.210:8000/play/a0as/index.m3u8
 
-#EXTINF:-1 tvg-chno="603" tvg-logo="https://i.imgur.com/6wkmgGM.png",Tigo Sports CR ²
+#EXTINF:-1 tvg-chno="603" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports CR (2) ²
 http://200.125.170.120:8000/play/a04f/index.m3u8
 
-#EXTINF:-1 tvg-chno="605" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png",TD + ²
+#EXTINF:-1 tvg-chno="605" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png" group-title="Deportes",TD+ (1) ²
 http://45.71.254.1:8000/play/a0a2/index.m3u8
 
-#EXTINF:-1 tvg-chno="604" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png",TD + ²
+#EXTINF:-1 tvg-chno="604" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png" group-title="Deportes",TD+ (2) ²
 http://200.229.147.210:8000/play/a00g/index.m3u8
 
-#EXTINF:-1 tvg-chno="605" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-3.png",TD + 2 ²
+#EXTINF:-1 tvg-chno="605" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-3.png" group-title="Deportes",TD+ 2 (1) ²
 http://200.229.147.210:8000/play/a00h/index.m3u8
 
-#EXTINF:-1 tvg-chno="606" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-3.png",TD + 2 ²
+#EXTINF:-1 tvg-chno="606" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-3.png" group-title="Deportes",TD+ 2 (2) ²
 http://45.71.254.1:8000/play/a0a3/index.m3u8
 
-#EXTINF:-1 tvg-chno="607" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png",ESPN Centro América ¹
+#EXTINF:-1 tvg-chno="607" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Centro América ¹
 http://crlivebpk.service.osllacdn.com/espnhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="608" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png",ESPN 2 Centro América ²
+#EXTINF:-1 tvg-chno="608" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 Centro América ²
 http://181.78.106.127:9000/play/ca034/index.m3u8
 
-#EXTINF:-1 tvg-chno="610" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png",ESPN 3 Centro América ²
+#EXTINF:-1 tvg-chno="610" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN 3 Centro América ²
 http://181.78.106.127:9000/play/ca035/index.m3u8
 
-#EXTINF:-1 tvg-chno="611" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png",ESPN 4 Centro América ²
+#EXTINF:-1 tvg-chno="611" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deportes",ESPN 4 Centro América ²
 http://181.188.216.5:18000/play/a0am
 
-#EXTINF:-1 tvg-chno="612" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png",ESPN 5 Centro América ¹
+#EXTINF:-1 tvg-chno="612" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png" group-title="Deportes",ESPN 5 Centro América ¹
 http://crlivebpk.service.osllacdn.com/espn5hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="613" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png",ESPN 6 Centro América ¹
+#EXTINF:-1 tvg-chno="613" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png" group-title="Deportes",ESPN 6 Centro América ¹
 http://crlivebpk.service.osllacdn.com/espn6hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="614" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png",ESPN MX 🇲🇽
+#EXTINF:-1 tvg-chno="614" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN MX 🇲🇽
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2092626.m3u8
 
-#EXTINF:-1 tvg-chno="615" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png",ESPN 2 MX ° 🇲🇽
+#EXTINF:-1 tvg-chno="615" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 MX ° 🇲🇽
 http://199.127.63.143:8989/159320_.m3u8
 
-#EXTINF:-1 tvg-chno="616" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png",ESPN 3 MX ° 🇲🇽
+#EXTINF:-1 tvg-chno="616" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN 3 MX ° 🇲🇽
 http://172.93.102.119:8989/278580_.m3u8
 
-#EXTINF:-1 tvg-chno="617" tvg-logo="https://newswhip.sirv.com/WP_www.newswhip.com/2018/02/Espndeportes.png",ESPN Deportes ° 🇺🇲
+#EXTINF:-1 tvg-chno="617" tvg-logo="https://newswhip.sirv.com/WP_www.newswhip.com/2018/02/Espndeportes.png" group-title="Deportes",ESPN Deportes ° 🇺🇲
 http://199.127.63.143:8989/158831_.m3u8
 
-#EXTINF:-1 tvg-chno="617" tvg-logo="https://www.razon.com.mx/resizer/v2/BME2ROXV7FFKVG5UGOXC2NAHTQ.jpg?auth=6480282fc3f431758200760caa02731d17cf4931a75271e7a57d4f5b2655282f&smart=true&width=400&height=200&quality=75",Fox Deportes 🇺🇲
+#EXTINF:-1 tvg-chno="617" tvg-logo="https://www.razon.com.mx/resizer/v2/BME2ROXV7FFKVG5UGOXC2NAHTQ.jpg?auth=6480282fc3f431758200760caa02731d17cf4931a75271e7a57d4f5b2655282f&smart=true&width=400&height=200&quality=75" group-title="Deportes",Fox Deportes 🇺🇲
 http://thevdm.xyz:25461/streaming/clients_live.php?username=Vargasfam99&password=fBTVegQTCz&stream=19894&extension=ts
 
-#EXTINF:-1 tvg-chno="618" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-04.jpg",Fox Sports MX 🇲🇽
+#EXTINF:-1 tvg-chno="618" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-04.jpg" group-title="Deportes",Fox Sports MX 🇲🇽
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47128&extension=ts
 
-#EXTINF:-1 tvg-chno="619" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-05.jpg",Fox Sports 2 MX 🇲🇽
+#EXTINF:-1 tvg-chno="619" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-05.jpg" group-title="Deportes",Fox Sports 2 MX 🇲🇽
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47119&extension=ts
 
-#EXTINF:-1 tvg-chno="620" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-06.jpg",Fox Sports 3 MX 🇲🇽
+#EXTINF:-1 tvg-chno="620" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-06.jpg" group-title="Deportes",Fox Sports 3 MX 🇲🇽
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47123&extension=ts
 
-#EXTINF:-1 tvg-chno="621" tvg-logo="https://img.asmedia.epimg.net/resizer/v2/HDFAZLSP7FH7XJK2XFRO56O22U.jpeg?auth=5d7e53f23444b4e49deaaadc032a5470401ba4ca10214e4cac7006b8d1f5f9e1&width=1200&height=675&smart=true",Fox Sports Premium MX 🇲🇽
+#EXTINF:-1 tvg-chno="621" tvg-logo="https://img.asmedia.epimg.net/resizer/v2/HDFAZLSP7FH7XJK2XFRO56O22U.jpeg?auth=5d7e53f23444b4e49deaaadc032a5470401ba4ca10214e4cac7006b8d1f5f9e1&width=1200&height=675&smart=true" group-title="Deportes",Fox Sports Premium MX 🇲🇽
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=2687&extension=ts
 
-#EXTINF:-1 tvg-chno="622" tvg-logo="https://www.westminsterkennelclub.org/wp-content/uploads/2024/02/Asset-1-1.png",Fox Deportes en Tubi (MX) 🇲🇽
+#EXTINF:-1 tvg-chno="622" tvg-logo="https://www.westminsterkennelclub.org/wp-content/uploads/2024/02/Asset-1-1.png" group-title="Deportes",Fox Deportes en Tubi (MX) 🇲🇽
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2121734.m3u8
 
-#EXTINF:-1 tvg-chno="625" tvg-logo="https://www.westminsterkennelclub.org/wp-content/uploads/2024/02/Asset-1-1.png",Fox Deportes Tubi (Latino) ¹ 🇺🇲
+#EXTINF:-1 tvg-chno="625" tvg-logo="https://www.westminsterkennelclub.org/wp-content/uploads/2024/02/Asset-1-1.png" group-title="Deportes",Fox Deportes Tubi (Latino) ¹ 🇺🇲
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
-#EXTINF:-1 tvg-chno="626" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/3/30/HISportslogo.png/revision/latest?cb=20230427055859&path-prefix=es",Hi! Sports TV 🇲🇽
+#EXTINF:-1 tvg-chno="626" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/3/30/HISportslogo.png/revision/latest?cb=20230427055859&path-prefix=es" group-title="Deportes",Hi! Sports TV 🇲🇽
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2234522.m3u8
 
-#EXTINF:-1 tvg-chno="627" tvg-logo="https://image.roku.com/developer_channels/prod/f89955f4a64b7dc2fb4b3b0d9527aa659b28c8480b37802fed3c0ed58ae2e2cd.png",Caliente TV 🇲🇽
+#EXTINF:-1 tvg-chno="627" tvg-logo="https://image.roku.com/developer_channels/prod/f89955f4a64b7dc2fb4b3b0d9527aa659b28c8480b37802fed3c0ed58ae2e2cd.png" group-title="Deportes",Caliente TV 🇲🇽
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2227022.m3u8
 
-#EXTINF:-1 tvg-chno="630" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png",ESPN Argentina ° 🇦🇷
+#EXTINF:-1 tvg-chno="630" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Argentina ° 🇦🇷
 http://199.127.63.143:8989/278765_.m3u8
 
-#EXTINF:-1 tvg-chno="631" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png",ESPN Chile 🇨🇱
+#EXTINF:-1 tvg-chno="631" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Chile 🇨🇱
 http://tvpremium.pro:80/live/Erick12345/Erick12345/496558.m3u8
 
-#EXTINF:-1 tvg-chno="632" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png",ESPN Colombia 🇨🇴 
+#EXTINF:-1 tvg-chno="632" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Colombia 🇨🇴 
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/202064.m3u8
 
-#EXTINF:-1 tvg-chno="633" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png",ESPN 2 Sur América °
+#EXTINF:-1 tvg-chno="633" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 Sur América °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278762.m3u8
 
-#EXTINF:-1 tvg-chno="634" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png",ESPN 3 Sur América °
+#EXTINF:-1 tvg-chno="634" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN 3 Sur América °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278763.m3u8
 
-#EXTINF:-1 tvg-chno="635" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png",ESPN 4 Sur América °
+#EXTINF:-1 tvg-chno="635" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deportes",ESPN 4 Sur América °
 http://104.238.205.28:8989/278764_.m3u8
 
-#EXTINF:-1 tvg-chno="636" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png",ESPN 5 Sur América °
+#EXTINF:-1 tvg-chno="636" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png" group-title="Deportes",ESPN 5 Sur América °
 http://104.238.205.28:8989/278558_.m3u8
 
-#EXTINF:-1 tvg-chno="637" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png",ESPN 6 Sur América °
+#EXTINF:-1 tvg-chno="637" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png" group-title="Deportes",ESPN 6 Sur América °
 http://104.238.205.28:8989/278566_.m3u8
 
-#EXTINF:-1 tvg-chno="638" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png",ESPN 7 Sur América °
+#EXTINF:-1 tvg-chno="638" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png" group-title="Deportes",ESPN 7 Sur América °
 http://104.238.205.28:8989/278567_.m3u8
 
-#EXTINF:-1 tvg-chno="639" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png",ESPN Premium Sur (1) ²
+#EXTINF:-1 tvg-chno="639" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png" group-title="Deportes",ESPN Premium Sur (1) ²
 http://190.102.246.93:9005/play/a00x
 
-#EXTINF:-1 tvg-chno="640" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png",ESPN Premium Sur (2) ²
+#EXTINF:-1 tvg-chno="640" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png" group-title="Deportes",ESPN Premium Sur (2) ²
 http://190.123.90.146:8000/play/a00f
 
-#EXTINF:-1 tvg-chno="641" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png",ESPN Argentina ² 🇦🇷 
+#EXTINF:-1 tvg-chno="641" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Argentina ² 🇦🇷 
 http://199.127.63.143:8989/278765_.m3u8
 
-#EXTINF:-1 tvg-chno="641" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png",ESPN Chile ² 🇨🇱
+#EXTINF:-1 tvg-chno="641" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Chile ² 🇨🇱
 http://181.188.216.5:18000/play/a0fb
 
-#EXTINF:-1 tvg-chno="641" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png",ESPN Colombia ² 🇨🇴 
+#EXTINF:-1 tvg-chno="641" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Colombia ² 🇨🇴 
 http://181.188.216.5:18000/play/a0pe
 
-#EXTINF:-1 tvg-chno="642" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png",ESPN Sur América 2 ²
+#EXTINF:-1 tvg-chno="642" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN Sur América 2 ²
 http://181.188.216.5:18000/play/a0il
 
-#EXTINF:-1 tvg-chno="643" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png",ESPN Sur América 3 ²
+#EXTINF:-1 tvg-chno="643" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN Sur América 3 ²
 http://45.184.87.142:8000/play/a04b
 
-#EXTINF:-1 tvg-chno="644" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png",ESPN Sur América 4 ²
+#EXTINF:-1 tvg-chno="644" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deportes",ESPN Sur América 4 ²
 http://181.188.216.5:18000/play/a0pf
 
-#EXTINF:-1 tvg-chno="645" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png",ESPN Sur América 5 ²
+#EXTINF:-1 tvg-chno="645" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png" group-title="Deportes",ESPN Sur América 5 ²
 http://181.188.216.5:18000/play/a0oa
 
-#EXTINF:-1 tvg-chno="646" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png",ESPN Sur América 6 ²
+#EXTINF:-1 tvg-chno="646" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png" group-title="Deportes",ESPN Sur América 6 ²
 http://181.188.216.5:18000/play/a0dn
 
-#EXTINF:-1 tvg-chno="647" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png",ESPN Sur América 7 ²
+#EXTINF:-1 tvg-chno="647" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png" group-title="Deportes",ESPN Sur América 7 ²
 http://181.188.216.5:18000/play/a0pg
 
-#EXTINF:-1 tvg-chno="650" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%20128.png",Fox Sports Sur América ²
+#EXTINF:-1 tvg-chno="650" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%20128.png" group-title="Deportes",Fox Sports Sur América ²
 http://190.123.90.146:8000/play/a00g/index.m3u8
 
-#EXTINF:-1 tvg-chno="651" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%202%20128.png",Fox Sports 2 Sur América ²
+#EXTINF:-1 tvg-chno="651" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%202%20128.png" group-title="Deportes",Fox Sports 2 Sur América ²
 http://181.78.106.127:9000/play/ca032
 
-#EXTINF:-1 tvg-chno="652" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%203%20128.png",Fox Sports 3 Sur América ²
+#EXTINF:-1 tvg-chno="652" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%203%20128.png" group-title="Deportes",Fox Sports 3 Sur América ²
 http://104.238.205.28:8989/278768_.m3u8
 
-#EXTINF:-1 tvg-chno="654" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg",TUDN MX ¹ 🇲🇽
+#EXTINF:-1 tvg-chno="654" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="Deportes",TUDN MX ¹ 🇲🇽
 http://crlive1.service.osllacdn.com/tudnhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="655" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg",TUDN USA ² 🇺🇸
+#EXTINF:-1 tvg-chno="655" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="Deportes",TUDN USA ² 🇺🇸
 http://190.92.10.66:4000/play/a002/index.m3u8
 
-#EXTINF:-1 tvg-chno="656" tvg-logo="https://iili.io/J2wureR.png",Zona TUDN USA 🇺🇸
+#EXTINF:-1 tvg-chno="656" tvg-logo="https://iili.io/J2wureR.png" group-title="Deportes",Zona TUDN USA 🇺🇸
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=78280&extension=ts
 
-#EXTINF:-1 tvg-chno="657" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png",Claro Sports MX ¹ 🇲🇽
+#EXTINF:-1 tvg-chno="657" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png" group-title="Deportes",Claro Sports MX ¹ 🇲🇽
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
-#EXTINF:-1 tvg-chno="658" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png",Claro Sports 2 MX ² 🇲🇽
+#EXTINF:-1 tvg-chno="658" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png" group-title="Deportes",Claro Sports 2 MX ² 🇲🇽
 http://181.78.106.127:9000/play/ca037
 
-#EXTINF:-1 tvg-chno="660" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1536x329.png",Sky Sports Bundesliga ² 🇺🇸
+#EXTINF:-1 tvg-chno="660" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1536x329.png" group-title="Deportes",Sky Sports Bundesliga ² 🇺🇸
 http://190.92.10.66:4000/play/a006/index.m3u8
 
-#EXTINF:-1 tvg-chno="661" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1536x329.png",Sky Sports La Liga ² 🇺🇸
+#EXTINF:-1 tvg-chno="661" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1536x329.png" group-title="Deportes",Sky Sports La Liga ² 🇺🇸
 http://181.78.106.127:9000/play/ca030
 
-#EXTINF:-1 tvg-chno="664" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png",DirecTV Sports ° 🇦🇷
+#EXTINF:-1 tvg-chno="664" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports ° 🇦🇷
 http://172.93.102.112:8989/279390_.m3u8
 
-#EXTINF:-1 tvg-chno="665" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png",DirecTV Sports (2) ² 🇦🇷
+#EXTINF:-1 tvg-chno="665" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports (2) ² 🇦🇷
 http://200.60.124.19:29000/play/a081/index.m3u8
 
-#EXTINF:-1 tvg-chno="666" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png",DirecTV Sports 2 ° 🇦🇷
+#EXTINF:-1 tvg-chno="666" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports 2 ° 🇦🇷
 http://172.93.102.112:8989/279391_.m3u8
 
-#EXTINF:-1 tvg-chno="667" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png",DirecTV + 🇦🇷
+#EXTINF:-1 tvg-chno="667" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV + 🇦🇷
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=152906&extension=ts
 
-#EXTINF:-1 tvg-chno="668" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png",Dazn La Liga ° 🇪🇦
+#EXTINF:-1 tvg-chno="668" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="Deportes",Dazn La Liga ° 🇪🇦
 http://172.93.102.112:8989/278828_.m3u8
 
-#EXTINF:-1 tvg-chno="669" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png",Dazn La Liga 2 🇪🇦
+#EXTINF:-1 tvg-chno="669" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="Deportes",Dazn La Liga 2 🇪🇦
 http://fastream.xyz:8080/streaming/clients_live.php?username=JOSEWEBTV2025@203&password=@@w454vdidco0ww0w&stream=60268&extension=ts
 
-#EXTINF:-1 tvg-chno="672" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_laliga-mediano.png",La Liga TV por Movistar + ° 🇪🇸
+#EXTINF:-1 tvg-chno="672" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_laliga-mediano.png" group-title="Deportes",La Liga TV por Movistar + ° 🇪🇸
 http://172.93.102.112:8989/278844_.m3u8 
 
-#EXTINF:-1 tvg-chno="674" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_liga_de_campeones-mediano.png",Movistar Liga de Campeones ° 🇪🇸
+#EXTINF:-1 tvg-chno="674" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_liga_de_campeones-mediano.png" group-title="Deportes",Movistar Liga de Campeones ° 🇪🇸
 http://172.93.102.112:8989/278845_.m3u8
 
-#EXTINF:-1 tvg-chno="675" tvg-logo="https://assets.laliga.com/assets/2023/07/04/medium/d0c0191e6268a2d6c5fde4756d1202ea.png",La Liga Hypermotion ° 🇪🇸
+#EXTINF:-1 tvg-chno="675" tvg-logo="https://assets.laliga.com/assets/2023/07/04/medium/d0c0191e6268a2d6c5fde4756d1202ea.png"group-title="Deportes",La Liga Hypermotion ° 🇪🇸
 http://172.93.102.112:8989/278842_.m3u8
 
-#EXTINF:-1 tvg-chno="676" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dazn-mediano.png",Dazn 1 ° 🇪🇸
+#EXTINF:-1 tvg-chno="676" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dazn-mediano.png" group-title="Deportes",Dazn 1 ° 🇪🇸
 http://172.93.102.112:8989/278822_.m3u8
 
-#EXTINF:-1 tvg-chno="676" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dazn_2-mediano.png",Dazn 2 ° 🇪🇸
+#EXTINF:-1 tvg-chno="676" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dazn_2-mediano.png" group-title="Deportes",Dazn 2 ° 🇪🇸
 http://172.93.102.112:8989/278824_.m3u8
 
-#EXTINF:-1 tvg-chno="676" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dazn_formula_1-mediano.png",Dazn F1 🇪🇸
+#EXTINF:-1 tvg-chno="676" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dazn_formula_1-mediano.png"group-title="Deportes",Dazn F1 🇪🇸
 http://fastream.xyz:8080/streaming/clients_live.php?username=JOSEWEBTV2025@203&password=@@w454vdidco0ww0w&stream=60351&extension=ts
 
-#EXTINF:-1 tvg-chno="677" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_vamos-mediano.png",Vamos por Movistar + ° 🇪🇸
+#EXTINF:-1 tvg-chno="677" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_vamos-mediano.png" group-title="Deportes",Vamos por Movistar + ° 🇪🇸
 http://172.93.102.112:8989/278843_.m3u8
 
-#EXTINF:-1 tvg-chno="678" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_deportes-mediano.png",Deportes por Movistar + °🇪🇸
+#EXTINF:-1 tvg-chno="678" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_deportes-mediano.png" group-title="Deportes",Deportes por Movistar + °🇪🇸
 http://172.93.102.112:8989/278862_.m3u8
 
-#EXTINF:-1 tvg-chno="679" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png",TyC Sports ² 🇦🇷
+#EXTINF:-1 tvg-chno="679" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png" group-title="Deportes",TyC Sports ² 🇦🇷
 http://190.123.90.146:8000/play/a00k/index.m3u8
 
-#EXTINF:-1 tvg-chno="679" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png",TyC Sports USA 🇺🇸
+#EXTINF:-1 tvg-chno="679" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png" group-title="Deportes",TyC Sports USA 🇺🇸
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/155679.m3u8
 
-#EXTINF:-1 tvg-chno="679" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png",TyC Sports Internacional 🇦🇷
+#EXTINF:-1 tvg-chno="679" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png" group-title="Deportes",TyC Sports Internacional 🇦🇷
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=145441&extension=ts
 
-#EXTINF:-1 tvg-chno="679" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png",TNT Sports 🇦🇷
+#EXTINF:-1 tvg-chno="679" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png" group-title="Deportes",TNT Sports 🇦🇷
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=131980&extension=ts
 
-#EXTINF:-1 tvg-chno="679" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png",TNT Sports ² 🇨🇱
+#EXTINF:-1 tvg-chno="679" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png" group-title="Deportes",TNT Sports ² 🇨🇱
 http://38.41.8.1:8000/play/a0vm
 
-#EXTINF:-1 tvg-chno="679" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsportsPremium256.png",TNT Sports Premium ² 🇨🇱 
+#EXTINF:-1 tvg-chno="679" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsportsPremium256.png" group-title="Deportes",TNT Sports Premium ² 🇨🇱 
 http://190.123.90.146:8000/play/a00j/index.m3u8
 
-#EXTINF:-1 tvg-chno="680" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_mobile_ORIGINAL.png",ECDF ² 🇪🇨
+#EXTINF:-1 tvg-chno="680" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_mobile_ORIGINAL.png" group-title="Deportes",ECDF ² 🇪🇨
 http://38.44.109.41:8003/play/a038/index.m3u8
 
-#EXTINF:-1 tvg-chno="681" tvg-logo="https://dfw.yhy.mybluehost.me/wp-content/uploads/2023/04/png_golperu_logo.png",Gol Perú ² 🇵🇪
+#EXTINF:-1 tvg-chno="681" tvg-logo="https://dfw.yhy.mybluehost.me/wp-content/uploads/2023/04/png_golperu_logo.png" group-title="Deportes",Gol Perú ² 🇵🇪
 http://38.41.8.1:8000/play/a0u8
 
-#EXTINF:-1 tvg-chno="681" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos-mediano.png",Gol Tv ² 🇺🇾
+#EXTINF:-1 tvg-chno="681" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos-mediano.png" group-title="Deportes",Gol Tv ² 🇺🇾
 http://38.41.8.1:8000/play/a0wi
 
-#EXTINF:-1 tvg-chno="682" tvg-logo="https://www.cableplus.com.uy/assets/img/logos-canales/logo-vtv-plus.jpg",VTV + ² 🇺🇾
+#EXTINF:-1 tvg-chno="682" tvg-logo="https://www.cableplus.com.uy/assets/img/logos-canales/logo-vtv-plus.jpg" group-title="Deportes",VTV + ² 🇺🇾
 http://200.60.124.19:29000/play/a0j7/index.m3u8
 
-#EXTINF:-1 tvg-chno="683" tvg-logo="https://i.postimg.cc/QMsDwbxR/winsport.jpg",Win Sports ² 🇨🇴
+#EXTINF:-1 tvg-chno="683" tvg-logo="https://i.postimg.cc/QMsDwbxR/winsport.jpg" group-title="Deportes",Win Sports ² 🇨🇴
 http://191.97.15.250:45000/play/a04c/index.m3u8
 
-#EXTINF:-1 tvg-chno="683" tvg-logo="https://i.postimg.cc/MZrWHVdQ/winsportplus.jpg",Win Sports + ² 🇨🇴
+#EXTINF:-1 tvg-chno="683" tvg-logo="https://i.postimg.cc/MZrWHVdQ/winsportplus.jpg" group-title="Deportes",Win Sports + ² 🇨🇴
 http://38.41.8.1:8000/play/a0tp
 
-#EXTINF:-1 tvg-chno="684" tvg-logo="https://elcomercio-elcomercio-prod.web.arc-cdn.net/resizer/v2/SI7SCQMDSFHVPMWEG7JTBRDA4E.jpg?auth=ee9002b30119e489b0177c3764bb01abd56ae3d285b2b42f2a1a3f8b0d0b455a&width=600&height=400&smart=true&quality=75",Movistar Deportes ² 🇵🇪 
+#EXTINF:-1 tvg-chno="684" tvg-logo="https://elcomercio-elcomercio-prod.web.arc-cdn.net/resizer/v2/SI7SCQMDSFHVPMWEG7JTBRDA4E.jpg?auth=ee9002b30119e489b0177c3764bb01abd56ae3d285b2b42f2a1a3f8b0d0b455a&width=600&height=400&smart=true&quality=75" group-title="Deportes",Movistar Deportes ² 🇵🇪 
 http://38.41.8.1:8000/play/a0ry
 
-#EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png",Tigo Sports Panamá ° 🇵🇦
+#EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Panamá ° 🇵🇦
 http://172.93.102.112:8989/279308_.m3u8
 
-#EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png",Tigo Sports Guatemala (1) 🇬🇹
+#EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Guatemala (1) 🇬🇹
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=237859&extension=ts
 
-#EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png",Tigo Sports Guatemala (2) ¹ 🇬🇹
+#EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Guatemala (2) ¹ 🇬🇹
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 
-#EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png",Tigo Sports Honduras 🇭🇳
+#EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Honduras 🇭🇳
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=40017&extension=ts
 
-#EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png",Tigo Sports Bolivia 🇧🇴
+#EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Bolivia 🇧🇴
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2154027.m3u8
 
-#EXTINF:-1 tvg-chno="686" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos.png?resize=600%2C360&ssl=1",Cableonda 🇵🇦 
+#EXTINF:-1 tvg-chno="686" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos.png?resize=600%2C360&ssl=1" group-title="Deportes",Cableonda 🇵🇦 
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=151800&extension=ts
 
-#EXTINF:-1 tvg-chno="687" tvg-logo="https://img.streann.com/streann-img/admin/image/1746888232702.png?height=50",Deportes TVC 🇭🇳
+#EXTINF:-1 tvg-chno="687" tvg-logo="https://img.streann.com/streann-img/admin/image/1746888232702.png?height=50" group-title="Deportes",Deportes TVC 🇭🇳
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=7682&stream=13169&extension=ts
 
-#EXTINF:-1 tvg-chno="688" tvg-logo="https://bunny-wp-pullzone-3tijjyzerc.b-cdn.net/wp-content/uploads/2025/01/Copy-of-Partnership-Blog-cover-rebrand_1104x860-15.png",Azteca Deportes ² 🇲🇽
+#EXTINF:-1 tvg-chno="688" tvg-logo="https://bunny-wp-pullzone-3tijjyzerc.b-cdn.net/wp-content/uploads/2025/01/Copy-of-Partnership-Blog-cover-rebrand_1104x860-15.png" group-title="Deportes",Azteca Deportes ² 🇲🇽
 http://190.60.33.245:4002/play/a0hw
 
-#EXTINF:-1 tvg-chno="688" tvg-logo="https://bunny-wp-pullzone-3tijjyzerc.b-cdn.net/wp-content/uploads/2025/01/Copy-of-Partnership-Blog-cover-rebrand_1104x860-15.png",Azteca Deportes (Pluto) ¹ 🇲🇽
+#EXTINF:-1 tvg-chno="688" tvg-logo="https://bunny-wp-pullzone-3tijjyzerc.b-cdn.net/wp-content/uploads/2025/01/Copy-of-Partnership-Blog-cover-rebrand_1104x860-15.png" group-title="Deportes",Azteca Deportes (Pluto) ¹ 🇲🇽
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 tvg-chno="690" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/2/2b/TVCDep16Logo.png/revision/latest/scale-to-width/360?cb=20160715002021&path-prefix=es",TVC Deportes 🇲🇽
+#EXTINF:-1 tvg-chno="690" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/2/2b/TVCDep16Logo.png/revision/latest/scale-to-width/360?cb=20160715002021&path-prefix=es" group-title="Deportes",TVC Deportes 🇲🇽
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=150069&extension=ts
 
-#EXTINF:-1 tvg-chno="691" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports-mediano.png",A y M Sports ¹ 🇲🇽
+#EXTINF:-1 tvg-chno="691" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports-mediano.png" group-title="Deportes",A y M Sports ¹ 🇲🇽
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 
-#EXTINF:-1 tvg-chno="692" tvg-logo="https://sc.dish.com/shared/images/station-logos/BEINE.png",Bein Sports 🇺🇸
+#EXTINF:-1 tvg-chno="692" tvg-logo="https://sc.dish.com/shared/images/station-logos/BEINE.png" group-title="Deportes",Bein Sports 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=2682&extension=ts
 
-#EXTINF:-1 tvg-chno="692" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",Bein Sports XTRA ¹ 🇺🇸
+#EXTINF:-1 tvg-chno="692" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="Deportes",Bein Sports XTRA ¹ 🇺🇸
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="693" tvg-logo="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/1a/10000154.png",Eurosport 1 ² 🇪🇦
+#EXTINF:-1 tvg-chno="693" tvg-logo="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/1a/10000154.png" group-title="Deportes",Eurosport 1 ² 🇪🇦
 http://185.189.225.157/EuroSport1/index.m3u8
 
-#EXTINF:-1 tvg-chno="693" tvg-logo="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/6b/10000491.png",Eurosport 2 ² 🇪🇦
+#EXTINF:-1 tvg-chno="693" tvg-logo="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/6b/10000491.png" group-title="Deportes",Eurosport 2 ² 🇪🇦
 http://185.189.225.157/EuroSport2/index.m3u8
 
-#EXTINF:-1 tvg-chno="694" tvg-logo="https://img.favpng.com/2/23/14/teledeporte-televisi-n-espa-ola-high-definition-video-la-1-television-png-favpng-rnSs7XcTtev0zWAZeUuRzu9gN.jpg",Teledeporte (TVE) ¹ 🇪🇦
+#EXTINF:-1 tvg-chno="694" tvg-logo="https://img.favpng.com/2/23/14/te ledeporte-televisi-n-espa-ola-high-definition-video-la-1-television-png-favpng-rnSs7XcTtev0zWAZeUuRzu9gN.jpg" group-title="Deportes",Teledeporte (TVE) ¹ 🇪🇦
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
 
-#EXTINF:-1 tvg-chno="695" tvg-logo="https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/128579b4-6ac2-11ed-8535-d36612803c67.png",Wapa Deportes 🇵🇷
+#EXTINF:-1 tvg-chno="695" tvg-logo="https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/128579b4-6ac2-11ed-8535-d36612803c67.png" group-title="Deportes",Wapa Deportes 🇵🇷
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=126530&extension=ts
 
-#EXTINF:-1 tvg-chno="696" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adrenalina_sports_network-mediano.png",Adrenalina Sports 🇲🇽
+#EXTINF:-1 tvg-chno="696" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adrenalina_sports_network-mediano.png" group-title="Deportes",Adrenalina Sports 🇲🇽
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=145469&extension=ts
 
-#EXTINF:-1 tvg-chno="697" tvg-logo="https://cdn.storage.foromedios.com/monthly_2021_06/large.MeridianoTV2019-1.png.05f368152f6fdb6351c2265a5db41cbb.png",Meridiano ² 🇻🇪
+#EXTINF:-1 tvg-chno="697" tvg-logo="https://cdn.storage.foromedios.com/monthly_2021_06/large.MeridianoTV2019-1.png.05f368152f6fdb6351c2265a5db41cbb.png" group-title="Deportes",Meridiano ² 🇻🇪
 http://38.41.8.1:8000/play/a03w
 
-#EXTINF:-1 tvg-chno="698" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/logos/FuboSports_Logo_OneColor_box_rgb.png?w=300&ch=width&auto=format,compress",Fubo Sports 🇺🇸
+#EXTINF:-1 tvg-chno="698" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/logos/FuboSports_Logo_OneColor_box_rgb.png?w=300&ch=width&auto=format,compress" group-title="Deportes",Fubo Sports 🇺🇸
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=175758&extension=ts
 
-#EXTINF:-1 tvg-chno="698" tvg-logo="https://www.adnblanco.com/wp-content/uploads/2020/09/logotiporealmadridtv-rmtv.jpg",Real Madrid TV ¹ 🇪🇸
+#EXTINF:-1 tvg-chno="698" tvg-logo="https://www.adnblanco.com/wp-content/uploads/2020/09/logotiporealmadridtv-rmtv.jpg" group-title="Deportes",Real Madrid TV ¹ 🇪🇸
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
-#EXTINF:-1 tvg-chno="699" tvg-logo="https://telecentro.com.ar/img/cm/channels/deportv%20128.png",DeporTV 🇦🇷
+#EXTINF:-1 tvg-chno="699" tvg-logo="https://telecentro.com.ar/img/cm/channels/deportv%20128.png"bgroup-title="Deportes",DeporTV 🇦🇷
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=145464&extension=ts
 
 #EXTINF:-1 tvg-chno="700" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png" group-title="Música",VM Latino
