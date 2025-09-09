@@ -675,424 +675,424 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 #EXTINF:-1 tvg-chno="247" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/03/RCN_Nuestra_Tele_Int_516x287.jpg" group-title="Colombia",RCN Internacional 🇨🇴
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/199513.m3u8
 
-#EXTINF:-1 tvg-chno="250" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/233px-EcuadorTV_logo.png",Ecuador TV ¹ 🇪🇨
+#EXTINF:-1 tvg-chno="250" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/233px-EcuadorTV_logo.png" group-title="Ecuador",Ecuador TV ¹ 🇪🇨
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="251" tvg-logo="https://canalunoecuador.com/wp-content/uploads/2023/04/logo_uno.jpg",Canal Uno ¹ 🇪🇨
+#EXTINF:-1 tvg-chno="251" tvg-logo="https://canalunoecuador.com/wp-content/uploads/2023/04/logo_uno.jpg" group-title="Ecuador",Canal Uno ¹ 🇪🇨
 https://movil.ejeserver.com/live/canaluno.m3u8
 
 #EXTINF:-1 tvg-chno="252" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/400px-Ecuavisa_Logo_2019.png",Ecuavisa ¹ 🇪🇨
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream0/chunks.m3u8?dpssid=1072c3237bf3d698ddcf03f262a0969b&sid=ba5t1l1xb248821975867a84d372f4a2&ndvc=0
 
-#EXTINF:-1 tvg-chno="253" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",Gamavisión 🇪🇨
+#EXTINF:-1 tvg-chno="253" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="Ecuador",Gamavisión 🇪🇨
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=145740&extension=ts
 
-#EXTINF:-1 tvg-chno="254" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oromar_logo.png/300px-Oromar_logo.png",Oromar TV ¹ 🇪🇨
+#EXTINF:-1 tvg-chno="254" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oromar_logo.png/300px-Oromar_logo.png" group-title="Ecuador",Oromar TV ¹ 🇪🇨
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
-#EXTINF:-1 tvg-chno="255" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/300px-Rts_logo.png",RTS TV ² 🇪🇨
+#EXTINF:-1 tvg-chno="255" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/300px-Rts_logo.png" group-title="Ecuador",RTS TV ² 🇪🇨
 http://181.188.234.21:8000/play/a04k/index.m3u8
 
-#EXTINF:-1 tvg-chno="256" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png",TC Televisión 🇪🇨
+#EXTINF:-1 tvg-chno="256" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" group-title="Ecuador",TC Televisión 🇪🇨
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=2571&extension=ts
 
-#EXTINF:-1 tvg-chno="257" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/Televicentro-Ecuador-TVC-en-vivo-Online.png",TVC 🇪🇨
+#EXTINF:-1 tvg-chno="257" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/Televicentro-Ecuador-TVC-en-vivo-Online.png" group-title="Ecuador",TVC 🇪🇨
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=133667&extension=ts
 
-#EXTINF:-1 tvg-chno="258" tvg-logo="https://makrodigitaltelevision.com/wp-content/uploads/2023/02/web-logo-makrodigital-tv-blanco.png",Makro Digital TV ¹ 🇪🇨
+#EXTINF:-1 tvg-chno="258" tvg-logo="https://makrodigitaltelevision.com/wp-content/uploads/2023/02/web-logo-makrodigital-tv-blanco.png" group-title="Ecuador",Makro Digital TV ¹ 🇪🇨
 https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/smartphone/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="259" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/TCS_2_2016.png/300px-TCS_2_2016.png",Canal 2 ¹ 🇸🇻
+#EXTINF:-1 tvg-chno="259" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/TCS_2_2016.png/300px-TCS_2_2016.png"group-title="El Salvador",Canal 2 ¹ 🇸🇻
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 
-#EXTINF:-1 tvg-chno="260" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/640px-Canal_4_TCS.png",Canal 4 🇸🇻
+#EXTINF:-1 tvg-chno="260" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/640px-Canal_4_TCS.png" group-title="El Salvador",Canal 4 🇸🇻
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=126540&extension=ts
 
-#EXTINF:-1 tvg-chno="261" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-6-El-Salvador-en-vivo-Online.png",Canal 6 ¹ 🇸🇻
+#EXTINF:-1 tvg-chno="261" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-6-El-Salvador-en-vivo-Online.png" group-title="El Salvador",Canal 6 ¹ 🇸🇻
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 
-#EXTINF:-1 tvg-chno="261" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tutvcanal11.png/330px-Tutvcanal11.png",TUTV Canal 11 ¹ 🇸🇻
+#EXTINF:-1 tvg-chno="261" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tutvcanal11.png/330px-Tutvcanal11.png" group-title="El Salvador",TUTV Canal 11 ¹ 🇸🇻
 https://stream.giostreaming.net:19360/canal11/canal11.m3u8
 
-#EXTINF:-1 tvg-chno="262" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CANAL_12_2023_VA_CON_VOS.png/500px-CANAL_12_2023_VA_CON_VOS.png",Canal 12 ¹ 🇸🇻
+#EXTINF:-1 tvg-chno="262" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CANAL_12_2023_VA_CON_VOS.png/500px-CANAL_12_2023_VA_CON_VOS.png" group-title="El Salvador",Canal 12 ¹ 🇸🇻
 https://alba-sv-c12-c12.stream.mediatiquestream.com:443/original.m3u8
 
-#EXTINF:-1 tvg-chno="263" tvg-logo="https://logos.streamsites.eu/2756_tve-en-directo-la-1_overview.png",La 1 ¹ 🇪🇸
+#EXTINF:-1 tvg-chno="263" tvg-logo="https://logos.streamsites.eu/2756_tve-en-directo-la-1_overview.png" group-title="España",La 1 ¹ 🇪🇸
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
-#EXTINF:-1 tvg-chno="264" tvg-logo="https://logos.streamsites.eu/2894_la-2-en-directo_overview.png",La 2 ¹ 🇪🇸
+#EXTINF:-1 tvg-chno="264" tvg-logo="https://logos.streamsites.eu/2894_la-2-en-directo_overview.png" group-title="España",La 2 ¹ 🇪🇸
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 
-#EXTINF:-1 tvg-chno="265" tvg-logo="https://logos.streamsites.eu/2516_antena3_overview.png",Antena 3 🇪🇸
+#EXTINF:-1 tvg-chno="265" tvg-logo="https://logos.streamsites.eu/2516_antena3_overview.png" group-title="España",Antena 3 🇪🇸
 http://fastream.xyz:8080/streaming/clients_live.php?username=JOSEWEBTV2025@203&password=@@w454vdidco0ww0w&stream=12453&extension=ts
 
-#EXTINF:-1 tvg-chno="266" tvg-logo="https://logos.streamsites.eu/2551_cuatro_overview.png",Cuatro 🇪🇸
+#EXTINF:-1 tvg-chno="266" tvg-logo="https://logos.streamsites.eu/2551_cuatro_overview.png" group-title="España",Cuatro 🇪🇸
 http://fastream.xyz:8080/streaming/clients_live.php?username=JOSEWEBTV2025@203&password=@@w454vdidco0ww0w&stream=12331&extension=ts
 
-#EXTINF:-1 tvg-chno="267" tvg-logo="https://logos.streamsites.eu/2531_telecinco_overview.png",Telecinco 🇪🇸
+#EXTINF:-1 tvg-chno="267" tvg-logo="https://logos.streamsites.eu/2531_telecinco_overview.png" group-title="España",Telecinco 🇪🇸
 http://fastream.xyz:8080/streaming/clients_live.php?username=JOSEWEBTV2025@203&password=@@w454vdidco0ww0w&stream=236487&extension=ts
 
-#EXTINF:-1 tvg-chno="268" tvg-logo="https://logos.streamsites.eu/2697_la-sexta_overview.png",La Sexta 🇪🇸
+#EXTINF:-1 tvg-chno="268" tvg-logo="https://logos.streamsites.eu/2697_la-sexta_overview.png" group-title="España",La Sexta 🇪🇸
 http://fastream.xyz:8080/streaming/clients_live.php?username=JOSEWEBTV2025@203&password=@@w454vdidco0ww0w&stream=236489&extension=ts
 
-#EXTINF:-1 tvg-chno="269" tvg-logo="https://logos.streamsites.eu/3488_mega_overview.png",Mega 🇪🇸
+#EXTINF:-1 tvg-chno="269" tvg-logo="https://logos.streamsites.eu/3488_mega_overview.png" group-title="España",Mega 🇪🇸
 http://fastream.xyz:8080/streaming/clients_live.php?username=JOSEWEBTV2025@203&password=@@w454vdidco0ww0w&stream=12406&extension=ts
 
-#EXTINF:-1 tvg-chno="271" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/neox-en-directo-online-y-en-vivo.png",Neox 🇪🇸
+#EXTINF:-1 tvg-chno="271" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/neox-en-directo-online-y-en-vivo.png" group-title="España",Neox 🇪🇸
 http://fastream.xyz:8080/streaming/clients_live.php?username=JOSEWEBTV2025@203&password=@@w454vdidco0ww0w&stream=236512&extension=ts
 
-#EXTINF:-1 tvg-chno="271" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/neox-en-directo-online-y-en-vivo.png",Nova 🇪🇸
+#EXTINF:-1 tvg-chno="271" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/neox-en-directo-online-y-en-vivo.png" group-title="España",Nova 🇪🇸
 http://fastream.xyz:8080/streaming/clients_live.php?username=JOSEWEBTV2025@203&password=@@w454vdidco0ww0w&stream=12429&extension=ts
 
-#EXTINF:-1 tvg-chno="272" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/be-mad-en-directo-online-y-en-vivo.png",Be Mad 🇪🇸
+#EXTINF:-1 tvg-chno="272" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/be-mad-en-directo-online-y-en-vivo.png" group-title="España",Be Mad 🇪🇸
 http://fastream.xyz:8080/streaming/clients_live.php?username=JOSEWEBTV2025@203&password=@@w454vdidco0ww0w&stream=12423&extension=ts
 
-#EXTINF:-1 tvg-chno="273" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/dmax-en-directo-online-en-vivo.png",DMAX 🇪🇸
+#EXTINF:-1 tvg-chno="273" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/dmax-en-directo-online-en-vivo.png" group-title="España",DMAX 🇪🇸
 http://fastream.xyz:8080/streaming/clients_live.php?username=JOSEWEBTV2025@203&password=@@w454vdidco0ww0w&stream=12377&extension=ts
 
-#EXTINF:-1 tvg-chno="273" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/5e2b31c99b97574a06696454a5ada922_ODISEA%202.png",Odisea 🇪🇸
+#EXTINF:-1 tvg-chno="273" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/5e2b31c99b97574a06696454a5ada922_ODISEA%202.png" group-title="España",Odisea 🇪🇸
 http://fastream.xyz:8080/streaming/clients_live.php?username=JOSEWEBTV2025@203&password=@@w454vdidco0ww0w&stream=236372&extension=ts
 
-#EXTINF:-1 tvg-chno="273" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/640px-La_Otra_logo_%282017%29.svg.png",La Otra ¹ 🇪🇸
+#EXTINF:-1 tvg-chno="273" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/640px-La_Otra_logo_%282017%29.svg.png" group-title="España",La Otra ¹ 🇪🇸
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
 
-#EXTINF:-1 tvg-chno="273" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/250px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png",FDF 🇪🇸
+#EXTINF:-1 tvg-chno="273" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/250px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="España",FDF 🇪🇸
 http://fastream.xyz:8080/streaming/clients_live.php?username=JOSEWEBTV2025@203&password=@@w454vdidco0ww0w&stream=12409&extension=ts
 
-#EXTINF:-1 tvg-chno="273" tvg-logo="https://4.bp.blogspot.com/-h9BJKRxw8N0/UQiCfEPMFdI/AAAAAAAAA9g/RTmoXgqUqaQ/s1600/divinity.jpg",Divinity 🇪🇸
+#EXTINF:-1 tvg-chno="273" tvg-logo="https://4.bp.blogspot.com/-h9BJKRxw8N0/UQiCfEPMFdI/AAAAAAAAA9g/RTmoXgqUqaQ/s1600/divinity.jpg" group-title="España",Divinity 🇪🇸
 http://fastream.xyz:8080/streaming/clients_live.php?username=JOSEWEBTV2025@203&password=@@w454vdidco0ww0w&stream=12411&extension=ts
 
-#EXTINF:-1 tvg-chno="273" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/250px-Energy.svg.png",Energy 🇪🇸
+#EXTINF:-1 tvg-chno="273" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/250px-Energy.svg.png" group-title="España",Energy 🇪🇸
 http://fastream.xyz:8080/streaming/clients_live.php?username=JOSEWEBTV2025@203&password=@@w454vdidco0ww0w&stream=236503&extension=ts
 
-#EXTINF:-1 tvg-chno="273" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/500px-DKISS_2019_logo.svg.png",Dkiss 🇪🇸
+#EXTINF:-1 tvg-chno="273" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/500px-DKISS_2019_logo.svg.png" group-title="España",Dkiss 🇪🇸
 http://fastream.xyz:8080/streaming/clients_live.php?username=JOSEWEBTV2025@203&password=@@w454vdidco0ww0w&stream=12410&extension=ts
 
-#EXTINF:-1 tvg-chno="274" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",Star TVE ¹ 🇪🇸
+#EXTINF:-1 tvg-chno="274" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="España",Star TVE ¹ 🇪🇸
 https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
 
-#EXTINF:-1 tvg-chno="275" tvg-logo="https://mma.prnewswire.com/media/1638822/logo_internacional_cuadrado.jpg?w=200",Antena 3 Internacional 🇪🇸
+#EXTINF:-1 tvg-chno="275" tvg-logo="https://mma.prnewswire.com/media/1638822/logo_internacional_cuadrado.jpg?w=200" group-title="España",Antena 3 Internacional 🇪🇸
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=72118&extension=ts
 
-#EXTINF:-1 tvg-chno="276" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1403px-Logo_TVE-Internacional.svg.png",TVE Internacional ¹ 🇪🇸
+#EXTINF:-1 tvg-chno="276" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1403px-Logo_TVE-Internacional.svg.png" group-title="España",TVE Internacional ¹ 🇪🇸
 https://rtvelivestream.rtve.es/rtvesec/int/tvei_ame_main_dvr.m3u8
 
-#EXTINF:-1 tvg-chno="277" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/logos/FuboSports_Logo_OneColor_box_rgb.png?w=300&ch=width&auto=format,compress",Fubo Latino 🇺🇸
+#EXTINF:-1 tvg-chno="277" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/logos/FuboSports_Logo_OneColor_box_rgb.png?w=300&ch=width&auto=format,compress" group-title="USA Latino",Fubo Latino 🇺🇸
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=194161&extension=ts
 
-#EXTINF:-1 tvg-chno="278" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png",NBC Universo 🇺🇸
+#EXTINF:-1 tvg-chno="278" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png" group-title="USA Latino",NBC Universo 🇺🇸
 http://thevdm.xyz:25461/streaming/clients_live.php?username=Vargasfam99&password=fBTVegQTCz&stream=19938&extension=ts
 
-#EXTINF:-1 tvg-chno="279" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/300px-Estrella_TV_Logo_2020.png",Estrella TV ¹ 🇺🇸
+#EXTINF:-1 tvg-chno="279" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/300px-Estrella_TV_Logo_2020.png" group-title="USA Latino",Estrella TV ¹ 🇺🇸
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv:80/stitch/hls/channel/5cf0622da00ca1e2f6fac712livestitch/2977920/playlist.m3u8?terminate=false&sid=73f1f3b5-9aab-48b7-b385-cc16a962802a&deviceDNT=0&deviceModel=web&deviceVersion=unknown&appName=web&deviceId=6c28a355-30d3-11ef-9cf5-e9ddff8ff496&appVersion=unknown&deviceType=web&deviceMake=Chrome
 
-#EXTINF:-1 tvg-chno="280" tvg-logo="https://img.onesignal.com/t/9386b748-b30f-4f48-946a-361ce4f6c8cc.jpg",Mega TV 🇺🇸
+#EXTINF:-1 tvg-chno="280" tvg-logo="https://img.onesignal.com/t/9386b748-b30f-4f48-946a-361ce4f6c8cc.jpg" group-title="USA Latino",Mega TV 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=156070&extension=ts
 
-#EXTINF:-1 tvg-chno="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión US (1) ² 🇺🇸
+#EXTINF:-1 tvg-chno="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png" group-title="USA Latino",Univisión US (1) ² 🇺🇸
 http://216.122.181.10:8081/play/a0lz
 
-#EXTINF:-1 tvg-chno="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión US (2) ² 🇺🇸
+#EXTINF:-1 tvg-chno="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png" group-title="USA Latino",Univisión US (2) ² 🇺🇸
 http://190.92.10.66:4000/play/a005/index.m3u8
 
-#EXTINF:-1 tvg-chno="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión MI 🇺🇸
+#EXTINF:-1 tvg-chno="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png" group-title="USA Latino",Univisión MI 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148713&extension=ts
 
-#EXTINF:-1 tvg-chno="282" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión NY 🇺🇸
+#EXTINF:-1 tvg-chno="282" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png" group-title="USA Latino",Univisión NY 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148711&extension=ts
 
-#EXTINF:-1 tvg-chno="283" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión SF 🇺🇸
+#EXTINF:-1 tvg-chno="283" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png" group-title="USA Latino",Univisión SF 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148727&extension=ts
 
-#EXTINF:-1 tvg-chno="284" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png",Univisión SL 🇺🇸
+#EXTINF:-1 tvg-chno="284" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png" group-title="USA Latino",Univisión SL 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148731&extension=ts
 
-#EXTINF:-1 tvg-chno="286" tvg-logo="https://i.postimg.cc/qRHv3bMp/telem-aldia.jpg",Telemundo Al Día ¹ 🇺🇸
+#EXTINF:-1 tvg-chno="286" tvg-logo="https://i.postimg.cc/qRHv3bMp/telem-aldia.jpg" group-title="USA Latino",Telemundo Al Día ¹ 🇺🇸
 https://s8host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/channel-hls/v2/876a4335dadf489b/88889750/master.m3u8?ads.cdnhost=s8host3.localnow.api.cms.amdvids.com&ads.playbackid=446FABE6-D80D-406D-9254-99DCBF06DE3D&ads.n1=rule_id&ads.v1=F0F2D67E-43F6-4794-9B68-414843159DD7-1714063134&ads.n3=qp_content_id&ads.v3=446FABE6-D80D-406D-9254-99DCBF06DE3D&ads.n4
 
-#EXTINF:-1 tvg-chno="286" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo NY 🇺🇸
+#EXTINF:-1 tvg-chno="286" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png" group-title="USA Latino",Telemundo NY 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148710&extension=ts
 
-#EXTINF:-1 tvg-chno="286" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo DV 🇺🇸
+#EXTINF:-1 tvg-chno="286" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png" group-title="USA Latino",Telemundo DV 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148730&extension=ts
 
-#EXTINF:-1 tvg-chno="287" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo FN 🇺🇸
+#EXTINF:-1 tvg-chno="287" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png" group-title="USA Latino",Telemundo FN 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148720&extension=ts
 
-#EXTINF:-1 tvg-chno="288" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo FX 🇺🇸
+#EXTINF:-1 tvg-chno="288" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png" group-title="USA Latino",Telemundo FX 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148728&extension=ts
 
-#EXTINF:-1 tvg-chno="288" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo US ² 🇺🇸
+#EXTINF:-1 tvg-chno="288" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png" group-title="USA Latino",Telemundo US ² 🇺🇸
 http://190.92.10.66:4000/play/a004/index.m3u8
 
-#EXTINF:-1 tvg-chno="289" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png",Galavisión AU 🇺🇸
+#EXTINF:-1 tvg-chno="289" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png" group-title="USA Latino",Galavisión AU 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148740&extension=ts
 
-#EXTINF:-1 tvg-chno="290" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png",Galavisión East 🇺🇸
+#EXTINF:-1 tvg-chno="290" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png" group-title="USA Latino",Galavisión East 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=147076&extension=ts
 
-#EXTINF:-1 tvg-chno="291" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png",Galavisión West 🇺🇸
+#EXTINF:-1 tvg-chno="291" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png" group-title="USA Latino",Galavisión West 🇺🇸
 http://smarterstv99.dyndns.tv:25461/live/Miguelmoreno/jg8AwXkZL2yE/334714.m3u8
 
-#EXTINF:-1 tvg-chno="293" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás NY 🇺🇸
+#EXTINF:-1 tvg-chno="293" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png" group-title="USA Latino",Unimás NY 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148794&extension=ts
 
-#EXTINF:-1 tvg-chno="294" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás MI 🇺🇸
+#EXTINF:-1 tvg-chno="294" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png" group-title="USA Latino",Unimás MI 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148792&extension=ts
 
-#EXTINF:-1 tvg-chno="295" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás LV 🇺🇸
+#EXTINF:-1 tvg-chno="295" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png" group-title="USA Latino",Unimás LV 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148753&extension=ts
 
-#EXTINF:-1 tvg-chno="296" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",Unimás East 🇺🇸
+#EXTINF:-1 tvg-chno="296" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png" group-title="USA Latino",Unimás East 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148895&extension=ts
 
-#EXTINF:-1 tvg-chno="299" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/telemundo.jpg",Telemundo Internacional (1) ² 🇺🇸
+#EXTINF:-1 tvg-chno="299" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/telemundo.jpg" group-title="USA Latino",Telemundo Internacional (1) ² 🇺🇸
 http://103.111.40.242:9999/play/a02i
 
-#EXTINF:-1 tvg-chno="299" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/telemundo.jpg",Telemundo Internacional (2) ² 🇺🇸
+#EXTINF:-1 tvg-chno="299" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/telemundo.jpg" group-title="USA Latino",Telemundo Internacional (2) ² 🇺🇸
 http://190.116.38.19:9090/play/a04c/index.m3u8
 
-#EXTINF:-1 tvg-chno="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_5_HN_logo.png/180px-Canal_5_HN_logo.png",Canal 5 ² 🇭🇳
+#EXTINF:-1 tvg-chno="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_5_HN_logo.png/180px-Canal_5_HN_logo.png" group-title="Honduras",Canal 5 ² 🇭🇳
 http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="302" tvg-logo="https://image.roku.com/developer_channels/prod/0d4a03ad9e1dd2ff1db1306d7b592cda8e08df57922237ff9797ef4bc18d30ec.png",RHC TV 🇭🇳
+#EXTINF:-1 tvg-chno="302" tvg-logo="https://image.roku.com/developer_channels/prod/0d4a03ad9e1dd2ff1db1306d7b592cda8e08df57922237ff9797ef4bc18d30ec.png" group-title="Honduras",RHC TV 🇭🇳
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=131630&extension=ts
 
-#EXTINF:-1 tvg-chno="303" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/180px-Telecadena7y42018.png",Telecadena 🇭🇳
+#EXTINF:-1 tvg-chno="303" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/180px-Telecadena7y42018.png" group-title="Honduras",Telecadena 🇭🇳
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2100969.m3u8
 
-#EXTINF:-1 tvg-chno="304" tvg-logo="https://logopond.com/logos/c3966093ee94ae75a6f65778327bf70c.png",Telesistema 🇭🇳
+#EXTINF:-1 tvg-chno="304" tvg-logo="https://logopond.com/logos/c3966093ee94ae75a6f65778327bf70c.png" group-title="Honduras",Telesistema 🇭🇳
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=125932&extension=ts
 
-#EXTINF:-1 tvg-chno="305" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Canal-11-Honduras-en-vivo-Online.png",Canal 11 ¹ 🇭🇳
+#EXTINF:-1 tvg-chno="305" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Canal-11-Honduras-en-vivo-Online.png" group-title="Honduras",Canal 11 ¹ 🇭🇳
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/canal11hn/livestream1/chunks.m3u8?dpssid=b131176395625465cbd92084d9a&sid=ba5t1l1xb230348567067a9a9a3f38dc&ndvc=0
 
-#EXTINF:-1 tvg-chno="307" tvg-logo="https://hch.tv/wp-content/uploads/2021/09/logos-hch-bueno-1.png",HCH ¹ 🇭🇳
+#EXTINF:-1 tvg-chno="307" tvg-logo="https://hch.tv/wp-content/uploads/2021/09/logos-hch-bueno-1.png" group-title="Honduras",HCH ¹ 🇭🇳
 https://dvrfl03.bozztv.com/hondu-hchtv/index.m3u8
 
-#EXTINF:-1 tvg-chno="309" tvg-logo="https://image.roku.com/developer_channels/prod/51815da9f86794012aed4f696ce25f08ca883f2560a1a6c1fb0361bb16716c87.png",CTV Internacional ¹ 🇭🇳
+#EXTINF:-1 tvg-chno="309" tvg-logo="https://image.roku.com/developer_channels/prod/51815da9f86794012aed4f696ce25f08ca883f2560a1a6c1fb0361bb16716c87.png" group-title="Honduras",CTV Internacional ¹ 🇭🇳
 https://mediacp.us:8081/ctvhn/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="310" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal10Honduras2019.png/revision/latest/scale-to-width-down/250?cb=20190604153849",Ten 🇭🇳
+#EXTINF:-1 tvg-chno="310" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal10Honduras2019.png/revision/latest/scale-to-width-down/250?cb=20190604153849" group-title="Honduras",Ten 🇭🇳
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=153442&extension=ts
 
-#EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png",Azteca Uno 🇲🇽
+#EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno 🇲🇽
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=3801&extension=ts
 
-#EXTINF:-1 tvg-chno="312" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png",Azteca Uno -2hr 🇲🇽
+#EXTINF:-1 tvg-chno="312" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno -2hr 🇲🇽
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=473750&extension=ts
 
-#EXTINF:-1 tvg-chno="313" tvg-logo="https://mexio.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png",Azteca Uno -1hr ¹ 🇲🇽
+#EXTINF:-1 tvg-chno="313" tvg-logo="https://mexio.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno -1hr ¹ 🇲🇽
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 
-#EXTINF:-1 tvg-chno="314" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png",Azteca 7 ² 🇲🇽
+#EXTINF:-1 tvg-chno="314" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png" group-title="México",Azteca 7 ² 🇲🇽
 http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="315" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png",Azteca 7 🇲🇽
+#EXTINF:-1 tvg-chno="315" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png" group-title="México",Azteca 7 🇲🇽
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=129033&extension=ts
 
-#EXTINF:-1 tvg-chno="316" tvg-logo="https://digitalcontent.prensariozone.com/wp-content/uploads/2021/10/Azteca_logo_trans_516x287.png",Azteca Internacional ¹ 🇲🇽
+#EXTINF:-1 tvg-chno="316" tvg-logo="https://digitalcontent.prensariozone.com/wp-content/uploads/2021/10/Azteca_logo_trans_516x287.png" group-title="México",Azteca Internacional ¹ 🇲🇽
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
-#EXTINF:-1 tvg-chno="317" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas Latino ¹ 🇲🇽
+#EXTINF:-1 tvg-chno="317" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="México",Las Estrellas Latino ¹ 🇲🇽
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-chno="318" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas MX 🇲🇽
+#EXTINF:-1 tvg-chno="318" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="México",Las Estrellas MX 🇲🇽
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=3607&extension=ts
 
-#EXTINF:-1 tvg-chno="319" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas Latino -2hr 🇲🇽
+#EXTINF:-1 tvg-chno="319" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"bgroup-title="México",Las Estrellas Latino -2hr 🇲🇽
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=162200&extension=ts
 
-#EXTINF:-1 tvg-chno="320" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas Latino -1hr 🇲🇽
+#EXTINF:-1 tvg-chno="320" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="México",Las Estrellas Latino -1hr 🇲🇽
 http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=334745&extension=ts
 
-#EXTINF:-1 tvg-chno="321" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/724px-Canal_5_2016.svg.png",Canal 5 🇲🇽
+#EXTINF:-1 tvg-chno="321" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/724px-Canal_5_2016.svg.png" group-title="México",Canal 5 🇲🇽
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13122&extension=ts
 
-#EXTINF:-1 tvg-chno="322" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/10/Multimedios-TV-Canal-6-en-vivo-Online.png?resize=1068%2C601&ssl=1",Multimedios Canal 6 ¹ 🇲🇽
+#EXTINF:-1 tvg-chno="322" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/10/Multimedios-TV-Canal-6-en-vivo-Online.png?resize=1068%2C601&ssl=1" group-title="México",Multimedios Canal 6 ¹ 🇲🇽
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
-#EXTINF:-1 tvg-chno="323" tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default_mobile/public/images/logos/canl-nueve-100x100.png",Nu9ve 🇲🇽
+#EXTINF:-1 tvg-chno="323" tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default_mobile/public/images/logos/canl-nueve-100x100.png" group-title="México",Nu9ve 🇲🇽
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=163347&extension=ts
 
-#EXTINF:-1 tvg-chno="324" tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png",Canal Once ¹ 🇲🇽 
+#EXTINF:-1 tvg-chno="324" tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png" group-title="México",Canal Once ¹ 🇲🇽 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="325" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo-Imagen-TV-MX.png/800px-Logo -Imagen-TV-MX.png",Imagen TV ² 🇲🇽
+#EXTINF:-1 tvg-chno="325" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo-Imagen-TV-MX.png/800px-Logo -Imagen-TV-MX.png" group-title="México",Imagen TV ² 🇲🇽
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
-#EXTINF:-1 tvg-chno="326" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/Cinema_Logo_Black.png",Cinema 🇲🇽
+#EXTINF:-1 tvg-chno="326" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/Cinema_Logo_Black.png" group-title="México",Cinema 🇲🇽
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=129028&extension=ts
 
-#EXTINF:-1 tvg-chno="327" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/400px-Unicable_logo.svg.png",Unicable ² 🇲🇽
+#EXTINF:-1 tvg-chno="327" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/400px-Unicable_logo.svg.png" group-title="México",Unicable ² 🇲🇽
 http://45.228.234.173:9999/play/a059
 
-#EXTINF:-1 tvg-chno="332" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal 2 🇳🇮
+#EXTINF:-1 tvg-chno="332" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Nicaragua",Canal 2 🇳🇮
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=125968&extension=ts
 
-#EXTINF:-1 tvg-chno="333" tvg-logo="https://1.bp.blogspot.com/-Fi3j72ih8b8/YSzl1J95lrI/AAAAAAAAQVE/qDJWftQ2kVUOGhTCR9IFxSk5dUbv00OGACLcBGAsYHQ/w700-h400-p-k-no-nu/Canal%2B4%2Ben%2Bvivo.jpg",Canal 4 🇳🇮
+#EXTINF:-1 tvg-chno="333" tvg-logo="https://1.bp.blogspot.com/-Fi3j72ih8b8/YSzl1J95lrI/AAAAAAAAQVE/qDJWftQ2kVUOGhTCR9IFxSk5dUbv00OGACLcBGAsYHQ/w700-h400-p-k-no-nu/Canal%2B4%2Ben%2Bvivo.jpg" group-title="Nicaragua",Canal 4 🇳🇮
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2151063.m3u8
 
-#EXTINF:-1 tvg-chno="334" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",Canal 6 🇳🇮
+#EXTINF:-1 tvg-chno="334" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Nicaragua",Canal 6 🇳🇮
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=125975&extension=ts
 
-#EXTINF:-1 tvg-chno="335" tvg-logo="https://1.bp.blogspot.com/-zyfzTiv-0YY/YSgNAyVUnYI/AAAAAAAAQQw/63cf8CyUoLQlwDWY2-9zdME5dzjewFpJQCLcBGAsYHQ/w700-h400-p-k-no-nu/Canal%2B10%2Ben%2Bvivo.png",Canal 10 🇳🇮
+#EXTINF:-1 tvg-chno="335" tvg-logo="https://1.bp.blogspot.com/-zyfzTiv-0YY/YSgNAyVUnYI/AAAAAAAAQQw/63cf8CyUoLQlwDWY2-9zdME5dzjewFpJQCLcBGAsYHQ/w700-h400-p-k-no-nu/Canal%2B10%2Ben%2Bvivo.png" group-title="Nicaragua",Canal 10 🇳🇮
 http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=100100&extension=ts
 
-#EXTINF:-1 tvg-chno="336" tvg-logo="https://www.vivanicaragua.com.ni/contenido/archivos/2019/03/logo-blanco.png?x75729",Canal 13 🇳🇮
+#EXTINF:-1 tvg-chno="336" tvg-logo="https://www.vivanicaragua.com.ni/contenido/archivos/2019/03/logo-blanco.png?x75729" group-title="Nicaragua",Canal 13 🇳🇮
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=125971&extension=ts
 
-#EXTINF:-1 tvg-chno="337" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TN8_Nicaragua.svg/1280px-TN8_Nicaragua.svg.png",TN8 ¹ 🇳🇮
+#EXTINF:-1 tvg-chno="337" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TN8_Nicaragua.svg/1280px-TN8_Nicaragua.svg.png" group-title="Nicaragua",TN8 ¹ 🇳🇮
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="338" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png",Tv Max ° 🇵🇦
+#EXTINF:-1 tvg-chno="338" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png" group-title="Panamá",Tv Max ° 🇵🇦
 http://172.93.102.112:8989/279309_.m3u8
 
-#EXTINF:-1 tvg-chno="341" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png",TVN ² ° 🇵🇦
+#EXTINF:-1 tvg-chno="341" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png" group-title="Panamá",TVN ² ° 🇵🇦
 http://172.93.102.112:8989/279310_.m3u8
 
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/300px-Logo-telemetro.svg.png",Telemetro ° 🇵🇦
+#EXTINF:-1 tvg-chno="342" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/300px-Logo-telemetro.svg.png" group-title="Panamá",Telemetro ° 🇵🇦
 http://172.93.102.112:8989/279307_.m3u8
 
-#EXTINF:-1 tvg-chno="343" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/RPC-en-vivo-Online.png?resize=1068%2C601&ssl=1",RPC ° 🇵🇦
+#EXTINF:-1 tvg-chno="343" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/RPC-en-vivo-Online.png?resize=1068%2C601&ssl=1" group-title="Panamá",RPC ° 🇵🇦
 http://172.93.102.112:8989/279305_.m3u8
 
-#EXTINF:-1 tvg-chno="344" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/NEX-TV-Panam%C3%A1-en-vivo-Online.png?zoom=3&resize=218%2C150&ssl=1",Next TV ¹ 🇵🇦
+#EXTINF:-1 tvg-chno="344" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/NEX-TV-Panam%C3%A1-en-vivo-Online.png?zoom=3&resize=218%2C150&ssl=1" group-title="Panamá",Next TV ¹ 🇵🇦
 https://vcp8.myplaytv.com:1936/nextv/nextv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="350" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png",Paraguay TV ¹ 🇵🇾
+#EXTINF:-1 tvg-chno="350" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png" group-title="Paraguay",Paraguay TV ¹ 🇵🇾
 https://stream.paraguaytv.gov.py/memfs/400fcc83-8f04-4497-8011-150847d44702.m3u8
 
-#EXTINF:-1 tvg-chno="351" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png",Paravisión 🇵🇾
+#EXTINF:-1 tvg-chno="351" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" group-title="Paraguay",Paravisión 🇵🇾
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=131712&extension=ts
 
-#EXTINF:-1 tvg-chno="352" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg",Telefuturo 🇵🇾
+#EXTINF:-1 tvg-chno="352" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg" group-title="Paraguay",Telefuturo 🇵🇾
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2107631.m3u8
 
-#EXTINF:-1 tvg-chno="353" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/240px-Logotrececanal.png",Canal Trece ¹ 🇵🇾
+#EXTINF:-1 tvg-chno="353" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/240px-Logotrececanal.png" group-title="Paraguay",Canal Trece ¹ 🇵🇾
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8?k=7bbcd2c29036c5780ea487ec3c5331e9f9b59d1fb301321e7d5c8805d61e8c5c&exp=1718519821
 
-#EXTINF:-1 tvg-chno="354" tvg-logo="https://grupovierci.brightspotcdn.com/dims4/default/0ba2b73/2147483647/strip/true/crop/1665x1152+0+0/resize/800x554!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F62%2F0d%2F757573ac4c0bba7301c7a61a424d%2Flogo-latele.png",La Tele 🇵🇾
+#EXTINF:-1 tvg-chno="354" tvg-logo="https://grupovierci.brightspotcdn.com/dims4/default/0ba2b73/2147483647/strip/true/crop/1665x1152+0+0/resize/800x554!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F62%2F0d%2F757573ac4c0bba7301c7a61a424d%2Flogo-latele.png" group-title="Paraguay",La Tele 🇵🇾
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=131715&extension=ts
 
-#EXTINF:-1 tvg-chno="355" tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png",Unicanal 🇵🇾 
+#EXTINF:-1 tvg-chno="355" tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png" group-title="Paraguay",Unicanal 🇵🇾 
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=125965&extension=ts
 
-#EXTINF:-1 tvg-chno="360" tvg-logo="https://gzcsecurity.com/img/nosotros/seguridad/americatv-min.jpg",América TV ² 🇵🇪
+#EXTINF:-1 tvg-chno="360" tvg-logo="https://gzcsecurity.com/img/nosotros/seguridad/americatv-min.jpg" group-title="Perú",América TV ² 🇵🇪
 http://170.239.207.48:4050/play/CH54
 
-#EXTINF:-1 tvg-chno="361" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png",Latina ¹ 🇵🇪
+#EXTINF:-1 tvg-chno="361" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Perú",Latina ¹ 🇵🇪
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina/.m3u8
 
-#EXTINF:-1 tvg-chno="362" tvg-logo="https://cdn.mitvstatic.com/channels/pe_panamericana-tv_m.png",Panamericana ² 🇵🇪
+#EXTINF:-1 tvg-chno="362" tvg-logo="https://cdn.mitvstatic.com/channels/pe_panamericana-tv_m.png" group-title="Perú",Panamericana ² 🇵🇪
 http://200.60.124.20:29000/play/a04s/index.m3u8
 
-#EXTINF:-1 tvg-chno="363" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Radio_Programas_del_Per%C3%BA_logo.svg/500px-Radio_Programas_del_Per%C3%BA_logo.svg.png",RPP 🇵🇪
+#EXTINF:-1 tvg-chno="363" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Radio_Programas_del_Per%C3%BA_logo.svg/500px-Radio_Programas_del_Per%C3%BA_logo.svg.png" group-title="Perú",RPP 🇵🇪
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/10633.m3u8
 
-#EXTINF:-1 tvg-chno="364" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/800px-LaTele_Per%C3%BA_2018_Logo.png",La Tele ¹ 🇵🇪
+#EXTINF:-1 tvg-chno="364" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/800px-LaTele_Per%C3%BA_2018_Logo.png" group-title="Perú",La Tele ¹ 🇵🇪
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=151451&extension=ts
 
-#EXTINF:-1 tvg-chno="365" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/500px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png",Tv Perú ¹ 🇵🇪
+#EXTINF:-1 tvg-chno="365" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/500px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Perú",Tv Perú ¹ 🇵🇪
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 
-#EXTINF:-1 tvg-chno="366" tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png",ATV ¹ 🇵🇪
+#EXTINF:-1 tvg-chno="366" tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png" group-title="Perú",ATV ¹ 🇵🇪
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-chno="367" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png",Canal N 🇵🇪
+#EXTINF:-1 tvg-chno="367" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="Perú",Canal N 🇵🇪
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/10636.m3u8
 
-#EXTINF:-1 tvg-chno="368" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/peru_magico-mediano.png",Perú Mágico 🇵🇪
+#EXTINF:-1 tvg-chno="368" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/peru_magico-mediano.png" group-title="Perú",Perú Mágico 🇵🇪
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/155853.m3u8
 
-#EXTINF:-1 tvg-chno="369" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/telemundo-puerto-rico-en-vivo-1391.png",Telemundo Puerto Rico ¹ 🇵🇷
+#EXTINF:-1 tvg-chno="369" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/telemundo-puerto-rico-en-vivo-1391.png" group-title="Puerto Rico",Telemundo Puerto Rico ¹ 🇵🇷
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-chno="370" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/telemundo-puerto-rico-en-vivo-1391.png",Punto 2 ¹ 🇵🇷
+#EXTINF:-1 tvg-chno="370" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/telemundo-puerto-rico-en-vivo-1391.png" group-title="Puerto Rico",Punto 2 ¹ 🇵🇷
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
-#EXTINF:-1 tvg-chno="371" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Univisi%C3%B3n-Puerto-Rico-en-vivo-Online.png?zoom=3&resize=218%2C150&ssl=1",Univision Puerto Rico 🇵🇷
+#EXTINF:-1 tvg-chno="371" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Univisi%C3%B3n-Puerto-Rico-en-vivo-Online.png?zoom=3&resize=218%2C150&ssl=1" group-title="Puerto Rico",Univision Puerto Rico 🇵🇷
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=126536&extension=ts
 
-#EXTINF:-1 tvg-chno="372" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/america-teve.png?zoom=2&resize=218%2C150&ssl=1",América TeVe Miami ¹ 🇵🇷
+#EXTINF:-1 tvg-chno="372" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/america-teve.png?zoom=2&resize=218%2C150&ssl=1" group-title="Puerto Rico",América TeVe Miami ¹ 🇵🇷
 https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="373" tvg-logo="https://www.spanishbroadcasting.com/wp-content/uploads/sites/5/2020/12/thumbnail_pr-feature-thumbnail-megatv-ratings.jpg",Mega TV 🇵🇷
+#EXTINF:-1 tvg-chno="373" tvg-logo="https://www.spanishbroadcasting.com/wp-content/uploads/sites/5/2020/12/thumbnail_pr-feature-thumbnail-megatv-ratings.jpg" group-title="Puerto Rico",Mega TV 🇵🇷
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=126535&extension=ts
 
-#EXTINF:-1 tvg-chno="374" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/TeleOnce-en-vivo.png?resize=1068%2C601&ssl=1",Teleonce 🇵🇷
+#EXTINF:-1 tvg-chno="374" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/TeleOnce-en-vivo.png?resize=1068%2C601&ssl=1" group-title="Puerto Rico",Teleonce 🇵🇷
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148440&extension=ts
 
-#EXTINF:-1 tvg-chno="375" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/wapa.png?zoom=2&resize=218%2C150&ssl=1",Wapa América 🇵🇷
+#EXTINF:-1 tvg-chno="375" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/wapa.png?zoom=2&resize=218%2C150&ssl=1" group-title="Puerto Rico",Wapa América 🇵🇷
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=126531&extension=ts
 
-#EXTINF:-1 tvg-chno="375" tvg-logo="https://wipr.pr/wp-content/uploads/2024/10/logo.png",Wipr TV 🇵🇷
+#EXTINF:-1 tvg-chno="375" tvg-logo="https://wipr.pr/wp-content/uploads/2024/10/logo.png" group-title="Puerto Rico",Wipr TV 🇵🇷
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/126153.m3u8
 
-#EXTINF:-1 tvg-chno="376" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/telemicro.png?zoom=3&resize=100%2C70&ssl=1",Telemicro Canal 5 🇩🇴
+#EXTINF:-1 tvg-chno="376" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/telemicro.png?zoom=3&resize=100%2C70&ssl=1" group-title="República Dominicana",Telemicro Canal 5 🇩🇴
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=131918&extension=ts
 
-#EXTINF:-1 tvg-chno="377" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Color-Visio%CC%81n-9-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Color Visión Canal 9 ² 🇩🇴
+#EXTINF:-1 tvg-chno="377" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Color-Visio%CC%81n-9-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="República Dominicana",Color Visión Canal 9 ² 🇩🇴
 http://190.123.76.22:8000/play/a024/index.m3u8
 
-#EXTINF:-1 tvg-chno="378" tvg-logo="https://canalesdominicanos.live/template/images/radios/digital-15.png",Canal 15 🇩🇴
+#EXTINF:-1 tvg-chno="378" tvg-logo="https://canalesdominicanos.live/template/images/radios/digital-15.png" group-title="República Dominicana",Canal 15 🇩🇴
 http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=503114&extension=ts
 
-#EXTINF:-1 tvg-chno="379" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/cdn.png?zoom=3&resize=100%2C70&ssl=1",CDN 🇩🇴
+#EXTINF:-1 tvg-chno="379" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/cdn.png?zoom=3&resize=100%2C70&ssl=1" group-title="República Dominicana",CDN 🇩🇴
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=144858&extension=ts
 
-#EXTINF:-1 tvg-chno="380" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Megavision-Canal-43-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Megavisión ¹ 🇩🇴
+#EXTINF:-1 tvg-chno="380" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Megavision-Canal-43-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="República Dominicana",Megavisión ¹ 🇩🇴
 https://66b3a8363297d.streamlock.net/megavision/MV/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="381" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telesistemac.png?zoom=3&resize=100%2C70&ssl=1",Telesistema 🇩🇴
+#EXTINF:-1 tvg-chno="381" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telesistemac.png?zoom=3&resize=100%2C70&ssl=1" group-title="República Dominicana",Telesistema 🇩🇴
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2168497.m3u8
 
-#EXTINF:-1 tvg-chno="382" tvg-logo="https://canalesdominicanos.live/template/images/radios/antena_latina_canal_7.jpg",Antena Latina 🇩🇴
+#EXTINF:-1 tvg-chno="382" tvg-logo="https://canalesdominicanos.live/template/images/radios/antena_latina_canal_7.jpg" group-title="República Dominicana",Antena Latina 🇩🇴
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=131914&extension=ts
 
-#EXTINF:-1 tvg-chno="384" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/06/telecentro.png?zoom=3&resize=100%2C70&ssl=1",Telecentro 🇩🇴
+#EXTINF:-1 tvg-chno="384" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/06/telecentro.png?zoom=3&resize=100%2C70&ssl=1" group-title="República Dominicana",Telecentro 🇩🇴
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=131934&extension=ts
 
-#EXTINF:-1 tvg-chno="385" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/canal-4-montecarlo-en-vivo.png?zoom=3&resize=100%2C70&ssl=1",Canal 4 🇺🇾
+#EXTINF:-1 tvg-chno="385" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/canal-4-montecarlo-en-vivo.png?zoom=3&resize=100%2C70&ssl=1" group-title="Uruguay",Canal 4 🇺🇾
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2055405.m3u8
 
-#EXTINF:-1 tvg-chno="386" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/08/Canal-5-Uruguay-en-vivo-Online.png?resize=1068%2C601&ssl=1",Canal 5 🇺🇾
+#EXTINF:-1 tvg-chno="386" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/08/Canal-5-Uruguay-en-vivo-Online.png?resize=1068%2C601&ssl=1" group-title="Uruguay",Canal 5 🇺🇾
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=258892&extension=ts
 
-#EXTINF:-1 tvg-chno="387" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/canal-7-punta-del-este-2.png?w=800&ssl=1",Canal 7 🇺🇾
+#EXTINF:-1 tvg-chno="387" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/canal-7-punta-del-este-2.png?w=800&ssl=1" group-title="Uruguay",Canal 7 🇺🇾
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=30443&extension=ts
 
-#EXTINF:-1 tvg-chno="388" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png?zoom=3&resize=100%2C70&ssl=1",Canal 10 🇺🇾
+#EXTINF:-1 tvg-chno="388" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png?zoom=3&resize=100%2C70&ssl=1" group-title="Uruguay",Canal 10 🇺🇾
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=3818&extension=ts
 
-#EXTINF:-1 tvg-chno="389" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/Teledoce-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Teledoce 🇺🇾
+#EXTINF:-1 tvg-chno="389" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/Teledoce-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Uruguay",Teledoce 🇺🇾
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=3817&extension=ts
 
-#EXTINF:-1 tvg-chno="390" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Venevision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Venevisión ¹ 🇻🇪
+#EXTINF:-1 tvg-chno="390" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Venevision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Venezuela",Venevisión ¹ 🇻🇪
 https://vod2live.univtec.com/manifest/92fdf936-8cde-4ac2-b5a0-3dfe3663301d.m3u8
 
-#EXTINF:-1 tvg-chno="391" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Venezolana-de-Televisi%C3%B3n-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Venezolana de TV ² 🇻🇪
+#EXTINF:-1 tvg-chno="391" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Venezolana-de-Televisi%C3%B3n-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Venezuela",Venezolana de TV ² 🇻🇪
 http://38.41.8.1:8000/play/a03i
 
-#EXTINF:-1 tvg-chno="392" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Televen-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1",Televen 🇻🇪
+#EXTINF:-1 tvg-chno="392" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Televen-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Venezuela",Televen 🇻🇪
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2106066.m3u8
 
-#EXTINF:-1 tvg-chno="393" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/TVES-Venezuela-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",TVes ² 🇻🇪
+#EXTINF:-1 tvg-chno="393" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/TVES-Venezuela-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Venezuela",TVes ² 🇻🇪
 http://38.41.8.1:8000/play/a03k
 
-#EXTINF:-1 tvg-chno="394" tvg-logo="https://www.promar.tv/wp-content/uploads/2024/07/a-384x384-logo-para-el-de-512.png",Promar ¹ 🇻🇪
+#EXTINF:-1 tvg-chno="394" tvg-logo="https://www.promar.tv/wp-content/uploads/2024/07/a-384x384-logo-para-el-de-512.png" group-title="Venezuela",Promar ¹ 🇻🇪
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="395" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/IVC_Network_Logo.png/300px-IVC_Network_Logo.png",IVC 🇻🇪 
+#EXTINF:-1 tvg-chno="395" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/IVC_Network_Logo.png/300px-IVC_Network_Logo.png" group-title="Venezuela",IVC 🇻🇪 
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=158470&extension=ts
 
-#EXTINF:-1 tvg-chno="396" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Vivetv.png/500px-Vivetv.png",Canal Vive ² 🇻🇪 
+#EXTINF:-1 tvg-chno="396" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Vivetv.png/500px-Vivetv.png" group-title="Venezuela",Canal Vive ² 🇻🇪 
 http://38.41.8.1:8000/play/a03j
 
-#EXTINF:-1 tvg-chno="397" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Ve-Plus-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1",Venevisión Plus 🇻🇪
+#EXTINF:-1 tvg-chno="397" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Ve-Plus-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Venezuela",Venevisión Plus 🇻🇪
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=190838&extension=ts
 
-#EXTINF:-1 tvg-chno="398" tvg-logo="https://www.newslinereport.com/online/foto_120.jpg",Venevisión Internacional ¹ 🇻🇪
+#EXTINF:-1 tvg-chno="398" tvg-logo="https://www.newslinereport.com/online/foto_120.jpg" group-title="Venezuela",Venevisión Internacional ¹ 🇻🇪
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/1160000.m3u8
 
 #EXTINF:-1 tvg-chno="400" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg" group-title="Cultura y Entretenimiento",E! Entertainment (1) ²
