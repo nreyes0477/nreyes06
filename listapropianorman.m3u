@@ -982,7 +982,7 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 http://170.239.207.48:4050/play/CH54
 
 #EXTINF:-1 tvg-chno="361" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Perú",Latina ² 🇵🇪
-http://200.60.124.19:29000/play/a0n4/index.m3u8
+http://38.41.8.1:8000/play/a0t8
 
 #EXTINF:-1 tvg-chno="362" tvg-logo="https://cdn.mitvstatic.com/channels/pe_panamericana-tv_m.png" group-title="Perú",Panamericana ² 🇵🇪
 http://200.60.124.20:29000/play/a04s/index.m3u8
