@@ -654,8 +654,8 @@ http://200.60.124.19:29000/play/a0id/index.m3u8
 #EXTINF:-1 tvg-chno="237" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/09/13-Cultura-en-vivo-Online-1536x864.png" group-title="Chile",Canal 13 Cultura ¹ 🇨🇱
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
-#EXTINF:-1 tvg-chno="239" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="Colombia",Caracol 🇨🇴
-http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/176569.m3u8
+#EXTINF:-1 tvg-chno="239" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="Colombia",Caracol ² 🇨🇴
+http://181.119.85.222:8000/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-chno="240" tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="Colombia",RCN 🇨🇴
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/176580.m3u8
