@@ -981,8 +981,8 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 #EXTINF:-1 tvg-chno="360" tvg-logo="https://gzcsecurity.com/img/nosotros/seguridad/americatv-min.jpg" group-title="Perú",América TV ² 🇵🇪
 http://170.239.207.48:4050/play/CH54
 
-#EXTINF:-1 tvg-chno="361" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Perú",Latina ¹ 🇵🇪
-https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina/.m3u8
+#EXTINF:-1 tvg-chno="361" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Perú",Latina ² 🇵🇪
+http://200.60.124.19:29000/play/a0n4/index.m3u8
 
 #EXTINF:-1 tvg-chno="362" tvg-logo="https://cdn.mitvstatic.com/channels/pe_panamericana-tv_m.png" group-title="Perú",Panamericana ² 🇵🇪
 http://200.60.124.20:29000/play/a04s/index.m3u8
