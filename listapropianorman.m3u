@@ -138,8 +138,11 @@ https://giatv.bozztv.com/giatv/giatv-Supercanal/Supercanal/playlist.m3u8
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="Cine Latinos",Ciudad Magazine ¹ 🇦🇷
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://bayrestv.com.ar/assets/logo-bayres-tv.png" group-title="Cine Latinos",Bayres TV ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Bayres-TV-en-vivo-Online--1536x864.png" group-title="Cine Latinos",Bayres TV ¹ 🇦🇷
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://www.promendoza.com/wp-content/uploads/2018/06/cine-2-750x390.jpg" group-title="Cine Latinos",Cine Ar ¹ 🇦🇷
+https://joy.nx-pc.edge-apps.net/hls/m6l52-i7flc-5bii9-70gkm.m3u8
 
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://butaca.tv/_next/static/media/logo-black.32e2c785.png" group-title="Cine Latinos",Butaca TV ¹ 🇺🇸
 https://linear-842.frequency.stream/mt/plex/842/hls/master/playlist.m3u8
@@ -579,11 +582,14 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w591180067.m3u8
 #EXTINF:-1 tvg-chno="203" tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg" group-title="Argentina",El Nueve 🇦🇷
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=3539&extension=ts
 
-#EXTINF:-1 tvg-chno="204" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="Argentina",TV Pública ² 🇦🇷
-http://190.123.90.146:8000/play/a00q/index.m3u8
+#EXTINF:-1 tvg-chno="204" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="Argentina",TV Pública ¹ 🇦🇷
+https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9.m3u8
 
-#EXTINF:-1 tvg-chno="205" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG" group-title="Argentina",América TV ² 🇦🇷
-http://104.238.205.28:8989/278751_.m3u8
+#EXTINF:-1 tvg-chno="205" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG" group-title="Argentina",América TV ¹ 🇦🇷
+https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97.m3u8
+
+#EXTINF:-1 tvg-chno="205" tvg-logo="https://www.grupocronica.com.ar/resources/img/tv/cronica_Bravo_TV.jpg" group-title="Argentina",Bravo TV ¹ 🇦🇷
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="206" tvg-logo="https://media.canalnet.tv/2018/11/logo-notificaciones-150x150.png" group-title="Argentina",Net TV ¹ 🇦🇷
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -1701,8 +1707,8 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 #EXTINF:-1 tvg-chno="698" tvg-logo="https://www.adnblanco.com/wp-content/uploads/2020/09/logotiporealmadridtv-rmtv.jpg" group-title="Deportes",Real Madrid TV ¹ 🇪🇸
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
-#EXTINF:-1 tvg-chno="699" tvg-logo="https://telecentro.com.ar/img/cm/channels/deportv%20128.png"bgroup-title="Deportes",DeporTV 🇦🇷
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=145464&extension=ts
+#EXTINF:-1 tvg-chno="699" tvg-logo="https://telecentro.com.ar/img/cm/channels/deportv%20128.png"bgroup-title="Deportes",DeporTV ¹ 🇦🇷
+https://joy.nx-pc.edge-apps.net/hls/e1okh-afcc2-ejm6-h8gdj.m3u8
 
 #EXTINF:-1 tvg-chno="700" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png" group-title="Música",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
