@@ -945,23 +945,26 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 #EXTINF:-1 tvg-chno="327" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/400px-Unicable_logo.svg.png" group-title="México",Unicable ² 🇲🇽
 http://45.228.234.173:9999/play/a059
 
-#EXTINF:-1 tvg-chno="332" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Nicaragua",Canal 2 🇳🇮
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=125968&extension=ts
+#EXTINF:-1 tvg-chno="332" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Nicaragua",Canal 2 ° 🇳🇮
+http://172.93.102.112:8989/279296_.m3u8
 
-#EXTINF:-1 tvg-chno="333" tvg-logo="https://1.bp.blogspot.com/-Fi3j72ih8b8/YSzl1J95lrI/AAAAAAAAQVE/qDJWftQ2kVUOGhTCR9IFxSk5dUbv00OGACLcBGAsYHQ/w700-h400-p-k-no-nu/Canal%2B4%2Ben%2Bvivo.jpg" group-title="Nicaragua",Canal 4 🇳🇮
-http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2151063.m3u8
+#EXTINF:-1 tvg-chno="333" tvg-logo="https://1.bp.blogspot.com/-Fi3j72ih8b8/YSzl1J95lrI/AAAAAAAAQVE/qDJWftQ2kVUOGhTCR9IFxSk5dUbv00OGACLcBGAsYHQ/w700-h400-p-k-no-nu/Canal%2B4%2Ben%2Bvivo.jpg" group-title="Nicaragua",Canal 4 ° 🇳🇮
+http://172.93.102.112:8989/279299_.m3u8
 
-#EXTINF:-1 tvg-chno="334" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Nicaragua",Canal 6 🇳🇮
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=125975&extension=ts
+#EXTINF:-1 tvg-chno="334" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Nicaragua",Canal 6 ° 🇳🇮
+http://172.93.102.112:8989/279297_.m3u8
 
-#EXTINF:-1 tvg-chno="335" tvg-logo="https://1.bp.blogspot.com/-zyfzTiv-0YY/YSgNAyVUnYI/AAAAAAAAQQw/63cf8CyUoLQlwDWY2-9zdME5dzjewFpJQCLcBGAsYHQ/w700-h400-p-k-no-nu/Canal%2B10%2Ben%2Bvivo.png" group-title="Nicaragua",Canal 10 🇳🇮
-http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=100100&extension=ts
+#EXTINF:-1 tvg-chno="335" tvg-logo="https://1.bp.blogspot.com/-zyfzTiv-0YY/YSgNAyVUnYI/AAAAAAAAQQw/63cf8CyUoLQlwDWY2-9zdME5dzjewFpJQCLcBGAsYHQ/w700-h400-p-k-no-nu/Canal%2B10%2Ben%2Bvivo.png" group-title="Nicaragua",Canal 10 ° 🇳🇮
+http://172.93.102.112:8989/279293_.m3u8
 
-#EXTINF:-1 tvg-chno="336" tvg-logo="https://www.vivanicaragua.com.ni/contenido/archivos/2019/03/logo-blanco.png?x75729" group-title="Nicaragua",Canal 13 🇳🇮
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=125971&extension=ts
+#EXTINF:-1 tvg-chno="336" tvg-logo="https://www.vivanicaragua.com.ni/contenido/archivos/2019/03/logo-blanco.png?x75729" group-title="Nicaragua",Canal 13 ° 🇳🇮
+http://172.93.102.112:8989/279294_.m3u8
 
 #EXTINF:-1 tvg-chno="337" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TN8_Nicaragua.svg/1280px-TN8_Nicaragua.svg.png" group-title="Nicaragua",TN8 ¹ 🇳🇮
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="337" tvg-logo="https://logosnicas.com/wp-content/uploads/2024/02/wtv_canal_20_nueva_guinea.png" group-title="Nicaragua",WTV 20 ¹ 🇭🇳
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
 #EXTINF:-1 tvg-chno="338" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png" group-title="Panamá",Tv Max ° 🇵🇦
 http://172.93.102.112:8989/279309_.m3u8
