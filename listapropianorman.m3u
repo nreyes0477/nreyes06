@@ -867,9 +867,6 @@ https://envivo.canal6.com.hn/memfs/5a536b3e-954a-4124-a17a-d94bbd0968a2.m3u8
 #EXTINF:-1 tvg-chno="301" tvg-logo="" group-title="Honduras",VTV ° 🇭🇳
 http://172.93.102.112:8989/279288_.m3u8
 
-#EXTINF:-1 tvg-chno="302" tvg-logo="https://image.roku.com/developer_channels/prod/0d4a03ad9e1dd2ff1db1306d7b592cda8e08df57922237ff9797ef4bc18d30ec.png" group-title="Honduras",RHC TV 🇭🇳
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=131630&extension=ts
-
 #EXTINF:-1 tvg-chno="303" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/180px-Telecadena7y42018.png" group-title="Honduras",Telecadena ° 🇭🇳
 http://104.238.222.251:8989/285713_.m3u8
 
@@ -886,7 +883,7 @@ http://172.93.102.112:8989/279280_.m3u8
 https://mediacp.us:8081/ctvhn/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="310" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal10Honduras2019.png/revision/latest/scale-to-width-down/250?cb=20190604153849" group-title="Honduras",Ten 🇭🇳
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/194.ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13334&extension=ts
 
 #EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno 🇲🇽
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=3801&extension=ts
