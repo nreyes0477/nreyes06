@@ -1020,8 +1020,8 @@ https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-chno="366" tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png" group-title="Perú",ATV ¹ 🇵🇪
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-chno="367" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="Perú",Canal N 🇵🇪
-http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/10636.m3u8
+#EXTINF:-1 tvg-chno="367" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="Perú",Canal N ° 🇵🇪
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278891.m3u8
 
 #EXTINF:-1 tvg-chno="368" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/peru_magico-mediano.png" group-title="Perú",Perú Mágico 🇵🇪
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/155853.m3u8
@@ -1077,11 +1077,11 @@ http://104.243.38.5:8989/279351_.m3u8
 #EXTINF:-1 tvg-chno="385" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/canal-4-montecarlo-en-vivo.png?zoom=3&resize=100%2C70&ssl=1" group-title="Uruguay",Canal 4 🇺🇾
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2055405.m3u8
 
-#EXTINF:-1 tvg-chno="386" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/08/Canal-5-Uruguay-en-vivo-Online.png?resize=1068%2C601&ssl=1" group-title="Uruguay",Canal 5 🇺🇾
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=258892&extension=ts
+#EXTINF:-1 tvg-chno="386" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/08/Canal-5-Uruguay-en-vivo-Online.png?resize=1068%2C601&ssl=1" group-title="Uruguay",Canal 5 ° 🇺🇾
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278796.m3u8
 
-#EXTINF:-1 tvg-chno="387" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/canal-7-punta-del-este-2.png?w=800&ssl=1" group-title="Uruguay",Canal 7 🇺🇾
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=30443&extension=ts
+#EXTINF:-1 tvg-chno="387" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/canal-7-punta-del-este-2.png?w=800&ssl=1" group-title="Uruguay",Canal 7 ° 🇺🇾
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278797.m3u8
 
 #EXTINF:-1 tvg-chno="388" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png?zoom=3&resize=100%2C70&ssl=1" group-title="Uruguay",Canal 10 🇺🇾
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=3818&extension=ts
@@ -1089,8 +1089,8 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 #EXTINF:-1 tvg-chno="389" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/Teledoce-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Uruguay",Teledoce 🇺🇾
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=3817&extension=ts
 
-#EXTINF:-1 tvg-chno="390" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Venevision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Venezuela",Venevisión ¹ 🇻🇪
-https://vod2live.univtec.com/manifest/92fdf936-8cde-4ac2-b5a0-3dfe3663301d.m3u8
+#EXTINF:-1 tvg-chno="390" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Venevision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Venezuela",Venevisión ° 🇻🇪
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279001.m3u8
 
 #EXTINF:-1 tvg-chno="391" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Venezolana-de-Televisi%C3%B3n-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Venezuela",Venezolana de TV ² 🇻🇪
 http://38.41.8.1:8000/play/a03i
