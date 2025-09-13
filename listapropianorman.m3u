@@ -681,6 +681,15 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 #EXTINF:-1 tvg-chno="247" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/03/RCN_Nuestra_Tele_Int_516x287.jpg" group-title="Colombia",RCN Internacional 🇨🇴
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/199513.m3u8
 
+#EXTINF:-1 tvg-chno="248" tvg-logo="https://filecache.mediaroom.com/mr5mr_dish/178493/2597547_CubaMax_TV_LOGO__thumbnail_3.jpg" group-title="Cuba",Cubamax ° 🇨🇺
+http://172.93.102.112:8989/279367_.m3u8
+
+#EXTINF:-1 tvg-chno="248" tvg-logo="https://www.tvcubana.icrt.cu/images/television.jpg" group-title="Cuba",Cubavisión ° 🇨🇺
+http://00322.xyz:8000/live/jieseialberto/XHBR21BVCB/227359.m3u8
+
+#EXTINF:-1 tvg-chno="248" tvg-logo="https://i1.sndcdn.com/avatars-yy1Bq6yGeyp4lE6f-vpqpJw-t240x240.jpg" group-title="Cuba",Telemarti ° 🇨🇺
+http://172.93.102.112:8989/279366_.m3u8
+
 #EXTINF:-1 tvg-chno="250" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/233px-EcuadorTV_logo.png" group-title="Ecuador",Ecuador TV ¹ 🇪🇨
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 
