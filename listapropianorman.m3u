@@ -1596,8 +1596,8 @@ http://181.78.106.127:9000/play/ca037
 #EXTINF:-1 tvg-chno="660" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1536x329.png" group-title="Deportes",Sky Sports Bundesliga ² 🇺🇸
 http://190.92.10.66:4000/play/a006/index.m3u8
 
-#EXTINF:-1 tvg-chno="661" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1536x329.png" group-title="Deportes",Sky Sports La Liga ² 🇺🇸
-http://181.78.106.127:9000/play/ca030
+#EXTINF:-1 tvg-chno="661" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1536x329.png" group-title="Deportes",Sky Sports La Liga ² 🇺🇸 *
+http://190.92.10.66:4000/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-chno="664" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports (1) ° 🇦🇷
 http://172.93.102.112:8989/279390_.m3u8
