@@ -1444,19 +1444,19 @@ http://crlivebpk.service.osllacdn.com/espn5hdcr/vxfmt=dp/playlist.m3u8?device_pr
 http://crlivebpk.service.osllacdn.com/espn6hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-chno="614" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN MX 🇲🇽
-http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2092626.m3u8
+http://m3u.tvcluboficial.com/free/Jose_Mejia/V3f/401.m3u8
 
 #EXTINF:-1 tvg-chno="615" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 MX ° 🇲🇽
 http://199.127.63.143:8989/159320_.m3u8
 
-#EXTINF:-1 tvg-chno="616" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN 3 MX ° 🇲🇽
-http://172.93.102.119:8989/278580_.m3u8
+#EXTINF:-1 tvg-chno="616" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN 3 MX 🇲🇽
+http://m3u.tvcluboficial.com/free/Jose_Mejia/V3f/1110.m3u8
 
 #EXTINF:-1 tvg-chno="617" tvg-logo="https://newswhip.sirv.com/WP_www.newswhip.com/2018/02/Espndeportes.png" group-title="Deportes",ESPN Deportes ° 🇺🇲
 http://199.127.63.143:8989/158831_.m3u8
 
 #EXTINF:-1 tvg-chno="617" tvg-logo="https://www.razon.com.mx/resizer/v2/BME2ROXV7FFKVG5UGOXC2NAHTQ.jpg?auth=6480282fc3f431758200760caa02731d17cf4931a75271e7a57d4f5b2655282f&smart=true&width=400&height=200&quality=75" group-title="Deportes",Fox Deportes 🇺🇲
-http://thevdm.xyz:25461/streaming/clients_live.php?username=Vargasfam99&password=fBTVegQTCz&stream=19894&extension=ts
+http://m3u.tvcluboficial.com/free/Jose_Mejia/V3f/1114.m3u8
 
 #EXTINF:-1 tvg-chno="618" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-04.jpg" group-title="Deportes",Fox Sports MX 🇲🇽
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47128&extension=ts
@@ -1486,10 +1486,10 @@ http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2227022.m3u8
 http://199.127.63.143:8989/278765_.m3u8
 
 #EXTINF:-1 tvg-chno="631" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Chile 🇨🇱
-http://tvpremium.pro:80/live/Erick12345/Erick12345/496558.m3u8
+http://m3u.tvcluboficial.com/free/Jose_Mejia/V3f/1132.m3u8
 
 #EXTINF:-1 tvg-chno="632" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Colombia 🇨🇴 
-http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/202064.m3u8
+http://m3u.tvcluboficial.com/free/Jose_Mejia/V3f/1107.m3u8
 
 #EXTINF:-1 tvg-chno="633" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 Sur América °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278762.m3u8
@@ -1572,7 +1572,7 @@ http://190.92.10.66:4000/play/a006/index.m3u8
 #EXTINF:-1 tvg-chno="661" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1536x329.png" group-title="Deportes",Sky Sports La Liga ² 🇺🇸
 http://181.78.106.127:9000/play/ca030
 
-#EXTINF:-1 tvg-chno="664" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports ° 🇦🇷
+#EXTINF:-1 tvg-chno="664" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports (1) ° 🇦🇷
 http://172.93.102.112:8989/279390_.m3u8
 
 #EXTINF:-1 tvg-chno="665" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports (2) ² 🇦🇷
@@ -1629,8 +1629,8 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 #EXTINF:-1 tvg-chno="679" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png" group-title="Deportes",TNT Sports ² 🇨🇱
 http://38.41.8.1:8000/play/a0vm
 
-#EXTINF:-1 tvg-chno="679" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsportsPremium256.png" group-title="Deportes",TNT Sports Premium ² 🇨🇱 
-http://190.123.90.146:8000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-chno="679" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsportsPremium256.png" group-title="Deportes",TNT Sports Premium 🇨🇱 
+http://m3u.tvcluboficial.com/free/Jose_Mejia/V3f/1128.m3u8
 
 #EXTINF:-1 tvg-chno="680" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_mobile_ORIGINAL.png" group-title="Deportes",ECDF ² 🇪🇨
 http://38.44.109.41:8003/play/a038/index.m3u8
@@ -1657,7 +1657,7 @@ http://38.41.8.1:8000/play/a0ry
 http://172.93.102.112:8989/279308_.m3u8
 
 #EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Guatemala (1) 🇬🇹
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=237859&extension=ts
+http://m3u.tvcluboficial.com/free/Jose_Mejia/V3f/904.m3u8
 
 #EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Guatemala (2) ¹ 🇬🇹
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
@@ -1666,7 +1666,7 @@ https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=40017&extension=ts
 
 #EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Bolivia 🇧🇴
-http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2154027.m3u8
+http://m3u.tvcluboficial.com/free/Jose_Mejia/V3f/905.m3u8
 
 #EXTINF:-1 tvg-chno="686" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos.png?resize=600%2C360&ssl=1" group-title="Deportes",Cableonda 🇵🇦 
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=151800&extension=ts
