@@ -1600,7 +1600,7 @@ http://190.92.10.66:4000/play/a006/index.m3u8
 http://190.92.10.66:4000/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-chno="664" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports (1) ² 🇦🇷 *
-http://179.63.6.17:9000/play/a08e
+http://179.63.6.17:9000/play/a08e/index.m3u8
 
 #EXTINF:-1 tvg-chno="665" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports (2) ² 🇦🇷
 http://200.60.124.19:29000/play/a081/index.m3u8
