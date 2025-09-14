@@ -225,6 +225,9 @@ http://181.78.23.26:45000/play/a01u
 #EXTINF:-1 tvg-chno="69" tvg-logo="https://i4.hurimg.com/i/hurriyet/75/600x338/5dbd043ed3806c1dec53824d.jpg" group-title="24/7 Novelas",Kanal Drama ¹
 https://amg01602-amg01602c2-canelatv-international-5561.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-themavivekanalddrama-canelatvinternational/playlist.m3u8?rights_holder_id=vive-kanal-d-drama&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=0e5adb91-3380-43f4-afa6-574df288f505&url=https://www.canela.tv/player/channel/vive-kanal-d-drama&us_privacy=null_us_privacy&coppa=0&ifa_type=NA&lmt=NA&device_language=es
 
+#EXTINF:-1 tvg-chno="69" tvg-logo="https://images.hamshahrionline.ir/images/2013/2/atv.jpg" group-title="24/7 Novelas",ATV Novelas Turcas 🇹🇷
+http://m3u.tvcluboficial.com/free/Jose_Mejia/V3f/1120.m3u8
+
 #EXTINF:-1 tvg-chno="69" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/nova-en-directo-online-y-en-vivo.png" group-title="24/7 Novelas",Nova ² 🇪🇸
 http://185.189.225.150:85/nova/index.m3u8
 
