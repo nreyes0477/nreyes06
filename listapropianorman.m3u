@@ -1107,10 +1107,10 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 #EXTINF:-1 tvg-chno="398" tvg-logo="https://www.newslinereport.com/online/foto_120.jpg" group-title="Venezuela",Venevisión Internacional ¹ 🇻🇪
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/1160000.m3u8
 
-#EXTINF:-1 tvg-chno="400" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg" group-title="Cultura y Entretenimiento",E! Entertainment (1) ²
-http://104.238.222.251:8989/278418_.m3u8
+#EXTINF:-1 tvg-chno="400" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg" group-title="Cultura y Entretenimiento",E! Entertainment (1) °
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278418.m3u8
 
-#EXTINF:-1 tvg-chno="400" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg" group-title="Cultura y Entretenimiento",E! Entertainment (2) °
+#EXTINF:-1 tvg-chno="400" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg" group-title="Cultura y Entretenimiento",E! Entertainment (2) ²
 http://190.83.2.172:8080/play/a02y
 
 #EXTINF:-1 tvg-chno="405" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-id_m.png" group-title="Cultura y Entretenimiento",ID Investigation ²
