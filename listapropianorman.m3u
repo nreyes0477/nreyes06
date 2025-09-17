@@ -1194,14 +1194,11 @@ http://38.159.227.124:8000/play/a04r
 #EXTINF:-1 tvg-chno="501" tvg-logo="https://cdn.mitvstatic.com/channels/cl_amc_m.png" group-title="Cine y Películas",AMC
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=150103&extension=ts
 
-#EXTINF:-1 tvg-chno="501" tvg-logo="https://cdn.mitvstatic.com/channels/cl_amc_m.png"group-title="Cine y Películas",AMC (2)
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=37&extension=ts
-
 #EXTINF:-1 tvg-chno="501" tvg-logo="https://i.postimg.cc/ncsmtW5L/amce.jpg" group-title="Cine y Películas",AMC (USA) ¹
 https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="502" tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png" group-title="Cine y Películas",AXN
-http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/10549.m3u8
+#EXTINF:-1 tvg-chno="502" tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png" group-title="Cine y Películas",AXN ²
+http://190.83.2.172:8081/play/a06t
 
 #EXTINF:-1 tvg-chno="503" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png" group-title="Cine y Películas",Cinecanal ²
 http://38.159.227.124:8000/play/a05x
@@ -1240,7 +1237,7 @@ http://38.159.227.124:8000/play/a05w
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=46660&extension=ts
 
 #EXTINF:-1 tvg-chno="521" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png" group-title="Cine y Películas",USA Network ²
-http://181.78.4.186:8000/play/a0e4
+http://181.205.130.194:4000/play/a06v
 
 #EXTINF:-1 tvg-chno="522" tvg-logo="https://cdn.mitvstatic.com/channels/mx_space_m.png" group-title="Cine y Películas",Space ²
 http://216.122.181.10:8081/play/a0dn
@@ -1260,8 +1257,8 @@ http://38.159.227.124:8000/play/a08k
 #EXTINF:-1 tvg-chno="527" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner_m.png" group-title="Cine y Películas",Warner Channel ²
 http://38.159.227.124:8000/play/a05v
 
-#EXTINF:-1 tvg-chno="528" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png" group-title="Cine y Películas",FX 
-http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/148725.m3u8
+#EXTINF:-1 tvg-chno="528" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png" group-title="Cine y Películas",FX ²
+http://200.115.96.66:4000/play/a0he/index.m3u8
 
 #EXTINF:-1 tvg-chno="530" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png" group-title="Cine y Películas",DHE
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=153595&extension=ts
@@ -1348,13 +1345,13 @@ http://45.184.87.142:8000/play/a05m
 http://181.188.216.5:18000/play/a0im/index.m3u8
 
 #EXTINF:-1 tvg-chno="576" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbosignature.png" group-title="Cine y Películas",HBO Signature Norte ²
-http://104.238.222.251:8989/278505_.m3u8
+http://181.188.216.5:18000/play/a0mc/index.m3u8
 
 #EXTINF:-1 tvg-chno="577" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime.png" group-title="Cine y Películas",HBO Xtreme Norte ²
 http://45.184.87.142:8000/play/a04l
 
 #EXTINF:-1 tvg-chno="578" tvg-logo="https://telecentro.com.ar/img/cm/channels/max.png" group-title="Cine y Películas",HBO Mundi Norte ²
-http://104.238.222.251:8989/278501_.m3u8
+http://181.188.216.5:18000/play/a0md/index.m3u8
 
 #EXTINF:-1 tvg-chno="579" tvg-logo="https://static.latamwbd.com/2023-11/logo%202x.png" group-title="Cine y Películas",HBO Sur ²
 http://190.102.246.93:9005/play/a01a
@@ -1365,20 +1362,20 @@ http://181.78.201.70:8000/play/a0ip
 #EXTINF:-1 tvg-chno="585" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbofamily.png" group-title="Cine y Películas",HBO Family Sur ²
 http://190.102.246.93:9005/play/a01g
 
-#EXTINF:-1 tvg-chno="586" tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus.png" group-title="Cine y Películas",HBO Plus Sur
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13219&extension=ts
+#EXTINF:-1 tvg-chno="586" tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus.png" group-title="Cine y Películas",HBO Plus Sur °
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278490.m3u8
 
-#EXTINF:-1 tvg-chno="587" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxup.png" group-title="Cine y Películas",HBO Pop Sur
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=7969&extension=ts
+#EXTINF:-1 tvg-chno="587" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxup.png" group-title="Cine y Películas",HBO Pop Sur °
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278503.m3u8
 
 #EXTINF:-1 tvg-chno="588" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbosignature.png" group-title="Cine y Películas",HBO Signature Sur
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=7970&extension=ts
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278505.m3u8
 
-#EXTINF:-1 tvg-chno="589" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime.png" group-title="Cine y Películas",HBO Xtreme Sur
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13220&extension=ts
+#EXTINF:-1 tvg-chno="589" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime.png" group-title="Cine y Películas",HBO Xtreme Sur °
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278508.m3u8
 
 #EXTINF:-1 tvg-chno="593" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="Cine y Películas",Universal Channel ²
-http://216.122.181.10:8081/play/a0h7
+http://190.102.246.93:9005/play/a01o
 
 #EXTINF:-1 tvg-chno="593" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="Cine y Películas",Universal Channel Diferido ²
 http://181.78.23.26:45000/play/a007
