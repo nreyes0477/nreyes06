@@ -1158,8 +1158,8 @@ http://181.78.201.70:8000/play/a0gg/index.m3u8
 #EXTINF:-1 tvg-chno="424" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png" group-title="Cultura y Entretenimiento",Discovery Science ²
 http://38.159.227.124:8000/play/a099
 
-#EXTINF:-1 tvg-chno="425" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png" group-title="Cultura y Entretenimiento",HGTV Latino
-http://00322.xyz:8000/live/jieseialberto/XHBR21BVCB/151647.m3u8
+#EXTINF:-1 tvg-chno="425" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png" group-title="Cultura y Entretenimiento",HGTV Latino ²
+http://200.60.124.19:29000/play/a0i4/index.m3u8
 
 #EXTINF:-1 tvg-chno="427" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png" group-title="Cultura y Entretenimiento",Comedy Central ²
 http://38.159.227.124:8000/play/a02t
