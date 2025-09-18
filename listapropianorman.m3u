@@ -1308,91 +1308,91 @@ https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670
 #EXTINF:-1 tvg-chno="551" tvg-logo="https://imageshttps://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg" group-title="Cine y Películas",Rakuten Drama ¹
 https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
 
-#EXTINF:-1 tvg-chno="553" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png" group-title="Cine y Películas",Cine Familiar ²
+#EXTINF:-1 tvg-chno="591" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png" group-title="Cine y Películas",Cine Familiar ²
 http://190.102.246.93:9005/play/a034
 
-#EXTINF:-1 tvg-chno="554" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinehispano.png" group-title="Cine y Películas",Cine Hispano ²
+#EXTINF:-1 tvg-chno="591" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinehispano.png" group-title="Cine y Películas",Cine Hispano ²
 http://190.102.246.93:9005/play/a035
 
-#EXTINF:-1 tvg-chno="555" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png"bgroup-title="Cine y Películas",Cine Premium ²
+#EXTINF:-1 tvg-chno="591" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png"bgroup-title="Cine y Películas",Cine Premium ²
 http://190.102.246.93:9005/play/a036
 
-#EXTINF:-1 tvg-chno="556" tvg-logo="https://contenidostv.b-cdn.net/images/clover512.jpg" group-title="Cine y Películas",Clover Channel ²
+#EXTINF:-1 tvg-chno="592" tvg-logo="https://contenidostv.b-cdn.net/images/clover512.jpg" group-title="Cine y Películas",Clover Channel ²
 http://160.20.165.246:8000/play/a006
 
-#EXTINF:-1 tvg-chno="568" tvg-logo="https://static.wixstatic.com/media/c5adb2_7a400836c9f84c1fb2143cb9da04d1fb~mv2.png/v1/fill/w_280,h_160,al_c,lg_1,q_85,enc_avif,quality_auto/Image-empty-state.png" group-title="Cine y Películas",MX Family ²
+#EXTINF:-1 tvg-chno="593" tvg-logo="https://static.wixstatic.com/media/c5adb2_7a400836c9f84c1fb2143cb9da04d1fb~mv2.png/v1/fill/w_280,h_160,al_c,lg_1,q_85,enc_avif,quality_auto/Image-empty-state.png" group-title="Cine y Películas",MX Family ²
 http://190.102.246.93:9005/play/a03i
 
-#EXTINF:-1 tvg-chno="569" tvg-logo="https://static.wixstatic.com/media/c5adb2_2ece8c7444e645078f23972a4e84e2b6~mv2.png/v1/fill/w_280,h_160,al_c,lg_1,q_85,enc_avif,quality_auto/Image-empty-state.png" group-title="Cine y Películas",MX Prime ²
+#EXTINF:-1 tvg-chno="593" tvg-logo="https://static.wixstatic.com/media/c5adb2_2ece8c7444e645078f23972a4e84e2b6~mv2.png/v1/fill/w_280,h_160,al_c,lg_1,q_85,enc_avif,quality_auto/Image-empty-state.png" group-title="Cine y Películas",MX Prime ²
 http://190.102.246.93:9005/play/a03t
 
-#EXTINF:-1 tvg-chno="570" tvg-logo="https://static.wixstatic.com/media/c5adb2_1e5ac32c6d154221ba12cc0fd77102e9~mv2.png/v1/fill/w_280,h_160,al_c,lg_1,q_85,enc_avif,quality_auto/Image-empty-state.png" group-title="Cine y Películas",MX Classic ²
+#EXTINF:-1 tvg-chno="593" tvg-logo="https://static.wixstatic.com/media/c5adb2_1e5ac32c6d154221ba12cc0fd77102e9~mv2.png/v1/fill/w_280,h_160,al_c,lg_1,q_85,enc_avif,quality_auto/Image-empty-state.png" group-title="Cine y Películas",MX Classic ²
 http://190.102.246.93:9005/play/a03h
 
-#EXTINF:-1 tvg-chno="571" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo.png" group-title="Cine y Películas",HBO Norte ²
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo.png" group-title="Cine y Películas",HBO Norte ²
 http://45.184.87.142:8000/play/a04k
 
-#EXTINF:-1 tvg-chno="572" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo2.png" group-title="Cine y Películas",HBO 2 Norte ²
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo2.png" group-title="Cine y Películas",HBO 2 Norte ²
 http://45.184.87.142:8000/play/a05a
 
-#EXTINF:-1 tvg-chno="573" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbofamily.png" group-title="Cine y Películas",HBO Family Norte ²
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbofamily.png" group-title="Cine y Películas",HBO Family Norte ²
 http://181.188.216.5:18000/play/a0lr/index.m3u8
 
-#EXTINF:-1 tvg-chno="574" tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus.png" group-title="Cine y Películas",HBO Plus Norte ²
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus.png" group-title="Cine y Películas",HBO Plus Norte ²
 http://45.184.87.142:8000/play/a05m
 
-#EXTINF:-1 tvg-chno="575" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxup.png" group-title="Cine y Películas",HBO Pop Norte ²
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxup.png" group-title="Cine y Películas",HBO Pop Norte ²
 http://181.188.216.5:18000/play/a0im/index.m3u8
 
-#EXTINF:-1 tvg-chno="576" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbosignature.png" group-title="Cine y Películas",HBO Signature Norte ²
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbosignature.png" group-title="Cine y Películas",HBO Signature Norte ²
 http://181.188.216.5:18000/play/a0mc/index.m3u8
 
-#EXTINF:-1 tvg-chno="577" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime.png" group-title="Cine y Películas",HBO Xtreme Norte ²
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime.png" group-title="Cine y Películas",HBO Xtreme Norte ²
 http://45.184.87.142:8000/play/a04l
 
-#EXTINF:-1 tvg-chno="578" tvg-logo="https://telecentro.com.ar/img/cm/channels/max.png" group-title="Cine y Películas",HBO Mundi Norte ²
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/max.png" group-title="Cine y Películas",HBO Mundi Norte ²
 http://181.188.216.5:18000/play/a0md/index.m3u8
 
-#EXTINF:-1 tvg-chno="579" tvg-logo="https://static.latamwbd.com/2023-11/logo%202x.png" group-title="Cine y Películas",HBO Sur ²
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://static.latamwbd.com/2023-11/logo%202x.png" group-title="Cine y Películas",HBO Sur ²
 http://190.102.246.93:9005/play/a01a
 
-#EXTINF:-1 tvg-chno="584" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" group-title="Cine y Películas",HBO 2 Sur ²
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" group-title="Cine y Películas",HBO 2 Sur ²
 http://181.78.201.70:8000/play/a0ip
 
-#EXTINF:-1 tvg-chno="585" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbofamily.png" group-title="Cine y Películas",HBO Family Sur ²
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbofamily.png" group-title="Cine y Películas",HBO Family Sur ²
 http://190.102.246.93:9005/play/a01g
 
-#EXTINF:-1 tvg-chno="586" tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus.png" group-title="Cine y Películas",HBO Plus Sur °
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus.png" group-title="Cine y Películas",HBO Plus Sur °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278490.m3u8
 
-#EXTINF:-1 tvg-chno="587" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxup.png" group-title="Cine y Películas",HBO Pop Sur °
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxup.png" group-title="Cine y Películas",HBO Pop Sur °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278503.m3u8
 
-#EXTINF:-1 tvg-chno="588" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbosignature.png" group-title="Cine y Películas",HBO Signature Sur
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbosignature.png" group-title="Cine y Películas",HBO Signature Sur
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278505.m3u8
 
-#EXTINF:-1 tvg-chno="589" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime.png" group-title="Cine y Películas",HBO Xtreme Sur °
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime.png" group-title="Cine y Películas",HBO Xtreme Sur °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278508.m3u8
 
-#EXTINF:-1 tvg-chno="593" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="Cine y Películas",Universal Channel ²
+#EXTINF:-1 tvg-chno="598" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="Cine y Películas",Universal Channel ²
 http://190.102.246.93:9005/play/a01o
 
-#EXTINF:-1 tvg-chno="593" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="Cine y Películas",Universal Channel Diferido ²
+#EXTINF:-1 tvg-chno="598" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="Cine y Películas",Universal Channel Diferido ²
 http://181.78.23.26:45000/play/a007
 
-#EXTINF:-1 tvg-chno="594" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644505043521-Imagen.jpg" group-title="Cine y Películas",Universal Cinema ²
+#EXTINF:-1 tvg-chno="599" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644505043521-Imagen.jpg" group-title="Cine y Películas",Universal Cinema ²
 http://38.159.227.124:8000/play/a04e
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504904675-Imagen.jpg" group-title="Cine y Películas",Universal Comedy ²
+#EXTINF:-1 tvg-chno="599" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504904675-Imagen.jpg" group-title="Cine y Películas",Universal Comedy ²
 http://38.159.227.124:8000/play/a030
 
-#EXTINF:-1 tvg-chno="596" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504857757-Imagen.jpg" group-title="Cine y Películas",Universal Crime ²
+#EXTINF:-1 tvg-chno="599" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504857757-Imagen.jpg" group-title="Cine y Películas",Universal Crime ²
 http://38.159.227.124:8000/play/a02z
 
-#EXTINF:-1 tvg-chno="597" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504463678-Imagen.jpg" group-title="Cine y Películas",Universal Premiere ²
+#EXTINF:-1 tvg-chno="599" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504463678-Imagen.jpg" group-title="Cine y Películas",Universal Premiere ²
 http://38.159.227.124:8000/play/a02w
 
-#EXTINF:-1 tvg-chno="598" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504463678-Imagen.jpg" group-title="Cine y Películas",Universal Premiere 2 ²
+#EXTINF:-1 tvg-chno="599" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504463678-Imagen.jpg" group-title="Cine y Películas",Universal Premiere 2 ²
 http://38.159.227.124:8000/play/a02x
 
 #EXTINF:-1 tvg-chno="599" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1646691382488-Imagen.jpg" group-title="Cine y Películas",Universal Reality ²
