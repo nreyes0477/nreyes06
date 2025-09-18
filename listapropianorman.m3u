@@ -1329,6 +1329,45 @@ http://190.102.246.93:9005/play/a03t
 #EXTINF:-1 tvg-chno="557" tvg-logo="https://static.wixstatic.com/media/c5adb2_1e5ac32c6d154221ba12cc0fd77102e9~mv2.png/v1/fill/w_280,h_160,al_c,lg_1,q_85,enc_avif,quality_auto/Image-empty-state.png" group-title="Cine y Películas",MX Classic ²
 http://190.102.246.93:9005/play/a03h
 
+#EXTINF:-1 tvg-chno="560" tvg-logo="https://sender.epglogos.de/256x256/610.png" group-title="Cine y Películas",Sky Cinema 1 °
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/285409.m3u8
+
+#EXTINF:-1 tvg-chno="560" tvg-logo="https://sender.epglogos.de/256x256/610.png" group-title="Cine y Películas",Sky Cinema 2 °
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/285410.m3u8
+
+#EXTINF:-1 tvg-chno="560" tvg-logo="https://sender.epglogos.de/256x256/610.png" group-title="Cine y Películas",Sky Cinema 3 °
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/285411.m3u8
+
+#EXTINF:-1 tvg-chno="560" tvg-logo="https://sender.epglogos.de/256x256/610.png" group-title="Cine y Películas",Sky Cinema 4 °
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/285412.m3u8
+
+#EXTINF:-1 tvg-chno="560" tvg-logo="https://sender.epglogos.de/256x256/610.png" group-title="Cine y Películas",Sky Cinema 5 °
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/285413.m3u8
+
+#EXTINF:-1 tvg-chno="560" tvg-logo="https://sender.epglogos.de/256x256/610.png" group-title="Cine y Películas",Sky Cinema 6 °
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/285414.m3u8
+
+#EXTINF:-1 tvg-chno="560" tvg-logo="https://sender.epglogos.de/256x256/610.png" group-title="Cine y Películas",Sky Cinema 7 °
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/285415.m3u8
+
+#EXTINF:-1 tvg-chno="560" tvg-logo="https://sender.epglogos.de/256x256/610.png" group-title="Cine y Películas",Sky Cinema 8 °
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/285416.m3u8
+
+#EXTINF:-1 tvg-chno="560" tvg-logo="https://sender.epglogos.de/256x256/610.png" group-title="Cine y Películas",Sky Cinema 9 °
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/285417.m3u8
+
+#EXTINF:-1 tvg-chno="560" tvg-logo="https://sender.epglogos.de/256x256/610.png" group-title="Cine y Películas",Sky Cinema 10 °
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/285418.m3u8
+
+#EXTINF:-1 tvg-chno="560" tvg-logo="https://sender.epglogos.de/256x256/610.png" group-title="Cine y Películas",Sky Cinema  11 °
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/285419.m3u8
+
+#EXTINF:-1 tvg-chno="560" tvg-logo="https://sender.epglogos.de/256x256/610.png" group-title="Cine y Películas",Sky Cinema 12 °
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/285420.m3u8
+
+#EXTINF:-1 tvg-chno="560" tvg-logo="https://sender.epglogos.de/256x256/610.png" group-title="Cine y Películas",Sky Cinema 13 °
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/285421.m3u8
+
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo.png" group-title="Cine y Películas",HBO Norte ²
 http://45.184.87.142:8000/play/a04k
 
