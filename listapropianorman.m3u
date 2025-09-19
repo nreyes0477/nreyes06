@@ -1267,7 +1267,7 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 http://181.78.106.127:9000/play/ca054
 
 #EXTINF:-1 tvg-chno="535" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/640px-Starz_2008.png" group-title="Cine y Películas",Starz
-
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/120.m3u8
 
 #EXTINF:-1 tvg-chno="536" tvg-logo="https://sc.dish.com/shared/images/station-logos/SCINE.png" group-title="Cine y Películas",Starz Cinema
 
