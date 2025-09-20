@@ -1267,25 +1267,25 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 http://181.78.106.127:9000/play/ca054
 
 #EXTINF:-1 tvg-chno="535" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/640px-Starz_2008.png" group-title="Cine y Películas",Starz
-http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/120.m3u8
+http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=120&extension=ts
 
-#EXTINF:-1 tvg-chno="536" tvg-logo="https://sc.dish.com/shared/images/station-logos/SCINE.png" group-title="Cine y Películas",Starz Cinema
-
+#EXTINF:-1 tvg-chno="536" tvg-logo="https://sc.dish.com/shared/images/station-logos/SCINE.png" group-title="Cine y Películas",Starz Encore
+http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=121&extension=ts
 
 #EXTINF:-1 tvg-chno="537" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Starz_Encore_Action.svg/640px-Starz_Encore_Action.svg.png" group-title="Cine y Películas",Starz Action
+http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=122&extension=ts
 
-
-#EXTINF:-1 tvg-chno="538" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Starz_Encore_Classic.svg/640px-Starz_Encore_Classic.svg.png" group-title="Cine y Películas",Starz Classic
-
+#EXTINF:-1 tvg-chno="538" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Starz_Encore_Classic.svg/640px-Starz_Encore_Classic.svg.png" group-title="Cine y Películas",Starz Encore Black
+http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=123&extension=ts
 
 #EXTINF:-1 tvg-chno="539" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Starz_Kids_%26_Family_logo.svg/640px-Starz_Kids_%26_Family_logo.svg.png" group-title="Cine y Películas",Starz Family
-
+http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=125&extension=ts
 
 #EXTINF:-1 tvg-chno="540" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Starz_Encore_Suspense.svg/640px-Starz_Encore_Suspense.svg.png" group-title="Cine y Películas",Starz Suspense
 
 
 #EXTINF:-1 tvg-chno="541" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Starz_Encore_Westerns.svg/640px-Starz_Encore_Westerns.svg.png" group-title="Cine y Películas",Starz Westerns
-
+http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=124&extension=ts
 
 #EXTINF:-1 tvg-chno="545" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1024px-Rakuten_TV_logo.svg.png" group-title="Cine y Películas",Rakuten TV ¹
 https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
