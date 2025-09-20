@@ -1368,6 +1368,21 @@ http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=
 #EXTINF:-1 tvg-chno="565" tvg-logo="https://wtcks.com/images/channels/logos/ZlWJXSPb7gXV4HmE.png" group-title="Cine y Películas",Showtime Showcase
 http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=118&extension=ts
 
+#EXTINF:-1 tvg-chno="565" tvg-logo="https://us.123rf.com/450wm/inkdrop/inkdrop1801/inkdrop180105651/94147266-cinema-word-made-from-red-vintage-lightbulb-lettering-isolated-on-a-white-3d-rendering.jpg?ver=6" group-title="Cine y Películas",Canal Cine 1
+http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=99&extension=ts
+
+#EXTINF:-1 tvg-chno="565" tvg-logo="https://us.123rf.com/450wm/inkdrop/inkdrop1801/inkdrop180105651/94147266-cinema-word-made-from-red-vintage-lightbulb-lettering-isolated-on-a-white-3d-rendering.jpg?ver=6" group-title="Cine y Películas",Canal Cine 2
+http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=100&extension=ts
+
+#EXTINF:-1 tvg-chno="565" tvg-logo="https://us.123rf.com/450wm/inkdrop/inkdrop1801/inkdrop180105651/94147266-cinema-word-made-from-red-vintage-lightbulb-lettering-isolated-on-a-white-3d-rendering.jpg?ver=6" group-title="Cine y Películas",Canal Cine 3
+http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=103&extension=ts
+
+#EXTINF:-1 tvg-chno="565" tvg-logo="https://us.123rf.com/450wm/inkdrop/inkdrop1801/inkdrop180105651/94147266-cinema-word-made-from-red-vintage-lightbulb-lettering-isolated-on-a-white-3d-rendering.jpg?ver=6" group-title="Cine y Películas",Canal Cine 4
+http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=106&extension=ts
+
+#EXTINF:-1 tvg-chno="565" tvg-logo="https://us.123rf.com/450wm/inkdrop/inkdrop1801/inkdrop180105651/94147266-cinema-word-made-from-red-vintage-lightbulb-lettering-isolated-on-a-white-3d-rendering.jpg?ver=6" group-title="Cine y Películas",Canal Cine 5
+http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=115&extension=ts
+
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://methodgroupe.com/wp-content/uploads/2020/08/Client-logos_0030_170124_ClientLogos_16.png" group-title="Cine y Películas",HBO Latino
 http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=105&extension=ts
 
