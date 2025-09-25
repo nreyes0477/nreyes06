@@ -1464,17 +1464,17 @@ http://200.229.147.210:8000/play/a0as/index.m3u8
 #EXTINF:-1 tvg-chno="603" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports CR (2) ²
 http://200.125.170.120:8000/play/a04f/index.m3u8
 
-#EXTINF:-1 tvg-chno="605" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png" group-title="Deportes",TD+ (1) ²
-http://45.71.254.1:8000/play/a0a2/index.m3u8
+#EXTINF:-1 tvg-chno="605" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png" group-title="Deportes",TD+ ᵇᵘᵈ (1) 
+http://budtvlight.com:25461/live/Astro/120388/818636.ts
 
-#EXTINF:-1 tvg-chno="604" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png" group-title="Deportes",TD+ (2) ²
-http://200.229.147.210:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-chno="604" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png" group-title="Deportes",TD+ ° (2)
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279375.m3u8
 
-#EXTINF:-1 tvg-chno="605" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-3.png" group-title="Deportes",TD+ 2 (1) ²
-http://200.229.147.210:8000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-chno="605" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-3.png" group-title="Deportes",TD+ 2 ᵇᵘᵈ (1)
+http://budtvlight.com:25461/live/Astro/120388/818648.ts
 
-#EXTINF:-1 tvg-chno="606" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-3.png" group-title="Deportes",TD+ 2 (2) ²
-http://45.71.254.1:8000/play/a0a3/index.m3u8
+#EXTINF:-1 tvg-chno="606" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-3.png" group-title="Deportes",TD+ 2 ° (2)
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279377.m3u8
 
 #EXTINF:-1 tvg-chno="607" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Centro América ¹
 http://crlivebpk.service.osllacdn.com/espnhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
