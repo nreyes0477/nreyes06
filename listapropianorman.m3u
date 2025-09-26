@@ -1201,7 +1201,7 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="502" tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png" group-title="Cine y Películas",AXN ²
-http://190.83.2.172:8081/play/a06t
+http://181.78.106.127:9000/play/ca085/index.m3u8
 
 #EXTINF:-1 tvg-chno="503" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png" group-title="Cine y Películas",Cinecanal ²
 http://38.159.227.124:8000/play/a05x
@@ -1243,7 +1243,7 @@ http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722
 http://181.205.130.194:4000/play/a06v
 
 #EXTINF:-1 tvg-chno="522" tvg-logo="https://cdn.mitvstatic.com/channels/mx_space_m.png" group-title="Cine y Películas",Space ²
-http://216.122.181.10:8081/play/a0dn
+http://45.181.122.46:8090/play/a00h
 
 #EXTINF:-1 tvg-chno="523" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png" group-title="Cine y Películas",Lifetime
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/188850.m3u8
@@ -1255,7 +1255,7 @@ http://38.159.227.124:8000/play/a04n
 http://38.159.227.124:8000/play/a02p
 
 #EXTINF:-1 tvg-chno="526" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png" group-title="Cine y Películas",TNT Series ²
-http://38.159.227.124:8000/play/a08k
+http://179.51.136.19:8000/play/a1al/index.m3u8
 
 #EXTINF:-1 tvg-chno="527" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner_m.png" group-title="Cine y Películas",Warner Channel ²
 http://38.159.227.124:8000/play/a05v
@@ -1268,6 +1268,27 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 
 #EXTINF:-1 tvg-chno="531" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="Cine y Películas",DreamWorks ²
 http://181.78.106.127:9000/play/ca054
+
+#EXTINF:-1 tvg-chno="533" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1024px-Rakuten_TV_logo.svg.png" group-title="Cine y Películas",Rakuten TV ¹
+https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
+
+#EXTINF:-1 tvg-chno="533" tvg-logo="https://images-1.https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg" group-title="Cine y Películas",Rakuten Crimen ¹
+https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8
+
+#EXTINF:-1 tvg-chno="533" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/6183803c-66f1-4fe9-98fa-f0ce319c4650.jpeg" group-title="Cine y Películas",Rakuten Thrillers ¹
+https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
+
+#EXTINF:-1 tvg-chno="533" tvg-logo="https://images-3.rakuthttps://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg" group-title="Cine y Películas",Rakuten Romántico ¹
+https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
+
+#EXTINF:-1 tvg-chno="533" tvg-logo="https://images-2.rakuthttps://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg" group-title="Cine y Películas",Rakuten Acción ¹
+https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
+
+#EXTINF:-1 tvg-chno="533" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/f46d8e24-5150-443b-a370-f938eda185e9.jpeg" group-title="Cine y Películas",Rakuten Comedia ¹
+https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
+
+#EXTINF:-1 tvg-chno="533" tvg-logo="https://imageshttps://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg" group-title="Cine y Películas",Rakuten Drama ¹
+https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
 
 #EXTINF:-1 tvg-chno="535" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/640px-Starz_2008.png" group-title="Cine y Películas",Starz
 http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=120&extension=ts
@@ -1290,27 +1311,6 @@ http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=
 #EXTINF:-1 tvg-chno="541" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Starz_Encore_Westerns.svg/640px-Starz_Encore_Westerns.svg.png" group-title="Cine y Películas",Starz Westerns
 http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=124&extension=ts
 
-#EXTINF:-1 tvg-chno="545" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1024px-Rakuten_TV_logo.svg.png" group-title="Cine y Películas",Rakuten TV ¹
-https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
-
-#EXTINF:-1 tvg-chno="546" tvg-logo="https://images-1.https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg" group-title="Cine y Películas",Rakuten Crimen ¹
-https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8
-
-#EXTINF:-1 tvg-chno="547" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/6183803c-66f1-4fe9-98fa-f0ce319c4650.jpeg" group-title="Cine y Películas",Rakuten Thrillers ¹
-https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
-
-#EXTINF:-1 tvg-chno="548" tvg-logo="https://images-3.rakuthttps://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg" group-title="Cine y Películas",Rakuten Romántico ¹
-https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
-
-#EXTINF:-1 tvg-chno="549" tvg-logo="https://images-2.rakuthttps://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg" group-title="Cine y Películas",Rakuten Acción ¹
-https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
-
-#EXTINF:-1 tvg-chno="550" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/f46d8e24-5150-443b-a370-f938eda185e9.jpeg" group-title="Cine y Películas",Rakuten Comedia ¹
-https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
-
-#EXTINF:-1 tvg-chno="551" tvg-logo="https://imageshttps://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg" group-title="Cine y Películas",Rakuten Drama ¹
-https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
-
 #EXTINF:-1 tvg-chno="552" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png" group-title="Cine y Películas",Cine Familiar ²
 http://190.102.246.93:9005/play/a034
 
@@ -1321,7 +1321,7 @@ http://190.102.246.93:9005/play/a035
 http://190.102.246.93:9005/play/a036
 
 #EXTINF:-1 tvg-chno="555" tvg-logo="https://contenidostv.b-cdn.net/images/clover512.jpg" group-title="Cine y Películas",Clover Channel ²
-http://160.20.165.246:8000/play/a006
+http://181.188.216.5:18000/play/a0eu/index.m3u8
 
 #EXTINF:-1 tvg-chno="556" tvg-logo="https://static.wixstatic.com/media/c5adb2_7a400836c9f84c1fb2143cb9da04d1fb~mv2.png/v1/fill/w_280,h_160,al_c,lg_1,q_85,enc_avif,quality_auto/Image-empty-state.png" group-title="Cine y Películas",MX Family ²
 http://190.102.246.93:9005/play/a03i
