@@ -1111,7 +1111,7 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/11600
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278418.m3u8
 
 #EXTINF:-1 tvg-chno="400" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg" group-title="Cultura y Entretenimiento",E! Entertainment (2) ²
-http://190.83.2.172:8080/play/a02y
+http://38.159.227.124:8000/play/a04p
 
 #EXTINF:-1 tvg-chno="405" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-id_m.png" group-title="Cultura y Entretenimiento",ID Investigation ²
 http://38.159.227.124:8000/play/a04d
@@ -1119,8 +1119,11 @@ http://38.159.227.124:8000/play/a04d
 #EXTINF:-1 tvg-chno="409" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png" group-title="Cultura y Entretenimiento",History Channel ²
 http://38.159.227.124:8000/play/a08z
 
+#EXTINF:-1 tvg-chno="409" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png" group-title="Cultura y Entretenimiento",History Channel ᵇᵘᵈ
+http://budtvlight.com:25461/live/Astro/120388/943502.m3u8
+
 #EXTINF:-1 tvg-chno="410" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Cultura y Entretenimiento",History Channel 2 ²
-http://216.122.181.10:8081/play/a0f6
+http://181.188.216.5:18000/play/a0jj/index.m3u8
 
 #EXTINF:-1 tvg-chno="411" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png" group-title="Cultura y Entretenimiento",NatGeo ²
 http://38.159.227.124:8000/play/a046
@@ -1134,8 +1137,8 @@ http://172.93.102.112:8989/278852_.m3u8
 #EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png" group-title="Cultura y Entretenimiento",Animal Planet ²
 http://190.83.2.172:8080/play/a02x
 
-#EXTINF:-1 tvg-chno="418" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png" group-title="Cultura y Entretenimiento",Home & Health
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=132578&extension=ts
+#EXTINF:-1 tvg-chno="418" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png" group-title="Cultura y Entretenimiento",Home & Health °
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278395.m3u8
 
 #EXTINF:-1 tvg-chno="420" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/370px-TLC_Logo.svg.png" group-title="Cultura y Entretenimiento",TLC
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=3741&extension=ts
