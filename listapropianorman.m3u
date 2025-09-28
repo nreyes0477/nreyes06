@@ -1143,10 +1143,10 @@ http://38.159.227.124:8000/play/a04p
 #EXTINF:-1 tvg-chno="405" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-id_m.png" group-title="Cultura y Entretenimiento",ID Investigation ²
 http://38.159.227.124:8000/play/a04d
 
-#EXTINF:-1 tvg-chno="409" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png" group-title="Cultura y Entretenimiento",History Channel ²
+#EXTINF:-1 tvg-chno="409" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png" group-title="Cultura y Entretenimiento",History Channel (1) ²
 http://38.159.227.124:8000/play/a08z
 
-#EXTINF:-1 tvg-chno="409" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png" group-title="Cultura y Entretenimiento",History Channel °
+#EXTINF:-1 tvg-chno="409" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png" group-title="Cultura y Entretenimiento",History Channel (2) °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/158861.m3u8
 
 #EXTINF:-1 tvg-chno="410" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Cultura y Entretenimiento",History Channel 2 ²
