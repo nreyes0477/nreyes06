@@ -1623,14 +1623,14 @@ http://181.188.216.5:18000/play/a0dn
 #EXTINF:-1 tvg-chno="647" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png" group-title="Deportes",ESPN Sur América 7 ²
 http://181.188.216.5:18000/play/a0pg
 
-#EXTINF:-1 tvg-chno="650" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%20128.png" group-title="Deportes",Fox Sports Sur América ²
-http://190.123.90.146:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-chno="650" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%20128.png" group-title="Deportes",Fox Sports Sur América °
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278766.m3u8
 
 #EXTINF:-1 tvg-chno="651" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%202%20128.png" group-title="Deportes",Fox Sports 2 Sur América ²
 http://181.78.106.127:9000/play/ca032
 
-#EXTINF:-1 tvg-chno="652" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%203%20128.png" group-title="Deportes",Fox Sports 3 Sur América ²
-http://104.238.205.28:8989/278768_.m3u8
+#EXTINF:-1 tvg-chno="652" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%203%20128.png" group-title="Deportes",Fox Sports 3 Sur América °
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278768.m3u8
 
 #EXTINF:-1 tvg-chno="654" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="Deportes",TUDN MX ¹ 🇲🇽
 http://crlive1.service.osllacdn.com/tudnhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
