@@ -199,7 +199,7 @@ https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="69" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png" group-title="24/7 Novelas",Todo Novelas ¹ 🇲🇽 
-https://d2t7ujjc7lurgd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-q0go87ctcenys-ssai-prd/index.m3u8
+https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBC43000013T
 
 #EXTINF:-1 tvg-chno="69" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a3bd552eca6645942a60a053fe61fafb.webp" group-title="24/7 Novelas",Sony Novelas ¹ 🇲🇽 
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
