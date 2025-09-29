@@ -66,13 +66,16 @@ http://163.178.170.127:1935/quinceucr/_definst_/quinceucr.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-logo="https://costaricachannel.org/wp-content/uploads/2022/08/cropped-LOGO-CR-2022-2022-1024x342.png" group-title="Nacionales",Costa Rica Channel ¹ 🇨🇷
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 
-#EXTINF:-1 tvg-chno="26" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telesur-costa-rica.png" group-title="Nacionales",Telesur CR ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="26" tvg-logo="https://substackcdn.com/image/fetch/$s_!sVlU!,w_1272,c_limit,f_webp,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a76daef-b65d-48fc-bae7-4491e0574439_600x600.png" group-title="Nacionales",Impact Channel ¹ 🇨🇷
+https://5fe2654d6127d.streamlock.net:443/impactchannel/videoimpactchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="27" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telesur-costa-rica.png" group-title="Nacionales",Telesur CR ¹ 🇨🇷
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 
-#EXTINF:-1 tvg-chno="27" tvg-logo="https://lossantostv.com/chat/static/img/logo_small.png" group-title="Nacionales",Los Santos TV ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="28" tvg-logo="https://lossantostv.com/chat/static/img/logo_small.png" group-title="Nacionales",Los Santos TV ¹ 🇨🇷
 https://lstv.duckdns.org/hls/lstv.m3u8
 
-#EXTINF:-1 tvg-chno="28" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP1uwaCcllXnyxP9as8wsSMaGamAcjP9mancgvJEwicwrwdBhFs9_txwOhH4ipqmOaTnVzqJSMHtouKwadZiMCIVXfW3vE2En_lfu1EDDuFAblUFMabdEEnmqyD-rvUzRHBNF7VERlrI1QEbvPGWvdSUVAtWZRhOpCRgNCjvrNzTwOG_Mnmuw2nOgAntKY/s400/CANAL%20506%20TV%20PORTADA.png" group-title="Nacionales",Canal 506 TV ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="29" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP1uwaCcllXnyxP9as8wsSMaGamAcjP9mancgvJEwicwrwdBhFs9_txwOhH4ipqmOaTnVzqJSMHtouKwadZiMCIVXfW3vE2En_lfu1EDDuFAblUFMabdEEnmqyD-rvUzRHBNF7VERlrI1QEbvPGWvdSUVAtWZRhOpCRgNCjvrNzTwOG_Mnmuw2nOgAntKY/s400/CANAL%20506%20TV%20PORTADA.png" group-title="Nacionales",Canal 506 TV ¹ 🇨🇷
 https://cp.panelchs.com:1936/crwfnxfxvj/crwfnxfxvj/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="30" tvg-logo="https://www.radioextremacr.com/img/logo.png" group-title="Nacionales",Extrema TV ¹ 🇨🇷
@@ -1494,17 +1497,17 @@ http://200.229.147.210:8000/play/a0as/index.m3u8
 #EXTINF:-1 tvg-chno="603" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports CR (2) ²
 http://200.125.170.120:8000/play/a04f/index.m3u8
 
-#EXTINF:-1 tvg-chno="605" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png" group-title="Deportes",TD+ ᵇᵘᵈ (1) 
-http://budtvlight.com:25461/live/Astro/120388/818636.ts
-
-#EXTINF:-1 tvg-chno="604" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png" group-title="Deportes",TD+ ° (2)
+#EXTINF:-1 tvg-chno="604" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png" group-title="Deportes",TD+ ° (1)
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279375.m3u8
 
-#EXTINF:-1 tvg-chno="605" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-3.png" group-title="Deportes",TD+ 2 ᵇᵘᵈ (1)
-http://budtvlight.com:25461/live/Astro/120388/818648.ts
+#EXTINF:-1 tvg-chno="604" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png" group-title="Deportes",TD+ ᵇ (2)
+http://budtvlight.com:25461/live/Astro/120388/818636.m3u8
 
-#EXTINF:-1 tvg-chno="606" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-3.png" group-title="Deportes",TD+ 2 ° (2)
+#EXTINF:-1 tvg-chno="605" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-3.png" group-title="Deportes",TD+ 2 ° (1)
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279377.m3u8
+
+#EXTINF:-1 tvg-chno="605" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-3.png" group-title="Deportes",TD+ 2 ᵇ (2)
+http://budtvlight.com:25461/live/Astro/120388/818648.ts
 
 #EXTINF:-1 tvg-chno="607" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Centro América ¹
 http://crlivebpk.service.osllacdn.com/espnhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -1533,10 +1536,10 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/159320.m3u8
 #EXTINF:-1 tvg-chno="616" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN 3 MX ° 🇲🇽
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278580.m3u8
 
-#EXTINF:-1 tvg-chno="617" tvg-logo="https://newswhip.sirv.com/WP_www.newswhip.com/2018/02/Espndeportes.png" group-title="Deportes",ESPN Deportes ᵇᵘᵈ 🇺🇲
+#EXTINF:-1 tvg-chno="617" tvg-logo="https://newswhip.sirv.com/WP_www.newswhip.com/2018/02/Espndeportes.png" group-title="Deportes",ESPN Deportes ᵇ 🇺🇲
 http://budtvlight.com:25461/live/Astro/120388/84807.m3u8
 
-#EXTINF:-1 tvg-chno="617" tvg-logo="https://www.razon.com.mx/resizer/v2/BME2ROXV7FFKVG5UGOXC2NAHTQ.jpg?auth=6480282fc3f431758200760caa02731d17cf4931a75271e7a57d4f5b2655282f&smart=true&width=400&height=200&quality=75" group-title="Deportes",Fox Deportes ᵇᵘᵈ 🇺🇲
+#EXTINF:-1 tvg-chno="617" tvg-logo="https://www.razon.com.mx/resizer/v2/BME2ROXV7FFKVG5UGOXC2NAHTQ.jpg?auth=6480282fc3f431758200760caa02731d17cf4931a75271e7a57d4f5b2655282f&smart=true&width=400&height=200&quality=75" group-title="Deportes",Fox Deportes ᵇ 🇺🇲
 http://budtvlight.com:25461/live/Astro/120388/765584.m3u8
 
 #EXTINF:-1 tvg-chno="618" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-04.jpg" group-title="Deportes",Fox Sports MX 🇲🇽
