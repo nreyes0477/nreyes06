@@ -27,7 +27,7 @@ http://crlive1.service.osllacdn.com/multimedioshdcr/vxfmt=dp/playlist.m3u8?devic
 #EXTINF:-1 tvg-chno="9" tvg-logo="https://i.imgur.com/7knekJU.png" group-title="Nacionales",Canal 9 ¹ 🇨🇷
 http://crlive1.service.osllacdn.com/canal9cr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/1200px-Repretel_11_logo.png" group-title="Nacionales",Canal 11 Repretel ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/512px-Repretel_11_logo.png" group-title="Nacionales",Canal 11 Repretel ¹ 🇨🇷
 https://alba-cr-repretel-c11.stream.mediatiquestream.com:443/original.m3u8
 
 #EXTINF:-1 tvg-chno="13" tvg-logo="https://observador.cr/wp-content/uploads/2022/07/Logo-nuevo-canal-13-768x692.png" group-title="Nacionales",Canal 13 Sinart ¹ 🇨🇷
