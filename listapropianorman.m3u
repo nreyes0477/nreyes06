@@ -1572,8 +1572,8 @@ http://199.127.63.143:8989/278765_.m3u8
 #EXTINF:-1 tvg-chno="631" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Chile ᵇᵘ 🇨🇱
 http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/278977.m3u8
 
-#EXTINF:-1 tvg-chno="632" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Colombia ᵇᵘ 🇨🇴 
-http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/299274.m3u8
+#EXTINF:-1 tvg-chno="632" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Colombia 🇨🇴 
+http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/181347.m3u8
 
 #EXTINF:-1 tvg-chno="633" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 Sur América °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278762.m3u8
