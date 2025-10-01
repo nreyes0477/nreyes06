@@ -1560,7 +1560,7 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 #EXTINF:-1 tvg-chno="622" tvg-logo="https://www.westminsterkennelclub.org/wp-content/uploads/2024/02/Asset-1-1.png" group-title="Deportes",Fox Tubi / Caliente TV (México) 🇲🇽
 http://195.66.210.10:8080/live/MarioB08/gSLmZyw3gr/618998.m3u8
 
-#EXTINF:-1 tvg-chno="625" tvg-logo="https://www.westminsterkennelclub.org/wp-content/uploads/2024/02/Asset-1-1.png" group-title="Deportes",Fox Deportes Samsung TV (Latino) ¹ 🇺🇲
+#EXTINF:-1 tvg-chno="625" tvg-logo="https://www.westminsterkennelclub.org/wp-content/uploads/2024/02/Asset-1-1.png" group-title="Deportes",Fox Deportes Pluto TV (Latino) ¹ 🇺🇲
 https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
 
 #EXTINF:-1 tvg-chno="626" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/3/30/HISportslogo.png/revision/latest?cb=20230427055859&path-prefix=es" group-title="Deportes",Hi! Sports TV ᵇᵘ 🇲🇽
