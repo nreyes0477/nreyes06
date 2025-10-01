@@ -1575,8 +1575,8 @@ http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/278977.m3u8
 #EXTINF:-1 tvg-chno="632" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Colombia 🇨🇴 
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/181347.m3u8
 
-#EXTINF:-1 tvg-chno="633" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 Sur América ᵇ
-http://budtvlight.com:25461/live/Tokayo/8595/278762.m3u8
+#EXTINF:-1 tvg-chno="633" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 Sur América ᵇᵘ
+http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/278762.m3u8
 
 #EXTINF:-1 tvg-chno="634" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN 3 Sur América ᵇᵘ
 http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/278763.m3u8
