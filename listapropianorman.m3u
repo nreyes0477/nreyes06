@@ -1701,23 +1701,20 @@ http://172.93.102.112:8989/278843_.m3u8
 #EXTINF:-1 tvg-chno="678" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_deportes-mediano.png" group-title="Deportes",Deportes por Movistar + °🇪🇸
 http://172.93.102.112:8989/278862_.m3u8
 
-#EXTINF:-1 tvg-chno="679" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png" group-title="Deportes",TyC Sports ² 🇦🇷
-http://181.78.201.70:8000/play/a0fq/index.m3u8
+#EXTINF:-1 tvg-chno="679" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png" group-title="Deportes",TyC Sports ° 🇦🇷
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278778.m3u8
 
-#EXTINF:-1 tvg-chno="679" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png" group-title="Deportes",TyC Sports USA 🇺🇸
-http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/155679.m3u8
+#EXTINF:-1 tvg-chno="679" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png" group-title="Deportes",TyC Sports USA ° 🇺🇸
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278779.m3u8
 
-#EXTINF:-1 tvg-chno="679" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png" group-title="Deportes",TyC Sports Internacional 🇦🇷
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=145441&extension=ts
+#EXTINF:-1 tvg-chno="679" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png" group-title="Deportes",TNT Sports ° 🇦🇷
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278776.m3u8
 
-#EXTINF:-1 tvg-chno="679" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png" group-title="Deportes",TNT Sports 🇦🇷
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=131980&extension=ts
+#EXTINF:-1 tvg-chno="679" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png" group-title="Deportes",TNT Sports ᵇᵘ 🇨🇱
+http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/278989.m3u8
 
-#EXTINF:-1 tvg-chno="679" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png" group-title="Deportes",TNT Sports ² 🇨🇱
-http://38.41.8.1:8000/play/a0vm
-
-#EXTINF:-1 tvg-chno="679" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsportsPremium256.png" group-title="Deportes",TNT Sports Premium 🇨🇱 
-http://m3u.tvcluboficial.com/free/Jose_Mejia/V3f/1128.m3u8
+#EXTINF:-1 tvg-chno="679" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsportsPremium256.png" group-title="Deportes",TNT Sports Premium ᵇᵘ 🇨🇱 
+http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/278991.m3u8
 
 #EXTINF:-1 tvg-chno="680" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_mobile_ORIGINAL.png" group-title="Deportes",ECDF ² 🇪🇨
 http://38.44.109.41:8003/play/a038/index.m3u8
