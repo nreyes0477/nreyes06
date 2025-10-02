@@ -813,7 +813,7 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 #EXTINF:-1 tvg-chno="276" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1403px-Logo_TVE-Internacional.svg.png" group-title="España",TVE Internacional ¹ 🇪🇸
 https://rtvelivestream.rtve.es/rtvesec/int/tvei_ame_main_dvr.m3u8
 
-#EXTINF:-1 tvg-chno="277" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/logos/FuboSports_Logo_OneColor_box_rgb.png?w=300&ch=width&auto=format,compress" group-title="USA Latino",Fubo Latino 🇺🇸
+#EXTINF:-1 tvg-chno="277" tvg-logo="https://assets.goal.com/images/v3/blt144b49ad54084289/new%20fubo%20latino%20logo.jpg?auto=webp&format=pjpg&width=3840&quality=60" group-title="USA Latino",Fubo Latino 🇺🇸
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=194161&extension=ts
 
 #EXTINF:-1 tvg-chno="278" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png" group-title="USA Latino",NBC Universo ² 🇺🇸
