@@ -231,6 +231,9 @@ https://amg01602-amg01602c2-canelatv-international-5561.playouts.now.amagi.tv/pl
 #EXTINF:-1 tvg-chno="69" tvg-logo="https://images.hamshahrionline.ir/images/2013/2/atv.jpg" group-title="24/7 Novelas",ATV Novelas Turcas 🇹🇷
 http://m3u.tvcluboficial.com/free/Jose_Mejia/V3f/1120.m3u8
 
+#EXTINF:-1 tvg-chno="69" tvg-logo="http://eltopcolombia.com/wp-content/uploads/2022/05/unnamed-30.png" group-title="24/7 Novelas",Canela Novelas Turcas 🇹🇷
+https://amg00658-amg00658c102-canelatv-international-7231.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelasturcas-canelatvinternational/playlist.m3u8?rights_holder_id=novelas-turcas&user_id=&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=0e7a5e4a-779f-4c37-abbd-b5cf77b4407c&url=https://canela.tv/player/channel/novelas-turcas&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
+
 #EXTINF:-1 tvg-chno="69" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/nova-en-directo-online-y-en-vivo.png" group-title="24/7 Novelas",Nova ² 🇪🇸
 http://185.189.225.150:85/nova/index.m3u8
 
@@ -492,8 +495,8 @@ https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-chno="153" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/ADN-40-en-vivo-Online.png?zoom=3&resize=324%2C235&ssl=1" group-title="Noticias",ADN 40 ¹ 🇲🇽
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-chno="156" tvg-logo="https://i.imgur.com/kARz7SR.png" group-title="Noticias",Meganoticias MX 🇲🇽
-http://smarterstv99.dyndns.tv:25461/streaming/clients_live.php?username=Miguelmoreno&password=jg8AwXkZL2yE&stream=269605&extension=ts
+#EXTINF:-1 tvg-chno="156" tvg-logo="https://cdn2.telediario.mx/uploads/media/2025/05/02/autor-telediario-cdmx.jpg" group-title="Noticias",Telediario MX ¹ 🇲🇽
+https://amg00658-amg00658c70-canelatv-international-5558.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-telediarionowmultimediosappta-canelatvinternational/playlist.m3u8?rights_holder_id=telediario-now&user_id=&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=0e7a5e4a-779f-4c37-abbd-b5cf77b4407c&url=https://canela.tv/player/channel/telediario-now&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
 
 #EXTINF:-1 tvg-chno="157" tvg-logo="https://img.asmedia.epimg.net/resizer/kYJ1YW8zmMp2x-ecORU978Y0jEk=/1288x725/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/EW3U7NAIBNCOZCYGAGD3NYY54A.jpg" group-title="Noticias",N + ¹ 🇲🇽
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
