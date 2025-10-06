@@ -216,8 +216,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:-1 tvg-chno="69" tvg-logo="https://www.stormcastcinema.com/images/novelas.png" group-title="24/7 Novelas",Stormcast Novelas ¹ 🇪🇸
 https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://cdn.mitvstatic.com/channels/ar_pasiones_m.png" group-title="24/7 Novelas",Pasiones
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7685&stream=13258&extension=ts
+#EXTINF:-1 tvg-chno="69" tvg-logo="https://cdn.mitvstatic.com/channels/ar_pasiones_m.png" group-title="24/7 Novelas",Pasiones ² 🇺🇸
+http://190.102.246.93:9005/play/a01b
 
 #EXTINF:-1 tvg-chno="69" tvg-logo="https://1.bp.blogspot.com/-jslL1CIeqqk/YaVCAmvGxvI/AAAAAAAADDo/wPaGYipC7Eo_6NVRuL0XESV1lzjq6xhLgCLcBGAsYHQ/s16000/rcnmas.jpg" group-title="24/7 Novelas",RCN Más + ¹ 🇨🇴
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
@@ -225,7 +225,7 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="69" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXjJn9sSNrZSuqtwTm5DGor-M4uLoIrwfjh7yn22xVG9bl4mJw1rK2gY-wehuSSirTbgN6uEQHdFUn1Giq__TPYaj1USXHSmowkGcq89eGeW14s0uj3VjYje6egHRB5B0NVTB_bwwDg6TxRYv0NjxOEwDUwCbf5nRVcmZV6qN4NJd-J83LOFM-zvuI/w200-h151/RCN_Novelas_logo_2019.png" group-title="24/7 Novelas",RCN Novelas ² 🇨🇴
 http://181.78.23.26:45000/play/a01u
 
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://i4.hurimg.com/i/hurriyet/75/600x338/5dbd043ed3806c1dec53824d.jpg" group-title="24/7 Novelas",Kanal Drama ¹
+#EXTINF:-1 tvg-chno="69" tvg-logo="https://i4.hurimg.com/i/hurriyet/75/600x338/5dbd043ed3806c1dec53824d.jpg" group-title="24/7 Novelas",Kanal Drama ¹ 🇹🇷
 https://amg01602-amg01602c2-canelatv-international-5561.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-themavivekanalddrama-canelatvinternational/playlist.m3u8?rights_holder_id=vive-kanal-d-drama&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=0e5adb91-3380-43f4-afa6-574df288f505&url=https://www.canela.tv/player/channel/vive-kanal-d-drama&us_privacy=null_us_privacy&coppa=0&ifa_type=NA&lmt=NA&device_language=es
 
 #EXTINF:-1 tvg-chno="69" tvg-logo="https://images.hamshahrionline.ir/images/2013/2/atv.jpg" group-title="24/7 Novelas",ATV Novelas Turcas 🇹🇷
