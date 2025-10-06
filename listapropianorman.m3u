@@ -757,7 +757,7 @@ https://stream.giostreaming.net:19360/canal11/canal11.m3u8
 https://alba-sv-c12-c12.stream.mediatiquestream.com:443/original.m3u8
 
 #EXTINF:-1 tvg-chno="263" tvg-logo="https://logos.streamsites.eu/2756_tve-en-directo-la-1_overview.png" group-title="España",La 1 ¹ 🇪🇸
-https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
+https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-chno="264" tvg-logo="https://logos.streamsites.eu/2894_la-2-en-directo_overview.png" group-title="España",La 2 ¹ 🇪🇸
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
