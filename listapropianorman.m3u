@@ -1060,7 +1060,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=126536&extension=ts
 
 #EXTINF:-1 tvg-chno="372" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/america-teve.png?zoom=2&resize=218%2C150&ssl=1" group-title="Puerto Rico",América TeVe Miami ¹ 🇵🇷
-https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
+https://live.gideo.video/americateve2/master.m3u8
 
 #EXTINF:-1 tvg-chno="373" tvg-logo="https://www.spanishbroadcasting.com/wp-content/uploads/sites/5/2020/12/thumbnail_pr-feature-thumbnail-megatv-ratings.jpg" group-title="Puerto Rico",Mega TV 🇵🇷
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=126535&extension=ts
