@@ -81,6 +81,9 @@ https://cp.panelchs.com:1936/crwfnxfxvj/crwfnxfxvj/playlist.m3u8
 #EXTINF:-1 tvg-chno="30" tvg-logo="https://www.radioextremacr.com/img/logo.png" group-title="Nacionales",Extrema TV ¹ 🇨🇷
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="30" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/san-jose-tv-costa-rica.png" group-title="Nacionales",San José TV ¹ 🇨🇷
+https://rtmp.info/sanjosetv/envivo/chunklist_w2092057186.m3u8
+
 #EXTINF:-1 tvg-chno="31" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGLhhtg5NJMWt3KwH3VG7flKs9C2E1wdf9Y4ICHz8J0GEMXa4fNvkEr_-JiwX8PEzX2ibjkta0fvSBwaGbzF4RnJewHVmBQ82JnUR3Ce2bUI_Do3Q1kHIe9HWMUY_5UvIfN_Nnwri3CEd-dZG7bJNyOVtrfg4sAO8zmaX_T8ZnNdSiAucNMMLDk8PCLz4I/s600/TURRIALBA%20LOGO%20PORTADA%202.png" group-title="Nacionales",Radio Turrialba TV ¹ 🇨🇷
 https://acceso.radiosportstv.online:3723/live/radioturrialbatvlive.m3u8
 
