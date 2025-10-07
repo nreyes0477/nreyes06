@@ -660,8 +660,8 @@ https://5fe2654d6127d.streamlock.net:443/boliviatv/videoboliviatv/chunklist_w985
 #EXTINF:-1 tvg-chno="229" tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/logoaweb.png" group-title="Bolivia",Cadena A ² 🇧🇴
 http://45.225.75.8:81/play/tdt09/index.m3u8
 
-#EXTINF:-1 tvg-chno="230" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png" group-title="Chile",Chilevisión 🇨🇱
-http://00322.xyz:8000/live/jieseialberto/XHBR21BVCB/135058.m3u8
+#EXTINF:-1 tvg-chno="230" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png" group-title="Chile",Chilevisión ² 🇨🇱
+http://170.239.207.48:4050/play/CH64
 
 #EXTINF:-1 tvg-chno="231" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png" group-title="Chile",TVN ² 🇨🇱
 http://181.78.201.70:8000/play/a0g9/index.m3u8
@@ -1028,6 +1028,9 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 
 #EXTINF:-1 tvg-chno="355" tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png" group-title="Paraguay",Unicanal 🇵🇾 
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=125965&extension=ts
+
+#EXTINF:-1 tvg-chno="356" tvg-logo="https://americatv.com.py/wp-content/uploads/2023/07/cropped-logoinicio-1.png" group-title="Paraguay", América Tv PY ² 🇵🇾 
+http://181.78.23.26:45000/play/a029
 
 #EXTINF:-1 tvg-chno="360" tvg-logo="https://gzcsecurity.com/img/nosotros/seguridad/americatv-min.jpg" group-title="Perú",América TV ² 🇵🇪
 http://170.239.207.48:4050/play/CH54
