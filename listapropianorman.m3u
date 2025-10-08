@@ -429,6 +429,9 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 #EXTINF:-1 tvg-chno="99" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Alerta Aeropuerto (2)
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2384897.m3u8
 
+#EXTINF:-1 tvg-chno="130" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Noticias",📡 Mosaico Noticias ᵇ 📡
+http://budtvlight.com:25461/live/Astro/120388/952323.ts
+
 #EXTINF:-1 tvg-chno="130" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cnn-en-espanol_m.png" group-title="Noticias",CNN Español ¹ 🇺🇸
 https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8?ads_amagi_channel=948&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6425&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=1886cc8a-1918-4702-8b48-cd6e823acf3d&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
@@ -1425,6 +1428,9 @@ http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://methodgroupe.com/wp-content/uploads/2020/08/Client-logos_0030_170124_ClientLogos_16.png" group-title="Cine y Películas",HBO Latino
 http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=105&extension=ts
 
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Cine y Películas",📡 Mosaico HBO Norte ᵇ 📡
+http://budtvlight.com:25461/live/Astro/120388/945326.ts
+
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo.png" group-title="Cine y Películas",HBO Norte ²
 http://45.184.87.142:8000/play/a04k
 
@@ -1493,6 +1499,9 @@ http://38.159.227.124:8000/play/a02x
 
 #EXTINF:-1 tvg-chno="599" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1646691382488-Imagen.jpg" group-title="Cine y Películas",Universal Reality ²
 http://38.159.227.124:8000/play/a02y
+
+#EXTINF:-1 tvg-chno="600" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Deportes",📡 Mosaico Deportes ᵇ 📡
+http://budtvlight.com:25461/live/Astro/120388/945320.ts
 
 #EXTINF:-1 tvg-chno="600" tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes",Futv (1) ²
 http://190.92.10.66:4000/play/a00c
