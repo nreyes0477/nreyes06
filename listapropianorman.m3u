@@ -441,7 +441,7 @@ https://estrella-news-oando.amagi.tv:443/playlistR1080p.m3u8
 #EXTINF:-1 tvg-chno="132" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/NoticiasUnivision247.png/revision/latest?cb=20211012054124" group-title="Noticias",24/7 Noticias Univisión ¹ 🇺🇸
 https://linear-254.frequency.stream:443/mt/studio/254/hls/master/playlist_1280x720.m3u8
 
-#EXTINF:-1 tvg-chno="133" tvg-logo="https://i.postimg.cc/T1qXxt1F/noticiast.jpg" group-title="Noticias",Telemumdo Noticias Ahora ¹ 🇺🇸
+#EXTINF:-1 tvg-chno="133" tvg-logo="https://i.postimg.cc/T1qXxt1F/noticiast.jpg" group-title="Noticias",Telemundo Noticias Ahora ¹ 🇺🇸
 https://d3fs8vk5kl4cwc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qeuu0ja680vad/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US3000005RS
 
 #EXTINF:-1 tvg-chno="133" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png" group-title="Noticias",Telemundo Noticias CA ¹ 🇺🇸
