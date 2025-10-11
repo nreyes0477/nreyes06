@@ -1656,8 +1656,8 @@ http://crlive1.service.osllacdn.com/tudnhdcr/vxfmt=dp/playlist.m3u8?device_profi
 #EXTINF:-1 tvg-chno="654" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="Deportes",TUDN México ᵇᵘ 🇲🇽
 http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/278559.m3u8
 
-#EXTINF:-1 tvg-chno="655" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="Deportes",TUDN USA ᵇᵘ 🇺🇸
-http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/278571.m3u8
+#EXTINF:-1 tvg-chno="655" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="Deportes",TUDN USA ᵇ 🇺🇸
+http://budtvlight.com:25461/live/Astro/120388/2295.m3u8
 
 #EXTINF:-1 tvg-chno="656" tvg-logo="https://iili.io/J2wureR.png" group-title="Deportes",Zona TUDN USA 🇺🇸
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=78280&extension=ts
