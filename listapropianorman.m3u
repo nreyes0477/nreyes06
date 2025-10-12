@@ -744,14 +744,14 @@ https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/smartphone/playli
 #EXTINF:-1 tvg-chno="259" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/TCS_2_2016.png/300px-TCS_2_2016.png"group-title="El Salvador",Canal 2 ¹ 🇸🇻
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 
-#EXTINF:-1 tvg-chno="260" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/640px-Canal_4_TCS.png" group-title="El Salvador",Canal 4 🇸🇻
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=126540&extension=ts
+#EXTINF:-1 tvg-chno="260" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/640px-Canal_4_TCS.png" group-title="El Salvador",Canal 4 ° 🇸🇻
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279336.m3u8
 
 #EXTINF:-1 tvg-chno="261" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-6-El-Salvador-en-vivo-Online.png" group-title="El Salvador",Canal 6 ¹ 🇸🇻
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 
 #EXTINF:-1 tvg-chno="261" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tutvcanal11.png/330px-Tutvcanal11.png" group-title="El Salvador",TUTV Canal 11 ¹ 🇸🇻
-https://stream.giostreaming.net:19360/canal11/canal11.m3u8
+https://stream.giostreaming.app:19360/canal11/canal11.m3u8
 
 #EXTINF:-1 tvg-chno="262" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CANAL_12_2023_VA_CON_VOS.png/500px-CANAL_12_2023_VA_CON_VOS.png" group-title="El Salvador",Canal 12 ¹ 🇸🇻
 https://alba-sv-c12-c12.stream.mediatiquestream.com:443/original.m3u8
@@ -762,8 +762,8 @@ https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr_720.m3u8
 #EXTINF:-1 tvg-chno="264" tvg-logo="https://logos.streamsites.eu/2894_la-2-en-directo_overview.png" group-title="España",La 2 ¹ 🇪🇸
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 
-#EXTINF:-1 tvg-chno="265" tvg-logo="https://logos.streamsites.eu/2516_antena3_overview.png" group-title="España",Antena 3 ° 🇪🇸
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/166511.m3u8
+#EXTINF:-1 tvg-chno="265" tvg-logo="https://logos.streamsites.eu/2516_antena3_overview.png" group-title="España",Antena 3 ᵇ 🇪🇸
+http://budtvlight.com:25461/live/Tokayo/8595/817306.m3u8
 
 #EXTINF:-1 tvg-chno="266" tvg-logo="https://logos.streamsites.eu/2551_cuatro_overview.png" group-title="España",Cuatro ° 🇪🇸
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278808.m3u8
@@ -916,7 +916,7 @@ http://172.93.102.112:8989/279280_.m3u8
 https://mediacp.us:8081/ctvhn/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="310" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal10Honduras2019.png/revision/latest/scale-to-width-down/250?cb=20190604153849" group-title="Honduras",Ten 🇭🇳
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13334&extension=ts
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/194.m3u8
 
 #EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno ᵇ 🇲🇽
 http://budtvlight.com:25461/live/Astro/120388/764616.m3u8
