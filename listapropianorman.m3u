@@ -639,14 +639,14 @@ http://181.78.201.70:8000/play/a0mu/index.m3u8
 #EXTINF:-1 tvg-chno="222" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/ATB-en-vivo-Online.png" group-title="Bolivia",ATB ² 🇧🇴
 http://45.225.75.8:81/play/tdt01
 
-#EXTINF:-1 tvg-chno="223" tvg-logo="https://3.bp.blogspot.com/-OFbQmNvw9ns/XCFQN1j9pUI/AAAAAAAAHOU/_HbtJbA4x-ADtnD5ol6JDZmTrRmZCtOSgCLcBGAs/w350-h350-p-k-no-nu/Bolivision%2Ben%2Bvivo.png" group-title="Bolivia",Bolivisión ² 🇧🇴 
-http://45.225.75.8:81/play/tdt02/index.m3u8
+#EXTINF:-1 tvg-chno="223" tvg-logo="https://3.bp.blogspot.com/-OFbQmNvw9ns/XCFQN1j9pUI/AAAAAAAAHOU/_HbtJbA4x-ADtnD5ol6JDZmTrRmZCtOSgCLcBGAs/w350-h350-p-k-no-nu/Bolivision%2Ben%2Bvivo.png" group-title="Bolivia",Bolivisión ¹ 🇧🇴 
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-chno="225" tvg-logo="https://static-media.streema.com/media/cache/c4/42/c442ed13a23c1f824bfdb25ab0b1397a.jpg" group-title="Bolivia",Gigavisión ¹ 🇧🇴
-https://tv2.bitstreaming.net:3896/multi_web/play.m3u8
+https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8
 
-#EXTINF:-1 tvg-chno="226" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/New_Unitel_logo_HD.jpg" group-title="Bolivia",Unitel ² 🇧🇴 
-http://45.225.75.8:81/play/tdt08/index.m3u8
+#EXTINF:-1 tvg-chno="226" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/New_Unitel_logo_HD.jpg" group-title="Bolivia",Unitel ᵇ 🇧🇴 
+http://budtvlight.com:25461/live/Tokayo/8595/62787.m3u8
 
 #EXTINF:-1 tvg-chno="227" tvg-logo="https://4.bp.blogspot.com/--7IX2NCKelU/XCFC17d96gI/AAAAAAAAHN0/u3Qj0frMRGMNHKWr3dpKYJfCbbo94kANACLcBGAs/w350-h350-p-k-no-nu/Red%2BUno%2Ben%2Bvivo.png" group-title="Bolivia",Red Uno ² 🇧🇴 
 http://45.225.75.8:81/play/a0vd/index.m3u8
