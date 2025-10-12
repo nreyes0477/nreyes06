@@ -661,7 +661,7 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 http://170.239.207.48:4050/play/CH64
 
 #EXTINF:-1 tvg-chno="231" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png" group-title="Chile",TVN ² 🇨🇱
-http://181.78.201.70:8000/play/a0g9/index.m3u8
+http://190.60.37.118:4000/play/a00j
 
 #EXTINF:-1 tvg-chno="232" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png" group-title="Chile",Canal 13 ² 🇨🇱
 http://181.78.201.70:8000/play/a0pd/index.m3u8
