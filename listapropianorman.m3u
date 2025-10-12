@@ -652,7 +652,7 @@ http://budtvlight.com:25461/live/Tokayo/8595/62787.m3u8
 http://45.225.75.8:81/play/a0vd/index.m3u8
 
 #EXTINF:-1 tvg-chno="228" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Bolivia",Bolivia TV ¹ 🇧🇴
-https://5fe2654d6127d.streamlock.net:443/boliviatv/videoboliviatv/chunklist_w985377986.m3u8
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="229" tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/logoaweb.png" group-title="Bolivia",Cadena A ² 🇧🇴
 http://45.225.75.8:81/play/tdt09/index.m3u8
