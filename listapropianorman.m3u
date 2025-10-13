@@ -525,8 +525,8 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8?uid=5dAe2f
 #EXTINF:-1 tvg-chno="163" tvg-logo="https://images.pluto.tv/channels/67d9b0ebc290c9499046e88f/colorLogoPNG_1747143716006.png" group-title="Noticias",Noticias RCN ¹ 🇨🇴 
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/67d9b0ebc290c9499046e88flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 tvg-chno="166" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Noticias",TV Perú Noticias ¹ 🇵🇪
-https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+#EXTINF:-1 tvg-chno="166" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Noticias",TV Perú Noticias 🇵🇪
+http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/155853.m3u8
 
 #EXTINF:-1 tvg-chno="166" tvg-logo="https://assets.wikiwand.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Latina_Noticias_Noviembre_2024.svg/langes-420px-Latina_Noticias_Noviembre_2024.svg.png&w=828&q=80" group-title="Noticias",Latina Noticias ¹ 🇵🇪
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8?dpssid=b131176395625465cbd92084d9a&sid=ba5t1l1xb2897089257685f608fe3da5&ndvc=0
@@ -1066,7 +1066,7 @@ https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278891.m3u8
 
 #EXTINF:-1 tvg-chno="368" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/peru_magico-mediano.png" group-title="Perú",Perú Mágico 🇵🇪
-http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/155853.m3u8
+http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/86477.m3u8
 
 #EXTINF:-1 tvg-chno="369" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/telemundo-puerto-rico-en-vivo-1391.png" group-title="Puerto Rico",Telemundo Puerto Rico ¹ 🇵🇷
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
