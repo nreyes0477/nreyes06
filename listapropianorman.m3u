@@ -993,20 +993,23 @@ https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 #EXTINF:-1 tvg-chno="337" tvg-logo="https://logosnicas.com/wp-content/uploads/2024/02/wtv_canal_20_nueva_guinea.png" group-title="Nicaragua",WTV 20 ¹ 🇭🇳
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
-#EXTINF:-1 tvg-chno="338" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png" group-title="Panamá",Tv Max ᵇᵘ 🇵🇦
-http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/279309.m3u8
+#EXTINF:-1 tvg-chno="338" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png" group-title="Panamá",Tv Max 🇵🇦
+http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/343382.m3u8
 
-#EXTINF:-1 tvg-chno="341" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png" group-title="Panamá",TVN ² ᵇᵘ 🇵🇦
-http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/279310.m3u8
+#EXTINF:-1 tvg-chno="341" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png" group-title="Panamá",TVN ² 🇵🇦
+http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/343381.m3u8
 
-#EXTINF:-1 tvg-chno="342" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/300px-Logo-telemetro.svg.png" group-title="Panamá",Telemetro ᵇᵘ 🇵🇦
-http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/279307.m3u8
+#EXTINF:-1 tvg-chno="342" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/300px-Logo-telemetro.svg.png" group-title="Panamá",Telemetro 🇵🇦
+http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/86501.m3u8
 
-#EXTINF:-1 tvg-chno="343" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/RPC-en-vivo-Online.png?resize=1068%2C601&ssl=1" group-title="Panamá",RPC ᵇᵘ 🇵🇦
-http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/279305.m3u8
+#EXTINF:-1 tvg-chno="343" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/RPC-en-vivo-Online.png?resize=1068%2C601&ssl=1" group-title="Panamá",RPC 🇵🇦
+http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/86500.m3u8
 
 #EXTINF:-1 tvg-chno="344" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/NEX-TV-Panam%C3%A1-en-vivo-Online.png?zoom=3&resize=218%2C150&ssl=1" group-title="Panamá",Next TV ¹ 🇵🇦
 https://vcp8.myplaytv.com:1936/nextv/nextv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="345" tvg-logo="https://pro2-bar-s3-cdn-cf6.myportfolio.com/43597c77-0aca-4e9f-a5fe-762b0f5b6e0f/053c9810-3701-4083-89ff-35a6a1bed8ae_rw_1200.jpg?h=678f6e56b2916be42a75898ad08636fd" group-title="Panamá",Eco TV 🇵🇦
+http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/86505.m3u8
 
 #EXTINF:-1 tvg-chno="350" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png" group-title="Paraguay",Paraguay TV ¹ 🇵🇾
 https://stream.paraguaytv.gov.py/memfs/400fcc83-8f04-4497-8011-150847d44702.m3u8
@@ -1771,7 +1774,7 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 http://m3u.tvcluboficial.com/free/Jose_Mejia/V3f/905.m3u8
 
 #EXTINF:-1 tvg-chno="686" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos.png?resize=600%2C360&ssl=1" group-title="Deportes",Cableonda 🇵🇦 
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=151800&extension=ts
+http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/295027.m3u8
 
 #EXTINF:-1 tvg-chno="687" tvg-logo="https://img.streann.com/streann-img/admin/image/1746888232702.png?height=50" group-title="Deportes",Deportes TVC ᵇ 🇭🇳
 http://budtvlight.com:25461/live/Astro/120388/819218.ts
