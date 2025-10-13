@@ -1059,7 +1059,7 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 #EXTINF:-1 tvg-chno="365" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/500px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Perú",Tv Perú ² 🇵🇪
 http://181.188.216.5:18000/play/a0qn/index.m3u8
 
-#EXTINF:-1 tvg-chno="366" tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png" group-title="Perú",ATV ¹ 🇵🇪
+#EXTINF:-1 tvg-chno="366" tvg-logo="https://alba-pe-atv.cdn.mediatiquepress.com/wp-content/uploads/2025/01/ATVpe_Logo-1-150x58.png" group-title="Perú",ATV ¹ 🇵🇪
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-chno="367" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="Perú",Canal N ° 🇵🇪
