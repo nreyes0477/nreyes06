@@ -1044,11 +1044,11 @@ http://181.78.23.26:45000/play/a029
 #EXTINF:-1 tvg-chno="360" tvg-logo="https://gzcsecurity.com/img/nosotros/seguridad/americatv-min.jpg" group-title="Perú",América TV ² 🇵🇪
 http://170.239.207.48:4050/play/CH54
 
-#EXTINF:-1 tvg-chno="361" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Perú",Latina ² 🇵🇪
-http://38.41.8.1:8000/play/a0t8
+#EXTINF:-1 tvg-chno="361" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Perú",Latina ¹ 🇵🇪
+https://jireh-6-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?dpssid=b2119593347468ec9852a6702&sid=ba5t1l1xb249976663568ec9852a6701&ndvc=1
 
 #EXTINF:-1 tvg-chno="362" tvg-logo="https://cdn.mitvstatic.com/channels/pe_panamericana-tv_m.png" group-title="Perú",Panamericana ² 🇵🇪
-http://200.60.124.20:29000/play/a04s/index.m3u8
+http://38.183.182.166:8000/play/a0ii/index.m3u8
 
 #EXTINF:-1 tvg-chno="363" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Radio_Programas_del_Per%C3%BA_logo.svg/500px-Radio_Programas_del_Per%C3%BA_logo.svg.png" group-title="Perú",RPP 🇵🇪
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/10633.m3u8
@@ -1056,8 +1056,8 @@ http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/10633.m3u8
 #EXTINF:-1 tvg-chno="364" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/800px-LaTele_Per%C3%BA_2018_Logo.png" group-title="Perú",La Tele ¹ 🇵🇪
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=151451&extension=ts
 
-#EXTINF:-1 tvg-chno="365" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/500px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Perú",Tv Perú ¹ 🇵🇪
-https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+#EXTINF:-1 tvg-chno="365" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/500px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Perú",Tv Perú ² 🇵🇪
+http://181.188.216.5:18000/play/a0qn/index.m3u8
 
 #EXTINF:-1 tvg-chno="366" tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png" group-title="Perú",ATV ¹ 🇵🇪
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
