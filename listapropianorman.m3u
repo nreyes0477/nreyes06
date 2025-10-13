@@ -747,8 +747,8 @@ https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/smartphone/playli
 #EXTINF:-1 tvg-chno="259" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/TCS_2_2016.png/300px-TCS_2_2016.png"group-title="El Salvador",Canal 2 ¹ 🇸🇻
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 
-#EXTINF:-1 tvg-chno="260" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/640px-Canal_4_TCS.png" group-title="El Salvador",Canal 4 ° 🇸🇻
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279336.m3u8
+#EXTINF:-1 tvg-chno="260" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/640px-Canal_4_TCS.png" group-title="El Salvador",Canal 4 🇸🇻
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/545.m3u8
 
 #EXTINF:-1 tvg-chno="261" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-6-El-Salvador-en-vivo-Online.png" group-title="El Salvador",Canal 6 ¹ 🇸🇻
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
@@ -1788,8 +1788,8 @@ http://m3u.tvcluboficial.com/free/Jose_Mejia/V3f/905.m3u8
 #EXTINF:-1 tvg-chno="686" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos.png?resize=600%2C360&ssl=1" group-title="Deportes",Cableonda 🇵🇦 
 http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/295027.m3u8
 
-#EXTINF:-1 tvg-chno="687" tvg-logo="https://img.streann.com/streann-img/admin/image/1746888232702.png?height=50" group-title="Deportes",Deportes TVC ᵇ 🇭🇳
-http://budtvlight.com:25461/live/Astro/120388/819218.ts
+#EXTINF:-1 tvg-chno="687" tvg-logo="https://img.streann.com/streann-img/admin/image/1746888232702.png?height=50" group-title="Deportes",Deportes TVC 🇭🇳
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/6.m3u8
 
 #EXTINF:-1 tvg-chno="688" tvg-logo="https://bunny-wp-pullzone-3tijjyzerc.b-cdn.net/wp-content/uploads/2025/01/Copy-of-Partnership-Blog-cover-rebrand_1104x860-15.png" group-title="Deportes",Azteca Deportes ² 🇲🇽
 http://190.60.33.245:4002/play/a0hw
