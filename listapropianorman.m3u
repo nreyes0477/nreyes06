@@ -895,7 +895,7 @@ http://103.111.40.242:9999/play/a02i
 http://190.116.38.19:9090/play/a04c/index.m3u8
 
 #EXTINF:-1 tvg-chno="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_5_HN_logo.png/180px-Canal_5_HN_logo.png" group-title="Honduras",Canal 5 🇭🇳
-http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/711445.m3u8
+http://go.iptvhn.net:25461/live/7785/7785/13145.m3u8
 
 #EXTINF:-1 tvg-chno="301" tvg-logo="https://canal6hn.com/wp-content/uploads/2025/03/1000x1000.png" group-title="Honduras",Canal 6 ¹ 🇭🇳
 https://envivo.canal6.com.hn/memfs/5a536b3e-954a-4124-a17a-d94bbd0968a2.m3u8
@@ -1789,7 +1789,7 @@ http://m3u.tvcluboficial.com/free/Jose_Mejia/V3f/905.m3u8
 http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/295027.m3u8
 
 #EXTINF:-1 tvg-chno="687" tvg-logo="https://img.streann.com/streann-img/admin/image/1746888232702.png?height=50" group-title="Deportes",Deportes TVC 🇭🇳
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/6.m3u8
+http://go.iptvhn.net:25461/live/7785/7785/13169.m3u8
 
 #EXTINF:-1 tvg-chno="688" tvg-logo="https://bunny-wp-pullzone-3tijjyzerc.b-cdn.net/wp-content/uploads/2025/01/Copy-of-Partnership-Blog-cover-rebrand_1104x860-15.png" group-title="Deportes",Azteca Deportes ² 🇲🇽
 http://190.60.33.245:4002/play/a0hw
