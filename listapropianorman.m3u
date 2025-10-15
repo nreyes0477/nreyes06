@@ -930,11 +930,8 @@ http://budtvlight.com:25461/live/Astro/120388/814156.m3u8
 #EXTINF:-1 tvg-chno="313" tvg-logo="https://mexio.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno -1hr ¹ 🇲🇽
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 
-#EXTINF:-1 tvg-chno="314" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png" group-title="México",Azteca 7 ² 🇲🇽
-http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="315" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png" group-title="México",Azteca 7 🇲🇽
-http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/557730.m3u8
+#EXTINF:-1 tvg-chno="315" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png" group-title="México",Azteca 7 * 🇲🇽
+http://go.iptvhn.net:25461/live/7785/7785/13366.m3u8
 
 #EXTINF:-1 tvg-chno="316" tvg-logo="https://digitalcontent.prensariozone.com/wp-content/uploads/2021/10/Azteca_logo_trans_516x287.png" group-title="México",Azteca Internacional ¹ 🇲🇽
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
@@ -1672,7 +1669,7 @@ http://crlive1.service.osllacdn.com/tudnhdcr/vxfmt=dp/playlist.m3u8?device_profi
 http://190.61.114.186:8000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-chno="655" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="Deportes",TUDN USA 🇺🇸
-http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/86260.m3u8
+http://go.iptvhn.net:25461/live/7785/7785/234.m3u8
 
 #EXTINF:-1 tvg-chno="656" tvg-logo="https://iili.io/J2wureR.png" group-title="Deportes",Zona TUDN USA 🇺🇸
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=78280&extension=ts
