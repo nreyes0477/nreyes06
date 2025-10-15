@@ -681,10 +681,13 @@ http://190.102.246.93:9005/play/a02c
 #EXTINF:-1 tvg-chno="236" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="Chile",TV + ° 🇨🇱
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278992.m3u8
 
-#EXTINF:-1 tvg-chno="236" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Canal_13C_2025.svg/250px-Canal_13C_2025.svg.png" group-title="Chile",Canal 13c ² 🇨🇱
+#EXTINF:-1 tvg-chno="236" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="Chile",Chile Channel TV ¹ 🇨🇱
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+
+#EXTINF:-1 tvg-chno="237" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Canal_13C_2025.svg/250px-Canal_13C_2025.svg.png" group-title="Chile",Canal 13c ² 🇨🇱
 http://200.60.124.19:29000/play/a0id/index.m3u8
 
-#EXTINF:-1 tvg-chno="237" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/09/13-Cultura-en-vivo-Online-1536x864.png" group-title="Chile",Canal 13 Cultura ¹ 🇨🇱
+#EXTINF:-1 tvg-chno="238" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/09/13-Cultura-en-vivo-Online-1536x864.png" group-title="Chile",Canal 13 Cultura ¹ 🇨🇱
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
 #EXTINF:-1 tvg-chno="239" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="Colombia",Caracol ² 🇨🇴
