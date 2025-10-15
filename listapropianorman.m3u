@@ -664,7 +664,7 @@ http://170.239.207.48:4050/play/CH64
 http://190.60.37.118:4000/play/a00j
 
 #EXTINF:-1 tvg-chno="231" tvg-logo="https://www.tvn.cl/tvn/site/artic/20230420/imag/foto_0000000320230420120624/logotvchile.png" group-title="Chile",TV Chile 🇨🇱
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/85.m3u8
+http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password=XHBR21BVCB&stream=151673&extension=ts
 
 #EXTINF:-1 tvg-chno="232" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png" group-title="Chile",Canal 13 ² 🇨🇱
 http://38.250.127.17:9800/play/a067/index.m3u8
