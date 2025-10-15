@@ -997,10 +997,10 @@ http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/343382.m3u8
 http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/343381.m3u8
 
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/300px-Logo-telemetro.svg.png" group-title="Panamá",Telemetro 🇵🇦
-http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/86501.m3u8
+http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/201865.m3u8
 
 #EXTINF:-1 tvg-chno="343" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/RPC-en-vivo-Online.png?resize=1068%2C601&ssl=1" group-title="Panamá",RPC 🇵🇦
-http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/86500.m3u8
+http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/201866.m3u8
 
 #EXTINF:-1 tvg-chno="344" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/NEX-TV-Panam%C3%A1-en-vivo-Online.png?zoom=3&resize=218%2C150&ssl=1" group-title="Panamá",Next TV ¹ 🇵🇦
 https://vcp8.myplaytv.com:1936/nextv/nextv/playlist.m3u8
