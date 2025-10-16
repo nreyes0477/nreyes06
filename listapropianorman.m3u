@@ -1120,13 +1120,13 @@ http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password
 https://68aff552e1684.streamlock.net/megavision/MV/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="381" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telesistemac.png?zoom=3&resize=100%2C70&ssl=1" group-title="República Dominicana",Telesistema ² 🇩🇴
-http://181.189.244.252:8000/play/a00w/91568238.m3u8
+http://181.189.244.252:8000/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-chno="382" tvg-logo="https://canalesdominicanos.live/template/images/radios/antena_latina_canal_7.jpg" group-title="República Dominicana",Antena Latina 🇩🇴
 http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password=XHBR21BVCB&stream=131914&extension=ts
 
 #EXTINF:-1 tvg-chno="384" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/06/telecentro.png?zoom=3&resize=100%2C70&ssl=1" group-title="República Dominicana",Telecentro ² 🇩🇴
-http://200.125.170.122:8000/play/a03n/32860236.m3u8
+http://200.125.170.122:8000/play/a03n/index.m3u8
 
 #EXTINF:-1 tvg-chno="385" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/canal-4-montecarlo-en-vivo.png?zoom=3&resize=100%2C70&ssl=1" group-title="Uruguay",Canal 4 🇺🇾
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2055405.m3u8
