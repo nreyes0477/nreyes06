@@ -531,7 +531,7 @@ https://jireh-5-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 #EXTINF:-1 tvg-chno="167" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/DW-German-Live-TV-Online.png?resize=1068%2C601&ssl=1" group-title="Noticias",DW Español ¹ 🇩🇪
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-chno="168" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/250px-Russia-today-logo.svg.png" group-title="Noticias",RT Español ¹ 🇷🇺
+#EXTINF:-1 tvg-chno="168" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/250px-Russia-today-logo.svg.png" group-title="Noticias",Rusia Today (RT) ¹ 🇷🇺
 https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-chno="169" tvg-logo="https://cdn.mitvstatic.com/channels/ar_france-24-espanol_m.png" group-title="Noticias",France 24 ¹ 🇨🇵
