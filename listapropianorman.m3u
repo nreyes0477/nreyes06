@@ -1533,14 +1533,14 @@ http://45.186.106.220:5550/play/a039/index.m3u8
 #EXTINF:-1 tvg-chno="604" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png" group-title="Deportes",TD+ (1)
 http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password=XHBR21BVCB&stream=145465&extension=ts
 
-#EXTINF:-1 tvg-chno="604" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png" group-title="Deportes",TD+ ᵇ (2)
-http://budtvlight.com:25461/live/Astro/120388/818636.m3u8
+#EXTINF:-1 tvg-chno="604" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png" group-title="Deportes",TD+ (2)
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=60695&extension=ts
 
 #EXTINF:-1 tvg-chno="605" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-3.png" group-title="Deportes",TD+ 2 (1)
 http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password=XHBR21BVCB&stream=221242&extension=ts
 
 #EXTINF:-1 tvg-chno="605" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-3.png" group-title="Deportes",TD+ 2 ᵇ (2)
-http://budtvlight.com:25461/live/Astro/120388/818648.ts
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=177770&extension=ts
 
 #EXTINF:-1 tvg-chno="607" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Centro América ¹
 http://crlivebpk.service.osllacdn.com/espnhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
