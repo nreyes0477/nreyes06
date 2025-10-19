@@ -1522,13 +1522,13 @@ http://38.159.227.124:8000/play/a02y
 http://190.92.10.66:4000/play/a00c
 
 #EXTINF:-1 tvg-chno="601" tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes",Futv (2) ²
-http://45.71.254.1:8000/play/a0e5/index.m3u8
+http://200.92.227.238:8000/play/a0ta/index.m3u8
 
 #EXTINF:-1 tvg-chno="602" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports CR (1) ²
-http://45.186.106.220:5550/play/a039/index.m3u8
+http://200.125.170.120:8000/play/a04f/index.m3u8
 
 #EXTINF:-1 tvg-chno="603" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports CR (2) ²
-http://200.125.170.120:8000/play/a04f/index.m3u8
+http://45.186.106.220:5550/play/a039/index.m3u8
 
 #EXTINF:-1 tvg-chno="604" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png" group-title="Deportes",TD+ (1)
 http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/495321.m3u8
