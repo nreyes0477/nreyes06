@@ -1524,8 +1524,8 @@ http://190.92.10.66:4000/play/a00c
 #EXTINF:-1 tvg-chno="601" tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes",Futv (2) ²
 http://200.92.227.238:8000/play/a0ta/index.m3u8
 
-#EXTINF:-1 tvg-chno="602" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports CR (1) ²
-http://200.125.170.120:8000/play/a04f/index.m3u8
+#EXTINF:-1 tvg-chno="602" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports CR (1) ¹
+https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="603" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports CR (2) ²
 http://45.186.106.220:5550/play/a039/index.m3u8
