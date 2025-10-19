@@ -1755,8 +1755,8 @@ http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/278991.m3u8
 #EXTINF:-1 tvg-chno="680" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_mobile_ORIGINAL.png" group-title="Deportes",ECDF ² 🇪🇨
 http://38.44.109.41:8003/play/a038/index.m3u8
 
-#EXTINF:-1 tvg-chno="681" tvg-logo="https://dfw.yhy.mybluehost.me/wp-content/uploads/2023/04/png_golperu_logo.png" group-title="Deportes",Gol Perú ² 🇵🇪
-http://38.41.8.1:8000/play/a0u8
+#EXTINF:-1 tvg-chno="681" tvg-logo="https://dfw.yhy.mybluehost.me/wp-content/uploads/2023/04/png_golperu_logo.png" group-title="Deportes",Gol Perú 🇵🇪
+http://2.magmas5.com:8000/streaming/clients_live.php?username=MyBOXXTV2024&password=SILVERsat173929HH&stream=4841&extension=ts
 
 #EXTINF:-1 tvg-chno="681" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos-mediano.png" group-title="Deportes",Gol Tv ² 🇺🇾
 http://181.188.216.5:18000/play/a0mj/index.m3u8
@@ -1770,8 +1770,8 @@ http://191.97.15.250:45000/play/a04c/index.m3u8
 #EXTINF:-1 tvg-chno="683" tvg-logo="https://i.postimg.cc/MZrWHVdQ/winsportplus.jpg" group-title="Deportes",Win Sports + ² 🇨🇴
 http://181.78.23.26:45000/play/a03d
 
-#EXTINF:-1 tvg-chno="684" tvg-logo="https://elcomercio-elcomercio-prod.web.arc-cdn.net/resizer/v2/SI7SCQMDSFHVPMWEG7JTBRDA4E.jpg?auth=ee9002b30119e489b0177c3764bb01abd56ae3d285b2b42f2a1a3f8b0d0b455a&width=600&height=400&smart=true&quality=75" group-title="Deportes",Movistar Deportes ² 🇵🇪 
-http://38.41.8.1:8000/play/a0ry
+#EXTINF:-1 tvg-chno="684" tvg-logo="https://elcomercio-elcomercio-prod.web.arc-cdn.net/resizer/v2/SI7SCQMDSFHVPMWEG7JTBRDA4E.jpg?auth=ee9002b30119e489b0177c3764bb01abd56ae3d285b2b42f2a1a3f8b0d0b455a&width=600&height=400&smart=true&quality=75" group-title="Deportes",Movistar Deportes 🇵🇪 
+http://2.magmas5.com:8000/streaming/clients_live.php?username=MyBOXXTV2024&password=SILVERsat173929HH&stream=140572&extension=ts
 
 #EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Panamá ° 🇵🇦
 http://172.93.102.112:8989/279308_.m3u8
@@ -1795,7 +1795,7 @@ http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/295027.m3u8
 http://go.iptvhn.net:25461/live/7785/7785/13169.m3u8
 
 #EXTINF:-1 tvg-chno="688" tvg-logo="https://bunny-wp-pullzone-3tijjyzerc.b-cdn.net/wp-content/uploads/2025/01/Copy-of-Partnership-Blog-cover-rebrand_1104x860-15.png" group-title="Deportes",Azteca Deportes ² 🇲🇽
-http://190.60.33.245:4002/play/a0hw
+http://181.119.85.222:8000/play/a04e/index.m3u8
 
 #EXTINF:-1 tvg-chno="688" tvg-logo="https://bunny-wp-pullzone-3tijjyzerc.b-cdn.net/wp-content/uploads/2025/01/Copy-of-Partnership-Blog-cover-rebrand_1104x860-15.png" group-title="Deportes",Azteca Deportes (Pluto) ¹ 🇲🇽
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
