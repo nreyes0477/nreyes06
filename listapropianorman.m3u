@@ -1710,9 +1710,6 @@ http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.bes
 #EXTINF:-1 tvg-chno="668" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="Deportes",Dazn La Liga 🇪🇦
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147097&extension=ts
 
-#EXTINF:-1 tvg-chno="669" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="Deportes",Dazn La Liga 2 🇪🇦
-http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password=XHBR21BVCB&stream=128461&extension=ts
-
 #EXTINF:-1 tvg-chno="672" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_laliga-mediano.png" group-title="Deportes",La Liga TV por Movistar + ° 🇪🇸
 http://172.93.102.112:8989/278844_.m3u8 
 
@@ -1734,8 +1731,8 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=MyBOXXTV2024&passw
 #EXTINF:-1 tvg-chno="677" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_vamos-mediano.png" group-title="Deportes",Vamos por Movistar + ° 🇪🇸
 http://172.93.102.112:8989/278843_.m3u8
 
-#EXTINF:-1 tvg-chno="678" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_deportes-mediano.png" group-title="Deportes",Deportes por Movistar + °🇪🇸
-http://172.93.102.112:8989/278862_.m3u8
+#EXTINF:-1 tvg-chno="678" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_deportes-mediano.png" group-title="Deportes",Deportes por Movistar + 🇪🇸
+http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password=XHBR21BVCB&stream=126502&extension=ts
 
 #EXTINF:-1 tvg-chno="679" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png" group-title="Deportes",TyC Sports Argentina ° 🇦🇷
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278778.m3u8
