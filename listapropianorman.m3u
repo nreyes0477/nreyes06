@@ -1695,8 +1695,8 @@ http://190.92.10.66:4000/play/a006/index.m3u8
 #EXTINF:-1 tvg-chno="661" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1536x329.png" group-title="Deportes",Sky Sports La Liga ² 🇲🇽
 http://190.14.10.19:16000/play/a09u
 
-#EXTINF:-1 tvg-chno="664" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports (1) ° 🇦🇷
-http://172.93.102.112:8989/279390_.m3u8
+#EXTINF:-1 tvg-chno="664" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports (1) 🇦🇷
+http://planettvweb.com:8091/streaming/clients_live.php?username=ArielMndo&password=ARIMDO815433&stream=22979&extension=ts
 
 #EXTINF:-1 tvg-chno="665" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports (2) ² 🇦🇷
 http://200.60.124.19:29000/play/a081/index.m3u8
@@ -1732,7 +1732,7 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=MyBOXXTV2024&passw
 http://172.93.102.112:8989/278843_.m3u8
 
 #EXTINF:-1 tvg-chno="678" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_deportes-mediano.png" group-title="Deportes",Deportes por Movistar + 🇪🇸
-http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password=XHBR21BVCB&stream=126502&extension=ts
+http://planettvweb.com:8091/streaming/clients_live.php?username=ArielMndo&password=ARIMDO815433&stream=12049&extension=ts
 
 #EXTINF:-1 tvg-chno="679" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png" group-title="Deportes",TyC Sports Argentina ° 🇦🇷
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278778.m3u8
