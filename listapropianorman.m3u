@@ -204,8 +204,11 @@ https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/chunks.m3u8
 #EXTINF:-1 tvg-chno="68" tvg-logo="https://babyfirsttv.com/wp-content/uploads/2024/03/babyfirst_logo_2022-1536x303.png" group-title="Infantiles",Baby Firts ¹ 🇺🇸
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8
 
-#EXTINF:-1 tvg-chno="68" tvg-logo="https://www.babytv.com/app/uploads/2019/07/logo-baby-tv-2019-main-logo.png" group-title="Infantiles",Baby TV ¹ 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+#EXTINF:-1 tvg-chno="68" tvg-logo="https://babyfirsttv.com/wp-content/uploads/2024/03/babyfirst_logo_2022-1536x303.png" group-title="Infantiles",Baby Firts ² 🇺🇸
+http://38.41.8.1:8000/play/a055
 
+#EXTINF:-1 tvg-chno="68" tvg-logo="https://www.babytv.com/app/uploads/2019/07/logo-baby-tv-2019-main-logo.png" group-title="Infantiles",Baby TV ¹ 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+http://200.60.124.19:29000/play/a0ho/index.m3u8
 
 #EXTINF:-1 tvg-chno="68" tvg-logo="https://www.babytv.com/app/uploads/2019/07/logo-baby-tv-2019-main-logo.png" group-title="Infantiles",Baby Shark TV ¹ 🇺🇸
 https://stitcher.pluto.tv/stitch/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
