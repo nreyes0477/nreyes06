@@ -207,7 +207,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be
 #EXTINF:-1 tvg-chno="68" tvg-logo="https://babyfirsttv.com/wp-content/uploads/2024/03/babyfirst_logo_2022-1536x303.png" group-title="Infantiles",Baby Firts ² 🇺🇸
 http://38.41.8.1:8000/play/a055
 
-#EXTINF:-1 tvg-chno="68" tvg-logo="https://www.babytv.com/app/uploads/2019/07/logo-baby-tv-2019-main-logo.png" group-title="Infantiles",Baby TV ¹ 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+#EXTINF:-1 tvg-chno="68" tvg-logo="https://www.babytv.com/app/uploads/2019/07/logo-baby-tv-2019-main-logo.png" group-title="Infantiles",Baby TV ²
 http://200.60.124.19:29000/play/a0ho/index.m3u8
 
 #EXTINF:-1 tvg-chno="68" tvg-logo="https://www.babytv.com/app/uploads/2019/07/logo-baby-tv-2019-main-logo.png" group-title="Infantiles",Baby Shark TV ¹ 🇺🇸
