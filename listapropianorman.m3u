@@ -1707,8 +1707,11 @@ http://172.93.102.112:8989/279391_.m3u8
 #EXTINF:-1 tvg-chno="667" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV + 🇦🇷
 http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=616&extension=ts
 
-#EXTINF:-1 tvg-chno="668" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="Deportes",Dazn La Liga 🇪🇦
+#EXTINF:-1 tvg-chno="668" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="Deportes",Dazn La Liga (1) 🇪🇦
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147097&extension=ts
+
+#EXTINF:-1 tvg-chno="668" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="Deportes",Dazn La Liga (2) 🇪🇦
+http://tvpremiund.ddns.me:2082/streaming/clients_live.php?username=bras85@8hdsv743@dhn&password=7456@hfuge746bras&stream=81518&extension=ts
 
 #EXTINF:-1 tvg-chno="672" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_laliga-mediano.png" group-title="Deportes",La Liga TV por Movistar + ° 🇪🇸
 http://172.93.102.112:8989/278844_.m3u8 
