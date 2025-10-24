@@ -1605,6 +1605,9 @@ http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722
 #EXTINF:-1 tvg-chno="621" tvg-logo="https://img.asmedia.epimg.net/resizer/v2/HDFAZLSP7FH7XJK2XFRO56O22U.jpeg?auth=5d7e53f23444b4e49deaaadc032a5470401ba4ca10214e4cac7006b8d1f5f9e1&width=1200&height=675&smart=true" group-title="Deportes",Fox Sports Premium México 🇲🇽
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=2687&extension=ts
 
+#EXTINF:-1 tvg-chno="622" tvg-logo="https://www.westminsterkennelclub.org/wp-content/uploads/2024/02/Asset-1-1.png" group-title="Deportes",Fox Tubi (México) 🇲🇽
+http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2121734.m3u8
+
 #EXTINF:-1 tvg-chno="622" tvg-logo="https://www.westminsterkennelclub.org/wp-content/uploads/2024/02/Asset-1-1.png" group-title="Deportes",Fox Tubi / Caliente TV (México) 🇲🇽
 http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password=XHBR21BVCB&stream=314720&extension=ts
 
