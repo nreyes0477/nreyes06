@@ -1654,10 +1654,10 @@ http://201.217.246.177:8000/play/a078/index.m3u8
 http://199.127.63.143:8989/278765_.m3u8
 
 #EXTINF:-1 tvg-chno="641" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Chile ² 🇨🇱
-http://181.188.216.5:18000/play/a0fb
+http://190.102.246.93:9005/play/a01w
 
 #EXTINF:-1 tvg-chno="641" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Colombia ² 🇨🇴 
-http://181.188.216.5:18000/play/a0pe
+http://38.41.8.1:8000/play/a06r
 
 #EXTINF:-1 tvg-chno="642" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 Sur América ²
 http://38.44.109.41:8003/play/a00v/index.m3u8
