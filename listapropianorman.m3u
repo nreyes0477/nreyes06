@@ -1566,8 +1566,8 @@ http://181.78.106.127:9000/play/ca034/index.m3u8
 #EXTINF:-1 tvg-chno="610" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN 3 Centro América ²
 http://181.78.106.127:9000/play/ca035/index.m3u8
 
-#EXTINF:-1 tvg-chno="611" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deportes",ESPN 4 Centro América ²
-http://181.188.216.5:18000/play/a0am
+#EXTINF:-1 tvg-chno="611" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deportes",ESPN 4 Centro América 
+http://go.iptvhn.net:25461/live/7785/7785/13194.m3u8
 
 #EXTINF:-1 tvg-chno="612" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png" group-title="Deportes",ESPN 5 Centro América ¹
 http://crlivebpk.service.osllacdn.com/espn5hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
