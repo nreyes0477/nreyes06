@@ -1645,7 +1645,7 @@ http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/278566.m3u8
 http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/278567.m3u8
 
 #EXTINF:-1 tvg-chno="639" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png" group-title="Deportes",ESPN Premium Sur (1) ²
-http://190.102.246.93:9005/play/a00x
+http://38.44.109.41:8003/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-chno="640" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png" group-title="Deportes",ESPN Premium Sur (2) ²
 http://201.217.246.177:8000/play/a078/index.m3u8
@@ -1660,22 +1660,22 @@ http://181.188.216.5:18000/play/a0fb
 http://181.188.216.5:18000/play/a0pe
 
 #EXTINF:-1 tvg-chno="642" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 Sur América ²
-http://181.188.216.5:18000/play/a0il
+http://38.44.109.41:8003/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-chno="643" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN 3 Sur América ²
 http://45.184.87.142:8000/play/a04b
 
 #EXTINF:-1 tvg-chno="644" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deportes",ESPN 4 Sur América ²
-http://181.188.216.5:18000/play/a0pf
+http://200.60.124.19:29000/play/a0j8/index.m3u8
 
 #EXTINF:-1 tvg-chno="645" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png" group-title="Deportes",ESPN 5 Sur América ²
-http://181.188.216.5:18000/play/a0oa
+http://38.44.109.41:8003/play/a03w/index.m3u8
 
 #EXTINF:-1 tvg-chno="646" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png" group-title="Deportes",ESPN 6 Sur América ²
-http://181.188.216.5:18000/play/a0dn
+http://38.44.109.41:8003/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-chno="647" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png" group-title="Deportes",ESPN 7 Sur América ²
-http://181.188.216.5:18000/play/a0pg
+http://38.44.109.41:8003/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-chno="650" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%20128.png" group-title="Deportes",Fox Sports Sur América °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278766.m3u8
