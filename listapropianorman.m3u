@@ -985,13 +985,13 @@ http://crlive1.service.osllacdn.com/canaldelasestrellashdcr/vxfmt=dp/playlist.m3
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 #EXTINF:-1 tvg-chno="325" tvg-logo="https://entremedios.tv/wp-content/uploads/2025/10/66863_750.jpg" group-title="México",La Granja Vip 2025 (Cam 1) 🇲🇽
-http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password=XHBR21BVCB&stream=317812&extension=ts
+http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2565827.m3u8
 
 #EXTINF:-1 tvg-chno="325" tvg-logo="https://entremedios.tv/wp-content/uploads/2025/10/66863_750.jpg" group-title="México",La Granja Vip 2025 (Cam 2) 🇲🇽
-http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password=XHBR21BVCB&stream=317811&extension=ts
+http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2565661.m3u8
 
 #EXTINF:-1 tvg-chno="325" tvg-logo="https://entremedios.tv/wp-content/uploads/2025/10/66863_750.jpg" group-title="México",La Granja Vip 2025 (Cam 3) 🇲🇽
-http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password=XHBR21BVCB&stream=317813&extension=ts
+http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2565662.m3u8
 
 #EXTINF:-1 tvg-chno="332" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Nicaragua",Canal 2 ° 🇳🇮
 http://172.93.102.112:8989/279296_.m3u8
