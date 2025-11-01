@@ -1222,7 +1222,7 @@ http://go.iptvhn.net:25461/live/7785/7785/13110.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278395.m3u8
 
 #EXTINF:-1 tvg-chno="420" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/370px-TLC_Logo.svg.png" group-title="Cultura y Entretenimiento",TLC
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=3741&extension=ts
+http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=159&extension=ts
 
 #EXTINF:-1 tvg-chno="421" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery_m.png" group-title="Cultura y Entretenimiento",Discovery Channel ²
 http://38.159.227.124:8000/play/a049
@@ -1230,8 +1230,8 @@ http://38.159.227.124:8000/play/a049
 #EXTINF:-1 tvg-chno="422" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png" group-title="Cultura y Entretenimiento",Discovery Theater ²
 http://38.159.227.124:8000/play/a02q
 
-#EXTINF:-1 tvg-chno="423" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png" group-title="Cultura y Entretenimiento"group-title="Cultura y Entretenimiento",Discovery World ²
-http://216.122.181.10:8081/play/a0lx
+#EXTINF:-1 tvg-chno="423" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png" group-title="Cultura y Entretenimiento"group-title="Cultura y Entretenimiento",Discovery World 
+http://go.iptvhn.net:25461/live/7785/7785/13183.m3u8
 
 #EXTINF:-1 tvg-chno="423" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/DSFAM.png" group-title="Cultura y Entretenimiento",Discovery Family °
 http://199.127.63.143:8989/165457_.m3u8
@@ -1239,8 +1239,8 @@ http://199.127.63.143:8989/165457_.m3u8
 #EXTINF:-1 tvg-chno="423" tvg-logo="https://www.pngfind.com/pngs/m/74-742126_discovery-turbo-logo-discovery-turbo-hd-png-download.png" group-title="Cultura y Entretenimiento",Discovery Turbo ²
 http://181.78.201.70:8000/play/a0gg/index.m3u8
 
-#EXTINF:-1 tvg-chno="424" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png" group-title="Cultura y Entretenimiento",Discovery Science ²
-http://38.159.227.124:8000/play/a099
+#EXTINF:-1 tvg-chno="424" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png" group-title="Cultura y Entretenimiento",Discovery Science
+http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=39&extension=ts
 
 #EXTINF:-1 tvg-chno="425" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png" group-title="Cultura y Entretenimiento",HGTV Latino ²
 http://181.78.201.70:8000/play/a0th/index.m3u8
@@ -1593,8 +1593,8 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278580.m3u8
 #EXTINF:-1 tvg-chno="616" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deportes",ESPN 4 México ᵇ 🇲🇽
 http://budtvlight.com:25461/live/Astro/120388/765540.m3u8
 
-#EXTINF:-1 tvg-chno="617" tvg-logo="https://newswhip.sirv.com/WP_www.newswhip.com/2018/02/Espndeportes.png" group-title="Deportes",ESPN Deportes ᵇ 🇺🇲
-http://budtvlight.com:25461/live/Astro/120388/84807.m3u8
+#EXTINF:-1 tvg-chno="617" tvg-logo="https://newswhip.sirv.com/WP_www.newswhip.com/2018/02/Espndeportes.png" group-title="Deportes",ESPN Deportes 🇺🇲
+http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=2221&extension=ts
 
 #EXTINF:-1 tvg-chno="617" tvg-logo="https://www.razon.com.mx/resizer/v2/BME2ROXV7FFKVG5UGOXC2NAHTQ.jpg?auth=6480282fc3f431758200760caa02731d17cf4931a75271e7a57d4f5b2655282f&smart=true&width=400&height=200&quality=75" group-title="Deportes",Fox Deportes ᵇ 🇺🇲
 http://budtvlight.com:25461/live/Astro/120388/765584.m3u8
