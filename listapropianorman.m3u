@@ -1038,8 +1038,8 @@ https://stream.paraguaytv.gov.py/memfs/400fcc83-8f04-4497-8011-150847d44702.m3u8
 #EXTINF:-1 tvg-chno="351" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" group-title="Paraguay",Paravisión 🇵🇾
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=131712&extension=ts
 
-#EXTINF:-1 tvg-chno="352" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg" group-title="Paraguay",Telefuturo 🇵🇾
-http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/90910.m3u8
+#EXTINF:-1 tvg-chno="352" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg" group-title="Paraguay",Telefuturo ² 🇵🇾
+http://201.217.246.177:8000/play/a09y/index.m3u8
 
 #EXTINF:-1 tvg-chno="353" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/240px-Logotrececanal.png" group-title="Paraguay",Canal Trece 🇵🇾
 http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/464901.m3u8
