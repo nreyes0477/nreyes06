@@ -1539,8 +1539,8 @@ http://38.159.227.124:8000/play/a02y
 #EXTINF:-1 tvg-chno="600" tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes",Futv (1) ²
 http://190.92.10.66:4000/play/a00c
 
-#EXTINF:-1 tvg-chno="601" tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes",Futv (2) ²
-http://200.92.227.238:8000/play/a0ta/index.m3u8
+#EXTINF:-1 tvg-chno="601" tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes",Futv (2) ¹
+http://crlivebpk.service.osllacdn.com/futvhdcr_hevc/vxfmt=dp/playlist.m3u8?device_profile=HEVC_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-chno="602" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports CR (1) ²
 http://45.5.117.99:8000/play/a02v/index.m3u8
