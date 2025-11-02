@@ -18,8 +18,8 @@ http://crlive1.service.osllacdn.com/teleticahdcr/vxfmt=dp/playlist.m3u8?device_p
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://www.teleticaradio.com/img/Logo-Color.png" group-title="Nacionales",Teletica Radio ¹ 🇨🇷
 https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamTRadio/bbcfd43fb9ad3b22af53808371ce9a16.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="7" tvg-logo="https://libertycr.com/documents/297305827/297420738/xpertv.jpg" group-title="Nacionales",Xpertv ² 🇨🇷
-http://45.163.139.42:8000/play/a02x/index.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://libertycr.com/documents/297305827/297420738/xpertv.jpg" group-title="Nacionales",Xpertv ¹ 🇨🇷
+http://crlivebpk.service.osllacdn.com/xpertvcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://observador.cr/wp-content/uploads/2020/04/87390081_2470570269875494_1434326408926068736_o.jpg" group-title="Nacionales",Canal 8 Multimedios ¹ 🇨🇷
 http://crlive1.service.osllacdn.com/multimedioshdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
