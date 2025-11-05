@@ -939,8 +939,8 @@ https://mediacp.us:8081/ctvhn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="310" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal10Honduras2019.png/revision/latest/scale-to-width-down/250?cb=20190604153849" group-title="Honduras",Ten 🇭🇳
 http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/194.m3u8
 
-#EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno 🇲🇽 
-http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alexmargarita&password=lwDRib5ooT&stream=87576&extension=ts
+#EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno ᵇᵘ 🇲🇽 
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/158618.m3u8
 
 #EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno -2hr 🇲🇽
 http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alexmargarita&password=lwDRib5ooT&stream=87575&extension=ts
