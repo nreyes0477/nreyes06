@@ -940,10 +940,10 @@ https://mediacp.us:8081/ctvhn/tracks-v1a1/mono.m3u8
 http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/194.m3u8
 
 #EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno 🇲🇽 
-http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=mottamartin1&password=iiQ7uuhbWA&stream=87593&extension=ts
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alexmargarita&password=lwDRib5ooT&stream=87576&extension=ts
 
 #EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno -2hr 🇲🇽
-http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=mottamartin1&password=iiQ7uuhbWA&stream=87575&extension=ts
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alexmargarita&password=lwDRib5ooT&stream=87575&extension=ts
 
 #EXTINF:-1 tvg-chno="311" tvg-logo="https://mexio.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno -1hr ¹ 🇲🇽
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
