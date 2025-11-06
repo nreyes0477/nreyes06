@@ -1551,8 +1551,8 @@ http://45.186.106.220:5550/play/a039/index.m3u8
 #EXTINF:-1 tvg-chno="604" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png" group-title="Deportes",TD+ (1)
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=60695&extension=ts
 
-#EXTINF:-1 tvg-chno="604" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png" group-title="Deportes",TD+ (2)
-http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password=XHBR21BVCB&stream=221242&extension=ts
+#EXTINF:-1 tvg-chno="604" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png" group-title="Deportes",TD+ ᵇᵘ (2)
+http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/279376.m3u8
 
 #EXTINF:-1 tvg-chno="605" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-3.png" group-title="Deportes",TD+ 2 (1)
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=177770&extension=ts
