@@ -1603,8 +1603,8 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278580.m3u8
 #EXTINF:-1 tvg-chno="616" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deportes",ESPN 4 México ᵇ 🇲🇽
 http://budtvlight.com:25461/live/Astro/120388/765540.m3u8
 
-#EXTINF:-1 tvg-chno="617" tvg-logo="https://newswhip.sirv.com/WP_www.newswhip.com/2018/02/Espndeportes.png" group-title="Deportes",ESPN Deportes 🇺🇲
-http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=2221&extension=ts
+#EXTINF:-1 tvg-chno="617" tvg-logo="https://newswhip.sirv.com/WP_www.newswhip.com/2018/02/Espndeportes.png" group-title="Deportes",ESPN Deportes ᵇᵘ 🇺🇲
+http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/279426.m3u8
 
 #EXTINF:-1 tvg-chno="617" tvg-logo="https://www.razon.com.mx/resizer/v2/BME2ROXV7FFKVG5UGOXC2NAHTQ.jpg?auth=6480282fc3f431758200760caa02731d17cf4931a75271e7a57d4f5b2655282f&smart=true&width=400&height=200&quality=75" group-title="Deportes",Fox Deportes ᵇ 🇺🇲
 http://budtvlight.com:25461/live/Astro/120388/765584.m3u8
@@ -1798,8 +1798,8 @@ http://38.44.109.41:8003/play/a038/index.m3u8
 #EXTINF:-1 tvg-chno="681" tvg-logo="https://dfw.yhy.mybluehost.me/wp-content/uploads/2023/04/png_golperu_logo.png" group-title="Deportes",Gol Perú 🇵🇪
 http://2.magmas5.com:8000/streaming/clients_live.php?username=MyBOXXTV2024&password=SILVERsat173929HH&stream=4841&extension=ts
 
-#EXTINF:-1 tvg-chno="681" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos-mediano.png" group-title="Deportes",Gol Tv ² 🇺🇾
-http://181.188.216.5:18000/play/a0mj/index.m3u8
+#EXTINF:-1 tvg-chno="681" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos-mediano.png" group-title="Deportes",Gol Tv ᵇᵘ 🇺🇾
+http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/279431.m3u8
 
 #EXTINF:-1 tvg-chno="682" tvg-logo="https://www.cableplus.com.uy/assets/img/logos-canales/logo-vtv-plus.jpg" group-title="Deportes",VTV + ° 🇺🇾
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278802.m3u8
@@ -1846,8 +1846,8 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 #EXTINF:-1 tvg-chno="691" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports-mediano.png" group-title="Deportes",A y M Sports ¹ 🇲🇽
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 
-#EXTINF:-1 tvg-chno="692" tvg-logo="https://sc.dish.com/shared/images/station-logos/BEINE.png" group-title="Deportes",Bein Sports ² 🇺🇸
-http://181.78.106.127:9000/play/ca039/index.m3u8
+#EXTINF:-1 tvg-chno="692" tvg-logo="https://sc.dish.com/shared/images/station-logos/BEINE.png" group-title="Deportes",Bein Sports ᵇᵘ 🇺🇸
+http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/279420.m3u8
 
 #EXTINF:-1 tvg-chno="692" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="Deportes",Bein Sports XTRA ¹ 🇺🇸
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
