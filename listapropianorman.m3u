@@ -985,8 +985,8 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-chno="316" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo-Imagen-TV-MX.png/800px-Logo -Imagen-TV-MX.png" group-title="México",Imagen TV ² 🇲🇽
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
-#EXTINF:-1 tvg-chno="317" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/400px-Unicable_logo.svg.png" group-title="México",Unicable 🇲🇽
-http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/557789.m3u8
+#EXTINF:-1 tvg-chno="317" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/400px-Unicable_logo.svg.png" group-title="México",Unicable ᵇᵘ 🇲🇽
+http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/278446.m3u8
 
 #EXTINF:-1 tvg-chno="319" tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default_mobile/public/images/logos/canl-nueve-100x100.png" group-title="México",Nu9ve ᵇ 🇲🇽
 http://budtvlight.com:25461/live/Astro/120388/814396.m3u8
