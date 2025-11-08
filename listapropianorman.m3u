@@ -96,7 +96,6 @@ https://59ef525c24caa.streamlock.net:443/nicoyatv/nicoyatv/chunklist_w221500905.
 #EXTINF:-1 tvg-chno="33" tvg-logo="https://radiocostarica.net/sites/default/files/styles/player_image/public/2025-06/tv-cachi-costa-rica_0.png.webp?itok=ufnqes5g" group-title="Nacionales",TV Cachi ¹ 🇨🇷
 https://live20.bozztv.com/akamaissh101/ssh101/tvcachi/chunks.m3u8
 
-
 #EXTINF:-1 tvg-chno="34" tvg-logo="https://geomedios.fcs.ucr.ac.cr/wp-content/uploads/2019/07/Limon_TV_Logo.png" group-title="Nacionales",Limón TV ¹ 🇨🇷
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 
@@ -112,7 +111,7 @@ https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="39" tvg-logo="https://www.coolstreaming.us/img/ch/image6702628824.jpg" group-title="Nacionales",Antena Seis TV ¹ 🇨🇷
 https://cloudvideo.servers10.com:8081/8132/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="39" tvg-logo="https://si.cultura.cr/_next/image?url=https%3A%2F%2Fsicultura-live.s3.amazonaws.com%2Fpublic%2F2022-11%2F305398743_500202432109920_5029369673742325729_n-1.png&w=384" group-title="Nacionales",TVPlus Canal 54 ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="39" tvg-logo="https://si.cultura.cr/_next/image?url=https%3A%2F%2Fsicultura-live.s3.amazonaws.com%2Fpublic%2F2022-11%2F305398743_500202432109920_5029369673742325729_n-1.png" group-title="Nacionales",TVPlus Canal 54 ¹ 🇨🇷
 https://k20.usastreams.com:8081/tvplus/index.m3u8?fbclid=IwY2xjawN7z7hleHRuA2FlbQIxMQBicmlkETBVZ3B6cUxzQUJpR2JEN2N3c3J0YwZhcHBfaWQBMAABHswI7rvOl7SWBiRZQuw-xmwU68iFWBUc5OBhK-EhoV9LwLU0BbUJ0xrYqvSs_aem_9HGlrTEOHSna9Egup77jjA
 
 #EXTINF:-1 tvg-chno="39" tvg-logo="https://i.imgur.com/5Rc8mA5.png" group-title="Nacionales",Telemas CR ¹ 🇨🇷
