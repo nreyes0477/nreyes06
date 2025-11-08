@@ -145,6 +145,9 @@ https://latamvdo.com:3870/hybrid/play.m3u8
 #EXTINF:-1 tvg-chno="49" tvg-logo="https://image.roku.com/developer_channels/prod/3d89b0129300d4fcc1b74f51c7dbee45020d18b6c3457995c78895567ab1a39f.png" group-title="Nacionales",Coto Brus TV ¹ 🇨🇷
 https://s1.tvdatta.com:3072/live/cotobrustvlive.m3u8
 
+#EXTINF:-1 tvg-chno="49" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Sur-Canal-9-en-vivo-Online-1536x864.png" group-title="Nacionales",Tv Sur Canal 9 ¹ 🇨🇷
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w1057824568.m3u8
+
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://i.imgur.com/RqdpiYo.jpeg" group-title="Nacionales",Megahits ¹ 🇨🇷
 https://live20.bozztv.com/giatv/giatv-megahits/megahits/chunks.m3u8
 
