@@ -1638,8 +1638,8 @@ https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
 #EXTINF:-1 tvg-chno="626" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/3/30/HISportslogo.png/revision/latest?cb=20230427055859&path-prefix=es" group-title="Deportes",Hi! Sports TV ᵇᵘ 🇲🇽
 http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/298375.m3u8
 
-#EXTINF:-1 tvg-chno="630" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Argentina ° 🇦🇷
-http://199.127.63.143:8989/278765_.m3u8
+#EXTINF:-1 tvg-chno="630" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Argentina ᵇᵘ 🇦🇷
+http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/278765.m3u8
 
 #EXTINF:-1 tvg-chno="631" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Chile ᵇᵘ 🇨🇱
 http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/278977.m3u8
