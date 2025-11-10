@@ -1744,7 +1744,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 http://200.115.120.1:8000/play/ca040/index.m3u8
 
 #EXTINF:-1 tvg-chno="665" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports (3) 🇦🇷
-http://181.78.101.241:8080/live/carlosmadrid.best/CMadrid25$/616.m3u8
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/616.m3u8
 
 #EXTINF:-1 tvg-chno="666" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports 2 ° 🇦🇷
 http://172.93.102.112:8989/279391_.m3u8
