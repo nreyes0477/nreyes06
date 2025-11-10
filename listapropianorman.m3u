@@ -1725,6 +1725,9 @@ http://200.92.227.238:8000/play/a0qe/index.m3u8
 #EXTINF:-1 tvg-chno="658" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png" group-title="Deportes",Claro Sports 2 México ² 🇲🇽
 http://181.78.106.127:9000/play/ca037
 
+#EXTINF:-1 tvg-chno="658" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png" group-title="Deportes",Claro Sports 2 México 🇲🇽
+http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47091&extension=ts
+
 #EXTINF:-1 tvg-chno="659" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1536x329.png" group-title="Deportes",Sky Sports ² 🇲🇽
 http://181.78.106.127:9000/play/ca028
 
