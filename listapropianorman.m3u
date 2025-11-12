@@ -1038,8 +1038,8 @@ https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 #EXTINF:-1 tvg-chno="337" tvg-logo="https://logosnicas.com/wp-content/uploads/2024/02/wtv_canal_20_nueva_guinea.png" group-title="Nicaragua",WTV 20 ¹ 🇭🇳
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
-#EXTINF:-1 tvg-chno="338" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png" group-title="Panamá",Tv Max 🇵🇦
-http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password=XHBR21BVCB&stream=149714&extension=ts
+#EXTINF:-1 tvg-chno="338" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png" group-title="Panamá",Tv Max ᵇᵘ 🇵🇦
+http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/279309.m3u8
 
 #EXTINF:-1 tvg-chno="341" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png" group-title="Panamá",TVN 🇵🇦
 http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password=XHBR21BVCB&stream=126564&extension=ts
@@ -1827,8 +1827,8 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=MyBOXXTV2024&passw
 #EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Panamá ° 🇵🇦
 http://172.93.102.112:8989/279308_.m3u8
 
-#EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Guatemala 🇬🇹
-http://m3u.tvcluboficial.com/free/Jose_Mejia/V3f/904.m3u8
+#EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Guatemala ᵇᵘ 🇬🇹
+http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/299270.m3u8
 
 #EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Honduras 🇭🇳
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=40017&extension=ts
