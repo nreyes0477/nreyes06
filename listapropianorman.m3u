@@ -1381,25 +1381,34 @@ http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=
 http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=124&extension=ts
 
 #EXTINF:-1 tvg-chno="552" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png" group-title="Cine y Películas",Cine Familiar ²
-http://190.102.246.93:9005/play/a034
+http://181.78.23.26:45000/play/a03u
 
 #EXTINF:-1 tvg-chno="553" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinehispano.png" group-title="Cine y Películas",Cine Hispano ²
-http://190.102.246.93:9005/play/a035
+http://181.78.23.26:45000/play/a03v
 
 #EXTINF:-1 tvg-chno="554" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png"bgroup-title="Cine y Películas",Cine Premium ²
-http://190.102.246.93:9005/play/a036
+http://181.78.23.26:45000/play/a03x
 
 #EXTINF:-1 tvg-chno="555" tvg-logo="https://contenidostv.b-cdn.net/images/clover512.jpg" group-title="Cine y Películas",Clover Channel ²
 http://181.188.216.5:18000/play/a0eu/index.m3u8
 
+#EXTINF:-1 tvg-chno="556" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpge-empty-state.png" group-title="Cine y Películas",MX ²
+http://45.184.87.142:8000/play/a05e
+
 #EXTINF:-1 tvg-chno="556" tvg-logo="https://static.wixstatic.com/media/c5adb2_7a400836c9f84c1fb2143cb9da04d1fb~mv2.png/v1/fill/w_280,h_160,al_c,lg_1,q_85,enc_avif,quality_auto/Image-empty-state.png" group-title="Cine y Películas",MX Family ²
-http://190.102.246.93:9005/play/a03i
+
+
+#EXTINF:-1 tvg-chno="556" tvg-logo="https://static.wixstatic.com/media/c5adb2_7a400836c9f84c1fb2143cb9da04d1fb~mv2.png/v1/fill/w_280,h_160,al_c,lg_1,q_85,enc_avif,quality_auto/Image-empty-state.png" group-title="Cine y Películas",MX Drama ²
+http://45.184.87.142:8000/play/a03b
 
 #EXTINF:-1 tvg-chno="556" tvg-logo="https://static.wixstatic.com/media/c5adb2_2ece8c7444e645078f23972a4e84e2b6~mv2.png/v1/fill/w_280,h_160,al_c,lg_1,q_85,enc_avif,quality_auto/Image-empty-state.png" group-title="Cine y Películas",MX Prime ²
-http://190.102.246.93:9005/play/a03t
+
+
+#EXTINF:-1 tvg-chno="556" tvg-logo="https://static.wixstatic.com/media/c5adb2_2ece8c7444e645078f23972a4e84e2b6~mv2.png/v1/fill/w_280,h_160,al_c,lg_1,q_85,enc_avif,quality_auto/Image-empty-state.png" group-title="Cine y Películas",MX Series ²
+http://45.184.87.142:8000/play/a03f
 
 #EXTINF:-1 tvg-chno="557" tvg-logo="https://static.wixstatic.com/media/c5adb2_1e5ac32c6d154221ba12cc0fd77102e9~mv2.png/v1/fill/w_280,h_160,al_c,lg_1,q_85,enc_avif,quality_auto/Image-empty-state.png" group-title="Cine y Películas",MX Classic ²
-http://190.102.246.93:9005/play/a03h
+http://45.184.87.142:8000/play/a03g
 
 #EXTINF:-1 tvg-chno="560" tvg-logo="https://www.nicepng.com/png/detail/343-3433321_netflix.png" group-title="Cine y Películas",Cine Netflix 1 °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/168559.m3u8
