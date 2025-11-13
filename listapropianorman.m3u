@@ -1462,7 +1462,7 @@ http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=
 http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=115&extension=ts
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://methodgroupe.com/wp-content/uploads/2020/08/Client-logos_0030_170124_ClientLogos_16.png" group-title="Cine y Películas",HBO Latino
-http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=105&extension=ts
+http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=36378&extension=ts
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo.png" group-title="Cine y Películas",HBO Norte ²
 http://45.184.87.142:8000/play/a04k
