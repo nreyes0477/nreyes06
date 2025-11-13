@@ -1390,7 +1390,7 @@ http://181.78.23.26:45000/play/a03v
 http://181.78.23.26:45000/play/a03x
 
 #EXTINF:-1 tvg-chno="555" tvg-logo="https://contenidostv.b-cdn.net/images/clover512.jpg" group-title="Cine y Películas",Clover Channel ²
-http://181.188.216.5:18000/play/a0eu/index.m3u8
+http://181.174.231.146:18000/play/a0hd
 
 #EXTINF:-1 tvg-chno="556" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpge-empty-state.png" group-title="Cine y Películas",MX ²
 http://45.184.87.142:8000/play/a05e
