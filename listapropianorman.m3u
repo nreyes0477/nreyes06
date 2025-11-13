@@ -1470,11 +1470,11 @@ http://45.184.87.142:8000/play/a04k
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo2.png" group-title="Cine y Películas",HBO 2 Norte ²
 http://45.184.87.142:8000/play/a05a
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbofamily.png" group-title="Cine y Películas",HBO Family Norte 
-http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=28&extension=ts
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbofamily.png" group-title="Cine y Películas",HBO Family Norte ²
+http://200.92.227.238:8000/play/a0mt/index.m3u8
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus.png" group-title="Cine y Películas",HBO Plus Norte 
-http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=23&extension=ts
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus.png" group-title="Cine y Películas",HBO Plus Norte ²
+http://200.92.227.238:8000/play/a0ms/index.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxup.png" group-title="Cine y Películas",HBO Pop Norte ²
 http://38.183.182.166:8000/play/a0vx/index.m3u8
