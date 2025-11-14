@@ -1018,13 +1018,13 @@ https://cloudvideo.servers10.com:8081/8130/index.m3u8
 http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/279309.m3u8
 
 #EXTINF:-1 tvg-chno="341" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png" group-title="Panamá",TVN 🇵🇦
-http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password=XHBR21BVCB&stream=126564&extension=ts
+http://kstv.us:8080/live/uAf2e8KWbg/8722455439/47035.m3u8
 
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/300px-Logo-telemetro.svg.png" group-title="Panamá",Telemetro 🇵🇦
-http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/201865.m3u8
+http://kstv.us:8080/live/uAf2e8KWbg/8722455439/47028.m3u8
 
 #EXTINF:-1 tvg-chno="343" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/RPC-en-vivo-Online.png?resize=1068%2C601&ssl=1" group-title="Panamá",RPC 🇵🇦
-http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/201866.m3u8
+http://kstv.us:8080/live/uAf2e8KWbg/8722455439/47023.m3u8
 
 #EXTINF:-1 tvg-chno="344" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/NEX-TV-Panam%C3%A1-en-vivo-Online.png?zoom=3&resize=218%2C150&ssl=1" group-title="Panamá",Next TV ¹ 🇵🇦
 https://vcp8.myplaytv.com:1936/nextv/nextv/playlist.m3u8
