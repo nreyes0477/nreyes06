@@ -1491,8 +1491,8 @@ http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=h
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://static.latamwbd.com/2023-11/logo%202x.png" group-title="Cine y Películas",HBO Sur ²
 http://181.78.201.70:8000/play/a0po/index.m3u8
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" group-title="Cine y Películas",HBO 2 Sur ²
-http://181.78.201.70:8000/play/a0ip/index.m3u8
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" group-title="Cine y Películas",HBO 2 Sur 
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=41021&extension=ts
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbofamily.png" group-title="Cine y Películas",HBO Family Sur
 http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=664788&extension=ts
@@ -1508,6 +1508,9 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278505.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime.png" group-title="Cine y Películas",HBO Xtreme Sur
 http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=66452&extension=ts
+
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/max.png" group-title="Cine y Películas",HBO Mundi Sur
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=47463&extension=ts
 
 #EXTINF:-1 tvg-chno="598" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="Cine y Películas",Universal Channel
 http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=66461&extension=ts
