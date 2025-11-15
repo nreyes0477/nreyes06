@@ -987,8 +987,14 @@ http://budtvlight.com:25461/live/Astro/120388/814396.m3u8
 #EXTINF:-1 tvg-chno="320" tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png" group-title="México",Canal Once ¹ 🇲🇽 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="320" tvg-logo="https://cdn.mitvstatic.com/channels/sv_de-pelicula_m.png" group-title="México",D Película 🇲🇽 
+http://go.iptvhn.net:25461/live/7785/7785/13168.m3u8
+
 #EXTINF:-1 tvg-chno="321" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/Cinema_Logo_Black.png" group-title="México",Azteca Cinema ᵇ 🇲🇽
 http://budtvlight.com:25461/live/Astro/120388/815026.m3u8
+
+#EXTINF:-1 tvg-chno="321" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2017/02/CineMexicano_Logo.png" group-title="México",Cine Mexicano 🇲🇽
+http://go.iptvhn.net:25461/live/7785/7785/13344.m3u8
 
 #EXTINF:-1 tvg-chno="322" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="México",Las Estrellas (Internacional) ¹ 🇲🇽
 http://crlive1.service.osllacdn.com/canaldelasestrellashdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -1312,7 +1318,7 @@ http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=h
 http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=66472&extension=ts
 
 #EXTINF:-1 tvg-chno="517" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png" group-title="Cine y Películas",Paramount
-http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=66462&extension=ts
+http://go.iptvhn.net:25461/live/7785/7785/13257.m3u8
 
 #EXTINF:-1 tvg-chno="518" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox_m.png" group-title="Cine y Películas",Star Channel ²
 http://38.159.227.124:8000/play/a05u
@@ -1334,6 +1340,15 @@ http://45.181.122.46:8090/play/a00h
 
 #EXTINF:-1 tvg-chno="523" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png" group-title="Cine y Películas",Lifetime
 http://go.iptvhn.net:25461/live/7785/7785/13234.m3u8
+
+#EXTINF:-1 tvg-chno="523" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinema_platino-mediano.png" group-title="Cine y Películas",Cine Platino
+http://go.iptvhn.net:25461/live/7785/7785/13345.m3u8
+
+#EXTINF:-1 tvg-chno="523" tvg-logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg" group-title="Cine y Películas",Multipremier
+http://go.iptvhn.net:25461/live/7785/7785/13247.m3u8
+
+#EXTINF:-1 tvg-chno="523" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyDMiGIxyT06wAhQp1VWfsOYLcRfxA3c9J0nHMckHBXZoUc6K-4aP0VoDFo2qElB11D2UEuvfqDhQ31JBW35rtMQP-8iBhaOwttPNuaErMvjd8gKFoV79nwRo2zVkE08jsW9eHpDZoyLaB/s280/2016-22.jpg" group-title="Cine y Películas",Canal Pánico 
+http://go.iptvhn.net:25461/live/7785/7785/13343.m3u8
 
 #EXTINF:-1 tvg-chno="524" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="Cine y Películas",Studio Universal ²
 http://38.159.227.124:8000/play/a04n
