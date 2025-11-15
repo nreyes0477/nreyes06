@@ -915,8 +915,8 @@ http://go.iptvhn.net:25461/live/7785/7785/13152.m3u8
 #EXTINF:-1 tvg-chno="302" tvg-logo="https://go.com.hn/wp-content/uploads/2023/10/Logo-GO-TV-01.jpg" group-title="Honduras",GoTV 🇭🇳
 http://go.iptvhn.net:25461/live/7785/7785/13394.m3u8
 
-#EXTINF:-1 tvg-chno="303" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/180px-Telecadena7y42018.png" group-title="Honduras",Telecadena 🇭🇳
-http://go.iptvhn.net:25461/live/7785/7785/13285.m3u8
+#EXTINF:-1 tvg-chno="303" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/180px-Telecadena7y42018.png" group-title="Honduras",Telecadena ¹ 🇭🇳
+https://dvrfl03.bozztv.com/hondu-telecadena/index.m3u8
 
 #EXTINF:-1 tvg-chno="304" tvg-logo="https://logopond.com/logos/c3966093ee94ae75a6f65778327bf70c.png" group-title="Honduras",Telesistema 🇭🇳
 http://go.iptvhn.net:25461/live/7785/7785/13293.m3u8
@@ -927,7 +927,7 @@ https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 #EXTINF:-1 tvg-chno="307" tvg-logo="https://hch.tv/wp-content/uploads/2021/09/logos-hch-bueno-1.png" group-title="Honduras",HCH 🇭🇳
 http://go.iptvhn.net:25461/live/7785/7785/13222.m3u8
 
-#EXTINF:-1 tvg-chno="309" tvg-logo="https://image.roku.com/developer_channels/prod/51815da9f86794012aed4f696ce25f08ca883f2560a1a6c1fb0361bb16716c87.png" group-title="Honduras",CTV ¹ 🇭🇳
+#EXTINF:-1 tvg-chno="309" tvg-logo="https://chtv.hn/wp-content/uploads/2023/12/big-logo-1.png" group-title="Honduras",CHTV ¹ 🇭🇳
 https://viewhn.com/chtv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="310" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal10Honduras2019.png/revision/latest/scale-to-width-down/250?cb=20190604153849" group-title="Honduras",Ten 🇭🇳
