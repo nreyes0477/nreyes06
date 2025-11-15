@@ -768,6 +768,9 @@ https://stream.giostreaming.app:19360/canal11/canal11.m3u8
 #EXTINF:-1 tvg-chno="262" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CANAL_12_2023_VA_CON_VOS.png/500px-CANAL_12_2023_VA_CON_VOS.png" group-title="El Salvador",Canal 12 ¹ 🇸🇻
 https://alba-sv-c12-c12.stream.mediatiquestream.com:443/original.m3u8
 
+#EXTINF:-1 tvg-chno="262" tvg-logo="https://alianzafc.com.sv/wp-content/uploads/2023/04/ColorLogoTCS.png" group-title="El Salvador",TCS + ¹ 🇸🇻
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
+
 #EXTINF:-1 tvg-chno="263" tvg-logo="https://logos.streamsites.eu/2756_tve-en-directo-la-1_overview.png" group-title="España",La 1 ¹ 🇪🇸
 https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr_720.m3u8
 
@@ -875,6 +878,12 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 
 #EXTINF:-1 tvg-chno="288" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="USA Latino",Telemundo US ² 🇺🇸
 http://190.92.10.66:4000/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-chno="288" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Telemundo_Logo_2018-1.svg/1534px-Telemundo_Logo_2018-1.svg.png" group-title="USA Latino",Telemundo Romance ¹ 🇺🇸
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-chno="288" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Telemundo_Logo_2018-1.svg/1534px-Telemundo_Logo_2018-1.svg.png" group-title="USA Latino",Telemundo Acción ¹ 🇺🇸
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-chno="289" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png" group-title="USA Latino",Galavisión AU 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148740&extension=ts
