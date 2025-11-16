@@ -843,41 +843,26 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv:80/stitch/hls/channel
 #EXTINF:-1 tvg-chno="280" tvg-logo="https://img.onesignal.com/t/9386b748-b30f-4f48-946a-361ce4f6c8cc.jpg" group-title="USA Latino",Mega TV 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=156070&extension=ts
 
-#EXTINF:-1 tvg-chno="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png" group-title="USA Latino",Univisión US (1) ² 🇺🇸
+#EXTINF:-1 tvg-chno="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png" group-title="USA Latino",Univisión US ² 🇺🇸
 http://216.122.181.10:8081/play/a0lz
 
-#EXTINF:-1 tvg-chno="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png" group-title="USA Latino",Univisión US (2) ² 🇺🇸
-http://190.92.10.66:4000/play/a005/index.m3u8
-
-#EXTINF:-1 tvg-chno="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png" group-title="USA Latino",Univisión MI 🇺🇸
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148713&extension=ts
-
-#EXTINF:-1 tvg-chno="282" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png" group-title="USA Latino",Univisión NY 🇺🇸
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148711&extension=ts
-
 #EXTINF:-1 tvg-chno="283" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png" group-title="USA Latino",Univisión SF 🇺🇸
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148727&extension=ts
+http://go.iptvhn.net:25461/live/7785/7785/13317.m3u8
 
 #EXTINF:-1 tvg-chno="284" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png" group-title="USA Latino",Univisión SL 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148731&extension=ts
 
 #EXTINF:-1 tvg-chno="286" tvg-logo="https://i.postimg.cc/qRHv3bMp/telem-aldia.jpg" group-title="USA Latino",Telemundo Al Día ¹ 🇺🇸
-https://s8host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/channel-hls/v2/876a4335dadf489b/88889750/master.m3u8?ads.cdnhost=s8host3.localnow.api.cms.amdvids.com&ads.playbackid=446FABE6-D80D-406D-9254-99DCBF06DE3D&ads.n1=rule_id&ads.v1=F0F2D67E-43F6-4794-9B68-414843159DD7-1714063134&ads.n3=qp_content_id&ads.v3=446FABE6-D80D-406D-9254-99DCBF06DE3D&ads.n4
+https://dmfxzlz63pfyh.cloudfront.net/10508/88886036/hls/master.m3u8?ads.xumo_channelId=88886036
 
-#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="USA Latino",Telemundo NY 🇺🇸
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148710&extension=ts
+#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="USA Latino",Telemundo US ² 🇺🇸
+http://190.92.10.66:4000/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="USA Latino",Telemundo MI 🇺🇸
+http://go.iptvhn.net:25461/live/7785/7785/13340.m3u8
 
 #EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="USA Latino",Telemundo DV ° 🇺🇸
 http://104.238.205.28:8989/278663_.m3u8
-
-#EXTINF:-1 tvg-chno="287" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="USA Latino",Telemundo FN 🇺🇸
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148720&extension=ts
-
-#EXTINF:-1 tvg-chno="288" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="USA Latino",Telemundo FX 🇺🇸
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148728&extension=ts
-
-#EXTINF:-1 tvg-chno="288" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="USA Latino",Telemundo US ² 🇺🇸
-http://190.92.10.66:4000/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-chno="288" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Telemundo_Logo_2018-1.svg/1534px-Telemundo_Logo_2018-1.svg.png" group-title="USA Latino",Telemundo Romance ¹ 🇺🇸
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
@@ -891,26 +876,14 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 #EXTINF:-1 tvg-chno="290" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png" group-title="USA Latino",Galavisión East 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=147076&extension=ts
 
-#EXTINF:-1 tvg-chno="291" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png" group-title="USA Latino",Galavisión West 🇺🇸
-http://smarterstv99.dyndns.tv:25461/live/Miguelmoreno/jg8AwXkZL2yE/334714.m3u8
-
 #EXTINF:-1 tvg-chno="293" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png" group-title="USA Latino",Unimás NY 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148794&extension=ts
-
-#EXTINF:-1 tvg-chno="294" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png" group-title="USA Latino",Unimás MI 🇺🇸
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148792&extension=ts
 
 #EXTINF:-1 tvg-chno="295" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png" group-title="USA Latino",Unimás LV 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148753&extension=ts
 
-#EXTINF:-1 tvg-chno="296" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png" group-title="USA Latino",Unimás East 🇺🇸
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148895&extension=ts
-
-#EXTINF:-1 tvg-chno="299" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/telemundo.jpg" group-title="USA Latino",Telemundo Internacional (1) ² 🇺🇸
-http://103.111.40.242:9999/play/a02i
-
-#EXTINF:-1 tvg-chno="299" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/telemundo.jpg" group-title="USA Latino",Telemundo Internacional (2) ² 🇺🇸
-http://190.116.38.19:9090/play/a04c/index.m3u8
+#EXTINF:-1 tvg-chno="299" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/telemundo.jpg" group-title="USA Latino",Telemundo Internacional  🇺🇸
+http://go.iptvhn.net:25461/live/7785/7785/13303.m3u8
 
 #EXTINF:-1 tvg-chno="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_5_HN_logo.png/180px-Canal_5_HN_logo.png" group-title="Honduras",Canal 5 🇭🇳
 http://go.iptvhn.net:25461/live/7785/7785/13145.m3u8
