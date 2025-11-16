@@ -807,8 +807,8 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278833.m3u8
 #EXTINF:-1 tvg-chno="273" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/5e2b31c99b97574a06696454a5ada922_ODISEA%202.png" group-title="España",Odisea ° 🇪🇸
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278818.m3u8
 
-#EXTINF:-1 tvg-chno="273" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/640px-La_Otra_logo_%282017%29.svg.png" group-title="España",La Otra ¹ 🇪🇸
-https://laotra-1-23-secure2.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-chno="273" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/640px-La_Otra_logo_%282017%29.svg.png" group-title="España",La Otra 🇪🇸
+http://www.1play.cool:25461/live/2132580232/27be478b47/171832.m3u8
 
 #EXTINF:-1 tvg-chno="273" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/250px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="España",FDF ° 🇪🇸
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278836.m3u8
@@ -820,7 +820,7 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278832.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278809.m3u8
 
 #EXTINF:-1 tvg-chno="273" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/500px-DKISS_2019_logo.svg.png" group-title="España",Dkiss 🇪🇸
-http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/722631.m3u8
+http://www.1play.cool:25461/live/2132580232/27be478b47/126965.m3u8
 
 #EXTINF:-1 tvg-chno="274" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="España",Star TVE ¹ 🇪🇸
 https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
