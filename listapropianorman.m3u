@@ -1216,7 +1216,7 @@ http://38.159.227.124:8000/play/a049
 http://38.159.227.124:8000/play/a02q
 
 #EXTINF:-1 tvg-chno="423" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png" group-title="Cultura y Entretenimiento"group-title="Cultura y Entretenimiento",Discovery World 
-http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/66459.ts
+http://go.iptvhn.net:25461/live/7785/7785/13183.m3u8
 
 #EXTINF:-1 tvg-chno="423" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/DSFAM.png" group-title="Cultura y Entretenimiento",Discovery Family 
 http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/253.ts
@@ -1401,7 +1401,7 @@ http://181.78.23.26:45000/play/a03x
 #EXTINF:-1 tvg-chno="555" tvg-logo="https://contenidostv.b-cdn.net/images/clover512.jpg" group-title="Cine y Películas",Clover Channel ²
 http://181.174.231.146:18000/play/a0hd
 
-#EXTINF:-1 tvg-chno="556" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpge-empty-state.png" group-title="Cine y Películas",MX ²
+#EXTINF:-1 tvg-chno="556" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpge-empty-state.png" group-title="Cine y Películas",MX Cine ²
 http://45.184.87.142:8000/play/a05e
 
 #EXTINF:-1 tvg-chno="556" tvg-logo="https://static.wixstatic.com/media/c5adb2_7a400836c9f84c1fb2143cb9da04d1fb~mv2.png/v1/fill/w_280,h_160,al_c,lg_1,q_85,enc_avif,quality_auto/Image-empty-state.png" group-title="Cine y Películas",MX Family ²
