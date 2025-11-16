@@ -153,14 +153,14 @@ http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w1057824568.m3u8
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://i.imgur.com/RqdpiYo.jpeg" group-title="Nacionales",Megahits ¹ 🇨🇷
 https://live20.bozztv.com/giatv/giatv-megahits/megahits/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="Cine Latinos",Ciudad Magazine ¹ 🇦🇷
-https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="Cine Latinos",Ciudad Magazine ° 🇦🇷
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278794.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Bayres-TV-en-vivo-Online--1536x864.png" group-title="Cine Latinos",Bayres TV ¹ 🇦🇷
 https://vd525.okcdn.ru/?expires=1762577543520&srcIp=186.64.132.238&pr=10&srcAg=CHROME_ANDROID&ch=1336333768&ms=185.226.55.35&type=1&sig=yHqMn24LOEc&ct=6&urls=185.226.52.44&clientType=1&zs=43&id=533087128217
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://www.promendoza.com/wp-content/uploads/2018/06/cine-2-750x390.jpg" group-title="Cine Latinos",Cine Ar ¹ 🇦🇷
-https://joy.nx-pc.edge-apps.net/hls/m6l52-i7flc-5bii9-70gkm.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://www.promendoza.com/wp-content/uploads/2018/06/cine-2-750x390.jpg" group-title="Cine Latinos",Cine Ar ° 🇦🇷
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278753.m3u8
 
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://butaca.tv/_next/static/media/logo-black.32e2c785.png" group-title="Cine Latinos",Butaca TV ¹ 🇺🇸
 https://linear-842.frequency.stream/mt/plex/842/hls/master/playlist.m3u8
@@ -651,8 +651,8 @@ https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-chno="225" tvg-logo="https://static-media.streema.com/media/cache/c4/42/c442ed13a23c1f824bfdb25ab0b1397a.jpg" group-title="Bolivia",Gigavisión ¹ 🇧🇴
 https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8
 
-#EXTINF:-1 tvg-chno="226" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/New_Unitel_logo_HD.jpg" group-title="Bolivia",Unitel ᵇ 🇧🇴 
-http://budtvlight.com:25461/live/Tokayo/8595/62787.m3u8
+#EXTINF:-1 tvg-chno="226" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/New_Unitel_logo_HD.jpg" group-title="Bolivia",Unitel ° 🇧🇴 
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278783.m3u8
 
 #EXTINF:-1 tvg-chno="227" tvg-logo="https://4.bp.blogspot.com/--7IX2NCKelU/XCFC17d96gI/AAAAAAAAHN0/u3Qj0frMRGMNHKWr3dpKYJfCbbo94kANACLcBGAs/w350-h350-p-k-no-nu/Red%2BUno%2Ben%2Bvivo.png" group-title="Bolivia",Red Uno 🇧🇴 
 http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/464928.m3u8
@@ -777,8 +777,8 @@ https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr_720.m3u8
 #EXTINF:-1 tvg-chno="264" tvg-logo="https://logos.streamsites.eu/2894_la-2-en-directo_overview.png" group-title="España",La 2 ¹ 🇪🇸
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 
-#EXTINF:-1 tvg-chno="265" tvg-logo="https://logos.streamsites.eu/2516_antena3_overview.png" group-title="España",Antena 3 ᵇ 🇪🇸
-http://budtvlight.com:25461/live/Tokayo/8595/817306.m3u8
+#EXTINF:-1 tvg-chno="265" tvg-logo="https://logos.streamsites.eu/2516_antena3_overview.png" group-title="España",Antena 3 ° 🇪🇸
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278812.m3u8
 
 #EXTINF:-1 tvg-chno="266" tvg-logo="https://logos.streamsites.eu/2551_cuatro_overview.png" group-title="España",Cuatro ° 🇪🇸
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278808.m3u8
