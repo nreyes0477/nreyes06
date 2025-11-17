@@ -1503,8 +1503,8 @@ http://181.78.201.70:8000/play/a0po/index.m3u8
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" group-title="Cine y Películas",HBO 2 Sur 
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=41021&extension=ts
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbofamily.png" group-title="Cine y Películas",HBO Family Sur
-http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=664788&extension=ts
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbofamily.png" group-title="Cine y Películas",HBO Family Sur °
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278496.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus.png" group-title="Cine y Películas",HBO Plus Sur 
 http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=66448&extension=ts
