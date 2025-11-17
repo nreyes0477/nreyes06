@@ -1483,7 +1483,7 @@ http://200.92.227.238:8000/play/a0ms/index.m3u8
 http://38.183.182.166:8000/play/a0vx/index.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbosignature.png" group-title="Cine y Películas",HBO Signature Norte
-http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=118&extension=ts
+http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=46638&extension=ts
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime.png" group-title="Cine y Películas",HBO Xtreme Norte ²
 http://45.184.87.142:8000/play/a04l
