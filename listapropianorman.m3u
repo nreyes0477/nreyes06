@@ -198,12 +198,6 @@ https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8?cachebust=7e749c
 #EXTINF:-1 tvg-chno="60" tvg-logo="https://megatvcr.net/images/logo-mega.png" group-title="Nacionales",Mega Tv CR 🇨🇷
 https://k20.usastreams.com:8081/tvtico/video.m3u8
 
-#EXTINF:-1 tvg-chno="61" tvg-logo="https://www.megatvarequipa.com/wp-content/uploads/2023/05/cropped-cropped-cropped-cropped-cropped-Polish_20230519_110858425.jpg" group-title="Cine Latinos",Mega Tv Arequipa ¹ 🇵🇪
-https://stmv5.voxtvhd.com.br/tvytv/tvytv/chunklist_w1751351932.m3u8
-
-#EXTINF:-1 tvg-chno="62" tvg-logo="https://megatvjaen.pe/wp-content/uploads/2022/12/cropped-megajaen.png" group-title="Cine Latinos",Mega Tv ¹ 🇵🇪
-https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
-
 #EXTINF:-1 tvg-chno="63" tvg-logo="https://images.squarespace-cdn.com/content/v1/6011bffa317a1f7611f12428/1633029916787-F3MHJD8N95PE2K176HL0/kiss-cut-stickers-5.5x5.5-default-61560f185cc2a.png?format=1500w" group-title="Nacionales",Retro Tv On Line ¹ 🇨🇷
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
 
