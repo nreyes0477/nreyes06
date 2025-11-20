@@ -1581,11 +1581,11 @@ http://200.12.41.194:8000/play/a062/index.m3u8
 #EXTINF:-1 tvg-chno="611" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deportes",ESPN 4 Centro América ²
 http://200.12.41.194:8000/play/a064/index.m3u8
 
-#EXTINF:-1 tvg-chno="612" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png" group-title="Deportes",ESPN 5 Centro América ²
-http://200.12.41.194:8000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-chno="612" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png" group-title="Deportes",ESPN 5 Centro América 
+http://go.iptvhn.net:25461/live/7785/7785/13346.m3u8
 
-#EXTINF:-1 tvg-chno="613" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png" group-title="Deportes",ESPN 6 Centro América ²
-http://200.12.41.194:8000/play/a01s/index.m3u8
+#EXTINF:-1 tvg-chno="613" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png" group-title="Deportes",ESPN 6 Centro América
+http://go.iptvhn.net:25461/live/7785/7785/13347.m3u8
 
 #EXTINF:-1 tvg-chno="614" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN México 🇲🇽
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47107&extension=ts
