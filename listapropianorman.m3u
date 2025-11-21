@@ -1228,28 +1228,25 @@ http://go.iptvhn.net:25461/live/7785/7785/13389.m3u8
 http://38.159.227.124:8000/play/a02t
 
 #EXTINF:-1 tvg-chno="431" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiU87VgwvgsVvkxsZ4Lhx-AbQplLVwmdwxh2MHwjv6-cfkKLfKdxanACuFwoZiE47JeJ3Y58FK9dj69nOTMsPOLf1BiBPx7g3TwMVy24NrF0Xpff9lT_xYE5cMlgbwF_jIaG1Lh40Lw4tuamw4q_RhSVypYoVRKkWcRaOEKjnS9MkpKAI_72Qkgw-hDziH/w640-h360-rw/adultswimtvlaint.jpg" group-title="Cultura y Entretenimiento",Adult Swim ²
-http://216.122.181.10:8081/play/a0ro
+http://200.115.120.1:8000/play/ca081/index.m3u8
 
 #EXTINF:-1 tvg-chno="432" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/350px-DistritoComediaLOGO2018.png" group-title="Cultura y Entretenimiento",Distrito Comedia
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13173&extension=ts
+http://190.11.225.124:5000/live/distrito_comedia_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="433" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sun_channel-mediano.png" group-title="Cultura y Entretenimiento",Sun Channel
 http://go.iptvhn.net:25461/live/7785/7785/13413.m3u8
 
 #EXTINF:-1 tvg-chno="434" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-gourmet_m.png" group-title="Cultura y Entretenimiento",El Gourmet
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=155204&extension=ts
+http://go.iptvhn.net:25461/live/7785/7785/13147.m3u8
 
-#EXTINF:-1 tvg-chno="436" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/1024px-Claro_TV_wordmark.svg.png" group-title="Cultura y Entretenimiento",Canal Claro ²
-http://200.60.124.20:29000/play/a04w/index.m3u8
+#EXTINF:-1 tvg-chno="436" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/1024px-Claro_TV_wordmark.svg.png" group-title="Cultura y Entretenimiento",Canal Claro ¹
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/68224482c5d53e1351aaf2f2livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
 #EXTINF:-1 tvg-chno="437" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/220px-%C2%A1HOLA%21TVlogo.jpg" group-title="Cultura y Entretenimiento",¡Hola! TV
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=164038&extension=ts
 
-#EXTINF:-1 tvg-chno="438" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/125px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="Cultura y Entretenimiento",Mas Chic ²
-http://38.159.227.124:8000/play/a095
-
 #EXTINF:-1 tvg-chno="440" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Clic_%28TV_channel%29_logo_2021.png" group-title="Cultura y Entretenimiento",Clic!
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=151358&extension=ts
+http://go.iptvhn.net:25461/live/7785/7785/13103.m3u8
 
 #EXTINF:-1 tvg-chno="500" tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png" group-title="Cine y Películas",A&E ²
 http://38.159.227.124:8000/play/a04r
