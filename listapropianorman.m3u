@@ -12,8 +12,8 @@ https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="Nacionales",Canal 6 Repretel ¹ 🇨🇷
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-chno="7" tvg-logo="https://i.imgur.com/ctnvE3c.png" group-title="Nacionales",Canal 7 Teletica ² 🇨🇷
-http://200.92.227.238:8000/play/a0ry/index.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://i.imgur.com/ctnvE3c.png" group-title="Nacionales",Canal 7 Teletica 🇨🇷
+http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=46826&extension=ts
 
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://www.teleticaradio.com/img/Logo-Color.png" group-title="Nacionales",Teletica Radio ¹ 🇨🇷
 https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamTRadio/bbcfd43fb9ad3b22af53808371ce9a16.sdp/playlist.m3u8
