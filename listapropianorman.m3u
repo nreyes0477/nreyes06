@@ -1570,7 +1570,7 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password=XHBR21BVCB&stream=145465&extension=ts
 
 #EXTINF:-1 tvg-chno="607" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Centro América ²
-http://181.78.106.127:9000/play/ca033
+http://38.159.227.124:8000/play/a042
 
 #EXTINF:-1 tvg-chno="608" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 Centro América ²
 http://181.78.82.6:46090/play/a00i
