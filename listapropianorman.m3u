@@ -1501,7 +1501,7 @@ http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=h
 http://38.97.240.11:8000/play/a0mt/index.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://static.latamwbd.com/2023-11/logo%202x.png" group-title="Cine y Películas",HBO Sur ²
-http://181.78.201.70:8000/play/a0po/index.m3u8
+http://38.41.8.1:8000/play/a0ro
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" group-title="Cine y Películas",HBO 2 Sur 
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=41021&extension=ts
