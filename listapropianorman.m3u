@@ -252,6 +252,9 @@ http://190.11.225.124:5000/live/tlnovelas/playlist.m3u8
 #EXTINF:-1 tvg-chno="69" tvg-logo="https://zonecampus.ca/wp-content/uploads/2023/04/unnamed.jpg" group-title="24/7 Novelas",Telemundo Novelas Clásicas ¹ 🇺🇸
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/3321280/playlist.m3u8?terminate=false&sid=11274d9c-4f3d-4891-ae2e-08937bcc8bb5&deviceDNT=0&deviceModel=web&deviceVersion=unknown&appName=web&deviceId=6c2bfeb5-30d3-11ef-9cf5-e9ddff8ff496&appVersion=unknown&deviceType=web&deviceMake=Chrome
 
+#EXTINF:-1 tvg-chno="69" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Telemundo_Logo_2018-1.svg/1534px-Telemundo_Logo_2018-1.svg.png" group-title="USA Latino",Telemundo Novelas Acción ¹ 🇺🇸
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+
 #EXTINF:-1 tvg-chno="69" tvg-logo="https://www.stormcastcinema.com/images/novelas.png" group-title="24/7 Novelas",Stormcast Novelas ¹ 🇪🇸
 https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
 
@@ -426,8 +429,8 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 #EXTINF:-1 tvg-chno="97" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Shark Thank México
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2384951.m3u8
 
-#EXTINF:-1 tvg-chno="98" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Caso Cerrado
-http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2384905.m3u8
+#EXTINF:-1 tvg-chno="98" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Caso Cerrado ¹
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-chno="99" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Alerta Aeropuerto (1)
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=228655&extension=ts
@@ -587,6 +590,9 @@ https://cdn1.cef-technology.com/chf-cdn/hipertv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="183" tvg-logo="https://www.deel.com/hs-fs/hubfs/Platzi%20logo.png?width=1000&height=387&name=Platzi%20logo.png" group-title="Educativos",Platzi TV ¹ 🇨🇱
 https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream/5c5c9bd24eedd524d6a1a8bf/playout/master.m3u8?aid=512e13acaca1ebcd2f000279&pid=qL8kPMyeCWsH1lj1FbMZz8vdXepvWOBQ&sid=vRrt2PVwsUuVr00IKna9HcKb4IgqSwqG&uid=utMBuOxEohxCNnBgXhT4m50ZuZKe2BFj&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1760077587990&ot=9FuJ4fpPajVgQX7ix8EVBw&proto=https&pz=us
+
+#EXTINF:-1 tvg-chno="273" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/5e2b31c99b97574a06696454a5ada922_ODISEA%202.png" group-title="Educativos",Odisea ° 🇪🇸
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278818.m3u8
 
 #EXTINF:-1 tvg-chno="185" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Educativos",Canal Astronet ¹ 🇦🇷
 https://stmv6.voxtvhd.com.br/astronet/astronet/playlist.m3u8
@@ -807,9 +813,6 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278807.m3u8
 #EXTINF:-1 tvg-chno="273" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/dmax-en-directo-online-en-vivo.png" group-title="España",DMAX ° 🇪🇸
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278833.m3u8
 
-#EXTINF:-1 tvg-chno="273" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/5e2b31c99b97574a06696454a5ada922_ODISEA%202.png" group-title="España",Odisea ° 🇪🇸
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278818.m3u8
-
 #EXTINF:-1 tvg-chno="273" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/640px-La_Otra_logo_%282017%29.svg.png" group-title="España",La Otra 🇪🇸
 http://www.1play.cool:25461/live/2132580232/27be478b47/171832.m3u8
 
@@ -869,12 +872,6 @@ http://go.iptvhn.net:25461/live/7785/7785/13340.m3u8
 
 #EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="USA Latino",Telemundo DV ° 🇺🇸
 http://104.238.205.28:8989/278663_.m3u8
-
-#EXTINF:-1 tvg-chno="288" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Telemundo_Logo_2018-1.svg/1534px-Telemundo_Logo_2018-1.svg.png" group-title="USA Latino",Telemundo Romance ¹ 🇺🇸
-https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
-
-#EXTINF:-1 tvg-chno="288" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Telemundo_Logo_2018-1.svg/1534px-Telemundo_Logo_2018-1.svg.png" group-title="USA Latino",Telemundo Acción ¹ 🇺🇸
-https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-chno="289" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png" group-title="USA Latino",Galavisión AU 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148740&extension=ts
