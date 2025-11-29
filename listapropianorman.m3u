@@ -525,8 +525,8 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8?uid=5dAe2f
 #EXTINF:-1 tvg-chno="163" tvg-logo="https://images.pluto.tv/channels/67d9b0ebc290c9499046e88f/colorLogoPNG_1747143716006.png" group-title="Noticias",Noticias RCN ¹ 🇨🇴 
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/67d9b0ebc290c9499046e88flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 tvg-chno="166" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Noticias",TV Perú Noticias 🇵🇪
-http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/155853.m3u8
+#EXTINF:-1 tvg-chno="166" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Noticias",TV Perú Noticias ¹ 🇵🇪
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
 
 #EXTINF:-1 tvg-chno="166" tvg-logo="https://assets.wikiwand.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Latina_Noticias_Noviembre_2024.svg/langes-420px-Latina_Noticias_Noviembre_2024.svg.png&w=828&q=80" group-title="Noticias",Latina Noticias ¹ 🇵🇪
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8?dpssid=b131176395625465cbd92084d9a&sid=ba5t1l1xb2897089257685f608fe3da5&ndvc=0
@@ -1074,8 +1074,8 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 #EXTINF:-1 tvg-chno="364" tvg-logo="https://unitelperu.pe/wp-content/uploads/2025/03/cropped-CUNA-LOGO-UNITEL-2022-2-1.png" group-title="Perú",Unitel TV ¹ 🇵🇪
 https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 
-#EXTINF:-1 tvg-chno="365" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/500px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Perú",Tv Perú ² 🇵🇪
-http://38.183.182.166:8000/play/a12u/index.m3u8
+#EXTINF:-1 tvg-chno="365" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/500px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Perú",Tv Perú ¹ 🇵🇪
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 
 #EXTINF:-1 tvg-chno="366" tvg-logo="https://alba-pe-atv.cdn.mediatiquepress.com/wp-content/uploads/2025/01/ATVpe_Logo-1-150x58.png" group-title="Perú",ATV ¹ 🇵🇪
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
