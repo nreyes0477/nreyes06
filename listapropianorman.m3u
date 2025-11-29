@@ -550,7 +550,7 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 http://38.41.8.1:8000/play/a03u
 
 #EXTINF:-1 tvg-chno="173" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/04/Telesur-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Noticias",Telesur ¹ 🇻🇪
-https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="174" tvg-logo="https://cdn77.pressenza.com/wp-content/uploads/2016/01/HispanTV-300x128.jpg" group-title="Noticias",Hispan TV ¹ 🇮🇷
 https://live.presstv.ir/hls/hispantv.m3u8
