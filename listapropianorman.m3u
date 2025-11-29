@@ -594,11 +594,8 @@ https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 #EXTINF:-1 tvg-chno="190" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Vale-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Educativos",Vale TV ¹ 🇻🇪
 https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina",Telefe ² 🇦🇷
-http://190.104.67.230:234/play/a08a/index.m3u8
-
-#EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="Argentina",El Trece ¹ 🇦🇷
-https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/index.m3u8
+#EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina",Telefe 🇦🇷
+http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/278773.m3u8
 
 #EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="Argentina",El Trece ² 🇦🇷
 http://190.104.67.230:234/play/a07b/index.m3u8
@@ -630,8 +627,8 @@ https://panel.host-live.com:19360/8250/8250.m3u8
 #EXTINF:-1 tvg-chno="210" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png" group-title="Argentina",Telefe Internacional (Pluto) ¹ 🇦🇷
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/613237a1c9e0db0007a91350/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=b928fc63-5373-dbd5-be6e-d30c87e8b781&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1 tvg-chno="210" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png" group-title="Argentina",Telefe Internacional ² 🇦🇷
-http://181.78.201.70:8000/play/a0ti/index.m3u8
+#EXTINF:-1 tvg-chno="210" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png" group-title="Argentina",Telefe Internacional 🇦🇷
+http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/278774.m3u8
 
 #EXTINF:-1 tvg-chno="211" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png" group-title="Argentina",El Trece Internacional ² 🇦🇷
 http://181.78.201.70:8000/play/a0mu/index.m3u8
