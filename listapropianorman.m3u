@@ -180,6 +180,9 @@ https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
 #EXTINF:-1 tvg-chno="56" tvg-logo="https://www.telemas.tv/wp-content/uploads/2025/03/logo_v6.png" group-title="Cine Latinos",Telemas + ¹ 🇭🇳
 https://viewhn.com/telemas/live/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="56" tvg-logo="https://megatvjaen.pe/wp-content/uploads/2022/12/cropped-megajaen.png" group-title="Cine Latinos",Mega Tv Jaen ¹ 🇵🇪
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+
 #EXTINF:-1 tvg-chno="56" tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="Cine Latinos",Canal 57 Florida ¹ 🇺🇸
 https://167790.global.ssl.fastly.net:443/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v1a1/mono.m3u8
 
@@ -633,8 +636,8 @@ http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/278774.m3u8
 #EXTINF:-1 tvg-chno="211" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png" group-title="Argentina",El Trece Internacional ² 🇦🇷
 http://181.78.201.70:8000/play/a0mu/index.m3u8
 
-#EXTINF:-1 tvg-chno="222" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/ATB-en-vivo-Online.png" group-title="Bolivia",ATB 🇧🇴
-http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/464916.m3u8
+#EXTINF:-1 tvg-chno="222" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/ATB-en-vivo-Online.png" group-title="Bolivia",ATB ² 🇧🇴
+http://186.121.206.197/live/daniel/index.m3u8
 
 #EXTINF:-1 tvg-chno="223" tvg-logo="https://3.bp.blogspot.com/-OFbQmNvw9ns/XCFQN1j9pUI/AAAAAAAAHOU/_HbtJbA4x-ADtnD5ol6JDZmTrRmZCtOSgCLcBGAs/w350-h350-p-k-no-nu/Bolivision%2Ben%2Bvivo.png" group-title="Bolivia",Bolivisión ¹ 🇧🇴 
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
@@ -1068,8 +1071,11 @@ http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/10633.m3u8
 #EXTINF:-1 tvg-chno="364" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/800px-LaTele_Per%C3%BA_2018_Logo.png" group-title="Perú",La Tele ¹ 🇵🇪
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=151451&extension=ts
 
+#EXTINF:-1 tvg-chno="364" tvg-logo="https://unitelperu.pe/wp-content/uploads/2025/03/cropped-CUNA-LOGO-UNITEL-2022-2-1.png" group-title="Perú",Unitel TV ¹ 🇵🇪
+https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
+
 #EXTINF:-1 tvg-chno="365" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/500px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Perú",Tv Perú ² 🇵🇪
-http://181.188.216.5:18000/play/a0qn/index.m3u8
+http://38.183.182.166:8000/play/a12u/index.m3u8
 
 #EXTINF:-1 tvg-chno="366" tvg-logo="https://alba-pe-atv.cdn.mediatiquepress.com/wp-content/uploads/2025/01/ATVpe_Logo-1-150x58.png" group-title="Perú",ATV ¹ 🇵🇪
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
