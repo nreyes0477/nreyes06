@@ -177,6 +177,9 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-chno="55" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3335-320x180-000000.jpg" group-title="Cine Latinos",Latina TV ¹ 🇩🇴
 https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
 
+#EXTINF:-1 tvg-chno="55" tvg-logo="https://imagenuniversaltv.com/wp-content/uploads/2024/06/Logo-imagen-Universal-Horizontal.png" group-title="Cine Latinos",Imagen Universal TV ¹ 🇩🇴
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+
 #EXTINF:-1 tvg-chno="56" tvg-logo="https://www.telemas.tv/wp-content/uploads/2025/03/logo_v6.png" group-title="Cine Latinos",Telemas + ¹ 🇭🇳
 https://viewhn.com/telemas/live/playlist.m3u8
 
@@ -615,6 +618,9 @@ http://200.80.230.123:8000/play/a0a8/index.m3u8
 #EXTINF:-1 tvg-chno="205" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG" group-title="Argentina",América TV ² 🇦🇷
 http://200.80.230.123:8000/play/a0a7/index.m3u8
 
+#EXTINF:-1 tvg-chno="205" tvg-logo="https://atvargentinahd.com/assets/img/logo.png" group-title="Argentina",ATV ¹ 🇦🇷
+https://tv.streaming.com.bo/atvargentina/index.m3u8
+
 #EXTINF:-1 tvg-chno="205" tvg-logo="https://www.grupocronica.com.ar/resources/img/tv/cronica_Bravo_TV.jpg" group-title="Argentina",Bravo TV ¹ 🇦🇷
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
 
@@ -914,6 +920,9 @@ https://viewhn.com/chtv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="310" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal10Honduras2019.png/revision/latest/scale-to-width-down/250?cb=20190604153849" group-title="Honduras",Ten 🇭🇳
 http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/194.m3u8
+
+#EXTINF:-1 tvg-chno="310" tvg-logo="https://aztecahonduras.com/wp-content/uploads/2022/11/tv-azteca-honduras-noticias.png" group-title="Honduras",Azteca Honduras ¹ 🇭🇳
+https://dvrfl03.bozztv.com/hondu-azteca/index.m3u8
 
 #EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno 🇲🇽
 http://kstv.us:8080/live/uAf2e8KWbg/8722455439/46937.m3u8
