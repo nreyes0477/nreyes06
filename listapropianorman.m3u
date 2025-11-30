@@ -654,7 +654,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/613237a1c9e0db0007
 #EXTINF:-1 tvg-chno="210" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png" group-title="Argentina",Telefe Internacional 🇦🇷
 http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/278774.m3u8
 
-#EXTINF:-1 tvg-chno="211" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png" group-title="Argentina",El Trece Internacional ² 🇦🇷
+#EXTINF:-1 tvg-chno="211" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png" group-title="Argentina",El Trece Internacional 🇦🇷
 http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password=XHBR21BVCB&stream=4904&extension=ts
 
 #EXTINF:-1 tvg-chno="222" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/ATB-en-vivo-Online.png" group-title="Bolivia",ATB ² 🇧🇴
