@@ -186,6 +186,18 @@ https://viewhn.com/telemas/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="56" tvg-logo="https://megatvjaen.pe/wp-content/uploads/2022/12/cropped-megajaen.png" group-title="Cine Latinos",Mega Tv Jaen ¹ 🇵🇪
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 
+#EXTINF:-1 tvg-chno="56" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Cine Latinos",Tv Show ¹ 🇧🇴
+http://tv.istbolivia.com:1935/tvshow/tvshow/.m3u8
+
+#EXTINF:-1 tvg-chno="56" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Cine Latinos",Mix Bolivia TV ¹ 🇧🇴
+https://live20.bozztv.com/giatv/giatv-mixboliviatv/mixboliviatv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="56" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Cine Latinos",Coral TV ¹ 🇧🇴
+https://tv.mediacp.eu:8081/coraltv/index.m3u8
+
+#EXTINF:-1 tvg-chno="56" tvg-logo="https://playmax.tv/wp-content/uploads/2023/01/planettva.png" group-title="Cine Latinos", Planeta TV ¹ 🇵🇪
+https://live.obslivestream.com/planetatv/index.m3u8
+
 #EXTINF:-1 tvg-chno="56" tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="Cine Latinos",Canal 57 Florida ¹ 🇺🇸
 https://167790.global.ssl.fastly.net:443/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v1a1/mono.m3u8
 
