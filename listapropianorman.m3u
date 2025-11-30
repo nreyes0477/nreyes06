@@ -276,8 +276,8 @@ http://planettvweb.com:8091/streaming/clients_live.php?username=ArielMndo&passwo
 #EXTINF:-1 tvg-chno="69" tvg-logo="http://eltopcolombia.com/wp-content/uploads/2022/05/unnamed-30.png" group-title="24/7 Novelas",Canela Novelas Turcas 🇹🇷
 https://amg00658-amg00658c102-canelatv-international-7231.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelasturcas-canelatvinternational/playlist.m3u8?rights_holder_id=novelas-turcas&user_id=&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=0e7a5e4a-779f-4c37-abbd-b5cf77b4407c&url=https://canela.tv/player/channel/novelas-turcas&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
 
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/nova-en-directo-online-y-en-vivo.png" group-title="24/7 Novelas",Nova ² 🇪🇸
-http://176.65.146.237:8401/play/a0ah/index.m3u8
+#EXTINF:-1 tvg-chno="69" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/nova-en-directo-online-y-en-vivo.png" group-title="24/7 Novelas",Nova 🇪🇸
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147178&extension=ts
 
 #EXTINF:-1 tvg-chno="69" tvg-logo="https://nov.vod.immergo.tv/nov/uploaded/0d553227-72ef-48e6-8f95-4917622782a7.png" group-title="24/7 Novelas",Novelisima ¹ 🇻🇪
 https://amg00658-amg00658c60-canelatv-international-5442.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00658-canelamediafast-novelisimaappta-canelatvinternational/playlist.m3u8?app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&content_livestream=1&coppa=0&device_language=es&did=02e27c44-b3ec-4523-9c12-e9b90380087a&dnt=0&ic=IAB1-7&ifa_type=NA&lmt=NA&rights_holder_id=novelisima&url=https%3A%2F%2Fwww.canela.tv%2Fplayer%2Fchannel%2Fnovelisima&us_privacy=null_us_privacy&user_id=
@@ -818,6 +818,12 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278807.m3u8
 
 #EXTINF:-1 tvg-chno="273" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/dmax-en-directo-online-en-vivo.png" group-title="España",DMAX ° 🇪🇸
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278833.m3u8
+
+#EXTINF:-1 tvg-chno="273" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/TEN_2024_Logo.svg/330px-TEN_2024_Logo.svg.png" group-title="España",Ten ² 🇪🇸
+http://176.65.146.237:8401/play/a0al/index.m3u8
+
+#EXTINF:-1 tvg-chno="273" tvg-logo="tvg-logo="https://tvendirecto.es/wp-content/uploads/TRECE-en-directo.png" group-title="España",Trece ² 🇪🇸
+http://176.65.146.237:8401/play/a0a9/index.m3u8
 
 #EXTINF:-1 tvg-chno="273" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/640px-La_Otra_logo_%282017%29.svg.png" group-title="España",La Otra 🇪🇸
 http://www.1play.cool:25461/live/2132580232/27be478b47/171832.m3u8
