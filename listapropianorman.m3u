@@ -1132,7 +1132,7 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148440&extension=ts
 
 #EXTINF:-1 tvg-chno="376" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/telemicro.png?zoom=3&resize=100%2C70&ssl=1" group-title="República Dominicana",Telemicro Canal 5 ² 🇩🇴
-http://181.189.244.252:8000/play/a011/index.m3u8
+http://181.119.108.27:8000/play/a04b/index.m3u8
 
 #EXTINF:-1 tvg-chno="377" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Color-Visio%CC%81n-9-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="República Dominicana",Color Visión Canal 9 ² 🇩🇴
 http://190.110.36.254/COLORVISION/index.m3u8
