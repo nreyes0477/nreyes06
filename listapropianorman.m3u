@@ -1818,8 +1818,8 @@ http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/278991.m3u8
 #EXTINF:-1 tvg-chno="680" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_mobile_ORIGINAL.png" group-title="Deportes",ECDF ² 🇪🇨
 http://38.44.109.41:8003/play/a038/index.m3u8
 
-#EXTINF:-1 tvg-chno="681" tvg-logo="https://dfw.yhy.mybluehost.me/wp-content/uploads/2023/04/png_golperu_logo.png" group-title="Deportes",Gol Perú 🇵🇪
-http://2.magmas5.com:8000/streaming/clients_live.php?username=MyBOXXTV2024&password=SILVERsat173929HH&stream=4841&extension=ts
+#EXTINF:-1 tvg-chno="681" tvg-logo="https://dfw.yhy.mybluehost.me/wp-content/uploads/2023/04/png_golperu_logo.png" group-title="Deportes",Gol Perú ² 🇵🇪
+http://38.183.182.166:8000/play/a120/index.m3u8
 
 #EXTINF:-1 tvg-chno="681" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos-mediano.png" group-title="Deportes",Gol Tv ᵇᵘ 🇺🇾
 http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/279431.m3u8
