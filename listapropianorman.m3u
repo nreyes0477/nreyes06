@@ -244,7 +244,7 @@ https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="69" tvg-logo="https://ipuntotv.com/IMAGES/TNT-Novelas-logo-nuevo.jpg" group-title="24/7 Novelas",TNT Novelas ² 🇲🇽 
-http://177.93.46.163:8000/play/a01g
+http://38.159.227.124:8000/play/a08l
 
 #EXTINF:-1 tvg-chno="69" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXjJn9sSNrZSuqtwTm5DGor-M4uLoIrwfjh7yn22xVG9bl4mJw1rK2gY-wehuSSirTbgN6uEQHdFUn1Giq__TPYaj1USXHSmowkGcq89eGeW14s0uj3VjYje6egHRB5B0NVTB_bwwDg6TxRYv0NjxOEwDUwCbf5nRVcmZV6qN4NJd-J83LOFM-zvuI/w200-h151/RCN_Novelas_logo_2019.png" group-title="24/7 Novelas",TLnovelas ² 🇲🇽 
 http://190.11.225.124:5000/live/tlnovelas/playlist.m3u8
@@ -276,11 +276,11 @@ http://planettvweb.com:8091/streaming/clients_live.php?username=ArielMndo&passwo
 #EXTINF:-1 tvg-chno="69" tvg-logo="http://eltopcolombia.com/wp-content/uploads/2022/05/unnamed-30.png" group-title="24/7 Novelas",Canela Novelas Turcas 🇹🇷
 https://amg00658-amg00658c102-canelatv-international-7231.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelasturcas-canelatvinternational/playlist.m3u8?rights_holder_id=novelas-turcas&user_id=&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=0e7a5e4a-779f-4c37-abbd-b5cf77b4407c&url=https://canela.tv/player/channel/novelas-turcas&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
 
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/nova-en-directo-online-y-en-vivo.png" group-title="24/7 Novelas",Nova 🇪🇸
-http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/722637.m3u8
+#EXTINF:-1 tvg-chno="69" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/nova-en-directo-online-y-en-vivo.png" group-title="24/7 Novelas",Nova ² 🇪🇸
+http://176.65.146.237:8401/play/a0ah/index.m3u8
 
 #EXTINF:-1 tvg-chno="69" tvg-logo="https://nov.vod.immergo.tv/nov/uploaded/0d553227-72ef-48e6-8f95-4917622782a7.png" group-title="24/7 Novelas",Novelisima ¹ 🇻🇪
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1yn-&did=5de3272ca828334125a8958b379e80ca&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=en&site_page=https%253a%252f%252fwww.canela.tv%252flinear%252fnovelisima&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1682534197&id=29260&ip=45.239.66.196&override_expiration=1500&deliveryProfileId=23762&sign=AnTU27Owgu%2FvemMRtOIK%2BuHtqV7PpNMyoU1iGCyVV%2B8%3D
+https://amg00658-amg00658c60-canelatv-international-5442.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00658-canelamediafast-novelisimaappta-canelatvinternational/playlist.m3u8?app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&content_livestream=1&coppa=0&device_language=es&did=02e27c44-b3ec-4523-9c12-e9b90380087a&dnt=0&ic=IAB1-7&ifa_type=NA&lmt=NA&rights_holder_id=novelisima&url=https%3A%2F%2Fwww.canela.tv%2Fplayer%2Fchannel%2Fnovelisima&us_privacy=null_us_privacy&user_id=
 
 #EXTINF:-1 tvg-chno="69" tvg-logo="https://tivify.tv/static/img/tivify/tivify-logo.png" group-title="24/7 Novelas",Tivify ¹ 🇪🇸
 https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
