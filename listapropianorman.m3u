@@ -655,7 +655,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/613237a1c9e0db0007
 http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/278774.m3u8
 
 #EXTINF:-1 tvg-chno="211" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png" group-title="Argentina",El Trece Internacional ² 🇦🇷
-http://181.78.201.70:8000/play/a0mu/index.m3u8
+http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password=XHBR21BVCB&stream=4904&extension=ts
 
 #EXTINF:-1 tvg-chno="222" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/ATB-en-vivo-Online.png" group-title="Bolivia",ATB ² 🇧🇴
 http://186.121.206.197/live/daniel/index.m3u8
@@ -819,8 +819,8 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278807.m3u8
 #EXTINF:-1 tvg-chno="273" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/dmax-en-directo-online-en-vivo.png" group-title="España",DMAX ° 🇪🇸
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278833.m3u8
 
-#EXTINF:-1 tvg-chno="273" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/TEN_2024_Logo.svg/330px-TEN_2024_Logo.svg.png" group-title="España",Ten ² 🇪🇸
-http://176.65.146.237:8401/play/a0al/index.m3u8
+#EXTINF:-1 tvg-chno="273" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/TEN_2024_Logo.svg/330px-TEN_2024_Logo.svg.png" group-title="España",Ten 🇪🇸
+http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password=XHBR21BVCB&stream=187772&extension=ts
 
 #EXTINF:-1 tvg-chno="273" tvg-logo="tvg-logo="https://tvendirecto.es/wp-content/uploads/TRECE-en-directo.png" group-title="España",Trece ² 🇪🇸
 http://176.65.146.237:8401/play/a0a9/index.m3u8
