@@ -216,8 +216,14 @@ https://server.asilivehd.com:3802/live/canal4live.m3u8
 #EXTINF:-1 tvg-chno="60" tvg-logo="https://cineramatv.com/wp-content/uploads/2024/10/sin-fondo.png" group-title="Cine Latinos",Cinerama TV ¹ 🇧🇴
 https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8?cachebust=7e749c
 
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://megatvcr.net/images/logo-mega.png" group-title="Nacionales",Mega Tv CR 🇨🇷
+#EXTINF:-1 tvg-chno="60" tvg-logo="https://megatvcr.net/images/logo-mega.png" group-title="Nacionales",Mega Tv CR ¹ 🇨🇷
 https://k20.usastreams.com:8081/tvtico/video.m3u8
+
+#EXTINF:-1 tvg-chno="60" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr6QWfe5-SiHV3YOww4BaQn0DK5k9tc3j8Ftm5V3cnMkbjj2xRQ292sAFr1Fp618m8vbggU8OPBOrp8SZ1UQRCiY7lNRwquM1IlA42_PBAW1K5bzxBJpZd7PeukuLTQErG6ssx9sErR3gW19-JtDv_FZr7jgMurau5zIRGoCCmkamm2bwKyqDLebuEE9-h/s600/PUNTO%209%20TV%20PORTADA%203.png" group-title="Nacionales",Radio Punto 9 CR ¹ 🇨🇷
+https://acceso.mediosdecostarica.com:3569/live/punto9tvlive.m3u8
+
+#EXTINF:-1 tvg-chno="61" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcNnJ6lZrHUFcLeVS0H8AkrG3b_wprti0myCOEnU4NvqkGhuMFbDVFlSDaGVmPUSMUMiftf7hjNb1RRB7n5Tc7bHIlsK8TjbDYAbD4KURV3rVrXzA_BKuVBKKdE4w9OsWFQ0Dn31pAqcnRHeN7Kw6bB_TJvFdcPxmtax11ml5CLKmoXSMRBAgGsdcg9SAr/s600/PORTADA%20BEST%20CLASICOS%20TV.png" group-title="Nacionales",Best Clásicos TV ¹ 🇨🇷
+https://acceso.mediosdecostarica.com:3873/stream/play.m3u8
 
 #EXTINF:-1 tvg-chno="63" tvg-logo="https://images.squarespace-cdn.com/content/v1/6011bffa317a1f7611f12428/1633029916787-F3MHJD8N95PE2K176HL0/kiss-cut-stickers-5.5x5.5-default-61560f185cc2a.png?format=1500w" group-title="Nacionales",Retro Tv On Line ¹ 🇨🇷
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
