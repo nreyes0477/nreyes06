@@ -240,6 +240,12 @@ https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
 #EXTINF:-1 tvg-chno="60" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/15-1.jpg" group-title="Cine Latinos",Telecinco Trelew ¹ 🇦🇷
 https://videohd.live:19360/8016/8016.m3u8
 
+#EXTINF:-1 tvg-chno="60" tvg-logo="https://i.postimg.cc/brrsGL5r/kandela.jpg" group-title="Cine Latinos",Kandela TV ¹ 🇻🇪
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+
+#EXTINF:-1 tvg-chno="60" tvg-logo="https://i.postimg.cc/j5zxhCKm/rocket2.jpg" group-title="Cine Latinos",Rocket TV TV ¹ 🇨🇱
+https://live20.bozztv.com/giatv/giatv-rocket/rocket/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="60" tvg-logo="https://megatvcr.net/images/logo-mega.png" group-title="Nacionales",Mega Tv CR ¹ 🇨🇷
 https://stream.enlineatv.net/hls/megatvcr/index.m3u8
 
