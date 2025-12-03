@@ -360,7 +360,10 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279042.m3u8
 #EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Los Simpson (3) °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279044.m3u8
 
-#EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Los Simpson (4)
+#EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Los Simpson (4) ¹
+https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Los Simpson (5)
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=129313&extension=ts
 
 #EXTINF:-1 tvg-chno="72" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Futurama (1) °
@@ -656,6 +659,12 @@ https://stmv6.voxtvhd.com.br/astronet/astronet/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="185" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/32.jpg" group-title="Educativos",Ciencia & Tecnología 365 ¹ 🇦🇷
 https://stmv6.voxtvhd.com.br/techscience365/techscience365/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="185" tvg-logo="https://i.postimg.cc/zB6q2WXB/free-sa.jpg" group-title="Educativos",Free TV Saber Más ¹ 🇦🇷
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="185" tvg-logo="https://i.postimg.cc/Tw87qZrv/pluh.jpg" group-title="Educativos",Pluto Tv Historia ¹ 🇦🇷
+https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8
 
 #EXTINF:-1 tvg-chno="186" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/8.jpg" group-title="Educativos",Canal Te lo Cuento ¹ 🇦🇷
 https://stmv7.voxtvhd.com.br/telocuentoy/telocuentoy/playlist.m3u8
