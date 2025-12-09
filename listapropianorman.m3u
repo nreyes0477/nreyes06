@@ -234,6 +234,15 @@ https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 #EXTINF:-1 tvg-chno="60" tvg-logo="https://i.postimg.cc/j5zxhCKm/rocket2.jpg" group-title="Cine Latinos",Rocket TV ¹ 🇨🇱
 https://live20.bozztv.com/giatv/giatv-rocket/rocket/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="60" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/28.jpg" group-title="Cine Latinos",Multivisión Televisión Digital ¹ 🇦🇷
+https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
+
+#EXTINF:-1 tvg-chno="60" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/29.jpg" group-title="Cine Latinos",Videoclub TV ¹ 🇦🇷
+https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
+
+#EXTINF:-1 tvg-chno="60" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/30.jpg" group-title="Cine Latinos",Megacine ¹ 🇦🇷
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+
 #EXTINF:-1 tvg-chno="60" tvg-logo="https://megatvcr.net/images/logo-mega.png" group-title="Nacionales",Mega Tv CR ¹ 🇨🇷
 https://stream.enlineatv.net/hls/megatvcr/index.m3u8
 
@@ -349,10 +358,10 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279042.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279044.m3u8
 
 #EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Los Simpson (4) ¹
-https://live20.bozztv.com/akamaissh101/ssh101/simgit/chunks.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Los Simpson (5) ¹
-https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/simgit/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Los Simpson (6)
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=129313&extension=ts
@@ -624,12 +633,6 @@ https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="177" tvg-logo="https://ocopen.org/wp-content/uploads/2021/11/OCOPEN-Negocios.png"bgroup-title="Noticias",Negocios TV ¹ 🇪🇦
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
-#EXTINF:-1 tvg-chno="178" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/200px-Ucvtvlogo2014mejorado.png" group-title="Educativos",UCV Chile ¹ 🇨🇱
-https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="140" tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2020/12/CANAL-UCL_Logo-350.png" group-title="Educativos",UCL Televisión ¹ 🇺🇾
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-
 #EXTINF:-1 tvg-chno="179" tvg-logo="https://cdn.m3u.cl/logo/1356_El_Histonauta_TV.png" group-title="Educativos",El Histonauta TV ¹ 🇦🇷
 https://stmv6.voxtvhd.com.br/elhistonautatv/elhistonautatv/playlist.m3u8
 
@@ -637,7 +640,7 @@ https://stmv6.voxtvhd.com.br/elhistonautatv/elhistonautatv/playlist.m3u8
 https://wbd-xat.otteravision.com/wbd/xat/xat.m3u8
 
 #EXTINF:-1 tvg-chno="182" tvg-logo="https://image.roku.com/developer_channels/prod/2ee8ed69266a33986437dd4fea6fc49cd2ebf61ac54c1a230ee6ce65eacba267.png" group-title="Educativos",Hiper TV ¹ 🇨🇱
-https://cdn1.cef-technology.com/chf-cdn/hipertv/playlist.m3u8
+https://service.cdn-stream.com/chf-cdn/hiper_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="183" tvg-logo="https://www.deel.com/hs-fs/hubfs/Platzi%20logo.png?width=1000&height=387&name=Platzi%20logo.png" group-title="Educativos",Platzi TV ¹ 🇨🇱
 https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream/5c5c9bd24eedd524d6a1a8bf/playout/master.m3u8?aid=512e13acaca1ebcd2f000279&pid=qL8kPMyeCWsH1lj1FbMZz8vdXepvWOBQ&sid=vRrt2PVwsUuVr00IKna9HcKb4IgqSwqG&uid=utMBuOxEohxCNnBgXhT4m50ZuZKe2BFj&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1760077587990&ot=9FuJ4fpPajVgQX7ix8EVBw&proto=https&pz=us
@@ -647,6 +650,9 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278818.m3u8
 
 #EXTINF:-1 tvg-chno="185" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Educativos",Canal Astronet ¹ 🇦🇷
 https://stmv6.voxtvhd.com.br/astronet/astronet/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="185" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/1-1.jpg" group-title="Educativos",El Mundo de la Ciencia TV ¹ 🇦🇷
+https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="185" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/32.jpg" group-title="Educativos",Ciencia & Tecnología 365 ¹ 🇦🇷
 https://stmv6.voxtvhd.com.br/techscience365/techscience365/playlist.m3u8
@@ -668,12 +674,6 @@ https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="188" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/37.jpg" group-title="Educativos", Aventuras Televisión ¹ 🇦🇷
 https://stmv3.voxtvhd.com.br/aventurastv/aventurastv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="189" tvg-logo="https://tuuniversotv.net/sitepad-data/uploads/2024/03/TU-UNIVERSO-TV-CHANNEL-PNG-300x95.png" group-title="Educativos",Tu Universo TV ¹ 🇺🇸
-https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="190" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Vale-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Educativos",Vale TV ¹ 🇻🇪
-https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina",Telefe ° 🇦🇷
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278773.m3u8
