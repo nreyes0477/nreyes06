@@ -156,14 +156,8 @@ https://live20.bozztv.com/giatv/giatv-megahits/megahits/chunks.m3u8
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="Cine Latinos",Ciudad Magazine ¹ 🇦🇷
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Bayres-TV-en-vivo-Online--1536x864.png" group-title="Cine Latinos",Bayres TV ¹ 🇦🇷
-https://vd525.okcdn.ru/?expires=1762577543520&srcIp=186.64.132.238&pr=10&srcAg=CHROME_ANDROID&ch=1336333768&ms=185.226.55.35&type=1&sig=yHqMn24LOEc&ct=6&urls=185.226.52.44&clientType=1&zs=43&id=533087128217
-
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://www.promendoza.com/wp-content/uploads/2018/06/cine-2-750x390.jpg" group-title="Cine Latinos",Cine Ar ° 🇦🇷
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278753.m3u8
-
-#EXTINF:-1 tvg-chno="52" tvg-logo="https://butaca.tv/_next/static/media/logo-black.32e2c785.png" group-title="Cine Latinos",Butaca TV ¹ 🇺🇸
-https://linear-842.frequency.stream/mt/plex/842/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="53" tvg-logo="https://play-lh.googleusercontent.com/OdWhvPhBs4DfqmC_0TgmlZELLX_8UHlmXqOWOvYMIVLsEncE2tRPHI-2xUiAbJRxJVtg=s75-rw" group-title="Cine Latinos",Neo TV ¹ 🇦🇷
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -213,9 +207,6 @@ https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 #EXTINF:-1 tvg-chno="59" tvg-logo="https://satelcanal4.com/wp-content/uploads/2023/08/SATEL-LOGO-1-1024x652.png" group-title="Cine Latinos",Satel Canal 4 ¹ 🇨🇴
 https://server.asilivehd.com:3802/live/canal4live.m3u8
 
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bigchannel.png/640px-Bigchannel.png" group-title="Cine Latinos",The Big Channel ¹ 🇦🇷
-https://live20.bozztv.com/giatvplayout7/giatv-210590/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="60" tvg-logo="https://static.wixstatic.com/media/2c880e_0ac2f3f7dd3e49058db44f507e4690b6~mv2.png/v1/fill/w_360,h_88,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/inbig%20retro%20tv.png" group-title="Cine Latinos",The Big Retro TV ¹ 🇦🇷
 https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/playlist.m3u8
 
@@ -243,7 +234,7 @@ https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:-1 tvg-chno="60" tvg-logo="https://i.postimg.cc/brrsGL5r/kandela.jpg" group-title="Cine Latinos",Kandela TV ¹ 🇻🇪
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://i.postimg.cc/j5zxhCKm/rocket2.jpg" group-title="Cine Latinos",Rocket TV TV ¹ 🇨🇱
+#EXTINF:-1 tvg-chno="60" tvg-logo="https://i.postimg.cc/j5zxhCKm/rocket2.jpg" group-title="Cine Latinos",Rocket TV ¹ 🇨🇱
 https://live20.bozztv.com/giatv/giatv-rocket/rocket/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="60" tvg-logo="https://megatvcr.net/images/logo-mega.png" group-title="Nacionales",Mega Tv CR ¹ 🇨🇷
