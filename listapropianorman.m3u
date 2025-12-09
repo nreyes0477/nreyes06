@@ -642,13 +642,13 @@ https://wbd-xat.otteravision.com/wbd/xat/xat.m3u8
 #EXTINF:-1 tvg-chno="182" tvg-logo="https://image.roku.com/developer_channels/prod/2ee8ed69266a33986437dd4fea6fc49cd2ebf61ac54c1a230ee6ce65eacba267.png" group-title="Educativos",Hiper TV ¹ 🇨🇱
 https://service.cdn-stream.com/chf-cdn/hiper_tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="183" tvg-logo="https://www.deel.com/hs-fs/hubfs/Platzi%20logo.png?width=1000&height=387&name=Platzi%20logo.png" group-title="Educativos",Platzi TV ¹ 🇨🇱
+#EXTINF:-1 tvg-chno="183" tvg-logo="https://www.talent-republic.tv/wp-content/uploads/2021/12/plataforma-de-educacion-en-linea.jpg" group-title="Educativos",Platzi TV ¹ 🇨🇱
 https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream/5c5c9bd24eedd524d6a1a8bf/playout/master.m3u8?aid=512e13acaca1ebcd2f000279&pid=qL8kPMyeCWsH1lj1FbMZz8vdXepvWOBQ&sid=vRrt2PVwsUuVr00IKna9HcKb4IgqSwqG&uid=utMBuOxEohxCNnBgXhT4m50ZuZKe2BFj&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1760077587990&ot=9FuJ4fpPajVgQX7ix8EVBw&proto=https&pz=us
 
 #EXTINF:-1 tvg-chno="273" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/5e2b31c99b97574a06696454a5ada922_ODISEA%202.png" group-title="Educativos",Odisea ° 🇪🇸
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278818.m3u8
 
-#EXTINF:-1 tvg-chno="185" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Educativos",Canal Astronet ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="185" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/35.jpg" group-title="Educativos",Canal Astronet ¹ 🇦🇷
 https://stmv6.voxtvhd.com.br/astronet/astronet/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="185" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/1-1.jpg" group-title="Educativos",El Mundo de la Ciencia TV ¹ 🇦🇷
@@ -669,7 +669,7 @@ https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8
 #EXTINF:-1 tvg-chno="186" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/8.jpg" group-title="Educativos",Canal Te lo Cuento ¹ 🇦🇷
 https://stmv7.voxtvhd.com.br/telocuentoy/telocuentoy/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="188" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Educativos",Canal XtremaAnimal ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="188" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/31.jpg" group-title="Educativos",Canal XtremaAnimal ¹ 🇦🇷
 https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="188" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/37.jpg" group-title="Educativos", Aventuras Televisión ¹ 🇦🇷
