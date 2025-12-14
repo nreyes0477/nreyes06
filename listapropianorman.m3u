@@ -1987,7 +1987,7 @@ https://59ef525c24caa.streamlock.net:443/tvurbano/tvurbano/chunklist_w248233257.
 http://tv2.ticosmedia.com:1935/canal3/canal3/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="705" tvg-logo="https://cdn-profiles.tunein.com/s30686/images/logoq.png" group-title="Música",La Mega Estación CR
-https://s3.tvdatta.com:3640/live/radiomegaestacionlive.m3u8
+https://s3.tvdatta.com:3448/live/camprovpuntarenaslive.m3u8
 
 #EXTINF:-1 tvg-chno="706" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/musica/planeta_tv_music.png" group-title="Música",Planeta Tv Music
 https://scl.edge.grupoz.cl:443/music/live/chunklist_w942041273.m3u8
