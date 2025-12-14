@@ -1992,38 +1992,44 @@ https://s3.tvdatta.com:3448/live/camprovpuntarenaslive.m3u8
 #EXTINF:-1 tvg-chno="706" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/musica/planeta_tv_music.png" group-title="Música",Planeta Tv Music ¹
 https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="707" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/TLTV2016.png" group-title="Música",Top Latino TV
+#EXTINF:-1 tvg-chno="707" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/TLTV2016.png" group-title="Música",Top Latino TV ¹
 https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/chunklist_w444937598_tkd293emF0b2tlbnN0YXJ0dGltZT0xNzY1NzQ3NDQ0Jndvd3phdG9rZW5lbmR0aW1lPTE3NjU3NDg0NDQmd293emF0b2tlbmhhc2g9aWNkTFhrRnJSSnJSdXRwSkdhMGNGOTdHX0EwMVVyRVdsSklxQndrMXFvTT0=.m3u8
 
-#EXTINF:-1 tvg-chno="708" tvg-logo="https://www.huilatv.com/wp-content/uploads/2020/01/LOGO-HUILA-TV-ICONO.png" group-title="Música",Huila TV
-https://plataformavideo.com:19360/8020/8020.m3u8
+#EXTINF:-1 tvg-chno="708" tvg-logo="https://www.huilatv.com/wp-content/uploads/2020/01/LOGO-HUILA-TV-ICONO.png" group-title="Música",Huila TV ¹
+https://server.asilivehd.com:3333/live/huilatvlive.m3u8
 
-#EXTINF:-1 tvg-chno="709" tvg-logo="https://latinosradio.cl/wp-content/uploads/2020/10/logo-latinos-radio-2.png" group-title="Música",Latinos Radio TV
-https://stmv5.voxtvhd.com.br/latinosmedia/latinosmedia/playlist.m3u8
+#EXTINF:-1 tvg-chno="709" tvg-logo="https://latinosradio.cl/wp-content/uploads/2020/10/logo-latinos-radio-2.png" group-title="Música",Latinos Radio TV ¹
+https://v4.tustreaming.cl/latinostv/index.m3u8
 
-#EXTINF:-1 tvg-chno="710" tvg-logo="https://platcon.tv/img/p/1/1/9/119-home_default.jpg" group-title="Música",Urban Moon TV
-https://srv.tropicalmoonmedia.com:443/urbantvnetott/urbantvnetott/chunklist_w736243455.m3u8
+#EXTINF:-1 tvg-chno="710" tvg-logo="https://platcon.tv/img/p/1/1/9/119-home_default.jpg" group-title="Música",Urban Moon TV ¹
+https://sistemastr.tropicalmoonmedia.com:443/live/D8E123ACA054EF85B153C354A481A406/4.m3u8
 
-#EXTINF:-1 tvg-chno="711" tvg-logo="https://platcon.tv/img/p/1/1/5/115-large_default.jpg" group-title="Música",Tropical Moon TV
-https://srv.tropicalmoonmedia.com:443/musictv/musictv/chunklist_w823002211.m3u8
+#EXTINF:-1 tvg-chno="711" tvg-logo="https://platcon.tv/img/p/1/1/5/115-large_default.jpg" group-title="Música",Tropical Moon TV ²
+https://sistemastr.tropicalmoonmedia.com:443/live/D8E123ACA054EF85B153C354A481A406/1.m3u8
 
-#EXTINF:-1 tvg-chno="712" tvg-logo="https://xpressojovenradiocr.com/sitepad-data/uploads/2023/01/Xpreso-Joven-Radio-logo_Mesa-de-trabajo-1-copia-5.png" group-title="Música",Xpresso Jóven Radio CR
-https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/playlist.m3u8
+#EXTINF:-1 tvg-chno="711" tvg-logo="https://platcon.tv/img/p/1/1/5/115-large_default.jpg" group-title="Música",Tropical Music TV 🇨🇴 ¹
+https://59a564764e2b6.streamlock.net/vallenato/tropical/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="711" tvg-logo="https://platcon.tv/img/p/1/1/5/115-large_default.jpg" group-title="Música",Tropical TV 🇵🇪 ¹
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+
+#EXTINF:-1 tvg-chno="712" tvg-logo="https://xpressojovenradiocr.com/sitepad-data/uploads/2023/01/Xpreso-Joven-Radio-logo_Mesa-de-trabajo-1-copia-5.png" group-title="Música",Xpresso Jóven Radio CR ¹
+https://vivo.solumedia.com:19360/xpressojoven/xpressojoven.m3u8
 
 #EXTINF:-1 tvg-chno="713" tvg-logo="https://www.doutico.com/wpimages/wpd2c31b06_05_06.jpg" group-title="Música",Guatuso TV ¹
-https://5cf4a2c2512a2.streamlock.net:443/8162/8162/chunklist_w1967293068.m3u8
+https://5cf4a2c2512a2.streamlock.net/8176/8176/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="714" tvg-logo="https://static.wixstatic.com/media/e9b9b7_1674ea49b074486f818f5e6291585fa6~mv2.jpeg" group-title="Música",Mega Fuzion TV
-https://srv.panelcast.net/fuziontv2023/fuziontv2023/playlist.m3u8
+#EXTINF:-1 tvg-chno="714" tvg-logo="https://static.wixstatic.com/media/e9b9b7_1674ea49b074486f818f5e6291585fa6~mv2.jpeg" group-title="Música",Mega Fuzion TV ¹
+https://acceso.mediosdecostarica.com:3037/stream/play.m3u8
 
-#EXTINF:-1 tvg-chno="715" tvg-logo="https://www.getmeradio.com/stations/voiceoverradiotv-2278/logos/512x512.png" group-title="Música",Voice Over Radio TV
+#EXTINF:-1 tvg-chno="715" tvg-logo="https://www.getmeradio.com/stations/voiceoverradiotv-2278/logos/512x512.png" group-title="Música",Voice Over Radio TV ¹
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
 
-#EXTINF:-1 tvg-chno="716" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Teleritmo-en-vivo-Online-1.png" group-title="Música",Teleritmo
+#EXTINF:-1 tvg-chno="716" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Teleritmo-en-vivo-Online-1.png" group-title="Música",Teleritmo ¹
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=D4rMshhUyzljy2UXzEdxzm7N8r4EiI18&sid=KOhl3BXyIrYst7OzNMpBPkuMnAQNKm10&pid=KWcOmLuQAKLkxciTtr4giEXPWEUFGk41&an=screen&at=web-app&av=v5.2.288&ref=https%3A%2F%2Fwww-multimedios-com.cdn.ampproject.org%2Fv%2Fs%2Fwww.multimedios.com%2Fvideo%2Fteleritmo%2Fv2615%3Famp%3D%26amp_gsa%3D1%26amp_js_v%3Da9%26usqp%3Dmq331AQKKAFQArABIIACAw%253D%253D&res=373x210&without_cookies=false&listenerid=&dnt=true
 
-#EXTINF:-1 tvg-chno="717" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/vevo_2016_logo.png" group-title="Música",Vevo Latino
-https://d3k7iagvenqkpa.cloudfront.net:443/playlist1080p.m3u8
+#EXTINF:-1 tvg-chno="717" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/vevo_2016_logo.png" group-title="Música",Vevo Latino ¹
+https://d2xijrr4wx5ch6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6t0qpfdg3pp0p/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBC2100002LV
 
 #EXTINF:-1 tvg-chno="718" tvg-logo="https://m.media-amazon.com/images/I/41uOaTfnbsL.png" group-title="Música",Vevo Hip Hop
 https://d3mzlmrngyf08j.cloudfront.net:443/playlist1080p.m3u8
