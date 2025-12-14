@@ -1971,29 +1971,29 @@ https://stmv6.voxtvhd.com.br/cnardeportes/cnardeportes/playlist.m3u8
 #EXTINF:-1 tvg-chno="699" tvg-logo="https://telecentro.com.ar/img/cm/channels/deportv%20128.png"bgroup-title="Deportes",DeporTV ¹ 🇦🇷
 https://joy.nx-pc.edge-apps.net/hls/e1okh-afcc2-ejm6-h8gdj.m3u8
 
-#EXTINF:-1 tvg-chno="700" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png" group-title="Música",VM Latino
+#EXTINF:-1 tvg-chno="700" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png" group-title="Música",VM Latino ¹
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="701" tvg-logo="https://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="Música",88 Estéreo
+#EXTINF:-1 tvg-chno="701" tvg-logo="https://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="Música",88 Estéreo ¹
 http://k3.usastreams.com:80/CableLatino/88stereo/chunklist_w190584519.m3u8
 
-#EXTINF:-1 tvg-chno="702" tvg-logo="https://i2.paste.pics/ef00f6c7d85171624dff85e2c38fc975.png" group-title="Música",Colosal TV
+#EXTINF:-1 tvg-chno="702" tvg-logo="https://i2.paste.pics/ef00f6c7d85171624dff85e2c38fc975.png" group-title="Música",Colosal TV ¹
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w534755227.m3u8
 
-#EXTINF:-1 tvg-chno="703" tvg-logo="https://i2.paste.pics/0c73fe6bc691b4aa4d1ac9cc3f93e500.png" group-title="Música",Urbano TV
+#EXTINF:-1 tvg-chno="703" tvg-logo="https://i2.paste.pics/0c73fe6bc691b4aa4d1ac9cc3f93e500.png" group-title="Música",Urbano TV ¹
 https://59ef525c24caa.streamlock.net:443/tvurbano/tvurbano/chunklist_w248233257.m3u8
 
-#EXTINF:-1 tvg-chno="704" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Colosal-TV.png" group-title="Música",Colosal 88.3
+#EXTINF:-1 tvg-chno="704" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Colosal-TV.png" group-title="Música",Colosal 88.3 ¹
 http://tv2.ticosmedia.com:1935/canal3/canal3/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="705" tvg-logo="https://cdn-profiles.tunein.com/s30686/images/logoq.png" group-title="Música",La Mega Estación CR
+#EXTINF:-1 tvg-chno="705" tvg-logo="https://cdn-profiles.tunein.com/s30686/images/logoq.png" group-title="Música",La Mega Estación CR ¹
 https://s3.tvdatta.com:3448/live/camprovpuntarenaslive.m3u8
 
-#EXTINF:-1 tvg-chno="706" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/musica/planeta_tv_music.png" group-title="Música",Planeta Tv Music
-https://scl.edge.grupoz.cl:443/music/live/chunklist_w942041273.m3u8
+#EXTINF:-1 tvg-chno="706" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/musica/planeta_tv_music.png" group-title="Música",Planeta Tv Music ¹
+https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="707" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/TLTV2016.png" group-title="Música",Top Latino TV
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
+https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/chunklist_w444937598_tkd293emF0b2tlbnN0YXJ0dGltZT0xNzY1NzQ3NDQ0Jndvd3phdG9rZW5lbmR0aW1lPTE3NjU3NDg0NDQmd293emF0b2tlbmhhc2g9aWNkTFhrRnJSSnJSdXRwSkdhMGNGOTdHX0EwMVVyRVdsSklxQndrMXFvTT0=.m3u8
 
 #EXTINF:-1 tvg-chno="708" tvg-logo="https://www.huilatv.com/wp-content/uploads/2020/01/LOGO-HUILA-TV-ICONO.png" group-title="Música",Huila TV
 https://plataformavideo.com:19360/8020/8020.m3u8
