@@ -270,17 +270,41 @@ https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/chunks.m3u8
 #EXTINF:-1 tvg-chno="68" tvg-logo="https://babyfirsttv.com/wp-content/uploads/2024/03/babyfirst_logo_2022-1536x303.png" group-title="Infantiles",Baby Firts ¹ 🇺🇸
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8
 
-#EXTINF:-1 tvg-chno="68" tvg-logo="https://babyfirsttv.com/wp-content/uploads/2024/03/babyfirst_logo_2022-1536x303.png" group-title="Infantiles",Baby Firts ᵇ 🇺🇸
-http://budtvlight.com:25461/live/Astro/120388/815422.m3u8
+#EXTINF:-1 tvg-chno="68" tvg-logo="https://babyfirsttv.com/wp-content/uploads/2024/03/babyfirst_logo_2022-1536x303.png" group-title="Infantiles",Baby Firts 🇺🇸
+http://go.iptvhn.net:25461/live/7785/7785/13119.m3u8
 
-#EXTINF:-1 tvg-chno="68" tvg-logo="https://www.babytv.com/app/uploads/2019/07/logo-baby-tv-2019-main-logo.png" group-title="Infantiles",Baby TV ᵇ
-http://budtvlight.com:25461/live/Astro/120388/815434.m3u8
+#EXTINF:-1 tvg-chno="68" tvg-logo="https://www.babytv.com/app/uploads/2019/07/logo-baby-tv-2019-main-logo.png" group-title="Infantiles",Baby TV
+http://go.iptvhn.net:25461/live/7785/7785/13120.m3u8
 
 #EXTINF:-1 tvg-chno="68" tvg-logo="https://www.pinkfong.com/assets/img/new/youtube/g_2.png" group-title="Infantiles",Baby Shark TV ¹ 🇺🇸
 https://stitcher.pluto.tv/stitch/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 
-#EXTINF:-1 tvg-chno="68" tvg-logo="https://www.audiovisualfromspain.com/content/dam/en/audiovisual/enterprise/2022/11/logos/El_Reino_Infantil.png" group-title="Infantiles",El Reino Infantil ¹ 
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?advertisingId=&appName=web&appVersion=9.17.1-4b752a787dc097eb967538735d27068f6c819fc2&app_name=web&clientDeviceType=0&clientID=ad0cab69-6ff8-4e5c-a87d-71f8d195a175&clientModelNumber=1.0.0&country=CR&deviceDNT=false&deviceId=ad0cab69-6ff8-4e5c-a87d-71f8d195a175&deviceLat=9.9200&deviceLon=-84.1000&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=140.0.7339&marketingRegion=VE&serverSideAds=false&sessionID=eafb71b6-aee0-11f0-91bc-ba2030d685c7&sid=eafb71b6-aee0-11f0-91bc-ba2030d685c7&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijk0OTdlYjU1LWM1YjgtNDEwMy04OTc2LWRhMjU1ZjcyMTdiMCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJlYWZiNzFiNi1hZWUwLTExZjAtOTFiYy1iYTIwMzBkNjg1YzciLCJjbGllbnRJUCI6IjE4Ni42NC4xMzIuMjM4IiwiY2l0eSI6IlNhbiBKb3NlIiwicG9zdGFsQ29kZSI6IjEwMTEwIiwiY291bnRyeSI6IkNSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6OS45MjAwMDAwNzYyOTM5NDUsImRldmljZUxvbiI6LTg0LjA5OTk5ODQ3NDEyMTEsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjE0MC4wLjczMzkiLCJkZXZpY2VNYWtlIjoiY2hyb21pdW0td2VidmlldyIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjE3LjEtNGI3NTJhNzg3ZGMwOTdlYjk2NzUzODczNWQyNzA2OGY2YzgxOWZjMiIsImNsaWVudElEIjoiYWQwY2FiNjktNmZmOC00ZTVjLWE4N2QtNzFmOGQxOTVhMTc1IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvQ29zdGFfUmljYSIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6ImFkMGNhYjY5LTZmZjgtNGU1Yy1hODdkLTcxZjhkMTk1YTE3NSIsImZ3VmNJRDJDb3BwYSI6ImFkMGNhYjY5LTZmZjgtNGU1Yy1hODdkLTcxZjhkMTk1YTE3NSIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiYWQwY2FiNjktNmZmOC00ZTVjLWE4N2QtNzFmOGQxOTVhMTc1IiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAwOSwxMDAxMywxMDAxNCwxMDAyMCwxMDAyMiwxMDAxNiwxMDAxNSwxMDAyMSJ9fSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOllXUXdZMkZpTmprdE5tWm1PQzAwWlRWakxXRTROMlF0TnpGbU9HUXhPVFZoTVRjMSIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3NjExODA1NDgsImlhdCI6MTc2MTA5NDE0OCwianRpIjoiZTUwOTdhOGMtZmMxOC00NTM2LTllM2EtZmRmZTMzNDI1YTYwIn0.lz5IB6oQ9yRAA6gf4gnCcKfPj7czuZx8LvlfAkRNhMk&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEU1tukWa9S3cjw_z97Ssv47K_gRuKh-8f9qMkdJalu7zhSni7fojelhiGWlFfPecqJb5oAbTsQZkGBTaWvebioD4oefZiUD8oFTh4BpiOjdjBPiJA-ZICAib9AeSlmBm1kO2jktr2CHatR8Wont5-4At9h3f-XMf7MwI34-Ia4Y_NnmAfa3QpocDV4mtKNOLpG3OJq3YvpT0lSMuOT_aoaorCX6ugLxPFdYe6BzeFLhRqITcFf925cOG89nJe77HqNNtv9-k5qYuLK08XwwiXKXiy-T3ktffqipcq09R7U5XsPELXolPnHWvMaNRijNY99JgewntT0jkYY-VfrdtlozcsmM2CtAyw8bmbrA0GCIQsPDhCguunUp2GYMZ37E69KvITmnBJyWXHp5dAcZRgO8B-UYYA6bvpAH0pzUFsC2OEeipYlM43HjR_CJOR5Vmx4IcVbt2daqWZPP082UxEksOqG9POwppWG9V-IO2GmXMNLjAh5ASycJWU0FisV9M3LNslW5UmfiwkBRIZsw4MtQ8XP8G7GviENlMKYRHJZChRvEcFWkXUjSasnR7tvgyOeM3og-Nnqx55rBm8eOZphNiBCkAnU8-7ppCm27NCZKXM4XiOji8APqr96ru1qdCkgyGNwH4W48uZRhjG2S4uoYtPPVQ7YPxcmK71y8rgWrc4dz96WgACjXrUqlKczT9tlSh3CR_VM7IVJ7YaYPKexsEC1yrhOazjMnYvyPX5_ZmE6gq1ittsRU_9tJ0m-g0IvXK9jj-dZsWlheZJhPps0EFXIVzc-CYUhL1Xgy2_0s87u7o3ocS17rh8awF4VKNOUN7HLEKDOaFdrWD87-MsBeoafuf6a-KLUsa9NXNTwD3fryPatnCnYlbnOHM4YNSG9E6XVLGT7ciB_Yfce4g7op62FVgu1R9tYfn7Bf7oFVDquXfaH083vl7zS8RTTN6YfMOnTUDIl-TMwYm5lvr5neYgyPT94aQkPzK6D_nMt8VZcHlEooIVLsyMLis62Ky-xgpQLGl15s4PQel_SEdSE7Gm_eIzVHQ73Ch5rzIltvB4zc9xc8nIcmnSlmwxFPonU9xwxbb6jSR8s770h7vqY4fahYECnuQCcmHoKI9QaizDdKq2b3fwzrAlGEooq74p3TkEgLqlkjTQ4LOouUUwl0Ztodo_wLTUF5k2-SQoAbRDLSzCWaCRt0jWBuQ3Ph3ptcT-pZ0HzYQpLl5KhGRjHcux_SC0xmLqL-W0DEqfK2XLBPlt-GPnAHyX1BaqoIA8WKGKa7HXSnigT_cG0O2qihCwjJvcUNpGwJL_GcUs2sc8pZo2DAnItoMGVKm2t55frkQIhgEJkLq9Yn6UzxBrEJ77IPGqM700p2SeCCGLszXlaxcoi-CgIeTfLJqyK0XJgWShH_nfCFDix8ayaOA6YXIi9u1NGOqPyplRzCdQyppZ9AxrtJP_prlvJ4skjvR8uQ9G8vs57jPoZ4NyHEgUo047d0YkUB5mEqqQykZuW0tGjfMNXVAM2f0jqLXrUneiW0bstakgg4j2VTOpaQQ-suRPc4oW4jhgN7QCmw_U6w_8EmzyrMaNSlIbOQ2YLrVVOm8CDGaJH6bs5w..&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2240220e84-463a-435c-bb05-08360950f360%22%2Csu
+#EXTINF:-1 tvg-chno="68" tvg-logo="https://www.babytv.com/app/uploads/2019/07/logo-baby-tv-2019-main-logo.png" group-title="Infantiles",Cartoonito
+http://go.iptvhn.net:25461/live/7785/7785/13155.m3u8
+
+#EXTINF:-1 tvg-chno="68" tvg-logo="https://www.babytv.com/app/uploads/2019/07/logo-baby-tv-2019-main-logo.png" group-title="Infantiles",Discovery Kids
+http://go.iptvhn.net:25461/live/7785/7785/13180.m3u8
+
+#EXTINF:-1 tvg-chno="68" tvg-logo="https://www.babytv.com/app/uploads/2019/07/logo-baby-tv-2019-main-logo.png" group-title="Infantiles",Disney Jr
+http://go.iptvhn.net:25461/live/7785/7785/13185.m3u8
+
+#EXTINF:-1 tvg-chno="68" tvg-logo="https://www.babytv.com/app/uploads/2019/07/logo-baby-tv-2019-main-logo.png" group-title="Infantiles",Nick Jr
+http://go.iptvhn.net:25461/live/7785/7785/13252.m3u8
+
+#EXTINF:-1 tvg-chno="68" tvg-logo="https://www.babytv.com/app/uploads/2019/07/logo-baby-tv-2019-main-logo.png" group-title="Infantiles",Nickelodeon 
+http://go.iptvhn.net:25461/live/7785/7785/13254.m3u8
+
+#EXTINF:-1 tvg-chno="68" tvg-logo="https://www.babytv.com/app/uploads/2019/07/logo-baby-tv-2019-main-logo.png" group-title="Infantiles",Disney Channel 
+http://go.iptvhn.net:25461/live/7785/7785/13184.m3u8
+
+#EXTINF:-1 tvg-chno="68" tvg-logo="https://www.babytv.com/app/uploads/2019/07/logo-baby-tv-2019-main-logo.png" group-title="Infantiles",Cartoon Network 
+http://go.iptvhn.net:25461/live/7785/7785/13123.m3u8
+
+#EXTINF:-1 tvg-chno="68" tvg-logo="https://www.babytv.com/app/uploads/2019/07/logo-baby-tv-2019-main-logo.png" group-title="Infantiles",Dreamworks 
+http://go.iptvhn.net:25461/live/7785/7785/13336.m3u8
+
+#EXTINF:-1 tvg-chno="68" tvg-logo="https://www.babytv.com/app/uploads/2019/07/logo-baby-tv-2019-main-logo.png" group-title="Infantiles",Tooncast
+http://go.iptvhn.net:25461/live/7785/7785/13308.m3u8
 
 #EXTINF:-1 tvg-chno="69" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png" group-title="24/7 Novelas",Todo Novelas ¹ 🇲🇽 
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBC43000013T
