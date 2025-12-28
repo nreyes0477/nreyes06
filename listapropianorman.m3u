@@ -312,8 +312,8 @@ https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-chno="69" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a3bd552eca6645942a60a053fe61fafb.webp" group-title="24/7 Novelas",Sony Novelas ¹ 🇲🇽 
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://ipuntotv.com/IMAGES/TNT-Novelas-logo-nuevo.jpg" group-title="24/7 Novelas",TNT Novelas ² 🇲🇽 
-http://38.159.227.124:8000/play/a08l
+#EXTINF:-1 tvg-chno="69" tvg-logo="https://ipuntotv.com/IMAGES/TNT-Novelas-logo-nuevo.jpg" group-title="24/7 Novelas",TNT Novelas 🇲🇽 
+http://go.iptvhn.net:25461/live/7785/7785/13281.m3u8
 
 #EXTINF:-1 tvg-chno="69" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXjJn9sSNrZSuqtwTm5DGor-M4uLoIrwfjh7yn22xVG9bl4mJw1rK2gY-wehuSSirTbgN6uEQHdFUn1Giq__TPYaj1USXHSmowkGcq89eGeW14s0uj3VjYje6egHRB5B0NVTB_bwwDg6TxRYv0NjxOEwDUwCbf5nRVcmZV6qN4NJd-J83LOFM-zvuI/w200-h151/RCN_Novelas_logo_2019.png" group-title="24/7 Novelas",TLnovelas ² 🇲🇽 
 http://190.11.225.124:5000/live/tlnovelas/playlist.m3u8
@@ -1524,8 +1524,8 @@ http://179.51.136.19:8000/play/a1al/index.m3u8
 #EXTINF:-1 tvg-chno="527" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner_m.png" group-title="Cine y Películas",Warner Channel ²
 http://38.159.227.124:8000/play/a05v
 
-#EXTINF:-1 tvg-chno="528" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png" group-title="Cine y Películas",FX ²
-http://200.115.96.66:4000/play/a0he/index.m3u8
+#EXTINF:-1 tvg-chno="528" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png" group-title="Cine y Películas",FX
+http://go.iptvhn.net:25461/live/7785/7785/13205.m3u8
 
 #EXTINF:-1 tvg-chno="530" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png" group-title="Cine y Películas",DHE
 http://go.iptvhn.net:25461/live/7785/7785/13170.m3u8
