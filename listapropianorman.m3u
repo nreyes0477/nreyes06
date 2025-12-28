@@ -153,8 +153,8 @@ http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w1057824568.m3u8
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://i.imgur.com/RqdpiYo.jpeg" group-title="Nacionales",Megahits ¹ 🇨🇷
 https://live20.bozztv.com/giatv/giatv-megahits/megahits/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="Cine Latinos",Ciudad Magazine ¹ 🇦🇷
-https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="Cine Latinos",Ciudad Magazine ° 🇦🇷
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278754.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://www.promendoza.com/wp-content/uploads/2018/06/cine-2-750x390.jpg" group-title="Cine Latinos",Cine Ar ° 🇦🇷
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278753.m3u8
