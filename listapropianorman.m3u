@@ -2176,19 +2176,19 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 https://tv.streaming-chile.com:1936/ondaradio/ondaradio/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="741" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Música",HTV
-http://go.iptvhn.net:25461/live/7680/7680/125.m3u8
+http://go.iptvhn.net:25461/live/7789/7789/125.m3u8
 
 #EXTINF:-1 tvg-chno="742" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Música",Pluto TV Vevo 2k
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8clivestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&profilesFromStream=true
 
 #EXTINF:-1 tvg-chno="743" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Música",Exa TV
-http://go.iptvhn.net:25461/live/7680/7680/100.m3u8
+http://go.iptvhn.net:25461/live/7789/7789/100.m3u8
 
 #EXTINF:-1 tvg-chno="745" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Música",MTV Hits
-http://go.iptvhn.net:25461/live/7680/7680/141.m3u8
+http://go.iptvhn.net:25461/live/7789/7789/141.m3u8
 
 #EXTINF:-1 tvg-chno="746" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Música",MTV
-http://go.iptvhn.net:25461/live/7680/7680/140.m3u8
+http://go.iptvhn.net:25461/live/7789/7789/140.m3u8
 
 #EXTINF:-1 tvg-chno="747" tvg-logo="https://meganettv.fun/storage/channel-logos/cyBAclPjNIYUBWfNSni4srCyPxWyed4S1Omv3vvt.jpg" group-title="Música",Megahist 🇨🇷
 https://vcp8.myplaytv.com:1936/meganethits/meganethits/chunklist_w686876931.m3u8
@@ -2254,7 +2254,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f8
 https://d2yhuqxy1ky6ij.cloudfront.net:443/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-chno="777" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Música",MTV '80s
-http://go.iptvhn.net:25461/live/7682/7682/139.m3u8
+http://go.iptvhn.net:25461/live/7789/7789/139.m3u8
 
 #EXTINF:-1 tvg-chno="778" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Música",MTV '00s
 http://195.24.89.82/VH1_SD/index.m3u8
@@ -2272,7 +2272,7 @@ https://rpn3.bozztv.com/ssh101/ssh101/memoriasc2/playlist.m3u8
 https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="783" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Música",Classics TV
-http://go.iptvhn.net:25461/live/7682/7682/62.m3u8
+http://go.iptvhn.net:25461/live/7789/7789/62.m3u8
 
 #EXTINF:-1 tvg-chno="784" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Música",The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
