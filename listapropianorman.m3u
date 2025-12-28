@@ -1671,11 +1671,11 @@ http://200.92.227.238:8000/play/a0mt/index.m3u8
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus.png" group-title="Cine y Películas",HBO Plus Norte ²
 http://200.92.227.238:8000/play/a0ms/index.m3u8
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxup.png" group-title="Cine y Películas",HBO Pop Norte ²
-http://38.183.182.166:8000/play/a0vx/index.m3u8
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxup.png" group-title="Cine y Películas",HBO Pop Norte °
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278503.m3u8
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbosignature.png" group-title="Cine y Películas",HBO Signature Norte
-http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=46638&extension=ts
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbosignature.png" group-title="Cine y Películas",HBO Signature Norte °
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278505.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime.png" group-title="Cine y Películas",HBO Xtreme Norte ²
 http://45.184.87.142:8000/play/a04l
@@ -1701,8 +1701,8 @@ http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=h
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxup.png" group-title="Cine y Películas",HBO Pop Sur 
 http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=117&extension=ts
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbosignature.png" group-title="Cine y Películas",HBO Signature Sur °
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278505.m3u8
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbosignature.png" group-title="Cine y Películas",HBO Signature Sur 
+http://www.1play.cool:25461/live/2132580232/27be478b47/45933.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime.png" group-title="Cine y Películas",HBO Xtreme Sur
 http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=66452&extension=ts
