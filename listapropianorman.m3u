@@ -1021,7 +1021,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv:80/stitch/hls/channel
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=156070&extension=ts
 
 #EXTINF:-1 tvg-chno="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png" group-title="USA Latino",Univisión US ² 🇺🇸
-http://38.199.4.160:93/play/a0br
+http://200.92.227.238:8000/play/a0q3/13857752.m3u8
 
 #EXTINF:-1 tvg-chno="283" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png" group-title="USA Latino",Univisión SF 🇺🇸
 http://go.iptvhn.net:25461/live/7785/7785/13317.m3u8
