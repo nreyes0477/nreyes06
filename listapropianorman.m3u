@@ -136,7 +136,7 @@ http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 http://k4.usastreams.com/telebrunca/telebrunca/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="47" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0d6vD4coSsdc8wF8umj0rjvo5bZxQ9r3TeNsyNZ4qq4PlEzOusv9eVDvlWdVi80KF9ltur1f4LfJ2xVSl93yNpgZabFunN909DWUKUpV-wgPXTiqmaqNQPMP0xNYQTCdU8o-HDTpD0qmt_6gugfVq4Aj1xjNTZBfIoahPL5xT7xFuVF6K307G6CvVJrk/s400/14.png" group-title="Nacionales",Canal 10 CR ¹ 🇨🇷
-https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8
+https://acceso.mediosdecostarica.com:3606/stream/play.m3u8
 
 #EXTINF:-1 tvg-chno="48" tvg-logo="https://image.roku.com/developer_channels/prod/db4a766d6686e0ec2d17d0307c9a4c3bd0dc27a13f0647fb8561bfb0754300a2.png" group-title="Nacionales",TV Nosara ¹ 🇨🇷
 https://latamvdo.com:3870/hybrid/play.m3u8
