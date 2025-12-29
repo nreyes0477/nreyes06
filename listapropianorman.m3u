@@ -22,7 +22,7 @@ https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamTRadio/bbcfd43fb9a
 http://45.163.139.42:8000/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://observador.cr/wp-content/uploads/2020/04/87390081_2470570269875494_1434326408926068736_o.jpg" group-title="Nacionales",Canal 8 Multimedios ¹ 🇨🇷
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445/master.m3u8
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=kjfAAbMewgMzTCS7NRHf9jMUXpc4lCdA&sid=te9kkgIMwezRv6aHOE5aflXH8Uh2By8b&pid=HLlSfMeLGYuW2jdypUkYazBffnODUhiv&pid_dvr=cSRmQvkAxMVoU0gRCyuUQyThCbIwhwGz&an=screen&at=web-app&av=v6.0.240&ref=https%3A%2F%2Famp-telediario-cr.cdn.ampproject.org%2Fv%2Fs%2Famp.telediario.cr%2Ftelevision%2Fpage%2F803%3Famp_gsa%3D1%26amp_js_v%3Da9%26usqp%3Dmq331AQIUAKwASCAAgM%253D&res=375x250&without_cookies=false&listenerid=&dnt=true&CMCD=cid%3D%225a7b1e63a8da282c34d65445%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22HLlSfMeLGYuW2jdypUkYazBffnODUhiv%22%2Csu
 
 #EXTINF:-1 tvg-chno="9" tvg-logo="https://i.imgur.com/7knekJU.png" group-title="Nacionales",Canal 9 ¹ 🇨🇷
 http://crlive1.service.osllacdn.com/canal9cr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
@@ -127,7 +127,7 @@ https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 https://videohd.live:19360/8076/8076.m3u8
 
 #EXTINF:-1 tvg-chno="44" tvg-logo="https://i.imgur.com/Yd7JOxr.png" group-title="Nacionales",San Vito TV ¹ 🇨🇷
-https://acceso.radiosportstv.online:3150/live/sanvitotvlive.m3u8
+https://acceso.mediosdecostarica.com:3422/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-chno="44" tvg-logo="https://image.roku.com/developer_channels/prod/cc9bfad56cc1948d03b78c0b4adf3d215ce35bfe08a99b661b575950b8830afb.png" group-title="Nacionales",Rio Frío TV ¹ 🇨🇷
 https://acceso.radiosportstv.online:3417/live/360rftvcrlive.m3u8
