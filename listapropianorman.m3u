@@ -30,8 +30,8 @@ https://d2qsan2ut81n2k.cloudfront.net/live/67efd9e7-d51f-40a9-b532-056669bd160a/
 #EXTINF:-1 tvg-chno="13" tvg-logo="https://observador.cr/wp-content/uploads/2022/07/Logo-nuevo-canal-13-768x692.png" group-title="Nacionales",Canal 13 Sinart ² 🇨🇷
 http://45.163.139.42:8000/play/a02r/index.m3u8
 
-#EXTINF:-1 tvg-chno="14" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Trivisio%CC%81n-Canal-36-en-vivo-Online.png" group-title="Nacionales",Canal 36 Trivisión ¹ 🇨🇷
-http://crlive1.service.osllacdn.com/trivisionhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-chno="14" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Trivisio%CC%81n-Canal-36-en-vivo-Online.png" group-title="Nacionales",Canal 36 Trivisión 🇨🇷
+http://tvpremium.pro:80/live/wendysilva/msvvq8/331439.m3u8
 
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://image.roku.com/developer_channels/prod/15028c316a76bcd9408f730b04579257af5273595c5049db126ba4540b81a936.png" group-title="Nacionales",Canal 38 ¡Opa! ¹ 🇨🇷
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
