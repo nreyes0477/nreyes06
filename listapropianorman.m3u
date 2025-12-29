@@ -153,6 +153,9 @@ http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://i.imgur.com/RqdpiYo.jpeg" group-title="Nacionales",Megahits ¹ 🇨🇷
 https://live20.bozztv.com/giatv/giatv-megahits/megahits/chunks.m3u8
 
+#EXTINF:-1 tvg-chno="50" tvg-logo="https://gextv.com/LOGO-WHITE.png" group-title="Nacionales",Gex TV ¹ 🇨🇷
+https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="Cine Latinos",Ciudad Magazine ° 🇦🇷
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278754.m3u8
 
