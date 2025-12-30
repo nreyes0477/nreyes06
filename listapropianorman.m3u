@@ -1780,7 +1780,7 @@ http://go.iptvhn.net:25461/live/7789/7789/13346.m3u8
 http://go.iptvhn.net:25461/live/7789/7789/13347.m3u8
 
 #EXTINF:-1 tvg-chno="614" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN México 🇲🇽
-http://181.78.101.241:8080/live/carlosmadrid.best/CMadrid25$/54.m3u8
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/54.m3u8
 
 #EXTINF:-1 tvg-chno="615" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 México 🇲🇽
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47098&extension=ts
