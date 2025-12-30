@@ -1780,13 +1780,13 @@ http://go.iptvhn.net:25461/live/7789/7789/13346.m3u8
 http://go.iptvhn.net:25461/live/7789/7789/13347.m3u8
 
 #EXTINF:-1 tvg-chno="614" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN México 🇲🇽
-http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47107&extension=ts
+http://181.78.101.241:8080/live/carlosmadrid.best/CMadrid25$/54.m3u8
 
 #EXTINF:-1 tvg-chno="615" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 México 🇲🇽
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47098&extension=ts
 
-#EXTINF:-1 tvg-chno="616" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN 3 México 🇲🇽
-http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47102&extension=ts
+#EXTINF:-1 tvg-chno="616" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN 3 México ™ 🇲🇽
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/8411
 
 #EXTINF:-1 tvg-chno="616" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deportes",ESPN 4 México ™ 🇲🇽
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7485
