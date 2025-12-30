@@ -1852,13 +1852,13 @@ http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/278566.m3u8
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47121&extension=ts
 
 #EXTINF:-1 tvg-chno="639" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png" group-title="Deportes",ESPN Premium Sur (1) ²
-http://189.50.210.3:8008/play/a07q/32518357.m3u8
+http://189.50.210.3:8008/play/a07q/index.m3u8
 
 #EXTINF:-1 tvg-chno="640" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png" group-title="Deportes",ESPN Premium Sur (2) ²
 http://201.217.246.177:8000/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-chno="641" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Argentina ² 🇦🇷 
-http://189.50.210.3:8008/play/a038/83984835.m3u8
+http://189.50.210.3:8008/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-chno="641" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Chile ² 🇨🇱
 http://189.50.210.3:8008/play/a04h/index.m3u8
