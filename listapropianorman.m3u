@@ -1861,13 +1861,13 @@ http://201.217.246.177:8000/play/a078/index.m3u8
 http://189.50.210.3:8008/play/a038/83984835.m3u8
 
 #EXTINF:-1 tvg-chno="641" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Chile ² 🇨🇱
-http://189.50.210.3:8008/play/a04h/52250617.m3u8
+http://189.50.210.3:8008/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-chno="641" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Colombia ² 🇨🇴 
 http://38.41.8.1:8000/play/a06r
 
 #EXTINF:-1 tvg-chno="641" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 Colombia ² 🇨🇴
-http://189.50.210.3:8008/play/a033/65088911.m3u8
+http://189.50.210.3:8008/play/a033/index.m3u8
 
 #EXTINF:-1 tvg-chno="642" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 Sur América ²
 http://38.44.109.41:8003/play/a00v/index.m3u8
@@ -1876,16 +1876,16 @@ http://38.44.109.41:8003/play/a00v/index.m3u8
 http://45.184.87.142:8000/play/a04b
 
 #EXTINF:-1 tvg-chno="644" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deportes",ESPN 4 Sur América ²
-http://189.50.210.3:8008/play/a04a/94890429.m3u8
+http://189.50.210.3:8008/play/a04a/index.m3u8
 
 #EXTINF:-1 tvg-chno="645" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png" group-title="Deportes",ESPN 5 Sur América ²
 http://38.44.109.41:8003/play/a03w/index.m3u8
 
 #EXTINF:-1 tvg-chno="646" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png" group-title="Deportes",ESPN 6 Sur América ²
-http://189.50.210.3:8008/play/a04c/15599405.m3u8
+http://189.50.210.3:8008/play/a04c/index.m3u8
 
 #EXTINF:-1 tvg-chno="647" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png" group-title="Deportes",ESPN 7 Sur América ²
-http://189.50.210.3:8008/play/a05v/39964021.m3u8
+http://189.50.210.3:8008/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-chno="650" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%20128.png" group-title="Deportes",Fox Sports Sur América
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47117&extension=ts
