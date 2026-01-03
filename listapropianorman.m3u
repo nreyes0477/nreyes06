@@ -609,17 +609,11 @@ https://jireh-5-hls-video-us-isp.dps.live/hls-video/lvcl5/cnn/cnn.smil/playlist.
 #EXTINF:-1 tvg-chno="137" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png" group-title="Noticias",Canal 24 Horas ² 🇨🇱
 http://189.50.210.3:8008/play/a07l/index.m3u8
 
-#EXTINF:-1 tvg-chno="137" tvg-logo="https://lile.cl/system/accounts/avatars/109/339/554/232/353/410/original/3fae0d48a4ed5e93.png" group-title="Noticias",Meganoticias 🇨🇱
-http://gama-mx.com:8085/streaming/clients_live.php?username=wGKe4xRuXwKc&password=7XBua8aHeJAK&stream=99720&extension=ts
-
 #EXTINF:-1 tvg-chno="138" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png" group-title="Noticias",CHV Noticias ¹ 🇨🇱
 https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
 
 #EXTINF:-1 tvg-chno="139" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Chvcontigoptv.png/revision/latest?cb=20231014035938&path-prefix=es" group-title="Noticias",CHV Contigo ¹ 🇨🇱
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62aa5740a47b6c000769f407livestitch/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=fc4ecd2b-3353-5b86-73d4-12ceedc5a646&deviceDNT=0&deviceModel=0&profilesFromStream=true
-
-#EXTINF:-1 tvg-chno="139" tvg-logo="https://i0.wp.com/es.rollingstone.com/wp-content/uploads/2022/10/Dnews-el-nuevo-programa-diario-de-noticias-de-DIRECTV-3.jpg?w=1280&ssl=1" group-title="Noticias",Directv News 🇦🇷
-http://gama-mx.com:8085/streaming/clients_live.php?username=wGKe4xRuXwKc&password=7XBua8aHeJAK&stream=700943&extension=ts
 
 #EXTINF:-1 tvg-chno="142" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png" group-title="Noticias",TN Noticias ² 🇦🇷
 http://181.13.112.203:8100/play/a058/index.m3u8
