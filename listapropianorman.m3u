@@ -603,20 +603,11 @@ https://d3fs8vk5kl4cwc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-chno="133" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png" group-title="Noticias",Telemundo Noticias CA ¹ 🇺🇸
 https://jmp2.uk/plu-65790feacbd0d60008fac87a.m3u8
 
-#EXTINF:-1 tvg-chno="133" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png" group-title="Noticias",Telemundo Noticias TX ¹ 🇺🇸
-https://nbcu-telemundotexas-firetv.amagi.tv:443/playlist1080.m3u8
-
-#EXTINF:-1 tvg-chno="133" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/NoticiasUnivision247.png/revision/latest?cb=20211012054124" group-title="Noticias",Telemundo Noticias NY ¹ 🇺🇸
-https://nbcu-telemundonortheast-firetv.amagi.tv/playlist1080.m3u8
-
-#EXTINF:-1 tvg-chno="133" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png" group-title="Noticias",Telemundo Noticias FL ¹ 🇺🇸
-https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
-
 #EXTINF:-1 tvg-chno="135" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1" group-title="Noticias",CNN Chile ¹ 🇨🇱
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR=&dpssid=b2116507725069104215bc280&sid=ba5t1l1xb230724296069104215bc27f&ndvc=1
 
 #EXTINF:-1 tvg-chno="137" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png" group-title="Noticias",Canal 24 Horas ² 🇨🇱
-http://189.50.210.3:8008/play/a07l/42907739.m3u8
+http://189.50.210.3:8008/play/a07l/index.m3u8
 
 #EXTINF:-1 tvg-chno="137" tvg-logo="https://lile.cl/system/accounts/avatars/109/339/554/232/353/410/original/3fae0d48a4ed5e93.png" group-title="Noticias",Meganoticias 🇨🇱
 http://gama-mx.com:8085/streaming/clients_live.php?username=wGKe4xRuXwKc&password=7XBua8aHeJAK&stream=99720&extension=ts
