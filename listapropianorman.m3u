@@ -615,6 +615,9 @@ https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
 #EXTINF:-1 tvg-chno="139" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Chvcontigoptv.png/revision/latest?cb=20231014035938&path-prefix=es" group-title="Noticias",CHV Contigo ¹ 🇨🇱
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62aa5740a47b6c000769f407livestitch/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=fc4ecd2b-3353-5b86-73d4-12ceedc5a646&deviceDNT=0&deviceModel=0&profilesFromStream=true
 
+#EXTINF:-1 tvg-chno="138" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e5061410-82b2-400d-8433-0604666b79c9-profile_banner-480.jpeg" group-title="Noticias",Meganoticias 🇨🇱
+http://www.1play.cool:25461/live/2132580232/27be478b47/147296.m3u8
+
 #EXTINF:-1 tvg-chno="142" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png" group-title="Noticias",TN Noticias ² 🇦🇷
 http://181.13.112.203:8100/play/a058/index.m3u8
 
@@ -666,11 +669,11 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-chno="160" tvg-logo="https://i0.wp.com/adnoticias.mx/wp-content/uploads/2023/09/amx-noticias-mexiquense.png" group-title="Noticias",AMX Noticias ¹ 🇲🇽
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="161" tvg-logo="https://cnwebsite.blob.core.windows.net/files/2021/05/logo_cablenoticias.png" group-title="Noticias",Cablenoticias ᵇ 🇨🇴
-http://budtvlight.com:25461/live/Astro/120388/818474.ts
+#EXTINF:-1 tvg-chno="161" tvg-logo="https://cnwebsite.blob.core.windows.net/files/2021/05/logo_cablenoticias.png" group-title="Noticias",Cablenoticias  🇨🇴
+http://kstv.us:8080/live/uAf2e8KWbg/8722455439/46768.m3u8
 
-#EXTINF:-1 tvg-chno="162" tvg-logo="https://www.ntn24.com/__assets/images/logo.png" group-title="Noticias",NTN24 ° 🇨🇴
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/168470.m3u8
+#EXTINF:-1 tvg-chno="162" tvg-logo="https://www.ntn24.com/__assets/images/logo.png" group-title="Noticias",NTN24 🇨🇴
+http://www.1play.cool:25461/live/2132580232/27be478b47/147300.m3u8
 
 #EXTINF:-1 tvg-chno="163" tvg-logo="https://www.wola.org/wp-content/uploads/2019/09/noticias-caracol-768x768.jpg" group-title="Noticias",Noticias Caracol ¹ 🇨🇴 
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8?uid=5dAe2fGb7gE6c1jXaP2GttShy86nHQLK&sid=X4AxjZsQgu6s9vckJKuoMoty4tS4TCt0&pid=5r5J7vU0g5G1aMREe2IalihQawj6M22N&pid_dvr=19exOcT4cpmpxh8HbqtwluY9QPiyjsqL&an=screen&at=web-app&av=v6.0.181&ref=https%3A%2F%2Fwww.noticiascaracol.com%2F&res=393x221&without_cookies=false&listenerid=&dnt=true&access_token=PHePEJpMcl8OecLZvzvdUqVuWg4WJMJOmbyroc2rrkp3D8i1axTWLXCy2JgbROGz0U35KBBz0Io&adInsertionGoogleStreamId=bb0d3b26-31f2-49ff-8809-06f8cb3b3ec8:CHS
@@ -697,10 +700,10 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8
 
 #EXTINF:-1 tvg-chno="171" tvg-logo="https://vpitv.com/wp-content/uploads/elementor/thumbs/logo-vpi-b-263x300-1-p2z3incdjzyd4tg7m3obm8gf17ep739fmh3na3lee8.png" group-title="Noticias",VPItv ¹ 🇻🇪
-https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
+https://live-us-cdn-3.tvstartupengine.com/live/playlist-prod-2771932d-c02d-4c94-b374-4d1900ede779/index.m3u8
 
-#EXTINF:-1 tvg-chno="172" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Globovision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Noticias",Globovisión ² 🇻🇪
-http://38.41.8.1:8000/play/a03u
+#EXTINF:-1 tvg-chno="172" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Globovision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Noticias",Globovisión 🇻🇪
+http://www.1play.cool:25461/live/2132580232/27be478b47/57596.m3u8
 
 #EXTINF:-1 tvg-chno="173" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/04/Telesur-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Noticias",Telesur ¹ 🇻🇪
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
