@@ -1467,8 +1467,8 @@ http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=h
 #EXTINF:-1 tvg-chno="514" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden-premier.png" group-title="Cine y Películas",Golden Premier 2
 http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=66472&extension=ts
 
-#EXTINF:-1 tvg-chno="517" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png" group-title="Cine y Películas",Paramount
-http://go.iptvhn.net:25461/live/7785/7785/13257.m3u8
+#EXTINF:-1 tvg-chno="517" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png" group-title="Cine y Películas",Paramount Network US ™
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/13928
 
 #EXTINF:-1 tvg-chno="518" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox_m.png" group-title="Cine y Películas",Star Channel ²
 http://38.159.227.124:8000/play/a05u
@@ -1500,8 +1500,8 @@ http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/106.m3u8
 #EXTINF:-1 tvg-chno="523" tvg-logo="https://cdn.mitvstatic.com/channels/d2aff6e5-5f95-4a9d-9b35-bce8c258cff0_m.jpg" group-title="Cine y Películas",Films & Arts
 http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/134.m3u8
 
-#EXTINF:-1 tvg-chno="523" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyDMiGIxyT06wAhQp1VWfsOYLcRfxA3c9J0nHMckHBXZoUc6K-4aP0VoDFo2qElB11D2UEuvfqDhQ31JBW35rtMQP-8iBhaOwttPNuaErMvjd8gKFoV79nwRo2zVkE08jsW9eHpDZoyLaB/s280/2016-22.jpg" group-title="Cine y Películas",Canal Pánico 
-http://go.iptvhn.net:25461/live/7789/7789/13343.m3u8
+#EXTINF:-1 tvg-chno="523" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyDMiGIxyT06wAhQp1VWfsOYLcRfxA3c9J0nHMckHBXZoUc6K-4aP0VoDFo2qElB11D2UEuvfqDhQ31JBW35rtMQP-8iBhaOwttPNuaErMvjd8gKFoV79nwRo2zVkE08jsW9eHpDZoyLaB/s280/2016-22.jpg" group-title="Cine y Películas",Canal Pánico ™
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7478
 
 #EXTINF:-1 tvg-chno="524" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="Cine y Películas",Studio Universal ²
 http://38.159.227.124:8000/play/a04n
