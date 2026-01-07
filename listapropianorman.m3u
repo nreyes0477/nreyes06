@@ -1350,8 +1350,8 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/11600
 #EXTINF:-1 tvg-chno="400" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg" group-title="Cultura y Entretenimiento",E! Entertainment (1) °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278418.m3u8
 
-#EXTINF:-1 tvg-chno="400" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg" group-title="Cultura y Entretenimiento",E! Entertainment (2)
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/47.m3u8
+#EXTINF:-1 tvg-chno="400" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg" group-title="Cultura y Entretenimiento",E! Entertainment (2) *
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/47.ts
 
 #EXTINF:-1 tvg-chno="405" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-id_m.png" group-title="Cultura y Entretenimiento",ID Investigation ²
 http://38.159.227.124:8000/play/a04d
