@@ -1510,13 +1510,13 @@ http://38.159.227.124:8000/play/a04n
 http://38.159.227.124:8000/play/a02p
 
 #EXTINF:-1 tvg-chno="526" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png" group-title="Cine y Películas",TNT Series
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/76.m3u8
+http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/66428.m3u8
 
 #EXTINF:-1 tvg-chno="527" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner_m.png" group-title="Cine y Películas",Warner Channel ²
 http://38.159.227.124:8000/play/a05v
 
 #EXTINF:-1 tvg-chno="528" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png" group-title="Cine y Películas",FX
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/135.m3u8
+http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/19.m3u8
 
 #EXTINF:-1 tvg-chno="530" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png" group-title="Cine y Películas",DHE
 http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/142.m3u8
