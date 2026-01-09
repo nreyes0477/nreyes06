@@ -1762,13 +1762,13 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=175474&extension=ts
 
 #EXTINF:-1 tvg-chno="611" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deportes",ESPN 4 Centro América
-http://go.iptvhn.net:25461/live/7785/7785/13194.m3u8
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/48.m3u8
 
 #EXTINF:-1 tvg-chno="612" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png" group-title="Deportes",ESPN 5 Centro América 
-http://go.iptvhn.net:25461/live/7789/7789/13346.m3u8
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/53.m3u8
 
 #EXTINF:-1 tvg-chno="613" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png" group-title="Deportes",ESPN 6 Centro América
-http://go.iptvhn.net:25461/live/7789/7789/13347.m3u8
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/141.m3u8
 
 #EXTINF:-1 tvg-chno="614" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN México ™ 🇲🇽
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7275
