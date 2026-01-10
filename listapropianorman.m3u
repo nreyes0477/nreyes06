@@ -1963,13 +1963,13 @@ http://172.93.102.112:8989/278822_.m3u8
 http://172.93.102.112:8989/278824_.m3u8
 
 #EXTINF:-1 tvg-chno="676" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dazn_formula_1-mediano.png"group-title="Deportes",Dazn F1 🇪🇸
-http://2.magmas5.com:8000/streaming/clients_live.php?username=MyBOXXTV2024&password=SILVERsat173929HH&stream=126276&extension=ts
+http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/1442.m3u8
 
 #EXTINF:-1 tvg-chno="677" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_vamos-mediano.png" group-title="Deportes",Vamos por Movistar + ° 🇪🇸
 http://172.93.102.112:8989/278843_.m3u8
 
 #EXTINF:-1 tvg-chno="678" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_deportes-mediano.png" group-title="Deportes",Deportes por Movistar + 🇪🇸
-http://planettvweb.com:8091/streaming/clients_live.php?username=ArielMndo&password=ARIMDO815433&stream=12049&extension=ts
+http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/1779.ts
 
 #EXTINF:-1 tvg-chno="679" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png" group-title="Deportes",TyC Sports Argentina ° 🇦🇷
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278778.m3u8
@@ -2046,11 +2046,11 @@ http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/2336.m3u8
 #EXTINF:-1 tvg-chno="692" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="Deportes",Bein Sports XTRA ¹ 🇺🇸
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="693" tvg-logo="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/1a/10000154.png" group-title="Deportes",Eurosport 1 ² 🇪🇦
-http://185.189.225.157/EuroSport1/index.m3u8
+#EXTINF:-1 tvg-chno="693" tvg-logo="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/1a/10000154.png" group-title="Deportes",Eurosport 1 🇪🇦
+http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/1775.ts
 
-#EXTINF:-1 tvg-chno="693" tvg-logo="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/6b/10000491.png" group-title="Deportes",Eurosport 2 ² 🇪🇦
-http://185.189.225.157/EuroSport2/index.m3u8
+#EXTINF:-1 tvg-chno="693" tvg-logo="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/6b/10000491.png" group-title="Deportes",Eurosport 2 🇪🇦
+http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/1776.ts
 
 #EXTINF:-1 tvg-chno="694" tvg-logo="https://img.favpng.com/2/23/14/te ledeporte-televisi-n-espa-ola-high-definition-video-la-1-television-png-favpng-rnSs7XcTtev0zWAZeUuRzu9gN.jpg" group-title="Deportes",Teledeporte (TVE) ¹ 🇪🇦
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
