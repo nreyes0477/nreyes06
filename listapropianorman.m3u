@@ -1654,13 +1654,13 @@ http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=
 http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=36378&extension=ts
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo.png" group-title="Cine y Películas",HBO Norte ²
-http://45.184.87.142:8000/play/a04k
+http://45.228.234.30:16000/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo2.png" group-title="Cine y Películas",HBO 2 Norte ²
-http://45.184.87.142:8000/play/a05a
+http://45.228.234.30:16000/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbofamily.png" group-title="Cine y Películas",HBO Family Norte ²
-http://200.92.227.238:8000/play/a0mt/index.m3u8
+http://45.228.234.30:16000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus.png" group-title="Cine y Películas",HBO Plus Norte ²
 http://200.92.227.238:8000/play/a0ms/index.m3u8
