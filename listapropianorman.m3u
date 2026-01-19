@@ -858,11 +858,11 @@ http://200.60.124.19:29000/play/a0id/index.m3u8
 #EXTINF:-1 tvg-chno="238" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/09/13-Cultura-en-vivo-Online-1536x864.png" group-title="Chile",Canal 13 Cultura ¹ 🇨🇱
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
-#EXTINF:-1 tvg-chno="239" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="Colombia",Caracol 🇨🇴
-http://cdn1host.online:2999/live/xman2b/d5lxdEfHnB/284.ts
+#EXTINF:-1 tvg-chno="239" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="Colombia",Caracol ™ 🇨🇴
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7643
 
-#EXTINF:-1 tvg-chno="240" tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="Colombia",RCN 🇨🇴
-http://cdn1host.online:2999/live/xman2b/d5lxdEfHnB/302.ts
+#EXTINF:-1 tvg-chno="240" tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="Colombia",RCN ™ 🇨🇴
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7647
 
 #EXTINF:-1 tvg-chno="242" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/250px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="Colombia",Canal 1 ° 🇨🇴
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279385.m3u8
@@ -878,6 +878,27 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 
 #EXTINF:-1 tvg-chno="247" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/03/RCN_Nuestra_Tele_Int_516x287.jpg" group-title="Colombia",RCN Internacional ° 🇨🇴
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279394.m3u8
+
+#EXTINF:-1 tvg-chno="247" tvg-logo="https://www.laopinion.co/sites/default/files/styles/portada_principal_mobile_376x211/public/2025-09/LCDLF-3.jpg?itok=wD9eFKBG" group-title="Colombia",LCDLF 3 (Principal) 🇨🇴
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=397603&extension=ts
+
+#EXTINF:-1 tvg-chno="247" tvg-logo="https://www.laopinion.co/sites/default/files/styles/portada_principal_mobile_376x211/public/2025-09/LCDLF-3.jpg?itok=wD9eFKBG" group-title="Colombia",LCDLF 3 (Sala) 🇨🇴
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=397604&extension=ts
+
+#EXTINF:-1 tvg-chno="247" tvg-logo="https://www.laopinion.co/sites/default/files/styles/portada_principal_mobile_376x211/public/2025-09/LCDLF-3.jpg?itok=wD9eFKBG" group-title="Colombia",LCDLF 3 (Comedor) 🇨🇴
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=397605&extension=ts
+
+#EXTINF:-1 tvg-chno="247" tvg-logo="https://www.laopinion.co/sites/default/files/styles/portada_principal_mobile_376x211/public/2025-09/LCDLF-3.jpg?itok=wD9eFKBG" group-title="Colombia",LCDLF 3 (Beauty) 🇨🇴
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=397608&extension=ts
+
+#EXTINF:-1 tvg-chno="247" tvg-logo="https://www.laopinion.co/sites/default/files/styles/portada_principal_mobile_376x211/public/2025-09/LCDLF-3.jpg?itok=wD9eFKBG" group-title="Colombia",LCDLF 3 (Hab. Calma) 🇨🇴
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=397606&extension=ts
+
+#EXTINF:-1 tvg-chno="247" tvg-logo="https://www.laopinion.co/sites/default/files/styles/portada_principal_mobile_376x211/public/2025-09/LCDLF-3.jpg?itok=wD9eFKBG" group-title="Colombia",LCDLF 3 (Hab. Tormenta) 🇨🇴
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=397607&extension=ts
+
+#EXTINF:-1 tvg-chno="247" tvg-logo="https://www.laopinion.co/sites/default/files/styles/portada_principal_mobile_376x211/public/2025-09/LCDLF-3.jpg?itok=wD9eFKBG" group-title="Colombia",LCDLF 3 (Baños) 🇨🇴
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=397609&extension=ts
 
 #EXTINF:-1 tvg-chno="248" tvg-logo="https://filecache.mediaroom.com/mr5mr_dish/178493/2597547_CubaMax_TV_LOGO__thumbnail_3.jpg" group-title="Cuba",Cubamax ° 🇨🇺
 http://172.93.102.112:8989/279367_.m3u8
@@ -1145,15 +1166,6 @@ http://crlive1.service.osllacdn.com/canaldelasestrellashdcr/vxfmt=dp/playlist.m3
 
 #EXTINF:-1 tvg-chno="323" tvg-logo="https://digitalcontent.prensariozone.com/wp-content/uploads/2021/10/Azteca_logo_trans_516x287.png" group-title="México",Azteca Internacional ¹ 🇲🇽
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-
-#EXTINF:-1 tvg-chno="325" tvg-logo="https://entremedios.tv/wp-content/uploads/2025/10/66863_750.jpg" group-title="México",La Granja Vip 2025 (Cam 1) 🇲🇽
-http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password=XHBR21BVCB&stream=317812&extension=ts
-
-#EXTINF:-1 tvg-chno="325" tvg-logo="https://entremedios.tv/wp-content/uploads/2025/10/66863_750.jpg" group-title="México",La Granja Vip 2025 (Cam 2) 🇲🇽
-http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password=XHBR21BVCB&stream=317811&extension=ts
-
-#EXTINF:-1 tvg-chno="325" tvg-logo="https://entremedios.tv/wp-content/uploads/2025/10/66863_750.jpg" group-title="México",La Granja Vip 2025 (Cam 3) 🇲🇽
-http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password=XHBR21BVCB&stream=317813&extension=ts
 
 #EXTINF:-1 tvg-chno="332" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Nicaragua",Canal 2 ° 🇳🇮
 http://172.93.102.112:8989/279296_.m3u8
