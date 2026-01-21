@@ -670,7 +670,7 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="161" tvg-logo="https://cnwebsite.blob.core.windows.net/files/2021/05/logo_cablenoticias.png" group-title="Noticias",Cablenoticias  🇨🇴
-http://kstv.us:8080/live/uAf2e8KWbg/8722455439/46768.m3u8
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=84908&extension=ts
 
 #EXTINF:-1 tvg-chno="162" tvg-logo="https://www.ntn24.com/__assets/images/logo.png" group-title="Noticias",NTN24 🇨🇴
 http://www.1play.cool:25461/live/2132580232/27be478b47/147300.m3u8
@@ -858,11 +858,14 @@ http://200.60.124.19:29000/play/a0id/index.m3u8
 #EXTINF:-1 tvg-chno="238" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/09/13-Cultura-en-vivo-Online-1536x864.png" group-title="Chile",Canal 13 Cultura ¹ 🇨🇱
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
-#EXTINF:-1 tvg-chno="239" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="Colombia",Caracol ™ 🇨🇴
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7643
+#EXTINF:-1 tvg-chno="239" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="Colombia",Caracol 🇨🇴
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=8480&extension=ts
 
-#EXTINF:-1 tvg-chno="240" tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="Colombia",RCN ™ 🇨🇴
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7647
+#EXTINF:-1 tvg-chno="239" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="Colombia",Caracol 2 🇨🇴
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=130358&extension=ts
+
+#EXTINF:-1 tvg-chno="240" tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="Colombia",RCN 🇨🇴
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=84350&extension=ts
 
 #EXTINF:-1 tvg-chno="242" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/250px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="Colombia",Canal 1 ° 🇨🇴
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279385.m3u8
