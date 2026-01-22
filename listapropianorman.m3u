@@ -945,8 +945,8 @@ https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf9
 #EXTINF:-1 tvg-chno="260" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/640px-Canal_4_TCS.png" group-title="El Salvador",Canal 4 🇸🇻
 http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/545.m3u8
 
-#EXTINF:-1 tvg-chno="261" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-6-El-Salvador-en-vivo-Online.png" group-title="El Salvador",Canal 6 ¹ 🇸🇻
-https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
+#EXTINF:-1 tvg-chno="261" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-6-El-Salvador-en-vivo-Online.png" group-title="El Salvador",Canal 6 🇸🇻
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=9317&extension=ts
 
 #EXTINF:-1 tvg-chno="261" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tutvcanal11.png/330px-Tutvcanal11.png" group-title="El Salvador",TUTV Canal 11 ¹ 🇸🇻
 https://stream.giostreaming.app:19360/canal11/canal11.m3u8
@@ -1191,11 +1191,14 @@ https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 #EXTINF:-1 tvg-chno="337" tvg-logo="https://logosnicas.com/wp-content/uploads/2024/02/wtv_canal_20_nueva_guinea.png" group-title="Nicaragua",WTV 20 ¹ 🇭🇳
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
-#EXTINF:-1 tvg-chno="338" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png" group-title="Panamá",Tv Max ᵇᵘ 🇵🇦
-http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/279309.m3u8
+#EXTINF:-1 tvg-chno="338" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png" group-title="Panamá",Tv Max 🇵🇦
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=154363&extension=ts
 
 #EXTINF:-1 tvg-chno="341" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png" group-title="Panamá",TVN 🇵🇦
-http://kstv.us:8080/live/uAf2e8KWbg/8722455439/47035.m3u8
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=154370&extension=ts
+
+#EXTINF:-1 tvg-chno="341" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png" group-title="Panamá",TVN 2 🇵🇦
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=154375&extension=ts
 
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/300px-Logo-telemetro.svg.png" group-title="Panamá",Telemetro 🇵🇦
 http://kstv.us:8080/live/uAf2e8KWbg/8722455439/47028.m3u8
@@ -1207,7 +1210,7 @@ http://kstv.us:8080/live/uAf2e8KWbg/8722455439/47023.m3u8
 https://vcp8.myplaytv.com:1936/nextv/nextv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="345" tvg-logo="https://pro2-bar-s3-cdn-cf6.myportfolio.com/43597c77-0aca-4e9f-a5fe-762b0f5b6e0f/053c9810-3701-4083-89ff-35a6a1bed8ae_rw_1200.jpg?h=678f6e56b2916be42a75898ad08636fd" group-title="Panamá",Eco TV 🇵🇦
-http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/86505.m3u8
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=154346&extension=ts
 
 #EXTINF:-1 tvg-chno="350" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png" group-title="Paraguay",Paraguay TV ¹ 🇵🇾
 https://stream.paraguaytv.gov.py/memfs/400fcc83-8f04-4497-8011-150847d44702.m3u8
