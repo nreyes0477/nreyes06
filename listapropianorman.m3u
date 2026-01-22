@@ -1170,8 +1170,8 @@ http://crlive1.service.osllacdn.com/canaldelasestrellashdcr/vxfmt=dp/playlist.m3
 #EXTINF:-1 tvg-chno="323" tvg-logo="https://digitalcontent.prensariozone.com/wp-content/uploads/2021/10/Azteca_logo_trans_516x287.png" group-title="México",Azteca Internacional ¹ 🇲🇽
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
-#EXTINF:-1 tvg-chno="332" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Nicaragua",Canal 2 ° 🇳🇮
-http://172.93.102.112:8989/279296_.m3u8
+#EXTINF:-1 tvg-chno="332" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Nicaragua",Canal 2 🇳🇮
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=85735&extension=ts
 
 #EXTINF:-1 tvg-chno="333" tvg-logo="https://1.bp.blogspot.com/-Fi3j72ih8b8/YSzl1J95lrI/AAAAAAAAQVE/qDJWftQ2kVUOGhTCR9IFxSk5dUbv00OGACLcBGAsYHQ/w700-h400-p-k-no-nu/Canal%2B4%2Ben%2Bvivo.jpg" group-title="Nicaragua",Canal 4 ° 🇳🇮
 http://172.93.102.112:8989/279299_.m3u8
@@ -1179,11 +1179,11 @@ http://172.93.102.112:8989/279299_.m3u8
 #EXTINF:-1 tvg-chno="334" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Nicaragua",Canal 6 ° 🇳🇮
 http://172.93.102.112:8989/279297_.m3u8
 
-#EXTINF:-1 tvg-chno="335" tvg-logo="https://1.bp.blogspot.com/-zyfzTiv-0YY/YSgNAyVUnYI/AAAAAAAAQQw/63cf8CyUoLQlwDWY2-9zdME5dzjewFpJQCLcBGAsYHQ/w700-h400-p-k-no-nu/Canal%2B10%2Ben%2Bvivo.png" group-title="Nicaragua",Canal 10 ° 🇳🇮
-http://172.93.102.112:8989/279293_.m3u8
+#EXTINF:-1 tvg-chno="335" tvg-logo="https://1.bp.blogspot.com/-zyfzTiv-0YY/YSgNAyVUnYI/AAAAAAAAQQw/63cf8CyUoLQlwDWY2-9zdME5dzjewFpJQCLcBGAsYHQ/w700-h400-p-k-no-nu/Canal%2B10%2Ben%2Bvivo.png" group-title="Nicaragua",Canal 10 🇳🇮
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=85728&extension=ts
 
-#EXTINF:-1 tvg-chno="336" tvg-logo="https://www.vivanicaragua.com.ni/contenido/archivos/2019/03/logo-blanco.png?x75729" group-title="Nicaragua",Canal 13 ° 🇳🇮
-http://172.93.102.112:8989/279294_.m3u8
+#EXTINF:-1 tvg-chno="336" tvg-logo="https://www.vivanicaragua.com.ni/contenido/archivos/2019/03/logo-blanco.png?x75729" group-title="Nicaragua",Canal 13 🇳🇮
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=85731&extension=ts
 
 #EXTINF:-1 tvg-chno="337" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TN8_Nicaragua.svg/1280px-TN8_Nicaragua.svg.png" group-title="Nicaragua",TN8 ¹ 🇳🇮
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
