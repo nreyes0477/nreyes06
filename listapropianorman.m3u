@@ -1785,17 +1785,17 @@ http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.bes
 #EXTINF:-1 tvg-chno="613" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png" group-title="Deportes",ESPN 6 Centro América
 http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=141&extension=ts
 
-#EXTINF:-1 tvg-chno="614" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN México ™ 🇲🇽
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7275
+#EXTINF:-1 tvg-chno="614" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN México 🇲🇽
+http://cdn1host.online:2999/streaming/clients_live.php?username=xman2b&password=d5lxdEfHnB&stream=97&extension=ts
 
 #EXTINF:-1 tvg-chno="615" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 México 🇲🇽
-http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47098&extension=ts
+http://cdn1host.online:2999/streaming/clients_live.php?username=xman2b&password=d5lxdEfHnB&stream=1456&extension=ts
 
-#EXTINF:-1 tvg-chno="616" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN 3 México ™ 🇲🇽
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/8411
+#EXTINF:-1 tvg-chno="616" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN 3 México 🇲🇽
+http://cdn1host.online:2999/streaming/clients_live.php?username=xman2b&password=d5lxdEfHnB&stream=91&extension=ts
 
-#EXTINF:-1 tvg-chno="616" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deportes",ESPN 4 México ™ 🇲🇽
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7485
+#EXTINF:-1 tvg-chno="616" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deportes",ESPN 4 México 🇲🇽
+http://cdn1host.online:2999/streaming/clients_live.php?username=xman2b&password=d5lxdEfHnB&stream=90&extension=ts
 
 #EXTINF:-1 tvg-chno="617" tvg-logo="https://newswhip.sirv.com/WP_www.newswhip.com/2018/02/Espndeportes.png" group-title="Deportes",ESPN Deportes (1) 🇺🇲
 http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=528&extension=ts
