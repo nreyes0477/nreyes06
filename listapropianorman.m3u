@@ -703,7 +703,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://live-us-cdn-3.tvstartupengine.com/live/playlist-prod-2771932d-c02d-4c94-b374-4d1900ede779/index.m3u8
 
 #EXTINF:-1 tvg-chno="172" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Globovision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Noticias",Globovisión 🇻🇪
-http://www.1play.cool:25461/live/2132580232/27be478b47/57596.m3u8
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=13014&extension=ts
 
 #EXTINF:-1 tvg-chno="173" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/04/Telesur-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Noticias",Telesur ¹ 🇻🇪
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
@@ -903,14 +903,14 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 #EXTINF:-1 tvg-chno="247" tvg-logo="https://www.laopinion.co/sites/default/files/styles/portada_principal_mobile_376x211/public/2025-09/LCDLF-3.jpg?itok=wD9eFKBG" group-title="Colombia",LCDLF 3 (Baños) 🇨🇴
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=397609&extension=ts
 
-#EXTINF:-1 tvg-chno="248" tvg-logo="https://filecache.mediaroom.com/mr5mr_dish/178493/2597547_CubaMax_TV_LOGO__thumbnail_3.jpg" group-title="Cuba",Cubamax ° 🇨🇺
-http://172.93.102.112:8989/279367_.m3u8
+#EXTINF:-1 tvg-chno="248" tvg-logo="https://filecache.mediaroom.com/mr5mr_dish/178493/2597547_CubaMax_TV_LOGO__thumbnail_3.jpg" group-title="Cuba",Cubamax 🇨🇺
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=10083&extension=ts
 
-#EXTINF:-1 tvg-chno="248" tvg-logo="https://www.tvcubana.icrt.cu/images/television.jpg" group-title="Cuba",Cubavisión ° 🇨🇺
-http://00322.xyz:8000/live/jieseialberto/XHBR21BVCB/227359.m3u8
+#EXTINF:-1 tvg-chno="248" tvg-logo="https://www.tvcubana.icrt.cu/images/television.jpg" group-title="Cuba",Cubavisión 🇨🇺
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=10079&extension=ts
 
-#EXTINF:-1 tvg-chno="248" tvg-logo="https://i1.sndcdn.com/avatars-yy1Bq6yGeyp4lE6f-vpqpJw-t240x240.jpg" group-title="Cuba",Telemarti ° 🇨🇺
-http://172.93.102.112:8989/279366_.m3u8
+#EXTINF:-1 tvg-chno="248" tvg-logo="https://i1.sndcdn.com/avatars-yy1Bq6yGeyp4lE6f-vpqpJw-t240x240.jpg" group-title="Cuba",Telemarti 🇨🇺
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=10080&extension=ts
 
 #EXTINF:-1 tvg-chno="250" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/233px-EcuadorTV_logo.png" group-title="Ecuador",Ecuador TV ¹ 🇪🇨
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
@@ -1282,7 +1282,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 #EXTINF:-1 tvg-chno="371" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Univisi%C3%B3n-Puerto-Rico-en-vivo-Online.png?zoom=3&resize=218%2C150&ssl=1" group-title="Puerto Rico",Univision Puerto Rico 🇵🇷
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=126536&extension=ts
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=14332&extension=ts
 
 #EXTINF:-1 tvg-chno="372" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/america-teve.png?zoom=2&resize=218%2C150&ssl=1" group-title="Puerto Rico",América TeVe Miami ¹ 🇵🇷
 https://live.gideo.video/americateve2/master.m3u8
@@ -1299,14 +1299,14 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 #EXTINF:-1 tvg-chno="375" tvg-logo="https://wipr.pr/wp-content/uploads/2024/10/logo.png" group-title="Puerto Rico",Wipr TV 🇵🇷
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148440&extension=ts
 
-#EXTINF:-1 tvg-chno="376" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/telemicro.png?zoom=3&resize=100%2C70&ssl=1" group-title="República Dominicana",Telemicro Canal 5 ² 🇩🇴
-http://181.119.108.27:8000/play/a04b/index.m3u8
+#EXTINF:-1 tvg-chno="376" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/telemicro.png?zoom=3&resize=100%2C70&ssl=1" group-title="República Dominicana",Telemicro Canal 5 🇩🇴
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=9303&extension=ts
 
 #EXTINF:-1 tvg-chno="377" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Color-Visio%CC%81n-9-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="República Dominicana",Color Visión Canal 9 ² 🇩🇴
 http://190.110.36.254/COLORVISION/index.m3u8
 
-#EXTINF:-1 tvg-chno="378" tvg-logo="https://canalesdominicanos.live/template/images/radios/digital-15.png" group-title="República Dominicana",Canal 15 ² 🇩🇴
-http://181.188.216.5:18000/play/a0aw/index.m3u8
+#EXTINF:-1 tvg-chno="378" tvg-logo="https://canalesdominicanos.live/template/images/radios/digital-15.png" group-title="República Dominicana",Canal 15 🇩🇴
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=9300&extension=ts
 
 #EXTINF:-1 tvg-chno="379" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/cdn.png?zoom=3&resize=100%2C70&ssl=1" group-title="República Dominicana",CDN 🇩🇴
 http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password=XHBR21BVCB&stream=138400&extension=ts
@@ -1360,7 +1360,7 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 http://38.41.8.1:8000/play/a03j
 
 #EXTINF:-1 tvg-chno="397" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Ve-Plus-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Venezuela",Venevisión Plus 🇻🇪
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=190838&extension=ts
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=13023&extension=ts
 
 #EXTINF:-1 tvg-chno="398" tvg-logo="https://www.newslinereport.com/online/foto_120.jpg" group-title="Venezuela",Venevisión Internacional ¹ 🇻🇪
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/1160000.m3u8
