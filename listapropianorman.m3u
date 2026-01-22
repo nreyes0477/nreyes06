@@ -1206,8 +1206,8 @@ http://kstv.us:8080/live/uAf2e8KWbg/8722455439/47028.m3u8
 #EXTINF:-1 tvg-chno="343" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/RPC-en-vivo-Online.png?resize=1068%2C601&ssl=1" group-title="Panamá",RPC 🇵🇦
 http://kstv.us:8080/live/uAf2e8KWbg/8722455439/47023.m3u8
 
-#EXTINF:-1 tvg-chno="344" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/NEX-TV-Panam%C3%A1-en-vivo-Online.png?zoom=3&resize=218%2C150&ssl=1" group-title="Panamá",Next TV ¹ 🇵🇦
-https://vcp8.myplaytv.com:1936/nextv/nextv/playlist.m3u8
+#EXTINF:-1 tvg-chno="344" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/NEX-TV-Panam%C3%A1-en-vivo-Online.png?zoom=3&resize=218%2C150&ssl=1" group-title="Panamá",Next TV 🇵🇦
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=84568&extension=ts
 
 #EXTINF:-1 tvg-chno="345" tvg-logo="https://pro2-bar-s3-cdn-cf6.myportfolio.com/43597c77-0aca-4e9f-a5fe-762b0f5b6e0f/053c9810-3701-4083-89ff-35a6a1bed8ae_rw_1200.jpg?h=678f6e56b2916be42a75898ad08636fd" group-title="Panamá",Eco TV 🇵🇦
 http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=154346&extension=ts
@@ -1216,10 +1216,10 @@ http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na
 https://stream.paraguaytv.gov.py/memfs/400fcc83-8f04-4497-8011-150847d44702.m3u8
 
 #EXTINF:-1 tvg-chno="351" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" group-title="Paraguay",Paravisión 🇵🇾
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=131712&extension=ts
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=84572&extension=ts
 
-#EXTINF:-1 tvg-chno="352" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg" group-title="Paraguay",Telefuturo ² 🇵🇾
-http://201.217.246.177:8000/play/a09y/index.m3u8
+#EXTINF:-1 tvg-chno="352" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg" group-title="Paraguay",Telefuturo 🇵🇾
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=84574&extension=ts
 
 #EXTINF:-1 tvg-chno="353" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/240px-Logotrececanal.png" group-title="Paraguay",Canal Trece 🇵🇾
 http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/464901.m3u8
@@ -1228,7 +1228,7 @@ http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/464901.m3u8
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=131715&extension=ts
 
 #EXTINF:-1 tvg-chno="355" tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png" group-title="Paraguay",Unicanal 🇵🇾 
-http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/90909.m3u8
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=84575&extension=ts
 
 #EXTINF:-1 tvg-chno="355" tvg-logo="https://alba-py-c9n.cdn.mediatiquepress.com/wp-content/uploads/2023/07/logo.png" group-title="Paraguay",C9N ¹ 🇵🇾 
 https://d2qsan2ut81n2k.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8
