@@ -1768,22 +1768,22 @@ http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.bes
 http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password=XHBR21BVCB&stream=145465&extension=ts
 
 #EXTINF:-1 tvg-chno="607" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Centro América
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=175472&extension=ts
+http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=54&extension=ts
 
 #EXTINF:-1 tvg-chno="608" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 Centro América 
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=175473&extension=ts
+http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=49&extension=ts
 
 #EXTINF:-1 tvg-chno="610" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN 3 Centro América 
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=175474&extension=ts
+http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=51extension=ts
 
 #EXTINF:-1 tvg-chno="611" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deportes",ESPN 4 Centro América
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/48.m3u8
+http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=48&extension=ts
 
-#EXTINF:-1 tvg-chno="612" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png" group-title="Deportes",ESPN 5 Centro América 
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/53.m3u8
+#EXTINF:-1 tvg-chno="612" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png" group-title="Deportes",ESPN 5 Centro América
+http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=53&extension=ts
 
 #EXTINF:-1 tvg-chno="613" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png" group-title="Deportes",ESPN 6 Centro América
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/141.m3u8
+http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=141&extension=ts
 
 #EXTINF:-1 tvg-chno="614" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN México ™ 🇲🇽
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7275
