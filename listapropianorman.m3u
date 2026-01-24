@@ -156,209 +156,197 @@ https://live20.bozztv.com/giatv/giatv-megahits/megahits/chunks.m3u8
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://gextv.com/LOGO-WHITE.png" group-title="Nacionales",Gex TV ¹ 🇨🇷
 https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="Cine Latinos",Ciudad Magazine ° 🇦🇷
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278754.m3u8
-
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://www.promendoza.com/wp-content/uploads/2018/06/cine-2-750x390.jpg" group-title="Cine Latinos",Cine Ar ° 🇦🇷
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278753.m3u8
-
-#EXTINF:-1 tvg-chno="53" tvg-logo="https://play-lh.googleusercontent.com/OdWhvPhBs4DfqmC_0TgmlZELLX_8UHlmXqOWOvYMIVLsEncE2tRPHI-2xUiAbJRxJVtg=s75-rw" group-title="Cine Latinos",Neo TV ¹ 🇦🇷
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-#EXTINF:-1 tvg-chno="54" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-5-Tigre-Tv-en-vivo-Online.png?resize=1068%2C601&ssl=1" group-title="Cine Latinos",Cinco TV ¹ 🇦🇷
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-
-#EXTINF:-1 tvg-chno="55" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Cine Latinos",Cosmos TV ¹ 🇦🇷
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-
-#EXTINF:-1 tvg-chno="55" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3335-320x180-000000.jpg" group-title="Cine Latinos",Latina TV ¹ 🇩🇴
-https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
-
-#EXTINF:-1 tvg-chno="55" tvg-logo="https://imagenuniversaltv.com/wp-content/uploads/2024/06/Logo-imagen-Universal-Horizontal.png" group-title="Cine Latinos",Imagen Universal TV ¹ 🇩🇴
-https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-
-#EXTINF:-1 tvg-chno="56" tvg-logo="https://www.telemas.tv/wp-content/uploads/2025/03/logo_v6.png" group-title="Cine Latinos",Telemas + ¹ 🇭🇳
-https://viewhn.com/telemas/live/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="56" tvg-logo="https://megatvjaen.pe/wp-content/uploads/2022/12/cropped-megajaen.png" group-title="Cine Latinos",Mega Tv Jaen ¹ 🇵🇪
-https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
-
-#EXTINF:-1 tvg-chno="56" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Cine Latinos",Tv Show ¹ 🇧🇴
-http://tv.istbolivia.com:1935/tvshow/tvshow/.m3u8
-
-#EXTINF:-1 tvg-chno="56" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Cine Latinos",Mix Bolivia TV ¹ 🇧🇴
-https://live21.bozztv.com/akamaissh101/ssh101/mixboliviatvhd/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="56" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Cine Latinos",Coral TV ¹ 🇧🇴
-https://tv.mediacp.eu:8081/coraltv/index.m3u8
-
-#EXTINF:-1 tvg-chno="56" tvg-logo="https://playmax.tv/wp-content/uploads/2023/01/planettva.png" group-title="Cine Latinos", Planeta TV ¹ 🇵🇪
-https://live.obslivestream.com/planetatv/index.m3u8
-
-#EXTINF:-1 tvg-chno="56" tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="Cine Latinos",Canal 57 Florida ¹ 🇺🇸
-https://167790.global.ssl.fastly.net:443/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-chno="57" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/vegavision-canal-18.jpg" group-title="Cine Latinos",Vegavisión Canal 18 ¹ 🇩🇴 
-https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
-
-#EXTINF:-1 tvg-chno="57" tvg-logo="https://image.roku.com/developer_channels/prod/9f0ee388e53f0044a9db9d0dcb35b64bceab0c0e6b5055935ae2aa14e1888c82.png" group-title="Cine Latinos",Mega Cine TV ¹ 🇩🇴 
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
-
-#EXTINF:-1 tvg-chno="58" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/10microvision.png?zoom=3&resize=100%2C70&ssl=1" group-title="Cine Latinos",Microvisión ¹ 🇩🇴
-https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="59" tvg-logo="https://satelcanal4.com/wp-content/uploads/2023/08/SATEL-LOGO-1-1024x652.png" group-title="Cine Latinos",Satel Canal 4 ¹ 🇨🇴
-https://server.asilivehd.com:3802/live/canal4live.m3u8
-
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://static.wixstatic.com/media/2c880e_0ac2f3f7dd3e49058db44f507e4690b6~mv2.png/v1/fill/w_360,h_88,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/inbig%20retro%20tv.png" group-title="Cine Latinos",The Big Retro TV ¹ 🇦🇷
-https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/2006_Magic_Kids_logo.png" group-title="Cine Latinos",Canal Magic Kids ¹ 🇦🇷
-https://magicstream.ddns.net/magicstream/stream.m3u8
-
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/8.jpg" group-title="Cine Latinos",Retro Cartoons ¹ 🇦🇷
-https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/35-1.jpg" group-title="Cine Latinos",Canal Oli TV ¹ 🇦🇷
-https://v4.tustreaming.cl/retroplaytv/index.m3u8
-
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://cineramatv.com/wp-content/uploads/2024/10/sin-fondo.png" group-title="Cine Latinos",Cinerama TV ¹ 🇧🇴
-https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8?cachebust=7e749c
-
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/39.jpg" group-title="Cine Latinos",Teleclasica ¹ 🇦🇷
-https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/15-1.jpg" group-title="Cine Latinos",Telecinco Trelew ¹ 🇦🇷
-https://videohd.live:19360/8016/8016.m3u8
-
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://i.postimg.cc/brrsGL5r/kandela.jpg" group-title="Cine Latinos",Kandela TV ¹ 🇻🇪
-https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
-
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://i.postimg.cc/j5zxhCKm/rocket2.jpg" group-title="Cine Latinos",Rocket TV ¹ 🇨🇱
-https://live20.bozztv.com/giatv/giatv-rocket/rocket/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/28.jpg" group-title="Cine Latinos",Multivisión Televisión Digital ¹ 🇦🇷
-https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
-
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/29.jpg" group-title="Cine Latinos",Videoclub TV ¹ 🇦🇷
-https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
-
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/30.jpg" group-title="Cine Latinos",Megacine ¹ 🇦🇷
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
-
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://megatvcr.net/images/logo-mega.png" group-title="Nacionales",Mega Tv CR ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="50" tvg-logo="https://megatvcr.net/images/logo-mega.png" group-title="Nacionales",Mega Tv CR ¹ 🇨🇷
 https://stream.enlineatv.net/hls/megatvcr/index.m3u8
 
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr6QWfe5-SiHV3YOww4BaQn0DK5k9tc3j8Ftm5V3cnMkbjj2xRQ292sAFr1Fp618m8vbggU8OPBOrp8SZ1UQRCiY7lNRwquM1IlA42_PBAW1K5bzxBJpZd7PeukuLTQErG6ssx9sErR3gW19-JtDv_FZr7jgMurau5zIRGoCCmkamm2bwKyqDLebuEE9-h/s600/PUNTO%209%20TV%20PORTADA%203.png" group-title="Nacionales",Radio Punto 9 CR ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="50" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr6QWfe5-SiHV3YOww4BaQn0DK5k9tc3j8Ftm5V3cnMkbjj2xRQ292sAFr1Fp618m8vbggU8OPBOrp8SZ1UQRCiY7lNRwquM1IlA42_PBAW1K5bzxBJpZd7PeukuLTQErG6ssx9sErR3gW19-JtDv_FZr7jgMurau5zIRGoCCmkamm2bwKyqDLebuEE9-h/s600/PUNTO%209%20TV%20PORTADA%203.png" group-title="Nacionales",Radio Punto 9 CR ¹ 🇨🇷
 https://acceso.mediosdecostarica.com:3569/live/punto9tvlive.m3u8
 
-#EXTINF:-1 tvg-chno="61" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcNnJ6lZrHUFcLeVS0H8AkrG3b_wprti0myCOEnU4NvqkGhuMFbDVFlSDaGVmPUSMUMiftf7hjNb1RRB7n5Tc7bHIlsK8TjbDYAbD4KURV3rVrXzA_BKuVBKKdE4w9OsWFQ0Dn31pAqcnRHeN7Kw6bB_TJvFdcPxmtax11ml5CLKmoXSMRBAgGsdcg9SAr/s600/PORTADA%20BEST%20CLASICOS%20TV.png" group-title="Nacionales",Best Clásicos TV ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="50" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcNnJ6lZrHUFcLeVS0H8AkrG3b_wprti0myCOEnU4NvqkGhuMFbDVFlSDaGVmPUSMUMiftf7hjNb1RRB7n5Tc7bHIlsK8TjbDYAbD4KURV3rVrXzA_BKuVBKKdE4w9OsWFQ0Dn31pAqcnRHeN7Kw6bB_TJvFdcPxmtax11ml5CLKmoXSMRBAgGsdcg9SAr/s600/PORTADA%20BEST%20CLASICOS%20TV.png" group-title="Nacionales",Best Clásicos TV ¹ 🇨🇷
 https://acceso.mediosdecostarica.com:3873/stream/play.m3u8
 
-#EXTINF:-1 tvg-chno="63" tvg-logo="https://images.squarespace-cdn.com/content/v1/6011bffa317a1f7611f12428/1633029916787-F3MHJD8N95PE2K176HL0/kiss-cut-stickers-5.5x5.5-default-61560f185cc2a.png?format=1500w" group-title="Nacionales",Retro Tv On Line ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="50" tvg-logo="https://images.squarespace-cdn.com/content/v1/6011bffa317a1f7611f12428/1633029916787-F3MHJD8N95PE2K176HL0/kiss-cut-stickers-5.5x5.5-default-61560f185cc2a.png?format=1500w" group-title="Nacionales",Retro Tv On Line ¹ 🇨🇷
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="64" tvg-logo="https://img1.wsimg.com/isteam/ip/0b6749a7-4d1f-4663-98a6-82c3788efdcb/RETROX%20TV%20LOGO%20PNG.png" group-title="Nacionales",Retrox TV ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="50" tvg-logo="https://img1.wsimg.com/isteam/ip/0b6749a7-4d1f-4663-98a6-82c3788efdcb/RETROX%20TV%20LOGO%20PNG.png" group-title="Nacionales",Retrox TV ¹ 🇨🇷
 https://video20.klm99.com:3580/live/retroxlive.m3u8
 
-#EXTINF:-1 tvg-chno="65" tvg-logo="https://image.roku.com/developer_channels/prod/57ab74c4faa79c70ed4ac4a5e84e17dc731fbded16d330e3bf320a4613a9f5e6.png" group-title="Nacionales",Retro Tv Palmares ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="50" tvg-logo="https://image.roku.com/developer_channels/prod/57ab74c4faa79c70ed4ac4a5e84e17dc731fbded16d330e3bf320a4613a9f5e6.png" group-title="Nacionales",Retro Tv Palmares ¹ 🇨🇷
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="66" tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png" group-title="Cine Latinos",Dreiko TV ¹ 🇵🇦 
-https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cnn-en-espanol_m.png" group-title="Noticias",CNN Español ¹ 🇺🇸
+https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8?ads_amagi_channel=948&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6425&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=1886cc8a-1918-4702-8b48-cd6e823acf3d&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
-#EXTINF:-1 tvg-chno="67" tvg-logo="https://static.wixstatic.com/media/3ebf2e_6c71f9a7aa66459ea6140c872c515467~mv2.png/v1/crop/x_21,y_41,w_1259,h_566/fill/w_244,h_110,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20letras%203d.png" group-title="Cine Latinos",Retro Mágico ¹ 🇦🇷
-https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/chunks.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://cdn-profiles.tunein.com/s320627/images/logoq.png" group-title="Noticias",Estrella News ¹ 🇺🇸
+https://estrella-news-oando.amagi.tv:443/playlistR1080p.m3u8
 
-#EXTINF:-1 tvg-chno="68" tvg-logo="https://babyfirsttv.com/wp-content/uploads/2024/03/babyfirst_logo_2022-1536x303.png" group-title="Infantiles",Baby Firts ¹ 🇺🇸
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/NoticiasUnivision247.png/revision/latest?cb=20211012054124" group-title="Noticias",24/7 Noticias Univisión ¹ 🇺🇸
+https://linear-254.frequency.stream:443/mt/studio/254/hls/master/playlist_1280x720.m3u8
 
-#EXTINF:-1 tvg-chno="68" tvg-logo="https://babyfirsttv.com/wp-content/uploads/2024/03/babyfirst_logo_2022-1536x303.png" group-title="Infantiles",Baby Firts 🇺🇸
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/152.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://i.postimg.cc/T1qXxt1F/noticiast.jpg" group-title="Noticias",Telemundo Noticias Ahora ¹ 🇺🇸
+https://d3fs8vk5kl4cwc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qeuu0ja680vad/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US3000005RS
 
-#EXTINF:-1 tvg-chno="68" tvg-logo="https://www.babytv.com/app/uploads/2019/07/logo-baby-tv-2019-main-logo.png" group-title="Infantiles",Baby TV
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/151.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png" group-title="Noticias",Telemundo Noticias CA ¹ 🇺🇸
+https://jmp2.uk/plu-65790feacbd0d60008fac87a.m3u8
 
-#EXTINF:-1 tvg-chno="68" tvg-logo="https://www.pinkfong.com/assets/img/new/youtube/g_2.png" group-title="Infantiles",Baby Shark TV ¹ 🇺🇸
-https://stitcher.pluto.tv/stitch/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1" group-title="Noticias",CNN Chile ¹ 🇨🇱
+https://jireh-5-hls-video-us-isp.dps.live/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR=&dpssid=b2116507725069104215bc280&sid=ba5t1l1xb230724296069104215bc27f&ndvc=1
 
-#EXTINF:-1 tvg-chno="68" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiqQ9lUlw4pvSzEiWX4ooP4MooP0Wc0biiDhhe2VmS6xai3ylPZvbEap5uXo-JAgMQOnsHjO9RNSaG6P7BSAlEiIGr9BboE03RZqaIjPU7cdgPSrvL8WYNoSKZe6Zv8yaLMYQDd6_Tf1yG/s16000-rw/cartoonito.jpg" group-title="Infantiles",Cartoonito
-http://181.78.101.241:8080/live/carlosmadrid.best/CMadrid25$/15.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png" group-title="Noticias",Canal 24 Horas ² 🇨🇱
+http://189.50.210.3:8008/play/a07l/index.m3u8
 
-#EXTINF:-1 tvg-chno="68" tvg-logo="https://www.adlatina.com/uploads/img/fotoNoticiaG31575.jpg" group-title="Infantiles",Discovery Kids
-http://181.78.101.241:8080/live/carlosmadrid.best/CMadrid25$/38.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png" group-title="Noticias",CHV Noticias ¹ 🇨🇱
+https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
 
-#EXTINF:-1 tvg-chno="68" tvg-logo="https://cms-media.clink.services/Mobile_ree4ih.png" group-title="Infantiles",Disney Jr
-http://181.78.101.241:8080/live/carlosmadrid.best/CMadrid25$/46.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Chvcontigoptv.png/revision/latest?cb=20231014035938&path-prefix=es" group-title="Noticias",CHV Contigo ¹ 🇨🇱
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62aa5740a47b6c000769f407livestitch/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=fc4ecd2b-3353-5b86-73d4-12ceedc5a646&deviceDNT=0&deviceModel=0&profilesFromStream=true
 
-#EXTINF:-1 tvg-chno="68" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMCfXW-h5-_x_dvl8OEDdodTS4SBMRQhv5Y_nGhaLUo5SYqx230Vw1WiJ8idZ3aFOCwla6MXfYeIN_FATfCUXFQMS9xH20VJr9t4bblUtzKQvrp3Rgafs35Knqs9v79FDtpkESS2w5pPs2bAOEIXvnHweDR5Q7BMnNbZriovYar1LZ83W6mrrnHzeuI93Q/w640-h360-rw/f27cda21-4305-464b-a73e-3f4aebccb467.jpg" group-title="Infantiles",Nick Jr
-http://181.78.101.241:8080/live/carlosmadrid.best/CMadrid25$/22.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e5061410-82b2-400d-8433-0604666b79c9-profile_banner-480.jpeg" group-title="Noticias",Meganoticias 🇨🇱
+http://www.1play.cool:25461/live/2132580232/27be478b47/147296.m3u8
 
-#EXTINF:-1 tvg-chno="68" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/nickelodeon_2023_logo_6.png" group-title="Infantiles",Nickelodeon 
-http://181.78.101.241:8080/live/carlosmadrid.best/CMadrid25$/63.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png" group-title="Noticias",TN Noticias ² 🇦🇷
+http://181.13.112.203:8100/play/a058/index.m3u8
 
-#EXTINF:-1 tvg-chno="68" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/500px-2019_Disney_Channel_logo.svg.png" group-title="Infantiles",Disney Channel 
-http://181.78.101.241:8080/live/carlosmadrid.best/CMadrid25$/45.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/588px-Canal_26_logo_%282022%29.svg.png" group-title="Noticias",Canal 26 ° 🇦🇷
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278781.m3u8
 
-#EXTINF:-1 tvg-chno="68" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/330px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles",Cartoon Network 
-http://181.78.101.241:8080/live/carlosmadrid.best/CMadrid25$/5.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://assets.iproup.com/assets/jpg/2021/04/17689.jpg" group-title="Noticias",Crónica TV ° 🇦🇷
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278755.m3u8
 
-#EXTINF:-1 tvg-chno="68" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/b/b8/DreamWorks_Animationl_ogo.svg.png/500px-DreamWorks_Animationl_ogo.svg.png" group-title="Infantiles",Dreamworks 
-http://go.iptvhn.net:25461/live/7789/7789/13336.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/C5N_%282017%29.png/606px-C5N_%282017 %29.png"group-title="Noticias",C5N ° 🇦🇷
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278752.m3u8
 
-#EXTINF:-1 tvg-chno="68" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="Infantiles",Tooncast
-http://go.iptvhn.net:25461/live/7789/7789/13308.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="Noticias",A24 ° 🇦🇷
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278750.m3u8
 
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png" group-title="24/7 Novelas",Todo Novelas ¹ 🇲🇽 
-https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBC43000013T
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://www.tvcinco.com/images/logo2.jpg" group-title="Noticias",5tv ¹ 🇦🇷
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a3bd552eca6645942a60a053fe61fafb.webp" group-title="24/7 Novelas",Sony Novelas ¹ 🇲🇽 
-https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/1.jpg" group-title="Noticias",CNAR Noticias 24 ¹ 🇦🇷
+https://stmv3.voxtvhd.com.br/eventoslive2/eventoslive2/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://ipuntotv.com/IMAGES/TNT-Novelas-logo-nuevo.jpg" group-title="24/7 Novelas",TNT Novelas 🇲🇽 
-http://go.iptvhn.net:25461/live/7789/7789/13281.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://dossiernet.com/_next/image?url=https%3A%2F%2Fdmdqet87i5rod.cloudfront.net%2Festoesmedia%2F609bcd5342359_lnmas.jpg&w=1080&q=75" group-title="Noticias",La Nación + ° 🇦🇷
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278769.m3u8
 
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXjJn9sSNrZSuqtwTm5DGor-M4uLoIrwfjh7yn22xVG9bl4mJw1rK2gY-wehuSSirTbgN6uEQHdFUn1Giq__TPYaj1USXHSmowkGcq89eGeW14s0uj3VjYje6egHRB5B0NVTB_bwwDg6TxRYv0NjxOEwDUwCbf5nRVcmZV6qN4NJd-J83LOFM-zvuI/w200-h151/RCN_Novelas_logo_2019.png" group-title="24/7 Novelas",TLnovelas ² 🇲🇽 
-http://190.11.225.124:5000/live/tlnovelas/playlist.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/b3/6835.png" group-title="Noticias",24H España ¹ 🇪🇦
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_576.m3u8
 
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://zonecampus.ca/wp-content/uploads/2023/04/unnamed.jpg" group-title="24/7 Novelas",Telemundo Novelas Clásicas ¹ 🇺🇸
-https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/El_Pais_logo_2007.svg/294px-El_Pais_logo_2007.svg.png" group-title="Noticias",El País ¹ 🇪🇦
+https://d2uerfl96fh0y6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-98b4w85lugvp4/fast-channel-el-pais/fast-channel-el-pais.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBC39000033J
 
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Telemundo_Logo_2018-1.svg/1534px-Telemundo_Logo_2018-1.svg.png" group-title="24/7 Novelas",Telemundo Novelas Acción ¹ 🇺🇸
-https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/El-Confidencial-TV-en-directo-Online.png?resize=1068%2C601&ssl=1" group-title="Noticias",El Confidencial ¹ 🇪🇦
+https://dgrfwaj8stp69.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hmbd9k13g6zsa/live/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8?stoken=dai.zhqJK9905&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBC1400001L8.m3u8
 
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://www.stormcastcinema.com/images/novelas.png" group-title="24/7 Novelas",Stormcast Novelas ¹ 🇪🇸
-https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/ADN-40-en-vivo-Online.png?zoom=3&resize=324%2C235&ssl=1" group-title="Noticias",ADN 40 ¹ 🇲🇽
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://cdn.mitvstatic.com/channels/ar_pasiones_m.png" group-title="24/7 Novelas",Pasiones 🇺🇸
-http://go.iptvhn.net:25461/live/7789/7789/13258.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://cdn2.telediario.mx/uploads/media/2025/05/02/autor-telediario-cdmx.jpg" group-title="Noticias",Telediario Now ¹ 🇲🇽
+https://amg00658-amg00658c70-canelatv-international-5558.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-telediarionowmultimediosappta-canelatvinternational/playlist.m3u8?rights_holder_id=telediario-now&user_id=&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=0e7a5e4a-779f-4c37-abbd-b5cf77b4407c&url=https://canela.tv/player/channel/telediario-now&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
 
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://1.bp.blogspot.com/-jslL1CIeqqk/YaVCAmvGxvI/AAAAAAAADDo/wPaGYipC7Eo_6NVRuL0XESV1lzjq6xhLgCLcBGAsYHQ/s16000/rcnmas.jpg" group-title="24/7 Novelas",RCN Más + ¹ 🇨🇴
-https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://img.asmedia.epimg.net/resizer/kYJ1YW8zmMp2x-ecORU978Y0jEk=/1288x725/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/EW3U7NAIBNCOZCYGAGD3NYY54A.jpg" group-title="Noticias",N + ¹ 🇲🇽
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXjJn9sSNrZSuqtwTm5DGor-M4uLoIrwfjh7yn22xVG9bl4mJw1rK2gY-wehuSSirTbgN6uEQHdFUn1Giq__TPYaj1USXHSmowkGcq89eGeW14s0uj3VjYje6egHRB5B0NVTB_bwwDg6TxRYv0NjxOEwDUwCbf5nRVcmZV6qN4NJd-J83LOFM-zvuI/w200-h151/RCN_Novelas_logo_2019.png" group-title="24/7 Novelas",RCN Novelas 🇨🇴
-http://go.iptvhn.net:25461/live/7789/7789/13261.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/Milenio-Television-en-vivo-Online.png?resize=1068%2C601&ssl=1" group-title="Noticias",Milenio Noticias ¹ 🇲🇽
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://i4.hurimg.com/i/hurriyet/75/600x338/5dbd043ed3806c1dec53824d.jpg" group-title="24/7 Novelas",Kanal Drama ¹ 🇹🇷
-https://amg01602-amg01602c2-canelatv-international-5561.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-themavivekanalddrama-canelatvinternational/playlist.m3u8?rights_holder_id=vive-kanal-d-drama&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=0e5adb91-3380-43f4-afa6-574df288f505&url=https://www.canela.tv/player/channel/vive-kanal-d-drama&us_privacy=null_us_privacy&coppa=0&ifa_type=NA&lmt=NA&device_language=es
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/Teleformula-en-vivo-Online.png?resize=1068%2C601&ssl=1" group-title="Noticias",Teleformula ¹ 🇲🇽
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://images.hamshahrionline.ir/images/2013/2/atv.jpg" group-title="24/7 Novelas",ATV Novelas Turcas 🇹🇷
-http://planettvweb.com:8091/streaming/clients_live.php?username=ArielMndo&password=ARIMDO815433&stream=11961&extension=ts
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://i0.wp.com/adnoticias.mx/wp-content/uploads/2023/09/amx-noticias-mexiquense.png" group-title="Noticias",AMX Noticias ¹ 🇲🇽
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="69" tvg-logo="http://eltopcolombia.com/wp-content/uploads/2022/05/unnamed-30.png" group-title="24/7 Novelas",Canela Novelas Turcas 🇹🇷
-https://amg00658-amg00658c102-canelatv-international-7231.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelasturcas-canelatvinternational/playlist.m3u8?rights_holder_id=novelas-turcas&user_id=&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=0e7a5e4a-779f-4c37-abbd-b5cf77b4407c&url=https://canela.tv/player/channel/novelas-turcas&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://cnwebsite.blob.core.windows.net/files/2021/05/logo_cablenoticias.png" group-title="Noticias",Cablenoticias  🇨🇴
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=84908&extension=ts
 
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/nova-en-directo-online-y-en-vivo.png" group-title="24/7 Novelas",Nova 🇪🇸
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147178&extension=ts
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://www.ntn24.com/__assets/images/logo.png" group-title="Noticias",NTN24 🇨🇴
+http://www.1play.cool:25461/live/2132580232/27be478b47/147300.m3u8
 
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://nov.vod.immergo.tv/nov/uploaded/0d553227-72ef-48e6-8f95-4917622782a7.png" group-title="24/7 Novelas",Novelisima ¹ 🇻🇪
-https://amg00658-amg00658c60-canelatv-international-5442.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00658-canelamediafast-novelisimaappta-canelatvinternational/playlist.m3u8?app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&content_livestream=1&coppa=0&device_language=es&did=02e27c44-b3ec-4523-9c12-e9b90380087a&dnt=0&ic=IAB1-7&ifa_type=NA&lmt=NA&rights_holder_id=novelisima&url=https%3A%2F%2Fwww.canela.tv%2Fplayer%2Fchannel%2Fnovelisima&us_privacy=null_us_privacy&user_id=
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://www.wola.org/wp-content/uploads/2019/09/noticias-caracol-768x768.jpg" group-title="Noticias",Noticias Caracol ¹ 🇨🇴 
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8?uid=5dAe2fGb7gE6c1jXaP2GttShy86nHQLK&sid=X4AxjZsQgu6s9vckJKuoMoty4tS4TCt0&pid=5r5J7vU0g5G1aMREe2IalihQawj6M22N&pid_dvr=19exOcT4cpmpxh8HbqtwluY9QPiyjsqL&an=screen&at=web-app&av=v6.0.181&ref=https%3A%2F%2Fwww.noticiascaracol.com%2F&res=393x221&without_cookies=false&listenerid=&dnt=true&access_token=PHePEJpMcl8OecLZvzvdUqVuWg4WJMJOmbyroc2rrkp3D8i1axTWLXCy2JgbROGz0U35KBBz0Io&adInsertionGoogleStreamId=bb0d3b26-31f2-49ff-8809-06f8cb3b3ec8:CHS
 
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://tivify.tv/static/img/tivify/tivify-logo.png" group-title="24/7 Novelas",Tivify ¹ 🇪🇸
-https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://images.pluto.tv/channels/67d9b0ebc290c9499046e88f/colorLogoPNG_1747143716006.png" group-title="Noticias",Noticias RCN ¹ 🇨🇴 
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/67d9b0ebc290c9499046e88flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Rakuten_Viki_2022.svg/500px-Rakuten_Viki_2022.svg.png" group-title="24/7 Novelas",Rakuten Viki ¹
-https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Noticias",TV Perú Noticias ¹ 🇵🇪
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
+
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://assets.wikiwand.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Latina_Noticias_Noviembre_2024.svg/langes-420px-Latina_Noticias_Noviembre_2024.svg.png&w=828&q=80" group-title="Noticias",Latina Noticias ¹ 🇵🇪
+https://jireh-5-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8?dpssid=b131176395625465cbd92084d9a&sid=ba5t1l1xb2897089257685f608fe3da5&ndvc=0
+
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/DW-German-Live-TV-Online.png?resize=1068%2C601&ssl=1" group-title="Noticias",DW Español ¹ 🇩🇪
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/250px-Russia-today-logo.svg.png" group-title="Noticias",Rusia Today (RT) ¹ 🇷🇺
+https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
+
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://cdn.mitvstatic.com/channels/ar_france-24-espanol_m.png" group-title="Noticias",France 24 ¹ 🇨🇵
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" group-title="Noticias",Euronews ¹ 🇪🇺
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8
+
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://vpitv.com/wp-content/uploads/elementor/thumbs/logo-vpi-b-263x300-1-p2z3incdjzyd4tg7m3obm8gf17ep739fmh3na3lee8.png" group-title="Noticias",VPItv ¹ 🇻🇪
+https://live-us-cdn-3.tvstartupengine.com/live/playlist-prod-2771932d-c02d-4c94-b374-4d1900ede779/index.m3u8
+
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Globovision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Noticias",Globovisión 🇻🇪
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=13014&extension=ts
+
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/04/Telesur-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Noticias",Telesur ¹ 🇻🇪
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://cdn77.pressenza.com/wp-content/uploads/2016/01/HispanTV-300x128.jpg" group-title="Noticias",Hispan TV ¹ 🇮🇷
+https://live.presstv.ir/hls/hispantv.m3u8
+
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/cgtn-espa%C3%B1ol.png?resize=500%2C300&ssl=1" group-title="Noticias",CGTN Español ¹ 🇨🇳
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="Noticias",Canal Economía ¹ 🇦🇷
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://ocopen.org/wp-content/uploads/2021/11/OCOPEN-Negocios.png"bgroup-title="Noticias",Negocios TV ¹ 🇪🇦
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://cdn.m3u.cl/logo/1356_El_Histonauta_TV.png" group-title="Educativos",El Histonauta TV ¹ 🇦🇷
+https://stmv6.voxtvhd.com.br/elhistonautatv/elhistonautatv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://academiajoven.es/wp-content/uploads/2020/09/xataka.png" group-title="Educativos",Xataka TV ¹ 🇪🇸
+https://wbd-xat.otteravision.com/wbd/xat/xat.m3u8
+
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://image.roku.com/developer_channels/prod/2ee8ed69266a33986437dd4fea6fc49cd2ebf61ac54c1a230ee6ce65eacba267.png" group-title="Educativos",Hiper TV ¹ 🇨🇱
+https://service.cdn-stream.com/chf-cdn/hiper_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://www.talent-republic.tv/wp-content/uploads/2021/12/plataforma-de-educacion-en-linea.jpg" group-title="Educativos",Platzi TV ¹ 🇨🇱
+https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream/5c5c9bd24eedd524d6a1a8bf/playout/master.m3u8?aid=512e13acaca1ebcd2f000279&pid=qL8kPMyeCWsH1lj1FbMZz8vdXepvWOBQ&sid=vRrt2PVwsUuVr00IKna9HcKb4IgqSwqG&uid=utMBuOxEohxCNnBgXhT4m50ZuZKe2BFj&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1760077587990&ot=9FuJ4fpPajVgQX7ix8EVBw&proto=https&pz=us
+
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/5e2b31c99b97574a06696454a5ada922_ODISEA%202.png" group-title="Educativos",Odisea ° 🇪🇸
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278818.m3u8
+
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/35.jpg" group-title="Educativos",Canal Astronet ¹ 🇦🇷
+https://stmv6.voxtvhd.com.br/astronet/astronet/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/1-1.jpg" group-title="Educativos",El Mundo de la Ciencia TV ¹ 🇦🇷
+https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/32.jpg" group-title="Educativos",Ciencia & Tecnología 365 ¹ 🇦🇷
+https://stmv6.voxtvhd.com.br/techscience365/techscience365/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/3-2.jpg" group-title="Educativos",Canal Xtrema TV ¹ 🇦🇷
+https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://i.postimg.cc/zB6q2WXB/free-sa.jpg" group-title="Educativos",Free TV Saber Más ¹ 🇦🇷
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://i.postimg.cc/Tw87qZrv/pluh.jpg" group-title="Educativos",Pluto Tv Historia ¹ 🇦🇷
+https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8
+
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/8.jpg" group-title="Educativos",Canal Te lo Cuento ¹ 🇦🇷
+https://stmv7.voxtvhd.com.br/telocuentoy/telocuentoy/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/31.jpg" group-title="Educativos",Canal XtremaAnimal ¹ 🇦🇷
+https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/37.jpg" group-title="Educativos", Aventuras Televisión ¹ 🇦🇷
+https://stmv3.voxtvhd.com.br/aventurastv/aventurastv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Chavo del 8 (1) °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279007.m3u8
@@ -549,179 +537,191 @@ http://tv.diablotv.net:8080/live/Drazun23lgdh/q65M5nwa2A/163587.m3u8
 #EXTINF:-1 tvg-chno="99" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Alerta Aeropuerto (2)
 http://tv.diablotv.net:8080/live/Drazun23lgdh/q65M5nwa2A/163588.m3u8
 
-#EXTINF:-1 tvg-chno="130" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cnn-en-espanol_m.png" group-title="Noticias",CNN Español ¹ 🇺🇸
-https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8?ads_amagi_channel=948&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6425&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=1886cc8a-1918-4702-8b48-cd6e823acf3d&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png" group-title="24/7 Novelas",Todo Novelas ¹ 🇲🇽 
+https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBC43000013T
 
-#EXTINF:-1 tvg-chno="131" tvg-logo="https://cdn-profiles.tunein.com/s320627/images/logoq.png" group-title="Noticias",Estrella News ¹ 🇺🇸
-https://estrella-news-oando.amagi.tv:443/playlistR1080p.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a3bd552eca6645942a60a053fe61fafb.webp" group-title="24/7 Novelas",Sony Novelas ¹ 🇲🇽 
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="132" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/NoticiasUnivision247.png/revision/latest?cb=20211012054124" group-title="Noticias",24/7 Noticias Univisión ¹ 🇺🇸
-https://linear-254.frequency.stream:443/mt/studio/254/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://ipuntotv.com/IMAGES/TNT-Novelas-logo-nuevo.jpg" group-title="24/7 Novelas",TNT Novelas 🇲🇽 
+http://go.iptvhn.net:25461/live/7789/7789/13281.m3u8
 
-#EXTINF:-1 tvg-chno="133" tvg-logo="https://i.postimg.cc/T1qXxt1F/noticiast.jpg" group-title="Noticias",Telemundo Noticias Ahora ¹ 🇺🇸
-https://d3fs8vk5kl4cwc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qeuu0ja680vad/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US3000005RS
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXjJn9sSNrZSuqtwTm5DGor-M4uLoIrwfjh7yn22xVG9bl4mJw1rK2gY-wehuSSirTbgN6uEQHdFUn1Giq__TPYaj1USXHSmowkGcq89eGeW14s0uj3VjYje6egHRB5B0NVTB_bwwDg6TxRYv0NjxOEwDUwCbf5nRVcmZV6qN4NJd-J83LOFM-zvuI/w200-h151/RCN_Novelas_logo_2019.png" group-title="24/7 Novelas",TLnovelas ² 🇲🇽 
+http://190.11.225.124:5000/live/tlnovelas/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="133" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png" group-title="Noticias",Telemundo Noticias CA ¹ 🇺🇸
-https://jmp2.uk/plu-65790feacbd0d60008fac87a.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://zonecampus.ca/wp-content/uploads/2023/04/unnamed.jpg" group-title="24/7 Novelas",Telemundo Novelas Clásicas ¹ 🇺🇸
+https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
 
-#EXTINF:-1 tvg-chno="135" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1" group-title="Noticias",CNN Chile ¹ 🇨🇱
-https://jireh-5-hls-video-us-isp.dps.live/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR=&dpssid=b2116507725069104215bc280&sid=ba5t1l1xb230724296069104215bc27f&ndvc=1
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Telemundo_Logo_2018-1.svg/1534px-Telemundo_Logo_2018-1.svg.png" group-title="24/7 Novelas",Telemundo Novelas Acción ¹ 🇺🇸
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-chno="137" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png" group-title="Noticias",Canal 24 Horas ² 🇨🇱
-http://189.50.210.3:8008/play/a07l/index.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://www.stormcastcinema.com/images/novelas.png" group-title="24/7 Novelas",Stormcast Novelas ¹ 🇪🇸
+https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="138" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png" group-title="Noticias",CHV Noticias ¹ 🇨🇱
-https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://cdn.mitvstatic.com/channels/ar_pasiones_m.png" group-title="24/7 Novelas",Pasiones 🇺🇸
+http://go.iptvhn.net:25461/live/7789/7789/13258.m3u8
 
-#EXTINF:-1 tvg-chno="139" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Chvcontigoptv.png/revision/latest?cb=20231014035938&path-prefix=es" group-title="Noticias",CHV Contigo ¹ 🇨🇱
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62aa5740a47b6c000769f407livestitch/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=fc4ecd2b-3353-5b86-73d4-12ceedc5a646&deviceDNT=0&deviceModel=0&profilesFromStream=true
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://1.bp.blogspot.com/-jslL1CIeqqk/YaVCAmvGxvI/AAAAAAAADDo/wPaGYipC7Eo_6NVRuL0XESV1lzjq6xhLgCLcBGAsYHQ/s16000/rcnmas.jpg" group-title="24/7 Novelas",RCN Más + ¹ 🇨🇴
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="138" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e5061410-82b2-400d-8433-0604666b79c9-profile_banner-480.jpeg" group-title="Noticias",Meganoticias 🇨🇱
-http://www.1play.cool:25461/live/2132580232/27be478b47/147296.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXjJn9sSNrZSuqtwTm5DGor-M4uLoIrwfjh7yn22xVG9bl4mJw1rK2gY-wehuSSirTbgN6uEQHdFUn1Giq__TPYaj1USXHSmowkGcq89eGeW14s0uj3VjYje6egHRB5B0NVTB_bwwDg6TxRYv0NjxOEwDUwCbf5nRVcmZV6qN4NJd-J83LOFM-zvuI/w200-h151/RCN_Novelas_logo_2019.png" group-title="24/7 Novelas",RCN Novelas 🇨🇴
+http://go.iptvhn.net:25461/live/7789/7789/13261.m3u8
 
-#EXTINF:-1 tvg-chno="142" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png" group-title="Noticias",TN Noticias ² 🇦🇷
-http://181.13.112.203:8100/play/a058/index.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://i4.hurimg.com/i/hurriyet/75/600x338/5dbd043ed3806c1dec53824d.jpg" group-title="24/7 Novelas",Kanal Drama ¹ 🇹🇷
+https://amg01602-amg01602c2-canelatv-international-5561.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-themavivekanalddrama-canelatvinternational/playlist.m3u8?rights_holder_id=vive-kanal-d-drama&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=0e5adb91-3380-43f4-afa6-574df288f505&url=https://www.canela.tv/player/channel/vive-kanal-d-drama&us_privacy=null_us_privacy&coppa=0&ifa_type=NA&lmt=NA&device_language=es
 
-#EXTINF:-1 tvg-chno="143" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/588px-Canal_26_logo_%282022%29.svg.png" group-title="Noticias",Canal 26 ° 🇦🇷
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278781.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://images.hamshahrionline.ir/images/2013/2/atv.jpg" group-title="24/7 Novelas",ATV Novelas Turcas 🇹🇷
+http://planettvweb.com:8091/streaming/clients_live.php?username=ArielMndo&password=ARIMDO815433&stream=11961&extension=ts
 
-#EXTINF:-1 tvg-chno="144" tvg-logo="https://assets.iproup.com/assets/jpg/2021/04/17689.jpg" group-title="Noticias",Crónica TV ° 🇦🇷
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278755.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-logo="http://eltopcolombia.com/wp-content/uploads/2022/05/unnamed-30.png" group-title="24/7 Novelas",Canela Novelas Turcas 🇹🇷
+https://amg00658-amg00658c102-canelatv-international-7231.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelasturcas-canelatvinternational/playlist.m3u8?rights_holder_id=novelas-turcas&user_id=&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=0e7a5e4a-779f-4c37-abbd-b5cf77b4407c&url=https://canela.tv/player/channel/novelas-turcas&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
 
-#EXTINF:-1 tvg-chno="145" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/C5N_%282017%29.png/606px-C5N_%282017 %29.png"group-title="Noticias",C5N ° 🇦🇷
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278752.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/nova-en-directo-online-y-en-vivo.png" group-title="24/7 Novelas",Nova 🇪🇸
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147178&extension=ts
 
-#EXTINF:-1 tvg-chno="146" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="Noticias",A24 ° 🇦🇷
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278750.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://nov.vod.immergo.tv/nov/uploaded/0d553227-72ef-48e6-8f95-4917622782a7.png" group-title="24/7 Novelas",Novelisima ¹ 🇻🇪
+https://amg00658-amg00658c60-canelatv-international-5442.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00658-canelamediafast-novelisimaappta-canelatvinternational/playlist.m3u8?app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&content_livestream=1&coppa=0&device_language=es&did=02e27c44-b3ec-4523-9c12-e9b90380087a&dnt=0&ic=IAB1-7&ifa_type=NA&lmt=NA&rights_holder_id=novelisima&url=https%3A%2F%2Fwww.canela.tv%2Fplayer%2Fchannel%2Fnovelisima&us_privacy=null_us_privacy&user_id=
 
-#EXTINF:-1 tvg-chno="148" tvg-logo="https://www.tvcinco.com/images/logo2.jpg" group-title="Noticias",5tv ¹ 🇦🇷
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://tivify.tv/static/img/tivify/tivify-logo.png" group-title="24/7 Novelas",Tivify ¹ 🇪🇸
+https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
 
-#EXTINF:-1 tvg-chno="148" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/1.jpg" group-title="Noticias",CNAR Noticias 24 ¹ 🇦🇷
-https://stmv3.voxtvhd.com.br/eventoslive2/eventoslive2/playlist.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Rakuten_Viki_2022.svg/500px-Rakuten_Viki_2022.svg.png" group-title="24/7 Novelas",Rakuten Viki ¹
+https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="149" tvg-logo="https://dossiernet.com/_next/image?url=https%3A%2F%2Fdmdqet87i5rod.cloudfront.net%2Festoesmedia%2F609bcd5342359_lnmas.jpg&w=1080&q=75" group-title="Noticias",La Nación + ° 🇦🇷
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278769.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="Cine Latinos",Ciudad Magazine ° 🇦🇷
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278754.m3u8
 
-#EXTINF:-1 tvg-chno="150" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/b3/6835.png" group-title="Noticias",24H España ¹ 🇪🇦
-https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_576.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://www.promendoza.com/wp-content/uploads/2018/06/cine-2-750x390.jpg" group-title="Cine Latinos",Cine Ar ° 🇦🇷
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278753.m3u8
 
-#EXTINF:-1 tvg-chno="151" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/El_Pais_logo_2007.svg/294px-El_Pais_logo_2007.svg.png" group-title="Noticias",El País ¹ 🇪🇦
-https://d2uerfl96fh0y6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-98b4w85lugvp4/fast-channel-el-pais/fast-channel-el-pais.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBC39000033J
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://play-lh.googleusercontent.com/OdWhvPhBs4DfqmC_0TgmlZELLX_8UHlmXqOWOvYMIVLsEncE2tRPHI-2xUiAbJRxJVtg=s75-rw" group-title="Cine Latinos",Neo TV ¹ 🇦🇷
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-chno="152" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/El-Confidencial-TV-en-directo-Online.png?resize=1068%2C601&ssl=1" group-title="Noticias",El Confidencial ¹ 🇪🇦
-https://dgrfwaj8stp69.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hmbd9k13g6zsa/live/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8?stoken=dai.zhqJK9905&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBC1400001L8.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-5-Tigre-Tv-en-vivo-Online.png?resize=1068%2C601&ssl=1" group-title="Cine Latinos",Cinco TV ¹ 🇦🇷
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
-#EXTINF:-1 tvg-chno="153" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/ADN-40-en-vivo-Online.png?zoom=3&resize=324%2C235&ssl=1" group-title="Noticias",ADN 40 ¹ 🇲🇽
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Cine Latinos",Cosmos TV ¹ 🇦🇷
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
-#EXTINF:-1 tvg-chno="156" tvg-logo="https://cdn2.telediario.mx/uploads/media/2025/05/02/autor-telediario-cdmx.jpg" group-title="Noticias",Telediario Now ¹ 🇲🇽
-https://amg00658-amg00658c70-canelatv-international-5558.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-telediarionowmultimediosappta-canelatvinternational/playlist.m3u8?rights_holder_id=telediario-now&user_id=&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=0e7a5e4a-779f-4c37-abbd-b5cf77b4407c&url=https://canela.tv/player/channel/telediario-now&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3335-320x180-000000.jpg" group-title="Cine Latinos",Latina TV ¹ 🇩🇴
+https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="157" tvg-logo="https://img.asmedia.epimg.net/resizer/kYJ1YW8zmMp2x-ecORU978Y0jEk=/1288x725/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/EW3U7NAIBNCOZCYGAGD3NYY54A.jpg" group-title="Noticias",N + ¹ 🇲🇽
-https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://imagenuniversaltv.com/wp-content/uploads/2024/06/Logo-imagen-Universal-Horizontal.png" group-title="Cine Latinos",Imagen Universal TV ¹ 🇩🇴
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
-#EXTINF:-1 tvg-chno="158" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/Milenio-Television-en-vivo-Online.png?resize=1068%2C601&ssl=1" group-title="Noticias",Milenio Noticias ¹ 🇲🇽
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://www.telemas.tv/wp-content/uploads/2025/03/logo_v6.png" group-title="Cine Latinos",Telemas + ¹ 🇭🇳
+https://viewhn.com/telemas/live/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="159" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/Teleformula-en-vivo-Online.png?resize=1068%2C601&ssl=1" group-title="Noticias",Teleformula ¹ 🇲🇽
-https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://megatvjaen.pe/wp-content/uploads/2022/12/cropped-megajaen.png" group-title="Cine Latinos",Mega Tv Jaen ¹ 🇵🇪
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 
-#EXTINF:-1 tvg-chno="160" tvg-logo="https://i0.wp.com/adnoticias.mx/wp-content/uploads/2023/09/amx-noticias-mexiquense.png" group-title="Noticias",AMX Noticias ¹ 🇲🇽
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Cine Latinos",Tv Show ¹ 🇧🇴
+http://tv.istbolivia.com:1935/tvshow/tvshow/.m3u8
 
-#EXTINF:-1 tvg-chno="161" tvg-logo="https://cnwebsite.blob.core.windows.net/files/2021/05/logo_cablenoticias.png" group-title="Noticias",Cablenoticias  🇨🇴
-http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=84908&extension=ts
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Cine Latinos",Mix Bolivia TV ¹ 🇧🇴
+https://live21.bozztv.com/akamaissh101/ssh101/mixboliviatvhd/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="162" tvg-logo="https://www.ntn24.com/__assets/images/logo.png" group-title="Noticias",NTN24 🇨🇴
-http://www.1play.cool:25461/live/2132580232/27be478b47/147300.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Cine Latinos",Coral TV ¹ 🇧🇴
+https://tv.mediacp.eu:8081/coraltv/index.m3u8
 
-#EXTINF:-1 tvg-chno="163" tvg-logo="https://www.wola.org/wp-content/uploads/2019/09/noticias-caracol-768x768.jpg" group-title="Noticias",Noticias Caracol ¹ 🇨🇴 
-https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8?uid=5dAe2fGb7gE6c1jXaP2GttShy86nHQLK&sid=X4AxjZsQgu6s9vckJKuoMoty4tS4TCt0&pid=5r5J7vU0g5G1aMREe2IalihQawj6M22N&pid_dvr=19exOcT4cpmpxh8HbqtwluY9QPiyjsqL&an=screen&at=web-app&av=v6.0.181&ref=https%3A%2F%2Fwww.noticiascaracol.com%2F&res=393x221&without_cookies=false&listenerid=&dnt=true&access_token=PHePEJpMcl8OecLZvzvdUqVuWg4WJMJOmbyroc2rrkp3D8i1axTWLXCy2JgbROGz0U35KBBz0Io&adInsertionGoogleStreamId=bb0d3b26-31f2-49ff-8809-06f8cb3b3ec8:CHS
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://playmax.tv/wp-content/uploads/2023/01/planettva.png" group-title="Cine Latinos", Planeta TV ¹ 🇵🇪
+https://live.obslivestream.com/planetatv/index.m3u8
 
-#EXTINF:-1 tvg-chno="163" tvg-logo="https://images.pluto.tv/channels/67d9b0ebc290c9499046e88f/colorLogoPNG_1747143716006.png" group-title="Noticias",Noticias RCN ¹ 🇨🇴 
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/67d9b0ebc290c9499046e88flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="Cine Latinos",Canal 57 Florida ¹ 🇺🇸
+https://167790.global.ssl.fastly.net:443/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="166" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Noticias",TV Perú Noticias ¹ 🇵🇪
-https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/vegavision-canal-18.jpg" group-title="Cine Latinos",Vegavisión Canal 18 ¹ 🇩🇴 
+https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
 
-#EXTINF:-1 tvg-chno="166" tvg-logo="https://assets.wikiwand.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Latina_Noticias_Noviembre_2024.svg/langes-420px-Latina_Noticias_Noviembre_2024.svg.png&w=828&q=80" group-title="Noticias",Latina Noticias ¹ 🇵🇪
-https://jireh-5-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8?dpssid=b131176395625465cbd92084d9a&sid=ba5t1l1xb2897089257685f608fe3da5&ndvc=0
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://image.roku.com/developer_channels/prod/9f0ee388e53f0044a9db9d0dcb35b64bceab0c0e6b5055935ae2aa14e1888c82.png" group-title="Cine Latinos",Mega Cine TV ¹ 🇩🇴 
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
-#EXTINF:-1 tvg-chno="167" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/DW-German-Live-TV-Online.png?resize=1068%2C601&ssl=1" group-title="Noticias",DW Español ¹ 🇩🇪
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/10microvision.png?zoom=3&resize=100%2C70&ssl=1" group-title="Cine Latinos",Microvisión ¹ 🇩🇴
+https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="168" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/250px-Russia-today-logo.svg.png" group-title="Noticias",Rusia Today (RT) ¹ 🇷🇺
-https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://satelcanal4.com/wp-content/uploads/2023/08/SATEL-LOGO-1-1024x652.png" group-title="Cine Latinos",Satel Canal 4 ¹ 🇨🇴
+https://server.asilivehd.com:3802/live/canal4live.m3u8
 
-#EXTINF:-1 tvg-chno="169" tvg-logo="https://cdn.mitvstatic.com/channels/ar_france-24-espanol_m.png" group-title="Noticias",France 24 ¹ 🇨🇵
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://static.wixstatic.com/media/2c880e_0ac2f3f7dd3e49058db44f507e4690b6~mv2.png/v1/fill/w_360,h_88,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/inbig%20retro%20tv.png" group-title="Cine Latinos",The Big Retro TV ¹ 🇦🇷
+https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="170" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" group-title="Noticias",Euronews ¹ 🇪🇺
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/2006_Magic_Kids_logo.png" group-title="Cine Latinos",Canal Magic Kids ¹ 🇦🇷
+https://magicstream.ddns.net/magicstream/stream.m3u8
 
-#EXTINF:-1 tvg-chno="171" tvg-logo="https://vpitv.com/wp-content/uploads/elementor/thumbs/logo-vpi-b-263x300-1-p2z3incdjzyd4tg7m3obm8gf17ep739fmh3na3lee8.png" group-title="Noticias",VPItv ¹ 🇻🇪
-https://live-us-cdn-3.tvstartupengine.com/live/playlist-prod-2771932d-c02d-4c94-b374-4d1900ede779/index.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/8.jpg" group-title="Cine Latinos",Retro Cartoons ¹ 🇦🇷
+https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="172" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Globovision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Noticias",Globovisión 🇻🇪
-http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=13014&extension=ts
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/35-1.jpg" group-title="Cine Latinos",Canal Oli TV ¹ 🇦🇷
+https://v4.tustreaming.cl/retroplaytv/index.m3u8
 
-#EXTINF:-1 tvg-chno="173" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/04/Telesur-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Noticias",Telesur ¹ 🇻🇪
-https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://cineramatv.com/wp-content/uploads/2024/10/sin-fondo.png" group-title="Cine Latinos",Cinerama TV ¹ 🇧🇴
+https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8?cachebust=7e749c
 
-#EXTINF:-1 tvg-chno="174" tvg-logo="https://cdn77.pressenza.com/wp-content/uploads/2016/01/HispanTV-300x128.jpg" group-title="Noticias",Hispan TV ¹ 🇮🇷
-https://live.presstv.ir/hls/hispantv.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/39.jpg" group-title="Cine Latinos",Teleclasica ¹ 🇦🇷
+https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="175" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/cgtn-espa%C3%B1ol.png?resize=500%2C300&ssl=1" group-title="Noticias",CGTN Español ¹ 🇨🇳
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/15-1.jpg" group-title="Cine Latinos",Telecinco Trelew ¹ 🇦🇷
+https://videohd.live:19360/8016/8016.m3u8
 
-#EXTINF:-1 tvg-chno="176" tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="Noticias",Canal Economía ¹ 🇦🇷
-https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://i.postimg.cc/brrsGL5r/kandela.jpg" group-title="Cine Latinos",Kandela TV ¹ 🇻🇪
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 
-#EXTINF:-1 tvg-chno="177" tvg-logo="https://ocopen.org/wp-content/uploads/2021/11/OCOPEN-Negocios.png"bgroup-title="Noticias",Negocios TV ¹ 🇪🇦
-https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://i.postimg.cc/j5zxhCKm/rocket2.jpg" group-title="Cine Latinos",Rocket TV ¹ 🇨🇱
+https://live20.bozztv.com/giatv/giatv-rocket/rocket/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="179" tvg-logo="https://cdn.m3u.cl/logo/1356_El_Histonauta_TV.png" group-title="Educativos",El Histonauta TV ¹ 🇦🇷
-https://stmv6.voxtvhd.com.br/elhistonautatv/elhistonautatv/playlist.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/28.jpg" group-title="Cine Latinos",Multivisión Televisión Digital ¹ 🇦🇷
+https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
 
-#EXTINF:-1 tvg-chno="181" tvg-logo="https://academiajoven.es/wp-content/uploads/2020/09/xataka.png" group-title="Educativos",Xataka TV ¹ 🇪🇸
-https://wbd-xat.otteravision.com/wbd/xat/xat.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/29.jpg" group-title="Cine Latinos",Videoclub TV ¹ 🇦🇷
+https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 
-#EXTINF:-1 tvg-chno="182" tvg-logo="https://image.roku.com/developer_channels/prod/2ee8ed69266a33986437dd4fea6fc49cd2ebf61ac54c1a230ee6ce65eacba267.png" group-title="Educativos",Hiper TV ¹ 🇨🇱
-https://service.cdn-stream.com/chf-cdn/hiper_tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/30.jpg" group-title="Cine Latinos",Megacine ¹ 🇦🇷
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
-#EXTINF:-1 tvg-chno="183" tvg-logo="https://www.talent-republic.tv/wp-content/uploads/2021/12/plataforma-de-educacion-en-linea.jpg" group-title="Educativos",Platzi TV ¹ 🇨🇱
-https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream/5c5c9bd24eedd524d6a1a8bf/playout/master.m3u8?aid=512e13acaca1ebcd2f000279&pid=qL8kPMyeCWsH1lj1FbMZz8vdXepvWOBQ&sid=vRrt2PVwsUuVr00IKna9HcKb4IgqSwqG&uid=utMBuOxEohxCNnBgXhT4m50ZuZKe2BFj&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1760077587990&ot=9FuJ4fpPajVgQX7ix8EVBw&proto=https&pz=us
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png" group-title="Cine Latinos",Dreiko TV ¹ 🇵🇦 
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
-#EXTINF:-1 tvg-chno="273" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/5e2b31c99b97574a06696454a5ada922_ODISEA%202.png" group-title="Educativos",Odisea ° 🇪🇸
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278818.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://static.wixstatic.com/media/3ebf2e_6c71f9a7aa66459ea6140c872c515467~mv2.png/v1/crop/x_21,y_41,w_1259,h_566/fill/w_244,h_110,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20letras%203d.png" group-title="Cine Latinos",Retro Mágico ¹ 🇦🇷
+https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="185" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/35.jpg" group-title="Educativos",Canal Astronet ¹ 🇦🇷
-https://stmv6.voxtvhd.com.br/astronet/astronet/playlist.m3u8
+#EXTINF:-1 tvg-chno="110" tvg-logo="https://babyfirsttv.com/wp-content/uploads/2024/03/babyfirst_logo_2022-1536x303.png" group-title="Infantiles",Baby Firts ¹ 🇺🇸
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8
 
-#EXTINF:-1 tvg-chno="185" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/1-1.jpg" group-title="Educativos",El Mundo de la Ciencia TV ¹ 🇦🇷
-https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
+#EXTINF:-1 tvg-chno="110" tvg-logo="https://babyfirsttv.com/wp-content/uploads/2024/03/babyfirst_logo_2022-1536x303.png" group-title="Infantiles",Baby Firts 🇺🇸
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/152.m3u8
 
-#EXTINF:-1 tvg-chno="185" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/32.jpg" group-title="Educativos",Ciencia & Tecnología 365 ¹ 🇦🇷
-https://stmv6.voxtvhd.com.br/techscience365/techscience365/playlist.m3u8
+#EXTINF:-1 tvg-chno="110" tvg-logo="https://www.babytv.com/app/uploads/2019/07/logo-baby-tv-2019-main-logo.png" group-title="Infantiles",Baby TV
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/151.m3u8
 
-#EXTINF:-1 tvg-chno="185" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/3-2.jpg" group-title="Educativos",Canal Xtrema TV ¹ 🇦🇷
-https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
+#EXTINF:-1 tvg-chno="110" tvg-logo="https://www.pinkfong.com/assets/img/new/youtube/g_2.png" group-title="Infantiles",Baby Shark TV ¹ 🇺🇸
+https://stitcher.pluto.tv/stitch/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 
-#EXTINF:-1 tvg-chno="185" tvg-logo="https://i.postimg.cc/zB6q2WXB/free-sa.jpg" group-title="Educativos",Free TV Saber Más ¹ 🇦🇷
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8
+#EXTINF:-1 tvg-chno="110" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiqQ9lUlw4pvSzEiWX4ooP4MooP0Wc0biiDhhe2VmS6xai3ylPZvbEap5uXo-JAgMQOnsHjO9RNSaG6P7BSAlEiIGr9BboE03RZqaIjPU7cdgPSrvL8WYNoSKZe6Zv8yaLMYQDd6_Tf1yG/s16000-rw/cartoonito.jpg" group-title="Infantiles",Cartoonito
+http://181.78.101.241:8080/live/carlosmadrid.best/CMadrid25$/15.m3u8
 
-#EXTINF:-1 tvg-chno="185" tvg-logo="https://i.postimg.cc/Tw87qZrv/pluh.jpg" group-title="Educativos",Pluto Tv Historia ¹ 🇦🇷
-https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8
+#EXTINF:-1 tvg-chno="110" tvg-logo="https://www.adlatina.com/uploads/img/fotoNoticiaG31575.jpg" group-title="Infantiles",Discovery Kids
+http://181.78.101.241:8080/live/carlosmadrid.best/CMadrid25$/38.m3u8
 
-#EXTINF:-1 tvg-chno="186" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/8.jpg" group-title="Educativos",Canal Te lo Cuento ¹ 🇦🇷
-https://stmv7.voxtvhd.com.br/telocuentoy/telocuentoy/playlist.m3u8
+#EXTINF:-1 tvg-chno="110" tvg-logo="https://cms-media.clink.services/Mobile_ree4ih.png" group-title="Infantiles",Disney Jr
+http://181.78.101.241:8080/live/carlosmadrid.best/CMadrid25$/46.m3u8
 
-#EXTINF:-1 tvg-chno="188" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/31.jpg" group-title="Educativos",Canal XtremaAnimal ¹ 🇦🇷
-https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
+#EXTINF:-1 tvg-chno="110" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMCfXW-h5-_x_dvl8OEDdodTS4SBMRQhv5Y_nGhaLUo5SYqx230Vw1WiJ8idZ3aFOCwla6MXfYeIN_FATfCUXFQMS9xH20VJr9t4bblUtzKQvrp3Rgafs35Knqs9v79FDtpkESS2w5pPs2bAOEIXvnHweDR5Q7BMnNbZriovYar1LZ83W6mrrnHzeuI93Q/w640-h360-rw/f27cda21-4305-464b-a73e-3f4aebccb467.jpg" group-title="Infantiles",Nick Jr
+http://181.78.101.241:8080/live/carlosmadrid.best/CMadrid25$/22.m3u8
 
-#EXTINF:-1 tvg-chno="188" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/37.jpg" group-title="Educativos", Aventuras Televisión ¹ 🇦🇷
-https://stmv3.voxtvhd.com.br/aventurastv/aventurastv/playlist.m3u8
+#EXTINF:-1 tvg-chno="110" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/nickelodeon_2023_logo_6.png" group-title="Infantiles",Nickelodeon 
+http://181.78.101.241:8080/live/carlosmadrid.best/CMadrid25$/63.m3u8
+
+#EXTINF:-1 tvg-chno="110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/500px-2019_Disney_Channel_logo.svg.png" group-title="Infantiles",Disney Channel 
+http://181.78.101.241:8080/live/carlosmadrid.best/CMadrid25$/45.m3u8
+
+#EXTINF:-1 tvg-chno="110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/330px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles",Cartoon Network 
+http://181.78.101.241:8080/live/carlosmadrid.best/CMadrid25$/5.m3u8
+
+#EXTINF:-1 tvg-chno="110" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/b/b8/DreamWorks_Animationl_ogo.svg.png/500px-DreamWorks_Animationl_ogo.svg.png" group-title="Infantiles",Dreamworks 
+http://go.iptvhn.net:25461/live/7789/7789/13336.m3u8
+
+#EXTINF:-1 tvg-chno="110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="Infantiles",Tooncast
+http://go.iptvhn.net:25461/live/7789/7789/13308.m3u8
 
 #EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina",Telefe ° 🇦🇷
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278773.m3u8
