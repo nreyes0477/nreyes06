@@ -1707,11 +1707,14 @@ http://38.159.227.124:8000/play/a02x
 #EXTINF:-1 tvg-chno="599" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1646691382488-Imagen.jpg" group-title="Cine y Películas",Universal Reality ²
 http://38.159.227.124:8000/play/a02y
 
-#EXTINF:-1 tvg-chno="600" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Ultimate-Fighting-Championship-UFC-Logo-700x394.png" group-title="Deportes",UFC 324 (1) √
+#EXTINF:-1 tvg-chno="600" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Ultimate-Fighting-Championship-UFC-Logo-700x394.png" group-title="Deportes",UFC 324 (1) 
 http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=170683&extension=ts
 
-#EXTINF:-1 tvg-chno="600" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Ultimate-Fighting-Championship-UFC-Logo-700x394.png" group-title="Deportes",UFC 324 (2) √
-http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=&extension=ts
+#EXTINF:-1 tvg-chno="600" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Ultimate-Fighting-Championship-UFC-Logo-700x394.png" group-title="Deportes",UFC 324 (2) 
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=170685&extension=ts
+
+#EXTINF:-1 tvg-chno="600" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Ultimate-Fighting-Championship-UFC-Logo-700x394.png" group-title="Deportes",UFC 324 (2) PPV
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=170133&extension=ts
 
 #EXTINF:-1 tvg-chno="600" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Ultimate-Fighting-Championship-UFC-Logo-700x394.png" group-title="Deportes",UFC 324 (3) √
 http://cdn1host.online:2999/live/xman2b/d5lxdEfHnB/147802.ts
