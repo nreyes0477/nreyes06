@@ -990,16 +990,16 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv:80/stitch/hls/channel
 #EXTINF:-1 tvg-chno="280" tvg-logo="https://img.onesignal.com/t/9386b748-b30f-4f48-946a-361ce4f6c8cc.jpg" group-title="USA Latino",Mega TV 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=156070&extension=ts
 
-#EXTINF:-1 tvg-chno="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png" group-title="USA Latino",Univisión US ² 🇺🇸
+#EXTINF:-1 tvg-chno="281" tvg-logo="https://www.elnuevoherald.com/public/ultimas-noticias/d5nt1t/picture246909672/alternates/LANDSCAPE_480/univision%20logo.jpg" group-title="USA Latino",Univisión US ² 🇺🇸
 http://200.92.227.238:8000/play/a0q3/13857752.m3u8
 
-#EXTINF:-1 tvg-chno="283" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png" group-title="USA Latino",Univisión SF 🇺🇸
+#EXTINF:-1 tvg-chno="283" tvg-logo="https://www.elnuevoherald.com/public/ultimas-noticias/d5nt1t/picture246909672/alternates/LANDSCAPE_480/univision%20logo.jpg" group-title="USA Latino",Univisión SF 🇺🇸
 http://go.iptvhn.net:25461/live/7785/7785/13317.m3u8
 
-#EXTINF:-1 tvg-chno="284" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png" group-title="USA Latino",Univisión PH ° 🇺🇸
+#EXTINF:-1 tvg-chno="284" tvg-logo="https://www.elnuevoherald.com/public/ultimas-noticias/d5nt1t/picture246909672/alternates/LANDSCAPE_480/univision%20logo.jpg" group-title="USA Latino",Univisión PH ° 🇺🇸
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278687.m3u8
 
-#EXTINF:-1 tvg-chno="284" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1280px-Logo_Univision.svg.png" group-title="USA Latino",Univisión LA ° 🇺🇸
+#EXTINF:-1 tvg-chno="284" tvg-logo="https://www.elnuevoherald.com/public/ultimas-noticias/d5nt1t/picture246909672/alternates/LANDSCAPE_480/univision%20logo.jpg" group-title="USA Latino",Univisión LA ° 🇺🇸
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/158775.m3u8
 
 #EXTINF:-1 tvg-chno="286" tvg-logo="https://i.postimg.cc/qRHv3bMp/telem-aldia.jpg" group-title="USA Latino",Telemundo Al Día ¹ 🇺🇸
