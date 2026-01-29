@@ -1672,7 +1672,7 @@ http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=h
 http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=117&extension=ts
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbosignature.png" group-title="Cine y Películas",HBO Signature Sur 
-http://www.1play.cool:25461/live/2132580232/27be478b47/30201.m3u8
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=9692&extension=ts
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime.png" group-title="Cine y Películas",HBO Xtreme Sur
 http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=66452&extension=ts
