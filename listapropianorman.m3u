@@ -189,6 +189,9 @@ https://d3fs8vk5kl4cwc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png" group-title="Noticias",Telemundo Noticias CA ¹ 🇺🇸
 https://jmp2.uk/plu-65790feacbd0d60008fac87a.m3u8
 
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/500px-Newsmax_logo.svg.png" group-title="Noticias",News Max ¹ 🇺🇸
+http://45.173.231.22:8000/play/a03r/index.m3u8
+
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1" group-title="Noticias",CNN Chile ¹ 🇨🇱
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR=&dpssid=b2116507725069104215bc280&sid=ba5t1l1xb230724296069104215bc27f&ndvc=1
 
@@ -236,6 +239,9 @@ https://d2uerfl96fh0y6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/El-Confidencial-TV-en-directo-Online.png?resize=1068%2C601&ssl=1" group-title="Noticias",El Confidencial ¹ 🇪🇦
 https://dgrfwaj8stp69.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hmbd9k13g6zsa/live/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8?stoken=dai.zhqJK9905&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBC1400001L8.m3u8
+
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://lovetvchannels.com/wp-content/uploads/2025/04/Logo_Actualidad360_Color-e1744101209485-1536x360.png" group-title="Noticias",Actualidad 360 ¹ 🇪🇦
+https://amg01821-amg01821c27-rakuten-gb-8652.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-rakutengb/playlist.m3u8?
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/ADN-40-en-vivo-Online.png?zoom=3&resize=324%2C235&ssl=1" group-title="Noticias",ADN 40 ¹ 🇲🇽
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
@@ -330,6 +336,12 @@ https://stmv6.voxtvhd.com.br/techscience365/techscience365/playlist.m3u8
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/3-2.jpg" group-title="Educativos",Canal Xtrema TV ¹ 🇦🇷
 https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://lovetvchannels.com/wp-content/uploads/2025/04/LoveThePlanet_circle.png" group-title="Educativos",Canal Love The Planet ¹ 🇪🇸
+https://amg01821-lovetvchannels-lovetheplanetes-samsungspain-w1r0c.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvchannels-lovetheplanetes-samsungspain/playlist.m3u8?ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.tc_string=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://lovetvchannels.com/wp-content/uploads/2025/04/LoveThePlanet_circle.png" group-title="Educativos",Canal Love Nature Time ¹ 🇪🇸
+https://amg01576-blueskyeenterta-naturetimeemea-lges-afzij.amagi.tv/playlist/amg01576-blueskyeenterta-naturetimeemea-lges/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://i.postimg.cc/zB6q2WXB/free-sa.jpg" group-title="Educativos",Free TV Saber Más ¹ 🇦🇷
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8
 
@@ -342,7 +354,10 @@ https://stmv7.voxtvhd.com.br/telocuentoy/telocuentoy/playlist.m3u8
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/31.jpg" group-title="Educativos",Canal XtremaAnimal ¹ 🇦🇷
 https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="52" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/37.jpg" group-title="Educativos", Aventuras Televisión ¹ 🇦🇷
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/ea5e02e669803bd213cf0690215f9ef3.png" group-title="Educativos",Canal TravelXP ¹ 🇮🇳
+https://travelxp-travelxp-5-es.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/37.jpg" group-title="Educativos",Aventuras Televisión ¹ 🇦🇷
 https://stmv3.voxtvhd.com.br/aventurastv/aventurastv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Chavo del 8 (1) °
@@ -543,8 +558,11 @@ https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://ipuntotv.com/IMAGES/TNT-Novelas-logo-nuevo.jpg" group-title="24/7 Novelas",TNT Novelas 🇲🇽 
 http://go.iptvhn.net:25461/live/7789/7789/13281.m3u8
 
-#EXTINF:-1 tvg-chno="100" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXjJn9sSNrZSuqtwTm5DGor-M4uLoIrwfjh7yn22xVG9bl4mJw1rK2gY-wehuSSirTbgN6uEQHdFUn1Giq__TPYaj1USXHSmowkGcq89eGeW14s0uj3VjYje6egHRB5B0NVTB_bwwDg6TxRYv0NjxOEwDUwCbf5nRVcmZV6qN4NJd-J83LOFM-zvuI/w200-h151/RCN_Novelas_logo_2019.png" group-title="24/7 Novelas",TLnovelas ² 🇲🇽 
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXjJn9sSNrZSuqtwTm5DGor-M4uLoIrwfjh7yn22xVG9bl4mJw1rK2gY-wehuSSirTbgN6uEQHdFUn1Giq__TPYaj1USXHSmowkGcq89eGeW14s0uj3VjYje6egHRB5B0NVTB_bwwDg6TxRYv0NjxOEwDUwCbf5nRVcmZV6qN4NJd-J83LOFM-zvuI/w200-h151/RCN_Novelas_logo_2019.png" group-title="24/7 Novelas",TLnovelas (1) ² 🇲🇽 
 http://190.11.225.124:5000/live/tlnovelas/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXjJn9sSNrZSuqtwTm5DGor-M4uLoIrwfjh7yn22xVG9bl4mJw1rK2gY-wehuSSirTbgN6uEQHdFUn1Giq__TPYaj1USXHSmowkGcq89eGeW14s0uj3VjYje6egHRB5B0NVTB_bwwDg6TxRYv0NjxOEwDUwCbf5nRVcmZV6qN4NJd-J83LOFM-zvuI/w200-h151/RCN_Novelas_logo_2019.png" group-title="24/7 Novelas",TLnovelas (2) ² 🇲🇽 
+http://190.116.65.158:8000/play/a0b9/index.m3u8
 
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://zonecampus.ca/wp-content/uploads/2023/04/unnamed.jpg" group-title="24/7 Novelas",Telemundo Novelas Clásicas ¹ 🇺🇸
 https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
@@ -1207,7 +1225,7 @@ http://170.239.207.48:4050/play/CH54
 https://jireh-6-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?dpssid=b2119593347468ec9852a6702&sid=ba5t1l1xb249976663568ec9852a6701&ndvc=1
 
 #EXTINF:-1 tvg-chno="362" tvg-logo="https://cdn.mitvstatic.com/channels/pe_panamericana-tv_m.png" group-title="Perú",Panamericana ² 🇵🇪
-http://38.183.182.166:8000/play/a0ii/index.m3u8
+http://38.52.156.146:8193/play/a12s/index.m3u8
 
 #EXTINF:-1 tvg-chno="362" tvg-logo="https://peru.mom-gmr.org/uploads/_processed_/4/b/csm_2015-205_import_281bdc442f.png" group-title="Perú",Willax TV ² 🇵🇪
 http://38.183.182.166:8000/play/a0zn/index.m3u8
@@ -1330,10 +1348,10 @@ http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/66420.ts
 http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/47.ts
 
 #EXTINF:-1 tvg-chno="405" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-id_m.png" group-title="Cultura y Entretenimiento",ID Investigation ²
-http://38.159.227.124:8000/play/a04d
+http://45.181.122.46:8090/play/a020
 
 #EXTINF:-1 tvg-chno="409" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png" group-title="Cultura y Entretenimiento",History Channel (1) ²
-http://38.159.227.124:8000/play/a08z
+http://138.99.179.64:8800/play/a03e
 
 #EXTINF:-1 tvg-chno="409" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png" group-title="Cultura y Entretenimiento",History Channel (2) °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278628.m3u8
@@ -1360,7 +1378,7 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278395.m3u8
 http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=159&extension=ts
 
 #EXTINF:-1 tvg-chno="421" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery_m.png" group-title="Cultura y Entretenimiento",Discovery Channel ²
-http://38.159.227.124:8000/play/a049
+http://179.49.237.55:8000/play/a0fw/index.m3u8
 
 #EXTINF:-1 tvg-chno="421" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery_m.png" group-title="Cultura y Entretenimiento",Discovery Channel °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278619.m3u8
