@@ -1426,7 +1426,7 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/1654.ts
 
 #EXTINF:-1 tvg-chno="500" tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png" group-title="Cine y Películas",A&E ²
-http://38.159.227.124:8000/play/a04r
+http://200.92.227.238:8000/play/a0mb/index.m3u8
 
 #EXTINF:-1 tvg-chno="501" tvg-logo="https://cdn.mitvstatic.com/channels/cl_amc_m.png" group-title="Cine y Películas",AMC
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=150103&extension=ts
@@ -1438,16 +1438,16 @@ https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
 http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/108.m3u8
 
 #EXTINF:-1 tvg-chno="502" tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png" group-title="Cine y Películas",AXN ²
-http://181.78.106.127:9000/play/ca085/index.m3u8
+http://200.92.227.238:8000/play/a0uk/index.m3u8
 
 #EXTINF:-1 tvg-chno="503" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png" group-title="Cine y Películas",Cinecanal ²
-http://38.159.227.124:8000/play/a05x
+http://200.92.227.238:8000/play/a0od/index.m3u8
 
 #EXTINF:-1 tvg-chno="506" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinemax_m.png" group-title="Cine y Películas",Cinemax
 http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=2193&extension=ts
 
 #EXTINF:-1 tvg-chno="510" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden.png" group-title="Cine y Películas",Golden
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=7998&extension=ts
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=9657&extension=ts
 
 #EXTINF:-1 tvg-chno="512" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/420px-Golden_Edge_Logo_2020.png" group-title="Cine y Películas",Golden Edge ™
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/8464
@@ -1465,13 +1465,13 @@ http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=h
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/13928
 
 #EXTINF:-1 tvg-chno="518" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox_m.png" group-title="Cine y Películas",Star Channel ²
-http://38.159.227.124:8000/play/a05u
+http://200.92.227.238:8000/play/a0oa/index.m3u8
 
 #EXTINF:-1 tvg-chno="519" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SonyMovies.png" group-title="Cine y Películas",Cine Sony ²
-http://38.159.227.124:8000/play/a04w
+http://200.92.227.238:8000/play/a0mg/index.m3u8
 
 #EXTINF:-1 tvg-chno="520" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png" group-title="Cine y Películas",Sony ²
-http://38.159.227.124:8000/play/a05w
+http://200.92.227.238:8000/play/a0oc/index.m3u8
 
 #EXTINF:-1 tvg-chno="520" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png" group-title="Cine y Películas",Sony Diferido
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=46660&extension=ts
@@ -1498,25 +1498,28 @@ http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/134.m3u8
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7478
 
 #EXTINF:-1 tvg-chno="524" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="Cine y Películas",Studio Universal ²
-http://38.159.227.124:8000/play/a04n
+http://200.92.227.238:8000/play/a0ug/index.m3u8
 
 #EXTINF:-1 tvg-chno="525" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tnt_m.png" group-title="Cine y Películas",TNT ²
-http://38.159.227.124:8000/play/a02p
+http://200.92.227.238:8000/play/a0oj/index.m3u8
 
 #EXTINF:-1 tvg-chno="526" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png" group-title="Cine y Películas",TNT Series ™
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/13910
 
 #EXTINF:-1 tvg-chno="527" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner_m.png" group-title="Cine y Películas",Warner Channel ²
-http://38.159.227.124:8000/play/a05v
+http://200.92.227.238:8000/play/a0ob/index.m3u8
 
 #EXTINF:-1 tvg-chno="528" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png" group-title="Cine y Películas",FX
 http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/19.ts
 
+#EXTINF:-1 tvg-chno="528" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png" group-title="Cine y Películas",FX ²
+http://200.92.227.238:8000/play/a0me/index.m3u8
+
 #EXTINF:-1 tvg-chno="529" tvg-logo="https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/15563/article_aligned%403x.png" group-title="Cine y Películas",FXX ™
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/13973
 
-#EXTINF:-1 tvg-chno="530" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png" group-title="Cine y Películas",DHE ™
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7477
+#EXTINF:-1 tvg-chno="530" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png" group-title="Cine y Películas",DHE ²
+http://200.92.227.238:8000/play/a0mh/index.m3u8
 
 #EXTINF:-1 tvg-chno="531" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="Cine y Películas",DreamWorks ²
 http://181.78.106.127:9000/play/ca054
