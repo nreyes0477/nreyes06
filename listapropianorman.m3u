@@ -79,7 +79,7 @@ https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 https://rtmp.info/sanjosetv/envivo/chunklist_w2092057186.m3u8
 
 #EXTINF:-1 tvg-chno="31" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGLhhtg5NJMWt3KwH3VG7flKs9C2E1wdf9Y4ICHz8J0GEMXa4fNvkEr_-JiwX8PEzX2ibjkta0fvSBwaGbzF4RnJewHVmBQ82JnUR3Ce2bUI_Do3Q1kHIe9HWMUY_5UvIfN_Nnwri3CEd-dZG7bJNyOVtrfg4sAO8zmaX_T8ZnNdSiAucNMMLDk8PCLz4I/s600/TURRIALBA%20LOGO%20PORTADA%202.png" group-title="Nacionales",Radio Turrialba TV ¹ 🇨🇷
-https://live21.bozztv.com/akamaissh101/ssh101/turrialbatv/playlist.m3u8
+https://server2.cloundmediacp.in/turrialbatv/turrialbatv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="32" tvg-logo="https://i.imgur.com/Vcd40AL.png" group-title="Nacionales",Cartago Medios TV ¹ 🇨🇷
 https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8
@@ -136,7 +136,7 @@ http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 http://k4.usastreams.com/telebrunca/telebrunca/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="47" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0d6vD4coSsdc8wF8umj0rjvo5bZxQ9r3TeNsyNZ4qq4PlEzOusv9eVDvlWdVi80KF9ltur1f4LfJ2xVSl93yNpgZabFunN909DWUKUpV-wgPXTiqmaqNQPMP0xNYQTCdU8o-HDTpD0qmt_6gugfVq4Aj1xjNTZBfIoahPL5xT7xFuVF6K307G6CvVJrk/s400/14.png" group-title="Nacionales",Canal 10 CR ¹ 🇨🇷
-https://acceso.mediosdecostarica.com:3606/stream/play.m3u8
+https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8
 
 #EXTINF:-1 tvg-chno="48" tvg-logo="https://image.roku.com/developer_channels/prod/db4a766d6686e0ec2d17d0307c9a4c3bd0dc27a13f0647fb8561bfb0754300a2.png" group-title="Nacionales",TV Nosara ¹ 🇨🇷
 https://latamvdo.com:3870/hybrid/play.m3u8
@@ -163,7 +163,7 @@ https://stream.enlineatv.net/hls/megatvcr/index.m3u8
 https://acceso.mediosdecostarica.com:3569/live/punto9tvlive.m3u8
 
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcNnJ6lZrHUFcLeVS0H8AkrG3b_wprti0myCOEnU4NvqkGhuMFbDVFlSDaGVmPUSMUMiftf7hjNb1RRB7n5Tc7bHIlsK8TjbDYAbD4KURV3rVrXzA_BKuVBKKdE4w9OsWFQ0Dn31pAqcnRHeN7Kw6bB_TJvFdcPxmtax11ml5CLKmoXSMRBAgGsdcg9SAr/s600/PORTADA%20BEST%20CLASICOS%20TV.png" group-title="Nacionales",Best Clásicos TV ¹ 🇨🇷
-https://acceso.mediosdecostarica.com:3873/stream/play.m3u8
+https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8
 
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://images.squarespace-cdn.com/content/v1/6011bffa317a1f7611f12428/1633029916787-F3MHJD8N95PE2K176HL0/kiss-cut-stickers-5.5x5.5-default-61560f185cc2a.png?format=1500w" group-title="Nacionales",Retro Tv On Line ¹ 🇨🇷
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
