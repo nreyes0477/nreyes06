@@ -1734,12 +1734,6 @@ http://200.92.227.238:8000/play/a0or/index.m3u8
 #EXTINF:-1 tvg-chno="599" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1646691382488-Imagen.jpg" group-title="Cine y Películas",Universal Reality ²
 http://200.92.227.238:8000/play/a0os/index.m3u8
 
-#EXTINF:-1 tvg-chno="600" tvg-logo="https://mmaundisputed.wordpress.com/wp-content/uploads/2013/01/ufc-logo.jpg?w=500&h=225" group-title="Deportes",UFC 325 √
-http://2.magmas5.com:8000/live/MyBOXXTV2024/SILVERsat173929HH/157958.m3u8
-
-#EXTINF:-1 tvg-chno="600" tvg-logo="https://mmaundisputed.wordpress.com/wp-content/uploads/2013/01/ufc-logo.jpg?w=500&h=225" group-title="Deportes",UFC 325 √
-http://live.proyectoxpro.com:8080/live/alvarovega/31f3570d79bd/174301.m3u8
-
 #EXTINF:-1 tvg-chno="600" tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes",Futv (1) ²
 http://190.92.10.66:4000/play/a00c
 
@@ -1764,17 +1758,17 @@ http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.bes
 #EXTINF:-1 tvg-chno="605" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-3.png" group-title="Deportes",TD+ 2 (2)
 http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password=XHBR21BVCB&stream=145465&extension=ts
 
-#EXTINF:-1 tvg-chno="607" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Centro América ✓
-http://cdn1host.online:2999/xman2b/d5lxdEfHnB/97?mode=0
+#EXTINF:-1 tvg-chno="607" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Centro América ²
+http://200.125.170.122:8000/play/a05v/index.m3u8
 
-#EXTINF:-1 tvg-chno="608" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 Centro América 
-http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=49&extension=ts
+#EXTINF:-1 tvg-chno="608" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 Centro América ²
+http://200.125.170.122:8000/play/a05x/index.m3u8
 
-#EXTINF:-1 tvg-chno="610" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN 3 Centro América 
-http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=51extension=ts
+#EXTINF:-1 tvg-chno="610" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN 3 Centro América ²
+http://200.125.170.122:8000/play/a05w/index.m3u8
 
-#EXTINF:-1 tvg-chno="611" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deportes",ESPN 4 Centro América
-http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=48&extension=ts
+#EXTINF:-1 tvg-chno="611" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deportes",ESPN 4 Centro América ²
+http://200.125.170.122:8000/play/a0en/index.m3u8
 
 #EXTINF:-1 tvg-chno="612" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png" group-title="Deportes",ESPN 5 Centro América
 http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=53&extension=ts
