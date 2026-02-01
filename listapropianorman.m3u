@@ -321,6 +321,9 @@ https://service.cdn-stream.com/chf-cdn/hiper_tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://www.talent-republic.tv/wp-content/uploads/2021/12/plataforma-de-educacion-en-linea.jpg" group-title="Educativos",Platzi TV ¹ 🇨🇱
 https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream/5c5c9bd24eedd524d6a1a8bf/playout/master.m3u8?aid=512e13acaca1ebcd2f000279&pid=qL8kPMyeCWsH1lj1FbMZz8vdXepvWOBQ&sid=vRrt2PVwsUuVr00IKna9HcKb4IgqSwqG&uid=utMBuOxEohxCNnBgXhT4m50ZuZKe2BFj&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1760077587990&ot=9FuJ4fpPajVgQX7ix8EVBw&proto=https&pz=us
 
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://fmh.la/images/logos_slider/slider_atlas.png" group-title="Educativos",FMH Atlas ² 🇨🇱
+http://148.222.225.136:8004/play/a0j0/index.m3u8
+
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/5e2b31c99b97574a06696454a5ada922_ODISEA%202.png" group-title="Educativos",Odisea ° 🇪🇸
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278818.m3u8
 
@@ -555,8 +558,8 @@ https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a3bd552eca6645942a60a053fe61fafb.webp" group-title="24/7 Novelas",Sony Novelas ¹ 🇲🇽 
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="100" tvg-logo="https://ipuntotv.com/IMAGES/TNT-Novelas-logo-nuevo.jpg" group-title="24/7 Novelas",TNT Novelas 🇲🇽 
-http://go.iptvhn.net:25461/live/7789/7789/13281.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://ipuntotv.com/IMAGES/TNT-Novelas-logo-nuevo.jpg" group-title="24/7 Novelas",TNT Novelas ² 🇲🇽 
+http://148.222.225.136:8004/play/a0bk/index.m3u8
 
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXjJn9sSNrZSuqtwTm5DGor-M4uLoIrwfjh7yn22xVG9bl4mJw1rK2gY-wehuSSirTbgN6uEQHdFUn1Giq__TPYaj1USXHSmowkGcq89eGeW14s0uj3VjYje6egHRB5B0NVTB_bwwDg6TxRYv0NjxOEwDUwCbf5nRVcmZV6qN4NJd-J83LOFM-zvuI/w200-h151/RCN_Novelas_logo_2019.png" group-title="24/7 Novelas",TLnovelas (1) ² 🇲🇽 
 http://190.11.225.124:5000/live/tlnovelas/playlist.m3u8
@@ -834,14 +837,11 @@ http://200.60.124.19:29000/play/a0id/index.m3u8
 #EXTINF:-1 tvg-chno="238" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/09/13-Cultura-en-vivo-Online-1536x864.png" group-title="Chile",Canal 13 Cultura ¹ 🇨🇱
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
-#EXTINF:-1 tvg-chno="239" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="Colombia",Caracol 🇨🇴
-http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=8480&extension=ts
+#EXTINF:-1 tvg-chno="239" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="Colombia",Caracol ² 🇨🇴
+http://190.242.59.52:8000/play/a05u/index.m3u8
 
-#EXTINF:-1 tvg-chno="239" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="Colombia",Caracol 2 🇨🇴
-http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=130358&extension=ts
-
-#EXTINF:-1 tvg-chno="240" tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="Colombia",RCN 🇨🇴
-http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=84350&extension=ts
+#EXTINF:-1 tvg-chno="240" tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="Colombia",RCN ² 🇨🇴
+http://181.78.7.90:12500/play/a06l/index.m3u8
 
 #EXTINF:-1 tvg-chno="242" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/250px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="Colombia",Canal 1 ° 🇨🇴
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279385.m3u8
@@ -1110,8 +1110,8 @@ http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=778
 #EXTINF:-1 tvg-chno="314" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="México",Las Estrellas Latino ¹ 🇲🇽
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-chno="314" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="México",Las Estrellas MX ᵇ 🇲🇽
-http://budtvlight.com:25461/live/Astro/120388/945188.m3u8
+#EXTINF:-1 tvg-chno="314" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="México",Las Estrellas MX ² 🇲🇽
+http://148.222.225.136:8004/play/a03w/index.m3u8
 
 #EXTINF:-1 tvg-chno="314" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"bgroup-title="México",Las Estrellas Latino -1hr 🇲🇽
 http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/557732.m3u8
@@ -1527,6 +1527,9 @@ http://200.92.227.238:8000/play/a0mh/index.m3u8
 #EXTINF:-1 tvg-chno="531" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="Cine y Películas",DreamWorks ²
 http://181.78.106.127:9000/play/ca054
 
+#EXTINF:-1 tvg-chno="532" tvg-logo="https://fmh.la/images/logos_slider/slider_animotion2.png" group-title="Cine y Películas",FMH Animotion ²
+http://148.222.225.136:8004/play/a0iz/index.m3u8
+
 #EXTINF:-1 tvg-chno="533" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1024px-Rakuten_TV_logo.svg.png" group-title="Cine y Películas",Rakuten TV ¹
 https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
 
@@ -1580,6 +1583,9 @@ http://181.78.23.26:45000/play/a03x
 
 #EXTINF:-1 tvg-chno="555" tvg-logo="https://contenidostv.b-cdn.net/images/clover512.jpg" group-title="Cine y Películas",Clover Channel ²
 http://181.174.231.146:18000/play/a0hd
+
+#EXTINF:-1 tvg-chno="556" tvg-logo="https://www.fmh.la/images/team/logo_movies.png" group-title="Cine y Películas",FMH Movies ²
+http://148.222.225.136:8004/play/a0hz/index.m3u8
 
 #EXTINF:-1 tvg-chno="556" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpge-empty-state.png" group-title="Cine y Películas",MX Cine ²
 http://45.184.87.142:8000/play/a05e
@@ -1678,13 +1684,13 @@ http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=h
 http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=66423&extension=ts
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://marcasur.com/archivos/revista/notas/45ee4663b4c7fc571d08589befaabe05.jpg" group-title="Cine y Películas",HBO Chile ²
-http://38.97.240.11:8000/play/a0mt/index.m3u8
+http://148.222.225.136:8004/play/a0jp/index.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://static.latamwbd.com/2023-11/logo%202x.png" group-title="Cine y Películas",HBO Sur ²
 http://38.41.8.1:8000/play/a0ro
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" group-title="Cine y Películas",HBO 2 Sur 
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=41021&extension=ts
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" group-title="Cine y Películas",HBO 2 Sur ²
+http://148.222.225.136:8004/play/a0ij/index.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbofamily.png" group-title="Cine y Películas",HBO Family Sur °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278496.m3u8
