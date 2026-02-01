@@ -1728,11 +1728,14 @@ http://200.92.227.238:8000/play/a0or/index.m3u8
 #EXTINF:-1 tvg-chno="599" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1646691382488-Imagen.jpg" group-title="Cine y Películas",Universal Reality ²
 http://200.92.227.238:8000/play/a0os/index.m3u8
 
-#EXTINF:-1 tvg-chno="600" tvg-logo="https://mmaundisputed.wordpress.com/wp-content/uploads/2013/01/ufc-logo.jpg?w=500&h=225" group-title="Deportes",UFC 325 √
-http://live.proyectoxpro.com:8080/live/alvarovega/31f3570d79bd/174299.m3u8
+#EXTINF:-1 tvg-chno="600" tvg-logo="https://mmaundisputed.wordpress.com/wp-content/uploads/2013/01/ufc-logo.jpg?w=500&h=225" group-title="Deportes",UFC 325
+http://ultrax.online:8080/live/24114Propio@Reseam/CHUPALOPAOCULIAO****/20203.m3u8
 
-#EXTINF:-1 tvg-chno="600" tvg-logo="https://mmaundisputed.wordpress.com/wp-content/uploads/2013/01/ufc-logo.jpg?w=500&h=225" group-title="Deportes",UFC 325 √
-http://live.proyectoxpro.com:8080/live/alvarovega/31f3570d79bd/174301.m3u8
+#EXTINF:-1 tvg-chno="600" tvg-logo="https://mmaundisputed.wordpress.com/wp-content/uploads/2013/01/ufc-logo.jpg?w=500&h=225" group-title="Deportes",UFC 325  Preliminar 
+http://xxip9.top:8080/live/Abxc5k/363887/261120.m3u8
+
+#EXTINF:-1 tvg-chno="600" tvg-logo="https://mmaundisputed.wordpress.com/wp-content/uploads/2013/01/ufc-logo.jpg?w=500&h=225" group-title="Deportes",UFC 325  
+http://xxip9.top:8080/live/Abxc5k/363887/261121.m3u8
 
 #EXTINF:-1 tvg-chno="600" tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes",Futv (1) ²
 http://190.92.10.66:4000/play/a00c
