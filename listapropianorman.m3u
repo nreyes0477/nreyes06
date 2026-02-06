@@ -1902,17 +1902,14 @@ http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722
 #EXTINF:-1 tvg-chno="652" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%203%20128.png" group-title="Deportes",Fox Sports 3 Sur América °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278768.m3u8
 
-#EXTINF:-1 tvg-chno="654" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="Deportes",TUDN Centro América ¹ 🇲🇽
-http://crlive1.service.osllacdn.com/tudnhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="654" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="Deportes",TUDN México ² 🇲🇽
-http://148.113.207.98:8000/play/a002/index.m3u8
+#EXTINF:-1 tvg-chno="654" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="Deportes",TUDN México 🇲🇽
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7276
 
 #EXTINF:-1 tvg-chno="655" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="Deportes",TUDN USA 🇺🇸
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/2230.m3u8
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7754
 
 #EXTINF:-1 tvg-chno="656" tvg-logo="https://iili.io/J2wureR.png" group-title="Deportes",Zona TUDN USA 🇺🇸
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=78280&extension=ts
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7763
 
 #EXTINF:-1 tvg-chno="657" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png" group-title="Deportes",Claro Sports México ² 🇲🇽
 http://200.92.227.238:8000/play/a0qe/index.m3u8
