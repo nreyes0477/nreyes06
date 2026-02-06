@@ -192,6 +192,9 @@ https://jmp2.uk/plu-65790feacbd0d60008fac87a.m3u8
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/500px-Newsmax_logo.svg.png" group-title="Noticias",News Max ¹ 🇺🇸
 http://45.173.231.22:8000/play/a03r/index.m3u8
 
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://www.prensa-latina.cu/wp-content/uploads/2023/07/2._Identificador_Horizontal_Color-Institucional-1-1536x393.png" group-title="Noticias",PL Prensa Latina ¹ 🇨🇺
+https://eu1.servers10.com:8081/8192/index.m3u8
+
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1" group-title="Noticias",CNN Chile ¹ 🇨🇱
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR=&dpssid=b2116507725069104215bc280&sid=ba5t1l1xb230724296069104215bc27f&ndvc=1
 
@@ -1800,7 +1803,7 @@ http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722
 #EXTINF:-1 tvg-chno="618" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-04.jpg" group-title="Deportes",Fox Sports México 🇲🇽
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47128&extension=ts
 
-#EXTINF:-1 tvg-chno="618" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-04.jpg" group-title="Deportes",Fox Sports México (Prime Video) 🇲🇽
+#EXTINF:-1 tvg-chno="618" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-04.jpg" group-title="Deportes",Fox Sports México (Prime) 🇲🇽
 http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/617.m3u8
 
 #EXTINF:-1 tvg-chno="619" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-05.jpg" group-title="Deportes",Fox Sports 2 México 🇲🇽
@@ -1825,7 +1828,7 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/21910
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/21911
 
 #EXTINF:-1 tvg-chno="625" tvg-logo="https://www.foxdeportes.com/assets/images/logo_2.png" group-title="Deportes",Fox Deportes Pluto TV (Latino) ¹ 🇺🇲
-https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
+https://stitcher.pluto.tv/stitch/hls/channel/63d0269d60bc8f000890facc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=094f199a-ec10-11f0-bad3-ead9ca97366d
 
 #EXTINF:-1 tvg-chno="626" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/3/30/HISportslogo.png/revision/latest?cb=20230427055859&path-prefix=es" group-title="Deportes",Hi! Sports TV ᵇᵘ 🇲🇽
 http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/298375.m3u8
@@ -2073,17 +2076,17 @@ http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/103.m3u8
 #EXTINF:-1 tvg-chno="697" tvg-logo="https://cdn.storage.foromedios.com/monthly_2021_06/large.MeridianoTV2019-1.png.05f368152f6fdb6351c2265a5db41cbb.png" group-title="Deportes",Meridiano 🇻🇪
 http://xxip9.top:8080/live/7686199/9576982/164930.m3u8
 
-#EXTINF:-1 tvg-chno="698" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/logos/FuboSports_Logo_OneColor_box_rgb.png?w=300&ch=width&auto=format,compress" group-title="Deportes",Fubo Sports 🇺🇸
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=175758&extension=ts
+#EXTINF:-1 tvg-chno="698" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/logos/FuboSports_Logo_OneColor_box_rgb.png?w=300&ch=width&auto=format,compress" group-title="Deportes",Fubo Sports ¹ 🇺🇸
+https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRnVib1Nwb3J0c05ldHdvcmtfSExT/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="698" tvg-logo="https://www.adnblanco.com/wp-content/uploads/2020/09/logotiporealmadridtv-rmtv.jpg" group-title="Deportes",Real Madrid TV ¹ 🇪🇸
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+http://corgol.com@cdn1host.online:2999/xman2b/d5lxdEfHnB/1777?mode=0
 
 #EXTINF:-1 tvg-chno="699" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/5.jpg" group-title="Deportes",CNAR Deportes ¹ 🇦🇷
 https://stmv6.voxtvhd.com.br/cnardeportes/cnardeportes/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="699" tvg-logo="https://telecentro.com.ar/img/cm/channels/deportv%20128.png"bgroup-title="Deportes",DeporTV ¹ 🇦🇷
-https://joy.nx-pc.edge-apps.net/hls/e1okh-afcc2-ejm6-h8gdj.m3u8
+#EXTINF:-1 tvg-chno="699" tvg-logo="https://telecentro.com.ar/img/cm/channels/deportv%20128.png"bgroup-title="Deportes",DeporTV 🇦🇷
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/9311
 
 #EXTINF:-1 tvg-chno="700" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png" group-title="Música",VM Latino ¹
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
