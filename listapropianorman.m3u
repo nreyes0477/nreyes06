@@ -1759,22 +1759,22 @@ http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.bes
 http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password=XHBR21BVCB&stream=145465&extension=ts
 
 #EXTINF:-1 tvg-chno="607" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Centro América ²
-http://200.125.170.122:8000/play/a05v/index.m3u8
+http://45.5.117.99:8000/play/a060/index.m3u8
 
 #EXTINF:-1 tvg-chno="608" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 Centro América ²
-http://200.125.170.122:8000/play/a05x/index.m3u8
+http://45.5.117.99:8000/play/a061/index.m3u8
 
 #EXTINF:-1 tvg-chno="610" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN 3 Centro América ²
-http://200.125.170.122:8000/play/a05w/index.m3u8
+http://45.5.117.99:8000/play/a062/index.m3u8
 
 #EXTINF:-1 tvg-chno="611" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deportes",ESPN 4 Centro América ²
-http://200.125.170.122:8000/play/a0en/index.m3u8
+http://45.5.117.99:8000/play/a064/index.m3u8
 
-#EXTINF:-1 tvg-chno="612" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png" group-title="Deportes",ESPN 5 Centro América
-http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=53&extension=ts
+#EXTINF:-1 tvg-chno="612" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png" group-title="Deportes",ESPN 5 Centro América ²
+http://45.5.117.99:8000/play/a065/index.m3u8
 
-#EXTINF:-1 tvg-chno="613" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png" group-title="Deportes",ESPN 6 Centro América
-http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=141&extension=ts
+#EXTINF:-1 tvg-chno="613" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png" group-title="Deportes",ESPN 6 Centro América ²
+http://45.5.117.99:8000/play/a063/index.m3u8
 
 #EXTINF:-1 tvg-chno="614" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN México 🇲🇽
 http://cdn1host.online:2999/streaming/clients_live.php?username=xman2b&password=d5lxdEfHnB&stream=97&extension=ts
