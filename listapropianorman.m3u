@@ -2016,11 +2016,11 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=MyBOXXTV2024&passw
 #EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Panamá ° 🇵🇦
 http://172.93.102.112:8989/279308_.m3u8
 
-#EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Guatemala ᵇᵘ 🇬🇹
-http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/299270.m3u8
+#EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Guatemala 🇬🇹
+http://corgol.com@canal-pro.xyz:8080/966119620tv/55ce67/69396
 
-#EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Honduras 🇭🇳
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=40017&extension=ts
+#EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Honduras ᵇᵘ 🇭🇳
+http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/299270.m3u8
 
 #EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Bolivia 🇧🇴
 http://m3u.tvcluboficial.com/free/Jose_Mejia/V3f/905.m3u8
@@ -2035,16 +2035,16 @@ http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/6.m3u8
 http://181.119.85.222:8000/play/a04e/index.m3u8
 
 #EXTINF:-1 tvg-chno="688" tvg-logo="https://bunny-wp-pullzone-3tijjyzerc.b-cdn.net/wp-content/uploads/2025/01/Copy-of-Partnership-Blog-cover-rebrand_1104x860-15.png" group-title="Deportes",Azteca Deportes (Pluto) ¹ 🇲🇽
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-chno="690" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/2/2b/TVCDep16Logo.png/revision/latest/scale-to-width/360?cb=20160715002021&path-prefix=es" group-title="Deportes",TVC Deportes 🇲🇽
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=150069&extension=ts
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7170
 
 #EXTINF:-1 tvg-chno="691" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports-mediano.png" group-title="Deportes",A y M Sports ¹ 🇲🇽
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 
-#EXTINF:-1 tvg-chno="692" tvg-logo="https://sc.dish.com/shared/images/station-logos/BEINE.png" group-title="Deportes",Bein Sports Ñ ᵇᵘ 🇺🇸
-http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/279420.m3u8
+#EXTINF:-1 tvg-chno="692" tvg-logo="https://sc.dish.com/shared/images/station-logos/BEINE.png" group-title="Deportes",Bein Sports Ñ 🇺🇸
+http://cdn1host.online:2999/xman2b/d5lxdEfHnB/381?mode=0
 
 #EXTINF:-1 tvg-chno="692" tvg-logo="https://sc.dish.com/shared/images/station-logos/BEINE.png" group-title="Deportes",Bein Sports USA 🇺🇸
 http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/2336.m3u8
