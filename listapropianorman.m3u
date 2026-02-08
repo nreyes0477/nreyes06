@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC Vegas 113
+http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47695&extension=ts
+
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://canal1cr.com/wp-content/uploads/2023/02/logo-canal-1-png.png" group-title="Nacionales",Canal 1 CR ¹ 🇨🇷
 https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
 
