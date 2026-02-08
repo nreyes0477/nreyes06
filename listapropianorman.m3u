@@ -1,13 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC Vegas 113 ¹
+https://plu001.myluck1.top:8088/live/canakl1gl/playlist.m3u8?id=122443&pk=b35c0476ea0cf00e03146f45bb102035960ca7ee3e2181e6f0028fec497c263eaea1227a25364aac808ec2a440b1634dbfad3ddc988c6d338d065f2817f5c7bb
+
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC Vegas 113
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47695&extension=ts
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC Vegas 113
-http://206.123.140.158:8080/live/alvarovega/31f3570d79bd/176473.m3u8?token=TEZcAhJfFg1BV1cMCgVXAggNVwADVwddA1BWAlJWXQ5UUQRUAlQNBwYWGBpBQ0BWWFU6UVNHX1QEAANWUR8bTEQBRjwIUxYNQQEMCwoAAxEVGhFRWgBHXwMaFRELVxsDFVUGWlAGFhtBUUxMV0VcUlVnAV1BDAYAEQxZFA5fFRtYCmsHBFpVWQcWDhoCFR4RUEsVGg0LEAlfGhUDC0dLWEMBFllDAAcFWhYYGlFYR11NShwaDUcmNxEaFQQaR1xXRA1bDUMNFlpQQQwaHhVbQGZKAEtDFwAEXlNFQ1gRCRsbRlkCGWhXWA1aUVtGXl1dShpfGgRHSUdeWVkIFlxLZkcNUEFbFQMEVAMWRQ==
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC Vegas 113
-http://23.153.217.198:8080/live/alvarovega/31f3570d79bd/176475.m3u8?token=TEZcAhJfFg1BDVEOAFMAUAsMVwEBVwcGCgUOUgZVAQ5VBwNUUVECBAUWGBpBQ0BWWFU6UVNHX1QEAANWVx8bTEQBRjwIUxYNQQEMCwoAAxEVGhFRWgBHXwMaFRELVxsDFVUDVVIEFhtBUUxMV0VcUlVnAV1BDAYAEQxZFA5fFRtYCmsHBFpVWQcWDhoCFR4RUEsVGg0LEAlfGhUDC0dLWEMBFllDAAMGVxYYGlFYR11NShwaDUcmNxEaFQQaR1xXRA1bDUMNFlpQQQwaHhVbQGZKAEtDFwAEXlNFQ1gRCRsbRlkCGWhXWA1aUVtGXl1dShpfGgRHSUdeWVkIFlxLZkcNUEFbFQcGVgYEGk8=
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://canal1cr.com/wp-content/uploads/2023/02/logo-canal-1-png.png" group-title="Nacionales",Canal 1 CR ¹ 🇨🇷
 https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
