@@ -275,6 +275,9 @@ http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://www.ntn24.com/__assets/images/logo.png" group-title="Noticias",NTN24 🇨🇴
 http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=10256&extension=ts
 
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/ca156c1/2147483647/strip/true/crop/342x91+0+0/resize/342x91!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fca%2F3b%2F626749bb4ac5a7fe61ee7c31e667%2Fmenu-logo.png" group-title="Noticias",Noticias Caracol ¹ 🇨🇴 
+http://daleplaytv.vip:80//live/OrlandoVillacis/09992151xx/317546.ts
+
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://images.pluto.tv/channels/67d9b0ebc290c9499046e88f/colorLogoPNG_1747143716006.png" group-title="Noticias",Noticias RCN ¹ 🇨🇴 
 https://stitcher.pluto.tv/stitch/hls/channel/67d9b0ebc290c9499046e88flivestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df&profilesFromStream=true
 
