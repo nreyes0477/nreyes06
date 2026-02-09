@@ -194,6 +194,9 @@ https://jmp2.uk/plu-65790feacbd0d60008fac87a.m3u8
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/500px-Newsmax_logo.svg.png" group-title="Noticias",News Max ¹ 🇺🇸
 https://d29h829bjuxghm.cloudfront.net/hls/index.m3u8?ads.xumo_channelId=99992174&ads.xumo_streamId=99992174&ads.channelId=99992174&ads.csid=lgchannels_mx_newsmax_ssai&ads.channelName=newsmax_es&ads.xumo_contentName=Newsmax&ads.xumo_contentId=141&ads.xumo_providerName=Newsmax&ads.xumo_providerId=141&ads.content_category=IAB1-7&ads.content_genre=news&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
 
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cnn-en-espanol_m.png" group-title="Noticias",CNN Xpress (Pluto) ¹ 🇺🇸
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv:443/stitch/hls/channel/673248f9030a2c0008033af8livestitch/2977920/playlist.m3u8?terminate=false&sid=bf79a159-8e56-4611-9a70-9432e3f2b6ce&deviceDNT=0&deviceModel=web&deviceVersion=unknown&serverSideAds=true&appName=web&deviceId=d90315c4-bf88-11f0-bde0-14b81fb94485&appVersion=unknown&deviceType=web&deviceMake=Chrome.
+
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://www.prensa-latina.cu/wp-content/uploads/2023/07/2._Identificador_Horizontal_Color-Institucional-1-1536x393.png" group-title="Noticias",PL Prensa Latina ¹ 🇨🇺
 https://eu1.servers10.com:8081/8192/index.m3u8
 
@@ -1145,8 +1148,8 @@ http://budtvlight.com:25461/live/Astro/120388/815026.m3u8
 #EXTINF:-1 tvg-chno="321" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2017/02/CineMexicano_Logo.png" group-title="México",Cine Mexicano 🇲🇽
 http://go.iptvhn.net:25461/live/7789/7789/13344.m3u8
 
-#EXTINF:-1 tvg-chno="322" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="México",Las Estrellas (Internacional) ¹ 🇲🇽
-http://crlive1.service.osllacdn.com/canaldelasestrellashdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-chno="322" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="México",Las Estrellas (Internacional) ² 🇲🇽
+http://45.5.119.43:4000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-chno="323" tvg-logo="https://digitalcontent.prensariozone.com/wp-content/uploads/2021/10/Azteca_logo_trans_516x287.png" group-title="México",Azteca Internacional ¹ 🇲🇽
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
