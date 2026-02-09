@@ -1325,11 +1325,11 @@ https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
 #EXTINF:-1 tvg-chno="391" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Venezolana-de-Televisi%C3%B3n-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Venezuela",Venezolana de TV ² 🇻🇪
 http://38.41.8.1:8000/play/a03i
 
-#EXTINF:-1 tvg-chno="392" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Televen-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Venezuela",Televen 🇻🇪
-http://www.1play.cool:25461/live/2132580232/27be478b47/57600.m3u8
+#EXTINF:-1 tvg-chno="392" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Televen-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Venezuela",Televen ² 🇻🇪
+http://181.78.8.199:8000/play/a09j/index.m3u8
 
 #EXTINF:-1 tvg-chno="393" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/TVES-Venezuela-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Venezuela",TVes ² 🇻🇪
-http://38.41.8.1:8000/play/a03k
+http://181.78.8.199:8000/play/a0ft/index.m3u8
 
 #EXTINF:-1 tvg-chno="394" tvg-logo="https://www.promar.tv/wp-content/uploads/2024/07/a-384x384-logo-para-el-de-512.png" group-title="Venezuela",Promar ¹ 🇻🇪
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
