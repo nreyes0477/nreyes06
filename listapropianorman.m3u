@@ -1692,8 +1692,8 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278505.m3u8
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime.png" group-title="Cine y Películas",HBO Xtreme Norte °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278508.m3u8
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/max.png" group-title="Cine y Películas",HBO Mundi Norte
-http://cdn1host.online:2999/streaming/clients_live.php?username=xman2b&password=d5lxdEfHnB&stream=1628&extension=ts
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/max.png" group-title="Cine y Películas",HBO Mundi Norte °
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278500.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://marcasur.com/archivos/revista/notas/45ee4663b4c7fc571d08589befaabe05.jpg" group-title="Cine y Películas",HBO Chile ²
 http://148.222.225.136:8004/play/a0jp/index.m3u8
