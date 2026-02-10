@@ -1669,7 +1669,7 @@ http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=
 http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=115&extension=ts
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://methodgroupe.com/wp-content/uploads/2020/08/Client-logos_0030_170124_ClientLogos_16.png" group-title="Cine y Películas",HBO Latino
-http://cdn1host.online:2999/streaming/clients_live.php?username=xman2b&password=d5lxdEfHnB&stream=36378&extension=ts
+http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=105&extension=ts
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo.png" group-title="Cine y Películas",HBO Norte °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278488.m3u8
@@ -1697,6 +1697,9 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278500.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://marcasur.com/archivos/revista/notas/45ee4663b4c7fc571d08589befaabe05.jpg" group-title="Cine y Películas",HBO Chile ²
 http://148.222.225.136:8004/play/a0jp/index.m3u8
+
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://e01-phantom-elmundo.uecdn.es/21e96d7e4c1124a7af7efff26ebcaa58/resize/828/f/webp/assets/multimedia/imagenes/2021/10/26/16352415827188.jpg" group-title="Cine y Películas",HBO Max
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=164941&extension=ts
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://static.latamwbd.com/2023-11/logo%202x.png" group-title="Cine y Películas",HBO Sur
 http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=24&extension=ts
