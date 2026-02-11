@@ -196,7 +196,7 @@ https://estrella-news-oando.amagi.tv:443/playlistR1080p.m3u8
 https://d29h829bjuxghm.cloudfront.net/hls/index.m3u8?ads.xumo_channelId=99992174&ads.xumo_streamId=99992174&ads.channelId=99992174&ads.csid=lgchannels_mx_newsmax_ssai&ads.channelName=newsmax_es&ads.xumo_contentName=Newsmax&ads.xumo_contentId=141&ads.xumo_providerName=Newsmax&ads.xumo_providerId=141&ads.content_category=IAB1-7&ads.content_genre=news&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cnn-en-espanol_m.png" group-title="Noticias",CNN Xpress (Pluto) ¹ 🇺🇸
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv:443/stitch/hls/channel/673248f9030a2c0008033af8livestitch/2977920/playlist.m3u8?terminate=false&sid=bf79a159-8e56-4611-9a70-9432e3f2b6ce&deviceDNT=0&deviceModel=web&deviceVersion=unknown&serverSideAds=true&appName=web&deviceId=d90315c4-bf88-11f0-bde0-14b81fb94485&appVersion=unknown&deviceType=web&deviceMake=Chrome.
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/673248f9030a2c0008033af8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d90315c4-bf88-11f0-bde0-14b81fb94485&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf79a159-8e56-4611-9a70-9432e3f2b6ce&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://www.prensa-latina.cu/wp-content/uploads/2023/07/2._Identificador_Horizontal_Color-Institucional-1-1536x393.png" group-title="Noticias",PL Prensa Latina ¹ 🇨🇺
 https://eu1.servers10.com:8081/8192/index.m3u8
@@ -353,6 +353,9 @@ https://amg01821-lovetvchannels-lovetheplanetes-samsungspain-w1r0c.amagi.tv/ts-e
 
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://lovetvchannels.com/wp-content/uploads/2025/04/LoveThePlanet_circle.png" group-title="Educativos",Canal Love Nature Time ¹ 🇪🇸
 https://amg01576-blueskyeenterta-naturetimeemea-lges-afzij.amagi.tv/playlist/amg01576-blueskyeenterta-naturetimeemea-lges/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://lovetvchannels.com/wp-content/uploads/2025/04/LoveThePlanet_circle.png" group-title="Educativos",Canal Love Nature Español ¹ 🇪🇸
+https://aka-live1050.delivery.roku.com/c600741a-7139-4b2e-ae6b-8779c57d18dd/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://i.postimg.cc/zB6q2WXB/free-sa.jpg" group-title="Educativos",Free TV Saber Más ¹ 🇦🇷
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8
@@ -861,8 +864,8 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279385.m3u8
 #EXTINF:-1 tvg-chno="243" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Logo_Citytv_2023.jpg" group-title="Colombia",City TV ° 🇨🇴
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279389.m3u8
 
-#EXTINF:-1 tvg-chno="244" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/500px-Se%C3%B1al_Colombia_logo.svg.png" group-title="Colombia",Señal Colombia ² 🇨🇴
-http://181.205.130.194:4000/play/a08k
+#EXTINF:-1 tvg-chno="244" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/500px-Se%C3%B1al_Colombia_logo.svg.png" group-title="Colombia",Señal Colombia ¹ 🇨🇴
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="246" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Caracol_HD_Internacional.png/250px-Caracol_HD_Internacional.png" group-title="Colombia",Caracol Internacional 🇨🇴
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=3573&extension=ts
@@ -1368,8 +1371,8 @@ http://138.99.179.64:8800/play/a03e
 #EXTINF:-1 tvg-chno="409" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png" group-title="Cultura y Entretenimiento",History Channel (2) °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278628.m3u8
 
-#EXTINF:-1 tvg-chno="410" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Cultura y Entretenimiento",History Channel 2
-http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/66477.ts
+#EXTINF:-1 tvg-chno="410" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Cultura y Entretenimiento",History Channel 2 ²
+http://45.171.64.30:8800/play/a021
 
 #EXTINF:-1 tvg-chno="411" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png" group-title="Cultura y Entretenimiento",NatGeo ²
 http://200.92.227.238:8000/play/a0px/index.m3u8
@@ -1485,8 +1488,14 @@ http://200.92.227.238:8000/play/a0oa/index.m3u8
 #EXTINF:-1 tvg-chno="519" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SonyMovies.png" group-title="Cine y Películas",Cine Sony ²
 http://200.92.227.238:8000/play/a0mg/index.m3u8
 
+#EXTINF:-1 tvg-chno="519" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SonyMovies.png" group-title="Cine y Películas",Cine Sony (MX) ¹
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="520" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png" group-title="Cine y Películas",Sony ²
 http://200.92.227.238:8000/play/a0oc/index.m3u8
+
+#EXTINF:-1 tvg-chno="520" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png" group-title="Cine y Películas",Sony (MX) ²
+http://200.106.13.204:8000/play/a0kt/index.m3u8
 
 #EXTINF:-1 tvg-chno="520" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png" group-title="Cine y Películas",Sony Diferido
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=46660&extension=ts
