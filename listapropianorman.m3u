@@ -1357,7 +1357,7 @@ http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/1160000.m3u8
 
 #EXTINF:-1 tvg-chno="400" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg" group-title="Cultura y Entretenimiento",E! Entertainment (1)
-http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/66420.ts
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=9646&extension=ts
 
 #EXTINF:-1 tvg-chno="400" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg" group-title="Cultura y Entretenimiento",E! Entertainment (2) ²
 http://200.92.227.238:8000/play/a0m9/index.m3u8
