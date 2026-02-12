@@ -1677,8 +1677,8 @@ http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=
 #EXTINF:-1 tvg-chno="565" tvg-logo="https://us.123rf.com/450wm/inkdrop/inkdrop1801/inkdrop180105651/94147266-cinema-word-made-from-red-vintage-lightbulb-lettering-isolated-on-a-white-3d-rendering.jpg?ver=6" group-title="Cine y Películas",Canal Cine 4
 http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=115&extension=ts
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://methodgroupe.com/wp-content/uploads/2020/08/Client-logos_0030_170124_ClientLogos_16.png" group-title="Cine y Películas",HBO Latino
-http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=105&extension=ts
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://methodgroupe.com/wp-content/uploads/2020/08/Client-logos_0030_170124_ClientLogos_16.png" group-title="Cine y Películas",HBO Latino ™
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/9293
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbo.png" group-title="Cine y Películas",HBO Norte °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278488.m3u8
@@ -1716,11 +1716,11 @@ http://45.5.117.99:8000/play/a0l2/index.m3u8
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" group-title="Cine y Películas",HBO 2 Sur ²
 http://201.230.137.204:8000/play/a0f5/index.m3u8
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbofamily.png" group-title="Cine y Películas",HBO Family Sur
-http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=28&extension=ts
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hbofamily.png" group-title="Cine y Películas",HBO Family Sur ™
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7433
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus.png" group-title="Cine y Películas",HBO Plus Sur 
-http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=23&extension=ts
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/hboplus.png" group-title="Cine y Películas",HBO Plus Sur ™
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7434
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxup.png" group-title="Cine y Películas",HBO Pop Sur 
 http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=9689&extension=ts
