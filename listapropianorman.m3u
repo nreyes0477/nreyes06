@@ -1542,6 +1542,9 @@ http://200.92.227.238:8000/play/a0me/index.m3u8
 #EXTINF:-1 tvg-chno="529" tvg-logo="https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/15563/article_aligned%403x.png" group-title="Cine y Películas",FXX ™
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/13973
 
+#EXTINF:-1 tvg-chno="529" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/330px-FX_Movies_logo.svg.png" group-title="Cine y Películas",FXM ™
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/13972
+
 #EXTINF:-1 tvg-chno="530" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png" group-title="Cine y Películas",DHE ²
 http://200.92.227.238:8000/play/a0mh/index.m3u8
 
