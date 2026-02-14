@@ -1461,8 +1461,8 @@ http://200.92.227.238:8000/play/a0uk/index.m3u8
 #EXTINF:-1 tvg-chno="503" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png" group-title="Cine y Películas",Cinecanal ²
 http://200.92.227.238:8000/play/a0od/index.m3u8
 
-#EXTINF:-1 tvg-chno="506" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinemax_m.png" group-title="Cine y Películas",Cinemax
-http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=2193&extension=ts
+#EXTINF:-1 tvg-chno="506" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinemax_m.png" group-title="Cine y Películas",Cinemax ™
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7834
 
 #EXTINF:-1 tvg-chno="510" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden.png" group-title="Cine y Películas",Golden
 http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=9657&extension=ts
