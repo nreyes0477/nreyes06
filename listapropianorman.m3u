@@ -1551,7 +1551,7 @@ http://181.78.106.127:9000/play/ca054
 #EXTINF:-1 tvg-chno="532" tvg-logo="https://fmh.la/images/logos_slider/slider_animotion2.png" group-title="Cine y Películas",FMH Animotion ²
 http://148.222.225.136:8004/play/a0iz/index.m3u8
 
-#EXTINF:-1 tvg-chno="533" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1024px-Rakuten_TV_logo.svg.png" group-title="Cine y Películas",Rakuten TV ¹
+#EXTINF:-1 tvg-chno="533" tvg-logo="https://i0.wp.com/thefutureoftheforce.com/wp-content/uploads/2023/04/Rakuten-TV-Header.jpg?resize=1200%2C675&ssl=1" group-title="Cine y Películas",Rakuten TV ¹
 https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
 
 #EXTINF:-1 tvg-chno="533" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg" group-title="Cine y Películas",Rakuten Crimen ¹
@@ -1560,10 +1560,10 @@ https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670
 #EXTINF:-1 tvg-chno="533" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/6183803c-66f1-4fe9-98fa-f0ce319c4650.jpeg" group-title="Cine y Películas",Rakuten Thrillers ¹
 https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
 
-#EXTINF:-1 tvg-chno="533" tvg-logo="https://images-3.rakuthttps://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg" group-title="Cine y Películas",Rakuten Romántico ¹
+#EXTINF:-1 tvg-chno="533" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg" group-title="Cine y Películas",Rakuten Romántico ¹
 https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
 
-#EXTINF:-1 tvg-chno="533" tvg-logo="thttps://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg" group-title="Cine y Películas",Rakuten Acción ¹
+#EXTINF:-1 tvg-chno="533" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg" group-title="Cine y Películas",Rakuten Acción ¹
 https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
 
 #EXTINF:-1 tvg-chno="533" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/f46d8e24-5150-443b-a370-f938eda185e9.jpeg" group-title="Cine y Películas",Rakuten Comedia ¹
