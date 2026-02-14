@@ -1728,8 +1728,8 @@ http://181.128.145.103:4000/play/a02q/index.m3u8
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://e01-phantom-elmundo.uecdn.es/21e96d7e4c1124a7af7efff26ebcaa58/resize/828/f/webp/assets/multimedia/imagenes/2021/10/26/16352415827188.jpg" group-title="Cine y Películas",HBO Max
 http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=164941&extension=ts
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://static.latamwbd.com/2023-11/logo%202x.png" group-title="Cine y Películas",HBO Sur ²
-http://45.5.117.99:8000/play/a0l2/index.m3u8
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://static.latamwbd.com/2023-11/logo%202x.png" group-title="Cine y Películas",HBO Sur ™
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7431
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" group-title="Cine y Películas",HBO 2 Sur ²
 http://201.230.137.204:8000/play/a0f5/index.m3u8
@@ -1749,8 +1749,8 @@ http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/maxprime.png" group-title="Cine y Películas",HBO Xtreme Sur
 http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=9698&extension=ts
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/max.png" group-title="Cine y Películas",HBO Mundi Sur
-http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=9682&extension=ts
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://telecentro.com.ar/img/cm/channels/max.png" group-title="Cine y Películas",HBO Mundi Sur ™
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7436
 
 #EXTINF:-1 tvg-chno="598" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="Cine y Películas",Universal Channel
 http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=9755&extension=ts
