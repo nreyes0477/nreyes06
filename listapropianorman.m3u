@@ -1548,8 +1548,8 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/13972
 #EXTINF:-1 tvg-chno="530" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png" group-title="Cine y Películas",DHE ²
 http://200.92.227.238:8000/play/a0mh/index.m3u8
 
-#EXTINF:-1 tvg-chno="531" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="Cine y Películas",DreamWorks ²
-http://181.78.106.127:9000/play/ca054
+#EXTINF:-1 tvg-chno="531" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="Cine y Películas",DreamWorks ™
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7470
 
 #EXTINF:-1 tvg-chno="532" tvg-logo="https://fmh.la/images/logos_slider/slider_animotion2.png" group-title="Cine y Películas",FMH Animotion ²
 http://148.222.225.136:8004/play/a0iz/index.m3u8
