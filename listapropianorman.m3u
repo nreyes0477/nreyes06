@@ -1744,16 +1744,16 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/8503
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7472
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/330px-HBO_logo.svg.png" group-title="Cine y Películas",HBO Sur ™
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7431
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7323
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/330px-HBO_2_%282014%29.svg.png" group-title="Cine y Películas",HBO 2 Sur ²
 http://201.230.137.204:8000/play/a0f5/index.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/330px-HBO_Family.svg.png" group-title="Cine y Películas",HBO Family Sur ™
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7433
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7326
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/330px-Logohboplus2019.svg.png" group-title="Cine y Películas",HBO Plus Sur ™
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7434
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7424
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/330px-HBO_Pop.svg.png" group-title="Cine y Películas",HBO Pop Sur 
 http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=9689&extension=ts
@@ -1765,7 +1765,7 @@ http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega
 http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=9698&extension=ts
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/330px-HBO_Mundi.svg.png" group-title="Cine y Películas",HBO Mundi Sur ™
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7436
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7404
 
 #EXTINF:-1 tvg-chno="598" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="Cine y Películas",Universal Channel
 http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=9755&extension=ts
