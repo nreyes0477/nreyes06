@@ -1464,19 +1464,19 @@ http://200.92.227.238:8000/play/a0od/index.m3u8
 #EXTINF:-1 tvg-chno="506" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinemax_m.png" group-title="Cine y Películas",Cinemax ™
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7834
 
-#EXTINF:-1 tvg-chno="510" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden.png" group-title="Cine y Películas",Golden
+#EXTINF:-1 tvg-chno="510" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" group-title="Cine y Películas",Golden
 http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=9657&extension=ts
 
-#EXTINF:-1 tvg-chno="512" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/420px-Golden_Edge_Logo_2020.png" group-title="Cine y Películas",Golden Edge ™
+#EXTINF:-1 tvg-chno="512" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png" group-title="Cine y Películas",Golden Edge ™
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/8464
 
 #EXTINF:-1 tvg-chno="513" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png" group-title="Cine y Películas",Golden Plus
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=3648&extension=ts
 
-#EXTINF:-1 tvg-chno="514" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden-premier.png" group-title="Cine y Películas",Golden Premier
+#EXTINF:-1 tvg-chno="514" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png" group-title="Cine y Películas",Golden Premier
 http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=66447&extension=ts
 
-#EXTINF:-1 tvg-chno="514" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afilaidos-golden-premier.png" group-title="Cine y Películas",Golden Premier 2
+#EXTINF:-1 tvg-chno="514" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png" group-title="Cine y Películas",Golden Premier 2
 http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=66472&extension=ts
 
 #EXTINF:-1 tvg-chno="517" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png" group-title="Cine y Películas",Paramount Network US ™
@@ -1485,10 +1485,10 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/13928
 #EXTINF:-1 tvg-chno="518" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox_m.png" group-title="Cine y Películas",Star Channel ²
 http://200.92.227.238:8000/play/a0oa/index.m3u8
 
-#EXTINF:-1 tvg-chno="519" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SonyMovies.png" group-title="Cine y Películas",Cine Sony ²
+#EXTINF:-1 tvg-chno="519" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cine_sony-mediano.png" group-title="Cine y Películas",Cine Sony ²
 http://200.92.227.238:8000/play/a0mg/index.m3u8
 
-#EXTINF:-1 tvg-chno="519" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SonyMovies.png" group-title="Cine y Películas",Cine Sony (MX) ¹
+#EXTINF:-1 tvg-chno="519" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cine_sony-mediano.png" group-title="Cine y Películas",Cine Sony (MX) ¹
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="520" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png" group-title="Cine y Películas",Sony ²
@@ -1506,7 +1506,7 @@ http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/615.m3u8
 #EXTINF:-1 tvg-chno="522" tvg-logo="https://cdn.mitvstatic.com/channels/mx_space_m.png" group-title="Cine y Películas",Space ²
 http://45.181.122.46:8090/play/a00h
 
-#EXTINF:-1 tvg-chno="523" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png" group-title="Cine y Películas",Lifetime ™
+#EXTINF:-1 tvg-chno="523" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png" group-title="Cine y Películas",Lifetime ™
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/13908
 
 #EXTINF:-1 tvg-chno="523" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinema_platino-mediano.png" group-title="Cine y Películas",Cine Platino
@@ -1542,7 +1542,7 @@ http://200.92.227.238:8000/play/a0me/index.m3u8
 #EXTINF:-1 tvg-chno="529" tvg-logo="https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/15563/article_aligned%403x.png" group-title="Cine y Películas",FXX ™
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/13973
 
-#EXTINF:-1 tvg-chno="529" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/330px-FX_Movies_logo.svg.png" group-title="Cine y Películas",FXM ™
+#EXTINF:-1 tvg-chno="529" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fxm-mediano.png" group-title="Cine y Películas",FXM ™
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/13972
 
 #EXTINF:-1 tvg-chno="530" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png" group-title="Cine y Películas",DHE ²
@@ -1626,25 +1626,25 @@ https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-chno="535" tvg-logo="https://la.sonyone.com/static/images/logos/sonyonelatam-logo.png" group-title="Cine y Películas",Sony One The Blacklist ¹
 https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="536" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/640px-Starz_2008.png" group-title="Cine y Películas",Starz
+#EXTINF:-1 tvg-chno="536" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/250px-Starz_2022.svg.png" group-title="Cine y Películas",Starz
 http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=120&extension=ts
 
-#EXTINF:-1 tvg-chno="536" tvg-logo="https://sc.dish.com/shared/images/station-logos/SCINE.png" group-title="Cine y Películas",Starz Encore
+#EXTINF:-1 tvg-chno="536" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Starz_Encore_Espa%C3%B1ol_Logo_2022.svg/250px-Starz_Encore_Espa%C3%B1ol_Logo_2022.svg.png" group-title="Cine y Películas",Starz Encore
 http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=121&extension=ts
 
-#EXTINF:-1 tvg-chno="537" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Starz_Encore_Action.svg/640px-Starz_Encore_Action.svg.png" group-title="Cine y Películas",Starz Action
+#EXTINF:-1 tvg-chno="537" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Starz_Encore_Action_Logo_2022.svg/250px-Starz_Encore_Action_Logo_2022.svg.png" group-title="Cine y Películas",Starz Action
 http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=122&extension=ts
 
-#EXTINF:-1 tvg-chno="538" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Starz_Encore_Classic.svg/640px-Starz_Encore_Classic.svg.png" group-title="Cine y Películas",Starz Encore Black
+#EXTINF:-1 tvg-chno="538" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Starz_Encore_Black_Logo_2022.svg/250px-Starz_Encore_Black_Logo_2022.svg.png" group-title="Cine y Películas",Starz Encore Black
 http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=123&extension=ts
 
-#EXTINF:-1 tvg-chno="539" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Starz_Kids_%26_Family_logo.svg/640px-Starz_Kids_%26_Family_logo.svg.png" group-title="Cine y Películas",Starz Family
+#EXTINF:-1 tvg-chno="539" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Starz_Encore_Family_Logo_2022.svg/250px-Starz_Encore_Family_Logo_2022.svg.png" group-title="Cine y Películas",Starz Family
 http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=125&extension=ts
 
-#EXTINF:-1 tvg-chno="540" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Starz_Encore_Suspense.svg/640px-Starz_Encore_Suspense.svg.png" group-title="Cine y Películas",Starz Suspense
+#EXTINF:-1 tvg-chno="540" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Starz_Encore_Suspense_Logo_2022.svg/250px-Starz_Encore_Suspense_Logo_2022.svg.png" group-title="Cine y Películas",Starz Suspense
 
 
-#EXTINF:-1 tvg-chno="541" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Starz_Encore_Westerns.svg/640px-Starz_Encore_Westerns.svg.png" group-title="Cine y Películas",Starz Westerns
+#EXTINF:-1 tvg-chno="541" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Starz_Encore_Westerns_Logo_2022.svg/250px-Starz_Encore_Westerns_Logo_2022.svg.png" group-title="Cine y Películas",Starz Westerns
 http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=124&extension=ts
 
 #EXTINF:-1 tvg-chno="565" tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/5-Star-Max-on-DISH.png" group-title="Cine y Películas",5 Star Max
@@ -1701,28 +1701,28 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/168568.m3u8
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://methodgroupe.com/wp-content/uploads/2020/08/Client-logos_0030_170124_ClientLogos_16.png" group-title="Cine y Películas",HBO Latino ™
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/9293
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/330px-HBO_logo.svg.png" group-title="Cine y Películas",HBO Norte °
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png" group-title="Cine y Películas",HBO Norte °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278488.m3u8
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/330px-HBO_2_%282014%29.svg.png" group-title="Cine y Películas",HBO 2 Norte °
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" group-title="Cine y Películas",HBO 2 Norte °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278493.m3u8
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/330px-HBO_Family.svg.png" group-title="Cine y Películas",HBO Family Norte °
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png" group-title="Cine y Películas",HBO Family Norte °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278496.m3u8
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/330px-Logohboplus2019.svg.png" group-title="Cine y Películas",HBO Plus Norte °
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png" group-title="Cine y Películas",HBO Plus Norte °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278490.m3u8
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/330px-HBO_Pop.svg.png" group-title="Cine y Películas",HBO Pop Norte °
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png" group-title="Cine y Películas",HBO Pop Norte °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278503.m3u8
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/330px-HBO_Signature.svg.png" group-title="Cine y Películas",HBO Signature Norte °
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png" group-title="Cine y Películas",HBO Signature Norte °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278505.m3u8
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/330px-HBO_Xtreme.svg.png" group-title="Cine y Películas",HBO Xtreme Norte °
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png" group-title="Cine y Películas",HBO Xtreme Norte °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278508.m3u8
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/330px-HBO_Mundi.svg.png" group-title="Cine y Películas",HBO Mundi Norte °
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png" group-title="Cine y Películas",HBO Mundi Norte °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278500.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://marcasur.com/archivos/revista/notas/45ee4663b4c7fc571d08589befaabe05.jpg" group-title="Cine y Películas",HBO Chile ²
@@ -1743,28 +1743,28 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/8503
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://i.ido.bi/assets/post/2017/03/Screen-Shot-2017-03-03-at-21.20.38.png" group-title="Cine y Películas",HBO Movies ™
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7472
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/330px-HBO_logo.svg.png" group-title="Cine y Películas",HBO Sur ™
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png" group-title="Cine y Películas",HBO Sur ™
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7323
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/330px-HBO_2_%282014%29.svg.png" group-title="Cine y Películas",HBO 2 Sur ²
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" group-title="Cine y Películas",HBO 2 Sur ²
 http://201.230.137.204:8000/play/a0f5/index.m3u8
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/330px-HBO_Family.svg.png" group-title="Cine y Películas",HBO Family Sur ™
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png" group-title="Cine y Películas",HBO Family Sur ™
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7433
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/330px-Logohboplus2019.svg.png" group-title="Cine y Películas",HBO Plus Sur ™
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png" group-title="Cine y Películas",HBO Plus Sur ™
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7434
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/330px-HBO_Pop.svg.png" group-title="Cine y Películas",HBO Pop Sur 
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png" group-title="Cine y Películas",HBO Pop Sur 
 http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=9689&extension=ts
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/330px-HBO_Signature.svg.png" group-title="Cine y Películas",HBO Signature Sur 
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png" group-title="Cine y Películas",HBO Signature Sur 
 http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=9692&extension=ts
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/330px-HBO_Xtreme.svg.png" group-title="Cine y Películas",HBO Xtreme Sur ™
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png" group-title="Cine y Películas",HBO Xtreme Sur ™
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7437
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/330px-HBO_Mundi.svg.png" group-title="Cine y Películas",HBO Mundi Sur ™
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png" group-title="Cine y Películas",HBO Mundi Sur ™
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7436
 
 #EXTINF:-1 tvg-chno="598" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="Cine y Películas",Universal Channel
