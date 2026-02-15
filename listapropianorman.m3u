@@ -1626,25 +1626,25 @@ https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-chno="535" tvg-logo="https://la.sonyone.com/static/images/logos/sonyonelatam-logo.png" group-title="Cine y Películas",Sony One The Blacklist ¹
 https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="536" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/250px-Starz_2022.svg.png" group-title="Cine y Películas",Starz
+#EXTINF:-1 tvg-chno="536" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/03/starz-streaming-logo.png" group-title="Cine y Películas",Starz
 http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=120&extension=ts
 
-#EXTINF:-1 tvg-chno="536" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Starz_Encore_Espa%C3%B1ol_Logo_2022.svg/250px-Starz_Encore_Espa%C3%B1ol_Logo_2022.svg.png" group-title="Cine y Películas",Starz Encore
+#EXTINF:-1 tvg-chno="536" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/03/starz-streaming-logo.png" group-title="Cine y Películas",Starz Encore
 http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=121&extension=ts
 
-#EXTINF:-1 tvg-chno="537" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Starz_Encore_Action_Logo_2022.svg/250px-Starz_Encore_Action_Logo_2022.svg.png" group-title="Cine y Películas",Starz Action
+#EXTINF:-1 tvg-chno="537" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/03/starz-streaming-logo.png" group-title="Cine y Películas",Starz Action
 http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=122&extension=ts
 
-#EXTINF:-1 tvg-chno="538" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Starz_Encore_Black_Logo_2022.svg/250px-Starz_Encore_Black_Logo_2022.svg.png" group-title="Cine y Películas",Starz Encore Black
+#EXTINF:-1 tvg-chno="538" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/03/starz-streaming-logo.png" group-title="Cine y Películas",Starz Encore Black
 http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=123&extension=ts
 
-#EXTINF:-1 tvg-chno="539" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Starz_Encore_Family_Logo_2022.svg/250px-Starz_Encore_Family_Logo_2022.svg.png" group-title="Cine y Películas",Starz Family
+#EXTINF:-1 tvg-chno="539" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/03/starz-streaming-logo.png" group-title="Cine y Películas",Starz Family
 http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=125&extension=ts
 
-#EXTINF:-1 tvg-chno="540" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Starz_Encore_Suspense_Logo_2022.svg/250px-Starz_Encore_Suspense_Logo_2022.svg.png" group-title="Cine y Películas",Starz Suspense
+#EXTINF:-1 tvg-chno="540" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/03/starz-streaming-logo.png" group-title="Cine y Películas",Starz Suspense
 
 
-#EXTINF:-1 tvg-chno="541" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Starz_Encore_Westerns_Logo_2022.svg/250px-Starz_Encore_Westerns_Logo_2022.svg.png" group-title="Cine y Películas",Starz Westerns
+#EXTINF:-1 tvg-chno="541" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/03/starz-streaming-logo.png" group-title="Cine y Películas",Starz Westerns
 http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=124&extension=ts
 
 #EXTINF:-1 tvg-chno="565" tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/5-Star-Max-on-DISH.png" group-title="Cine y Películas",5 Star Max
@@ -1731,16 +1731,16 @@ http://181.128.145.103:4000/play/a02q/index.m3u8
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://e01-phantom-elmundo.uecdn.es/21e96d7e4c1124a7af7efff26ebcaa58/resize/828/f/webp/assets/multimedia/imagenes/2021/10/26/16352415827188.jpg" group-title="Cine y Películas",HBO Max
 http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=164941&extension=ts
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="Cine y Películas",HBO Comedia ™
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-oeste_m.png" group-title="Cine y Películas",HBO Comedia ™
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/8276
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://i.ido.bi/assets/post/2017/03/Screen-Shot-2017-03-03-at-21.20.38.png" group-title="Cine y Películas",HBO Drama ™
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-oeste_m.png" group-title="Cine y Películas",HBO Drama ™
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/8499
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Cine y Películas",HBO Hits ™
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-oeste_m.png" group-title="Cine y Películas",HBO Hits ™
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/8503
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://i.ido.bi/assets/post/2017/03/Screen-Shot-2017-03-03-at-21.20.38.png" group-title="Cine y Películas",HBO Movies ™
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-oeste_m.png" group-title="Cine y Películas",HBO Movies ™
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7472
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png" group-title="Cine y Películas",HBO Sur ™
