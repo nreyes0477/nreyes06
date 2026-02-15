@@ -1750,7 +1750,7 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7323
 http://201.230.137.204:8000/play/a0f5/index.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/330px-HBO_Family.svg.png" group-title="Cine y Películas",HBO Family Sur ™
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7326
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7433
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/330px-Logohboplus2019.svg.png" group-title="Cine y Películas",HBO Plus Sur ™
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7434
@@ -1761,8 +1761,8 @@ http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/330px-HBO_Signature.svg.png" group-title="Cine y Películas",HBO Signature Sur 
 http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=9692&extension=ts
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/330px-HBO_Xtreme.svg.png" group-title="Cine y Películas",HBO Xtreme Sur
-http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=9698&extension=ts
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/330px-HBO_Xtreme.svg.png" group-title="Cine y Películas",HBO Xtreme Sur ™
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7437
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/330px-HBO_Mundi.svg.png" group-title="Cine y Películas",HBO Mundi Sur ™
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7436
