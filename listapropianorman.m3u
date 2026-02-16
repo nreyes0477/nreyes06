@@ -1656,6 +1656,9 @@ http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=
 #EXTINF:-1 tvg-chno="565" tvg-logo="https://wtcks.com/images/channels/logos/moremax.png" group-title="Cine y Películas",Moremax
 http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=107&extension=ts
 
+#EXTINF:-1 tvg-chno="565" tvg-logo="https://us.https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Cine y Películas",Cinemax 
+http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=99&extension=ts
+
 #EXTINF:-1 tvg-chno="565" tvg-logo="https://mediahint.com/support/wp-content/uploads/2014/12/showtime.jpg" group-title="Cine y Películas",Showtime 1
 http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=115&extension=ts
 
@@ -1673,9 +1676,6 @@ http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=
 
 #EXTINF:-1 tvg-chno="565" tvg-logo="https://wtcks.com/images/channels/logos/ZlWJXSPb7gXV4HmE.png" group-title="Cine y Películas",Showtime Showcase
 http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=118&extension=ts
-
-#EXTINF:-1 tvg-chno="565" tvg-logo="https://us.123rf.com/450wm/inkdrop/inkdrop1801/inkdrop180105651/94147266-cinema-word-made-from-red-vintage-lightbulb-lettering-isolated-on-a-white-3d-rendering.jpg?ver=6" group-title="Cine y Películas",Canal Cine 1
-http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=99&extension=ts
 
 #EXTINF:-1 tvg-chno="570" tvg-logo="https://rubik-audiovisual.com/wp-content/uploads/2024/02/NETFLIX-725x353-1.jpg" group-title="Cine y Películas",Cine Netflix 1 °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/168559.m3u8
