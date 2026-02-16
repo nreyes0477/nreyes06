@@ -1677,12 +1677,6 @@ http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=
 #EXTINF:-1 tvg-chno="565" tvg-logo="https://us.123rf.com/450wm/inkdrop/inkdrop1801/inkdrop180105651/94147266-cinema-word-made-from-red-vintage-lightbulb-lettering-isolated-on-a-white-3d-rendering.jpg?ver=6" group-title="Cine y Películas",Canal Cine 1
 http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=99&extension=ts
 
-#EXTINF:-1 tvg-chno="565" tvg-logo="https://us.123rf.com/450wm/inkdrop/inkdrop1801/inkdrop180105651/94147266-cinema-word-made-from-red-vintage-lightbulb-lettering-isolated-on-a-white-3d-rendering.jpg?ver=6" group-title="Cine y Películas",Canal Cine 2
-http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=100&extension=ts
-
-#EXTINF:-1 tvg-chno="565" tvg-logo="https://us.123rf.com/450wm/inkdrop/inkdrop1801/inkdrop180105651/94147266-cinema-word-made-from-red-vintage-lightbulb-lettering-isolated-on-a-white-3d-rendering.jpg?ver=6" group-title="Cine y Películas",Canal Cine 3
-http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=106&extension=ts
-
 #EXTINF:-1 tvg-chno="570" tvg-logo="https://rubik-audiovisual.com/wp-content/uploads/2024/02/NETFLIX-725x353-1.jpg" group-title="Cine y Películas",Cine Netflix 1 °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/168559.m3u8
 
@@ -1691,12 +1685,6 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/168560.m3u8
 
 #EXTINF:-1 tvg-chno="570" tvg-logo="https://rubik-audiovisual.com/wp-content/uploads/2024/02/NETFLIX-725x353-1.jpg" group-title="Cine y Películas",Cine Netflix 3 °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/168562.m3u8
-
-#EXTINF:-1 tvg-chno="570" tvg-logo="https://rubik-audiovisual.com/wp-content/uploads/2024/02/NETFLIX-725x353-1.jpg" group-title="Cine y Películas",Cine Netflix 4 °
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/168566.m3u8
-
-#EXTINF:-1 tvg-chno="570" tvg-logo="https://rubik-audiovisual.com/wp-content/uploads/2024/02/NETFLIX-725x353-1.jpg" group-title="Cine y Películas",Cine Netflix 5 °
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/168568.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://methodgroupe.com/wp-content/uploads/2020/08/Client-logos_0030_170124_ClientLogos_16.png" group-title="Cine y Películas",HBO Latino ™
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/9293
@@ -1743,17 +1731,17 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/8503
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-oeste_m.png" group-title="Cine y Películas",HBO Movies ™
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7472
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png" group-title="Cine y Películas",HBO Sur ™
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7323
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png" group-title="Cine y Películas",HBO Sur
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=9668&extension=ts
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" group-title="Cine y Películas",HBO 2 Sur ²
 http://201.230.137.204:8000/play/a0f5/index.m3u8
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png" group-title="Cine y Películas",HBO Family Sur ™
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7433
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png" group-title="Cine y Películas",HBO Family Sur
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=9679&extension=ts
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png" group-title="Cine y Películas",HBO Plus Sur ™
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7434
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png" group-title="Cine y Películas",HBO Plus Sur
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=9685&extension=ts
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png" group-title="Cine y Películas",HBO Pop Sur 
 http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=9689&extension=ts
@@ -1761,11 +1749,11 @@ http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png" group-title="Cine y Películas",HBO Signature Sur 
 http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=9692&extension=ts
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png" group-title="Cine y Películas",HBO Xtreme Sur ™
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7437
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png" group-title="Cine y Películas",HBO Xtreme Sur
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=9698&extension=ts
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png" group-title="Cine y Películas",HBO Mundi Sur ™
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7436
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png" group-title="Cine y Películas",HBO Mundi Sur
+http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=9683&extension=ts
 
 #EXTINF:-1 tvg-chno="598" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="Cine y Películas",Universal Channel
 http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=9755&extension=ts
