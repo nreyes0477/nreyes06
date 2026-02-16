@@ -15,8 +15,8 @@ https://d2qsan2ut81n2k.cloudfront.net/live/5b4b1702-52f9-4e48-a4c7-79ca7f34ece6/
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="Nacionales",Canal 6 Repretel ¹ 🇨🇷
 https://d2qsan2ut81n2k.cloudfront.net/live/02f0dc35-8fd4-4021-8fa0-96c277f62653/ts:abr.m3u8
 
-#EXTINF:-1 tvg-chno="7" tvg-logo="https://i.imgur.com/ctnvE3c.png" group-title="Nacionales",Canal 7 Teletica 🇨🇷 *
-http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=46826&extension=ts
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://i.imgur.com/ctnvE3c.png" group-title="Nacionales",Canal 7 Teletica ᵇᵘ 🇨🇷
+http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/279379.m3u8
 
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://observador.cr/wp-content/uploads/2020/04/87390081_2470570269875494_1434326408926068736_o.jpg" group-title="Nacionales",Canal 8 MM ¹ 🇨🇷
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=kjfAAbMewgMzTCS7NRHf9jMUXpc4lCdA&sid=te9kkgIMwezRv6aHOE5aflXH8Uh2By8b&pid=HLlSfMeLGYuW2jdypUkYazBffnODUhiv&pid_dvr=cSRmQvkAxMVoU0gRCyuUQyThCbIwhwGz&an=screen&at=web-app&av=v6.0.240&ref=https%3A%2F%2Famp-telediario-cr.cdn.ampproject.org%2Fv%2Fs%2Famp.telediario.cr%2Ftelevision%2Fpage%2F803%3Famp_gsa%3D1%26amp_js_v%3Da9%26usqp%3Dmq331AQIUAKwASCAAgM%253D&res=375x250&without_cookies=false&listenerid=&dnt=true&CMCD=cid%3D%225a7b1e63a8da282c34d65445%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22HLlSfMeLGYuW2jdypUkYazBffnODUhiv%22%2Csu
@@ -34,7 +34,7 @@ https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamTRadio/bbcfd43fb9a
 http://45.163.139.42:8000/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-chno="14" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Trivisio%CC%81n-Canal-36-en-vivo-Online.png" group-title="Nacionales",Canal 36 Trivisión 🇨🇷
-http://kstv.us:8080/streaming/clients_live.php?username=Turneradt&password=7962015639&stream=46766&extension=ts
+http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=46766&extension=ts
 
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://image.roku.com/developer_channels/prod/15028c316a76bcd9408f730b04579257af5273595c5049db126ba4540b81a936.png" group-title="Nacionales",Canal 38 ¡Opa! ¹ 🇨🇷
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
