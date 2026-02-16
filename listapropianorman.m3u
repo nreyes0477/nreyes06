@@ -1656,7 +1656,7 @@ http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=
 #EXTINF:-1 tvg-chno="565" tvg-logo="https://wtcks.com/images/channels/logos/moremax.png" group-title="Cine y Películas",Moremax
 http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=107&extension=ts
 
-#EXTINF:-1 tvg-chno="565" tvg-logo="https://us.https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Cine y Películas",Cinemax 
+#EXTINF:-1 tvg-chno="565" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Cine y Películas",Cinemax 
 http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=99&extension=ts
 
 #EXTINF:-1 tvg-chno="565" tvg-logo="https://mediahint.com/support/wp-content/uploads/2014/12/showtime.jpg" group-title="Cine y Películas",Showtime 1
