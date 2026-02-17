@@ -1350,8 +1350,8 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 #EXTINF:-1 tvg-chno="396" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Vivetv.png/500px-Vivetv.png" group-title="Venezuela",Canal Vive ² 🇻🇪 
 http://38.41.8.1:8000/play/a03j
 
-#EXTINF:-1 tvg-chno="397" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Ve-Plus-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Venezuela",Venevisión Plus 🇻🇪
-http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=13023&extension=ts
+#EXTINF:-1 tvg-chno="397" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Ve-Plus-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Venezuela",Venevisión Plus ² 🇻🇪
+http://190.61.114.186:8000/play/a03i/index.m3u8
 
 #EXTINF:-1 tvg-chno="398" tvg-logo="https://www.newslinereport.com/online/foto_120.jpg" group-title="Venezuela",Venevisión Internacional ¹ 🇻🇪
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/1160000.m3u8
@@ -1951,7 +1951,7 @@ http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278768.m3u8
 
 #EXTINF:-1 tvg-chno="654" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="Deportes",TUDN México ² 🇲🇽
-http://45.171.64.30:8800/play/a07e
+http://190.61.114.186:8000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-chno="655" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="Deportes",TUDN USA 🇺🇸
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7754
