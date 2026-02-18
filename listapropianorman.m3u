@@ -1919,7 +1919,7 @@ http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47103&extension=ts
 
 #EXTINF:-1 tvg-chno="630" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png" group-title="Deportes",ESPN Premium 🇦🇷 (1) ²
-http://189.50.210.3:8008/play/a07q/index.m3u8
+http://189.50.210.3:8008/play/a04l/index.m3u8
 
 #EXTINF:-1 tvg-chno="631" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Chile 🇨🇱
 http://www.1play.cool:25461/live/2132580232/27be478b47/170409.m3u8
