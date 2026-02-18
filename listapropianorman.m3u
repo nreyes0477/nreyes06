@@ -1897,7 +1897,7 @@ http://200.58.64.244:9000/play/a00i/index.m3u8
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47105&extension=ts
 
 #EXTINF:-1 tvg-chno="618" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="Deportes",TUDN USA 🇺🇸
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7754
+http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47140&extension=ts
 
 #EXTINF:-1 tvg-chno="618" tvg-logo="https://iili.io/J2wureR.png" group-title="Deportes",Zona TUDN USA 🇺🇸
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7763
@@ -1981,11 +1981,11 @@ http://189.50.210.3:8008/play/a04c/index.m3u8
 #EXTINF:-1 tvg-chno="647" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png" group-title="Deportes",ESPN 7 Sur América ²
 http://189.50.210.3:8008/play/a05v/index.m3u8
 
-#EXTINF:-1 tvg-chno="665" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports (1) ² 🇦🇷
-http://200.115.120.1:8000/play/ca040/index.m3u8
+#EXTINF:-1 tvg-chno="665" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports (1) 🇦🇷
+http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47092&extension=ts
 
 #EXTINF:-1 tvg-chno="665" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports (2) 🇦🇷
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/616.m3u8
+http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47096&extension=ts
 
 #EXTINF:-1 tvg-chno="666" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports 2 🇦🇷
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47095&extension=ts
@@ -2037,6 +2037,10 @@ http://172.93.102.112:8989/278843_.m3u8
 
 #EXTINF:-1 tvg-chno="669" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_deportes-mediano.png" group-title="Deportes",Deportes por Movistar + 🇪🇸
 http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/1779.ts
+
+#EXTINF:-1 tvg-chno="670" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70wi1n1692441317.png" group-title="Deportes",Gol Play 🇪🇸
+http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47136&extension=ts
+
 
 #EXTINF:-1 tvg-chno="680" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_mobile_ORIGINAL.png" group-title="Deportes",ECDF 🇪🇨
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/9319
