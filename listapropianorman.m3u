@@ -1963,6 +1963,9 @@ http://189.50.210.3:8008/play/a038/index.m3u8
 #EXTINF:-1 tvg-chno="641" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Chile ² 🇨🇱
 http://189.50.210.3:8008/play/a04h/index.m3u8
 
+#EXTINF:-1 tvg-chno="641" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 Chile ² 🇨🇱
+http://189.50.210.3:8008/play/a04e/index.m3u8
+
 #EXTINF:-1 tvg-chno="641" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Colombia ² 🇨🇴 
 http://38.41.8.1:8000/play/a06r
 
@@ -1970,7 +1973,7 @@ http://38.41.8.1:8000/play/a06r
 http://189.50.210.3:8008/play/a033/index.m3u8
 
 #EXTINF:-1 tvg-chno="642" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 Sur América ²
-http://38.44.109.41:8003/play/a00v/index.m3u8
+http://189.50.210.3:8008/play/a07d/index.m3u8
 
 #EXTINF:-1 tvg-chno="643" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN 3 Sur América ²
 http://45.184.87.142:8000/play/a04b
