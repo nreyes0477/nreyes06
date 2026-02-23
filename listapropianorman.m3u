@@ -768,14 +768,14 @@ http://go.iptvhn.net:25461/live/7789/7789/13336.m3u8
 #EXTINF:-1 tvg-chno="110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="Infantiles",Tooncast
 http://go.iptvhn.net:25461/live/7789/7789/13308.m3u8
 
-#EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina",Telefe ™ 🇦🇷
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7630
+#EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina",Telefe 🇦🇷
+http://domestipo1.online:80/live/ser682mun/5w49evr21/712715.m3u8
 
 #EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="Argentina",El Trece ° 🇦🇷
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278760.m3u8
 
 #EXTINF:-1 tvg-chno="202" tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2023/02/Mi-8-alta-06.png" group-title="Argentina",13Max TV (Telefe) ¹ 🇦🇷
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w591180067.m3u8
+https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="203" tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg" group-title="Argentina",El Nueve ² 🇦🇷
 http://190.104.67.230:234/play/a08k/index.m3u8
