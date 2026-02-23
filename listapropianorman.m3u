@@ -1,16 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC Fight Night (1) ¹
-https://mze7u.envivoslatam.org/paramount1/tracks-v1a1/mono.m3u8?ip=186.64.132.238&token=41cb72fbf3374624f08e4c6c8f20eac79d85452a-21-1771769037-1771715037
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC Fight Night (2)
-http://domestipo1.online:80/live/ser682mun/5w49evr21/748584.m3u8
-
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC Fight Night (3)
-http://domestipo1.online:80/live/ser682mun/5w49evr21/748398.m3u8
-
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC Fight Night (4) ¹
-https://ssout.marsrivagg.click/paramount4/tracks-v1a1/mono.m3u8?ip=186.64.132.238&token=4f10dc0186f577a7346fb1d5a7ff9b7e27110e0e-ca-1
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://canal1cr.com/wp-content/uploads/2023/02/logo-canal-1-png.png" group-title="Nacionales",Canal 1 CR ¹ 🇨🇷
 https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
