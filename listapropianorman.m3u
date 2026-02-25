@@ -768,8 +768,11 @@ http://go.iptvhn.net:25461/live/7789/7789/13336.m3u8
 #EXTINF:-1 tvg-chno="110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="Infantiles",Tooncast
 http://go.iptvhn.net:25461/live/7789/7789/13308.m3u8
 
-#EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina",Telefe 🇦🇷 
+#EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina",Telefe  ¹ 🇦🇷 
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina",Telefe ¹ 🇦🇷 
+https://cdn-cirion01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="Argentina",El Trece ° 🇦🇷
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278760.m3u8
