@@ -768,8 +768,8 @@ http://go.iptvhn.net:25461/live/7789/7789/13336.m3u8
 #EXTINF:-1 tvg-chno="110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="Infantiles",Tooncast
 http://go.iptvhn.net:25461/live/7789/7789/13308.m3u8
 
-#EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina",Telefe ¹ 🇦🇷 
-http://107.152.39.199:8030/hls/canal13.m3u8
+#EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina",Telefe 🇦🇷 
+http://domestipo1.online:80/live/ser682mun/5w49evr21/712714.m3u8
 
 #EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina",Telefe Rosario ¹ 🇦🇷 
 https://cdn-cirion01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
@@ -807,8 +807,8 @@ https://panel.host-live.com:19360/8250/8250.m3u8
 #EXTINF:-1 tvg-chno="210" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png" group-title="Argentina",Telefe Internacional (Pluto) ¹ 🇦🇷
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/613237a1c9e0db0007a91350/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=b928fc63-5373-dbd5-be6e-d30c87e8b781&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1 tvg-chno="210" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png" group-title="Argentina",Telefe Internacional 🇦🇷
-http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/278774.m3u8
+#EXTINF:-1 tvg-chno="210" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png" group-title="Argentina",Telefe Internacional ¹ 🇦🇷
+http://107.152.39.199:8030/hls/canal13.m3u8
 
 #EXTINF:-1 tvg-chno="211" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png" group-title="Argentina",El Trece Internacional 🇦🇷
 http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password=XHBR21BVCB&stream=4904&extension=ts
