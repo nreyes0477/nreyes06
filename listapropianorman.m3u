@@ -586,13 +586,13 @@ https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://ipuntotv.com/IMAGES/TNT-Novelas-logo-nuevo.jpg" group-title="24/7 Novelas",TNT Novelas ² 🇲🇽 
-http://148.222.225.136:8004/play/a0bk/index.m3u8
+http://190.61.114.186:8000/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="24/7 Novelas",TLN Univisión ² 🇺🇸
 http://200.58.64.244:9000/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXjJn9sSNrZSuqtwTm5DGor-M4uLoIrwfjh7yn22xVG9bl4mJw1rK2gY-wehuSSirTbgN6uEQHdFUn1Giq__TPYaj1USXHSmowkGcq89eGeW14s0uj3VjYje6egHRB5B0NVTB_bwwDg6TxRYv0NjxOEwDUwCbf5nRVcmZV6qN4NJd-J83LOFM-zvuI/w200-h151/RCN_Novelas_logo_2019.png" group-title="24/7 Novelas",TLnovelas (1) ² 🇲🇽 
-http://190.11.225.124:5000/live/tlnovelas/playlist.m3u8
+http://190.61.114.186:8000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXjJn9sSNrZSuqtwTm5DGor-M4uLoIrwfjh7yn22xVG9bl4mJw1rK2gY-wehuSSirTbgN6uEQHdFUn1Giq__TPYaj1USXHSmowkGcq89eGeW14s0uj3VjYje6egHRB5B0NVTB_bwwDg6TxRYv0NjxOEwDUwCbf5nRVcmZV6qN4NJd-J83LOFM-zvuI/w200-h151/RCN_Novelas_logo_2019.png" group-title="24/7 Novelas",TLnovelas (2) ² 🇲🇽 
 http://190.116.65.158:8000/play/a0b9/index.m3u8
@@ -606,14 +606,14 @@ https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://www.stormcastcinema.com/images/novelas.png" group-title="24/7 Novelas",Stormcast Novelas ¹ 🇪🇸
 https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="100" tvg-logo="https://cdn.mitvstatic.com/channels/ar_pasiones_m.png" group-title="24/7 Novelas",Pasiones 🇺🇸
-http://go.iptvhn.net:25461/live/7789/7789/13258.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://cdn.mitvstatic.com/channels/ar_pasiones_m.png" group-title="24/7 Novelas",Pasiones ² 🇺🇸
+http://45.171.64.30:8800/play/a05c
 
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://1.bp.blogspot.com/-jslL1CIeqqk/YaVCAmvGxvI/AAAAAAAADDo/wPaGYipC7Eo_6NVRuL0XESV1lzjq6xhLgCLcBGAsYHQ/s16000/rcnmas.jpg" group-title="24/7 Novelas",RCN Más + ¹ 🇨🇴
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="100" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXjJn9sSNrZSuqtwTm5DGor-M4uLoIrwfjh7yn22xVG9bl4mJw1rK2gY-wehuSSirTbgN6uEQHdFUn1Giq__TPYaj1USXHSmowkGcq89eGeW14s0uj3VjYje6egHRB5B0NVTB_bwwDg6TxRYv0NjxOEwDUwCbf5nRVcmZV6qN4NJd-J83LOFM-zvuI/w200-h151/RCN_Novelas_logo_2019.png" group-title="24/7 Novelas",RCN Novelas 🇨🇴
-http://go.iptvhn.net:25461/live/7789/7789/13261.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXjJn9sSNrZSuqtwTm5DGor-M4uLoIrwfjh7yn22xVG9bl4mJw1rK2gY-wehuSSirTbgN6uEQHdFUn1Giq__TPYaj1USXHSmowkGcq89eGeW14s0uj3VjYje6egHRB5B0NVTB_bwwDg6TxRYv0NjxOEwDUwCbf5nRVcmZV6qN4NJd-J83LOFM-zvuI/w200-h151/RCN_Novelas_logo_2019.png" group-title="24/7 Novelas",RCN Novelas ² 🇨🇴
+http://45.171.64.30:8800/play/a08d
 
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://i4.hurimg.com/i/hurriyet/75/600x338/5dbd043ed3806c1dec53824d.jpg" group-title="24/7 Novelas",Kanal Drama ¹ 🇹🇷
 https://amg01602-amg01602c2-canelatv-international-5561.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-themavivekanalddrama-canelatvinternational/playlist.m3u8?rights_holder_id=vive-kanal-d-drama&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=0e5adb91-3380-43f4-afa6-574df288f505&url=https://www.canela.tv/player/channel/vive-kanal-d-drama&us_privacy=null_us_privacy&coppa=0&ifa_type=NA&lmt=NA&device_language=es
@@ -843,8 +843,8 @@ http://170.239.207.48:4050/play/CH64
 #EXTINF:-1 tvg-chno="231" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png" group-title="Chile",TVN ² 🇨🇱
 http://190.60.37.118:4000/play/a00j
 
-#EXTINF:-1 tvg-chno="231" tvg-logo="https://www.tvn.cl/tvn/site/artic/20230420/imag/foto_0000000320230420120624/logotvchile.png" group-title="Chile",TV Chile 🇨🇱
-http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password=XHBR21BVCB&stream=151673&extension=ts
+#EXTINF:-1 tvg-chno="231" tvg-logo="https://www.tvn.cl/tvn/site/artic/20230420/imag/foto_0000000320230420120624/logotvchile.png" group-title="Chile",TV Chile ² 🇨🇱
+http://45.171.64.30:8800/play/a00c
 
 #EXTINF:-1 tvg-chno="232" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png" group-title="Chile",Canal 13 ² 🇨🇱
 http://38.250.127.17:9800/play/a067/index.m3u8
@@ -945,8 +945,8 @@ https://stream.giostreaming.app:19360/canal11/canal11.m3u8
 #EXTINF:-1 tvg-chno="262" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CANAL_12_2023_VA_CON_VOS.png/500px-CANAL_12_2023_VA_CON_VOS.png" group-title="El Salvador",Canal 12 ¹ 🇸🇻
 https://alba-sv-c12-c12.stream.mediatiquestream.com:443/original.m3u8
 
-#EXTINF:-1 tvg-chno="262" tvg-logo="https://alianzafc.com.sv/wp-content/uploads/2023/04/ColorLogoTCS.png" group-title="El Salvador",TCS + ¹ 🇸🇻
-https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
+#EXTINF:-1 tvg-chno="262" tvg-logo="https://alianzafc.com.sv/wp-content/uploads/2023/04/ColorLogoTCS.png" group-title="El Salvador",TCS + ² 🇸🇻
+http://190.61.114.186:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-chno="263" tvg-logo="https://logos.streamsites.eu/2756_tve-en-directo-la-1_overview.png" group-title="España",La 1 ¹ 🇪🇸
 https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr_720.m3u8
@@ -2131,8 +2131,8 @@ https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-chno="695" tvg-logo="https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/128579b4-6ac2-11ed-8535-d36612803c67.png" group-title="Deportes",Wapa Deportes ° 🇵🇷
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278885.m3u8
 
-#EXTINF:-1 tvg-chno="695" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/latin-american-sports-tv.png" group-title="Deportes",Latin American Sports (LAS) 🇲🇽
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/120.m3u8
+#EXTINF:-1 tvg-chno="695" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/latin-american-sports-tv.png" group-title="Deportes",Latin American Sports (LAS) ² 🇲🇽
+http://45.171.64.30:8800/play/a027
 
 #EXTINF:-1 tvg-chno="696" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adrenalina_sports_network-mediano.png" group-title="Deportes",Adrenalina Sports 🇲🇽
 http://domestipo1.online:80/live/ser682mun/5w49evr21/122517.m3u8
