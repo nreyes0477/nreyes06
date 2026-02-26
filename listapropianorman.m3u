@@ -267,8 +267,8 @@ http://www.1play.cool:25461/live/2132580232/27be478b47/147296.m3u8
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png" group-title="Noticias",TN Noticias ² 🇦🇷
 http://181.13.112.203:8100/play/a058/index.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/588px-Canal_26_logo_%282022%29.svg.png" group-title="Noticias",Canal 26 ° 🇦🇷
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278781.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/588px-Canal_26_logo_%282022%29.svg.png" group-title="Noticias",Canal 26 ¹ 🇦🇷
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://assets.iproup.com/assets/jpg/2021/04/17689.jpg" group-title="Noticias",Crónica TV ¹ 🇦🇷
 https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
@@ -783,8 +783,8 @@ https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
 #EXTINF:-1 tvg-chno="203" tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg" group-title="Argentina",El Nueve ¹ 🇦🇷
 http://107.152.39.199:8030/hls/canal7.m3u8
 
-#EXTINF:-1 tvg-chno="204" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="Argentina",TV Pública 🇦🇷
-http://www.1play.cool:25461/live/2132580232/27be478b47/30463.m3u8
+#EXTINF:-1 tvg-chno="204" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="Argentina",TV Pública ¹ 🇦🇷
+https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="205" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG" group-title="Argentina",América TV ¹ 🇦🇷
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -800,6 +800,9 @@ https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="207" tvg-logo="https://tavilatam.com/wp-content/uploads/2024/02/TAVI_Caras-TV.png" group-title="Argentina",Caras TV ¹ 🇦🇷
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="207" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="Argentina",Telemax ¹ 🇦🇷
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
 #EXTINF:-1 tvg-chno="208" tvg-logo="https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-BLANCA-300x99.png" group-title="Argentina",Multivisión ¹ 🇦🇷
 https://panel.host-live.com:19360/8250/8250.m3u8
