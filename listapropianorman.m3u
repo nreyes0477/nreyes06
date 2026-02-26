@@ -2356,25 +2356,46 @@ https://26b638b2564d41f8b6a36b6dd59e8d4f.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-chno="799" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/trailertv.png" group-title="Cine Latinos",Tráilers TV 🇪🇸
 https://bit.ly/3WChqoj?ESBC1700004PX.m3u8
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.laopinion.co/sites/default/files/styles/portada_principal_mobile_376x211/public/2025-09/LCDLF-3.jpg?itok=wD9eFKBG" group-title="Reality",LCDLF 3 (Principal) 🇨🇴
+#EXTINF:-1 tvg-chno="800" tvg-logo="https://deadline.com/wp-content/uploads/2026/02/la-casa-de-los-famosos-season-6-2026-telemundo-cast-photos.jpg?w=681&h=383&crop=1" group-title="Reality",LCDLF 6 USA (24/7 - 1) 🇺🇸
+http://domestipo1.online:80/live/ser682mun/5w49evr21/747415.m3u8
+
+#EXTINF:-1 tvg-chno="800" tvg-logo="https://deadline.com/wp-content/uploads/2026/02/la-casa-de-los-famosos-season-6-2026-telemundo-cast-photos.jpg?w=681&h=383&crop=1" group-title="Reality",LCDLF 6 USA (24/7 - 2) 🇺🇸
+http://domestipo1.online:80/live/ser682mun/5w49evr21/747416.m3u8
+
+#EXTINF:-1 tvg-chno="800" tvg-logo="https://media.a24.com/p/6241bf1dc020e133bf8677878c5f1f40/adjuntos/296/imagenes/009/671/0009671653/533x300/smart/gran-hermano-generacion-dorada.jpg" group-title="Reality",Gran Hermano AR (Multi) 🇦🇷
+http://domestipo1.online:80/live/ser682mun/5w49evr21/749371.m3u8
+
+#EXTINF:-1 tvg-chno="800" tvg-logo="https://media.a24.com/p/6241bf1dc020e133bf8677878c5f1f40/adjuntos/296/imagenes/009/671/0009671653/533x300/smart/gran-hermano-generacion-dorada.jpg" group-title="Reality",Gran Hermano AR (24/7) 🇦🇷
+http://domestipo1.online:80/live/ser682mun/5w49evr21/749367.m3u8
+
+#EXTINF:-1 tvg-chno="800" tvg-logo="https://media.a24.com/p/6241bf1dc020e133bf8677878c5f1f40/adjuntos/296/imagenes/009/671/0009671653/533x300/smart/gran-hermano-generacion-dorada.jpg" group-title="Reality",Gran Hermano AR (Cam1) 🇦🇷
+http://domestipo1.online:80/live/ser682mun/5w49evr21/749368.m3u8
+
+#EXTINF:-1 tvg-chno="800" tvg-logo="https://media.a24.com/p/6241bf1dc020e133bf8677878c5f1f40/adjuntos/296/imagenes/009/671/0009671653/533x300/smart/gran-hermano-generacion-dorada.jpg" group-title="Reality",Gran Hermano AR (Cam2) 🇦🇷
+http://domestipo1.online:80/live/ser682mun/5w49evr21/749369.m3u8
+
+#EXTINF:-1 tvg-chno="800" tvg-logo="https://media.a24.com/p/6241bf1dc020e133bf8677878c5f1f40/adjuntos/296/imagenes/009/671/0009671653/533x300/smart/gran-hermano-generacion-dorada.jpg" group-title="Reality",Gran Hermano AR (Cam3) 🇦🇷
+http://domestipo1.online:80/live/ser682mun/5w49evr21/749370.m3u8
+
+#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.laopinion.co/sites/default/files/styles/portada_principal_mobile_376x211/public/2025-09/LCDLF-3.jpg?itok=wD9eFKBG" group-title="Reality",LCDLF 3 CO (Principal) 🇨🇴
 http://domestipo1.online:80/live/ser682mun/5w49evr21/736727.m3u8
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.laopinion.co/sites/default/files/styles/portada_principal_mobile_376x211/public/2025-09/LCDLF-3.jpg?itok=wD9eFKBG" group-title="Reality",LCDLF 3 (Sala) 🇨🇴
+#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.laopinion.co/sites/default/files/styles/portada_principal_mobile_376x211/public/2025-09/LCDLF-3.jpg?itok=wD9eFKBG" group-title="Reality",LCDLF 3 CO (Sala) 🇨🇴
 http://domestipo1.online:80/live/ser682mun/5w49evr21/736728.m3u8
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.laopinion.co/sites/default/files/styles/portada_principal_mobile_376x211/public/2025-09/LCDLF-3.jpg?itok=wD9eFKBG" group-title="Reality",LCDLF 3 (Comedor) 🇨🇴
+#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.laopinion.co/sites/default/files/styles/portada_principal_mobile_376x211/public/2025-09/LCDLF-3.jpg?itok=wD9eFKBG" group-title="Reality",LCDLF 3 CO (Comedor) 🇨🇴
 http://domestipo1.online:80/live/ser682mun/5w49evr21/736729.m3u8
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.laopinion.co/sites/default/files/styles/portada_principal_mobile_376x211/public/2025-09/LCDLF-3.jpg?itok=wD9eFKBG" group-title="Reality",LCDLF 3 (Beauty) 🇨🇴
+#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.laopinion.co/sites/default/files/styles/portada_principal_mobile_376x211/public/2025-09/LCDLF-3.jpg?itok=wD9eFKBG" group-title="Reality",LCDLF 3 CO (Beauty) 🇨🇴
 http://domestipo1.online:80/live/ser682mun/5w49evr21/736732.m3u8
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.laopinion.co/sites/default/files/styles/portada_principal_mobile_376x211/public/2025-09/LCDLF-3.jpg?itok=wD9eFKBG" group-title="Reality",LCDLF 3 (Hab. Calma) 🇨🇴
+#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.laopinion.co/sites/default/files/styles/portada_principal_mobile_376x211/public/2025-09/LCDLF-3.jpg?itok=wD9eFKBG" group-title="Reality",LCDLF 3 CO (Hab. Calma) 🇨🇴
 http://domestipo1.online:80/live/ser682mun/5w49evr21/736730.m3u8
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.laopinion.co/sites/default/files/styles/portada_principal_mobile_376x211/public/2025-09/LCDLF-3.jpg?itok=wD9eFKBG" group-title="Reality",LCDLF 3 (Hab. Tormenta) 🇨🇴
+#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.laopinion.co/sites/default/files/styles/portada_principal_mobile_376x211/public/2025-09/LCDLF-3.jpg?itok=wD9eFKBG" group-title="Reality",LCDLF 3 CO (Hab. Tormenta) 🇨🇴
 http://domestipo1.online:80/live/ser682mun/5w49evr21/736731.m3u8
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.laopinion.co/sites/default/files/styles/portada_principal_mobile_376x211/public/2025-09/LCDLF-3.jpg?itok=wD9eFKBG" group-title="Reality",LCDLF 3 (Baños) 🇨🇴
+#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.laopinion.co/sites/default/files/styles/portada_principal_mobile_376x211/public/2025-09/LCDLF-3.jpg?itok=wD9eFKBG" group-title="Reality",LCDLF 3 CO (Baños) 🇨🇴
 http://domestipo1.online:80/live/ser682mun/5w49evr21/736733.m3u8
 
 #EXTINF:-1 tvg-chno="800" tvg-logo="https://periodicocorreo.com.mx/core/correo/assets/images/2026/01/19/middle-g-bwnplxcaan42l-Xe3FRAPQV.jpg" group-title="Reality",Apostarias por Mí (Villa) 🇺🇸
@@ -2401,16 +2422,10 @@ http://domestipo1.online:80/live/ser682mun/5w49evr21/738703.m3u8
 #EXTINF:-1 tvg-chno="800" tvg-logo="https://periodicocorreo.com.mx/core/correo/assets/images/2026/01/19/middle-g-bwnplxcaan42l-Xe3FRAPQV.jpg" group-title="Reality",Apostarias por Mí (Multicámaras) 🇺🇸
 http://domestipo1.online:80/live/ser682mun/5w49evr21/738706.m3u8
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://deadline.com/wp-content/uploads/2026/02/la-casa-de-los-famosos-season-6-2026-telemundo-cast-photos.jpg?w=681&h=383&crop=1" group-title="Reality",LCDLF 6 USA (24/7 - 1) 🇺🇸
-http://domestipo1.online:80/live/ser682mun/5w49evr21/747415.m3u8
-
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://deadline.com/wp-content/uploads/2026/02/la-casa-de-los-famosos-season-6-2026-telemundo-cast-photos.jpg?w=681&h=383&crop=1" group-title="Reality",LCDLF 6 USA (24/7 - 2) 🇺🇸
-http://domestipo1.online:80/live/ser682mun/5w49evr21/747416.m3u8
-
 #EXTINF:-1 tvg-chno="800" tvg-logo="https://images2-mega.cdn.mdstrm.com/mega/2025/08/26/0_7_68ae1220d76d6.jpg?d=500x282" group-title="Reality",El Internado 🇨🇱
 http://domestipo1.online:80/live/ser682mun/5w49evr21/719805.m3u8
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://content25.lecturas.com/medio/2024/01/10/gh-duo_75c32c4d_240110124853_1280x720.jpg" group-title="Reality",Gran Hermano 🇪🇸
+#EXTINF:-1 tvg-chno="800" tvg-logo="https://content25.lecturas.com/medio/2024/01/10/gh-duo_75c32c4d_240110124853_1280x720.jpg" group-title="Reality",Gran Hermano ESP 🇪🇸
 http://domestipo1.online:80/live/ser682mun/5w49evr21/724882.m3u8
 
 #EXTINF:-1 tvg-chno="900" tvg-logo="https://cdn.instant.audio/images/logos/radios-co-cr/radio-monumental.png" group-title="Radios",Radio Monumental 📻 (Solo Audio)
