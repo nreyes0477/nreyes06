@@ -777,8 +777,8 @@ https://cdn-cirion01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
 #EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="Argentina",El Trece ° 🇦🇷
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278760.m3u8
 
-#EXTINF:-1 tvg-chno="202" tvg-logo="https://media.losandes.com.ar/p/22dbc38762532030f1e36d7871f52ad8/adjuntos/368/imagenes/100/069/0100069417/1000x0/smart/por-que-no-se-pudo-ver-el-canal-9-una-hora-esta-manana.jpg" group-title="Argentina",Canal 8 (Telefe) ¹ 🇦🇷
-
+#EXTINF:-1 tvg-chno="202" tvg-logo="https://media.losandes.com.ar/p/22dbc3876https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="Argentina",13 Max (Telefe) ¹ 🇦🇷
+https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="203" tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg" group-title="Argentina",El Nueve ¹ 🇦🇷
 http://107.152.39.199:8030/hls/canal7.m3u8
