@@ -588,6 +588,9 @@ https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://ipuntotv.com/IMAGES/TNT-Novelas-logo-nuevo.jpg" group-title="24/7 Novelas",TNT Novelas ² 🇲🇽 
 http://148.222.225.136:8004/play/a0bk/index.m3u8
 
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="24/7 Novelas",TLN Univisión ² 🇺🇸
+http://200.58.64.244:9000/play/a00e/index.m3u8
+
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXjJn9sSNrZSuqtwTm5DGor-M4uLoIrwfjh7yn22xVG9bl4mJw1rK2gY-wehuSSirTbgN6uEQHdFUn1Giq__TPYaj1USXHSmowkGcq89eGeW14s0uj3VjYje6egHRB5B0NVTB_bwwDg6TxRYv0NjxOEwDUwCbf5nRVcmZV6qN4NJd-J83LOFM-zvuI/w200-h151/RCN_Novelas_logo_2019.png" group-title="24/7 Novelas",TLnovelas (1) ² 🇲🇽 
 http://190.11.225.124:5000/live/tlnovelas/playlist.m3u8
 
@@ -1008,58 +1011,58 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278813.m3u8
 #EXTINF:-1 tvg-chno="276" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1403px-Logo_TVE-Internacional.svg.png" group-title="España",TVE Internacional ¹ 🇪🇸
 https://rtvelivestream.rtve.es/rtvesec/int/tvei_ame_main_dvr.m3u8
 
-#EXTINF:-1 tvg-chno="277" tvg-logo="https://www.theseniorlist.com/app/uploads/2023/08/FuboTV_logo-1024x350.png" group-title="USA Latino",Fubo Latino 🇺🇸
+#EXTINF:-1 tvg-chno="277" tvg-logo="https://www.theseniorlist.com/app/uploads/2023/08/FuboTV_logo-1024x350.png" group-title="EUA Latino",Fubo Latino 🇺🇸
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=194161&extension=ts
 
-#EXTINF:-1 tvg-chno="278" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png" group-title="USA Latino",NBC Universo 🇺🇸
-http://domestipo1.online:80/live/ser682mun/5w49evr21/79070.m3u8
+#EXTINF:-1 tvg-chno="278" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png" group-title="EUA Latino",NBC Universo ² 🇺🇸
+http://200.58.64.244:9000/play/a00t/index.m3u8
 
-#EXTINF:-1 tvg-chno="279" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/300px-Estrella_TV_Logo_2020.png" group-title="USA Latino",Estrella TV ¹ 🇺🇸
+#EXTINF:-1 tvg-chno="279" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/300px-Estrella_TV_Logo_2020.png" group-title="EUA Latino",Estrella TV ¹ 🇺🇸
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv:80/stitch/hls/channel/5cf0622da00ca1e2f6fac712livestitch/2977920/playlist.m3u8?terminate=false&sid=73f1f3b5-9aab-48b7-b385-cc16a962802a&deviceDNT=0&deviceModel=web&deviceVersion=unknown&appName=web&deviceId=6c28a355-30d3-11ef-9cf5-e9ddff8ff496&appVersion=unknown&deviceType=web&deviceMake=Chrome
 
-#EXTINF:-1 tvg-chno="280" tvg-logo="https://img.onesignal.com/t/9386b748-b30f-4f48-946a-361ce4f6c8cc.jpg" group-title="USA Latino",Mega TV 🇺🇸
+#EXTINF:-1 tvg-chno="280" tvg-logo="https://img.onesignal.com/t/9386b748-b30f-4f48-946a-361ce4f6c8cc.jpg" group-title="EUA Latino",Mega TV 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=156070&extension=ts
 
-#EXTINF:-1 tvg-chno="281" tvg-logo="https://www.elnuevoherald.com/public/ultimas-noticias/d5nt1t/picture246909672/alternates/LANDSCAPE_480/univision%20logo.jpg" group-title="USA Latino",Univisión US ² 🇺🇸
+#EXTINF:-1 tvg-chno="281" tvg-logo="https://www.elnuevoherald.com/public/ultimas-noticias/d5nt1t/picture246909672/alternates/LANDSCAPE_480/univision%20logo.jpg" group-title="EUA Latino",Univisión US ² 🇺🇸
 http://200.92.227.238:8000/play/a0q3/index.m3u8
 
-#EXTINF:-1 tvg-chno="283" tvg-logo="https://www.elnuevoherald.com/public/ultimas-noticias/d5nt1t/picture246909672/alternates/LANDSCAPE_480/univision%20logo.jpg" group-title="USA Latino",Univisión SF 🇺🇸
+#EXTINF:-1 tvg-chno="283" tvg-logo="https://www.elnuevoherald.com/public/ultimas-noticias/d5nt1t/picture246909672/alternates/LANDSCAPE_480/univision%20logo.jpg" group-title="EUA Latino",Univisión SF 🇺🇸
 http://go.iptvhn.net:25461/live/7785/7785/13317.m3u8
 
-#EXTINF:-1 tvg-chno="284" tvg-logo="https://www.elnuevoherald.com/public/ultimas-noticias/d5nt1t/picture246909672/alternates/LANDSCAPE_480/univision%20logo.jpg" group-title="USA Latino",Univisión PH ° 🇺🇸
+#EXTINF:-1 tvg-chno="284" tvg-logo="https://www.elnuevoherald.com/public/ultimas-noticias/d5nt1t/picture246909672/alternates/LANDSCAPE_480/univision%20logo.jpg" group-title="EUA Latino",Univisión PH ° 🇺🇸
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278687.m3u8
 
-#EXTINF:-1 tvg-chno="284" tvg-logo="https://www.elnuevoherald.com/public/ultimas-noticias/d5nt1t/picture246909672/alternates/LANDSCAPE_480/univision%20logo.jpg" group-title="USA Latino",Univisión LA ° 🇺🇸
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/158775.m3u8
+#EXTINF:-1 tvg-chno="284" tvg-logo="https://www.elnuevoherald.com/public/ultimas-noticias/d5nt1t/picture246909672/alternates/LANDSCAPE_480/univision%20logo.jpg" group-title="EUA Latino",Univisión LA ² 🇺🇸
+http://200.58.64.244:9000/play/a016/index.m3u8
 
-#EXTINF:-1 tvg-chno="286" tvg-logo="https://i.postimg.cc/qRHv3bMp/telem-aldia.jpg" group-title="USA Latino",Telemundo Al Día ¹ 🇺🇸
+#EXTINF:-1 tvg-chno="286" tvg-logo="https://i.postimg.cc/qRHv3bMp/telem-aldia.jpg" group-title="EUA Latino",Telemundo Al Día ¹ 🇺🇸
 https://dmfxzlz63pfyh.cloudfront.net/10508/88886036/hls/master.m3u8?ads.xumo_channelId=88886036
 
-#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="USA Latino",Telemundo US ² 🇺🇸
+#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo US ² 🇺🇸
 http://200.58.64.244:9000/play/a00l/index.m3u8
 
-#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="USA Latino",Telemundo PH ° 🇺🇸
+#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo PH ° 🇺🇸
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278670.m3u8
 
-#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="USA Latino",Telemundo DL ° 🇺🇸
+#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo DL ° 🇺🇸
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278674.m3u8
 
-#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="USA Latino",Telemundo LA ° 🇺🇸
+#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo LA ° 🇺🇸
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278661.m3u8
 
-#EXTINF:-1 tvg-chno="289" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png" group-title="USA Latino",Galavisión AU 🇺🇸
+#EXTINF:-1 tvg-chno="289" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png" group-title="EUA Latino",Galavisión AU 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148740&extension=ts
 
-#EXTINF:-1 tvg-chno="290" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png" group-title="USA Latino",Galavisión East 🇺🇸
+#EXTINF:-1 tvg-chno="290" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png" group-title="EUA Latino",Galavisión East 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=147076&extension=ts
 
-#EXTINF:-1 tvg-chno="293" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png" group-title="USA Latino",Unimás NY 🇺🇸
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148794&extension=ts
+#EXTINF:-1 tvg-chno="293" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png" group-title="EUA Latino",Unimás US ² 🇺🇸
+http://200.58.64.244:9000/play/a00x/index.m3u8
 
-#EXTINF:-1 tvg-chno="295" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png" group-title="USA Latino",Unimás LV 🇺🇸
+#EXTINF:-1 tvg-chno="295" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png" group-title="EUA Latino",Unimás LV 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148753&extension=ts
 
-#EXTINF:-1 tvg-chno="299" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/telemundo.jpg" group-title="USA Latino",Telemundo Internacional ² 🇺🇸
+#EXTINF:-1 tvg-chno="299" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/telemundo.jpg" group-title="EUA Latino",Telemundo Internacional ² 🇺🇸
 http://148.222.225.136:8004/play/a080/index.m3u8
 
 #EXTINF:-1 tvg-chno="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_5_HN_logo.png/180px-Canal_5_HN_logo.png" group-title="Honduras",Canal 5 🇭🇳
@@ -1125,8 +1128,8 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-chno="314" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="México",Las Estrellas MX ² 🇲🇽
 http://148.222.225.136:8004/play/a03w/index.m3u8
 
-#EXTINF:-1 tvg-chno="314" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"bgroup-title="México",Las Estrellas Latino -1hr 🇲🇽
-http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/557732.m3u8
+#EXTINF:-1 tvg-chno="314" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"bgroup-title="México",Las Estrellas Latino -2hr ² 🇲🇽
+http://200.58.64.244:9000/play/a00z/index.m3u8
 
 #EXTINF:-1 tvg-chno="315" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/10/Multimedios-TV-Canal-6-en-vivo-Online.png?resize=1068%2C601&ssl=1" group-title="México",Multimedios Canal 6 ¹ 🇲🇽
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
@@ -1167,8 +1170,14 @@ http://172.93.102.112:8989/279299_.m3u8
 #EXTINF:-1 tvg-chno="334" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Nicaragua",Canal 6 ° 🇳🇮
 http://172.93.102.112:8989/279297_.m3u8
 
+#EXTINF:-1 tvg-chno="334" tvg-logo="https://logosnicas.com/wp-content/uploads/2022/09/canal_9_nicaragua.png" group-title="Nicaragua",Canal 9 ² 🇳🇮
+http://200.58.64.244:9000/play/a018/index.m3u8
+
 #EXTINF:-1 tvg-chno="335" tvg-logo="https://1.bp.blogspot.com/-zyfzTiv-0YY/YSgNAyVUnYI/AAAAAAAAQQw/63cf8CyUoLQlwDWY2-9zdME5dzjewFpJQCLcBGAsYHQ/w700-h400-p-k-no-nu/Canal%2B10%2Ben%2Bvivo.png" group-title="Nicaragua",Canal 10 🇳🇮
 http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=85728&extension=ts
+
+#EXTINF:-1 tvg-chno="335" tvg-logo="https://logosnicas.com/wp-content/uploads/2022/08/canal_11_tv_red_2020.png" group-title="Nicaragua",Canal 11 ² 🇳🇮
+http://200.58.64.244:9000/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-chno="336" tvg-logo="https://www.vivanicaragua.com.ni/contenido/archivos/2019/03/logo-blanco.png?x75729" group-title="Nicaragua",Canal 13 🇳🇮
 http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=85731&extension=ts
@@ -1374,8 +1383,8 @@ http://45.171.64.30:8800/play/a021
 #EXTINF:-1 tvg-chno="411" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png" group-title="Cultura y Entretenimiento",NatGeo ²
 http://200.92.227.238:8000/play/a0px/index.m3u8
 
-#EXTINF:-1 tvg-chno="412" tvg-logo="https://sc.dish.com/shared/images/station-logos/NGMDO.png" group-title="Cultura y Entretenimiento",NatGeo Mundo 
-http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/1692.ts
+#EXTINF:-1 tvg-chno="412" tvg-logo="https://sc.dish.com/shared/images/station-logos/NGMDO.png" group-title="Cultura y Entretenimiento",NatGeo Mundo ² 
+http://200.58.64.244:9000/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-chno="414" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/500px-National_Geographic_Wild_logo.svg.png" group-title="Cultura y Entretenimiento",NatGeo Wild °
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278852.m3u8
@@ -2079,6 +2088,9 @@ http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/299270.m3u8
 
 #EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Bolivia 🇧🇴
 http://m3u.tvcluboficial.com/free/Jose_Mejia/V3f/905.m3u8
+
+#EXTINF:-1 tvg-chno="685" tvg-logo="https://nicasports.tv/imagenes/logo.png" group-title="Deportes",Nica Sports TV ² 🇳🇮
+http://200.58.64.244:9000/play/a01a/index.m3u8
 
 #EXTINF:-1 tvg-chno="686" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos.png?resize=600%2C360&ssl=1" group-title="Deportes",Cableonda 🇵🇦 
 http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/295027.m3u8
