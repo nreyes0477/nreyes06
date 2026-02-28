@@ -1770,8 +1770,8 @@ http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png" group-title="Cine y Películas",HBO Mundi Sur
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=46645&extension=ts
 
-#EXTINF:-1 tvg-chno="598" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="Cine y Películas",Universal Channel
-http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=9755&extension=ts
+#EXTINF:-1 tvg-chno="598" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="Cine y Películas",Universal Channel ²
+http://45.173.201.51:4000/play/a0gv/index.m3u8
 
 #EXTINF:-1 tvg-chno="598" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="Cine y Películas",Universal Channel Diferido ²
 http://181.78.23.26:45000/play/a007
