@@ -1411,22 +1411,22 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278619.m3u8
 http://200.92.227.238:8000/play/a0ok/index.m3u8
 
 #EXTINF:-1 tvg-chno="423" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png" group-title="Cultura y Entretenimiento"group-title="Cultura y Entretenimiento",Discovery World 
-http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=9790&extension=ts
+http://domestipo1.online:80/live/ser682mun/5w49evr21/79467.m3u8
 
 #EXTINF:-1 tvg-chno="423" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/DSFAM.png" group-title="Cultura y Entretenimiento",Discovery Family 
-http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/253.ts
+http://domestipo1.online:80/live/ser682mun/5w49evr21/415641.m3u8
 
 #EXTINF:-1 tvg-chno="423" tvg-logo="https://www.pngfind.com/pngs/m/74-742126_discovery-turbo-logo-discovery-turbo-hd-png-download.png" group-title="Cultura y Entretenimiento",Discovery Turbo ²
 http://181.78.23.26:45000/play/a03b
 
 #EXTINF:-1 tvg-chno="424" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png" group-title="Cultura y Entretenimiento",Discovery Science
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/39.m3u8
+http://domestipo1.online:80/live/ser682mun/5w49evr21/79463.m3u8
 
-#EXTINF:-1 tvg-chno="425" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png" group-title="Cultura y Entretenimiento",HGTV Latino ™
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7443
+#EXTINF:-1 tvg-chno="425" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png" group-title="Cultura y Entretenimiento",HGTV Latino
+http://domestipo1.online:80/live/ser682mun/5w49evr21/79475.m3u8
 
-#EXTINF:-1 tvg-chno="427" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png" group-title="Cultura y Entretenimiento",Comedy Central ™
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/13906
+#EXTINF:-1 tvg-chno="427" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png" group-title="Cultura y Entretenimiento",Comedy Central
+http://domestipo1.online:80/live/ser682mun/5w49evr21/327804.m3u8
 
 #EXTINF:-1 tvg-chno="431" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiU87VgwvgsVvkxsZ4Lhx-AbQplLVwmdwxh2MHwjv6-cfkKLfKdxanACuFwoZiE47JeJ3Y58FK9dj69nOTMsPOLf1BiBPx7g3TwMVy24NrF0Xpff9lT_xYE5cMlgbwF_jIaG1Lh40Lw4tuamw4q_RhSVypYoVRKkWcRaOEKjnS9MkpKAI_72Qkgw-hDziH/w640-h360-rw/adultswimtvlaint.jpg" group-title="Cultura y Entretenimiento",Adult Swim ²
 http://200.115.120.1:8000/play/ca081/index.m3u8
@@ -1440,8 +1440,8 @@ http://200.92.227.238:8000/play/a0n9/index.m3u8
 #EXTINF:-1 tvg-chno="434" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-gourmet_m.png" group-title="Cultura y Entretenimiento",El Gourmet
 http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/138.m3u8
 
-#EXTINF:-1 tvg-chno="435" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/330px-MC_logo_2022.png" group-title="Cultura y Entretenimiento",Canal MC
-http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/1720.ts
+#EXTINF:-1 tvg-chno="435" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/330px-MC_logo_2022.png" group-title="Cultura y Entretenimiento",Multicinema
+http://domestipo1.online:80/live/ser682mun/5w49evr21/140365.m3u8
 
 #EXTINF:-1 tvg-chno="436" tvg-logo="https://www.dafont.com/forum/attach/orig/1/2/1219779.png" group-title="Cultura y Entretenimiento",Canal Claro ²
 http://200.92.227.238:8000/play/a0lc/index.m3u8
@@ -1450,7 +1450,7 @@ http://200.92.227.238:8000/play/a0lc/index.m3u8
 http://200.92.227.238:8000/play/a0om/index.m3u8
 
 #EXTINF:-1 tvg-chno="440" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Clic_%28TV_channel%29_logo_2021.png" group-title="Cultura y Entretenimiento",Clic!
-http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/1654.ts
+http://domestipo1.online:80/live/ser682mun/5w49evr21/122540.m3u8
 
 #EXTINF:-1 tvg-chno="500" tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png" group-title="Cine y Películas",A&E ²
 http://200.92.227.238:8000/play/a0mb/index.m3u8
