@@ -1357,7 +1357,7 @@ http://38.44.109.41:8003/play/a01e/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278619.m3u8
 
 #EXTINF:-1 tvg-chno="422" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png" group-title="Cultura y Entretenimiento",Discovery Theater ²
-http://200.92.227.238:8000/play/a0ok/index.m3u8
+http://190.60.49.242:4000/play/a0dm/index.m3u8
 
 #EXTINF:-1 tvg-chno="423" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png" group-title="Cultura y Entretenimiento"group-title="Cultura y Entretenimiento",Discovery World 
 http://domestipo1.online:80/live/ser682mun/5w49evr21/79467.m3u8
@@ -1384,25 +1384,25 @@ http://200.115.120.1:8000/play/ca081/index.m3u8
 http://190.11.225.124:5000/live/distrito_comedia_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="433" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sun_channel-mediano.png" group-title="Cultura y Entretenimiento",Sun Channel ²
-http://200.92.227.238:8000/play/a0n9/index.m3u8
+http://190.60.49.242:4000/play/a0k2/index.m3u8
 
 #EXTINF:-1 tvg-chno="434" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-gourmet_m.png" group-title="Cultura y Entretenimiento",El Gourmet
 http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/138.m3u8
 
-#EXTINF:-1 tvg-chno="435" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/330px-MC_logo_2022.png" group-title="Cultura y Entretenimiento",Multicinema
-http://domestipo1.online:80/live/ser682mun/5w49evr21/140365.m3u8
+#EXTINF:-1 tvg-chno="435" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/330px-MC_logo_2022.png" group-title="Cultura y Entretenimiento",Multicinema ²
+http://45.5.117.99:8000/play/a04t/index.m3u8
 
 #EXTINF:-1 tvg-chno="436" tvg-logo="https://www.dafont.com/forum/attach/orig/1/2/1219779.png" group-title="Cultura y Entretenimiento",Canal Claro ²
-http://200.92.227.238:8000/play/a0lc/index.m3u8
+http://45.5.117.99:8000/play/a066/index.m3u8
 
 #EXTINF:-1 tvg-chno="437" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/220px-%C2%A1HOLA%21TVlogo.jpg" group-title="Cultura y Entretenimiento",¡Hola! TV ²
-http://200.92.227.238:8000/play/a0om/index.m3u8
+http://45.5.117.99:8000/play/a0hx/index.m3u8
 
 #EXTINF:-1 tvg-chno="440" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Clic_%28TV_channel%29_logo_2021.png" group-title="Cultura y Entretenimiento",Clic!
 http://domestipo1.online:80/live/ser682mun/5w49evr21/122540.m3u8
 
 #EXTINF:-1 tvg-chno="500" tvg-logo="https://cdn.mitvstatic.com/channels/cl_a-e_m.png" group-title="Cine y Películas",A&E ²
-http://200.92.227.238:8000/play/a0mb/index.m3u8
+http://190.60.49.242:4000/play/a0je/index.m3u8
 
 #EXTINF:-1 tvg-chno="501" tvg-logo="https://cdn.mitvstatic.com/channels/cl_amc_m.png" group-title="Cine y Películas",AMC
 http://domestipo1.online:80/live/ser682mun/5w49evr21/46090.m3u8
@@ -1417,7 +1417,7 @@ http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.bes
 http://38.44.109.41:8003/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-chno="503" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png" group-title="Cine y Películas",Cinecanal ²
-http://200.92.227.238:8000/play/a0od/index.m3u8
+http://190.60.49.242:4000/play/a0ko/index.m3u8
 
 #EXTINF:-1 tvg-chno="506" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinemax_m.png" group-title="Cine y Películas",Cinemax
 http://domestipo1.online:80/live/ser682mun/5w49evr21/46111.m3u8
@@ -1444,13 +1444,13 @@ http://domestipo1.online:80/live/ser682mun/5w49evr21/46170.m3u8
 http://38.44.109.41:8003/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-chno="519" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cine_sony-mediano.png" group-title="Cine y Películas",Cine Sony ²
-http://200.92.227.238:8000/play/a0mg/index.m3u8
+http://45.5.117.99:8000/play/a03s/index.m3u8
 
 #EXTINF:-1 tvg-chno="519" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cine_sony-mediano.png" group-title="Cine y Películas",Cine Sony (MX)
 http://domestipo1.online:80/live/ser682mun/5w49evr21/46176.m3u8
 
 #EXTINF:-1 tvg-chno="520" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png" group-title="Cine y Películas",Sony ²
-http://200.92.227.238:8000/play/a0oc/index.m3u8
+http://190.60.49.242:4000/play/a0kq/index.m3u8
 
 #EXTINF:-1 tvg-chno="520" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png" group-title="Cine y Películas",Sony (MX) ²
 http://200.106.13.204:8000/play/a0kt/index.m3u8
@@ -1489,13 +1489,10 @@ http://38.44.109.41:8003/play/a01v/index.m3u8
 http://38.44.109.41:8003/play/a01x/index.m3u8
 
 #EXTINF:-1 tvg-chno="527" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner_m.png" group-title="Cine y Películas",Warner Channel ²
-http://200.92.227.238:8000/play/a0ob/index.m3u8
+http://201.230.137.204:8000/play/a0iq/index.m3u8
 
 #EXTINF:-1 tvg-chno="528" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png" group-title="Cine y Películas",FX ²
 http://38.44.109.41:8003/play/a01g/index.m3u8
-
-#EXTINF:-1 tvg-chno="528" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png" group-title="Cine y Películas",FX ²
-http://200.92.227.238:8000/play/a0me/index.m3u8
 
 #EXTINF:-1 tvg-chno="529" tvg-logo="https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/15563/article_aligned%403x.png" group-title="Cine y Películas",FXX ™
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/13973
@@ -1504,7 +1501,7 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/13973
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/13972
 
 #EXTINF:-1 tvg-chno="530" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png" group-title="Cine y Películas",DHE ²
-http://200.92.227.238:8000/play/a0mh/index.m3u8
+http://190.60.49.242:4000/play/a0c9/index.m3u8
 
 #EXTINF:-1 tvg-chno="531" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="Cine y Películas",DreamWorks 
 http://domestipo1.online:80/live/ser682mun/5w49evr21/319635.m3u8
