@@ -267,8 +267,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62aa5740a47b6c0007
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e5061410-82b2-400d-8433-0604666b79c9-profile_banner-480.jpeg" group-title="Noticias",Meganoticias 🇨🇱
 http://www.1play.cool:25461/live/2132580232/27be478b47/147296.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png" group-title="Noticias",TN Noticias ² 🇦🇷
-http://181.13.112.203:8100/play/a058/index.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png" group-title="Noticias",TN Noticias 🇦🇷
+http://domestipo1.online:80/live/ser682mun/5w49evr21/712718.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/588px-Canal_26_logo_%282022%29.svg.png" group-title="Noticias",Canal 26 ¹ 🇦🇷
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
@@ -307,10 +307,10 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://cnwebsite.blob.core.windows.net/files/2021/05/logo_cablenoticias.png" group-title="Noticias",Cablenoticias  🇨🇴
-http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=160791&extension=ts
+http://domestipo1.online:80/live/ser682mun/5w49evr21/13786.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://www.ntn24.com/__assets/images/logo.png" group-title="Noticias",NTN24 🇨🇴
-http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alvarovega&password=31f3570d79bd&stream=10256&extension=ts
+http://domestipo1.online:80/live/ser682mun/5w49evr21/13788.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/ca156c1/2147483647/strip/true/crop/342x91+0+0/resize/342x91!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fca%2F3b%2F626749bb4ac5a7fe61ee7c31e667%2Fmenu-logo.png" group-title="Noticias",Noticias Caracol 🇨🇴 
 http://daleplaytv.vip:80//live/OrlandoVillacis/09992151xx/317546.ts
