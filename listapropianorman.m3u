@@ -15,9 +15,6 @@
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://canal1cr.com/wp-content/uploads/2023/02/logo-canal-1-png.png" group-title="Nacionales",Canal 1 CR ¹ 🇨🇷
 https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
 
-#EXTINF:-1 tvg-chno="2" tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="Nacionales",Canal 2 Repretel ¹ 🇨🇷
-https://d2qsan2ut81n2k.cloudfront.net/live/735ddeea-3626-4c57-b09f-39e81eb1671d/ts:abr.m3u8
-
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://i.imgur.com/5arZEgO.png" group-title="Nacionales",Canal 4 Repretel ¹ 🇨🇷
 https://d2qsan2ut81n2k.cloudfront.net/live/5b4b1702-52f9-4e48-a4c7-79ca7f34ece6/ts:abr.m3u8
 
@@ -91,10 +88,10 @@ https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 https://rtmp.info/sanjosetv/envivo/chunklist_w2092057186.m3u8
 
 #EXTINF:-1 tvg-chno="31" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGLhhtg5NJMWt3KwH3VG7flKs9C2E1wdf9Y4ICHz8J0GEMXa4fNvkEr_-JiwX8PEzX2ibjkta0fvSBwaGbzF4RnJewHVmBQ82JnUR3Ce2bUI_Do3Q1kHIe9HWMUY_5UvIfN_Nnwri3CEd-dZG7bJNyOVtrfg4sAO8zmaX_T8ZnNdSiAucNMMLDk8PCLz4I/s600/TURRIALBA%20LOGO%20PORTADA%202.png" group-title="Nacionales",Radio Turrialba TV ¹ 🇨🇷
-https://server2.cloundmediacp.in/turrialbatv/turrialbatv/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/turrialbatv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="32" tvg-logo="https://i.imgur.com/Vcd40AL.png" group-title="Nacionales",Cartago Medios TV ¹ 🇨🇷
-https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8
+https://acceso.mediosdecostarica.com:3511/stream/play.m3u8
 
 #EXTINF:-1 tvg-chno="33" tvg-logo="https://www.nicoyatv.com/images/Logos/Coope%20Logo%203.png" group-title="Nacionales",Nicoya TV ¹ 🇨🇷
 https://59ef525c24caa.streamlock.net:443/nicoyatv/nicoyatv/chunklist_w221500905.m3u8
@@ -124,7 +121,7 @@ https://cloudvideo.servers10.com:8081/8132/tracks-v1a1/mono.m3u8
 https://k20.usastreams.com:8081/tvplus/index.m3u8?fbclid=IwY2xjawN7z7hleHRuA2FlbQIxMQBicmlkETBVZ3B6cUxzQUJpR2JEN2N3c3J0YwZhcHBfaWQBMAABHswI7rvOl7SWBiRZQuw-xmwU68iFWBUc5OBhK-EhoV9LwLU0BbUJ0xrYqvSs_aem_9HGlrTEOHSna9Egup77jjA
 
 #EXTINF:-1 tvg-chno="39" tvg-logo="https://i.imgur.com/5Rc8mA5.png" group-title="Nacionales",Telemas CR ¹ 🇨🇷
-https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
+https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-chno="40" tvg-logo="https://i.imgur.com/OFSOvpd.jpeg" group-title="Nacionales",TDtv ¹ 🇨🇷
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
@@ -181,7 +178,7 @@ http://domestipo1.online:80/live/ser682mun/5w49evr21/697755.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://img1.wsimg.com/isteam/ip/0b6749a7-4d1f-4663-98a6-82c3788efdcb/RETROX%20TV%20LOGO%20PNG.png" group-title="Nacionales",Retrox TV ¹ 🇨🇷
-https://video20.klm99.com:3580/live/retroxlive.m3u8
+https://tvservices.fullhd-streaming.com:3100/live/tvgroupretroxtvpluslive.m3u8
 
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://image.roku.com/developer_channels/prod/57ab74c4faa79c70ed4ac4a5e84e17dc731fbded16d330e3bf320a4613a9f5e6.png" group-title="Nacionales",Retro Tv Palmares ¹ 🇨🇷
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/playlist.m3u8
