@@ -243,8 +243,8 @@ https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://cdn.mitvstatic.com/channels/ar_france-24-espanol_m.png" group-title="Noticias",France 24 ¹ 🇨🇵
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" group-title="Noticias",Euronews ¹ 🇪🇺
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/619d59b7cbef25000728221c/master.m3u8?advertisingId=&appName=web&appVersion=9.20.0-89258290264838515e264f5b051b7c1602a58482&app_name=web&clientDeviceType=0&clientID=013296c0-dd27-4c13-a4c7-7f5c940ddc7c&clientModelNumber=1.0.0&country=CR&deviceDNT=false&deviceId=013296c0-dd27-4c13-a4c7-7f5c940ddc7c&deviceLat=9.9200&deviceLon=-84.1000&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=145.0.7632&marketingRegion=VE&serverSideAds=false&sessionID=a56819c0-1ab2-11f1-920b-aed0c46d5730&sid=a56819c0-1ab2-11f1-920b-aed0c46d5730&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjZjM2VmOWI0LTZkNTktNDU5Mi1hYjhhLTc4NmFkNTBmZWI3NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJhNTY4MTljMC0xYWIyLTExZjEtOTIwYi1hZWQwYzQ2ZDU3MzAiLCJjbGllbnRJUCI6IjE4Ni42NC4xMzIuMjM4IiwiY2l0eSI6IlNhbiBKb3NlIiwicG9zdGFsQ29kZSI6IjEwMTEwIiwiY291bnRyeSI6IkNSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6OS45MjAwMDAwNzYyOTM5NDUsImRldmljZUxvbiI6LTg0LjA5OTk5ODQ3NDEyMTEsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjE0NS4wLjc2MzIiLCJkZXZpY2VNYWtlIjoiY2hyb21pdW0td2VidmlldyIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjIwLjAtODkyNTgyOTAyNjQ4Mzg1MTVlMjY0ZjViMDUxYjdjMTYwMmE1ODQ4MiIsImNsaWVudElEIjoiMDEzMjk2YzAtZGQyNy00YzEzLWE0YzctN2Y1Yzk0MGRkYzdjIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvQ29zdGFfUmljYSIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmdWb2QiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjAxMzI5NmMwLWRkMjctNGMxMy1hNGM3LTdmNWM5NDBkZGM3YyIsImZ3VmNJRDJDb3BwYSI6IjAxMzI5NmMwLWRkMjctNGMxMy1hNGM3LTdmNWM5NDBkZGM3YyIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiMDEzMjk2YzAtZGQyNy00YzEzLWE0YzctN2Y1Yzk0MGRkYzdjIiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAxNCwxMDAxNiwxMDAxNSwxMDAyMCwxMDAyMSwxMDAwMCwxMDAwOSwxMDAxMyJ9fSwic2Vzc2lvblN0YXJ0VGltZSI6MTc3Mjk0OTAwMDY3NSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOk1ERXpNamsyWXpBdFpHUXlOeTAwWXpFekxXRTBZemN0TjJZMVl6azBNR1JrWXpkaiIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3NzMwMzU0MDAsImlhdCI6MTc3Mjk0OTAwMCwianRpIjoiMTBjNDY5YmItMzc2Yy00MTA0LWE5ZGUtNjlhYmNjNzgwYzY3In0.nndkzE6Pt9XXv2quauoMZDbn_WyPA5xzhaI_bu-f9hE&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEFtM10aBymBH6vzWdCeDkhOxuWK92OTqyK1rtjPfxsD-Y5gV9r2PH8pN69nk7BBVIepya6tIwV_wnLdRFdtXPT-BuW39WkK7VU1zUhXLZ6saBajfW8WXSknNL4AmUeJd2XYGlzvRGxB-Kv78jUjHGlrN1L33EPce4NXISEQPpwapEsWgvmYKWGdUFlH-USzV0jezEuNf6QxvSb1-o4Uxv7IV8U-YpUolg17N_m-5-3SNvDcsoq-gOm8S-zAhEdrlTdVAjhelBc2Z-Wi66sfpZMQfKSwEUB0Zx18xf2MpawXeDyViHKbHcNVm0R6gM-tFFMWu2IQKvpyVYDQYbWEkbXzuuV48uRh3vRmVfyNDNoahISX0T-lhUSPzdxN-loAFlcppA7qpPySXybc2dwgCSJ8LAI50z1tF34X-B8L8QH0IUgsGXR-E0SMcLeced4B8pxFWjjTeT98_rkC-H6xJr29j5LotrBv4a0ft3Zn4Sw7qviscxsIcgyRgmC_SBBFRS0awl-TAj-Zp35SEMLDxrAjjdL5R6222TM-lN4VBqfqhEYJAxDY0c6ouu6PnasveLZPCNj-3v7GBLvFVi6swgvYhADw44rCyJZ7UrFTojp9csQ4I9QJlMeuIdSL2va7cT4l3AtUKVok773daVIMOmbTM676pB-NvEOr2361kdjmnLRihNlKO8-8bFLtpKYKNo0GxHMWwfHQ2lyFg5VPwnZBDzCLqf-0Zolb1jnU_8qsRmSFtwpv2ad9x9E00Qq_FqcidtJ5vvKkHvSXxU4o-F7rigilEKkLc598w8xHrEaNBA2_BZYJa0hBlTxS6MVnWh-QMzaBJyqK1MikjF5f5vCOIoSnNVnB0M_3o2O30P_ex3qtp7BSDEV-hgJa3yK5lwKI2aw5bmfrtATd_2xeXcwiT9VIFC8zc-9EwZeWisxUH_2xPyKogA5JhRA5xkAZmYnKH8SpBQVpGH92Fi3teDjZRaihw2lcIop5fl4C_BYE6_Ur59G0fDY_Yx0Ed0pYofZHw7qriaFKRmdVRUeTtKZDboxG9fFokooadrghse7oZno0YohE68fQTcEkc5jbNSORnOEo4ZU2hMxv93PAfLjTmoFFtO8KiYzl_tV_OAyeu4FzwPG_0_iYx2bLZac9afT1aKAX6a1WsWjBqOwIeqjoF3tigZJc5aK6-9gCYtdli6VvXu79mG9PDKR04ua_3eIEN_aCm2mPZG4R2HR1-TdR6XbM7FB0SNFiEO60IVS0VRzWMowZDaY6kHdaGAjUaMBbpeKJvwn73YG_a8OQi-QvK44Q0MTjwvupuDi_su6VJlcJ5NAPJrsW55TlnFE6ZSLcUfvv-dHbqZ1X6Bbkzod7B1YZAc1JdO5iuyaBD587Nk12sCgU3fCqfQb3FPdS-lpcDPxqwe40O0tMj_1rEihIP3HKvJXVfWRejNW1vYAgcIZ07yaXbCssuVnguyHJBbMl_2ReOKhoBcixMCEWvQYeb-t3L17tHxaqgc6VwLbJSy4foqiNfNMdfZiWBc7Ddl9QMymFwh9pRjDbBM9k6y0CLIA8XURsKHsh_j3evVF4aR59xEX_BgWJA77ObM9DG52-NFEy2UHkEyr-olmKA_FQ8DlAhweM-Gfp2K3J_M8Ry4UcNcS5FW168iC8s9JaVRLm9DIjRSz3Vgjm47_BvVdHCqmJCBO5PQ&eventVOD=false&CMCD=mtp%3D10000%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22468e0e54-f279-4458-8ff4-c36b7a86a03a%22%2Csu
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" group-title="Noticias",Euronews 🇪🇺
+http://domestipo1.online:80/live/ser682mun/5w49evr21/501086.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/04/Telesur-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Noticias",Telesur ¹ 🇻🇪
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
@@ -258,8 +258,8 @@ https://live.presstv.ir/hls/hispantv.m3u8
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/cgtn-espa%C3%B1ol.png?resize=500%2C300&ssl=1" group-title="Noticias",CGTN Español ¹ 🇨🇳
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1" group-title="Noticias",CNN Chile ¹ 🇨🇱
-https://jireh-5-hls-video-us-isp.dps.live/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR=&dpssid=b2116507725069104215bc280&sid=ba5t1l1xb230724296069104215bc27f&ndvc=1
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1" group-title="Noticias",CNN Chile 🇨🇱
+http://domestipo1.online:80/live/ser682mun/5w49evr21/79091.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png" group-title="Noticias",Canal 24 Horas ² 🇨🇱
 http://189.50.210.3:8008/play/a07l/index.m3u8
@@ -282,14 +282,14 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://assets.iproup.com/assets/jpg/2021/04/17689.jpg" group-title="Noticias",Crónica TV ¹ 🇦🇷
 https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/C5N_%282017%29.png/606px-C5N_%282017 %29.png"group-title="Noticias",C5N ° 🇦🇷
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278752.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/C5N_%282017%29.png/606px-C5N_%282017 %29.png"group-title="Noticias",C5N 🇦🇷
+http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=46702&extension=ts
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="Noticias",A24 ¹ 🇦🇷
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://dossiernet.com/_next/image?url=https%3A%2F%2Fdmdqet87i5rod.cloudfront.net%2Festoesmedia%2F609bcd5342359_lnmas.jpg&w=1080&q=75" group-title="Noticias",La Nación + ° 🇦🇷
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278769.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://dossiernet.com/_next/image?url=https%3A%2F%2Fdmdqet87i5rod.cloudfront.net%2Festoesmedia%2F609bcd5342359_lnmas.jpg&w=1080&q=75" group-title="Noticias",La Nación + 🇦🇷
+http://domestipo1.online:80/live/ser682mun/5w49evr21/712713.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/1.jpg" group-title="Noticias",CNAR Noticias 24 ¹ 🇦🇷
 https://stmv3.voxtvhd.com.br/eventoslive2/eventoslive2/playlist.m3u8
@@ -316,7 +316,7 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 http://domestipo1.online:80/live/ser682mun/5w49evr21/13786.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://www.ntn24.com/__assets/images/logo.png" group-title="Noticias",NTN24 🇨🇴
-http://domestipo1.online:80/live/ser682mun/5w49evr21/13788.m3u8
+http://domestipo1.online:80/live/ser682mun/5w49evr21/79428.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/ca156c1/2147483647/strip/true/crop/342x91+0+0/resize/342x91!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fca%2F3b%2F626749bb4ac5a7fe61ee7c31e667%2Fmenu-logo.png" group-title="Noticias",Noticias Caracol 🇨🇴 
 http://daleplaytv.vip:80//live/OrlandoVillacis/09992151xx/317546.ts
