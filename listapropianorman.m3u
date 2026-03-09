@@ -1251,6 +1251,9 @@ https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071c
 #EXTINF:-1 tvg-chno="375" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/wapa.png?zoom=2&resize=218%2C150&ssl=1" group-title="Puerto Rico",Wapa América 🇵🇷
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=126531&extension=ts
 
+#EXTINF:-1 tvg-chno="375" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/wapa.png?zoom=2&resize=218%2C150&ssl=1" group-title="Puerto Rico",Wapa + ¹ 🇵🇷
+https://amg00658-amg00658c97-canelatv-international-6697.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-wapata-canelatvinternational/playlist.m3u8?rights_holder_id=wapa-plus&user_id=&vip=186.64.132.238&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=dbf42499-4669-425c-9528-0315d57579db&url=https://www.canela.tv/player/channel/wapa-plus&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
+
 #EXTINF:-1 tvg-chno="375" tvg-logo="https://wipr.pr/wp-content/uploads/2024/10/logo.png" group-title="Puerto Rico",Wipr TV 🇵🇷
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148440&extension=ts
 
