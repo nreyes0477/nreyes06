@@ -1479,7 +1479,7 @@ http://go.iptvhn.net:25461/live/7789/7789/13345.m3u8
 #EXTINF:-1 tvg-chno="523" tvg-logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg" group-title="Cine y Películas",Multipremier
 http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/106.m3u8
 
-#EXTINF:-1 tvg-chno="523" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/330px-MC_logo_2022.png" group-title="Cultura y Entretenimiento",Multicinema ²
+#EXTINF:-1 tvg-chno="523" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/330px-MC_logo_2022.png" group-title="Cine y Películas",Multicinema ²
 http://45.5.117.99:8000/play/a04t/index.m3u8
 
 #EXTINF:-1 tvg-chno="523" tvg-logo="https://cdn.mitvstatic.com/channels/d2aff6e5-5f95-4a9d-9b35-bce8c258cff0_m.jpg" group-title="Cine y Películas",Films & Arts
