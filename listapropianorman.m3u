@@ -1398,9 +1398,6 @@ http://190.60.49.242:4000/play/a0k2/index.m3u8
 #EXTINF:-1 tvg-chno="434" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-gourmet_m.png" group-title="Cultura y Entretenimiento",El Gourmet
 http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/138.m3u8
 
-#EXTINF:-1 tvg-chno="435" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/330px-MC_logo_2022.png" group-title="Cultura y Entretenimiento",Multicinema ²
-http://45.5.117.99:8000/play/a04t/index.m3u8
-
 #EXTINF:-1 tvg-chno="436" tvg-logo="https://www.dafont.com/forum/attach/orig/1/2/1219779.png" group-title="Cultura y Entretenimiento",Canal Claro ²
 http://45.5.117.99:8000/play/a066/index.m3u8
 
@@ -1419,8 +1416,8 @@ http://domestipo1.online:80/live/ser682mun/5w49evr21/46090.m3u8
 #EXTINF:-1 tvg-chno="501" tvg-logo="https://i.postimg.cc/ncsmtW5L/amce.jpg" group-title="Cine y Películas",AMC (USA) ¹
 https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="501" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUkoI91Y4b_NUBoYD6-LXyNiARFKcRXyGp1EmVoNLXUPnYCJIRPswD8Pb_ioxfVwmaRgMF9CZfeuu6OM7ImjeiRRAHchr7Bu6gFQgSzXFp4qBgSI98m678iS86AXmHSiYp3w8Fi_8YGVC-MJ3-WxIhUaoWPLBAL3W9U_1ubAyzyiLsaSPmpXuiEKGMjNx/w640-h340-rw/maxresdefault.jpg" group-title="Cine y Películas",AMC Series
-http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=108&extension=ts
+#EXTINF:-1 tvg-chno="501" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUkoI91Y4b_NUBoYD6-LXyNiARFKcRXyGp1EmVoNLXUPnYCJIRPswD8Pb_ioxfVwmaRgMF9CZfeuu6OM7ImjeiRRAHchr7Bu6gFQgSzXFp4qBgSI98m678iS86AXmHSiYp3w8Fi_8YGVC-MJ3-WxIhUaoWPLBAL3W9U_1ubAyzyiLsaSPmpXuiEKGMjNx/w640-h340-rw/maxresdefault.jpg" group-title="Cine y Películas",AMC Series ²
+http://45.167.2.138:8000/play/a0q5/index.m3u8
 
 #EXTINF:-1 tvg-chno="502" tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png" group-title="Cine y Películas",AXN ²
 http://38.44.109.41:8003/play/a031/index.m3u8
@@ -1481,6 +1478,9 @@ http://go.iptvhn.net:25461/live/7789/7789/13345.m3u8
 
 #EXTINF:-1 tvg-chno="523" tvg-logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg" group-title="Cine y Películas",Multipremier
 http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/106.m3u8
+
+#EXTINF:-1 tvg-chno="523" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/330px-MC_logo_2022.png" group-title="Cultura y Entretenimiento",Multicinema ²
+http://45.5.117.99:8000/play/a04t/index.m3u8
 
 #EXTINF:-1 tvg-chno="523" tvg-logo="https://cdn.mitvstatic.com/channels/d2aff6e5-5f95-4a9d-9b35-bce8c258cff0_m.jpg" group-title="Cine y Películas",Films & Arts
 http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/134.m3u8
