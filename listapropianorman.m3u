@@ -1761,11 +1761,11 @@ http://45.5.117.99:8000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-chno="603" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports CR (2) ²
 http://200.125.170.122:8000/play/a04f/index.m3u8
 
-#EXTINF:-1 tvg-chno="604" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png" group-title="Deportes",TD+ (1)
-http://domestipo1.online:80/live/ser682mun/5w49evr21/14887.m3u8
+#EXTINF:-1 tvg-chno="604" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png" group-title="Deportes",TD+ (1) ²
+http://45.171.64.30:8800/play/a00p
 
-#EXTINF:-1 tvg-chno="604" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png" group-title="Deportes",TD+ ᵇᵘ (2)
-http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/279376.m3u8
+#EXTINF:-1 tvg-chno="604" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png" group-title="Deportes",TD+ (2)
+http://domestipo1.online:80/live/ser682mun/5w49evr21/14887.m3u8
 
 #EXTINF:-1 tvg-chno="605" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-3.png" group-title="Deportes",TD+ 2 (1) ²
 http://45.171.64.30:8800/play/a00q
