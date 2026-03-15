@@ -1330,13 +1330,13 @@ http://45.5.117.99:8000/play/a0gr/index.m3u8
 http://45.181.122.46:8090/play/a020
 
 #EXTINF:-1 tvg-chno="409" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png" group-title="Cultura y Entretenimiento",History Channel (1) ²
-http://138.99.179.64:8800/play/a03e
+http://190.60.49.242:4000/play/a0kl/index.m3u8
 
 #EXTINF:-1 tvg-chno="409" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png" group-title="Cultura y Entretenimiento",History Channel (2) ¹
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
 
-#EXTINF:-1 tvg-chno="410" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Cultura y Entretenimiento",History Channel 2 °
-http://live.btv.mx:2424/stream/298376/smAVz_uhytj5REM-4pYNZbkrcB2
+#EXTINF:-1 tvg-chno="410" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Cultura y Entretenimiento",History Channel 2 ²
+http://190.60.49.242:4000/play/a0l9/index.m3u8
 
 #EXTINF:-1 tvg-chno="411" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png" group-title="Cultura y Entretenimiento",NatGeo ²
 http://38.44.109.41:8003/play/a006/index.m3u8
@@ -1492,7 +1492,7 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7478
 http://190.60.49.242:4000/play/a0l2/index.m3u8
 
 #EXTINF:-1 tvg-chno="525" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tnt_m.png" group-title="Cine y Películas",TNT ²
-http://38.44.109.41:8003/play/a01v/index.m3u8
+http://190.60.49.242:4000/play/a0kn/index.m3u8
 
 #EXTINF:-1 tvg-chno="526" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png" group-title="Cine y Películas",TNT Series ²
 http://38.44.109.41:8003/play/a01x/index.m3u8
