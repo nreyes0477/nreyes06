@@ -1332,8 +1332,8 @@ http://45.181.122.46:8090/play/a020
 #EXTINF:-1 tvg-chno="409" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png" group-title="Cultura y Entretenimiento",History Channel (1) ²
 http://138.99.179.64:8800/play/a03e
 
-#EXTINF:-1 tvg-chno="409" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png" group-title="Cultura y Entretenimiento",History Channel (2) °
-http://live.btv.mx:2424/stream/278631/smAVz_uhytj5REM-4pYNZbkrcB2
+#EXTINF:-1 tvg-chno="409" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png" group-title="Cultura y Entretenimiento",History Channel (2) ¹
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
 
 #EXTINF:-1 tvg-chno="410" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Cultura y Entretenimiento",History Channel 2 °
 http://live.btv.mx:2424/stream/298376/smAVz_uhytj5REM-4pYNZbkrcB2
