@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC 326 Las Vegas (1) 
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC Night Las Vegas (1) 
+http://domestipo1.online:80/live/ser682mun/5w49evr21/756449.m3u8
 
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC Night Las Vegas (2) 
+http://domestipo1.online:80/live/ser682mun/5w49evr21/597259.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC 326 Las Vegas (2) 
-
-
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC 326 Las Vegas (Estelares) (3) 
-
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC Night Las Vegas  (3) 
+http://domestipo1.online:80/live/ser682mun/5w49evr21/756958.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC 326 Las Vegas (Estelares) (4) 
 
