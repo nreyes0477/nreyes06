@@ -1002,11 +1002,11 @@ http://200.58.64.244:9000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo PH ° 🇺🇸
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278670.m3u8
 
-#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo DL ° 🇺🇸
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278674.m3u8
+#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo TX 🇺🇸
+http://streamingtv.vip:80/streaming/clients_live.php?username=Ndnrb948486263bsc&password=727etsbnd709&stream=454944&extension=ts
 
 #EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo LA 🇺🇸
-http://streamingtv.vip:80/streaming/clients_live.php?username=Ndnrb948486263bsc&password=727etsbnd709&stream=454951&extension=ts
+http://streamingtv.vip:80/streaming/clients_live.php?username=Ndnrb948486263bsc&password=727etsbnd709&stream=454941&extension=ts
 
 #EXTINF:-1 tvg-chno="289" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png" group-title="EUA Latino",Galavisión AU 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148740&extension=ts
