@@ -1696,17 +1696,17 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/8503
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-oeste_m.png" group-title="Cine y Películas",HBO Movies ™
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7472
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png" group-title="Cine y Películas",HBO Sur ²
-http://45.5.117.99:8000/play/a0l2/index.m3u8
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png" group-title="Cine y Películas",HBO Sur
+http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=24&extension=ts
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" group-title="Cine y Películas",HBO 2 Sur ²
-http://45.5.117.99:8000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" group-title="Cine y Películas",HBO 2 Sur
+http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=27&extension=ts
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png" group-title="Cine y Películas",HBO Family Sur ²
-http://45.5.117.99:8000/play/a0l5/index.m3u8
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png" group-title="Cine y Películas",HBO Family Sur 
+http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=28&extension=ts
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png" group-title="Cine y Películas",HBO Plus Sur ²
-http://45.5.117.99:8000/play/a0l4/index.m3u8
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png" group-title="Cine y Películas",HBO Plus Sur 
+http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=23&extension=ts
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png" group-title="Cine y Películas",HBO Pop Sur ²
 http://189.50.210.3:8008/play/a034/index.m3u8
@@ -1714,8 +1714,8 @@ http://189.50.210.3:8008/play/a034/index.m3u8
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png" group-title="Cine y Películas",HBO Signature Sur 
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=46637&extension=ts
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png" group-title="Cine y Películas",HBO Xtreme Sur ²
-http://201.230.137.204:8000/play/a0ie/index.m3u8
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png" group-title="Cine y Películas",HBO Xtreme Sur
+http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=25&extension=ts
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png" group-title="Cine y Películas",HBO Mundi Sur ²
 http://189.50.210.3:8008/play/a071/index.m3u8
