@@ -757,8 +757,14 @@ https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="207" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="Argentina",Telemax ¹ 🇦🇷
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
+#EXTINF:-1 tvg-chno="207" tvg-logo="https://www.tvcinco.com/images/logo2.jpg" group-title="Argentina",5TV ¹ 🇦🇷
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="208" tvg-logo="https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-BLANCA-300x99.png" group-title="Argentina",Multivisión ¹ 🇦🇷
 https://panel.host-live.com:19360/8250/8250.m3u8
+
+#EXTINF:-1 tvg-chno="208" tvg-logo="https://television.com.ar/wp-content/uploads/legacy/2016/ARGENTINISIMA-.jpg" group-title="Argentina",Argentinisima Satélital ¹ 🇦🇷
+https://stream1.sersat.com/hls/argentinisima.m3u8
 
 #EXTINF:-1 tvg-chno="210" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png" group-title="Argentina",Telefe Internacional ¹ 🇦🇷
 http://107.152.39.199:8030/hls/canal13.m3u8
