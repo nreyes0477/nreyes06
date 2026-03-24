@@ -721,14 +721,14 @@ http://go.iptvhn.net:25461/live/7789/7789/13336.m3u8
 #EXTINF:-1 tvg-chno="110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="Infantiles",Tooncast
 http://go.iptvhn.net:25461/live/7789/7789/13308.m3u8
 
-#EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina",Telefe 🇦🇷 
-http://magmas5.com:80/live/trascendentaldecentroamerica/DD4K6G7HJH/237424.ts
+#EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina",Telefe ² 🇦🇷 
+http://45.238.54.67:8000/play/a09e/index.m3u8
 
 #EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina",Telefe Rosario ¹ 🇦🇷
 https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/master.m3u8?hdnea=st=1773970400~exp=1773977600~acl=/hls/live/2033413-b/canal5rosario/TOK/*~hmac=91ed079004d320c6571adc799c2428c054d223b4e38d77aafd19ec915958952a
 
-#EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="Argentina",El Trece ° 🇦🇷
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278760.m3u8
+#EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="Argentina",El Trece ² 🇦🇷
+http://45.238.54.67:8000/play/b02f/index.m3u8
 
 #EXTINF:-1 tvg-chno="202" tvg-logo="https://media.losandes.com.ar/p/22dbc3876https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="Argentina",13 Max (Telefe) ¹ 🇦🇷
 https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
@@ -760,8 +760,8 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1 tvg-chno="207" tvg-logo="https://www.tvcinco.com/images/logo2.jpg" group-title="Argentina",5TV ¹ 🇦🇷
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="208" tvg-logo="https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-BLANCA-300x99.png" group-title="Argentina",Multivisión ¹ 🇦🇷
-https://panel.host-live.com:19360/8250/8250.m3u8
+#EXTINF:-1 tvg-chno="208" tvg-logo="https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-BLANCA-300x99.png" group-title="Argentina",Multivisión ² 🇦🇷
+http://181.209.125.236:10000/play/a07n/index.m3u8
 
 #EXTINF:-1 tvg-chno="208" tvg-logo="https://television.com.ar/wp-content/uploads/legacy/2016/ARGENTINISIMA-.jpg" group-title="Argentina",Argentinisima Satélital ¹ 🇦🇷
 https://stream1.sersat.com/hls/argentinisima.m3u8
@@ -769,8 +769,8 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-chno="210" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png" group-title="Argentina",Telefe Internacional ¹ 🇦🇷
 http://107.152.39.199:8030/hls/canal13.m3u8
 
-#EXTINF:-1 tvg-chno="211" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png" group-title="Argentina",El Trece Internacional 🇦🇷
-http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password=XHBR21BVCB&stream=4904&extension=ts
+#EXTINF:-1 tvg-chno="211" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png" group-title="Argentina",El Trece Internacional ² 🇦🇷
+http://45.238.54.67:8000/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-chno="222" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/ATB-en-vivo-Online.png" group-title="Bolivia",ATB ² 🇧🇴
 http://186.121.206.197/live/daniel/index.m3u8
@@ -1964,14 +1964,26 @@ http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722
 #EXTINF:-1 tvg-chno="665" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports (2) 🇦🇷
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47096&extension=ts
 
+#EXTINF:-1 tvg-chno="665" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports (3) ² 🇦🇷
+http://217.26.190.76:8888/play/a0co/index.m3u8
+
 #EXTINF:-1 tvg-chno="666" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports 2 🇦🇷
 http://domestipo1.online:80/live/ser682mun/5w49evr21/69549.m3u8
 
 #EXTINF:-1 tvg-chno="667" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DSports Fight 🇦🇷
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47093&extension=ts
 
-#EXTINF:-1 tvg-chno="668" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png" group-title="Deportes",TyC Sports Argentina ° 🇦🇷
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278778.m3u8
+#EXTINF:-1 tvg-chno="667" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports ² 🇺🇾
+http://45.238.54.67:8000/play/a02y/index.m3u8
+
+#EXTINF:-1 tvg-chno="667" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports 2 ² 🇺🇾
+http://45.238.54.67:8000/play/a06d/index.m3u8
+
+#EXTINF:-1 tvg-chno="667" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports Premium ² 🇺🇾
+http://45.238.54.67:8000/play/a066/index.m3u8
+
+#EXTINF:-1 tvg-chno="668" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png" group-title="Deportes",TyC Sports Argentina ¹ 🇦🇷
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="668" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png" group-title="Deportes",TyC Sports USA ° 🇺🇸
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278779.m3u8
