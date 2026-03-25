@@ -241,8 +241,8 @@ http://domestipo1.online:80/live/ser682mun/5w49evr21/501086.m3u8
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/04/Telesur-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Noticias",Telesur ¹ 🇻🇪
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Globovision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Noticias",Globovisión 🇻🇪
-http://00322.xyz:80/live/jieseialberto/XHBR21BVCB/156075.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Globovision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Noticias",Globovisión ² 🇻🇪
+http://181.78.8.199:8000/play/a0co/index.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://cdn77.pressenza.com/wp-content/uploads/2016/01/HispanTV-300x128.jpg" group-title="Noticias",Hispan TV ¹ 🇮🇷
 https://live.presstv.ir/hls/hispantv.m3u8
@@ -827,19 +827,19 @@ http://200.60.124.19:29000/play/a0id/index.m3u8
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
 #EXTINF:-1 tvg-chno="239" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="Colombia",Caracol ² 🇨🇴
-http://190.242.59.52:8000/play/a05u/index.m3u8
+http://181.78.8.199:8000/play/a08s/index.m3u8
 
 #EXTINF:-1 tvg-chno="240" tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="Colombia",RCN ² 🇨🇴
-http://181.118.156.46:8000/play/a03r/index.m3u8
+http://181.78.8.199:8000/play/a09l/index.m3u8
 
 #EXTINF:-1 tvg-chno="240" tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="Colombia",RCN 2 ² 🇨🇴
 http://181.78.7.90:12500/play/a06l/index.m3u8
 
-#EXTINF:-1 tvg-chno="242" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/250px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="Colombia",Canal 1 ° 🇨🇴
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279385.m3u8
+#EXTINF:-1 tvg-chno="242" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/250px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="Colombia",Canal 1 ² 🇨🇴
+http://181.78.8.199:8000/play/a0cz/index.m3u8
 
-#EXTINF:-1 tvg-chno="243" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Logo_Citytv_2023.jpg" group-title="Colombia",City TV ° 🇨🇴
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279389.m3u8
+#EXTINF:-1 tvg-chno="243" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Logo_Citytv_2023.jpg" group-title="Colombia",City TV ² 🇨🇴
+http://181.78.8.199:8000/play/a0ek/index.m3u8
 
 #EXTINF:-1 tvg-chno="244" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/500px-Se%C3%B1al_Colombia_logo.svg.png" group-title="Colombia",Señal Colombia ¹ 🇨🇴
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
@@ -1153,11 +1153,11 @@ https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 #EXTINF:-1 tvg-chno="337" tvg-logo="https://logosnicas.com/wp-content/uploads/2024/02/wtv_canal_20_nueva_guinea.png" group-title="Nicaragua",WTV 20 ¹ 🇭🇳
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
-#EXTINF:-1 tvg-chno="338" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png" group-title="Panamá",Tv Max 🇵🇦
-http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=154363&extension=ts
+#EXTINF:-1 tvg-chno="338" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png" group-title="Panamá",Tv Max ² 🇵🇦
+http://181.78.8.199:8000/play/a0ij/index.m3u8
 
-#EXTINF:-1 tvg-chno="341" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png" group-title="Panamá",TVN 🇵🇦
-http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=154370&extension=ts
+#EXTINF:-1 tvg-chno="341" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png" group-title="Panamá",TVN ² 🇵🇦
+http://181.78.8.199:8000/play/a0ik/index.m3u8
 
 #EXTINF:-1 tvg-chno="341" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png" group-title="Panamá",TVN 2 🇵🇦
 http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=154375&extension=ts
@@ -1307,10 +1307,10 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-chno="391" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Venezolana-de-Televisi%C3%B3n-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Venezuela",Venezolana de TV ² 🇻🇪
-http://38.41.8.1:8000/play/a03i
+http://181.78.8.199:8000/play/a0cp/index.m3u8
 
 #EXTINF:-1 tvg-chno="392" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Televen-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Venezuela",Televen ² 🇻🇪
-http://181.78.8.199:8000/play/a09j/index.m3u8
+http://181.78.8.199:8000/play/a0cd/index.m3u8
 
 #EXTINF:-1 tvg-chno="393" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/TVES-Venezuela-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Venezuela",TVes ² 🇻🇪
 http://181.78.8.199:8000/play/a0ft/index.m3u8
