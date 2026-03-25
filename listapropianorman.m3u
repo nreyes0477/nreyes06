@@ -851,13 +851,19 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279394.m3u8
 
 #EXTINF:-1 tvg-chno="248" tvg-logo="https://filecache.mediaroom.com/mr5mr_dish/178493/2597547_CubaMax_TV_LOGO__thumbnail_3.jpg" group-title="Cuba",Cubamax 🇨🇺
-http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=10083&extension=ts
+http://domestipo1.online:80/live/ser682mun/5w49evr21/17414.m3u8
 
 #EXTINF:-1 tvg-chno="248" tvg-logo="https://www.tvcubana.icrt.cu/images/television.jpg" group-title="Cuba",Cubavisión 🇨🇺
-http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=10079&extension=ts
+http://domestipo1.online:80/live/ser682mun/5w49evr21/17415.m3u8
 
 #EXTINF:-1 tvg-chno="248" tvg-logo="https://i1.sndcdn.com/avatars-yy1Bq6yGeyp4lE6f-vpqpJw-t240x240.jpg" group-title="Cuba",Telemarti 🇨🇺
-http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=10080&extension=ts
+http://domestipo1.online:80/live/ser682mun/5w49evr21/17416.m3u8
+
+#EXTINF:-1 tvg-chno="248" tvg-logo="https://i1.sndcdn.com/avatars-yy1Bq6yGeyp4lE6f-vpqpJw-t240x240.jpg" group-title="Cuba",Multivisión 🇨🇺
+http://domestipo1.online:80/live/ser682mun/5w49evr21/17421.m3u8
+
+#EXTINF:-1 tvg-chno="248" tvg-logo="https://i1.sndcdn.com/avatars-yy1Bq6yGeyp4lE6f-vpqpJw-t240x240.jpg" group-title="Cuba",Cubavisión Internacional 🇨🇺
+http://domestipo1.online:80/live/ser682mun/5w49evr21/17420.m3u8
 
 #EXTINF:-1 tvg-chno="250" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/233px-EcuadorTV_logo.png" group-title="Ecuador",Ecuador TV ¹ 🇪🇨
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
