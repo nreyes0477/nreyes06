@@ -262,8 +262,8 @@ https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Chvcontigoptv.png/revision/latest?cb=20231014035938&path-prefix=es" group-title="Noticias",CHV Contigo ¹ 🇨🇱
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62aa5740a47b6c000769f407livestitch/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=fc4ecd2b-3353-5b86-73d4-12ceedc5a646&deviceDNT=0&deviceModel=0&profilesFromStream=true
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e5061410-82b2-400d-8433-0604666b79c9-profile_banner-480.jpeg" group-title="Noticias",Meganoticias 🇨🇱
-http://00322.xyz:80/live/jieseialberto/XHBR21BVCB/151731.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e5061410-82b2-400d-8433-0604666b79c9-profile_banner-480.jpeg" group-title="Noticias",Meganoticias ¹ 🇨🇱
+https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png" group-title="Noticias",TN Noticias 🇦🇷
 http://domestipo1.online:80/live/ser682mun/5w49evr21/712718.m3u8
@@ -808,8 +808,8 @@ http://38.250.127.17:9800/play/a067/index.m3u8
 #EXTINF:-1 tvg-chno="233" tvg-logo="https://elcomercio.pe/resizer/yihFxlkddrP0HjI7-6_7HKJ7GNc=/992x661/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/VELQ4IWQYZHETFPPHGPNLPTHME.jpg" group-title="Chile",Canal T13 ¹ 🇨🇱
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?did=b131176395625465cbd92084d9a
 
-#EXTINF:-1 tvg-chno="234" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mega_chile-mediano.png" group-title="Chile",Mega 🇨🇱
-http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/1728.ts
+#EXTINF:-1 tvg-chno="234" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mega_chile-mediano.png" group-title="Chile",Mega ¹ 🇨🇱
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="235" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_red_chile-mediano.png" group-title="Chile",La Red ¹ 🇨🇱
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
@@ -2119,6 +2119,9 @@ http://domestipo1.online:80/live/ser682mun/5w49evr21/122517.m3u8
 
 #EXTINF:-1 tvg-chno="696" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/PX_Sports_-_Logo.png/960px-PX_Sports_-_Logo.png" group-title="Deportes",PX Sports 🇲🇽
 http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/103.m3u8
+
+#EXTINF:-1 tvg-chno="696" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/PX_Sports_-_Logo.png/960px-PX_Sports_-_Logo.png" group-title="Deportes",FutGo 🇨🇱
+https://dai.google.com/linear/hls/pa/event/Jxo4ZkwHQr-9XqguRcdsSg/stream/bbe9bcc0-7b52-416a-a3af-ef7f8e05b648:TUL/master.m3u8
 
 #EXTINF:-1 tvg-chno="697" tvg-logo="https://cdn.storage.foromedios.com/monthly_2021_06/large.MeridianoTV2019-1.png.05f368152f6fdb6351c2265a5db41cbb.png" group-title="Deportes",Meridiano 🇻🇪
 http://domestipo1.online:80/live/ser682mun/5w49evr21/18469.m3u8
