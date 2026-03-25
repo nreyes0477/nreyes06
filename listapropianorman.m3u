@@ -772,8 +772,8 @@ http://107.152.39.199:8030/hls/canal13.m3u8
 #EXTINF:-1 tvg-chno="211" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png" group-title="Argentina",El Trece Internacional ² 🇦🇷
 http://45.238.54.67:8000/play/a008/index.m3u8
 
-#EXTINF:-1 tvg-chno="222" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/ATB-en-vivo-Online.png" group-title="Bolivia",ATB ² 🇧🇴
-http://186.121.206.197/live/daniel/index.m3u8
+#EXTINF:-1 tvg-chno="222" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/ATB-en-vivo-Online.png" group-title="Bolivia",ATB 🇧🇴
+http://domestipo1.online:80/live/ser682mun/5w49evr21/193778.m3u8
 
 #EXTINF:-1 tvg-chno="223" tvg-logo="https://3.bp.blogspot.com/-OFbQmNvw9ns/XCFQN1j9pUI/AAAAAAAAHOU/_HbtJbA4x-ADtnD5ol6JDZmTrRmZCtOSgCLcBGAs/w350-h350-p-k-no-nu/Bolivision%2Ben%2Bvivo.png" group-title="Bolivia",Bolivisión ¹ 🇧🇴 
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
@@ -781,17 +781,17 @@ https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-chno="225" tvg-logo="https://static-media.streema.com/media/cache/c4/42/c442ed13a23c1f824bfdb25ab0b1397a.jpg" group-title="Bolivia",Gigavisión ¹ 🇧🇴
 https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8
 
-#EXTINF:-1 tvg-chno="226" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/New_Unitel_logo_HD.jpg" group-title="Bolivia",Unitel ° 🇧🇴 
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278783.m3u8
+#EXTINF:-1 tvg-chno="226" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/New_Unitel_logo_HD.jpg" group-title="Bolivia",Unitel 🇧🇴 
+http://domestipo1.online:80/live/ser682mun/5w49evr21/79397.m3u8
 
 #EXTINF:-1 tvg-chno="227" tvg-logo="https://4.bp.blogspot.com/--7IX2NCKelU/XCFC17d96gI/AAAAAAAAHN0/u3Qj0frMRGMNHKWr3dpKYJfCbbo94kANACLcBGAs/w350-h350-p-k-no-nu/Red%2BUno%2Ben%2Bvivo.png" group-title="Bolivia",Red Uno 🇧🇴 
-http://icomplay.net:80/live/ERNESTO-CLASICO/gspGCAvtDB/464928.m3u8
+http://domestipo1.online:80/live/ser682mun/5w49evr21/193773.m3u8
 
-#EXTINF:-1 tvg-chno="228" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Bolivia",Bolivia TV ¹ 🇧🇴
-http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-chno="228" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Bolivia",Bolivia TV 🇧🇴
+http://domestipo1.online:80/live/ser682mun/5w49evr21/328916.m3u8
 
-#EXTINF:-1 tvg-chno="229" tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/logoaweb.png" group-title="Bolivia",Cadena A 🇧🇴
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=131653&extension=ts
+#EXTINF:-1 tvg-chno="229" tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/logoaweb.png" group-title="Bolivia",RTP 🇧🇴
+http://domestipo1.online:80/live/ser682mun/5w49evr21/2143.m3u8
 
 #EXTINF:-1 tvg-chno="230" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png" group-title="Chile",Chilevisión ² 🇨🇱
 http://170.239.207.48:4050/play/CH64
