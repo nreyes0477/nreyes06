@@ -794,16 +794,16 @@ http://domestipo1.online:80/live/ser682mun/5w49evr21/328916.m3u8
 http://domestipo1.online:80/live/ser682mun/5w49evr21/2143.m3u8
 
 #EXTINF:-1 tvg-chno="230" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png" group-title="Chile",Chilevisión ² 🇨🇱
-http://170.239.207.48:4050/play/CH64
+http://189.50.210.3:8008/play/a046/index.m3u8
 
 #EXTINF:-1 tvg-chno="231" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png" group-title="Chile",TVN ² 🇨🇱
-http://190.60.37.118:4000/play/a00j
+http://189.50.210.3:8008/play/a079/index.m3u8
+
+#EXTINF:-1 tvg-chno="231" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png" group-title="Chile",Canal 13 ² 🇨🇱
+http://189.50.210.3:8008/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-chno="231" tvg-logo="https://www.tvn.cl/tvn/site/artic/20230420/imag/foto_0000000320230420120624/logotvchile.png" group-title="Chile",TV Chile ² 🇨🇱
 http://45.171.64.30:8800/play/a00c
-
-#EXTINF:-1 tvg-chno="232" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png" group-title="Chile",Canal 13 ² 🇨🇱
-http://38.250.127.17:9800/play/a067/index.m3u8
 
 #EXTINF:-1 tvg-chno="233" tvg-logo="https://elcomercio.pe/resizer/yihFxlkddrP0HjI7-6_7HKJ7GNc=/992x661/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/VELQ4IWQYZHETFPPHGPNLPTHME.jpg" group-title="Chile",Canal T13 ¹ 🇨🇱
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?did=b131176395625465cbd92084d9a
@@ -814,8 +814,8 @@ https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="235" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_red_chile-mediano.png" group-title="Chile",La Red ¹ 🇨🇱
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-chno="236" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="Chile",TV + ° 🇨🇱
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278992.m3u8
+#EXTINF:-1 tvg-chno="236" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="Chile",TV + ² 🇨🇱
+http://189.50.210.3:8008/play/a07i/index.m3u8
 
 #EXTINF:-1 tvg-chno="236" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="Chile",Chile Channel TV ¹ 🇨🇱
 https://v2.tustreaming.cl/chilechannel/index.m3u8
