@@ -1006,14 +1006,14 @@ http://200.58.64.244:9000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo PX 🇺🇸
 http://magmas5.com:80/live/trascendentaldecentroamerica/DD4K6G7HJH/148728.ts
 
-#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo PX 🇺🇸 ✔️
-http://2.magmas5.com:80/live/jieseialberto/XHBR21BVCB/148728.m3u8
+#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo AZ 🇺🇸 √
+http://redworld.pro:8880/streaming/clients_live.php?username=Pamela01&password=zF6FSVA5twpF&stream=490432&extension=ts
 
 #EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo SD 🇺🇸
 http://magmas5.com:80/live/trascendentaldecentroamerica/DD4K6G7HJH/148733.ts
 
-#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo LA 🇺🇸
-http://magmas5.com:80/live/trascendentaldecentroamerica/DD4K6G7HJH/148723.ts
+#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo LA 🇺🇸 √
+http://redworld.pro:8880/streaming/clients_live.php?username=Pamela01&password=zF6FSVA5twpF&stream=490423&extension=ts
 
 #EXTINF:-1 tvg-chno="289" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png" group-title="EUA Latino",Galavisión AU 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148740&extension=ts
