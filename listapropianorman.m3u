@@ -1069,9 +1069,6 @@ https://dvrfl03.bozztv.com/hondu-azteca/index.m3u8
 #EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno 🇲🇽
 http://kstv.us:8080/live/uAf2e8KWbg/8722455439/46937.m3u8
 
-#EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno Regional 🇲🇽
-http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/167826.m3u8
-
 #EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno -2hr 🇲🇽
 http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alexmargarita&password=lwDRib5ooT&stream=87575&extension=ts
 
@@ -1084,8 +1081,8 @@ http://200.92.227.238:8000/play/a0uw/index.m3u8
 #EXTINF:-1 tvg-chno="312" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png" group-title="México",Azteca 7 🇲🇽
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13366&extension=ts
 
-#EXTINF:-1 tvg-chno="313" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/724px-Canal_5_2016.svg.png" group-title="México",Canal 5 🇲🇽
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13122&extension=ts
+#EXTINF:-1 tvg-chno="313" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/724px-Canal_5_2016.svg.png" group-title="México",Canal 5 ² 🇲🇽
+http://200.115.120.1:8000/play/ca0105/index.m3u8
 
 #EXTINF:-1 tvg-chno="314" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="México",Las Estrellas Latino ¹ 🇲🇽
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
