@@ -1685,7 +1685,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/35.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/33.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://marcasur.com/archivos/revista/notas/45ee4663b4c7fc571d08589befaabe05.jpg" group-title="Cine y Películas",HBO Chile ²
-http://181.128.145.103:4000/play/a02q/index.m3u8
+http://45.232.210.1:18000/play/a0b3/index.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://e01-phantom-elmundo.uecdn.es/21e96d7e4c1124a7af7efff26ebcaa58/resize/828/f/webp/assets/multimedia/imagenes/2021/10/26/16352415827188.jpg" group-title="Cine y Películas",HBO Max
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=46652&extension=ts
