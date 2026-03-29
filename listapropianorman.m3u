@@ -1073,22 +1073,19 @@ http://kstv.us:8080/live/uAf2e8KWbg/8722455439/46937.m3u8
 http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alexmargarita&password=lwDRib5ooT&stream=87575&extension=ts
 
 #EXTINF:-1 tvg-chno="311" tvg-logo="https://mexio.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno -1hr 🇲🇽
-http://cdn1host.online:2999/streaming/clients_live.php?username=xman2&password=hhqgjFfHXF&stream=66432&extension=ts
-
-#EXTINF:-1 tvg-chno="312" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png" group-title="México",Azteca 7 ² 🇲🇽
-http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
+http://domestipo1.online:80/live/ser682mun/5w49evr21/672229.m3u8
 
 #EXTINF:-1 tvg-chno="312" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png" group-title="México",Azteca 7 🇲🇽
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13366&extension=ts
+http://domestipo1.online:80/live/ser682mun/5w49evr21/122532.m3u8
 
-#EXTINF:-1 tvg-chno="313" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/724px-Canal_5_2016.svg.png" group-title="México",Canal 5 ² 🇲🇽
-http://200.115.120.1:8000/play/ca0105/index.m3u8
+#EXTINF:-1 tvg-chno="313" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/724px-Canal_5_2016.svg.png" group-title="México",Canal 5 🇲🇽
+http://domestipo1.online:80/live/ser682mun/5w49evr21/122572.m3u8
 
 #EXTINF:-1 tvg-chno="314" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="México",Las Estrellas Latino ¹ 🇲🇽
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-chno="314" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="México",Las Estrellas MX ² 🇲🇽
-http://148.222.225.136:8004/play/a03w/index.m3u8
+#EXTINF:-1 tvg-chno="314" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="México",Las Estrellas MX 🇲🇽
+http://domestipo1.online:80/live/ser682mun/5w49evr21/122601.m3u8
 
 #EXTINF:-1 tvg-chno="314" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"bgroup-title="México",Las Estrellas Latino -2hr ² 🇲🇽
 http://200.58.64.244:9000/play/a00z/index.m3u8
@@ -1099,23 +1096,23 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-chno="316" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo-Imagen-TV-MX.png/800px-Logo -Imagen-TV-MX.png" group-title="México",Imagen TV ² 🇲🇽
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
-#EXTINF:-1 tvg-chno="317" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/400px-Unicable_logo.svg.png" group-title="México",Unicable ᵇᵘ 🇲🇽
-http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/278446.m3u8
+#EXTINF:-1 tvg-chno="317" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/400px-Unicable_logo.svg.png" group-title="México",Unicable 🇲🇽
+http://domestipo1.online:80/live/ser682mun/5w49evr21/122656.m3u8
 
-#EXTINF:-1 tvg-chno="319" tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default_mobile/public/images/logos/canl-nueve-100x100.png" group-title="México",Nu9ve ᵇ 🇲🇽
-http://budtvlight.com:25461/live/Astro/120388/814396.m3u8
+#EXTINF:-1 tvg-chno="319" tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default_mobile/public/images/logos/canl-nueve-100x100.png" group-title="México",Nu9ve 🇲🇽
+http://domestipo1.online:80/live/ser682mun/5w49evr21/122625.m3u8
 
-#EXTINF:-1 tvg-chno="320" tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png" group-title="México",Canal Once ¹ 🇲🇽 
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1 tvg-chno="320" tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png" group-title="México",Canal Once 🇲🇽 
+http://domestipo1.online:80/live/ser682mun/5w49evr21/122582.m3u8
 
 #EXTINF:-1 tvg-chno="320" tvg-logo="https://cdn.mitvstatic.com/channels/sv_de-pelicula_m.png" group-title="México",D Película 🇲🇽 
-http://go.iptvhn.net:25461/live/7789/7789/13168.m3u8
+http://domestipo1.online:80/live/ser682mun/5w49evr21/46120.m3u8
 
 #EXTINF:-1 tvg-chno="321" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/Cinema_Logo_Black.png" group-title="México",Azteca Cinema ᵇ 🇲🇽
 http://budtvlight.com:25461/live/Astro/120388/815026.m3u8
 
 #EXTINF:-1 tvg-chno="321" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2017/02/CineMexicano_Logo.png" group-title="México",Cine Mexicano 🇲🇽
-http://go.iptvhn.net:25461/live/7789/7789/13344.m3u8
+http://domestipo1.online:80/live/ser682mun/5w49evr21/205870.m3u8
 
 #EXTINF:-1 tvg-chno="322" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="México",Las Estrellas (Internacional) ² 🇲🇽
 http://45.5.119.43:4000/play/a02c/index.m3u8
