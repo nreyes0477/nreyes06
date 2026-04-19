@@ -1,14 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC Fight Night  (1)
-http://domestipo1.online:80/live/ser682mun/5w49evr21/761491.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC Fight Night (1) ¹
+https://cc324.streamingtv339.com:443/paramount1/index.m3u8?token=743e587955e215f81248ec0baf2b2ada0413c0f7-f4-1776602190-1776548190&ip=186.64.132.238
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC Fight Night  (2) ¹
-https://14c51.streameasthd.net/global/paramount1/index.m3u8?token=961f98d00fa8a9b5722d630854385c1eab788920-11-1774790736-1774736736&ip=186.64.132.238
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC Fight Night (2) ¹
+https://244pl.streamingtv339.com/live/paramount1/index.m3u8?token=74e3db5d6a2da1f81e9bfe53ea57043b16f390da-f6-1776602726-1776548726&ip=186.64.132.238
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC 326 Las Vegas (Estelares) (5) 
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC Fight Night (3) ¹
+https://cc324.streamingtv339.com/live/paramount1/index.m3u8?token=743e587955e215f81248ec0baf2b2ada0413c0f7-f4-1776602190-1776548190&ip=186.64.132.238
 
-
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC Fight Night (4) ¹
+https://244pl.streamingtv339.com/paramount1/tracks-v1a1/mono.m3u8?ip=186.64.132.238&token=74e3db5d6a2da1f81e9bfe53ea57043b16f390da-f6-1776602726-1776548726
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://canal1cr.com/wp-content/uploads/2023/02/logo-canal-1-png.png" group-title="Nacionales",Canal 1 CR ¹ 🇨🇷
 https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
