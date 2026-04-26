@@ -1832,6 +1832,9 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/21911
 #EXTINF:-1 tvg-chno="611" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="Deportes",TUDN México ² 🇲🇽
 http://190.61.114.186:8000/play/a01o/index.m3u8
 
+#EXTINF:-1 tvg-chno="611" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="Deportes",TUDN Centro América ¹
+https://futbol9865.ultratv13.workers.dev/deportivo111/106.m3u8
+
 #EXTINF:-1 tvg-chno="612" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1536x329.png" group-title="Deportes",Sky Sports ² 🇲🇽
 http://181.78.106.127:9000/play/ca028
 
@@ -1968,17 +1971,11 @@ http://217.26.190.76:8888/play/a0co/index.m3u8
 #EXTINF:-1 tvg-chno="666" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports 2 🇦🇷
 http://domestipo1.online:80/live/ser682mun/5w49evr21/69549.m3u8
 
-#EXTINF:-1 tvg-chno="667" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DSports Fight 🇦🇷
+#EXTINF:-1 tvg-chno="667" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports + ¹ 🇦🇷
+https://futbol9865.ultratv13.workers.dev/deportivo111/96.m3u8
+
+#EXTINF:-1 tvg-chno="668" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DSports Fight 🇦🇷
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47093&extension=ts
-
-#EXTINF:-1 tvg-chno="667" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports ² 🇺🇾
-http://45.238.54.67:8000/play/a02y/index.m3u8
-
-#EXTINF:-1 tvg-chno="667" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports 2 ² 🇺🇾
-http://45.238.54.67:8000/play/a06d/index.m3u8
-
-#EXTINF:-1 tvg-chno="667" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports Premium ² 🇺🇾
-http://45.238.54.67:8000/play/a066/index.m3u8
 
 #EXTINF:-1 tvg-chno="668" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png" group-title="Deportes",TyC Sports Argentina ¹ 🇦🇷
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
