@@ -1,9 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC Fight Night (1) ¹
-https://kz895.streamingtv339.com/flizx/paramount1/index.m3u8?token=570f98cbf466aeef6270e6619a6561bbd14e2476-89-1777208060-1777154060&ip=186.64.132.238
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC Fight Night (1) 
+http://domestipo1.online:80/live/ser682mun/5w49evr21/769441.ts
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC Fight Night (2) ¹
+https://kz895.streamingtv339.com/flizx/paramount1/index.m3u8?token=570f98cbf466aeef6270e6619a6561bbd14e2476-89-1777208060-1777154060&ip=186.64.132.238
+
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC Fight Night (3) ¹
 https://pr745.streamingtv339.com/flizx/paramount1/index.m3u8?token=7590221c0c9af48b63ee887187fd16f08822a26c-52-1777208306-1777154306&ip=186.64.132.28
 
 
