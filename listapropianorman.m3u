@@ -1808,9 +1808,6 @@ http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722
 #EXTINF:-1 tvg-chno="609" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-04.jpg" group-title="Deportes",Fox Sports México 🇲🇽
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47128&extension=ts
 
-#EXTINF:-1 tvg-chno="609" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-04.jpg" group-title="Deportes",Fox Sports México (Prime) 🇲🇽
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/617.m3u8
-
 #EXTINF:-1 tvg-chno="609" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-05.jpg" group-title="Deportes",Fox Sports 2 México 🇲🇽
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47119&extension=ts
 
@@ -1853,8 +1850,8 @@ http://200.92.227.238:8000/play/a0qe/index.m3u8
 #EXTINF:-1 tvg-chno="613" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png" group-title="Deportes",Claro Sports 2 México ² 🇲🇽
 http://200.92.227.238:8000/play/a0us/index.m3u8
 
-#EXTINF:-1 tvg-chno="615" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/3/30/HISportslogo.png/revision/latest?cb=20230427055859&path-prefix=es" group-title="Deportes",Hi! Sports TV ᵇᵘ 🇲🇽
-http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/298375.m3u8
+#EXTINF:-1 tvg-chno="615" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/3/30/HISportslogo.png/revision/latest?cb=20230427055859&path-prefix=es" group-title="Deportes",Hi! Sports TV ² 🇲🇽
+http://148.230.149.45:1020/play/a01u/index.m3u8
 
 #EXTINF:-1 tvg-chno="616" tvg-logo="https://lasociedaddelcontenido.com/wp-content/uploads/2025/05/Copia-de-Imagen-2-1536x864.jpg" group-title="Deportes",Telemundo Deportes ¹ 🇺🇸
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88884639/hls/master.m3u8?declaredCC1Language=es&ads.xumo_channelId=88884639&ads.xumo_streamId=88884639&ads.channelId=88884639&ads.channelName=telemundodeportesahora_us&ads.csid=tcl2_us_telemundodeportesahora_ssai&ads.caid=TelemundoDeportesAhora&ads.genre=Sport&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=es&ads._fw_content_rating=vt-pg&ads._fw_coppa=o&ads._fw_h_x_country=US&ads.xumo_contentId=4281&ads.xumo_contentName=TelemundoDeportesAhora&ads.xumo_providerId=4281&ads.xumo_providerName=TelemundoDeportesAhora&ads.xumo_channelName=TelemundoDeportesAhora&includeAssetTags=true&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
