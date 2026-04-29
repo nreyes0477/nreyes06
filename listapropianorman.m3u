@@ -7,8 +7,6 @@ https://api.videx.lol/paramount1/mono.m3u8?key=paramount1
 
 
 
-
-
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://canal1cr.com/wp-content/uploads/2023/02/logo-canal-1-png.png" group-title="Nacionales",Canal 1 CR ¹ 🇨🇷
 https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
 
@@ -999,20 +997,14 @@ http://200.58.64.244:9000/play/a016/index.m3u8
 #EXTINF:-1 tvg-chno="286" tvg-logo="https://i.postimg.cc/qRHv3bMp/telem-aldia.jpg" group-title="EUA Latino",Telemundo Al Día ¹ 🇺🇸
 https://dmfxzlz63pfyh.cloudfront.net/10508/88886036/hls/master.m3u8?ads.xumo_channelId=88886036
 
-#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo US ¹ 🇺🇸
+#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo NY ¹ 🇺🇸
 https://deportivo922.ultraflixapp.workers.dev/deportivo111/73.m3u8
 
-#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo PX 🇺🇸 
-http://tv.zapping.life:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8367.m3u8
+#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo MI 🇺🇸 
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/2346.ts
 
-#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo AZ 🇺🇸 
-http://tv.zapping.life:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8368.m3u8
-
-#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo SD 🇺🇸
-http://magmas5.com:80/live/trascendentaldecentroamerica/DD4K6G7HJH/148733.ts
-
-#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo LA 🇺🇸 ✔️
-http://tv.zapping.life:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8354.m3u8
+#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo LA 🇺🇸 
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/2345.ts
 
 #EXTINF:-1 tvg-chno="289" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png" group-title="EUA Latino",Galavisión AU 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148740&extension=ts
