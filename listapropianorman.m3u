@@ -976,8 +976,8 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 #EXTINF:-1 tvg-chno="278" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png" group-title="EUA Latino",NBC Universo ¹ 🇺🇸
 https://futbol9865.ultratv13.workers.dev/deportivo111/72.m3u8
 
-#EXTINF:-1 tvg-chno="279" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/300px-Estrella_TV_Logo_2020.png" group-title="EUA Latino",Estrella TV ¹ 🇺🇸
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv:80/stitch/hls/channel/5cf0622da00ca1e2f6fac712livestitch/2977920/playlist.m3u8?terminate=false&sid=73f1f3b5-9aab-48b7-b385-cc16a962802a&deviceDNT=0&deviceModel=web&deviceVersion=unknown&appName=web&deviceId=6c28a355-30d3-11ef-9cf5-e9ddff8ff496&appVersion=unknown&deviceType=web&deviceMake=Chrome
+#EXTINF:-1 tvg-chno="279" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/300px-Estrella_TV_Logo_2020.png" group-title="EUA Latino",Estrella TV 🇺🇸
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/607.ts
 
 #EXTINF:-1 tvg-chno="280" tvg-logo="https://img.onesignal.com/t/9386b748-b30f-4f48-946a-361ce4f6c8cc.jpg" group-title="EUA Latino",Mega TV 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=156070&extension=ts
@@ -985,14 +985,8 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 #EXTINF:-1 tvg-chno="281" tvg-logo="https://www.elnuevoherald.com/public/ultimas-noticias/d5nt1t/picture246909672/alternates/LANDSCAPE_480/univision%20logo.jpg" group-title="EUA Latino",Univisión US ² 🇺🇸
 http://200.92.227.238:8000/play/a0q3/index.m3u8
 
-#EXTINF:-1 tvg-chno="283" tvg-logo="https://www.elnuevoherald.com/public/ultimas-noticias/d5nt1t/picture246909672/alternates/LANDSCAPE_480/univision%20logo.jpg" group-title="EUA Latino",Univisión SF 🇺🇸
-http://go.iptvhn.net:25461/live/7785/7785/13317.m3u8
-
-#EXTINF:-1 tvg-chno="284" tvg-logo="https://www.elnuevoherald.com/public/ultimas-noticias/d5nt1t/picture246909672/alternates/LANDSCAPE_480/univision%20logo.jpg" group-title="EUA Latino",Univisión PH ° 🇺🇸
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278687.m3u8
-
-#EXTINF:-1 tvg-chno="284" tvg-logo="https://www.elnuevoherald.com/public/ultimas-noticias/d5nt1t/picture246909672/alternates/LANDSCAPE_480/univision%20logo.jpg" group-title="EUA Latino",Univisión LA ² 🇺🇸
-http://200.58.64.244:9000/play/a016/index.m3u8
+#EXTINF:-1 tvg-chno="283" tvg-logo="https://www.elnuevoherald.com/public/ultimas-noticias/d5nt1t/picture246909672/alternates/LANDSCAPE_480/univision%20logo.jpg" group-title="EUA Latino",Univisión US 🇺🇸
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/16.ts
 
 #EXTINF:-1 tvg-chno="286" tvg-logo="https://i.postimg.cc/qRHv3bMp/telem-aldia.jpg" group-title="EUA Latino",Telemundo Al Día ¹ 🇺🇸
 https://dmfxzlz63pfyh.cloudfront.net/10508/88886036/hls/master.m3u8?ads.xumo_channelId=88886036
@@ -1006,20 +1000,14 @@ http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/2346.ts
 #EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo LA 🇺🇸 
 http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/2345.ts
 
-#EXTINF:-1 tvg-chno="289" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png" group-title="EUA Latino",Galavisión AU 🇺🇸
+#EXTINF:-1 tvg-chno="289" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png" group-title="EUA Latino",Galavisión US 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148740&extension=ts
 
-#EXTINF:-1 tvg-chno="290" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png" group-title="EUA Latino",Galavisión East 🇺🇸
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=147076&extension=ts
+#EXTINF:-1 tvg-chno="293" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png" group-title="EUA Latino",Unimás US 🇺🇸
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/2315.ts
 
-#EXTINF:-1 tvg-chno="293" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png" group-title="EUA Latino",Unimás US ² 🇺🇸
-http://200.58.64.244:9000/play/a00x/index.m3u8
-
-#EXTINF:-1 tvg-chno="295" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png" group-title="EUA Latino",Unimás LV 🇺🇸
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148753&extension=ts
-
-#EXTINF:-1 tvg-chno="299" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/telemundo.jpg" group-title="EUA Latino",Telemundo Internacional ² 🇺🇸
-http://148.222.225.136:8004/play/a080/index.m3u8
+#EXTINF:-1 tvg-chno="299" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/telemundo.jpg" group-title="EUA Latino",Telemundo Internacional 🇺🇸
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/74.ts
 
 #EXTINF:-1 tvg-chno="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_5_HN_logo.png/180px-Canal_5_HN_logo.png" group-title="Honduras",Canal 5 🇭🇳
 http://go.iptvhn.net:25461/live/7789/7789/13145.m3u8
