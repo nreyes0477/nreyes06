@@ -692,25 +692,25 @@ http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/151.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 
 #EXTINF:-1 tvg-chno="110" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiqQ9lUlw4pvSzEiWX4ooP4MooP0Wc0biiDhhe2VmS6xai3ylPZvbEap5uXo-JAgMQOnsHjO9RNSaG6P7BSAlEiIGr9BboE03RZqaIjPU7cdgPSrvL8WYNoSKZe6Zv8yaLMYQDd6_Tf1yG/s16000-rw/cartoonito.jpg" group-title="Infantiles",Cartoonito
-http://181.78.101.241:8080/live/carlosmadrid.best/CMadrid25$/15.m3u8
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/15.ts
 
 #EXTINF:-1 tvg-chno="110" tvg-logo="https://www.adlatina.com/uploads/img/fotoNoticiaG31575.jpg" group-title="Infantiles",Discovery Kids
-http://181.78.101.241:8080/live/carlosmadrid.best/CMadrid25$/38.m3u8
+http://181.78.101.241:8080/live/carlosmadrid.best/CMadrid25$/38.ts
 
 #EXTINF:-1 tvg-chno="110" tvg-logo="https://cms-media.clink.services/Mobile_ree4ih.png" group-title="Infantiles",Disney Jr
-http://181.78.101.241:8080/live/carlosmadrid.best/CMadrid25$/46.m3u8
+http://181.78.101.241:8080/live/carlosmadrid.best/CMadrid25$/46.ts
 
 #EXTINF:-1 tvg-chno="110" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMCfXW-h5-_x_dvl8OEDdodTS4SBMRQhv5Y_nGhaLUo5SYqx230Vw1WiJ8idZ3aFOCwla6MXfYeIN_FATfCUXFQMS9xH20VJr9t4bblUtzKQvrp3Rgafs35Knqs9v79FDtpkESS2w5pPs2bAOEIXvnHweDR5Q7BMnNbZriovYar1LZ83W6mrrnHzeuI93Q/w640-h360-rw/f27cda21-4305-464b-a73e-3f4aebccb467.jpg" group-title="Infantiles",Nick Jr
-http://181.78.101.241:8080/live/carlosmadrid.best/CMadrid25$/22.m3u8
+http://181.78.101.241:8080/live/carlosmadrid.best/CMadrid25$/22.ts
 
 #EXTINF:-1 tvg-chno="110" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/nickelodeon_2023_logo_6.png" group-title="Infantiles",Nickelodeon 
-http://181.78.101.241:8080/live/carlosmadrid.best/CMadrid25$/63.m3u8
+http://181.78.101.241:8080/live/carlosmadrid.best/CMadrid25$/63.ts
 
 #EXTINF:-1 tvg-chno="110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/500px-2019_Disney_Channel_logo.svg.png" group-title="Infantiles",Disney Channel 
-http://181.78.101.241:8080/live/carlosmadrid.best/CMadrid25$/45.m3u8
+http://181.78.101.241:8080/live/carlosmadrid.best/CMadrid25$/45.ts
 
 #EXTINF:-1 tvg-chno="110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/330px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles",Cartoon Network 
-http://181.78.101.241:8080/live/carlosmadrid.best/CMadrid25$/5.m3u8
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/5.ts
 
 #EXTINF:-1 tvg-chno="110" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/b/b8/DreamWorks_Animationl_ogo.svg.png/500px-DreamWorks_Animationl_ogo.svg.png" group-title="Infantiles",Dreamworks 
 http://go.iptvhn.net:25461/live/7789/7789/13336.m3u8
