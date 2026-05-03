@@ -1675,28 +1675,28 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/8503
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7472
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png" group-title="Cine y Películas",HBO Sur ²
-http://181.78.109.48:9998/play/a017
+http://45.171.64.30:8800/play/a015
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" group-title="Cine y Películas",HBO 2 Sur ²
-http://181.78.109.48:9998/play/a018
+http://45.171.64.30:8800/play/a016
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png" group-title="Cine y Películas",HBO Family Sur ²
-http://181.78.109.48:9998/play/a01a
+http://200.115.120.1:8000/play/ca135/index.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png" group-title="Cine y Películas",HBO Plus Sur ²
-http://181.78.109.48:9998/play/a019
+http://200.115.120.1:8000/play/ca137/index.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png" group-title="Cine y Películas",HBO Pop Sur ²
-http://189.50.210.3:8008/play/a034
+http://200.115.120.1:8000/play/ca138/index.m3u8
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png" group-title="Cine y Películas",HBO Signature Sur 
-http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=46637&extension=ts
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png" group-title="Cine y Películas",HBO Signature Sur ²
+http://200.115.120.1:8000/play/ca139/index.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png" group-title="Cine y Películas",HBO Xtreme Sur ²
-http://181.78.109.48:9998/play/a01b
+http://45.171.64.30:8800/play/a019
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png" group-title="Cine y Películas",HBO Mundi Sur ²
-http://189.50.210.3:8008/play/a071
+http://200.115.120.1:8000/play/ca136/index.m3u8
 
 #EXTINF:-1 tvg-chno="598" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="Cine y Películas",Universal Channel ²
 http://190.60.49.242:4000/play/a0jh
