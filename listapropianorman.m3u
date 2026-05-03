@@ -1687,7 +1687,7 @@ http://200.115.120.1:8000/play/ca135/index.m3u8
 http://200.115.120.1:8000/play/ca137/index.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png" group-title="Cine y Películas",HBO Pop Sur
-http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/195517.ts
+http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/195518.ts
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png" group-title="Cine y Películas",HBO Signature Sur ²
 http://200.115.120.1:8000/play/ca139/index.m3u8
