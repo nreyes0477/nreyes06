@@ -1,9 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC Fight Night (1) 
-https://api.videx.lol/paramount1/mono.m3u8?key=paramount1
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC Fight Night (1)
+http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/774888.ts
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC Fight Night (2) ¹
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC Fight Night (2)
+http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/774562.ts
+
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC Fight Night (3)
+http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/597152.ts
+
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="Eventos",UFC Fight Night (4) ¹
+https://api.videx.lol/paramount1/mono.m3u8?key=paramount1
 
 
 
