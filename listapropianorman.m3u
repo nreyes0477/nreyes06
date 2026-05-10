@@ -982,8 +982,8 @@ https://rtvelivestream.rtve.es/rtvesec/int/tvei_ame_main_dvr.m3u8
 #EXTINF:-1 tvg-chno="277" tvg-logo="https://www.theseniorlist.com/app/uploads/2023/08/FuboTV_logo-1024x350.png" group-title="EUA Latino",Fubo Latino 🇺🇸
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=194161&extension=ts
 
-#EXTINF:-1 tvg-chno="278" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png" group-title="EUA Latino",NBC Universo ¹ 🇺🇸
-https://futbol9865.ultratv13.workers.dev/deportivo111/72.m3u8
+#EXTINF:-1 tvg-chno="278" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png" group-title="EUA Latino",NBC Universo ² 🇺🇸
+http://190.61.114.186:8000/play/a03v/index.m3u8
 
 #EXTINF:-1 tvg-chno="279" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/300px-Estrella_TV_Logo_2020.png" group-title="EUA Latino",Estrella TV ¹ 🇺🇸
 https://estrellatv-oando.amagi.tv/playlistR1080p.m3u8
@@ -1015,8 +1015,8 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 #EXTINF:-1 tvg-chno="293" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png" group-title="EUA Latino",Unimás US 🇺🇸
 http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/2315.ts
 
-#EXTINF:-1 tvg-chno="299" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/telemundo.jpg" group-title="EUA Latino",Telemundo Internacional 🇺🇸
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/74.ts
+#EXTINF:-1 tvg-chno="299" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/telemundo.jpg" group-title="EUA Latino",Telemundo Internacional ² 🇺🇸
+http://190.61.114.186:8000/play/a047/index.m3u8
 
 #EXTINF:-1 tvg-chno="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_5_HN_logo.png/180px-Canal_5_HN_logo.png" group-title="Honduras",Canal 5 🇭🇳
 http://go.iptvhn.net:25461/live/7789/7789/13145.m3u8
@@ -1064,7 +1064,7 @@ http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alexmargar
 http://domestipo1.online:80/live/ser682mun/5w49evr21/672229.m3u8
 
 #EXTINF:-1 tvg-chno="312" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png" group-title="México",Azteca 7 ² 🇲🇽
-http://38.49.128.38:8000/play/a0la/index.m3u8
+http://148.230.149.45:1020/play/a005/index.m3u8
 
 #EXTINF:-1 tvg-chno="313" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/724px-Canal_5_2016.svg.png" group-title="México",Canal 5 ² 🇲🇽
 http://185.56.109.253/Canal5/playlist.m3u8
@@ -1822,8 +1822,8 @@ http://190.92.10.66:4000/play/a006/index.m3u8
 #EXTINF:-1 tvg-chno="612" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1536x329.png" group-title="Deportes",Sky Sports La Liga (1) 🇲🇽
 http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/585048.ts
 
-#EXTINF:-1 tvg-chno="612" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1536x329.png" group-title="Deportes",Sky Sports La Liga (2) 🇲🇽
-
+#EXTINF:-1 tvg-chno="612" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1536x329.png" group-title="Deportes",Sky Sports La Liga (2)² 🇲🇽
+http://190.92.10.66:4000/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-chno="613" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png" group-title="Deportes",Claro Sports México 🇲🇽
 http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/592034.ts
