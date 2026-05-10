@@ -1825,11 +1825,11 @@ http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/585048.ts
 #EXTINF:-1 tvg-chno="612" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1536x329.png" group-title="Deportes",Sky Sports La Liga (2) 🇲🇽
 
 
-#EXTINF:-1 tvg-chno="613" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png" group-title="Deportes",Claro Sports México ² 🇲🇽
-http://200.92.227.238:8000/play/a0qe/index.m3u8
+#EXTINF:-1 tvg-chno="613" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png" group-title="Deportes",Claro Sports México 🇲🇽
+http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/592034.ts
 
-#EXTINF:-1 tvg-chno="613" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png" group-title="Deportes",Claro Sports 2 México ² 🇲🇽
-http://200.92.227.238:8000/play/a0us/index.m3u8
+#EXTINF:-1 tvg-chno="613" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png" group-title="Deportes",Claro Sports 2 México 🇲🇽
+http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/592035.ts
 
 #EXTINF:-1 tvg-chno="615" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/3/30/HISportslogo.png/revision/latest?cb=20230427055859&path-prefix=es" group-title="Deportes",Hi! Sports TV ² 🇲🇽
 http://148.230.149.45:1020/play/a01u/index.m3u8
@@ -1844,7 +1844,7 @@ https://futbol9865.ultratv13.workers.dev/deportivo111/71.m3u8
 http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/595818.ts
 
 #EXTINF:-1 tvg-chno="618" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="Deportes",TUDN USA 🇺🇸
-http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47140&extension=ts
+http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/592018.ts
 
 #EXTINF:-1 tvg-chno="618" tvg-logo="https://iili.io/J2wureR.png" group-title="Deportes",Zona TUDN USA 🇺🇸
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7763
