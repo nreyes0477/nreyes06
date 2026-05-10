@@ -1067,7 +1067,7 @@ http://domestipo1.online:80/live/ser682mun/5w49evr21/672229.m3u8
 http://38.49.128.38:8000/play/a0la/index.m3u8
 
 #EXTINF:-1 tvg-chno="313" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/724px-Canal_5_2016.svg.png" group-title="México",Canal 5 ² 🇲🇽
-http://38.49.128.38:8000/play/a0n6/index.m3u8
+http://185.56.109.253/Canal5/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="314" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="México",Las Estrellas Latino ¹ 🇲🇽
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -1096,7 +1096,7 @@ http://domestipo1.online:80/live/ser682mun/5w49evr21/122582.m3u8
 #EXTINF:-1 tvg-chno="320" tvg-logo="https://cdn.mitvstatic.com/channels/sv_de-pelicula_m.png" group-title="México",D Película 🇲🇽 
 http://domestipo1.online:80/live/ser682mun/5w49evr21/46120.m3u8
 
-#EXTINF:-1 tvg-chno="321" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/Cinema_Logo_Black.png" group-title="México",Azteca Cinema ᵇ 🇲🇽
+#EXTINF:-1 tvg-chno="321" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/Cinema_Logo_Black.png" group-title="México",Azteca Cinema 🇲🇽
 http://budtvlight.com:25461/live/Astro/120388/815026.m3u8
 
 #EXTINF:-1 tvg-chno="321" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2017/02/CineMexicano_Logo.png" group-title="México",Cine Mexicano 🇲🇽
@@ -1866,7 +1866,7 @@ http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47103&extension=ts
 
 #EXTINF:-1 tvg-chno="630" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png" group-title="Deportes",ESPN Premium 🇦🇷 (1) ²
-http://189.50.210.3:8008/play/a04l/index.m3u8
+http://147.135.114.221:8001/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-chno="631" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Chile 🇨🇱
 http://www.1play.cool:25461/live/2132580232/27be478b47/170409.m3u8
@@ -1944,7 +1944,7 @@ http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/592036.ts
 http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/712756.ts
 
 #EXTINF:-1 tvg-chno="665" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports (3) ² 🇦🇷
-http://217.26.190.76:8888/play/a0co/index.m3u8
+http://147.135.114.221:8001/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-chno="666" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports 2 🇦🇷
 http://domestipo1.online:80/live/ser682mun/5w49evr21/69549.m3u8
@@ -2030,16 +2030,19 @@ http://domestipo1.online:80/live/ser682mun/5w49evr21/13769.m3u8
 #EXTINF:-1 tvg-chno="684" tvg-logo="https://elcomercio-elcomercio-prod.web.arc-cdn.net/resizer/v2/SI7SCQMDSFHVPMWEG7JTBRDA4E.jpg?auth=ee9002b30119e489b0177c3764bb01abd56ae3d285b2b42f2a1a3f8b0d0b455a&width=600&height=400&smart=true&quality=75" group-title="Deportes",Movistar Deportes 🇵🇪 
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7397
 
-#EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Panamá ° 🇵🇦
+#EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Panamá 🇵🇦
 http://172.93.102.112:8989/279308_.m3u8
 
 #EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Guatemala 🇬🇹
-http://corgol.com@canal-pro.xyz:8080/966119620tv/55ce67/69396
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
 
-#EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Honduras ᵇᵘ 🇭🇳
+#EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Honduras 🇭🇳
 http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/299270.m3u8
 
 #EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Bolivia 🇧🇴
+http://m3u.tvcluboficial.com/free/Jose_Mejia/V3f/905.m3u8
+
+#EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports + 🇬🇹
 http://m3u.tvcluboficial.com/free/Jose_Mejia/V3f/905.m3u8
 
 #EXTINF:-1 tvg-chno="685" tvg-logo="https://nicasports.tv/imagenes/logo.png" group-title="Deportes",Nica Sports TV ² 🇳🇮
