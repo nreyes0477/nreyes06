@@ -998,8 +998,8 @@ http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/16.ts
 #EXTINF:-1 tvg-chno="286" tvg-logo="https://i.postimg.cc/qRHv3bMp/telem-aldia.jpg" group-title="EUA Latino",Telemundo Al Día ¹ 🇺🇸
 https://dmfxzlz63pfyh.cloudfront.net/10508/88886036/hls/master.m3u8?ads.xumo_channelId=88886036
 
-#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo NY ¹ 🇺🇸
-https://deportivo922.ultraflixapp.workers.dev/deportivo111/73.m3u8
+#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo CH 🇺🇸
+http://peaky.techcoder40.workers.dev/5947.m3u8
 
 #EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo MI 🇺🇸 
 http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/2346.ts
