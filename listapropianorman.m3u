@@ -1820,8 +1820,8 @@ http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1 tvg-chno="613" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png" group-title="Deportes",Claro Sports México 🇲🇽
 http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/592034.ts
 
-#EXTINF:-1 tvg-chno="613" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png" group-title="Deportes",Claro Sports 2 México 🇲🇽
-http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/592035.ts
+#EXTINF:-1 tvg-chno="613" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png" group-title="Deportes",Claro Sports 2 México ᵐᵍ 🇲🇽
+http://m3u.tvcluboficial.com/m/m/201.m3u8
 
 #EXTINF:-1 tvg-chno="615" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/3/30/HISportslogo.png/revision/latest?cb=20230427055859&path-prefix=es" group-title="Deportes",Hi! Sports TV ² 🇲🇽
 http://148.230.149.45:1020/play/a01u/index.m3u8
@@ -1835,14 +1835,14 @@ http://m3u.tvcluboficial.com/m/m/1165.m3u8
 #EXTINF:-1 tvg-chno="617" tvg-logo="https://newswhip.sirv.com/WP_www.newswhip.com/2018/02/Espndeportes.png" group-title="Deportes",ESPN Deportes (2) 🇺🇲
 http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/595818.ts
 
-#EXTINF:-1 tvg-chno="618" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="Deportes",TUDN USA 🇺🇸
-http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/595921.ts
+#EXTINF:-1 tvg-chno="618" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="Deportes",TUDN USA ᵐᵍ 🇺🇸
+http://m3u.tvcluboficial.com/m/m/957.m3u8
 
 #EXTINF:-1 tvg-chno="618" tvg-logo="https://iili.io/J2wureR.png" group-title="Deportes",Zona TUDN USA 🇺🇸
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7763
 
-#EXTINF:-1 tvg-chno="619" tvg-logo="https://www.foxdeportes.com/assets/images/logo_2.png" group-title="Deportes",Fox Deportes 🇺🇲
-http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47116&extension=ts
+#EXTINF:-1 tvg-chno="619" tvg-logo="https://www.foxdeportes.com/assets/images/logo_2.png" group-title="Deportes",Fox Deportes ᵐᵍ 🇺🇲
+http://m3u.tvcluboficial.com/m/m/1114.m3u8
 
 #EXTINF:-1 tvg-chno="630" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Argentina ᵐᵍ 🇦🇷
 http://m3u.tvcluboficial.com/m/m/368.m3u8
@@ -1949,8 +1949,8 @@ http://200.115.120.1:8000/play/ca040/index.m3u8
 #EXTINF:-1 tvg-chno="668" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png" group-title="Deportes",TNT Sports Chile 🇨🇱
 http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/278989.m3u8
 
-#EXTINF:-1 tvg-chno="668" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsportsPremium256.png" group-title="Deportes",TNT Sports Premium Chile ¹ 🇨🇱
-https://futbol9865.ultratv13.workers.dev/deportivo111/83.m3u8
+#EXTINF:-1 tvg-chno="668" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsportsPremium256.png" group-title="Deportes",TNT Sports Premium Chile ᵐᵍ 🇨🇱
+http://m3u.tvcluboficial.com/m/m/938.m3u8
 
 #EXTINF:-1 tvg-chno="669" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="Deportes",Dazn La Liga (1) ¹ 🇪🇦
 https://deportivo922.ultraflixapp.workers.dev/deportivo111/51.m3u8
@@ -1961,8 +1961,8 @@ http://tvpremiund.ddns.me:2082/streaming/clients_live.php?username=bras85@8hdsv7
 #EXTINF:-1 tvg-chno="669" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_laliga-mediano.png" group-title="Deportes",La Liga TV por Movistar + ¹ 🇪🇸
 https://futbol9865.ultratv13.workers.dev/deportivo111/49.m3u8 
 
-#EXTINF:-1 tvg-chno="669" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_liga_de_campeones-mediano.png" group-title="Deportes",Movistar Liga de Campeones ¹ 🇪🇸
-https://futbol9865.ultratv13.workers.dev/deportivo111/50.m3u8
+#EXTINF:-1 tvg-chno="669" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_liga_de_campeones-mediano.png" group-title="Deportes",Movistar Liga de Campeones ᵐᵍ 🇪🇸
+http://m3u.tvcluboficial.com/m/m/616.m3u8
 
 #EXTINF:-1 tvg-chno="669" tvg-logo="https://assets.laliga.com/assets/2023/07/04/medium/d0c0191e6268a2d6c5fde4756d1202ea.png"group-title="Deportes",La Liga Hypermotion ¹ 🇪🇸
 https://videxdata.alwaysdata.net/deportivo111/53.m3u8
@@ -1973,8 +1973,8 @@ http://domestipo1.online:80/live/ser682mun/5w49evr21/221519.m3u8
 #EXTINF:-1 tvg-chno="669" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dazn_2-mediano.png" group-title="Deportes",Dazn 2 🇪🇸
 http://domestipo1.online:80/live/ser682mun/5w49evr21/155622.m3u8
 
-#EXTINF:-1 tvg-chno="669" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dazn_formula_1-mediano.png"group-title="Deportes",Dazn F1 🇪🇸
-http://domestipo1.online:80/live/ser682mun/5w49evr21/155616.m3u8
+#EXTINF:-1 tvg-chno="669" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dazn_formula_1-mediano.png"group-title="Deportes",Dazn F1 ᵐᵍ 🇪🇸
+http://m3u.tvcluboficial.com/m/m/427.m3u8
 
 #EXTINF:-1 tvg-chno="669" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_vamos-mediano.png" group-title="Deportes",Vamos por Movistar + 🇪🇸
 http://domestipo1.online:80/live/ser682mun/5w49evr21/327949.m3u8
@@ -1982,11 +1982,11 @@ http://domestipo1.online:80/live/ser682mun/5w49evr21/327949.m3u8
 #EXTINF:-1 tvg-chno="669" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_deportes-mediano.png" group-title="Deportes",Deportes por Movistar + 🇪🇸
 http://domestipo1.online:80/live/ser682mun/5w49evr21/9466.m3u8
 
-#EXTINF:-1 tvg-chno="670" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70wi1n1692441317.png" group-title="Deportes",Gol Play 🇪🇸
-http://domestipo1.online:80/live/ser682mun/5w49evr21/585044.m3u8
+#EXTINF:-1 tvg-chno="670" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70wi1n1692441317.png" group-title="Deportes",Gol Play ᵐᵍ 🇪🇸
+http://m3u.tvcluboficial.com/m/m/1060.m3u8
 
-#EXTINF:-1 tvg-chno="680" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_mobile_ORIGINAL.png" group-title="Deportes",ECDF 🇪🇨
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/9319
+#EXTINF:-1 tvg-chno="680" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_mobile_ORIGINAL.png" group-title="Deportes",ECDF ᵐᵍ 🇪🇨
+http://m3u.tvcluboficial.com/m/m/1133.m3u8
 
 #EXTINF:-1 tvg-chno="681" tvg-logo="https://dfw.yhy.mybluehost.me/wp-content/uploads/2023/04/png_golperu_logo.png" group-title="Deportes",Gol Perú ² 🇵🇪
 http://38.183.182.166:8000/play/a120/index.m3u8
@@ -1997,11 +1997,11 @@ http://domestipo1.online:80/live/ser682mun/5w49evr21/231773.m3u8
 #EXTINF:-1 tvg-chno="682" tvg-logo="https://www.cableplus.com.uy/assets/img/logos-canales/logo-vtv-plus.jpg" group-title="Deportes",VTV + 🇺🇾
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7618
 
-#EXTINF:-1 tvg-chno="683" tvg-logo="https://i.postimg.cc/QMsDwbxR/winsport.jpg" group-title="Deportes",Win Sports 🇨🇴
-http://domestipo1.online:80/live/ser682mun/5w49evr21/13767.m3u8
+#EXTINF:-1 tvg-chno="683" tvg-logo="https://i.postimg.cc/QMsDwbxR/winsport.jpg" group-title="Deportes",Win Sports ᵐᵍ 🇨🇴
+http://m3u.tvcluboficial.com/m/m/1039.m3u8
 
-#EXTINF:-1 tvg-chno="683" tvg-logo="https://i.postimg.cc/MZrWHVdQ/winsportplus.jpg" group-title="Deportes",Win Sports + 🇨🇴
-http://domestipo1.online:80/live/ser682mun/5w49evr21/13769.m3u8
+#EXTINF:-1 tvg-chno="683" tvg-logo="https://i.postimg.cc/MZrWHVdQ/winsportplus.jpg" group-title="Deportes",Win Sports + ᵐᵍ 🇨🇴
+http://m3u.tvcluboficial.com/m/m/1042.m3u8
 
 #EXTINF:-1 tvg-chno="684" tvg-logo="https://elcomercio-elcomercio-prod.web.arc-cdn.net/resizer/v2/SI7SCQMDSFHVPMWEG7JTBRDA4E.jpg?auth=ee9002b30119e489b0177c3764bb01abd56ae3d285b2b42f2a1a3f8b0d0b455a&width=600&height=400&smart=true&quality=75" group-title="Deportes",Movistar Deportes 🇵🇪 
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7397
@@ -2036,11 +2036,8 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7170
 #EXTINF:-1 tvg-chno="691" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports-mediano.png" group-title="Deportes",A y M Sports ¹ 🇲🇽
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 
-#EXTINF:-1 tvg-chno="692" tvg-logo="https://sc.dish.com/shared/images/station-logos/BEINE.png" group-title="Deportes",Bein Sports Ñ 🇺🇸
-http://domestipo1.online:80/live/ser682mun/5w49evr21/592013.m3u8
-
-#EXTINF:-1 tvg-chno="692" tvg-logo="https://sc.dish.com/shared/images/station-logos/BEINE.png" group-title="Deportes",Bein Sports USA 🇺🇸
-http://domestipo1.online:80/live/ser682mun/5w49evr21/595869.m3u8
+#EXTINF:-1 tvg-chno="692" tvg-logo="https://sc.dish.com/shared/images/station-logos/BEINE.png" group-title="Deportes",Bein Sports Ñ ᵐᵍ 🇺🇸
+http://m3u.tvcluboficial.com/m/m/90.m3u8
 
 #EXTINF:-1 tvg-chno="692" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="Deportes",Bein Sports XTRA ¹ 🇺🇸
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
