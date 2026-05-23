@@ -1775,11 +1775,11 @@ http://189.148.49.233:8000/play/a02m/index.m3u8
 #EXTINF:-1 tvg-chno="609" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-04.jpg" group-title="Deportes",Fox Sports México ᵐ 🇲🇽
 http://m3u.tvcluboficial.com/m/m/456.m3u8
 
-#EXTINF:-1 tvg-chno="609" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-05.jpg" group-title="Deportes",Fox Sports 2 México 🇲🇽
-http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47119&extension=ts
+#EXTINF:-1 tvg-chno="609" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-05.jpg" group-title="Deportes",Fox Sports 2 México ᵐ 🇲🇽
+http://m3u.tvcluboficial.com/m/m/441.m3u8
 
-#EXTINF:-1 tvg-chno="609" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-06.jpg" group-title="Deportes",Fox Sports 3 México 🇲🇽
-http://domestipo1.online:80/live/ser682mun/5w49evr21/218474.m3u8
+#EXTINF:-1 tvg-chno="609" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-06.jpg" group-title="Deportes",Fox Sports 3 México ᵐ 🇲🇽
+http://m3u.tvcluboficial.com/m/m/446.m3u8
 
 #EXTINF:-1 tvg-chno="609" tvg-logo="https://img.asmedia.epimg.net/resizer/v2/HDFAZLSP7FH7XJK2XFRO56O22U.jpeg?auth=5d7e53f23444b4e49deaaadc032a5470401ba4ca10214e4cac7006b8d1f5f9e1&width=1200&height=675&smart=true" group-title="Deportes",Fox Sports Premium México ᵐ 🇲🇽
 http://m3u.tvcluboficial.com/m/m/461.m3u8
@@ -1872,7 +1872,7 @@ http://201.217.246.177:8000/play/a078/index.m3u8
 http://m3u.tvcluboficial.com/m/m/435.m3u8
 
 #EXTINF:-1 tvg-chno="641" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%202%20128.png" group-title="Deportes",Fox Sports 2 ᵐ 🇦🇷
-http://m3u.tvcluboficial.com/m/m/436.m3u8
+http://m3u.tvcluboficial.com/m/m/439.m3u8
 
 #EXTINF:-1 tvg-chno="641" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%203%20128.png" group-title="Deportes",Fox Sports 3 ᵐ 🇦🇷 
 http://m3u.tvcluboficial.com/m/m/468.m3u8
