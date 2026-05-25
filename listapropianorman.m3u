@@ -1634,8 +1634,8 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/9293
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png" group-title="Cine y Películas",HBO Norte
 http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/46145.ts
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" group-title="Cine y Películas",HBO 2 Norte
-http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/46148.ts
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" group-title="Cine y Películas",HBO 2 Norte ²
+http://38.194.226.190:8000/play/a02h/index.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png" group-title="Cine y Películas",HBO Family Norte
 http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/46152.ts
@@ -1676,8 +1676,8 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7472
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png" group-title="Cine y Películas",HBO Sur
 http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/46144.ts
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" group-title="Cine y Películas",HBO 2 Sur 
-http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/46149.ts
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" group-title="Cine y Películas",HBO 2 Sur
+http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/46151.ts
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png" group-title="Cine y Películas",HBO Family Sur ²
 http://200.115.120.1:8000/play/ca135/index.m3u8
