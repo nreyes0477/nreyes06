@@ -1826,8 +1826,8 @@ http://189.148.49.233:8000/play/a05p/index.m3u8
 #EXTINF:-1 tvg-chno="616" tvg-logo="https://lasociedaddelcontenido.com/wp-content/uploads/2025/05/Copia-de-Imagen-2-1536x864.jpg" group-title="Deportes",Telemundo Deportes ¹ 🇺🇸
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88884639/hls/master.m3u8?declaredCC1Language=es&ads.xumo_channelId=88884639&ads.xumo_streamId=88884639&ads.channelId=88884639&ads.channelName=telemundodeportesahora_us&ads.csid=tcl2_us_telemundodeportesahora_ssai&ads.caid=TelemundoDeportesAhora&ads.genre=Sport&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=es&ads._fw_content_rating=vt-pg&ads._fw_coppa=o&ads._fw_h_x_country=US&ads.xumo_contentId=4281&ads.xumo_contentName=TelemundoDeportesAhora&ads.xumo_providerId=4281&ads.xumo_providerName=TelemundoDeportesAhora&ads.xumo_channelName=TelemundoDeportesAhora&includeAssetTags=true&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
 
-#EXTINF:-1 tvg-chno="617" tvg-logo="https://newswhip.sirv.com/WP_www.newswhip.com/2018/02/Espndeportes.png" group-title="Deportes",ESPN Deportes (1) ¹ 🇺🇲
-http://m3u.tvcluboficial.com/m/m/1165.m3u8
+#EXTINF:-1 tvg-chno="617" tvg-logo="https://newswhip.sirv.com/WP_www.newswhip.com/2018/02/Espndeportes.png" group-title="Deportes",ESPN Deportes (1) 🇺🇲
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/2359.ts
 
 #EXTINF:-1 tvg-chno="617" tvg-logo="https://newswhip.sirv.com/WP_www.newswhip.com/2018/02/Espndeportes.png" group-title="Deportes",ESPN Deportes (2) 🇺🇲
 http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/595818.ts
@@ -1874,14 +1874,14 @@ http://147.135.114.221:8001/play/a019/index.m3u8
 #EXTINF:-1 tvg-chno="640" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png" group-title="Deportes",ESPN Premium ² 🇨🇱 
 http://201.217.246.177:8000/play/a078/index.m3u8
 
-#EXTINF:-1 tvg-chno="641" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%20128.png" group-title="Deportes",Fox Sports ᵐ 🇦🇷
-http://m3u.tvcluboficial.com/m/m/435.m3u8
+#EXTINF:-1 tvg-chno="641" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%20128.png" group-title="Deportes",Fox Sports 🇦🇷
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/29.ts
 
 #EXTINF:-1 tvg-chno="641" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%202%20128.png" group-title="Deportes",Fox Sports 2 ᵐ 🇦🇷
 http://m3u.tvcluboficial.com/m/m/439.m3u8
 
-#EXTINF:-1 tvg-chno="641" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%203%20128.png" group-title="Deportes",Fox Sports 3 ᵐ 🇦🇷 
-http://m3u.tvcluboficial.com/m/m/468.m3u8
+#EXTINF:-1 tvg-chno="641" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%203%20128.png" group-title="Deportes",Fox Sports 3 🇦🇷 
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/189.ts
 
 #EXTINF:-1 tvg-chno="641" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Argentina ¹ 🇦🇷 
 https://futbol9865.ultratv13.workers.dev/deportivo111/76.m3u8
@@ -1981,6 +1981,9 @@ http://domestipo1.online:80/live/ser682mun/5w49evr21/9466.m3u8
 
 #EXTINF:-1 tvg-chno="670" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70wi1n1692441317.png" group-title="Deportes",Gol Play ᵐ 🇪🇸
 http://m3u.tvcluboficial.com/m/m/1060.m3u8
+
+#EXTINF:-1 tvg-chno="671" tvg-logo="https://dominicanewsonline.com/news/wp-content/uploads/2014/09/sportsmax.jpg" group-title="Deportes",Sport Max 🇯🇲
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/2396.ts
 
 #EXTINF:-1 tvg-chno="680" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_mobile_ORIGINAL.png" group-title="Deportes",ECDF ᵐ 🇪🇨
 http://m3u.tvcluboficial.com/m/m/1133.m3u8
