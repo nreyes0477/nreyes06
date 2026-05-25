@@ -1778,8 +1778,8 @@ http://38.224.22.252:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-chno="609" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-04.jpg" group-title="Deportes",Fox Sports México ² 🇲🇽
 http://38.194.226.190:8000/play/a00h/index.m3u8
 
-#EXTINF:-1 tvg-chno="609" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-05.jpg" group-title="Deportes",Fox Sports 2 México ᵐ 🇲🇽
-http://m3u.tvcluboficial.com/m/m/441.m3u8
+#EXTINF:-1 tvg-chno="609" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-05.jpg" group-title="Deportes",Fox Sports 2 México ² 🇲🇽
+http://190.61.101.65:2025/play/a00r
 
 #EXTINF:-1 tvg-chno="609" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-06.jpg" group-title="Deportes",Fox Sports 3 México ² 🇲🇽
 http://38.194.226.190:8000/play/a02m/index.m3u8
