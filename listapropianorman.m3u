@@ -980,6 +980,9 @@ http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=
 #EXTINF:-1 tvg-chno="278" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png" group-title="EUA Latino",NBC Universo ² 🇺🇸
 http://190.61.114.186:8000/play/a03v/index.m3u8
 
+#EXTINF:-1 tvg-chno="278" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png" group-title="EUA Latino",NBC Universo ² 🇺🇸
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="279" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/300px-Estrella_TV_Logo_2020.png" group-title="EUA Latino",Estrella TV ¹ 🇺🇸
 https://estrellatv-oando.amagi.tv/playlistR1080p.m3u8
 
