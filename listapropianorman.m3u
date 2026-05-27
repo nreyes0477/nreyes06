@@ -1658,8 +1658,8 @@ http://38.194.226.190:8000/play/a028/index.m3u8
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png" group-title="Cine y Películas",HBO Xtreme Norte ²
 http://168.228.44.241:9998/play/a0ce/index.m3u8
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png" group-title="Cine y Películas",HBO Mundi Norte
-http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/96206.ts
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png" group-title="Cine y Películas",HBO Mundi Norte ²
+http://190.11.225.124:5000/live/paramount_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://marcasur.com/archivos/revista/notas/45ee4663b4c7fc571d08589befaabe05.jpg" group-title="Cine y Películas",HBO Chile ²
 http://45.232.210.1:18000/play/a0b3/index.m3u8
@@ -1695,7 +1695,7 @@ http://38.194.226.190:8000/play/a02l/index.m3u8
 http://38.194.226.190:8000/play/a01t/index.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png" group-title="Cine y Películas",HBO Signature Sur ²
-http://38.194.226.190:8000/play/a028/index.m3u8
+http://190.11.225.124:5000/live/hbo_signature_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png" group-title="Cine y Películas",HBO Xtreme Sur ²
 http://38.194.226.190:8000/play/a02f/index.m3u8
