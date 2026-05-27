@@ -43,7 +43,7 @@ http://45.163.139.42:8000/play/a02x/index.m3u8
 http://38.224.22.252:8000/play/a08r/index.m3u8
 
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://image.roku.com/developer_channels/prod/15028c316a76bcd9408f730b04579257af5273595c5049db126ba4540b81a936.png" group-title="Nacionales",Canal 38 ¡Opa! ¹ 🇨🇷
-https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
+https://5fe2654d6127d.streamlock.net/genteopa/videogenteopa/chunklist_w1000136017.m3u8
 
 #EXTINF:-1 tvg-chno="16" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/extra_tv-mediano.png" group-title="Nacionales",Extra Tv 42 ¹ 🇨🇷
 https://d2qsan2ut81n2k.cloudfront.net/live/4508d726-f0c8-450c-b377-140a45707149/ts:abr.m3u8?CMCD=cid%3D%22https%3A%2F%2Fd2qsan2ut81n2k.cloudfront.net%2Flive%2F4508d726-f0c8-450c-b377-140a45707149%2Fts%3Aabr.m3u8%22%2Csid%3D%2292c6532a-26c7-4d77-8fda-0b35ad42dc46%22
