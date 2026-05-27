@@ -978,10 +978,10 @@ https://rtvelivestream.rtve.es/rtvesec/int/tvei_ame_main_dvr.m3u8
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=194161&extension=ts
 
 #EXTINF:-1 tvg-chno="278" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png" group-title="EUA Latino",NBC Universo ² 🇺🇸
-http://190.61.114.186:8000/play/a03v/index.m3u8
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="278" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png" group-title="EUA Latino",NBC Universo ² 🇺🇸
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+http://190.61.114.186:8000/play/a03v/index.m3u8
 
 #EXTINF:-1 tvg-chno="279" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/300px-Estrella_TV_Logo_2020.png" group-title="EUA Latino",Estrella TV ¹ 🇺🇸
 https://estrellatv-oando.amagi.tv/playlistR1080p.m3u8
@@ -1057,6 +1057,9 @@ http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alexmargar
 
 #EXTINF:-1 tvg-chno="311" tvg-logo="https://mexio.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno -1hr 🇲🇽
 http://domestipo1.online:80/live/ser682mun/5w49evr21/672229.m3u8
+
+#EXTINF:-1 tvg-chno="312" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png" group-title="México",Azteca 7 ² 🇲🇽
+http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="312" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png" group-title="México",Azteca 7 ² 🇲🇽
 http://189.148.49.233:8000/play/a05h/index.m3u8
