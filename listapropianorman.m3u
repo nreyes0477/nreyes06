@@ -722,11 +722,11 @@ http://go.iptvhn.net:25461/live/7789/7789/13336.m3u8
 #EXTINF:-1 tvg-chno="110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="Infantiles",Tooncast
 http://go.iptvhn.net:25461/live/7789/7789/13308.m3u8
 
-#EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina",Telefe ᵐᵍ 🇦🇷
-http://m3u.tvcluboficial.com/m/m/1172.m3u8
+#EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina",Telefe ² 🇦🇷
+http://45.188.229.33:8000/play/a1cl/index.m3u8?hls
 
-#EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="Argentina",El Trece ᵐᵍ 🇦🇷
-http://m3u.tvcluboficial.com/m/m/362.m3u8
+#EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="Argentina",El Trece ² 🇦🇷
+http://45.188.229.33:8000/play/a1dk/index.m3u8?hls
 
 #EXTINF:-1 tvg-chno="202" tvg-logo="https://media.losandes.com.ar/p/22dbc3876https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="Argentina",13 Max (Telefe) ¹ 🇦🇷
 https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
@@ -768,7 +768,7 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 http://m3u.tvcluboficial.com/m/m/1166.m3u8
 
 #EXTINF:-1 tvg-chno="211" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png" group-title="Argentina",El Trece Internacional ² 🇦🇷
-http://45.238.54.67:8000/play/a008/index.m3u8
+http://45.188.229.33:8000/play/a0x2/index.m3u8?hls
 
 #EXTINF:-1 tvg-chno="222" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/ATB-en-vivo-Online.png" group-title="Bolivia",ATB 🇧🇴
 http://domestipo1.online:80/live/ser682mun/5w49evr21/193778.m3u8
