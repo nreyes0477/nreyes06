@@ -923,8 +923,8 @@ https://dmfxzlz63pfyh.cloudfront.net/10508/88886036/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo Este ² 🇺🇸 
 http://190.61.101.65:2025/play/a00l
 
-#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo ² 🇺🇸
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo ¹ 🇺🇸
+https://futbol9865.ultratv13.workers.dev/deportivo111/73.m3u8
 
 #EXTINF:-1 tvg-chno="289" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png" group-title="EUA Latino",Galavisión ᵐ 🇺🇸
 http://m3u.tvcluboficial.com/m/m/481.m3u8
@@ -1886,11 +1886,11 @@ https://deportivo922.ultraflixapp.workers.dev/deportivo111/51.m3u8
 #EXTINF:-1 tvg-chno="669" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="Deportes",Dazn La Liga (2) 🇪🇦
 http://tvpremiund.ddns.me:2082/streaming/clients_live.php?username=bras85@8hdsv743@dhn&password=7456@hfuge746bras&stream=81518&extension=ts
 
-#EXTINF:-1 tvg-chno="669" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_laliga-mediano.png" group-title="Deportes",La Liga TV por Movistar + ¹ 🇪🇸
-https://futbol9865.ultratv13.workers.dev/deportivo111/49.m3u8 
+#EXTINF:-1 tvg-chno="669" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_laliga-mediano.png" group-title="Deportes",La Liga por Movistar + ¹ ᵐ 🇪🇸
+ http://m3u.tvcluboficial.com/m/m/616.m3u8
 
-#EXTINF:-1 tvg-chno="669" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_liga_de_campeones-mediano.png" group-title="Deportes",Movistar Liga de Campeones ᵐ 🇪🇸
-http://m3u.tvcluboficial.com/m/m/616.m3u8
+#EXTINF:-1 tvg-chno="669" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_liga_de_campeones-mediano.png" group-title="Deportes",Liga de Campeones por Movistar + ¹ 🇪🇸
+https://futbol9865.ultratv13.workers.dev/deportivo111/61.m3u8
 
 #EXTINF:-1 tvg-chno="669" tvg-logo="https://assets.laliga.com/assets/2023/07/04/medium/d0c0191e6268a2d6c5fde4756d1202ea.png"group-title="Deportes",La Liga Hypermotion ¹ 🇪🇸
 https://videxdata.alwaysdata.net/deportivo111/53.m3u8
@@ -1967,8 +1967,8 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7170
 #EXTINF:-1 tvg-chno="691" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports-mediano.png" group-title="Deportes",A y M Sports ¹ 🇲🇽
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 
-#EXTINF:-1 tvg-chno="692" tvg-logo="https://sc.dish.com/shared/images/station-logos/BEINE.png" group-title="Deportes",Bein Sports Ñ ᵐ 🇺🇸
-http://m3u.tvcluboficial.com/m/m/90.m3u8
+#EXTINF:-1 tvg-chno="692" tvg-logo="https://sc.dish.com/shared/images/station-logos/BEINE.png" group-title="Deportes",Bein Sports Ñ ¹ 🇺🇸
+https://futbol9865.ultratv13.workers.dev/deportivo111/69.m3u8
 
 #EXTINF:-1 tvg-chno="692" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="Deportes",Bein Sports XTRA ¹ 🇺🇸
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
