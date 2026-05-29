@@ -899,9 +899,6 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278813.m3u8
 #EXTINF:-1 tvg-chno="276" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1403px-Logo_TVE-Internacional.svg.png" group-title="España",TVE Internacional ¹ 🇪🇸
 https://rtvelivestream.rtve.es/rtvesec/int/tvei_ame_main_dvr.m3u8
 
-#EXTINF:-1 tvg-chno="277" tvg-logo="https://www.theseniorlist.com/app/uploads/2023/08/FuboTV_logo-1024x350.png" group-title="EUA Latino",Fubo Latino 🇺🇸
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=194161&extension=ts
-
 #EXTINF:-1 tvg-chno="278" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png" group-title="EUA Latino",NBC Universo ² 🇺🇸
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 
@@ -915,7 +912,7 @@ https://estrellatv-oando.amagi.tv/playlistR1080p.m3u8
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=156070&extension=ts
 
 #EXTINF:-1 tvg-chno="281" tvg-logo="https://www.elnuevoherald.com/public/ultimas-noticias/d5nt1t/picture246909672/alternates/LANDSCAPE_480/univision%20logo.jpg" group-title="EUA Latino",Univisión ² 🇺🇸
-http://189.148.49.233:8000/play/a00g/index.m3u8
+http://190.61.101.65:2025/play/a0pa
 
 #EXTINF:-1 tvg-chno="283" tvg-logo="https://www.elnuevoherald.com/public/ultimas-noticias/d5nt1t/picture246909672/alternates/LANDSCAPE_480/univision%20logo.jpg" group-title="EUA Latino",Univisión ᵐ 🇺🇸
 http://m3u.tvcluboficial.com/m/m/1009.m3u8
