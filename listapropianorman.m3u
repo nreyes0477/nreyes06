@@ -933,7 +933,7 @@ http://m3u.tvcluboficial.com/m/m/481.m3u8
 http://m3u.tvcluboficial.com/m/m/982.m3u8
 
 #EXTINF:-1 tvg-chno="299" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/telemundo.jpg" group-title="EUA Latino",Telemundo Internacional ² 🇺🇸
-http://190.61.114.186:8000/play/a047/index.m3u8
+http://45.5.116.177:8015/play/a0gv/index.m3u8
 
 #EXTINF:-1 tvg-chno="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_5_HN_logo.png/180px-Canal_5_HN_logo.png" group-title="Honduras",Canal 5 🇭🇳
 http://go.iptvhn.net:25461/live/7789/7789/13145.m3u8
@@ -1040,14 +1040,14 @@ http://172.93.102.112:8989/279297_.m3u8
 #EXTINF:-1 tvg-chno="334" tvg-logo="https://logosnicas.com/wp-content/uploads/2022/09/canal_9_nicaragua.png" group-title="Nicaragua",Canal 9 ² 🇳🇮
 http://200.58.64.244:9000/play/a018/index.m3u8
 
-#EXTINF:-1 tvg-chno="335" tvg-logo="https://1.bp.blogspot.com/-zyfzTiv-0YY/YSgNAyVUnYI/AAAAAAAAQQw/63cf8CyUoLQlwDWY2-9zdME5dzjewFpJQCLcBGAsYHQ/w700-h400-p-k-no-nu/Canal%2B10%2Ben%2Bvivo.png" group-title="Nicaragua",Canal 10 🇳🇮
-http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=85728&extension=ts
+#EXTINF:-1 tvg-chno="335" tvg-logo="https://1.bp.blogspot.com/-zyfzTiv-0YY/YSgNAyVUnYI/AAAAAAAAQQw/63cf8CyUoLQlwDWY2-9zdME5dzjewFpJQCLcBGAsYHQ/w700-h400-p-k-no-nu/Canal%2B10%2Ben%2Bvivo.png" group-title="Nicaragua",Canal 10 ² 🇳🇮
+http://200.229.147.210:9999/play/a01t/index.m3u8
 
 #EXTINF:-1 tvg-chno="335" tvg-logo="https://logosnicas.com/wp-content/uploads/2022/08/canal_11_tv_red_2020.png" group-title="Nicaragua",Canal 11 ² 🇳🇮
 http://200.58.64.244:9000/play/a019/index.m3u8
 
-#EXTINF:-1 tvg-chno="336" tvg-logo="https://www.vivanicaragua.com.ni/contenido/archivos/2019/03/logo-blanco.png?x75729" group-title="Nicaragua",Canal 13 🇳🇮
-http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=85731&extension=ts
+#EXTINF:-1 tvg-chno="336" tvg-logo="https://www.vivanicaragua.com.ni/contenido/archivos/2019/03/logo-blanco.png?x75729" group-title="Nicaragua",Canal 13 ² 🇳🇮
+http://200.229.147.210:9999/play/a04u/index.m3u8
 
 #EXTINF:-1 tvg-chno="337" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TN8_Nicaragua.svg/1280px-TN8_Nicaragua.svg.png" group-title="Nicaragua",TN8 ¹ 🇳🇮
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
