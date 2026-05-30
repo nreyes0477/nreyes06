@@ -1943,8 +1943,8 @@ http://172.93.102.112:8989/279308_.m3u8
 #EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Guatemala 🇬🇹
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
 
-#EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Honduras 🇭🇳
-http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/299270.m3u8
+#EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Honduras ² 🇭🇳
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
 
 #EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Bolivia 🇧🇴
 http://m3u.tvcluboficial.com/free/Jose_Mejia/V3f/905.m3u8
