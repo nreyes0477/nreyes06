@@ -609,8 +609,6 @@ https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://static.wixstatic.com/media/3ebf2e_6c71f9a7aa66459ea6140c872c515467~mv2.png/v1/crop/x_21,y_41,w_1259,h_566/fill/w_244,h_110,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20letras%203d.png" group-title="Cine Latinos",Retro Mágico ¹ 🇦🇷
 https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/chunks.m3u8
 
-
-
 EXTINF:-1 tvg-chno="110" tvg-logo="https://babyfirsttv.com/wp-content/uploads/2024/03/babyfirst_logo_2022-1536x303.png" group-title="Infantiles",Baby Firts ¹ 🇺🇸
 https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijc1M2FiNGVlLTc4NjktNDE2Yy05ZjI2LWIxYWYxNjU4YjAyNiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzc3NTI2ODQ4LCJpYXQiOjE3Nzc0NDA0NDgsImp0aSI6IjFjYzY3NWZiLWZkNjMtNGVlYS04YjkwLTdhYTJiMGYwNzI3MiJ9.YZgsIIznqhJqk6fzCMz3MDvy9SItMK16ar6k2jdV_s8
 
@@ -853,6 +851,9 @@ http://domestipo1.online:80/live/ser682mun/5w49evr21/414787.m3u8
 
 #EXTINF:-1 tvg-chno="268" tvg-logo="https://logos.streamsites.eu/2697_la-sexta_overview.png" group-title="España",La Sexta 🇪🇸
 http://domestipo1.online:80/live/ser682mun/5w49evr21/414784.m3u8
+
+#EXTINF:-1 tvg-chno="268" tvg-logo="https://filmgranada.com/wp-content/uploads/2021/03/canal-sur-granada-1.png" group-title="España",Canal Sur ¹ 🇪🇸
+https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
 
 #EXTINF:-1 tvg-chno="269" tvg-logo="https://logos.streamsites.eu/3488_mega_overview.png" group-title="España",Mega 🇪🇸
 http://domestipo1.online:80/live/ser682mun/5w49evr21/327793.m3u8
