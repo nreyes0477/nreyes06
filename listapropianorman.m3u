@@ -1774,13 +1774,13 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7763
 http://m3u.tvcluboficial.com/m/m/1114.m3u8
 
 #EXTINF:-1 tvg-chno="630" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Argentina ᵐ 🇦🇷
-http://m3u.tvcluboficial.com/m/m/368.m3u8
+
 
 #EXTINF:-1 tvg-chno="631" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Chile ² 🇨🇱
 http://astra.fibernetisp.com.co/play/a0a9/index.m3u8
 
-#EXTINF:-1 tvg-chno="632" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Colombia ᵐ 🇨🇴 
-http://m3u.tvcluboficial.com/m/m/405.m3u8
+#EXTINF:-1 tvg-chno="632" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Colombia ² 🇨🇴 
+http://181.78.8.199:8000/play/a0b1/index.m3u8
 
 #EXTINF:-1 tvg-chno="633" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 Sur América ²
 http://astra.fibernetisp.com.co/play/a0dp/index.m3u8
@@ -1803,8 +1803,8 @@ http://astra.fibernetisp.com.co/play/a0ad/index.m3u8
 #EXTINF:-1 tvg-chno="639" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png" group-title="Deportes",ESPN Premium ² 🇦🇷
 http://147.135.114.221:8001/play/a019/index.m3u8
 
-#EXTINF:-1 tvg-chno="640" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png" group-title="Deportes",ESPN Premium ² 🇨🇱 
-http://201.217.246.177:8000/play/a078/index.m3u8
+#EXTINF:-1 tvg-chno="640" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png" group-title="Deportes",ESPN Premium ᵐ 🇨🇱 
+http://m3u.tvcluboficial.com/m/m/405.m3u8
 
 #EXTINF:-1 tvg-chno="641" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%20128.png" group-title="Deportes",Fox Sports 🇦🇷
 http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/29.ts
@@ -1821,26 +1821,26 @@ https://futbol9865.ultratv13.workers.dev/deportivo111/76.m3u8
 #EXTINF:-1 tvg-chno="641" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Chile ² 🇨🇱
 http://189.50.210.3:8008/play/a04h/index.m3u8
 
-#EXTINF:-1 tvg-chno="641" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Colombia ² 🇨🇴 
-http://38.41.8.1:8000/play/a06r
+#EXTINF:-1 tvg-chno="641" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Colombia ᵐ 🇨🇴 
+http://m3u.tvcluboficial.com/m/m/368.m3u8
 
 #EXTINF:-1 tvg-chno="642" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 Sur América ²
-http://189.50.210.3:8008/play/a07d/index.m3u8
+http://181.78.8.199:8000/play/a08z/index.m3u8
 
 #EXTINF:-1 tvg-chno="643" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN 3 Sur América ²
-http://45.184.87.142:8000/play/a04b
+http://181.78.8.199:8000/play/a0b3/index.m3u8
 
 #EXTINF:-1 tvg-chno="644" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deportes",ESPN 4 Sur América ²
-http://189.50.210.3:8008/play/a04a/index.m3u8
+
 
 #EXTINF:-1 tvg-chno="645" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png" group-title="Deportes",ESPN 5 Sur América ²
-http://38.44.109.41:8003/play/a03w/index.m3u8
+http://181.78.8.199:8000/play/a08n/index.m3u8
 
 #EXTINF:-1 tvg-chno="646" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png" group-title="Deportes",ESPN 6 Sur América ²
-http://189.50.210.3:8008/play/a04c/index.m3u8
+http://181.78.8.199:8000/play/a07g/index.m3u8
 
 #EXTINF:-1 tvg-chno="647" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png" group-title="Deportes",ESPN 7 Sur América ²
-http://189.50.210.3:8008/play/a05v/index.m3u8
+http://181.78.8.199:8000/play/a0bx/index.m3u8
 
 #EXTINF:-1 tvg-chno="665" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports (1) 🇦🇷
 http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/592036.ts
