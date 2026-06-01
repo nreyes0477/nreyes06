@@ -1716,14 +1716,17 @@ http://38.194.226.190:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-chno="610" tvg-logo="https://www.westminsterkennelclub.org/wp-content/uploads/2024/02/Asset-1-1.png" group-title="Deportes",Fox Tubi (México) ™ 🇲🇽
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/14598
 
-#EXTINF:-1 tvg-chno="610" tvg-logo="https://lasociedaddelcontenido.com/wp-content/uploads/2025/08/Imagen-2025-08-06T234253.981-1536x864.jpg" group-title="Deportes",Fox One 1 (México) ² 🇲🇽
+#EXTINF:-1 tvg-chno="610" tvg-logo="https://lasociedaddelcontenido.com/wp-content/uploads/2025/08/Imagen-2025-08-06T234253.981-1536x864.jpg" group-title="Deportes",Fox One (México) ² 🇲🇽
 http://38.194.226.190:8000/play/a00o/index.m3u8
 
-#EXTINF:-1 tvg-chno="610" tvg-logo="https://lasociedaddelcontenido.com/wp-content/uploads/2025/08/Imagen-2025-08-06T234253.981-1536x864.jpg" group-title="Deportes",Fox One 1 (México) ™ 🇲🇽
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/21910
+#EXTINF:-1 tvg-chno="610" tvg-logo="https://lasociedaddelcontenido.com/wp-content/uploads/2025/08/Imagen-2025-08-06T234253.981-1536x864.jpg" group-title="Deportes",Fox One (México) 🇲🇽
+http://domestipo1.online:80/live/Oscar2208chieu/GX9vqaWbZ7/730391.ts
 
-#EXTINF:-1 tvg-chno="610" tvg-logo="https://lasociedaddelcontenido.com/wp-content/uploads/2025/08/Imagen-2025-08-06T234253.981-1536x864.jpg" group-title="Deportes",Fox One 2 (México) ™ 🇲🇽
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/21911
+#EXTINF:-1 tvg-chno="610" tvg-logo="https://lasociedaddelcontenido.com/wp-content/uploads/2025/08/Imagen-2025-08-06T234253.981-1536x864.jpg" group-title="Deportes",Fox One 1 (México) 🇲🇽
+http://domestipo1.online:80/live/Oscar2208chieu/GX9vqaWbZ7/730392.ts
+
+#EXTINF:-1 tvg-chno="610" tvg-logo="https://lasociedaddelcontenido.com/wp-content/uploads/2025/08/Imagen-2025-08-06T234253.981-1536x864.jpg" group-title="Deportes",Fox One 2 (México) 🇲🇽
+http://domestipo1.online:80/live/Oscar2208chieu/GX9vqaWbZ7/730391.ts
 
 #EXTINF:-1 tvg-chno="611" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="Deportes",TUDN Centro América ² 🌐
 http://45.5.118.136:8888/play/a009/index.m3u8
