@@ -1782,8 +1782,11 @@ http://astra.fibernetisp.com.co/play/a0a9/index.m3u8
 #EXTINF:-1 tvg-chno="632" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Colombia ² 🇨🇴 
 http://181.78.8.199:8000/play/a0b1/index.m3u8
 
-#EXTINF:-1 tvg-chno="633" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 Sur América ²
+#EXTINF:-1 tvg-chno="633" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 Colombia ² 🇨🇴
 http://astra.fibernetisp.com.co/play/a0dp/index.m3u8
+
+#EXTINF:-1 tvg-chno="633" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN 2 Sur América ²
+http://45.188.229.33:8000/play/a1ay/index.m3u8
 
 #EXTINF:-1 tvg-chno="634" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN 3 Sur América ²
 http://astra.fibernetisp.com.co/play/a0jc/index.m3u8
