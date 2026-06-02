@@ -1773,8 +1773,8 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7763
 #EXTINF:-1 tvg-chno="619" tvg-logo="https://www.foxdeportes.com/assets/images/logo_2.png" group-title="Deportes",Fox Deportes ᵐ 🇺🇲
 http://m3u.tvcluboficial.com/m/m/1114.m3u8
 
-#EXTINF:-1 tvg-chno="630" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Argentina ᵐ 🇦🇷
-
+#EXTINF:-1 tvg-chno="630" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Argentina ² 🇦🇷
+http://45.188.229.33:8000/play/a1az/index.m3u8
 
 #EXTINF:-1 tvg-chno="631" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Chile ² 🇨🇱
 http://astra.fibernetisp.com.co/play/a0a9/index.m3u8
