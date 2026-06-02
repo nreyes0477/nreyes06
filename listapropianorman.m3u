@@ -1806,7 +1806,10 @@ http://astra.fibernetisp.com.co/play/a0ad/index.m3u8
 #EXTINF:-1 tvg-chno="639" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png" group-title="Deportes",ESPN Premium ² 🇦🇷
 http://147.135.114.221:8001/play/a019/index.m3u8
 
-#EXTINF:-1 tvg-chno="640" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png" group-title="Deportes",ESPN Premium ᵐ 🇨🇱 
+#EXTINF:-1 tvg-chno="640" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png" group-title="Deportes",ESPN Premium 2 ²🇦🇷
+http://45.188.229.33:8000/play/a1di/index.m3u8
+
+#EXTINF:-1 tvg-chno="640" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png" group-title="Deportes",ESPN Premium ᵐ 🇦🇷
 http://m3u.tvcluboficial.com/m/m/405.m3u8
 
 #EXTINF:-1 tvg-chno="641" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%20128.png" group-title="Deportes",Fox Sports 🇦🇷
