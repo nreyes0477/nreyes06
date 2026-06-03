@@ -1735,7 +1735,7 @@ http://45.5.118.136:8888/play/a009/index.m3u8
 http://190.61.114.186:8000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-chno="612" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1536x329.png" group-title="Deportes",Sky Sports 🇲🇽
-http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/772278.ts
+http://domestipo1.online:80/live/Oscar2208chieu/GX9vqaWbZ7/772278.ts
 
 #EXTINF:-1 tvg-chno="612" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1536x329.png" group-title="Deportes",Sky Sports Bundesliga ² 🇲🇽
 http://190.92.10.66:4000/play/a006/index.m3u8
@@ -1893,20 +1893,20 @@ https://deportivo922.ultraflixapp.workers.dev/deportivo111/51.m3u8
 #EXTINF:-1 tvg-chno="669" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="Deportes",Dazn La Liga (2) 🇪🇦
 http://tvpremiund.ddns.me:2082/streaming/clients_live.php?username=bras85@8hdsv743@dhn&password=7456@hfuge746bras&stream=81518&extension=ts
 
-#EXTINF:-1 tvg-chno="669" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_laliga-mediano.png" group-title="Deportes",La Liga por Movistar + ¹ ᵐ 🇪🇸
- http://m3u.tvcluboficial.com/m/m/616.m3u8
+#EXTINF:-1 tvg-chno="669" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_laliga-mediano.png" group-title="Deportes",La Liga por Movistar + 🇪🇸
+http://domestipo1.online:80/live/Oscar2208chieu/GX9vqaWbZ7/584960.ts
 
-#EXTINF:-1 tvg-chno="669" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_liga_de_campeones-mediano.png" group-title="Deportes",Liga de Campeones por Movistar + ¹ 🇪🇸
-https://futbol9865.ultratv13.workers.dev/deportivo111/61.m3u8
+#EXTINF:-1 tvg-chno="669" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_liga_de_campeones-mediano.png" group-title="Deportes",Liga de Campeones por Movistar + 🇪🇸
+http://domestipo1.online:80/live/Oscar2208chieu/GX9vqaWbZ7/585009.ts
 
-#EXTINF:-1 tvg-chno="669" tvg-logo="https://assets.laliga.com/assets/2023/07/04/medium/d0c0191e6268a2d6c5fde4756d1202ea.png"group-title="Deportes",La Liga Hypermotion ¹ 🇪🇸
-https://videxdata.alwaysdata.net/deportivo111/53.m3u8
+#EXTINF:-1 tvg-chno="669" tvg-logo="https://assets.laliga.com/assets/2023/07/04/medium/d0c0191e6268a2d6c5fde4756d1202ea.png"group-title="Deportes",La Liga Hypermotion 🇪🇸
+http://domestipo1.online:80/live/Oscar2208chieu/GX9vqaWbZ7/584972.ts
 
 #EXTINF:-1 tvg-chno="669" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dazn-mediano.png" group-title="Deportes",Dazn 1 🇪🇸
-http://domestipo1.online:80/live/ser682mun/5w49evr21/221519.m3u8
+http://domestipo1.online:80/live/Oscar2208chieu/GX9vqaWbZ7/155620.ts
 
 #EXTINF:-1 tvg-chno="669" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dazn_2-mediano.png" group-title="Deportes",Dazn 2 🇪🇸
-http://domestipo1.online:80/live/ser682mun/5w49evr21/155622.m3u8
+http://domestipo1.online:80/live/Oscar2208chieu/GX9vqaWbZ7/155622.ts
 
 #EXTINF:-1 tvg-chno="669" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dazn_formula_1-mediano.png"group-title="Deportes",Dazn F1 ᵐ 🇪🇸
 http://m3u.tvcluboficial.com/m/m/427.m3u8
