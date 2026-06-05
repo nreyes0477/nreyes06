@@ -817,13 +817,13 @@ https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/
 https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/smartphone/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="259" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/TCS_2_2016.png/300px-TCS_2_2016.png"group-title="El Salvador",Canal 2 ¹ 🇸🇻
-https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
+https://teleon.tv/stream/cG5wODQ3ODEzM3BucDg0.m3u8
 
-#EXTINF:-1 tvg-chno="260" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/640px-Canal_4_TCS.png" group-title="El Salvador",Canal 4 🇸🇻
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/545.m3u8
+#EXTINF:-1 tvg-chno="260" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/640px-Canal_4_TCS.png" group-title="El Salvador",Canal 4 ¹ 🇸🇻
+https://teleon.tv/stream/cG5wODQ3ODEyOXBucDg0.m3u8
 
-#EXTINF:-1 tvg-chno="261" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-6-El-Salvador-en-vivo-Online.png" group-title="El Salvador",Canal 6 🇸🇻
-http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=9317&extension=ts
+#EXTINF:-1 tvg-chno="261" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-6-El-Salvador-en-vivo-Online.png" group-title="El Salvador",Canal 6 ¹ 🇸🇻
+https://teleon.tv/stream/cG5wODQ3ODEzMXBucDg0.m3u8
 
 #EXTINF:-1 tvg-chno="261" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tutvcanal11.png/330px-Tutvcanal11.png" group-title="El Salvador",TUTV Canal 11 ¹ 🇸🇻
 https://stream.giostreaming.app:19360/canal11/canal11.m3u8
@@ -1758,10 +1758,13 @@ http://189.148.49.233:8000/play/a05p/index.m3u8
 #EXTINF:-1 tvg-chno="616" tvg-logo="https://lasociedaddelcontenido.com/wp-content/uploads/2025/05/Copia-de-Imagen-2-1536x864.jpg" group-title="Deportes",Telemundo Deportes ¹ 🇺🇸
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88884639/hls/master.m3u8?declaredCC1Language=es&ads.xumo_channelId=88884639&ads.xumo_streamId=88884639&ads.channelId=88884639&ads.channelName=telemundodeportesahora_us&ads.csid=tcl2_us_telemundodeportesahora_ssai&ads.caid=TelemundoDeportesAhora&ads.genre=Sport&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=es&ads._fw_content_rating=vt-pg&ads._fw_coppa=o&ads._fw_h_x_country=US&ads.xumo_contentId=4281&ads.xumo_contentName=TelemundoDeportesAhora&ads.xumo_providerId=4281&ads.xumo_providerName=TelemundoDeportesAhora&ads.xumo_channelName=TelemundoDeportesAhora&includeAssetTags=true&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
 
-#EXTINF:-1 tvg-chno="617" tvg-logo="https://newswhip.sirv.com/WP_www.newswhip.com/2018/02/Espndeportes.png" group-title="Deportes",ESPN Deportes (1) 🇺🇲
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/2359.ts
+#EXTINF:-1 tvg-chno="617" tvg-logo="https://newswhip.sirv.com/WP_www.newswhip.com/2018/02/Espndeportes.png" group-title="Deportes",ESPN Deportes (1) ² 🇺🇲
+http://190.61.114.186:8000/play/a03t/index.m3u8
 
 #EXTINF:-1 tvg-chno="617" tvg-logo="https://newswhip.sirv.com/WP_www.newswhip.com/2018/02/Espndeportes.png" group-title="Deportes",ESPN Deportes (2) 🇺🇲
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/2359.ts
+
+#EXTINF:-1 tvg-chno="617" tvg-logo="https://newswhip.sirv.com/WP_www.newswhip.com/2018/02/Espndeportes.png" group-title="Deportes",ESPN Deportes (3) 🇺🇲
 http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/595818.ts
 
 #EXTINF:-1 tvg-chno="618" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="Deportes",TUDN USA ᵐ 🇺🇸
