@@ -973,10 +973,7 @@ https://dvrfl03.bozztv.com/hondu-azteca/index.m3u8
 http://m3u.tvcluboficial.com/m/m/78.m3u8
 
 #EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno -2hr 🇲🇽
-http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=alexmargarita&password=lwDRib5ooT&stream=87575&extension=ts
-
-#EXTINF:-1 tvg-chno="311" tvg-logo="https://mexio.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno -1hr 🇲🇽
-http://domestipo1.online:80/live/ser682mun/5w49evr21/672229.m3u8
+http://domestipo1.online:80/live/Oscar2208chieu/GX9vqaWbZ7/755505.ts
 
 #EXTINF:-1 tvg-chno="312" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png" group-title="México",Azteca 7 ² 🇲🇽
 http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
@@ -993,8 +990,8 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-chno="314" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="México",Las Estrellas MX 🇲🇽
 http://domestipo1.online:80/live/ser682mun/5w49evr21/122601.m3u8
 
-#EXTINF:-1 tvg-chno="314" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"bgroup-title="México",Las Estrellas Latino -2hr ² 🇲🇽
-http://200.58.64.244:9000/play/a00z/index.m3u8
+#EXTINF:-1 tvg-chno="314" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"bgroup-title="México",Las Estrellas Latino -2hr 🇲🇽
+http://domestipo1.online:80/live/Oscar2208chieu/GX9vqaWbZ7/755535.ts
 
 #EXTINF:-1 tvg-chno="315" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/10/Multimedios-TV-Canal-6-en-vivo-Online.png?resize=1068%2C601&ssl=1" group-title="México",Multimedios Canal 6 ¹ 🇲🇽
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
