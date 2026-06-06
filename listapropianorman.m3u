@@ -1009,13 +1009,13 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 #EXTINF:-1 tvg-chno="317" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/400px-Unicable_logo.svg.png" group-title="México",Unicable 🇲🇽
-http://domestipo1.online:80/live/ser682mun/5w49evr21/122656.m3u8
+http://domestipo1.online:80/live/Oscar2208chieu/GX9vqaWbZ7/776268.ts
 
-#EXTINF:-1 tvg-chno="319" tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default_mobile/public/images/logos/canl-nueve-100x100.png" group-title="México",Nu9ve 🇲🇽
-http://domestipo1.online:80/live/ser682mun/5w49evr21/122625.m3u8
+#EXTINF:-1 tvg-chno="319" tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default_mobile/public/images/logos/canl-nueve-100x100.png" group-title="México",Nu9ve ¹ 🇲🇽
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w1736945143.m3u8
 
-#EXTINF:-1 tvg-chno="320" tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png" group-title="México",Canal Once 🇲🇽 
-http://domestipo1.online:80/live/ser682mun/5w49evr21/122582.m3u8
+#EXTINF:-1 tvg-chno="320" tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png" group-title="México",Canal Once ¹ 🇲🇽 
+https://vivo.canaloncelive.tv/secureoncedos/oncedigital/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="320" tvg-logo="https://cdn.mitvstatic.com/channels/sv_de-pelicula_m.png" group-title="México",D Película ² 🇲🇽 
 http://168.232.168.242:9999/play/a07f/index.m3u8
