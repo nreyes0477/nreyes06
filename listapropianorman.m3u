@@ -718,13 +718,13 @@ http://domestipo1.online:80/live/ser682mun/5w49evr21/328916.m3u8
 http://domestipo1.online:80/live/ser682mun/5w49evr21/2143.m3u8
 
 #EXTINF:-1 tvg-chno="230" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png" group-title="Chile",Chilevisión ² 🇨🇱
-http://189.50.210.3:8008/play/a046/index.m3u8
+http://45.188.229.33:8000/play/a135/index.m3u8
 
 #EXTINF:-1 tvg-chno="231" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png" group-title="Chile",TVN ² 🇨🇱
-http://189.50.210.3:8008/play/a079/index.m3u8
+http://45.188.229.33:8000/play/a134/index.m3u8
 
 #EXTINF:-1 tvg-chno="231" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png" group-title="Chile",Canal 13 ² 🇨🇱
-http://189.50.210.3:8008/play/a02s/index.m3u8
+http://45.188.229.33:8000/play/a12g/index.m3u8
 
 #EXTINF:-1 tvg-chno="231" tvg-logo="https://www.tvn.cl/tvn/site/artic/20230420/imag/foto_0000000320230420120624/logotvchile.png" group-title="Chile",TV Chile ² 🇨🇱
 http://45.171.64.30:8800/play/a00c
