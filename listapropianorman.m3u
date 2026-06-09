@@ -930,8 +930,8 @@ http://190.61.101.65:2025/play/a00l
 #EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo ¹ 🇺🇸
 https://futbol9865.ultratv13.workers.dev/deportivo111/73.m3u8
 
-#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo TC 🇺🇸
-http://weibplus.is:80/live/Oscar2208chieu/GX9vqaWbZ7/4708.ts
+#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo * 🇺🇸
+http://weibplus.is:80/live/Oscar2208chieu/GX9vqaWbZ7/4719.ts
 
 #EXTINF:-1 tvg-chno="289" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png" group-title="EUA Latino",Galavisión ᵐ 🇺🇸
 http://m3u.tvcluboficial.com/m/m/481.m3u8
