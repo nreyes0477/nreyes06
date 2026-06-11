@@ -36,6 +36,31 @@ http://45.5.118.152:8000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://lasociedaddelcontenido.com/wp-content/uploads/2025/08/Imagen-2025-08-06T234253.981-1536x864.jpg" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",Fox One (México) ² 🇲🇽
 http://38.194.226.190:8000/play/a00o/index.m3u8
 
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",Azteca 7 ² 🇲🇽
+http://168.232.168.242:9999/play/a04s/index.m3u8
+
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/724px-Canal_5_2016.svg.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",Canal 5 ² 🇲🇽
+http://168.232.168.242:9999/play/a04r/index.m3u8
+
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",TUDN ² 🇲🇽
+http://201.151.118.136:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",Telefe ¹ 🇦🇷
+http://playcom.trapemn.tv:1935/transcoderip/telefe.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",Caracol ² 🇨🇴
+http://179.1.139.84:8000/play/a03s/index.m3u8
+
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://assets.radioagricultura.cl/2025/09/foto_0000000220240424143502_imagen_2023-01-06_161610132.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",Chilevisión ² 🇨🇱
+http://191.97.61.32:8000/play/a09k/index.m3u8
+
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://assets.radioagricultura.cl/2025/09/foto_0000000220240424143502_imagen_2023-01-06_161610132.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",Chilevisión ² 🇨🇱
+http://191.97.61.32:8000/play/a09k/index.m3u8
+
+
+
+
+
 
 
 
@@ -683,8 +708,8 @@ http://go.iptvhn.net:25461/live/7789/7789/13336.m3u8
 #EXTINF:-1 tvg-chno="110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="Infantiles",Tooncast
 http://go.iptvhn.net:25461/live/7789/7789/13308.m3u8
 
-#EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina",Telefe ² 🇦🇷
-http://45.188.229.33:8000/play/a1cl/index.m3u8?hls
+#EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina",Telefe ¹ 🇦🇷
+http://playcom.trapemn.tv:1935/transcoderip/telefe.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="Argentina",El Trece ² 🇦🇷
 http://45.188.229.33:8000/play/a1dk/index.m3u8?hls
