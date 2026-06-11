@@ -48,6 +48,9 @@ http://179.1.139.84:8000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://assets.radioagricultura.cl/2025/09/foto_0000000220240424143502_imagen_2023-01-06_161610132.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",Chilevisión ² 🇨🇱
 http://191.97.61.32:8000/play/a09k/index.m3u8
 
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/640px-Canal_4_TCS.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",Canal 4 ¹ 🇸🇻
+https://teleon.tv/stream/cG5wODQ3ODEyOXBucDg0.m3u8
+
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/330px-Teleamazonas_Logo.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",Teleamazonas ² 🇪🇨
 http://181.78.73.153:8000/play/a0bw/index.m3u8
 
