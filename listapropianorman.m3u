@@ -30,11 +30,11 @@ http://168.232.168.242:9999/play/a01v/index.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://tavilatam.com/wp-content/uploads/2026/04/TAVI_Fox_Tigo-Sports.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Fox CA AMPRO ² 🌐
 http://168.232.168.242:9999/play/a01t/index.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Azteca 7 ² 🇲🇽
-http://168.232.168.242:9999/play/a04s/index.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Azteca 7 ¹ 🇲🇽
+https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cka7s31743585052.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Canal 5 ² 🇲🇽
-http://168.232.168.242:9999/play/a04r/index.m3u8
+http://190.61.101.11:7050/play/a098/index.m3u8?hls
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• TUDN ² 🇲🇽
 http://201.151.118.136:8000/play/a00g/index.m3u8
@@ -1043,14 +1043,14 @@ http://virgencitachatuti.com:80/live/Oscar2208chieu/GX9vqaWbZ7/755503.ts
 #EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno -2hr 🇲🇽
 http://virgencitachatuti.com:80/live/Oscar2208chieu/GX9vqaWbZ7/755505.ts
 
-#EXTINF:-1 tvg-chno="312" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="México",Azteca 7 ² 🇲🇽
-http://168.232.168.242:9999/play/a04s/index.m3u8
+#EXTINF:-1 tvg-chno="312" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="México",Azteca 7 ¹ 🇲🇽
+https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
 
 #EXTINF:-1 tvg-chno="312" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="México",Azteca 7 🇲🇽
 http://virgencitachatuti.com:80/live/Oscar2208chieu/GX9vqaWbZ7/755500.ts
 
 #EXTINF:-1 tvg-chno="313" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cka7s31743585052.png" group-title="México",Canal 5 ² 🇲🇽
-http://168.232.168.242:9999/play/a04r/index.m3u8
+http://190.61.101.11:7050/play/a098/index.m3u8?hls
 
 #EXTINF:-1 tvg-chno="313" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cka7s31743585052.png" group-title="México",Canal 5 🇲🇽
 http://virgencitachatuti.com:80/live/Oscar2208chieu/GX9vqaWbZ7/755513.ts
