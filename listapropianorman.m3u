@@ -30,6 +30,12 @@ http://190.61.114.186:8000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://tavilatam.com/wp-content/uploads/2026/04/TAVI_Fox_Tigo-Sports.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Fox GT ² 🇬🇹
 http://45.5.118.152:8000/play/a0dg/index.m3u8
 
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://tigosports-content-gt.tigocloud.net/uploads/OTT_SI_6c956602aa.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Tigo Sports GT ² 🇬🇹
+http://45.5.118.152:8000/play/a08x/index.m3u8
+
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://tigosports-content-gt.tigocloud.net/uploads/OTT_SI_6c956602aa.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Tigo Sports PA ² 🇵🇦
+http://m3u.tvcluboficial.com/m/m/905.m3u8
+
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Azteca 7 ¹ 🇲🇽
 https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
 
@@ -2033,8 +2039,8 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7397
 #EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Panamá ᵐ 🇵🇦
 http://m3u.tvcluboficial.com/m/m/905.m3u8
 
-#EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Guatemala 🇬🇹
-http://domestipo1.online:80/live/Oscar2208chieu/GX9vqaWbZ7/9176.ts
+#EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Guatemala ² 🇬🇹
+http://45.5.118.152:8000/play/a08x/index.m3u8
 
 #EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports Honduras 🇭🇳
 http://domestipo1.online:80/live/Oscar2208chieu/GX9vqaWbZ7/9211.ts
