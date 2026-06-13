@@ -15,7 +15,7 @@ http://190.61.41.181:8000/play/a0r4/index.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://i.imgur.com/ctnvE3c.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Canal 7 Teletica ² 🇨🇷
 http://190.7.192.162:8007/play/s10
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://i.imgur.com/ctnvE3c.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Teletica Mundial ² 🇨🇷
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Teletica_Deportes_logo.png/1920px-Teletica_Deportes_logo.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Teletica Mundial ² 🇨🇷
 http://190.7.192.162:8007/play/s11
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://cotobrustv.com/wp-content/uploads/2024/06/fdfd.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• CBTV ¹ 🇨🇷
@@ -51,8 +51,8 @@ http://179.1.139.84:8000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://assets.radioagricultura.cl/2025/09/foto_0000000220240424143502_imagen_2023-01-06_161610132.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Chilevisión ² 🇨🇱
 http://191.97.61.32:8000/play/a09k/index.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• TyC Sports ¹ 🇦🇷
-https://futbol9865.ultratv13.workers.dev/deportivo111/77.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• TyC Sports ² 🇦🇷
+http://190.7.19.197:232/play/a04w/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/500px-Win_Sports_nuevo_logo.svg.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Win Sports ² 🇨🇴
 http://181.118.156.46:8000/play/a05w/index.m3u8
