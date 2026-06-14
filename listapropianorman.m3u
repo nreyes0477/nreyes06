@@ -25,10 +25,10 @@ http://190.7.192.162:8007/play/s11
 http://45.5.118.152:8000/play/a0ds/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://tavilatam.com/wp-content/uploads/2026/04/TAVI_Fox_Tigo-Sports.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Fox SV ² 🇸🇻
-http://190.61.114.186:8000/play/a04d/index.m3u8
+http://45.5.119.43:4000/play/a005/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://tavilatam.com/wp-content/uploads/2026/04/TAVI_Fox_Tigo-Sports.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Fox GT ² 🇬🇹
-http://45.5.118.152:8000/play/a0dg/index.m3u8
+http://45.5.119.43:4000/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://tigosports-content-gt.tigocloud.net/uploads/OTT_SI_6c956602aa.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Tigo Sports GT ² 🇬🇹
 http://45.5.118.152:8000/play/a08x/index.m3u8
