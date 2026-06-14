@@ -18,9 +18,6 @@ http://190.7.192.162:8007/play/s10
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Teletica_Deportes_logo.png/1920px-Teletica_Deportes_logo.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Teletica Mundial ² 🇨🇷
 http://190.7.192.162:8007/play/s11
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://cotobrustv.com/wp-content/uploads/2024/06/fdfd.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• CBTV ¹ 🇨🇷
-https://s1.tvdatta.com:3072/live/cotobrustvlive.m3u8
-
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.lateja.cr/resizer/v2/ENTJS2G3B5FX3OAVGK4Q4PYW34.jpg?smart=true&auth=4ad5e4d38ad2a41b755e33bacc4055a32f4d811ad07e0ea98305e5d10a22bfc4&width=1440&height=1438" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Fox CR ² 🇨🇷
 http://45.5.118.152:8000/play/a0ds/index.m3u8
 
@@ -33,7 +30,7 @@ http://45.5.118.152:8000/play/a0dg/index.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://tigosports-content-gt.tigocloud.net/uploads/OTT_SI_6c956602aa.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Tigo Sports GT ² 🇬🇹
 http://45.5.118.152:8000/play/a08x/index.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://tigosports-content-gt.tigocloud.net/uploads/OTT_SI_6c956602aa.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Tigo Sports PA ² 🇵🇦
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://tigosports-content-gt.tigocloud.net/uploads/OTT_SI_6c956602aa.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Tigo Sports PA ᵐ 🇵🇦
 http://m3u.tvcluboficial.com/m/m/905.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Azteca 7 ¹ 🇲🇽
@@ -55,7 +52,7 @@ http://179.1.139.84:8000/play/a03s/index.m3u8
 http://191.97.61.32:8000/play/a09k/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• TyC Sports ² 🇦🇷
-http://190.7.19.197:232/play/a04w/index.m3u8
+http://200.4.195.66:8000/play/a007/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/500px-Win_Sports_nuevo_logo.svg.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Win Sports ² 🇨🇴
 http://181.118.156.46:8000/play/a05w/index.m3u8
@@ -63,8 +60,8 @@ http://181.118.156.46:8000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/960px-Canal_4_TCS.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Canal 4 ¹ 🇸🇻
 https://teleon.tv/stream/cG5wODQ3ODEyOXBucDg0.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/330px-Teleamazonas_Logo.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Teleamazonas ² 🇪🇨
-http://181.78.73.153:8000/play/a0bw/index.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://cotobrustv.com/wp-content/uploads/2024/06/fdfd.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• CBTV ¹ 🇨🇷
+https://s1.tvdatta.com:3072/live/cotobrustvlive.m3u8
 
 
 
