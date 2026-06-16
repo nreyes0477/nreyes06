@@ -83,7 +83,7 @@ https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="Nacionales",Canal 6 Repretel ¹ 🇨🇷
-https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+https://d2b5h5wyivfnfl.cloudfront.net/live/02f0dc35-8fd4-4021-8fa0-96c277f62653/medialist_15609871089997455276_hls.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://i.imgur.com/ctnvE3c.png" group-title="Nacionales",Canal 7 Teletica ² 🇨🇷
 http://190.7.192.162:8007/play/s10
@@ -92,7 +92,7 @@ http://190.7.192.162:8007/play/s10
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445/master.m3u8
 
 #EXTINF:-1 tvg-chno="11" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc6LkOjvvuirGu-dZ63kzj8tvwS60MzA2i_IPV0jDLp8v00Lrned76Bdn5u7FuLVz4MYx0e48ndtn5dwqq5xfkp0poPMeV9DmprlgzwPPtZukYLnQa14Jo4gDOH91x5T8BaYZjUYSJbrE/s1600/canal+11+en+vivo.png" group-title="Nacionales",Canal 11 Repretel ¹ 🇨🇷
-https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
+https://d2b5h5wyivfnfl.cloudfront.net/live/67efd9e7-d51f-40a9-b532-056669bd160a/medialist_15609871089997455276_hls.m3u8
 
 #EXTINF:-1 tvg-chno="13" tvg-logo="https://observador.cr/wp-content/uploads/2022/07/Logo-nuevo-canal-13-768x692.png" group-title="Nacionales",Canal 13 Sinart ² 🇨🇷
 http://45.163.139.42:8000/play/a02r/index.m3u8
