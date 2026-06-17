@@ -1,22 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/68/89/5868893f-52c4-779b-d7fc-470aaaaef03c/Placeholder.mill/400x400bb-75.webp" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Telemundo (1) 🇺🇸
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/68/89/5868893f-52c4-779b-d7fc-470aaaaef03c/Placeholder.mill/400x400bb-75.webp" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Telemundo 🇺🇸
 http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/454944.ts
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/68/89/5868893f-52c4-779b-d7fc-470aaaaef03c/Placeholder.mill/400x400bb-75.webp" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Telemundo (2) 🇺🇸
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/68/89/5868893f-52c4-779b-d7fc-470aaaaef03c/Placeholder.mill/400x400bb-75.webp" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Telemundo 🇺🇸
 http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/346637.ts
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/68/89/5868893f-52c4-779b-d7fc-470aaaaef03c/Placeholder.mill/400x400bb-75.webp" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Telemundo (3) ² 🇺🇸
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/68/89/5868893f-52c4-779b-d7fc-470aaaaef03c/Placeholder.mill/400x400bb-75.webp" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Telemundo ² 🇺🇸
 http://24.152.53.3:8090/play/a00z/index.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Directv (1) ² 🇦🇷
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Directv ² 🇦🇷
 http://191.97.59.33:8000/play/a09t/index.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Directv (2) 🇦🇷
-http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/54471.ts
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Directv ² 🇦🇷
+http://38.187.7.252:8000/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Directv 2 ² 🇦🇷
-http://190.61.41.181:8000/play/a0r4/index.m3u8
+http://181.64.27.65:8000/play/a0dq/index.m3u8
+
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Directv + ² 🇦🇷
+
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://i.imgur.com/ctnvE3c.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Canal 7 Teletica ² 🇨🇷
 http://190.7.192.162:8007/play/s10
