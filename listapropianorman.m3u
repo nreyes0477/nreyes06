@@ -49,10 +49,10 @@ http://45.5.118.152:8000/play/a08x/index.m3u8
 http://m3u.tvcluboficial.com/m/m/905.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Azteca 7 ² 🇲🇽
-http://148.230.149.45:1021/play/a072/index.m3u8
+http://45.5.119.43:4000/play/a026/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cka7s31743585052.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Canal 5 ² 🇲🇽
-http://148.230.149.45:1021/play/a070/index.m3u8
+http://45.5.119.43:4000/play/a05o/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• TUDN ² 🇲🇽
 http://24.152.53.3:8090/play/a012/index.m3u8
@@ -60,10 +60,10 @@ http://24.152.53.3:8090/play/a012/index.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Telefe ¹ 🇦🇷
 http://playcom.trapemn.tv:1935/transcoderip/telefe.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Caracol ² 🇨🇴 ✔️
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Caracol ² 🇨🇴 
 https://astra.fibernetisp.com.co/play/a03r/index.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/500px-CanalRCN2023.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• RCN ² 🇨🇴 ✔️
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/500px-CanalRCN2023.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• RCN ² 🇨🇴 
 https://astra.fibernetisp.com.co/play/a0b5/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://assets.radioagricultura.cl/2025/09/foto_0000000220240424143502_imagen_2023-01-06_161610132.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Chilevisión ² 🇨🇱
