@@ -33,6 +33,9 @@ http://190.7.192.162:8007/play/s10
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Teletica_Deportes_logo.png/1920px-Teletica_Deportes_logo.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Teletica Mundial ² 🇨🇷
 http://190.7.192.162:8007/play/s11
 
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_plus-mediano.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Fox + 🇨🇷
+http://weibplus.is:80/live/Oscar2208chieu/GX9vqaWbZ7/783830.ts
+
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.lateja.cr/resizer/v2/ENTJS2G3B5FX3OAVGK4Q4PYW34.jpg?smart=true&auth=4ad5e4d38ad2a41b755e33bacc4055a32f4d811ad07e0ea98305e5d10a22bfc4&width=1440&height=1438" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Fox CR ² 🇨🇷
 http://45.5.117.99:8000/play/a02v/index.m3u8
 
