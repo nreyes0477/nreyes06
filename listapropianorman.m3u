@@ -12,13 +12,16 @@ http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/346637.ts
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/68/89/5868893f-52c4-779b-d7fc-470aaaaef03c/Placeholder.mill/400x400bb-75.webp" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Telemundo ² (4) 🇺🇸
 http://24.152.53.3:8090/play/a00z/index.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Directv ² (1) 🇦🇷
-http://190.61.41.181:8000/play/a0r5/index.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Directv ¹ (1) 🇦🇷
+https://jwzrh.vivolatamz.org/lb03/dsports/index.m3u8?token=63252f689522dc3722ce896b950733110caeb1e8-13-1781887477-1781833477&ip=186.64.132.238
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Directv ² (2) 🇦🇷
-http://191.97.59.33:8000/play/a09t/index.m3u8
+http://190.61.41.181:8000/play/a0r5/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Directv ² (3) 🇦🇷
+http://191.97.59.33:8000/play/a09t/index.m3u8
+
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Directv ² (4) 🇦🇷
 http://38.187.7.252:8000/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Directv 2 ² 🇦🇷
