@@ -60,6 +60,9 @@ http://45.5.119.43:4000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• TUDN ² 🇲🇽
 http://24.152.53.3:8090/play/a012/index.m3u8
 
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vistazo.com/binrepository/826x432/29c0/768d432/none/12727/EJWC/mundial-2026-sera-transmitida-por-disney_2650561_20260417154514.jpg" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Disney + (Sur América)
+https://dntaf.vivolatamz.org/lb01/disney1/index.m3u8?token=3705e6c0ce05632a7476981f979a056babfe9b7c-f2-1782102023-1782048023&ip=186.64.132.238
+
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Telefe ¹ 🇦🇷
 http://playcom.trapemn.tv:1935/transcoderip/telefe.stream/playlist.m3u8
 
