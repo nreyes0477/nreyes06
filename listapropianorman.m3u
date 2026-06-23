@@ -46,7 +46,7 @@ http://200.115.120.1:8000/play/a017/index.m3u8
 http://45.5.118.152:8000/play/a08x/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Azteca 7 🇲🇽
-http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/450926.ts
+http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/450326.ts
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cka7s31743585052.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Canal 5 ¹ 🇲🇽
 https://bdjky.vivolatamz.org/lb01/eventos/index.m3u8?token=f60bd6c68a78297d9254b42c4c0731956791d3a7-2c-1781968109-1781914109&ip=186.64.132.238
@@ -1073,7 +1073,7 @@ http://virgencitachatuti.com:80/live/Oscar2208chieu/GX9vqaWbZ7/755505.ts
 https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
 
 #EXTINF:-1 tvg-chno="312" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="México",Azteca 7 🇲🇽
-http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/450926.ts
+http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/450326.ts
 
 #EXTINF:-1 tvg-chno="313" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cka7s31743585052.png" group-title="México",Canal 5 ² 🇲🇽
 http://190.61.101.11:7050/play/a098/index.m3u8?hls
