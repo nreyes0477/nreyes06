@@ -45,11 +45,11 @@ http://200.115.120.1:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://tigosports-content-gt.tigocloud.net/uploads/OTT_SI_6c956602aa.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Tigo Sports GT ² 🇬🇹
 http://45.5.118.152:8000/play/a08x/index.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Azteca 7 🇲🇽
-http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5S05nTUNxOXZ5N2RaSkkzTG10Ui9vOD0
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Azteca 7 ² 🇲🇽
+http://103.111.40.244:9999/play/a0ke/index.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cka7s31743585052.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Canal 5 🇲🇽 
-http://dalive.site:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RERUaWJtT0JnazRWL2xlZFJ3MHFKaz0
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cka7s31743585052.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Canal 5 ² 🇲🇽 
+http://103.111.40.244:9999/play/a0iy/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• TUDN ² 🇲🇽
 http://24.152.53.3:8090/play/a012/index.m3u8
@@ -81,7 +81,8 @@ http://200.4.195.66:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/500px-Win_Sports_nuevo_logo.svg.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Win Sports ² 🇨🇴
 http://181.78.8.199:8000/play/a0ic/index.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/960px-Canal_4_TCS.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Canal 4 ¹ 🇸🇻
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/960px-Canal_4_TCS.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Canal 4 ² 🇸🇻
+http://103.111.40.244:9999/play/a01g/index.m3u8
 https://teleon.tv/stream/cG5wODQ3ODEyOXBucDg0.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://cotobrustv.com/wp-content/uploads/2024/06/fdfd.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• CBTV ¹ 🇨🇷
