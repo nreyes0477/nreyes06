@@ -1,10 +1,10 @@
-#EXTM3U
+.#EXTM3U
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://iespilarlorengar.com/wp-content/uploads/2020/01/5108650-importante-png-97-images-in-collection-page-2-importante-png-266_268_preview.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",📣 Actualizar Lista Cambia Enlace x Partido 📣
 https://pcrus.vivolatamz.org/lb04/telemundousa/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/68/89/5868893f-52c4-779b-d7fc-470aaaaef03c/Placeholder.mill/400x400bb-75.webp" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Telemundo ¹ (1) 🇺🇸
-https://acvrt.vivolatamz.org/lb01/telemundousa/index.m3u8?token=c1332ee6489a925080503167dbe1cdbabb775a09-ca-1782457680-1782403680&ip=186.64.132.238
+https://hcroq.vivolatamz.org/lb02/telemundousa/index.m3u8?token=f7b48829f7ac221fa8701306fa5e230fd6297395-bb-1782543194-1782489194&ip=186.64.132.238
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/68/89/5868893f-52c4-779b-d7fc-470aaaaef03c/Placeholder.mill/400x400bb-75.webp" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Telemundo ² (2) 🇺🇸
 http://181.119.108.43:9001/play/a0nb/index.m3u8
@@ -16,7 +16,7 @@ http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/346637.ts
 http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/79070.ts
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Directv ¹ (1) 🇦🇷
-https://dntaf.vivolatamz.org/lb01/dsports/index.m3u8?token=635201e863e047b2bac14337a3620f08f5948098-99-1782472447-1782418447&ip=186.64.132.238
+https://acvrt.vivolatamz.org/lb01/dsports/index.m3u8?token=3b11501ba7324c4f2ac1407ae3f5f9dc25a5929c-88-1782543144-1782489144&ip=186.64.132.238
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="🏆 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 🏆",• Directv ² (2) 🇦🇷
 http://191.97.59.33:8000/play/a09t/index.m3u8
