@@ -1308,7 +1308,7 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 http://200.59.191.177:8000/play/a0li/index.m3u8
 
 #EXTINF:-1 tvg-chno="391" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Venezolana-de-Televisi%C3%B3n-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Venezuela",Venezolana de TV ² 🇻🇪
-http://181.78.8.199:8000/play/a0cp/index.m3u8
+http://181.78.8.199:8000/play/a091/index.m3u8
 
 #EXTINF:-1 tvg-chno="392" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Televen-TV-en-directo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Venezuela",Televen ² 🇻🇪
 http://181.78.8.199:8000/play/a0cd/index.m3u8
@@ -1319,8 +1319,8 @@ http://181.78.8.199:8000/play/a0ft/index.m3u8
 #EXTINF:-1 tvg-chno="394" tvg-logo="https://www.promar.tv/wp-content/uploads/2024/07/a-384x384-logo-para-el-de-512.png" group-title="Venezuela",Promar ¹ 🇻🇪
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="395" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/IVC_Network_Logo.png/300px-IVC_Network_Logo.png" group-title="Venezuela",IVC 🇻🇪 
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=158470&extension=ts
+#EXTINF:-1 tvg-chno="395" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/IVC_Network_Logo.png/300px-IVC_Network_Logo.png" group-title="Venezuela",IVC ² 🇻🇪 
+http://200.59.191.177:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-chno="397" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Ve-Plus-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Venezuela",Venevisión Plus ² 🇻🇪
 http://190.61.114.186:8000/play/a03i/index.m3u8
