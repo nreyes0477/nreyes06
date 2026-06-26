@@ -357,7 +357,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62aa5740a47b6c0007
 https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png" group-title="Noticias",TN Noticias 🇦🇷
-http://domestipo1.online:80/live/ser682mun/5w49evr21/712718.m3u8
+http://velive.lat:8080/live/Nexp328737/29971731/272053.ts
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/588px-Canal_26_logo_%282022%29.svg.png" group-title="Noticias",Canal 26 ¹ 🇦🇷
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
