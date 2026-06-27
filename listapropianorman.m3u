@@ -63,11 +63,11 @@ http://176.65.146.93:8401/play/a09a/index.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="⚽ 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 ⚽",• Telefe ¹ 🇦🇷
 http://playcom.trapemn.tv:1935/transcoderip/telefe.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="⚽ 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 ⚽",• Caracol ² 🇨🇴 
-http://181.78.14.26:4000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="⚽ 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 ⚽",• Caracol ² 🇨🇴 ✔️
+http://138.94.3.106:8000/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/500px-CanalRCN2023.png" group-title="⚽ 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 ⚽",• RCN ² 🇨🇴 
-http://138.121.15.230:9002/RCN/index.m3u8
+http://138.94.3.106:8000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://assets.radioagricultura.cl/2025/09/foto_0000000220240424143502_imagen_2023-01-06_161610132.png" group-title="⚽ 𝕄𝕦𝕟𝕕𝕚𝕒𝕝 2026 ⚽",• Chilevisión ² 🇨🇱
 http://45.181.122.46:8090/play/a01o
