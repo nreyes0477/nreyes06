@@ -18,11 +18,11 @@ https://acvrt.vivolatamz.org/lb01/dsports/index.m3u8?token=c7613dd8f1f731a5fae59
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Directv ² (2) 🇦🇷
 http://191.97.59.33:8000/play/a09t/index.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Directv ² (3) 🇦🇷
-http://38.187.7.252:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Directv (3) 🇦🇷
+http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/712756.ts
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Directv 2 ¹ 🇦🇷
-https://emprw.vivolatamz.org/lb02/dsports2/index.m3u8?token=90322c4905aaceb1071ed2507c70ce65e9bd743b-99-1782472209-1782418209&ip=186.64.132.238
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Directv 2 🇦🇷
+http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/712757.ts
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Directv + ² 🇦🇷
 http://190.108.83.69:8000/play/a05w/index.m3u8
