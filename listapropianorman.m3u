@@ -4,16 +4,13 @@
 https://pcrus.vivolatamz.org/lb04/telemundousa/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/68/89/5868893f-52c4-779b-d7fc-470aaaaef03c/Placeholder.mill/400x400bb-75.webp" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Telemundo ¹ (1) 🇺🇸
-https://pcrus.vivolatamz.org/lb04/telemundousa/index.m3u8?token=704b09b058d2d6dd038d7c601c0f5ce6182403b9-18-1782715187-1782661187&ip=186.64.132.238
+https://mivra.vivolatamz.org/lb04/telemundousa/index.m3u8?token=3e33677c815a8251eb1f35e91687328f582da20b-9f-1782806556-1782752556&ip=186.64.132.238
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/68/89/5868893f-52c4-779b-d7fc-470aaaaef03c/Placeholder.mill/400x400bb-75.webp" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Telemundo ² (2) 🇺🇸
 http://181.119.108.43:9001/play/a0nb/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/68/89/5868893f-52c4-779b-d7fc-470aaaaef03c/Placeholder.mill/400x400bb-75.webp" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Telemundo (3) 🇺🇸
 http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/346637.ts
-
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/500px-Universo_2017.svg.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• NBC Universo 🇺🇸
-http://velive.lat:8080/live/Nexp328737/29971731/385405.ts
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Directv ¹ (1) 🇦🇷
 https://acvrt.vivolatamz.org/lb01/dsports/index.m3u8?token=c7613dd8f1f731a5fae5976a7418db2d5973a0e4-ee-1782796022-1782742022&ip=186.64.132.238
