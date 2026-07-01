@@ -42,14 +42,8 @@ http://45.5.118.152:8000/play/a08x/index.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Azteca 7 ² 🇲🇽
 http://103.111.40.244:9999/play/a0ke/index.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Azteca 7 ¹ 🇲🇽
-https://cxm6.futbolonlinehd.com/azteca7/mono.m3u8?token=c346d167dcb6ec32e1a9801d430d095a32cdceb1-47-1782882369-1782864369
-
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cka7s31743585052.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Canal 5 ² 🇲🇽 
 http://103.111.40.244:9999/play/a0iy/index.m3u8
-
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cka7s31743585052.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Canal 5 ¹ 🇲🇽 
-https://cxm10.futbolonlinehd.com/canal5/mono.m3u8?token=1b03f19decf81d648b4ed445e5027cbc5f0a5090-4a-1782882261-1782864261
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• TUDN ² 🇲🇽
 http://45.228.233.222:8000/play/a04y
@@ -65,9 +59,6 @@ http://138.94.3.106:8000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://assets.radioagricultura.cl/2025/09/foto_0000000220240424143502_imagen_2023-01-06_161610132.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Chilevisión ² 🇨🇱
 http://45.181.122.46:8090/play/a01o
-
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://es.digitaltrends.com/tachyon/sites/13/2026/05/vix-premium.jpg?resize=1350%2C810" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Vix Mundial (1) ¹ 🇲🇽
-https://rbtih.vivolatamz.org/lb05/vix3/index.m3u8?token=be37c5969f63e9877ac6a47371be39cf6b55d320-e5-1782911252-1782857252&ip=186.64.132.238
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://assets.discoup.com/public/dazn-1675160768.png?q=85&h=176&w=176&s=c1c50784286314f76f939a51b74e2951" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Dazn Mundial 🇪🇸
 http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/783834.ts
