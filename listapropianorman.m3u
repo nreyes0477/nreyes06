@@ -54,8 +54,8 @@ https://cxm10.futbolonlinehd.com/canal5/mono.m3u8?token=1b03f19decf81d648b4ed445
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• TUDN ² 🇲🇽
 http://45.228.233.222:8000/play/a04y
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png/1920px-Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png?_=20240204225137" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• TVE (UHD) ² 🇪🇸
-http://176.65.146.93:8401/play/a09a/index.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png/1920px-Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png?_=20240204225137" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• TVE ¹ 🇪🇸
+https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Caracol ² 🇨🇴 
 http://181.78.17.52:8000/play/a0os/index.m3u8
