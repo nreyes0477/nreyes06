@@ -3,14 +3,17 @@
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://iespilarlorengar.com/wp-content/uploads/2020/01/5108650-importante-png-97-images-in-collection-page-2-importante-png-266_268_preview.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",📣 Actualizar Lista Cambia Enlace x Partido 📣
 https://pcrus.vivolatamz.org/lb04/telemundousa/index.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/68/89/5868893f-52c4-779b-d7fc-470aaaaef03c/Placeholder.mill/400x400bb-75.webp" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Telemundo ² (1) 🇺🇸
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/68/89/5868893f-52c4-779b-d7fc-470aaaaef03c/Placeholder.mill/400x400bb-75.webp" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Telemundo ¹ (1) 🇺🇸
+https://cxm1.futbolonlinehd.com/telemundo/mono.m3u8?token=100323a8a2cb0e8660f7b8379b1b1f00fab33788-25-1782881645-1782863645
+
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/68/89/5868893f-52c4-779b-d7fc-470aaaaef03c/Placeholder.mill/400x400bb-75.webp" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Telemundo ² (2) 🇺🇸
 http://181.119.108.43:9001/play/a0nb/index.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/68/89/5868893f-52c4-779b-d7fc-470aaaaef03c/Placeholder.mill/400x400bb-75.webp" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Telemundo (2) 🇺🇸
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/68/89/5868893f-52c4-779b-d7fc-470aaaaef03c/Placeholder.mill/400x400bb-75.webp" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Telemundo (3) 🇺🇸
 http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/346637.ts
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Directv ¹ (1) 🇦🇷
-https://jwzrh.vivolatamz.org/lb03/dsports/index.m3u8?token=ac9b87cdfbef41616f392317a5ad65af834d8994-fc-1782894269-1782840269&ip=186.64.132.238
+https://cxm6.futbolonlinehd.com/dsports/mono.m3u8?token=5ca239a3f44e37af1c845e21e6ed63b40e3efbcc-a3-1782881533-1782863533
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Directv ² (2) 🇦🇷
 http://191.97.59.33:8000/play/a09t/index.m3u8
@@ -45,8 +48,14 @@ http://45.5.118.152:8000/play/a08x/index.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Azteca 7 ² 🇲🇽
 http://103.111.40.244:9999/play/a0ke/index.m3u8
 
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Azteca 7 ¹ 🇲🇽
+https://cxm6.futbolonlinehd.com/azteca7/mono.m3u8?token=c346d167dcb6ec32e1a9801d430d095a32cdceb1-47-1782882369-1782864369
+
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cka7s31743585052.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Canal 5 ² 🇲🇽 
 http://103.111.40.244:9999/play/a0iy/index.m3u8
+
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cka7s31743585052.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Canal 5 ¹ 🇲🇽 
+https://cxm10.futbolonlinehd.com/canal5/mono.m3u8?token=1b03f19decf81d648b4ed445e5027cbc5f0a5090-4a-1782882261-1782864261
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• TUDN ² 🇲🇽
 http://45.228.233.222:8000/play/a04y
@@ -860,7 +869,7 @@ http://domestipo1.online:80/live/ser682mun/5w49evr21/17420.m3u8
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="251" tvg-logo="https://canalunoecuador.com/wp-content/uploads/2023/04/logo_uno.jpg" group-title="Ecuador",Canal Uno ¹ 🇪🇨
-https://movil.ejeserver.com/live/canaluno.m3u8
+https://stmv6.voxtvhd.com.br/sonorama/sonorama/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="252" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/400px-Ecuavisa_Logo_2019.png" group-title="Ecuador",Ecuavisa ¹ 🇪🇨
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream0/chunks.m3u8?dpssid=1072c3237bf3d698ddcf03f262a0969b&sid=ba5t1l1xb248821975867a84d372f4a2&ndvc=0
