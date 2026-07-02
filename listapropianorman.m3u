@@ -51,8 +51,8 @@ http://45.228.233.222:8000/play/a04y
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png/1920px-Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png?_=20240204225137" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• TVE ¹ 🇪🇸
 https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Caracol ² 🇨🇴 
-http://138.121.15.230:9002/CARACOL/index.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Caracol ¹ 🇨🇴 
+https://www.cancha.watch/v1/caracol-tv/master.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/500px-CanalRCN2023.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• RCN ¹ 🇨🇴 
 https://www.cancha.watch/v1/canal-rcn/master.m3u8
