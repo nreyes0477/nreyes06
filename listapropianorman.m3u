@@ -54,8 +54,8 @@ https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Caracol ² 🇨🇴 
 http://138.121.15.230:9002/CARACOL/index.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/500px-CanalRCN2023.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• RCN ² 🇨🇴 
-http://138.94.3.106:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/500px-CanalRCN2023.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• RCN ¹ 🇨🇴 
+https://www.cancha.watch/v1/canal-rcn/master.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://assets.radioagricultura.cl/2025/09/foto_0000000220240424143502_imagen_2023-01-06_161610132.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Chilevisión ² 🇨🇱
 http://45.181.122.46:8090/play/a01o
