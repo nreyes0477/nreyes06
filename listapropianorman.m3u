@@ -51,11 +51,11 @@ http://45.228.233.222:8000/play/a04y
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png/1920px-Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png?_=20240204225137" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• TVE ¹ 🇪🇸
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Caracol ¹ 🇨🇴 
-https://www.cancha.watch/v1/caracol-tv/master.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Caracol 🇨🇴 
+http://kstv.us:8080/live/uCEsr02W66/Curinton60/46776.ts
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/500px-CanalRCN2023.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• RCN ¹ 🇨🇴 
-https://www.cancha.watch/v1/canal-rcn/master.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/500px-CanalRCN2023.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• RCN 🇨🇴 
+http://kstv.us:8080/live/uCEsr02W66/Curinton60/46805.ts
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://assets.radioagricultura.cl/2025/09/foto_0000000220240424143502_imagen_2023-01-06_161610132.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Chilevisión ² 🇨🇱
 http://45.181.122.46:8090/play/a01o
