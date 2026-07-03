@@ -49,7 +49,7 @@ http://103.111.40.244:9999/play/a0iy/index.m3u8
 http://45.228.233.222:8000/play/a04y
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png/1920px-Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png?_=20240204225137" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• TVE ¹ 🇪🇸
-https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Caracol ¹ 🇨🇴 
 https://www.cancha.watch/v1/caracol-tv/master.m3u8
@@ -260,7 +260,7 @@ https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00
 https://linear-254.frequency.stream:443/mt/studio/254/hls/master/playlist_1280x720.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://i.postimg.cc/T1qXxt1F/noticiast.jpg" group-title="Noticias",Telemundo Noticias Ahora ¹ 🇺🇸
-https://d3fs8vk5kl4cwc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qeuu0ja680vad/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US3000005RS
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889467
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png" group-title="Noticias",Telemundo Noticias NR ¹ 🇺🇸
 https://s8host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/playlist.m3u8?ads.cdnhost=s8host4.localnow.api.cms.amdvids.com&ads.playbackid=6FC1200A-60DC-4584-854A-B9FA15BA06F2&ads.n1=rule_id&ads.v1=F0F2D67E-43F6-4794-9B68-414843159DD7-1747755763&ads.n3=qp_content_id&ads.v3=6FC1200A-60DC-4584-854A-B9FA15BA06F2&ads.n4=content_name&ads.v4=Telemundo%20Noticias%20Noreste&ads.n21=channel_title&ads.v21=Telemundo%20Noticias%20Noreste&ads.n22=us_privacy&ads.v22=1YNY&ads.n23=content_custom_3_param&ads.v23=channel&ads.n24=channel_ext_id&ads.v24=&ads.n25=content_custom_1_param&ads.v25=6FC1200A-60DC-4584-854A-B9FA15BA06F2&ads.n26=device_type&ads.v26=&ads.n27=channel_corp&ads.v27=NBCUniversal&ads.n28=device_model&ads.v28=&ads.n29=channel_brand_id&ads.v29=AMDB013258&ads.n30=content_custom_2_param&ads.v30=AMDB013258&ads.n31=channel_name&ads.v31=Telemundo%20Noticias%20Noreste&ads.n32=content_provider&ads.v32=telemundo-noticias-noreste&ads.n33=channel_id&ads.v33=6FC1200A-60DC-4584-854A-B9FA15BA06F2&ads.n34=did&ads.v34=&ads.n35=gpp&ads.v35=&ads.n36=app_version&ads.v36=0.0.0&ads.n37=app_name&ads.v37=&ads.n38=ua&ads.v38=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n39=channel_genre&ads.v39=News&ads.n40=h&ads.v40=1080&ads.n41=ip&ads.v41=86.48.9.131&ads.n42=channel_language&ads.v42=es&ads.n43=content_type&ads.v43=channel&ads.n44=app_store_url&ads.v44=&ads.n45=channel_rating&ads.v45=TV-PG&ads.n46=cust_devicename&ads.v46=desktop_web&ads.n47=gpp_sid&ads.v47=&ads.n48=pos&ads.v48=midroll&ads.n49=device_make&ads.v49=&ads.n50=app_bundle&ads.v50=&ads.n51=network_name&ads.v51=telemundo-noticias-noreste&ads.n52=w&ads.v52=1920&ads.n53=content_livestream&ads.v53=1&ads.n54=content_producer_name&ads.v54=NBCUniversal&ads.n55=channel_company_id&ads.v55=AMDP500448&ads.n56=dnt&ads.v56=&ads.n57=ifa_type&ads.v57=&ads.n58=url&ads.v58=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal
@@ -290,7 +290,7 @@ https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_576.m3u8
 https://d2epgk1fomaa1g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9n8y4tw0bk3an/live/fast-channel-el-pais/fast-channel-el-pais.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBC39000033J
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/El-Confidencial-TV-en-directo-Online.png?resize=1068%2C601&ssl=1" group-title="Noticias",El Confidencial ¹ 🇪🇦
-https://dgrfwaj8stp69.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hmbd9k13g6zsa/live/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8?stoken=dai.zhqJK9905&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBC1400001L8.m3u8
+https://d2x0ptujt9cf22.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-bsk8edpvt6m4t/master.m3u8?ads.ads_cdn=cf&ads.cdn=cf&pb_type=pb-bsk8edpvt6m4t_cloudfront&stoken=elconfidencial-samsunges-UBeBDEi8h0Gv3IjLFHmMHlld
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://lovetvchannels.com/wp-content/uploads/2025/04/Logo_Actualidad360_Color-e1744101209485-1536x360.png" group-title="Noticias",Actualidad 360 ¹ 🇪🇦
 https://amg01821-amg01821c27-rakuten-gb-8652.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-rakutengb/playlist.m3u8?
@@ -310,8 +310,8 @@ http://domestipo1.online:80/live/ser682mun/5w49evr21/501086.m3u8
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/04/Telesur-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Noticias",Telesur ¹ 🇻🇪
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Globovision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Noticias",Globovisión ² 🇻🇪
-http://181.78.8.199:8000/play/a0co/index.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Globovision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Noticias",Globovisión ¹ 🇻🇪
+https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://cdn77.pressenza.com/wp-content/uploads/2016/01/HispanTV-300x128.jpg" group-title="Noticias",Hispan TV ¹ 🇮🇷
 https://live.presstv.ir/hls/hispantv.m3u8
@@ -377,7 +377,7 @@ http://181.78.8.199:8000/play/a0a6/index.m3u8
 http://daleplaytv.vip:80//live/OrlandoVillacis/09992151xx/317546.ts
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://images.pluto.tv/channels/67d9b0ebc290c9499046e88f/colorLogoPNG_1747143716006.png" group-title="Noticias",Noticias RCN ¹ 🇨🇴 
-https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/67d9b0ebc290c9499046e88f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEyZDA1MTM0LWI0NzgtNDlkNy1iYjUzLTkxNDYxMmNlMzI4NyIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9LCJzdGl0Y2hlclBhcnRuZXJTaG93U2xhdGUiOnsiZW5hYmxlZCI6dHJ1ZX19LCJpc3MiOiJzZXJ2aWNlLXBhcnRuZXItYXV0aC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOmMyRnRjM1Z1WjNSMmNHeDFjdz09IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc4MjY4OTI0OSwiaWF0IjoxNzgyNjAyODQ5LCJqdGkiOiI4NmJiYjA4YS0yZDI1LTQwZjMtOWFiNC0xOWM4MjFjOTMyMmMifQ.5n4Azwx46KlLLoYt_m2hi5IVGB4KzLdITZTh1B1whZQ
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-67e6979de1de65be88aeb39f/?X-Plex-Token=zBXsxVNLkczFVyqfDaGK
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Noticias",TV Perú Noticias ¹ 🇵🇪
 https://play.agenciastreaming.com:8081/nacionaltv/index.m3u8
@@ -898,8 +898,8 @@ http://190.61.114.186:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-chno="263" tvg-logo="https://logos.streamsites.eu/2756_tve-en-directo-la-1_overview.png" group-title="España",La 1 ¹ 🇪🇸
 https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
 
-#EXTINF:-1 tvg-chno="264" tvg-logo="https://logos.streamsites.eu/2894_la-2-en-directo_overview.png" group-title="España",La 2 🇪🇸
-http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/316182.ts
+#EXTINF:-1 tvg-chno="264" tvg-logo="https://logos.streamsites.eu/2894_la-2-en-directo_overview.png" group-title="España",La 2 ¹ 🇪🇸
+https://d1yebix5w29z3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-haqfba85d1gvv/La2ES.m3u8
 
 #EXTINF:-1 tvg-chno="265" tvg-logo="https://logos.streamsites.eu/2516_antena3_overview.png" group-title="España",Antena 3 🇪🇸
 http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/316185.ts
@@ -1231,8 +1231,8 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 #EXTINF:-1 tvg-chno="375" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/wapa.png?zoom=2&resize=218%2C150&ssl=1" group-title="Puerto Rico",Wapa + ¹ 🇵🇷
 https://amg00658-amg00658c97-canelatv-international-6697.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-wapata-canelatvinternational/playlist.m3u8?rights_holder_id=wapa-plus&user_id=&vip=186.64.132.238&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=dbf42499-4669-425c-9528-0315d57579db&url=https://www.canela.tv/player/channel/wapa-plus&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
 
-#EXTINF:-1 tvg-chno="375" tvg-logo="https://wipr.pr/wp-content/uploads/2024/10/logo.png" group-title="Puerto Rico",Wipr TV 🇵🇷
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=148440&extension=ts
+#EXTINF:-1 tvg-chno="375" tvg-logo="https://wipr.pr/wp-content/uploads/2024/10/logo.png" group-title="Puerto Rico",Wipr TV ¹ 🇵🇷
+https://streamwipr.pr/hls/stream/index.m3u8
 
 #EXTINF:-1 tvg-chno="376" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/telemicro.png?zoom=3&resize=100%2C70&ssl=1" group-title="República Dominicana",Telemicro Canal 5 🇩🇴
 http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=9303&extension=ts
@@ -2078,7 +2078,7 @@ http://200.115.120.1:8000/play/ca118/index.m3u8
 http://200.115.120.1:8000/play/ca119/index.m3u8
 
 #EXTINF:-1 tvg-chno="694" tvg-logo="https://img.favpng.com/2/23/14/te ledeporte-televisi-n-espa-ola-high-definition-video-la-1-television-png-favpng-rnSs7XcTtev0zWAZeUuRzu9gN.jpg" group-title="Deportes",Teledeporte (TVE) ¹ 🇪🇦
-https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601
 
 #EXTINF:-1 tvg-chno="695" tvg-logo="https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/128579b4-6ac2-11ed-8535-d36612803c67.png" group-title="Deportes",Wapa Deportes 🇵🇷
 http://domestipo1.online:80/live/Oscar2208chieu/GX9vqaWbZ7/199975.ts
