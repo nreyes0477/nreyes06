@@ -42,8 +42,8 @@ http://200.115.120.1:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://tigosports-content-gt.tigocloud.net/uploads/OTT_SI_6c956602aa.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Tigo Sports GT ² 🇬🇹
 http://45.5.118.152:8000/play/a08x/index.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Azteca 7 ² 🇲🇽 
-http://45.171.64.30:2000/play/a00i/index.m3u8?hls
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Azteca 7 ² 🇲🇽 •
+http://45.171.64.30:2000/play/a08z/index.m3u8?hls
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cka7s31743585052.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Canal 5 ² 🇲🇽 
 http://45.189.62.33:8002/play/a0ll/index.m3u8
