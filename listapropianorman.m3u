@@ -9,11 +9,11 @@ http://186.33.7.209:8010/play/a074/index.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/68/89/5868893f-52c4-779b-d7fc-470aaaaef03c/Placeholder.mill/400x400bb-75.webp" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Telemundo ² 🇺🇸
 http://138.186.20.18:8000/play/a063/index.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/68/89/5868893f-52c4-779b-d7fc-470aaaaef03c/Placeholder.mill/400x400bb-75.webp" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Telemundo ¹ 🇺🇸 
-https://d3muoi2o97g3s2.cloudfront.net/playlist.m3u8?id=888&type=live
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/68/89/5868893f-52c4-779b-d7fc-470aaaaef03c/Placeholder.mill/400x400bb-75.webp" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Telemundo ² 🇺🇸 
+http://177.245.131.133:8080/telemundo/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Directv ² 🇦🇷
-http://8.243.126.131:8000/play/a05a/index.m3u8
+http://191.97.63.182:8888/play/a0dc/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Directv 🇦🇷
 http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/592036.ts
@@ -43,7 +43,7 @@ http://200.115.120.1:8000/play/a017/index.m3u8
 http://45.5.118.152:8000/play/a08x/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Azteca 7 ² 🇲🇽 
-http://168.228.44.241:9998/play/a0cx/index.m3u8
+http://177.245.131.133:8080/AZTECA7/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cka7s31743585052.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Canal 5 ² 🇲🇽 
 http://45.189.62.33:8002/play/a0ll/index.m3u8
