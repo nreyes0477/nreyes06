@@ -42,11 +42,11 @@ http://200.115.120.1:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://tigosports-content-gt.tigocloud.net/uploads/OTT_SI_6c956602aa.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Tigo Sports GT ² 🇬🇹
 http://45.5.118.152:8000/play/a08x/index.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Azteca 7 ² 🇲🇽
-http://103.111.40.244:9999/play/a0ke/index.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Azteca 7 ² 🇲🇽 •
+http://45.189.62.33:8002/play/a0fm/index.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cka7s31743585052.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Canal 5 ² 🇲🇽 
-http://103.111.40.244:9999/play/a0iy/index.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cka7s31743585052.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Canal 5 ² 🇲🇽 •
+http://45.189.62.33:8002/play/a0ll/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• TUDN ² 🇲🇽
 http://45.228.233.222:8000/play/a04y
