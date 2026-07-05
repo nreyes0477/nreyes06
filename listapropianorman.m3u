@@ -15,8 +15,8 @@ http://177.245.131.133:8080/telemundo/index.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Directv ² 🇦🇷
 http://191.97.63.182:8888/play/a0dc/index.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Directv 🇦🇷
-http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/592036.ts
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Directv ² 🇦🇷
+http://179.1.158.52:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Directv 2 🇦🇷
 http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/712757.ts
