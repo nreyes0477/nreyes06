@@ -33,9 +33,6 @@ http://45.5.117.99:8000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://tavilatam.com/wp-content/uploads/2026/04/TAVI_Fox_Tigo-Sports.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Fox SV ² 🇸🇻
 http://45.5.119.43:4000/play/a005/index.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://tavilatam.com/wp-content/uploads/2026/04/TAVI_Fox_Tigo-Sports.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Fox GT ² 🇬🇹
-http://200.115.120.1:8000/play/a017/index.m3u8
-
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://tigosports-content-gt.tigocloud.net/uploads/OTT_SI_6c956602aa.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Tigo Sports GT ² 🇬🇹
 http://45.5.118.152:8000/play/a08x/index.m3u8
 
@@ -51,11 +48,11 @@ http://45.228.233.222:8000/play/a04y
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png/1920px-Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png?_=20240204225137" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• TVE ¹ 🇪🇸
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Caracol ² 🇨🇴 
-http://138.186.20.18:8000/play/a035/index.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Caracol ¹ 🇨🇴 
+https://www.cancha.watch/v1/caracol-tv/master.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/500px-CanalRCN2023.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• RCN ² 🇨🇴 
-http://138.186.20.18:8000/play/a034/index.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/500px-CanalRCN2023.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• RCN ¹ 🇨🇴 
+https://www.cancha.watch/v1/canal-rcn/master.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://assets.radioagricultura.cl/2025/09/foto_0000000220240424143502_imagen_2023-01-06_161610132.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Chilevisión ² 🇨🇱
 http://45.181.122.46:8090/play/a01o
