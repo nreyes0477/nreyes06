@@ -49,10 +49,10 @@ http://45.228.233.222:8000/play/a04y
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Caracol ² 🇨🇴 
-http://190.61.43.123:8081/CARACOLHD/mpegts
+http://190.61.43.123:8081/CARACOLHD/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/500px-CanalRCN2023.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• RCN ² 🇨🇴 
-http://190.61.43.123:8081/RCNHD/mpegts
+http://190.61.43.123:8081/RCNHD/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://assets.radioagricultura.cl/2025/09/foto_0000000220240424143502_imagen_2023-01-06_161610132.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Chilevisión ² 🇨🇱
 http://45.181.122.46:8090/play/a01o
