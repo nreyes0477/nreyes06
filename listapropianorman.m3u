@@ -76,8 +76,14 @@ http://103.111.40.244:9999/play/a01g/index.m3u8
 https://stream.lamegatv.com/hls/cotobrustelevision/index.m3u8
 
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title=" 🔆 UFC 🔆",UFC 250 (1)
-http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/444079.ts
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title=" 🔆 UFC 🔆",UFC 329 (1)
+http://velive.lat:8080/live/Nexp328737/29971731/447367.ts
+
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title=" 🔆 UFC 🔆",UFC 329 (2)
+http://legazy.icu:8880/live/patricia2025cas/gkst7NBDxRRe08vz/2152240.ts
+
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title=" 🔆 UFC 🔆",UFC 329 (3)
+http://legazy.icu:8880/live/patricia2025cas/gkst7NBDxRRe08vz/1988542.ts
 
 
 
