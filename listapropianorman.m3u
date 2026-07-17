@@ -1698,7 +1698,7 @@ http://45.5.119.43:4000/play/a0i3/index.m3u8
 http://45.171.64.30:8800/play/a052
 
 #EXTINF:-1 tvg-chno="601" tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes",Futv (2) ²
-http://190.92.10.66:4000/play/a00c
+http://190.61.90.17:40000/play/a03v/index.m3u8
 
 #EXTINF:-1 tvg-chno="602" tvg-logo="https://www.lateja.cr/resizer/v2/ENTJS2G3B5FX3OAVGK4Q4PYW34.jpg?smart=true&auth=4ad5e4d38ad2a41b755e33bacc4055a32f4d811ad07e0ea98305e5d10a22bfc4&width=1440&height=1438" group-title="Deportes",Fox CR 🇨🇷 (1) ²
 http://45.5.118.152:8000/play/a0ds/index.m3u8
