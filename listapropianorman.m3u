@@ -89,8 +89,8 @@ https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d33
 #EXTINF:-1 tvg-chno="13" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQQo1Sj2-3yQuPJkVgCuwNLlLgTApULYYhBIpozmZfa-UqnZlIV6VN_qJDnop6XCIMvig7syYnlN9DRKJ0dBWLJ60RT_glY3eGHtc_4L6-dyXqNL0CeUW9M_NH-Vx7TAyhcARz8jCjh-BtJyzNIXwId7JimU_42Brc3sBslfcXTA9GkyXpswWjcaM8PM6u/s280/XPERTV.jpg" group-title="Nacionales",Xpertv Canal 33 ² 🇨🇷
 http://45.163.139.42:8000/play/a02x/index.m3u8
 
-#EXTINF:-1 tvg-chno="14" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Trivisio%CC%81n-Canal-36-en-vivo-Online.png" group-title="Nacionales",Canal 36 Trivisión ² 🇨🇷
-http://38.224.22.252:8000/play/a08r/index.m3u8
+#EXTINF:-1 tvg-chno="14" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Trivisio%CC%81n-Canal-36-en-vivo-Online.png" group-title="Nacionales",Canal 36 Trivisión 🇨🇷
+http://velive.lat:8080/live/Nexp328737/29971731/83332.ts
 
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://image.roku.com/developer_channels/prod/15028c316a76bcd9408f730b04579257af5273595c5049db126ba4540b81a936.png" group-title="Nacionales",Canal 38 ¡Opa! ¹ 🇨🇷
 https://5fe2654d6127d.streamlock.net/genteopa/videogenteopa/chunklist_w1000136017.m3u8
@@ -194,7 +194,7 @@ http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 #EXTINF:-1 tvg-chno="46" tvg-logo="https://image.roku.com/developer_channels/prod/cb20a7cb94abfe34e8aec64a16664d6ea8330cec1c1bddcfe23f139e5b274d4f.png" group-title="Nacionales",Telebrunca CR ¹ 🇨🇷
 http://k4.usastreams.com/telebrunca/telebrunca/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="47" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0d6vD4coSsdc8wF8umj0rjvo5bZxQ9r3TeNsyNZ4qq4PlEzOusv9eVDvlWdVi80KF9ltur1f4LfJ2xVSl93yNpgZabFunN909DWUKUpV-wgPXTiqmaqNQPMP0xNYQTCdU8o-HDTpD0qmt_6gugfVq4Aj1xjNTZBfIoahPL5xT7xFuVF6K307G6CvVJrk/s400/14.png" group-title="Nacionales",Canal 10 CR 🇨🇷
+#EXTINF:-1 tvg-chno="47" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0d6vD4coSsdc8wF8umj0rjvo5bZxQ9r3TeNsyNZ4qq4PlEzOusv9eVDvlWdVi80KF9ltur1f4LfJ2xVSl93yNpgZabFunN909DWUKUpV-wgPXTiqmaqNQPMP0xNYQTCdU8o-HDTpD0qmt_6gugfVq4Aj1xjNTZBfIoahPL5xT7xFuVF6K307G6CvVJrk/s400/14.png" group-title="Nacionales",Canal 10 CR ¹ 🇨🇷
 https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-chno="48" tvg-logo="https://image.roku.com/developer_channels/prod/db4a766d6686e0ec2d17d0307c9a4c3bd0dc27a13f0647fb8561bfb0754300a2.png" group-title="Nacionales",TV Nosara ¹ 🇨🇷
@@ -221,7 +221,7 @@ https://stream.enlineatv.net/hls/megatvcr/index.m3u8
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr6QWfe5-SiHV3YOww4BaQn0DK5k9tc3j8Ftm5V3cnMkbjj2xRQ292sAFr1Fp618m8vbggU8OPBOrp8SZ1UQRCiY7lNRwquM1IlA42_PBAW1K5bzxBJpZd7PeukuLTQErG6ssx9sErR3gW19-JtDv_FZr7jgMurau5zIRGoCCmkamm2bwKyqDLebuEE9-h/s600/PUNTO%209%20TV%20PORTADA%203.png" group-title="Nacionales",Radio Punto 9 CR ¹ 🇨🇷
 https://acceso.mediosdecostarica.com:3569/live/punto9tvlive.m3u8
 
-#EXTINF:-1 tvg-chno="50" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcNnJ6lZrHUFcLeVS0H8AkrG3b_wprti0myCOEnU4NvqkGhuMFbDVFlSDaGVmPUSMUMiftf7hjNb1RRB7n5Tc7bHIlsK8TjbDYAbD4KURV3rVrXzA_BKuVBKKdE4w9OsWFQ0Dn31pAqcnRHeN7Kw6bB_TJvFdcPxmtax11ml5CLKmoXSMRBAgGsdcg9SAr/s600/PORTADA%20BEST%20CLASICOS%20TV.png" group-title="Nacionales",Best Clásicos TV 🇨🇷
+#EXTINF:-1 tvg-chno="50" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcNnJ6lZrHUFcLeVS0H8AkrG3b_wprti0myCOEnU4NvqkGhuMFbDVFlSDaGVmPUSMUMiftf7hjNb1RRB7n5Tc7bHIlsK8TjbDYAbD4KURV3rVrXzA_BKuVBKKdE4w9OsWFQ0Dn31pAqcnRHeN7Kw6bB_TJvFdcPxmtax11ml5CLKmoXSMRBAgGsdcg9SAr/s600/PORTADA%20BEST%20CLASICOS%20TV.png" group-title="Nacionales",Best Clásicos TV ¹ 🇨🇷
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://images.squarespace-cdn.com/content/v1/6011bffa317a1f7611f12428/1633029916787-F3MHJD8N95PE2K176HL0/kiss-cut-stickers-5.5x5.5-default-61560f185cc2a.png?format=1500w" group-title="Nacionales",Retro Tv On Line ¹ 🇨🇷
