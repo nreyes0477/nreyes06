@@ -315,8 +315,8 @@ http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/33121.ts
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e5061410-82b2-400d-8433-0604666b79c9-profile_banner-480.jpeg" group-title="Noticias",Meganoticias ¹ 🇨🇱
 https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://lascronologias.wordpress.com/wp-content/uploads/2020/11/tn-logo-artear-rating-ibope.jpg" group-title="Noticias",TN Noticias 🇦🇷
-http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/712718.ts
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://lascronologias.wordpress.com/wp-content/uploads/2020/11/tn-logo-artear-rating-ibope.jpg" group-title="Noticias",TN Noticias ² 🇦🇷
+http://190.7.19.197:232/play/a03l/index.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/588px-Canal_26_logo_%282022%29.svg.png" group-title="Noticias",Canal 26 ¹ 🇦🇷
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
@@ -330,8 +330,8 @@ http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/712705.ts
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="Noticias",A24 ¹ 🇦🇷
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://dossiernet.com/_next/image?url=https%3A%2F%2Fdmdqet87i5rod.cloudfront.net%2Festoesmedia%2F609bcd5342359_lnmas.jpg&w=1080&q=75" group-title="Noticias",La Nación + ¹ 🇦🇷
-http://playcom.trapemn.tv:1935/transcoderip/lanacionplus.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://dossiernet.com/_next/image?url=https%3A%2F%2Fdmdqet87i5rod.cloudfront.net%2Festoesmedia%2F609bcd5342359_lnmas.jpg&w=1080&q=75" group-title="Noticias",La Nación + 🇦🇷
+http://velive.lat:8080/live/Nexp328737/29971731/272048.ts
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/1.jpg" group-title="Noticias",CNAR Noticias 24 ¹ 🇦🇷
 https://stmv3.voxtvhd.com.br/eventoslive2/eventoslive2/playlist.m3u8
@@ -693,8 +693,8 @@ http://go.iptvhn.net:25461/live/7789/7789/13336.m3u8
 #EXTINF:-1 tvg-chno="110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="Infantiles",Tooncast
 http://go.iptvhn.net:25461/live/7789/7789/13308.m3u8
 
-#EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina",Telefe 🇦🇷
-http://velive.lat:8080/live/Nexp328737/29971731/272043.ts
+#EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina",Telefe ² 🇦🇷
+http://190.7.19.197:232/play/a059/index.m3u8
 
 #EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="Argentina",El Trece ² 🇦🇷
 http://45.188.229.33:8000/play/a1dk/index.m3u8?hls
@@ -2312,20 +2312,20 @@ https://bit.ly/3WChqoj?ESBC1700004PX.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://media.a24.com/p/6241bf1dc020e133bf8677878c5f1f40/adjuntos/296/imagenes/009/671/0009671653/533x300/smart/gran-hermano-generacion-dorada.jpg" group-title="Reality",Gran Hermano AR (Multi) 🇦🇷 ✔️
-http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=412404&extension=ts
+#EXTINF:-1 tvg-chno="800" tvg-logo="https://media.a24.com/p/6241bf1dc020e133bf8677878c5f1f40/adjuntos/296/imagenes/009/671/0009671653/533x300/smart/gran-hermano-generacion-dorada.jpg" group-title="Reality",Gran Hermano AR (Multi) 🇦🇷
+http://velive.lat:8080/live/Nexp328737/29971731/412399.ts
 
 #EXTINF:-1 tvg-chno="800" tvg-logo="https://media.a24.com/p/6241bf1dc020e133bf8677878c5f1f40/adjuntos/296/imagenes/009/671/0009671653/533x300/smart/gran-hermano-generacion-dorada.jpg" group-title="Reality",Gran Hermano AR (24/7) 🇦🇷
-http://domestipo1.online:80/live/Oscar2208chieu/GX9vqaWbZ7/749367.ts
+http://velive.lat:8080/live/Nexp328737/29971731/412404.ts
 
 #EXTINF:-1 tvg-chno="800" tvg-logo="https://media.a24.com/p/6241bf1dc020e133bf8677878c5f1f40/adjuntos/296/imagenes/009/671/0009671653/533x300/smart/gran-hermano-generacion-dorada.jpg" group-title="Reality",Gran Hermano AR (Cam1) 🇦🇷
-http://domestipo1.online:80/live/Oscar2208chieu/GX9vqaWbZ7/749368.ts
+http://velive.lat:8080/live/Nexp328737/29971731/412406.ts
 
 #EXTINF:-1 tvg-chno="800" tvg-logo="https://media.a24.com/p/6241bf1dc020e133bf8677878c5f1f40/adjuntos/296/imagenes/009/671/0009671653/533x300/smart/gran-hermano-generacion-dorada.jpg" group-title="Reality",Gran Hermano AR (Cam2) 🇦🇷
-http://domestipo1.online:80/live/Oscar2208chieu/GX9vqaWbZ7/749369.ts
+http://velive.lat:8080/live/Nexp328737/29971731/412405.ts
 
 #EXTINF:-1 tvg-chno="800" tvg-logo="https://media.a24.com/p/6241bf1dc020e133bf8677878c5f1f40/adjuntos/296/imagenes/009/671/0009671653/533x300/smart/gran-hermano-generacion-dorada.jpg" group-title="Reality",Gran Hermano AR (Cam3) 🇦🇷
-http://domestipo1.online:80/live/Oscar2208chieu/GX9vqaWbZ7/749370.ts
+http://velive.lat:8080/live/Nexp328737/29971731/412399.ts
 
 #EXTINF:-1 tvg-chno="900" tvg-logo="https://cdn.instant.audio/images/logos/radios-co-cr/radio-monumental.png" group-title="Radios",Radio Monumental 📻 (Solo Audio)
 https://alba-cr-monumental-monumental.stream.mediatiquestream.com/index.m3u8
