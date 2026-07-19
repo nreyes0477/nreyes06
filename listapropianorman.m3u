@@ -315,8 +315,8 @@ http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/33121.ts
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e5061410-82b2-400d-8433-0604666b79c9-profile_banner-480.jpeg" group-title="Noticias",Meganoticias ¹ 🇨🇱
 https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://lascronologias.wordpress.com/wp-content/uploads/2020/11/tn-logo-artear-rating-ibope.jpg" group-title="Noticias",TN Noticias ² 🇦🇷
-http://190.7.19.197:232/play/a03l/index.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://lascronologias.wordpress.com/wp-content/uploads/2020/11/tn-logo-artear-rating-ibope.jpg" group-title="Noticias",TN Noticias 🇦🇷
+http://velive.lat:8080/live/Nexp328737/29971731/446479.ts
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/588px-Canal_26_logo_%282022%29.svg.png" group-title="Noticias",Canal 26 ¹ 🇦🇷
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
@@ -693,8 +693,8 @@ http://go.iptvhn.net:25461/live/7789/7789/13336.m3u8
 #EXTINF:-1 tvg-chno="110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="Infantiles",Tooncast
 http://go.iptvhn.net:25461/live/7789/7789/13308.m3u8
 
-#EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina",Telefe ² 🇦🇷
-http://190.7.19.197:232/play/a059/index.m3u8
+#EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina",Telefe 🇦🇷
+http://velive.lat:8080/live/Nexp328737/29971731/446488.ts
 
 #EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="Argentina",El Trece ² 🇦🇷
 http://45.188.229.33:8000/play/a1dk/index.m3u8?hls
@@ -702,8 +702,8 @@ http://45.188.229.33:8000/play/a1dk/index.m3u8?hls
 #EXTINF:-1 tvg-chno="202" tvg-logo="https://media.losandes.com.ar/p/22dbc3876https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="Argentina",13 Max (Telefe) ¹ 🇦🇷
 https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="203" tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg" group-title="Argentina",El Nueve ¹ 🇦🇷
-http://107.152.39.199:8030/hls/canal7.m3u8
+#EXTINF:-1 tvg-chno="203" tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg" group-title="Argentina",El Nueve 🇦🇷
+http://velive.lat:8080/live/Nexp328737/29971731/446423.ts
 
 #EXTINF:-1 tvg-chno="204" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="Argentina",TV Pública ¹ 🇦🇷
 https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
