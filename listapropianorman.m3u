@@ -730,14 +730,14 @@ http://200.60.124.19:29000/play/a0id/index.m3u8
 #EXTINF:-1 tvg-chno="238" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/09/13-Cultura-en-vivo-Online-1536x864.png" group-title="Chile",Canal 13 Cultura ¹ 🇨🇱
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
-#EXTINF:-1 tvg-chno="239" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="Colombia",Caracol ¹ 🇨🇴 
-https://www.cancha.watch/v1/caracol-tv/master.m3u8
+#EXTINF:-1 tvg-chno="239" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="Colombia",Caracol ² 🇨🇴 
+http://190.61.43.123:8081/CARACOLHD/index.m3u8
 
 #EXTINF:-1 tvg-chno="240" tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="Colombia",RCN ² 🇨🇴
 http://181.78.8.199:8000/play/a0az/index.m3u8
 
 #EXTINF:-1 tvg-chno="240" tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="Colombia",RCN 2 ² 🇨🇴
-http://181.78.14.26:4000/play/a07m/index.m3u8
+http://190.61.43.123:8081/RCNHD/index.m3u8
 
 #EXTINF:-1 tvg-chno="242" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/250px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="Colombia",Canal 1 ² 🇨🇴
 http://181.78.8.199:8000/play/a0cz/index.m3u8
@@ -802,8 +802,8 @@ https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/smartphone/playli
 #EXTINF:-1 tvg-chno="259" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/TCS_2_2016.png/300px-TCS_2_2016.png"group-title="El Salvador",Canal 2 ¹ 🇸🇻
 https://teleon.tv/stream/cG5wODQ3ODEzM3BucDg0.m3u8
 
-#EXTINF:-1 tvg-chno="260" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/640px-Canal_4_TCS.png" group-title="El Salvador",Canal 4 ¹ 🇸🇻
-https://teleon.tv/stream/cG5wODQ3ODEyOXBucDg0.m3u8
+#EXTINF:-1 tvg-chno="260" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/640px-Canal_4_TCS.png" group-title="El Salvador",Canal 4 ² 🇸🇻
+http://103.111.40.244:9999/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-chno="261" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-6-El-Salvador-en-vivo-Online.png" group-title="El Salvador",Canal 6 ¹ 🇸🇻
 https://teleon.tv/stream/cG5wODQ3ODEzMXBucDg0.m3u8
@@ -955,8 +955,8 @@ http://virgencitachatuti.com:80/live/Oscar2208chieu/GX9vqaWbZ7/755503.ts
 #EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno -2hr 🇲🇽
 http://virgencitachatuti.com:80/live/Oscar2208chieu/GX9vqaWbZ7/755505.ts
 
-#EXTINF:-1 tvg-chno="312" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="México",Azteca 7 ¹ 🇲🇽
-https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
+#EXTINF:-1 tvg-chno="312" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="México",Azteca 7 ² 🇲🇽
+http://168.228.44.241:9998/play/a0cx/index.m3u8
 
 #EXTINF:-1 tvg-chno="312" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="México",Azteca 7 🇲🇽
 http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/450326.ts
@@ -1921,8 +1921,8 @@ http://domestipo1.online:80/live/ser682mun/5w49evr21/231773.m3u8
 #EXTINF:-1 tvg-chno="682" tvg-logo="https://www.cableplus.com.uy/assets/img/logos-canales/logo-vtv-plus.jpg" group-title="Deportes",VTV + ™ 🇺🇾
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7618
 
-#EXTINF:-1 tvg-chno="683" tvg-logo="https://i.postimg.cc/QMsDwbxR/winsport.jpg" group-title="Deportes",Win Sports ᵐ 🇨🇴
-http://m3u.tvcluboficial.com/m/m/1039.m3u8
+#EXTINF:-1 tvg-chno="683" tvg-logo="https://i.postimg.cc/QMsDwbxR/winsport.jpg" group-title="Deportes",Win Sports ² 🇨🇴
+http://181.78.8.199:8000/play/a0ic/index.m3u8
 
 #EXTINF:-1 tvg-chno="683" tvg-logo="https://i.postimg.cc/MZrWHVdQ/winsportplus.jpg" group-title="Deportes",Win Sports + ᵐ 🇨🇴
 http://m3u.tvcluboficial.com/m/m/1042.m3u8
