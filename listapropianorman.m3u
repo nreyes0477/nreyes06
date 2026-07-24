@@ -1,63 +1,7 @@
 #EXTM3U
 
-
-
-
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/68/89/5868893f-52c4-779b-d7fc-470aaaaef03c/Placeholder.mill/400x400bb-75.webp" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Telemundo ² 🇺🇸 
-http://45.181.87.106/TELEMUNDOHD/index.mpd
-
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://i.imgur.com/ctnvE3c.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Canal 7 Teletica ² 🇨🇷
-http://190.7.192.162:8007/play/s10
-
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_plus-mediano.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Fox + 🇨🇷
-http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/783830.ts
-
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.lateja.cr/resizer/v2/ENTJS2G3B5FX3OAVGK4Q4PYW34.jpg?smart=true&auth=4ad5e4d38ad2a41b755e33bacc4055a32f4d811ad07e0ea98305e5d10a22bfc4&width=1440&height=1438" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Fox CR ² 🇨🇷
-http://45.5.117.99:8000/play/a02v/index.m3u8
-
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://tigosports-content-gt.tigocloud.net/uploads/OTT_SI_6c956602aa.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Tigo Sports GT ² 🇬🇹
-http://45.5.118.152:8000/play/a08x/index.m3u8
-
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Azteca 7 ² 🇲🇽 
-http://168.228.44.241:9998/play/a0cx/index.m3u8
-
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• TUDN ² 🇲🇽
-http://45.228.233.222:8000/play/a04y
-
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png/1920px-Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png?_=20240204225137" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• TVE ¹ 🇪🇸
-https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
-
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Caracol ² 🇨🇴 
-http://190.61.43.123:8081/CARACOLHD/index.m3u8
-
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/500px-CanalRCN2023.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• RCN ² 🇨🇴 
-http://190.61.43.123:8081/RCNHD/index.m3u8
-
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://assets.radioagricultura.cl/2025/09/foto_0000000220240424143502_imagen_2023-01-06_161610132.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Chilevisión ² 🇨🇱
-http://45.181.122.46:8090/play/a01o
-
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://assets.discoup.com/public/dazn-1675160768.png?q=85&h=176&w=176&s=c1c50784286314f76f939a51b74e2951" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Dazn Mundial 🇪🇸
-http://voodvooxqha.top:8080/live/VIP015871759602003116/7d8327c3ece7/244.ts
-
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/500px-Win_Sports_nuevo_logo.svg.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Win Sports ² 🇨🇴
-http://181.78.8.199:8000/play/a0ic/index.m3u8
-
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/960px-Canal_4_TCS.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• Canal 4 ² 🇸🇻
-http://103.111.40.244:9999/play/a01g/index.m3u8
-
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://cotobrustv.com/wp-content/uploads/2024/06/fdfd.png" group-title="⚽ 🄼🅄🄽🄳🄸🄰🄻 ⚽",• CBTV ¹ 🇨🇷
-https://stream.lamegatv.com/hls/cotobrustelevision/index.m3u8
-
-
-
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title=" 🔆 UFC 🔆",UFC Fight Nigth (1)
 http://legazy.icu:8880/live/patricia2025cas/gkst7NBDxRRe08vz/2161163.ts
-
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title=" 🔆 UFC 🔆",UFC Fight Nigth (2)
-http://ecuatvip.com:80/live/DenisseIrias/Irias2024D/1188795.ts
-
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title=" 🔆 UFC 🔆",UFC Fight Nigth (3)
-http://legazy.icu:8880/live/patricia2025cas/gkst7NBDxRRe08vz/2159539.ts
 
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://canal1cr.com/wp-content/uploads/2023/02/logo-canal-1-png.png" group-title="Nacionales",Canal 1 CR ¹ 🇨🇷
@@ -952,7 +896,7 @@ http://190.61.101.65:2025/play/a0pa
 https://dmfxzlz63pfyh.cloudfront.net/10508/88886036/hls/master.m3u8?ads.xumo_channelId=88886036
 
 #EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo MI ² 🇺🇸 
-http://168.232.168.242:9999/play/a065
+http://45.181.87.106/TELEMUNDOHD/index.mpd
 
 #EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo East ² 🇺🇸 
 http://190.61.101.65:2025/play/a00l
