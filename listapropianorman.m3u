@@ -1628,7 +1628,7 @@ http://45.5.119.43:4000/play/a0i3/index.m3u8
 http://45.171.64.30:8800/play/a052
 
 #EXTINF:-1 tvg-chno="601" tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes",Futv (2) ²
-http://45.182.22.53:8000/play/a0ci/index.m3u8
+http://45.186.106.207:8000/play/a06x/index.m3u8
 
 #EXTINF:-1 tvg-chno="602" tvg-logo="https://www.lateja.cr/resizer/v2/ENTJS2G3B5FX3OAVGK4Q4PYW34.jpg?smart=true&auth=4ad5e4d38ad2a41b755e33bacc4055a32f4d811ad07e0ea98305e5d10a22bfc4&width=1440&height=1438" group-title="Deportes",Fox CR 🇨🇷 (1) ²
 http://45.5.118.152:8000/play/a0ds/index.m3u8
@@ -1643,13 +1643,13 @@ http://190.61.114.186:8000/play/a04d/index.m3u8
 http://168.232.168.242:9999/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-chno="604" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png" group-title="Deportes",TD+ (1) ²
-http://38.224.22.252:8000/play/a00m/index.m3u8
+http://45.186.106.207:8000/play/a06r/index.m3u8
 
 #EXTINF:-1 tvg-chno="604" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png" group-title="Deportes",TD+ (2) ²
 http://45.171.64.30:8800/play/a00p
 
 #EXTINF:-1 tvg-chno="605" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-3.png" group-title="Deportes",TD+ 2 (1) ²
-http://38.224.22.252:8000/play/a00n/index.m3u8
+http://45.186.106.207:8000/play/a06s/index.m3u8
 
 #EXTINF:-1 tvg-chno="605" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-3.png" group-title="Deportes",TD+ 2 (2) ²
 http://45.171.64.30:8800/play/a00q
@@ -1729,8 +1729,8 @@ http://virgencitachatuti.com:80/live/Oscar2208chieu/GX9vqaWbZ7/585048.ts
 #EXTINF:-1 tvg-chno="612" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1536x329.png" group-title="Deportes",Sky Sports La Liga (2) ² 🇲🇽
 http://190.92.10.66:4000/play/a001/index.m3u8
 
-#EXTINF:-1 tvg-chno="613" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png" group-title="Deportes",Claro Sports México ¹ 🇲🇽
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6320d80a66666000086712d7/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEzMDU0Y2Y3LTQyY2ItNDI0OC04MjQ5LTJhMWIxNTA0NWUxNCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJhODZiZjQwZi03OGE4LTExZjEtOGMyZC0xYTE0YThlOTk1YzYiLCJjbGllbnRJUCI6IjE4MS4yMDQuNC43NCIsImNpdHkiOiJDYXJ0YWdlbmEiLCJwb3N0YWxDb2RlIjoiMTMwMDAxIiwiY291bnRyeSI6IkNPIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6MTAuMzk5OTk5NjE4NTMwMjczLCJkZXZpY2VMb24iOi03NS41LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiI0NDY2NjZlZC02MmFjLTRkMTMtYWI2ZS1iZGNkZTE1YzMyZmQiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Cb2dvdGEiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiI0NDY2NjZlZC02MmFjLTRkMTMtYWI2ZS1iZGNkZTE1YzMyZmQiLCJmd1ZjSUQyQ29wcGEiOiI0NDY2NjZlZC02MmFjLTRkMTMtYWI2ZS1iZGNkZTE1YzMyZmQiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjQ0NjY2NmVkLTYyYWMtNGQxMy1hYjZlLWJkY2RlMTVjMzJmZCIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMTQsMTAwMTYsMTAwMTUsMTAwMjAsMTAwMjEsMTAwMDAsMTAwMDksMTAwMTMifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODMyODAxMjAwNjgsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpORFEyTmpZMlpXUXROakpoWXkwMFpERXpMV0ZpTm1VdFltUmpaR1V4TldNek1tWmsiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzMzY2NTIwLCJpYXQiOjE3ODMyODAxMjAsImp0aSI6IjY3MTA0NWRlLTg2ZjMtNDQ0Yy04YjFlLWFjNGUwNjY4NWMwNyJ9.tyO9mXjIlvbCTDtn-Yi7BPdaB6o1C4pPIxE4-3wQUiI&masterJWTPassthrough=true
+#EXTINF:-1 tvg-chno="613" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png" group-title="Deportes",Claro Sports México ² 🇲🇽
+http://45.186.106.207:8000/play/a07i/index.m3u8
 
 #EXTINF:-1 tvg-chno="613" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png" group-title="Deportes",Claro Sports 2 México ² 🇲🇽
 http://200.35.176.154:8000/play/a00i/index.m3u8
