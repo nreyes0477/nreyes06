@@ -1706,16 +1706,16 @@ http://38.194.226.190:8000/play/a002/index.m3u8
 http://45.5.118.152:8000/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-chno="609" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-04.jpg" group-title="Deportes",Fox Sports México ² 🇲🇽
-http://38.194.226.190:8000/play/a00h/index.m3u8
+http://190.61.101.11:7050/play/a08t/index.m3u8
 
 #EXTINF:-1 tvg-chno="609" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-05.jpg" group-title="Deportes",Fox Sports 2 México ² 🇲🇽
-http://190.61.101.65:2025/play/a00r
+http://190.61.101.11:7050/play/a08v/index.m3u8
 
 #EXTINF:-1 tvg-chno="609" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-06.jpg" group-title="Deportes",Fox Sports 3 México ² 🇲🇽
-http://38.194.226.190:8000/play/a02m/index.m3u8
+http://45.167.2.138:8000/play/a0qn/index.m3u8
 
 #EXTINF:-1 tvg-chno="609" tvg-logo="https://img.asmedia.epimg.net/resizer/v2/HDFAZLSP7FH7XJK2XFRO56O22U.jpeg?auth=5d7e53f23444b4e49deaaadc032a5470401ba4ca10214e4cac7006b8d1f5f9e1&width=1200&height=675&smart=true" group-title="Deportes",Fox Sports Premium México ² 🇲🇽
-http://38.194.226.190:8000/play/a003/index.m3u8
+http://190.61.101.11:7050/play/a08u/index.m3u8
 
 #EXTINF:-1 tvg-chno="610" tvg-logo="https://www.westminsterkennelclub.org/wp-content/uploads/2024/02/Asset-1-1.png" group-title="Deportes",Fox Tubi (México) ¹ 🇲🇽
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
