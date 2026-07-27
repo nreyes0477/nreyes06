@@ -986,7 +986,7 @@ http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/450938.ts
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-chno="314" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="México",Las Estrellas MX ² 🇲🇽
-http://200.35.176.154:8000/play/a03j/index.m3u8
+http://181.119.108.43:9001/play/a042/index.m3u8
 
 #EXTINF:-1 tvg-chno="314" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"bgroup-title="México",Las Estrellas Latino -2hr 🇲🇽
 http://virgencitachatuti.com:80/live/Oscar2208chieu/GX9vqaWbZ7/755535.ts
@@ -1015,7 +1015,7 @@ http://168.232.168.242:9999/play/a01s/index.m3u8
 #EXTINF:-1 tvg-chno="321" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2017/02/CineMexicano_Logo.png" group-title="México",Cine Mexicano 🇲🇽
 http://virgencitachatuti.com:80/live/Oscar2208chieu/GX9vqaWbZ7/205870.ts
 
-#EXTINF:-1 tvg-chno="322" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="México",Las Estrellas (Internacional) ² 🇲🇽
+#EXTINF:-1 tvg-chno="322" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="México",Las Estrellas (Centro América) ² 🇲🇽
 http://177.234.249.135:8888/LasEstrellas/index.m3u8
 
 #EXTINF:-1 tvg-chno="323" tvg-logo="https://digitalcontent.prensariozone.com/wp-content/uploads/2021/10/Azteca_logo_trans_516x287.png" group-title="México",Azteca Internacional ¹ 🇲🇽
