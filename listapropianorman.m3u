@@ -1711,11 +1711,14 @@ http://38.194.226.190:8000/play/a02m/index.m3u8
 #EXTINF:-1 tvg-chno="609" tvg-logo="https://img.asmedia.epimg.net/resizer/v2/HDFAZLSP7FH7XJK2XFRO56O22U.jpeg?auth=5d7e53f23444b4e49deaaadc032a5470401ba4ca10214e4cac7006b8d1f5f9e1&width=1200&height=675&smart=true" group-title="Deportes",Fox Sports Premium México ² 🇲🇽
 http://38.194.226.190:8000/play/a003/index.m3u8
 
+#EXTINF:-1 tvg-chno="610" tvg-logo="https://www.westminsterkennelclub.org/wp-content/uploads/2024/02/Asset-1-1.png" group-title="Deportes",Fox Tubi (México) ¹ 🇲🇽
+https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="610" tvg-logo="https://www.westminsterkennelclub.org/wp-content/uploads/2024/02/Asset-1-1.png" group-title="Deportes",Fox Tubi (México) ² 🇲🇽
 http://45.5.118.152:8000/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-chno="610" tvg-logo="https://lasociedaddelcontenido.com/wp-content/uploads/2025/08/Imagen-2025-08-06T234253.981-1536x864.jpg" group-title="Deportes",Fox One (México) ² 🇲🇽
-http://38.194.226.190:8000/play/a00o/index.m3u8
+http://190.61.114.186:8000/play/a04d/index.m3u8
 
 #EXTINF:-1 tvg-chno="610" tvg-logo="https://lasociedaddelcontenido.com/wp-content/uploads/2025/08/Imagen-2025-08-06T234253.981-1536x864.jpg" group-title="Deportes",Fox One (México) 🇲🇽
 http://virgencitachatuti.com:80/live/Oscar2208chieu/GX9vqaWbZ7/755482.ts
@@ -1757,7 +1760,7 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88884639/hls/master.m3u8?declaredCC1
 http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/595818.ts
 
 #EXTINF:-1 tvg-chno="617" tvg-logo="https://www.foxdeportes.com/assets/images/logo_2.png" group-title="Deportes",Fox Deportes 🇺🇲
-https://csm-e-cetubilusordlive-97882401.csm.tubi.video/csm/live/750557920.m3u8?playback_start_ts=1785138104&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&ss.exp=20260730074144&ss.sig=31df620c91b25dcde87ae3acc28b662142e3a412&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
+http://latintvplus.com:8000/live/MyBOXXTV2024/SILVERsat173929HH/131286.ts
 
 #EXTINF:-1 tvg-chno="618" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="Deportes",TUDN USA 🇺🇸
 http://m3u.tvcluboficial.com/m/m/957.m3u8
