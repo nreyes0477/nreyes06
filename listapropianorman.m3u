@@ -1654,8 +1654,8 @@ http://45.5.117.99:8000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-chno="603" tvg-logo="https://tavilatam.com/wp-content/uploads/2026/04/TAVI_Fox_Tigo-Sports.png" group-title="Deportes",Fox SV ² 🇸🇻
 http://190.61.114.186:8000/play/a04d/index.m3u8
 
-#EXTINF:-1 tvg-chno="603" tvg-logo="https://img.streann.com/streann-img/admin/image/1745938841516.png?height=50" group-title="Deportes",Ok Gol ² 🇭🇳
-http://168.232.168.242:9999/play/a00g/index.m3u8
+#EXTINF:-1 tvg-chno="603" tvg-logo="https://tavilatam.com/wp-content/uploads/2026/04/TAVI_Fox_Tigo-Sports.png" group-title="Deportes",Fox GT ² 🇬🇹
+http://45.5.118.152:8000/play/a0dg/index.m3u8
 
 #EXTINF:-1 tvg-chno="604" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png" group-title="Deportes",TD+ (1) ²
 http://45.186.106.207:8000/play/a06r/index.m3u8
@@ -1738,11 +1738,8 @@ http://virgencitachatuti.com:80/live/Oscar2208chieu/GX9vqaWbZ7/772278.ts
 #EXTINF:-1 tvg-chno="612" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1536x329.png" group-title="Deportes",Sky Sports Bundesliga ² 🇲🇽
 http://190.92.10.66:4000/play/a006/index.m3u8
 
-#EXTINF:-1 tvg-chno="612" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1536x329.png" group-title="Deportes",Sky Sports La Liga (1) 🇲🇽
-http://virgencitachatuti.com:80/live/Oscar2208chieu/GX9vqaWbZ7/585048.ts
-
-#EXTINF:-1 tvg-chno="612" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1536x329.png" group-title="Deportes",Sky Sports La Liga (2) ² 🇲🇽
-http://190.92.10.66:4000/play/a001/index.m3u8
+#EXTINF:-1 tvg-chno="612" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1536x329.png" group-title="Deportes",Sky Sports La Liga ² 🇲🇽
+http://45.5.118.152:8000/play/a08f/index.m3u8
 
 #EXTINF:-1 tvg-chno="613" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png" group-title="Deportes",Claro Sports México ² 🇲🇽
 http://45.186.106.207:8000/play/a07i/index.m3u8
@@ -1759,14 +1756,14 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88884639/hls/master.m3u8?declaredCC1
 #EXTINF:-1 tvg-chno="617" tvg-logo="https://newswhip.sirv.com/WP_www.newswhip.com/2018/02/Espndeportes.png" group-title="Deportes",ESPN Deportes 🇺🇲
 http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/595818.ts
 
+#EXTINF:-1 tvg-chno="617" tvg-logo="https://www.foxdeportes.com/assets/images/logo_2.png" group-title="Deportes",Fox Deportes 🇺🇲
+https://csm-e-cetubilusordlive-97882401.csm.tubi.video/csm/live/750557920.m3u8?playback_start_ts=1785138104&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&ss.exp=20260730074144&ss.sig=31df620c91b25dcde87ae3acc28b662142e3a412&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
+
 #EXTINF:-1 tvg-chno="618" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="Deportes",TUDN USA 🇺🇸
 http://m3u.tvcluboficial.com/m/m/957.m3u8
 
 #EXTINF:-1 tvg-chno="618" tvg-logo="https://iili.io/J2wureR.png" group-title="Deportes",Zona TUDN USA 🇺🇸
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7763
-
-#EXTINF:-1 tvg-chno="619" tvg-logo="https://www.foxdeportes.com/assets/images/logo_2.png" group-title="Deportes",Fox Deportes 🇺🇲
-http://m3u.tvcluboficial.com/m/m/1114.m3u8
 
 #EXTINF:-1 tvg-chno="630" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Argentina ² 🇦🇷
 http://45.188.229.33:8000/play/a1az/index.m3u8
