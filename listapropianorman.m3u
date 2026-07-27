@@ -1693,14 +1693,14 @@ http://45.5.117.99:8000/play/a065/index.m3u8
 #EXTINF:-1 tvg-chno="607" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png" group-title="Deportes",ESPN 6 Centro América ²
 http://45.5.117.99:8000/play/a063/index.m3u8
 
-#EXTINF:-1 tvg-chno="608" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN México 🇲🇽
-http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/591978.ts
+#EXTINF:-1 tvg-chno="608" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN México ² 🇲🇽
+http://209.87.175.160:5001/play/a0m7/index.m3u8
 
-#EXTINF:-1 tvg-chno="608" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 México 🇲🇽
-http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/591984.ts
+#EXTINF:-1 tvg-chno="608" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2 México ² 🇲🇽
+http://209.87.175.160:5001/play/a0m8/index.m3u8
 
-#EXTINF:-1 tvg-chno="608" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN 3 México 🇲🇽
-http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/591988.ts
+#EXTINF:-1 tvg-chno="608" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN 3 México ² 🇲🇽
+http://209.87.175.160:5001/play/a0c3/index.m3u8
 
 #EXTINF:-1 tvg-chno="608" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deportes",ESPN 4 México ² 🇲🇽
 http://45.5.118.152:8000/play/a004/index.m3u8
