@@ -1657,6 +1657,12 @@ http://190.61.114.186:8000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-chno="603" tvg-logo="https://tavilatam.com/wp-content/uploads/2026/04/TAVI_Fox_Tigo-Sports.png" group-title="Deportes",Fox GT ² 🇬🇹
 http://45.5.118.152:8000/play/a0dg/index.m3u8
 
+#EXTINF:-1 tvg-chno="603" tvg-logo="https://tavilatam.com/wp-content/uploads/2026/04/TAVI_Fox_Tigo-Sports.png" group-title="Deportes",Fox HD ² 🇭🇳
+http://181.119.108.43:9001/play/a0nh/index.m3u8
+
+#EXTINF:-1 tvg-chno="603" tvg-logo="https://tavilatam.com/wp-content/uploads/2026/04/TAVI_Fox_Tigo-Sports.png" group-title="Deportes",Fox NI ² 🇳🇮
+http://181.119.108.43:9001/play/a0q9/index.m3u8
+
 #EXTINF:-1 tvg-chno="604" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png" group-title="Deportes",TD+ (1) ²
 http://45.186.106.207:8000/play/a06r/index.m3u8
 
@@ -1722,6 +1728,9 @@ http://190.61.114.186:8000/play/a04d/index.m3u8
 
 #EXTINF:-1 tvg-chno="610" tvg-logo="https://lasociedaddelcontenido.com/wp-content/uploads/2025/08/Imagen-2025-08-06T234253.981-1536x864.jpg" group-title="Deportes",Fox One (México) 🇲🇽
 http://virgencitachatuti.com:80/live/Oscar2208chieu/GX9vqaWbZ7/755482.ts
+
+#EXTINF:-1 tvg-chno="610" tvg-logo="https://lasociedaddelcontenido.com/wp-content/uploads/2025/08/Imagen-2025-08-06T234253.981-1536x864.jpg" group-title="Deportes",Fox One (México) ² 🇲🇽
+http://181.119.108.43:9001/play/a075/index.m3u8
 
 #EXTINF:-1 tvg-chno="610" tvg-logo="https://lasociedaddelcontenido.com/wp-content/uploads/2025/08/Imagen-2025-08-06T234253.981-1536x864.jpg" group-title="Deportes",Fox One 1 (México) 🇲🇽
 http://virgencitachatuti.com:80/live/Oscar2208chieu/GX9vqaWbZ7/730391.ts
