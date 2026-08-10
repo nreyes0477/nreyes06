@@ -782,22 +782,25 @@ http://200.60.124.19:29000/play/a0id/index.m3u8
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
 #EXTINF:-1 tvg-chno="239" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="Colombia",Caracol ² 🇨🇴 
-http://190.61.43.123:8081/CARACOLHD/index.m3u8
+http://204.199.242.203:58000/play/a05c/index.m3u8
 
 #EXTINF:-1 tvg-chno="240" tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="Colombia",RCN ² 🇨🇴
 http://181.78.8.199:8000/play/a0az/index.m3u8
 
-#EXTINF:-1 tvg-chno="240" tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="Colombia",RCN 2 ² 🇨🇴
-http://190.61.43.123:8081/RCNHD/index.m3u8
-
 #EXTINF:-1 tvg-chno="242" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/250px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="Colombia",Canal 1 ² 🇨🇴
 http://181.78.8.199:8000/play/a0cz/index.m3u8
 
-#EXTINF:-1 tvg-chno="243" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Logo_Citytv_2023.jpg" group-title="Colombia",City TV ² 🇨🇴
-http://181.78.8.199:8000/play/a0ek/index.m3u8
+#EXTINF:-1 tvg-chno="243" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Logo_Citytv_2023.jpg" group-title="Colombia",City TV ¹ 🇨🇴
+http://138.121.15.230:9002/CITY-TV/index.m3u8
 
 #EXTINF:-1 tvg-chno="244" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/500px-Se%C3%B1al_Colombia_logo.svg.png" group-title="Colombia",Señal Colombia ¹ 🇨🇴
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="244" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Red-M%C3%A1s-TV-Colombia-en-vivo-Online.png" group-title="Colombia",Red + ¹ 🇨🇴
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+
+#EXTINF:-1 tvg-chno="244" tvg-logo="https://static.mytuner.mobi/media/radios-150px/664/fantastica-bogota-1044-fm.953b1280.png" group-title="Colombia",Alerta Bogotá ¹ 🇨🇴
+https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8
 
 #EXTINF:-1 tvg-chno="246" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Caracol_HD_Internacional.png/250px-Caracol_HD_Internacional.png" group-title="Colombia",Caracol Internacional 🇨🇴
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=3573&extension=ts
