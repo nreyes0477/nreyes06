@@ -679,8 +679,12 @@ http://go.iptvhn.net:25461/live/7789/7789/13336.m3u8
 #EXTINF:-1 tvg-chno="110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="Infantiles",Tooncast
 http://go.iptvhn.net:25461/live/7789/7789/13308.m3u8
 
-#EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina",Telefe 🇦🇷
-http://virgencitachatuti.com:80/live/Oscar2208chieu/GX9vqaWbZ7/712715.ts
+#EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina",Telefe ² 🇦🇷
+http://200.91.32.158:8080/telefehdvalle/index.m3u8
+
+#EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina",Telefe ² 🇦🇷
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+
 
 #EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="Argentina",El Trece ² 🇦🇷
 http://45.188.229.33:8000/play/a1dk/index.m3u8?hls
@@ -721,8 +725,8 @@ http://181.209.125.236:10000/play/a07n/index.m3u8
 #EXTINF:-1 tvg-chno="208" tvg-logo="https://television.com.ar/wp-content/uploads/legacy/2016/ARGENTINISIMA-.jpg" group-title="Argentina",Argentinisima Satélital ¹ 🇦🇷
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
-#EXTINF:-1 tvg-chno="210" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png" group-title="Argentina",Telefe Internacional ¹ 🇦🇷
-http://m3u.tvcluboficial.com/m/m/1166.m3u8
+#EXTINF:-1 tvg-chno="210" tvg-logo="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png" group-title="Argentina",Telefe Internacional ² 🇦🇷
+http://190.108.83.69:8000/play/a08l/index.m3u8
 
 #EXTINF:-1 tvg-chno="211" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png" group-title="Argentina",El Trece Internacional ² 🇦🇷
 http://45.188.229.33:8000/play/a0x2/index.m3u8?hls
