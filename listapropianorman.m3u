@@ -1313,7 +1313,7 @@ http://186.148.184.22:8000/play/a0lq/index.m3u8
 #EXTINF:-1 tvg-chno="423" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png" group-title="Cultura y Entretenimiento"group-title="Cultura y Entretenimiento",Discovery World ²
 http://181.119.177.253:8000/play/a0cs/index.m3u8
 
-#EXTINF:-1 tvg-chno="423" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/DSFAM.png" group-title="Cultura y Entretenimiento",Discovery Family 
+#EXTINF:-1 tvg-chno="423" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/DSFAM.png" group-title="Cultura y Entretenimiento",Discovery Family ²
 http://200.115.120.1:8000/play/ca053/index.m3u8?hls
 
 #EXTINF:-1 tvg-chno="423" tvg-logo="https://www.pngfind.com/pngs/m/74-742126_discovery-turbo-logo-discovery-turbo-hd-png-download.png" group-title="Cultura y Entretenimiento",Discovery Turbo ²
