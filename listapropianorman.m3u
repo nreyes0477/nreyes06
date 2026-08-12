@@ -1323,7 +1323,7 @@ http://186.148.175.138:8000/play/a05l
 http://200.59.191.177:8000/play/a0qk/index.m3u8?hls
 
 #EXTINF:-1 tvg-chno="425" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png" group-title="Cultura y Entretenimiento",HGTV Latino ²
-http://177.10.184.193:8000/play/a02l/index.m3u8
+http://181.78.8.199:8000/play/a0je/index.m3u8
 
 #EXTINF:-1 tvg-chno="427" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png" group-title="Cultura y Entretenimiento",Comedy Central ²
 http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
