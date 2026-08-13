@@ -1656,13 +1656,13 @@ http://45.188.229.33:8000/play/a13n/index.m3u8
 http://45.188.229.33:8000/play/a0x6/index.m3u8
 
 #EXTINF:-1 tvg-chno="598" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="Cine y Películas",Universal Channel ²
-http://190.60.49.242:4000/play/a0jh
+http://15.204.246.24:8080/UniversalHD/index.m3u8
 
 #EXTINF:-1 tvg-chno="598" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="Cine y Películas",Universal Channel Diferido ²
 http://181.78.23.26:45000/play/a007
 
-#EXTINF:-1 tvg-chno="599" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644505043521-Imagen.jpg" group-title="Cine y Películas",Universal Cinema 
-http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/90078.ts
+#EXTINF:-1 tvg-chno="599" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644505043521-Imagen.jpg" group-title="Cine y Películas",Universal Cinema ²
+http://181.78.50.91:8000/play/a05y/index.m3u8
 
 #EXTINF:-1 tvg-chno="599" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504904675-Imagen.jpg" group-title="Cine y Películas",Universal Comedy 
 http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/90081.ts
