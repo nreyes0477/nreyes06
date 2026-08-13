@@ -1467,13 +1467,13 @@ http://45.173.201.51:4000/play/a01b/index.m3u8
 http://181.78.8.199:8000/play/a0c8/index.m3u8
 
 #EXTINF:-1 tvg-chno="533" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png" group-title="Cine y Películas",Cine Familiar ²
-http://181.78.23.26:45000/play/a03u
+http://181.78.12.119:16123/play/ch52/index.m3u8
 
 #EXTINF:-1 tvg-chno="533" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinehispano.png" group-title="Cine y Películas",Cine Hispano ²
-http://181.78.23.26:45000/play/a03v
+http://181.78.12.119:16123/play/ch51/index.m3u8
 
 #EXTINF:-1 tvg-chno="533" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png"bgroup-title="Cine y Películas",Cine Premium ²
-http://181.78.23.26:45000/play/a03x
+http://181.78.12.119:16123/play/ch49/index.m3u8
 
 #EXTINF:-1 tvg-chno="533" tvg-logo="https://contenidostv.b-cdn.net/images/clover512.jpg" group-title="Cine y Películas",Clover Channel ²
 http://45.173.201.51:4000/play/a0pc/index.m3u8
