@@ -1280,19 +1280,19 @@ http://141.136.61.2:8000/play/a0c1/index.m3u8
 #EXTINF:-1 tvg-chno="411" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png" group-title="Cultura y Entretenimiento",NatGeo ²
 http://181.78.12.119:16123/play/ch30/index.m3u8
 
-#EXTINF:-1 tvg-chno="412" tvg-logo="https://sc.dish.com/shared/images/station-logos/NGMDO.png" group-title="Cultura y Entretenimiento",NatGeo Mundo ² 
-http://200.58.64.244:9000/play/a00u/index.m3u8
+#EXTINF:-1 tvg-chno="412" tvg-logo="https://sc.dish.com/shared/images/station-logos/NGMDO.png" group-title="Cultura y Entretenimiento",NatGeo Mundo 
+http://weibplus.is:80/live/ArguedasJuan34/VCp8GFFeJ5/79489.ts
 
 #EXTINF:-1 tvg-chno="414" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/500px-National_Geographic_Wild_logo.svg.png" group-title="Cultura y Entretenimiento",NatGeo Wild
 http://legazy.icu:8880/patricia2025cas/gkst7NBDxRRe08vz/1269
 
-#EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png" group-title="Cultura y Entretenimiento",Animal Planet ²
-http://181.78.50.91:8000/play/a01v/index.m3u8
+#EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png" group-title="Cultura y Entretenimiento",Animal Planet
+http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/2800.ts
 
 #EXTINF:-1 tvg-chno="418" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png" group-title="Cultura y Entretenimiento",Home & Health ²
 http://181.78.8.199:8000/play/a071/index.m3u8
 
-#EXTINF:-1 tvg-chno="420" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/370px-TLC_Logo.svg.png" group-title="Cultura y Entretenimiento",TLC 
+#EXTINF:-1 tvg-chno="420" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/370px-TLC_Logo.svg.png" group-title="Cultura y Entretenimiento",TLC ²
 http://45.70.201.81:8000/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-chno="421" tvg-logo="https://mma.prnewswire.com/media/183866/discovery_en_espanol_logo.jpg?w=200" group-title="Cultura y Entretenimiento",Tu Discovery (US) ¹
@@ -1322,11 +1322,11 @@ http://181.78.8.199:8000/play/a0hv/index.m3u8
 #EXTINF:-1 tvg-chno="425" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/400px-HGTV_US_Logo_2015.svg.png" group-title="Cultura y Entretenimiento",HGTV Latino ²
 http://181.78.8.199:8000/play/a0je/index.m3u8
 
-#EXTINF:-1 tvg-chno="427" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png" group-title="Cultura y Entretenimiento",Comedy Central ²
-http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
+#EXTINF:-1 tvg-chno="427" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png" group-title="Cultura y Entretenimiento",Comedy Central 
+http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/2805.ts
 
-#EXTINF:-1 tvg-chno="431" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiU87VgwvgsVvkxsZ4Lhx-AbQplLVwmdwxh2MHwjv6-cfkKLfKdxanACuFwoZiE47JeJ3Y58FK9dj69nOTMsPOLf1BiBPx7g3TwMVy24NrF0Xpff9lT_xYE5cMlgbwF_jIaG1Lh40Lw4tuamw4q_RhSVypYoVRKkWcRaOEKjnS9MkpKAI_72Qkgw-hDziH/w640-h360-rw/adultswimtvlaint.jpg" group-title="Cultura y Entretenimiento",Adult Swim ²
-http://200.35.176.154:8000/play/a04n/index.m3u8
+#EXTINF:-1 tvg-chno="431" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiU87VgwvgsVvkxsZ4Lhx-AbQplLVwmdwxh2MHwjv6-cfkKLfKdxanACuFwoZiE47JeJ3Y58FK9dj69nOTMsPOLf1BiBPx7g3TwMVy24NrF0Xpff9lT_xYE5cMlgbwF_jIaG1Lh40Lw4tuamw4q_RhSVypYoVRKkWcRaOEKjnS9MkpKAI_72Qkgw-hDziH/w640-h360-rw/adultswimtvlaint.jpg" group-title="Cultura y Entretenimiento",Adult Swim ¹
+https://streamer.metronethn.com/AdultSwim/index.m3u8
 
 #EXTINF:-1 tvg-chno="432" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/350px-DistritoComediaLOGO2018.png" group-title="Cultura y Entretenimiento",Distrito Comedia ²
 http://190.11.225.124:5000/live/distrito_comedia_hd/playlist.m3u8
