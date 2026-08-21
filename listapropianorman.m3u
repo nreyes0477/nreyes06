@@ -1276,10 +1276,10 @@ http://45.5.117.99:8000/play/a0gr/index.m3u8
 http://45.181.122.46:8090/play/a020
 
 #EXTINF:-1 tvg-chno="409" tvg-logo="https://cdn.mitvstatic.com/channels/cl_history_m.png" group-title="Cultura y Entretenimiento",History Channel ²
-http://141.136.61.2:8000/play/a0c4/index.m3u8
+http://190.61.90.17:40000/play/a0gk/index.m3u8
 
-#EXTINF:-1 tvg-chno="410" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Cultura y Entretenimiento",History Channel 2 ²
-http://141.136.61.2:8000/play/a0c1/index.m3u8
+#EXTINF:-1 tvg-chno="410" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Cultura y Entretenimiento",History Channel 2 
+http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/135792.ts
 
 #EXTINF:-1 tvg-chno="411" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png" group-title="Cultura y Entretenimiento",NatGeo ²
 http://181.78.12.119:16123/play/ch30/index.m3u8
@@ -1288,7 +1288,7 @@ http://181.78.12.119:16123/play/ch30/index.m3u8
 http://weibplus.is:80/live/ArguedasJuan34/VCp8GFFeJ5/79489.ts
 
 #EXTINF:-1 tvg-chno="414" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/500px-National_Geographic_Wild_logo.svg.png" group-title="Cultura y Entretenimiento",NatGeo Wild
-http://legazy.icu:8880/patricia2025cas/gkst7NBDxRRe08vz/1269
+http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/2012.ts
 
 #EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png" group-title="Cultura y Entretenimiento",Animal Planet
 http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/2800.ts
@@ -1312,7 +1312,7 @@ http://205.235.6.29:8000/play/a0yq/index.m3u8?hls
 http://186.148.184.22:8000/play/a0lq/index.m3u8
 
 #EXTINF:-1 tvg-chno="423" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png" group-title="Cultura y Entretenimiento"group-title="Cultura y Entretenimiento",Discovery World ²
-http://181.119.177.253:8000/play/a0cs/index.m3u8
+http://190.61.90.17:40000/play/a0kp/index.m3u8
 
 #EXTINF:-1 tvg-chno="423" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/DSFAM.png" group-title="Cultura y Entretenimiento",Discovery Family ²
 http://200.115.120.1:8000/play/ca053/index.m3u8?hls
@@ -1338,8 +1338,8 @@ http://190.11.225.124:5000/live/distrito_comedia_hd/playlist.m3u8
 #EXTINF:-1 tvg-chno="433" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sun_channel-mediano.png" group-title="Cultura y Entretenimiento",Sun Channel ²
 http://177.93.46.245:50000/play/a014/index.m3u8
 
-#EXTINF:-1 tvg-chno="434" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-gourmet_m.png" group-title="Cultura y Entretenimiento",El Gourmet ²
-http://141.136.61.2:8000/play/a0cj/index.m3u8
+#EXTINF:-1 tvg-chno="434" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-gourmet_m.png" group-title="Cultura y Entretenimiento",El Gourmet 
+http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/135878.ts
 
 #EXTINF:-1 tvg-chno="436" tvg-logo="https://www.dafont.com/forum/attach/orig/1/2/1219779.png" group-title="Cultura y Entretenimiento",Canal Claro ²
 http://45.5.117.99:8000/play/a066/index.m3u8
