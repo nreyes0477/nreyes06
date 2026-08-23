@@ -1911,8 +1911,8 @@ http://m3u.tvcluboficial.com/m/m/439.m3u8
 #EXTINF:-1 tvg-chno="641" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%203%20128.png" group-title="Deportes",Fox Sports 3 🇦🇷 
 http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/189.ts
 
-#EXTINF:-1 tvg-chno="641" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Argentina ¹ 🇦🇷 
-https://futbol9865.ultratv13.workers.dev/deportivo111/76.m3u8
+#EXTINF:-1 tvg-chno="641" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Argentina ² 🇦🇷 
+http://190.108.83.69:8000/play/a03s/index.m3u8
 
 #EXTINF:-1 tvg-chno="641" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Chile ² 🇨🇱
 http://189.50.210.3:8008/play/a04h/index.m3u8
