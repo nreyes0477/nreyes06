@@ -611,8 +611,8 @@ https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://imagenuniversaltv.com/wp-content/uploads/2024/06/Logo-imagen-Universal-Horizontal.png" group-title="Cine Latinos",Imagen Universal TV ¹ 🇩🇴
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://www.telemas.tv/wp-content/uploads/2025/03/logo_v6.png" group-title="Cine Latinos",Telemas + ¹ 🇭🇳
-https://viewhn.com/telemas/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://www.telemas.tv/wp-content/uploads/2025/03/logo_v6.png" group-title="Cine Latinos",Telemas + 🇭🇳
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/2397.ts
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://megatvjaen.pe/wp-content/uploads/2022/12/cropped-megajaen.png" group-title="Cine Latinos",Mega Tv Jaen ¹ 🇵🇪
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
@@ -996,11 +996,14 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 #EXTINF:-1 tvg-chno="281" tvg-logo="https://m.media-amazon.com/images/I/414KGfWaFbL.png" group-title="EUA Latino",Univisión ² 🇺🇸
 http://190.61.101.65:2025/play/a0pa
 
+#EXTINF:-1 tvg-chno="281" tvg-logo="https://m.media-amazon.com/images/I/414KGfWaFbL.png" group-title="EUA Latino",Univisión 🇺🇸
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/67.ts
+
 #EXTINF:-1 tvg-chno="286" tvg-logo="https://i.postimg.cc/qRHv3bMp/telem-aldia.jpg" group-title="EUA Latino",Telemundo Al Día ¹ 🇺🇸
 https://dmfxzlz63pfyh.cloudfront.net/10508/88886036/hls/master.m3u8?ads.xumo_channelId=88886036
 
-#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo MI ² 🇺🇸 
-http://45.181.87.106/TELEMUNDOHD/index.mpd
+#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo MI 🇺🇸 
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/2192.ts
 
 #EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo East ² 🇺🇸 
 http://190.61.101.65:2025/play/a00l
@@ -1014,26 +1017,26 @@ http://m3u.tvcluboficial.com/m/m/982.m3u8
 #EXTINF:-1 tvg-chno="299" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/telemundo.jpg" group-title="EUA Latino",Telemundo Internacional ² 🇺🇸
 http://45.5.116.177:8015/play/a0gv/index.m3u8
 
-#EXTINF:-1 tvg-chno="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_5_HN_logo.png/180px-Canal_5_HN_logo.png" group-title="Honduras",Canal 5 ² 🇭🇳
-http://168.232.168.242:9999/play/a001/index.m3u8
+#EXTINF:-1 tvg-chno="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_5_HN_logo.png/180px-Canal_5_HN_logo.png" group-title="Honduras",Canal 5 🇭🇳
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/118.ts
 
-#EXTINF:-1 tvg-chno="301" tvg-logo="https://canal6hn.com/wp-content/uploads/2025/03/1000x1000.png" group-title="Honduras",Canal 6 ² 🇭🇳
-http://168.232.168.242:9999/play/a046/index.m3u8
+#EXTINF:-1 tvg-chno="301" tvg-logo="https://canal6hn.com/wp-content/uploads/2025/03/1000x1000.png" group-title="Honduras",Canal 6 🇭🇳
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/119.ts
 
-#EXTINF:-1 tvg-chno="301" tvg-logo="https://tnh.gob.hn/wp-content/uploads/2025/11/cropped-490983857_614412674980960_8950175872587823691_n-e1762372158115.jpg" group-title="Honduras",Canal 8 ¹ 🇭🇳
-https://cdn2.castx.live/canal8/index.m3u8
+#EXTINF:-1 tvg-chno="301" tvg-logo="https://tnh.gob.hn/wp-content/uploads/2025/11/cropped-490983857_614412674980960_8950175872587823691_n-e1762372158115.jpg" group-title="Honduras",Canal 8 🇭🇳
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/35.ts
 
-#EXTINF:-1 tvg-chno="302" tvg-logo="https://alba-hn-vtv.cdn.mediatiquepress.com/wp-content/uploads/2023/08/VTV-PLAY-BLANCO-2-1-1-150x145.png" group-title="Honduras",VTV ² 🇭🇳
-http://168.232.168.242:9999/play/a02b/index.m3u8
+#EXTINF:-1 tvg-chno="302" tvg-logo="https://alba-hn-vtv.cdn.mediatiquepress.com/wp-content/uploads/2023/08/VTV-PLAY-BLANCO-2-1-1-150x145.png" group-title="Honduras",VTV 🇭🇳
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/36.ts
 
 #EXTINF:-1 tvg-chno="302" tvg-logo="https://go.com.hn/wp-content/uploads/2023/10/Logo-GO-TV-01.jpg" group-title="Honduras",GoTV 🇭🇳
 http://go.iptvhn.net:25461/live/7789/7789/13394.m3u8
 
-#EXTINF:-1 tvg-chno="303" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/180px-Telecadena7y42018.png" group-title="Honduras",Telecadena ² 🇭🇳
-http://168.232.168.242:9999/play/a002/index.m3u8
+#EXTINF:-1 tvg-chno="303" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/180px-Telecadena7y42018.png" group-title="Honduras",Telecadena 🇭🇳
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/543.ts
 
-#EXTINF:-1 tvg-chno="303" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TSi_logo.png/1280px-TSi_logo.png" group-title="Honduras",TSI ² 🇭🇳
-http://168.232.168.242:9999/play/a05y/index.m3u8
+#EXTINF:-1 tvg-chno="303" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TSi_logo.png/1280px-TSi_logo.png" group-title="Honduras",TSI 🇭🇳
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/37.ts
 
 #EXTINF:-1 tvg-chno="304" tvg-logo="https://logopond.com/logos/c3966093ee94ae75a6f65778327bf70c.png" group-title="Honduras",Telesistema 🇭🇳
 http://go.iptvhn.net:25461/live/7789/7789/13293.m3u8
@@ -1041,8 +1044,8 @@ http://go.iptvhn.net:25461/live/7789/7789/13293.m3u8
 #EXTINF:-1 tvg-chno="305" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Canal-11-Honduras-en-vivo-Online.png" group-title="Honduras",Canal 11 ¹ 🇭🇳
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/canal11hn/livestream1/chunks.m3u8?dpssid=b131176395625465cbd92084d9a&sid=ba5t1l1xb230348567067a9a9a3f38dc&ndvc=0
 
-#EXTINF:-1 tvg-chno="307" tvg-logo="https://hch.tv/wp-content/uploads/2021/09/logos-hch-bueno-1.png" group-title="Honduras",HCH ² 🇭🇳
-http://168.232.168.242:9999/play/a004/index.m3u8
+#EXTINF:-1 tvg-chno="307" tvg-logo="https://hch.tv/wp-content/uploads/2021/09/logos-hch-bueno-1.png" group-title="Honduras",HCH 🇭🇳
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/26.ts
 
 #EXTINF:-1 tvg-chno="309" tvg-logo="https://chtv.hn/wp-content/uploads/2023/12/big-logo-1.png" group-title="Honduras",CHTV ¹ 🇭🇳
 https://viewhn.com/chtv/live/playlist.m3u8
@@ -1423,10 +1426,10 @@ http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/3761.ts
 http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/3763.ts
 
 #EXTINF:-1 tvg-chno="514" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png" group-title="Cine y Películas",Golden Premier 
-http://p2premium.club:80/live/3nd8w6e99/eTBdfzw235EW/574268.ts
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/130.ts
 
 #EXTINF:-1 tvg-chno="514" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png" group-title="Cine y Películas",Golden Premier 2
-http://p2premium.club:80/live/3nd8w6e99/eTBdfzw235EW/574269.ts
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/131.ts
 
 #EXTINF:-1 tvg-chno="517" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png" group-title="Cine y Películas",Paramount Network
 http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/2826.ts
@@ -2064,8 +2067,8 @@ http://200.58.64.244:9000/play/a01a/index.m3u8
 #EXTINF:-1 tvg-chno="686" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos.png?resize=600%2C360&ssl=1" group-title="Deportes",Cableonda (COS) 🇵🇦 
 http://domestipo1.online:80/live/Oscar2208chieu/GX9vqaWbZ7/265872.ts
 
-#EXTINF:-1 tvg-chno="687" tvg-logo="https://img.streann.com/streann-img/admin/image/1746888232702.png?height=50" group-title="Deportes",Deportes TVC ² 🇭🇳
-http://168.232.168.242:9999/play/a003/index.m3u8
+#EXTINF:-1 tvg-chno="687" tvg-logo="https://img.streann.com/streann-img/admin/image/1746888232702.png?height=50" group-title="Deportes",Deportes TVC 🇭🇳
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/2502.ts
 
 #EXTINF:-1 tvg-chno="688" tvg-logo="https://bunny-wp-pullzone-3tijjyzerc.b-cdn.net/wp-content/uploads/2025/01/Copy-of-Partnership-Blog-cover-rebrand_1104x860-15.png" group-title="Deportes",Azteca Deportes ² 🇲🇽
 http://168.232.168.242:9999/play/a01o/index.m3u8
