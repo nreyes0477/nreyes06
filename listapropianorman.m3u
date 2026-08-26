@@ -45,10 +45,6 @@ http://45.163.139.42:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Trivisio%CC%81n-Canal-36-en-vivo-Online.png" group-title="Nacionales",Canal 36 Trivisión 🇨🇷
 http://velive.lat:8080/live/Nexp328737/29971731/83332.ts
 
-#EXTINF:-1 tvg-chno="14" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Trivisio%CC%81n-Canal-36-en-vivo-Online.png" group-title="Nacionales",Canal 36 Trivisión ¹ 🇨🇷 ***
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta118.cdnmedia.tv/trivisionlive/rtmp01-900/chunklist.m3u8?DVR=
-
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://image.roku.com/developer_channels/prod/15028c316a76bcd9408f730b04579257af5273595c5049db126ba4540b81a936.png" group-title="Nacionales",Canal 38 ¡Opa! ¹ 🇨🇷
 https://5fe2654d6127d.streamlock.net/genteopa/videogenteopa/chunklist_w1000136017.m3u8
 
