@@ -8,7 +8,7 @@ http://168.228.44.241:9998/play/a0dz/index.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://canal1cr.com/wp-content/uploads/2023/02/logo-canal-1-png.png" group-title="Nacionales",Canal 1 CR ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="Nacionales",Canal 1 CR ¹ 🇨🇷
 https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
 
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://cdrcomercial.cr/sites/default/files/styles/large/public/2022-08/LOGO-CANAL-2.png" group-title="Nacionales",Canal 2 Repretel ² 🇨🇷
@@ -72,7 +72,7 @@ https://k20.usastreams.com:8081/tvsur/index.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-logo="https://semanariouniversidad.com/wp-content/uploads/2021/04/Logo-canal15-1024x1024.jpeg" group-title="Nacionales",Canal 15 UCR ¹ 🇨🇷
 http://163.178.170.127:1935/quinceucr/_definst_/quinceucr.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="25" tvg-logo="https://costaricachannel.org/wp-content/uploads/2022/08/cropped-LOGO-CR-2022-2022-1024x342.png" group-title="Nacionales",CR Channel ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="25" tvg-logo="https://i.imgur.com/N4pFVVF.png" group-title="Nacionales",CR Channel ¹ 🇨🇷
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 
 #EXTINF:-1 tvg-chno="26" tvg-logo="https://substackcdn.com/image/fetch/$s_!sVlU!,w_1272,c_limit,f_webp,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a76daef-b65d-48fc-bae7-4491e0574439_600x600.png" group-title="Nacionales",Impact Channel ¹ 🇨🇷
@@ -168,7 +168,7 @@ https://live20.bozztv.com/giatv/giatv-megahits/megahits/chunks.m3u8
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://gextv.com/LOGO-WHITE.png" group-title="Nacionales",Gex TV ¹ 🇨🇷
 https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="50" tvg-logo="https://megatvcr.net/images/logo-mega.png" group-title="Nacionales",Mega Tv CR ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="50" tvg-logo="https://i.imgur.com/xVWhFg4.png" group-title="Nacionales",Mega Tv CR ¹ 🇨🇷
 https://stream.enlineatv.net/hls/megatvcr/index.m3u8
 
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr6QWfe5-SiHV3YOww4BaQn0DK5k9tc3j8Ftm5V3cnMkbjj2xRQ292sAFr1Fp618m8vbggU8OPBOrp8SZ1UQRCiY7lNRwquM1IlA42_PBAW1K5bzxBJpZd7PeukuLTQErG6ssx9sErR3gW19-JtDv_FZr7jgMurau5zIRGoCCmkamm2bwKyqDLebuEE9-h/s600/PUNTO%209%20TV%20PORTADA%203.png" group-title="Nacionales",Radio Punto 9 CR ¹ 🇨🇷
