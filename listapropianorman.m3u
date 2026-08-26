@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="🔆 🆄🅵🅲 🔆",UFC ¹
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="🥊 🆄🅵🅲 🥊",UFC ¹
 https://khala.skylivehd.com/global/paramount1/index.m3u8?ip=186.64.132.238&token=3c26fa1bf3bfd1078b60bb5ed4b7722f8dedcb6c-6e-1787493453-1787439453
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://newswhip.sirv.com/WP_www.newswhip.com/2018/02/Espndeportes.png" group-title="⚽ 🇱 🇦  🇱 🇮 🇬 🇦 ⚽",Espn Deportes 🇺🇸 ²
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://newswhip.sirv.com/WP_www.newswhip.com/2018/02/Espndeportes.png" group-title="⚽ ⓁⒶ ⓁⒾⒼⒶ ⚽",Espn Deportes 🇺🇸 ²
 http://168.228.44.241:9998/play/a0dz/index.m3u8
 
 
