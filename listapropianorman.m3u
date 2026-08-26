@@ -738,7 +738,6 @@ http://200.91.32.158:8080/telefehdvalle/index.m3u8
 #EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina",Telefe ² 🇦🇷
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
-
 #EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="Argentina",El Trece ² 🇦🇷
 http://45.188.229.33:8000/play/a1dk/index.m3u8?hls
 
@@ -1015,8 +1014,8 @@ https://dmfxzlz63pfyh.cloudfront.net/10508/88886036/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo MI 🇺🇸 
 http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/2192.ts
 
-#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo East ² 🇺🇸 
-http://190.61.101.65:2025/play/a00l
+#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo ² 🇺🇸 
+http://168.228.44.241:9997/play/a07g/index.m3u8
 
 #EXTINF:-1 tvg-chno="289" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/320px-Galavision_Logo_2013.svg.png" group-title="EUA Latino",Galavisión 🇺🇸
 http://m3u.tvcluboficial.com/m/m/481.m3u8
