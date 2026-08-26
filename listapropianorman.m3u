@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="🥊 🆄🅵🅲 🥊",UFC ¹
 https://khala.skylivehd.com/global/paramount1/index.m3u8?ip=186.64.132.238&token=3c26fa1bf3bfd1078b60bb5ed4b7722f8dedcb6c-6e-1787493453-1787439453
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://newswhip.sirv.com/WP_www.newswhip.com/2018/02/Espndeportes.png" group-title="⚽ 🅻🅰 🅻🅸🅶🅰 ⚽",Espn Deportes 🇺🇸 ²
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="⚽ 🅻🅰 🅻🅸🅶🅰 ⚽",Espn Deportes 🇺🇸 ²
 http://168.228.44.241:9998/play/a0dz/index.m3u8
 
 
@@ -1836,13 +1836,13 @@ http://45.5.118.136:8888/play/a009/index.m3u8
 #EXTINF:-1 tvg-chno="611" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="Deportes",TUDN México ² 🇲🇽
 http://45.228.233.222:8000/play/a04y
 
-#EXTINF:-1 tvg-chno="612" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1536x329.png" group-title="Deportes",Sky Sports 🇲🇽
+#EXTINF:-1 tvg-chno="612" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/h9OCXbr5oxWUtzWfFKK6k/79e17bde30cd94da2c6a90ad046d4f61/sports-plat.jpg" group-title="Deportes",Sky Sports 🇲🇽
 http://virgencitachatuti.com:80/live/Oscar2208chieu/GX9vqaWbZ7/772278.ts
 
-#EXTINF:-1 tvg-chno="612" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1536x329.png" group-title="Deportes",Sky Sports Bundesliga ² 🇲🇽
+#EXTINF:-1 tvg-chno="612" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/h9OCXbr5oxWUtzWfFKK6k/79e17bde30cd94da2c6a90ad046d4f61/sports-plat.jpg" group-title="Deportes",Sky Sports Bundesliga ² 🇲🇽
 http://190.92.10.66:4000/play/a006/index.m3u8
 
-#EXTINF:-1 tvg-chno="612" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1536x329.png" group-title="Deportes",Sky Sports La Liga ² 🇲🇽
+#EXTINF:-1 tvg-chno="612" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/h9OCXbr5oxWUtzWfFKK6k/79e17bde30cd94da2c6a90ad046d4f61/sports-plat.jpg" group-title="Deportes",Sky Sports La Liga ² 🇲🇽
 http://45.5.118.152:8000/play/a08f/index.m3u8
 
 #EXTINF:-1 tvg-chno="613" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png" group-title="Deportes",Claro Sports México ² 🇲🇽
@@ -1857,10 +1857,10 @@ http://189.148.49.233:8000/play/a05p/index.m3u8
 #EXTINF:-1 tvg-chno="616" tvg-logo="https://lasociedaddelcontenido.com/wp-content/uploads/2025/05/Copia-de-Imagen-2-1536x864.jpg" group-title="Deportes",Telemundo Deportes ¹ 🇺🇸
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88884639/hls/master.m3u8?declaredCC1Language=es&ads.xumo_channelId=88884639&ads.xumo_streamId=88884639&ads.channelId=88884639&ads.channelName=telemundodeportesahora_us&ads.csid=tcl2_us_telemundodeportesahora_ssai&ads.caid=TelemundoDeportesAhora&ads.genre=Sport&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=es&ads._fw_content_rating=vt-pg&ads._fw_coppa=o&ads._fw_h_x_country=US&ads.xumo_contentId=4281&ads.xumo_contentName=TelemundoDeportesAhora&ads.xumo_providerId=4281&ads.xumo_providerName=TelemundoDeportesAhora&ads.xumo_channelName=TelemundoDeportesAhora&includeAssetTags=true&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
 
-#EXTINF:-1 tvg-chno="617" tvg-logo="https://newswhip.sirv.com/WP_www.newswhip.com/2018/02/Espndeportes.png" group-title="Deportes",ESPN Deportes 🇺🇲
+#EXTINF:-1 tvg-chno="617" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes 🇺🇲
 http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/145416.ts
 
-#EXTINF:-1 tvg-chno="617" tvg-logo="https://newswhip.sirv.com/WP_www.newswhip.com/2018/02/Espndeportes.png" group-title="Deportes",ESPN Deportes ² 🇺🇲
+#EXTINF:-1 tvg-chno="617" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes ² 🇺🇲
 http://168.228.44.241:9998/play/a0dz/index.m3u8
 
 #EXTINF:-1 tvg-chno="617" tvg-logo="https://www.foxdeportes.com/assets/images/logo_2.png" group-title="Deportes",Fox Deportes 🇺🇲
