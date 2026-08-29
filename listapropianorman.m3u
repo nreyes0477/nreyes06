@@ -1978,10 +1978,10 @@ http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/69567.ts
 http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/231779.ts
 
 #EXTINF:-1 tvg-chno="668" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png" group-title="Deportes",TyC Sports Argentina ² 🇦🇷
-http://168.232.168.242:9999/play/a005/index.m3u8
+http://45.170.130.224:8000/play/a020/index.m3u8
 
-#EXTINF:-1 tvg-chno="668" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png" group-title="Deportes",TyC Sports Argentina ¹ 🇦🇷
-https://futbol9865.ultratv13.workers.dev/deportivo111/77.m3u8
+#EXTINF:-1 tvg-chno="668" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png" group-title="Deportes",TyC Sports Argentina ² 🇦🇷
+http://45.181.87.106/TYCSPORTSHD/index.m3u8
 
 #EXTINF:-1 tvg-chno="668" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png" group-title="Deportes",TyC Sports USA ¹ 🇺🇸
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
@@ -2047,10 +2047,10 @@ http://domestipo1.online:80/live/ser682mun/5w49evr21/231773.m3u8
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7618
 
 #EXTINF:-1 tvg-chno="683" tvg-logo="https://i.postimg.cc/QMsDwbxR/winsport.jpg" group-title="Deportes",Win Sports ² 🇨🇴
-http://181.78.8.199:8000/play/a0ic/index.m3u8
+http://200.69.92.222:8000/play/a02l/index.m3u8
 
-#EXTINF:-1 tvg-chno="683" tvg-logo="https://i.postimg.cc/MZrWHVdQ/winsportplus.jpg" group-title="Deportes",Win Sports + 🇨🇴
-http://m3u.tvcluboficial.com/m/m/1042.m3u8
+#EXTINF:-1 tvg-chno="683" tvg-logo="https://i.postimg.cc/MZrWHVdQ/winsportplus.jpg" group-title="Deportes",Win Sports + ² 🇨🇴
+http://200.69.92.222:8000/play/a04r/index.m3u8
 
 #EXTINF:-1 tvg-chno="684" tvg-logo="https://elcomercio-elcomercio-prod.web.arc-cdn.net/resizer/v2/SI7SCQMDSFHVPMWEG7JTBRDA4E.jpg?auth=ee9002b30119e489b0177c3764bb01abd56ae3d285b2b42f2a1a3f8b0d0b455a&width=600&height=400&smart=true&quality=75" group-title="Deportes",Movistar Deportes 🇵🇪 
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7397
@@ -2066,7 +2066,7 @@ http://domestipo1.online:80/live/Oscar2208chieu/GX9vqaWbZ7/265872.ts
 http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/2502.ts
 
 #EXTINF:-1 tvg-chno="688" tvg-logo="https://bunny-wp-pullzone-3tijjyzerc.b-cdn.net/wp-content/uploads/2025/01/Copy-of-Partnership-Blog-cover-rebrand_1104x860-15.png" group-title="Deportes",Azteca Deportes ² 🇲🇽
-http://168.232.168.242:9999/play/a01o/index.m3u8
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
 
 #EXTINF:-1 tvg-chno="690" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/2/2b/TVCDep16Logo.png/revision/latest/scale-to-width/360?cb=20160715002021&path-prefix=es" group-title="Deportes",TVC Deportes 🇲🇽
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7170
@@ -2092,20 +2092,23 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601
 #EXTINF:-1 tvg-chno="695" tvg-logo="https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/128579b4-6ac2-11ed-8535-d36612803c67.png" group-title="Deportes",Wapa Deportes 🇵🇷
 http://domestipo1.online:80/live/Oscar2208chieu/GX9vqaWbZ7/199975.ts
 
+#EXTINF:-1 tvg-chno="695" tvg-logo="" group-title="Deportes",Tigo Sports Paraguay ¹ 🇵🇾
+https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="695" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/latin-american-sports-tv.png" group-title="Deportes",Latin American Sports (LAS) ¹ 🇲🇽
 https://futbol9865.ultratv13.workers.dev/deportivo111/74.m3u8
 
 #EXTINF:-1 tvg-chno="696" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adrenalina_sports_network-mediano.png" group-title="Deportes",Adrenalina Sports 🇲🇽
 http://domestipo1.online:80/live/Oscar2208chieu/GX9vqaWbZ7/755473.ts
 
-#EXTINF:-1 tvg-chno="696" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/PX_Sports_-_Logo.png/960px-PX_Sports_-_Logo.png" group-title="Deportes",PX Sports 🇲🇽
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/103.m3u8
+#EXTINF:-1 tvg-chno="696" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/PX_Sports_-_Logo.png/960px-PX_Sports_-_Logo.png" group-title="Deportes",PX Sports ² 🇲🇽
+http://200.35.176.154:8000/play/a04l/index.m3u8
 
 #EXTINF:-1 tvg-chno="696" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/PX_Sports_-_Logo.png/960px-PX_Sports_-_Logo.png" group-title="Deportes",FutGo 🇨🇱
 
 
-#EXTINF:-1 tvg-chno="697" tvg-logo="https://cdn.storage.foromedios.com/monthly_2021_06/large.MeridianoTV2019-1.png.05f368152f6fdb6351c2265a5db41cbb.png" group-title="Deportes",Meridiano ² 🇻🇪
-http://181.78.8.199:8000/play/a0fr/index.m3u8
+#EXTINF:-1 tvg-chno="697" tvg-logo="https://cdn.storage.foromedios.com/monthly_2021_06/large.MeridianoTV2019-1.png.05f368152f6fdb6351c2265a5db41cbb.png" group-title="Deportes",Meridiano 🇻🇪
+http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/4873.ts
 
 #EXTINF:-1 tvg-chno="698" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/logos/FuboSports_Logo_OneColor_box_rgb.png?w=300&ch=width&auto=format,compress" group-title="Deportes",Fubo Sports ¹ 🇺🇸
 https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRnVib1Nwb3J0c05ldHdvcmtfSExT/playlist.m3u8
