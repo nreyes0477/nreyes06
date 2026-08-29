@@ -3,10 +3,10 @@
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="🥊 🆄🅵🅲 🥊",UFC ¹
 https://khala.skylivehd.com/global/paramount1/index.m3u8?ip=186.64.132.238&token=3c26fa1bf3bfd1078b60bb5ed4b7722f8dedcb6c-6e-1787493453-1787439453
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="🇪🇸 🅻🅰 🅻🅸🅶🅰 🇪🇸",Espn Deportes ² 🇺🇸
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="🔴 🅻🅰 🅻🅸🅶🅰 🔴 ",Espn Deportes ² 🇺🇸
 http://168.228.44.241:9998/play/a0dz/index.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/h9OCXbr5oxWUtzWfFKK6k/79e17bde30cd94da2c6a90ad046d4f61/sports-plat.jpg" group-title="🇪🇸 🅻🅰 🅻🅸🅶🅰 🇪🇸",Sky Sports La Liga ² 🇲🇽 
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/h9OCXbr5oxWUtzWfFKK6k/79e17bde30cd94da2c6a90ad046d4f61/sports-plat.jpg" group-title="🔴 🅻🅰 🅻🅸🅶🅰 🔴",Sky Sports La Liga ² 🇲🇽 
 http://168.228.44.241:9998/play/a001/index.m3u8
 
 
@@ -26,7 +26,7 @@ http://45.163.139.42:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://i.imgur.com/ctnvE3c.png" group-title="Nacionales",Canal 7 Teletica ² 🇨🇷
 http://45.163.139.42:8000/play/a02k/index.m3u8
 
-#EXTINF:-1 tvg-chno="7" tvg-logo="https://i.imgur.com/ctnvE3c.png" group-title="Nacionales",Canal 7 Teletica (2) ¹ 🇨🇷
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://i.imgur.com/ctnvE3c.png" group-title="Nacionales",Canal 7 Teletica ¹ 🇨🇷
 #EXTVLCOPT:http-referrer=https://bradmax.com/client/embed-player/c7c83ebb46fa89529a7383d933e2038729f8e4c9_13428?id=tv7&mediaUrl=https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8&mediaUrl2=https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8
 https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
 
