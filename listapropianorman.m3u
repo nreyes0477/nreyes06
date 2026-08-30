@@ -1821,17 +1821,8 @@ http://190.61.101.11:7050/play/a08u/index.m3u8
 #EXTINF:-1 tvg-chno="610" tvg-logo="https://www.westminsterkennelclub.org/wp-content/uploads/2024/02/Asset-1-1.png" group-title="Deportes",Fox Tubi (México) ¹ 🇲🇽
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="610" tvg-logo="https://www.westminsterkennelclub.org/wp-content/uploads/2024/02/Asset-1-1.png" group-title="Deportes",Fox Tubi (México) ² 🇲🇽
-http://45.5.118.152:8000/play/a08d/index.m3u8
-
 #EXTINF:-1 tvg-chno="610" tvg-logo="https://lasociedaddelcontenido.com/wp-content/uploads/2025/08/Imagen-2025-08-06T234253.981-1536x864.jpg" group-title="Deportes",Fox One (México) ² 🇲🇽
 http://190.61.114.186:8000/play/a04d/index.m3u8
-
-#EXTINF:-1 tvg-chno="610" tvg-logo="https://lasociedaddelcontenido.com/wp-content/uploads/2025/08/Imagen-2025-08-06T234253.981-1536x864.jpg" group-title="Deportes",Fox One (México) 🇲🇽
-http://legazy.icu:8880/live/patricia2025cas/gkst7NBDxRRe08vz/1867090.ts
-
-#EXTINF:-1 tvg-chno="610" tvg-logo="https://lasociedaddelcontenido.com/wp-content/uploads/2025/08/Imagen-2025-08-06T234253.981-1536x864.jpg" group-title="Deportes",Fox One (México) 🇲🇽
-http://legazy.icu:8880/live/patricia2025cas/gkst7NBDxRRe08vz/2190941.ts
 
 #EXTINF:-1 tvg-chno="610" tvg-logo="https://lasociedaddelcontenido.com/wp-content/uploads/2025/08/Imagen-2025-08-06T234253.981-1536x864.jpg" group-title="Deportes",Fox One 1 (México) 🇲🇽
 http://virgencitachatuti.com:80/live/Oscar2208chieu/GX9vqaWbZ7/730391.ts
@@ -1846,10 +1837,10 @@ http://45.5.118.136:8888/play/a009/index.m3u8
 http://45.228.233.222:8000/play/a04y
 
 #EXTINF:-1 tvg-chno="612" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/h9OCXbr5oxWUtzWfFKK6k/79e17bde30cd94da2c6a90ad046d4f61/sports-plat.jpg" group-title="Deportes",Sky Sports 🇲🇽
-http://virgencitachatuti.com:80/live/Oscar2208chieu/GX9vqaWbZ7/772278.ts
+http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/2691.ts
 
 #EXTINF:-1 tvg-chno="612" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/h9OCXbr5oxWUtzWfFKK6k/79e17bde30cd94da2c6a90ad046d4f61/sports-plat.jpg" group-title="Deportes",Sky Sports Bundesliga ² 🇲🇽
-http://190.92.10.66:4000/play/a006/index.m3u8
+http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/140962.ts
 
 #EXTINF:-1 tvg-chno="612" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/h9OCXbr5oxWUtzWfFKK6k/79e17bde30cd94da2c6a90ad046d4f61/sports-plat.jpg" group-title="Deportes",Sky Sports La Liga ² 🇲🇽
 http://45.5.118.152:8000/play/a08f/index.m3u8
@@ -1875,11 +1866,8 @@ http://168.228.44.241:9998/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-chno="617" tvg-logo="https://www.foxdeportes.com/assets/images/logo_2.png" group-title="Deportes",Fox Deportes 🇺🇲
 http://latintvplus.com:8000/live/MyBOXXTV2024/SILVERsat173929HH/131286.ts
 
-#EXTINF:-1 tvg-chno="618" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="Deportes",TUDN USA ² 🇺🇸
-http://200.115.120.1:8000/play/ca039/index.m3u8
-
-#EXTINF:-1 tvg-chno="618" tvg-logo="https://iili.io/J2wureR.png" group-title="Deportes",Zona TUDN USA 🇺🇸
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7763
+#EXTINF:-1 tvg-chno="618" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="Deportes",TUDN USA 🇺🇸
+http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/129027.ts
 
 #EXTINF:-1 tvg-chno="630" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Argentina (1) ² 🇦🇷
 http://45.188.229.33:8000/play/a1az/index.m3u8
@@ -2001,10 +1989,7 @@ http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/278989.m3u8
 #EXTINF:-1 tvg-chno="668" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsportsPremium256.png" group-title="Deportes",TNT Sports Premium Chile  🇨🇱
 http://m3u.tvcluboficial.com/m/m/938.m3u8
 
-#EXTINF:-1 tvg-chno="669" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="Deportes",Dazn La Liga (1) 🇪🇦
-http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/140948.ts
-
-#EXTINF:-1 tvg-chno="669" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="Deportes",Dazn La Liga (2) 🇪🇦
+#EXTINF:-1 tvg-chno="669" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="Deportes",Dazn La Liga 🇪🇦
 http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/4317.ts
 
 #EXTINF:-1 tvg-chno="669" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_laliga-mediano.png" group-title="Deportes",La Liga por Movistar + ² 🇪🇸
