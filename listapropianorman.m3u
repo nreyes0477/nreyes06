@@ -1534,7 +1534,7 @@ http://181.78.12.119:16123/play/ch51/index.m3u8
 http://181.78.12.119:16123/play/ch49/index.m3u8
 
 #EXTINF:-1 tvg-chno="533" tvg-logo="https://contenidostv.b-cdn.net/images/clover512.jpg" group-title="Cine y Películas",Clover Channel ²
-http://45.173.201.51:4000/play/a0pc/index.m3u8
+http://45.188.229.33:8000/play/a1ka/index.m3u8
 
 #EXTINF:-1 tvg-chno="533" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpge-empty-state.png" group-title="Cine y Películas",MX Cine ²
 http://45.173.201.51:4000/play/a0mw/index.m3u8
@@ -2122,8 +2122,8 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-chno="699" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/5.jpg" group-title="Deportes",CNAR Deportes ¹ 🇦🇷
 https://stmv6.voxtvhd.com.br/cnardeportes/cnardeportes/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="699" tvg-logo="https://telecentro.com.ar/img/cm/channels/deportv%20128.png"bgroup-title="Deportes",DeporTV 🇦🇷
-http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/3540.ts
+#EXTINF:-1 tvg-chno="699" tvg-logo="https://telecentro.com.ar/img/cm/channels/deportv%20128.png"bgroup-title="Deportes",DeporTV ² 🇦🇷
+http://45.188.229.33:8000/play/a1cq/index.m3u8
 
 #EXTINF:-1 tvg-chno="700" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png" group-title="Música",VM Latino ¹
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
