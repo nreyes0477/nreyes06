@@ -6,7 +6,8 @@ http://38.210.3.64:8090/play/A01E
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="🥊 🆄🅵🅲 🥊",UFC (EN VIVO) ¹
 https://khala.futlivehd.com/global/paramount1/index.m3u8?ip=186.64.132.238&token=7a5f6f148190172184d80496d5f23ede1cc8f122-e3-1788685775-1788631775
 
-
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="🥊 🆄🅵🅲 🥊",UFC (EN VIVO) ¹
+https://khala.futlivehd.com/global/paramount1/index.m3u8?ip=186.64.132.238&token=4011a73d8fedc2d64743ae1ec2f991d765ab78e8-72-1788685942-1788631942
 
 
 
