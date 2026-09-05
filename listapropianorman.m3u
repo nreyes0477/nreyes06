@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="🥊 🆄🅵🅲 🥊",UFC ¹
-http://38.210.3.64:8090/play/A01E/index.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="🥊 🆄🅵🅲 🥊",UFC ²
+http://38.210.3.64:8090/play/A01E
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="🔴 🅻🅰 🅻🅸🅶🅰 🔴",Espn Deportes 🇺🇸
 http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/145416.ts
