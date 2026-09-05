@@ -954,8 +954,8 @@ http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/126215.ts
 #EXTINF:-1 tvg-chno="267" tvg-logo="https://logos.streamsites.eu/2531_telecinco_overview.png" group-title="España",Telecinco 🇪🇸
 http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/126310.ts
 
-#EXTINF:-1 tvg-chno="268" tvg-logo="https://logos.streamsites.eu/2697_la-sexta_overview.png" group-title="España",La Sexta 🇪🇸
-http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/126216.ts
+#EXTINF:-1 tvg-chno="268" tvg-logo="https://logos.streamsites.eu/2697_la-sexta_overview.png" group-title="España",La Sexta ᵐ 🇪🇸
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/603.m3u8
 
 #EXTINF:-1 tvg-chno="268" tvg-logo="https://filmgranada.com/wp-content/uploads/2021/03/canal-sur-granada-1.png" group-title="España",Canal Sur ¹ 🇪🇸
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
