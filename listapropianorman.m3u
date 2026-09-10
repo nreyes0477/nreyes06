@@ -1085,8 +1085,8 @@ http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/194.m3u8
 #EXTINF:-1 tvg-chno="310" tvg-logo="https://aztecahonduras.com/wp-content/uploads/2022/11/tv-azteca-honduras-noticias.png" group-title="Honduras",Azteca Honduras ² 🇭🇳
 http://168.232.168.242:9999/play/a08e/index.m3u8
 
-#EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno 🇲🇽
-http://ak-47scan.dyndns.tv:25461/streaming/clients_live.php?username=ATPLUSEN&password=ysN8PGMW9LPe&stream=75558&extension=ts
+#EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno ² 🇲🇽
+http://45.167.253.246:8010/play/a005/index.m3u8
 
 #EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno ᵐ 🇲🇽
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/78.m3u8
