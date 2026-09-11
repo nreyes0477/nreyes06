@@ -269,23 +269,23 @@ http://177.53.152.117:8000/play/a08w/index.m3u8
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e5061410-82b2-400d-8433-0604666b79c9-profile_banner-480.jpeg" group-title="Noticias",Meganoticias ² 🇨🇱
 http://200.108.187.214:8000/play/a0bf/index.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://lascronologias.wordpress.com/wp-content/uploads/2020/11/tn-logo-artear-rating-ibope.jpg" group-title="Noticias",TN Noticias 🇦🇷
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://lascronologias.wordpress.com/wp-content/uploads/2020/11/tn-logo-artear-rating-ibope.jpg" group-title="Noticias",TN Noticias ¹ 🇦🇷
 http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090610&extension=ts
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/588px-Canal_26_logo_%282022%29.svg.png" group-title="Noticias",Canal 26 ¹ 🇦🇷
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://assets.iproup.com/assets/jpg/2021/04/17689.jpg" group-title="Noticias",Crónica TV ¹ 🇦🇷
-https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090576&extension=ts
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/C5N_%282017%29.png/606px-C5N_%282017 %29.png"group-title="Noticias",C5N 🇦🇷
-http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/161874.ts
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/C5N_%282017%29.png/606px-C5N_%282017 %29.png"group-title="Noticias",C5N ¹ 🇦🇷
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090709&extension=ts
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="Noticias",A24 ¹ 🇦🇷
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://dossiernet.com/_next/image?url=https%3A%2F%2Fdmdqet87i5rod.cloudfront.net%2Festoesmedia%2F609bcd5342359_lnmas.jpg&w=1080&q=75" group-title="Noticias",La Nación + 🇦🇷
-http://legazy.icu:8880/live/patricia2025cas/gkst7NBDxRRe08vz/2642.ts
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://dossiernet.com/_next/image?url=https%3A%2F%2Fdmdqet87i5rod.cloudfront.net%2Festoesmedia%2F609bcd5342359_lnmas.jpg&w=1080&q=75" group-title="Noticias",La Nación + ² 🇦🇷
+http://138.59.227.20:8000/play/a05y/index.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/1.jpg" group-title="Noticias",CNAR Noticias 24 ¹ 🇦🇷
 https://stmv3.voxtvhd.com.br/eventoslive2/eventoslive2/playlist.m3u8
