@@ -104,9 +104,6 @@ https://rtmp.info/sanjosetv/envivo/playlist.m3u8?hls_ctx=75pv3ka4
 #EXTINF:-1 tvg-chno="31" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGLhhtg5NJMWt3KwH3VG7flKs9C2E1wdf9Y4ICHz8J0GEMXa4fNvkEr_-JiwX8PEzX2ibjkta0fvSBwaGbzF4RnJewHVmBQ82JnUR3Ce2bUI_Do3Q1kHIe9HWMUY_5UvIfN_Nnwri3CEd-dZG7bJNyOVtrfg4sAO8zmaX_T8ZnNdSiAucNMMLDk8PCLz4I/s600/TURRIALBA%20LOGO%20PORTADA%202.png" group-title="Nacionales",Radio Turrialba TV ¹ 🇨🇷
 https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="32" tvg-logo="https://i.imgur.com/Vcd40AL.png" group-title="Nacionales",Cartago Medios TV ¹ 🇨🇷
-https://acceso.mediosdecostarica.com:3511/stream/play.m3u8
-
 #EXTINF:-1 tvg-chno="33" tvg-logo="https://www.nicoyatv.com/images/Logos/Coope%20Logo%203.png" group-title="Nacionales",Nicoya TV ¹ 🇨🇷
 https://59ef525c24caa.streamlock.net:443/nicoyatv/nicoyatv/chunklist_w221500905.m3u8
 
