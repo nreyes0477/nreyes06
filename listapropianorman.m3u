@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="🥊 🆄🅵🅲 🥊",UFC ²
 http://38.210.3.64:8090/play/A01E
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="🥊 🆄🅵🅲 🥊",UFC (EN VIVO) ¹
-https://193.domhsd.com/global/paramount1/index.m3u8?token=e5633b72019eaa5c64d74b9e2784bf5acd4848bf-e5-1789293207-1789239207&ip=186.64.180.22
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="🥊 🆄🅵🅲 🥊",UFC (EN VIVO)
+http://superxlatino.com:8880/live/meyfgdbnah/DCQHPQjTYhm4/561605.ts
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="🥊 🆄🅵🅲 🥊",UFC (EN VIVO) ¹
 https://s1.envivoslatam99.sbs/global/paramount1/index.m3u8?token=ae23cede52066f9a0ddbe814a5c016bf29ca2023-ca-1789292308-1789238308&ip=186.64.180
