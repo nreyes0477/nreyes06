@@ -348,15 +348,6 @@ https://s10host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjcWYTugcj4OhiWp_Wmqi0QMigrnwbu0qxq6GLGb8-ySXEV6uaXoXFtoDSVJ_THHPgE9v9jnTNULDy8DzPMpNncF4CoDKKsA5E5tRq3RLBcLiO73NRM-xAfCCx9jsp-O3ujQahGzHPkZ4vaRR6S5YPCK9zIYWwj2e1YiuOxznm2m8JE9d8sxyqF2KKUNW_/w640-h360-rw/imagen_2025-09-07_211750717.png" group-title="Educativos",Expedientes Sobrenaturales ¹
 https://s10host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config13/playlist.m3u8?ads.cdnhost=s10host4.localnow.api.cms.amdvids.com&ads.playbackid=2F20DCA2-9005-4C24-9BF4-B2E2607F356F&ads.n1=rule_id&ads.v1=31E67C91-301F-4DA0-997C-55E852CBE4CB-1752176430&ads.n3=qp_content_id&ads.v3=2F20DCA2-9005-4C24-9BF4-B2E2607F356F&ads.n4=content_name&ads.v4=Expedientes%20Sobrenaturales&ads.n21=channel_name&ads.v21=Expedientes%20Sobrenaturales&ads.n22=did&ads.v22=&ads.n23=content_custom_3_param&ads.v23=channel&ads.n24=channel_corp&ads.v24=Warner%20Brothers%20Discovery&ads.n25=content_type&ads.v25=channel&ads.n26=device_type&ads.v26=&ads.n27=content_producer_name&ads.v27=Warner%20Brothers%20Discovery&ads.n28=channel_rating&ads.v28=TV-PG&ads.n29=channel_company_id&ads.v29=AMDP500559&ads.n30=content_custom_1_param&ads.v30=2F20DCA2-9005-4C24-9BF4-B2E2607F356F&ads.n31=channel_genre&ads.v31=En%20Espanol&ads.n32=gpp_sid&ads.v32=&ads.n33=app_version&ads.v33=0.0.0&ads.n34=us_privacy&ads.v34=1YNY&ads.n35=channel_title&ads.v35=Expedientes%20Sobrenaturales&ads.n36=network_name&ads.v36=expedientes-sobrenaturales&ads.n37=channel_language&ads.v37=en&ads.n38=h&ads.v38=1080&ads.n39=content_provider&ads.v39=expedientes-sobrenaturales&ads.n40=ua&ads.v40=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n41=content_livestream&ads.v41=1&ads.n42=ip&ads.v42=86.48.9.131&ads.n43=dnt&ads.v43=&ads.n44=app_bundle&ads.v44=&ads.n45=content_custom_2_param&ads.v45=AMDB013590&ads.n46=cust_devicename&ads.v46=desktop_web&ads.n47=device_make&ads.v47=&ads.n48=channel_brand_id&ads.v48=AMDB013590&ads.n49=gpp&ads.v49=&ads.n50=app_name&ads.v50=&ads.n51=pos&ads.v51=midroll&ads.n52=app_store_url&ads.v52=&ads.n53=channel_ext_id&ads.v53=&ads.n54=ifa_type&ads.v54=&ads.n55=device_model&ads.v55=&ads.n56=w&ads.v56=1920&ads.n57=channel_id&ads.v57=2F20DCA2-9005-4C24-9BF4-B2E2607F356F&ads.n58=url&ads.v58=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal
 
-#EXTINF:-1 tvg-chno="52" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/35.jpg" group-title="Educativos",Canal Astronet ¹ 🇦🇷
-https://stmv6.voxtvhd.com.br/astronet/astronet/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="52" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/1-1.jpg" group-title="Educativos",El Mundo de la Ciencia TV ¹ 🇦🇷
-https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="52" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/32.jpg" group-title="Educativos",Ciencia & Tecnología 365 ¹ 🇦🇷
-https://stmv6.voxtvhd.com.br/techscience365/techscience365/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/3-2.jpg" group-title="Educativos",Canal Xtrema TV ¹ 🇦🇷
 https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
 
@@ -369,17 +360,8 @@ https://amg01576-blueskyeenterta-naturetimeemea-lges-afzij.amagi.tv/playlist/amg
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://lovetvchannels.com/wp-content/uploads/2025/04/LoveThePlanet_circle.png" group-title="Educativos",Canal Love Nature Español ¹ 🇪🇸
 https://aka-live1050.delivery.roku.com/c600741a-7139-4b2e-ae6b-8779c57d18dd/t2-origin/out/v1/live.m3u8
 
-#EXTINF:-1 tvg-chno="52" tvg-logo="https://i.postimg.cc/zB6q2WXB/free-sa.jpg" group-title="Educativos",Free TV Saber Más ¹ 🇦🇷
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://i.postimg.cc/Tw87qZrv/pluh.jpg" group-title="Educativos",Pluto Tv Historia ¹ 🇦🇷
 https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8
-
-#EXTINF:-1 tvg-chno="52" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/8.jpg" group-title="Educativos",Canal Te lo Cuento ¹ 🇦🇷
-https://stmv7.voxtvhd.com.br/telocuentoy/telocuentoy/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="52" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/31.jpg" group-title="Educativos",Canal XtremaAnimal ¹ 🇦🇷
-https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/ea5e02e669803bd213cf0690215f9ef3.png" group-title="Educativos",Canal TravelXP ¹ 🇮🇳
 https://travelxp-travelxp-5-es.lg.wurl.tv/playlist.m3u8
