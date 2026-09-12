@@ -326,20 +326,18 @@ https://jireh-5-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="Noticias",Canal Economía ¹ 🇦🇷
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="52" tvg-logo="https://cdn.m3u.cl/logo/1356_El_Histonauta_TV.png" group-title="Educativos",El Histonauta TV ¹ 🇦🇷
-https://stmv6.voxtvhd.com.br/elhistonautatv/elhistonautatv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://academiajoven.es/wp-content/uploads/2020/09/xataka.png" group-title="Educativos",Xataka TV ¹ 🇪🇸
 https://wbd-xat.otteravision.com/wbd/xat/xat.m3u8
 
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://image.roku.com/developer_channels/prod/2ee8ed69266a33986437dd4fea6fc49cd2ebf61ac54c1a230ee6ce65eacba267.png" group-title="Educativos",Hiper TV ¹ 🇨🇱
-https://service.cdn-stream.com/chf-cdn/hiper_tv/playlist.m3u8
+https://hipertvserver.cl/hls/live/main/index.m3u8
 
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://www.talent-republic.tv/wp-content/uploads/2021/12/plataforma-de-educacion-en-linea.jpg" group-title="Educativos",Platzi TV ¹ 🇨🇱
 https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream/5c5c9bd24eedd524d6a1a8bf/playout/master.m3u8?aid=512e13acaca1ebcd2f000279&pid=qL8kPMyeCWsH1lj1FbMZz8vdXepvWOBQ&sid=vRrt2PVwsUuVr00IKna9HcKb4IgqSwqG&uid=utMBuOxEohxCNnBgXhT4m50ZuZKe2BFj&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1760077587990&ot=9FuJ4fpPajVgQX7ix8EVBw&proto=https&pz=us
 
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://fmh.la/images/logos_slider/slider_atlas.png" group-title="Educativos",FMH Atlas ² 🇨🇱
-http://190.60.49.242:4000/play/a089/index.m3u8
+http://45.172.92.111:8000/play/a033/index.m3u8
 
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/5e2b31c99b97574a06696454a5ada922_ODISEA%202.png" group-title="Educativos",Odisea 🇪🇸
 http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/126277.ts
