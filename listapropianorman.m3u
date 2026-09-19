@@ -580,17 +580,9 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Rakuten_Viki_2022.svg/500px-Rakuten_Viki_2022.svg.png" group-title="24/7 Novelas",Rakuten Viki ¹
 https://b8ee598f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX1Jha3V0ZW5WaWtpX0hMUw/manifest.m3u8
 
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="Cine Latinos",Ciudad Magazine 🇦🇷
-http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/3550.ts
-
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://www.promendoza.com/wp-content/uploads/2018/06/cine-2-750x390.jpg" group-title="Cine Latinos",Cine Ar ° 🇦🇷
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278753.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://play-lh.googleusercontent.com/OdWhvPhBs4DfqmC_0TgmlZELLX_8UHlmXqOWOvYMIVLsEncE2tRPHI-2xUiAbJRxJVtg=s75-rw" group-title="Cine Latinos",Neo TV ¹ 🇦🇷
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-5-Tigre-Tv-en-vivo-Online.png?resize=1068%2C601&ssl=1" group-title="Cine Latinos",Cinco TV ¹ 🇦🇷
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Cine Latinos",Cosmos TV ¹ 🇦🇷
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
@@ -601,68 +593,56 @@ https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://imagenuniversaltv.com/wp-content/uploads/2024/06/Logo-imagen-Universal-Horizontal.png" group-title="Cine Latinos",Imagen Universal TV ¹ 🇩🇴
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://www.telemas.tv/wp-content/uploads/2025/03/logo_v6.png" group-title="Cine Latinos",Telemas + 🇭🇳
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/2397.ts
-
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://megatvjaen.pe/wp-content/uploads/2022/12/cropped-megajaen.png" group-title="Cine Latinos",Mega Tv Jaen ¹ 🇵🇪
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Cine Latinos",Tv Show ¹ 🇧🇴
-http://tv.istbolivia.com:1935/tvshow/tvshow/.m3u8
-
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Cine Latinos",Mix Bolivia TV ¹ 🇧🇴
-https://live21.bozztv.com/akamaissh101/ssh101/mixboliviatvhd/playlist.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Cine Latinos",Coral TV ¹ 🇧🇴
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
-
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://playmax.tv/wp-content/uploads/2023/01/planettva.png" group-title="Cine Latinos", Planeta TV ¹ 🇵🇪
-https://live.obslivestream.com/planetatv/index.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="Cine Latinos",Canal 57 Florida ¹ 🇺🇸
 https://stream-167790.castr.net/6189746bccf0424c112f5476/live_109148e0970a11f1ad071d31717a2cac/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/vegavision-canal-18.jpg" group-title="Cine Latinos",Vegavisión Canal 18 ¹ 🇩🇴 
-https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://image.roku.com/developer_channels/prod/9f0ee388e53f0044a9db9d0dcb35b64bceab0c0e6b5055935ae2aa14e1888c82.png" group-title="Cine Latinos",Mega Cine TV ¹ 🇩🇴 
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/10microvision.png?zoom=3&resize=100%2C70&ssl=1" group-title="Cine Latinos",Microvisión ¹ 🇩🇴
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://satelcanal4.com/wp-content/uploads/2023/08/SATEL-LOGO-1-1024x652.png" group-title="Cine Latinos",Satel Canal 4 ¹ 🇨🇴
-https://server.asilivehd.com:3802/live/canal4live.m3u8
+https://server.asilivehd.com/live/canal4tv.m3u8
 
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/sdc7e563fe2c22eb3/image/ic7948e803b4ee638/version/1757731738/image.jpg" group-title="Cine Latinos",Canal Punto 99 Retro TV 🇩🇴
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://www.promendoza.com/wp-content/uploads/2018/06/cine-2-750x390.jpg" group-title="Cine Latinos",Cine Ar ² 🇦🇷
+http://45.239.31.254:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/sdc7e563fe2c22eb3/image/ic7948e803b4ee638/version/1757731738/image.jpg" group-title="Cine Latinos",Canal Punto 99 Retro TV ¹ 🇩🇴
 https://v4.tustreaming.cl/canalpunto99/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://static.wixstatic.com/media/2c880e_0ac2f3f7dd3e49058db44f507e4690b6~mv2.png/v1/fill/w_360,h_88,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/inbig%20retro%20tv.png" group-title="Cine Latinos",The Big Retro TV ¹ 🇦🇷
 https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/2006_Magic_Kids_logo.png" group-title="Cine Latinos",Canal Magic Kids ¹ 🇦🇷
-https://magicstream.ddns.net/magicstream/stream.m3u8
+https://183.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/8.jpg" group-title="Cine Latinos",Retro Cartoons ¹ 🇦🇷
 https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/35-1.jpg" group-title="Cine Latinos",Canal Oli TV ¹ 🇦🇷
-https://v4.tustreaming.cl/retroplaytv/index.m3u8
-
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://cineramatv.com/wp-content/uploads/2024/10/sin-fondo.png" group-title="Cine Latinos",Cinerama TV ¹ 🇧🇴
-https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8?cachebust=7e749c
+https://cineramatvbo.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/39.jpg" group-title="Cine Latinos",Teleclasica ¹ 🇦🇷
-https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/15-1.jpg" group-title="Cine Latinos",Telecinco Trelew ¹ 🇦🇷
-https://videohd.live:19360/8016/8016.m3u8
+https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://i.postimg.cc/brrsGL5r/kandela.jpg" group-title="Cine Latinos",Kandela TV ¹ 🇻🇪
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://i.postimg.cc/j5zxhCKm/rocket2.jpg" group-title="Cine Latinos",Rocket TV ¹ 🇨🇱
-https://live20.bozztv.com/giatv/giatv-rocket/rocket/playlist.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6a5425184d4ed.jpg" group-title="Cine Latinos",Ciudad Mágica TV ¹ 🇦🇷
+https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/28.jpg" group-title="Cine Latinos",Multivisión Televisión Digital ¹ 🇦🇷
 https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
