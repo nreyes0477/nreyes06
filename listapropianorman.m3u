@@ -539,13 +539,13 @@ https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBC43000013T
 
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a3bd552eca6645942a60a053fe61fafb.webp" group-title="24/7 Novelas",Sony Novelas ¹ 🇲🇽 
-https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneNovelas/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://ipuntotv.com/IMAGES/TNT-Novelas-logo-nuevo.jpg" group-title="24/7 Novelas",TNT Novelas ² 🇲🇽 
 http://190.93.224.42/TNT-NOVELAS/index.m3u8
 
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png" group-title="24/7 Novelas",Azteca Corazón ² 🇲🇽 
-http://168.232.168.242:9999/play/a01q/index.m3u8
+http://45.189.151.7:8000/play/a05g
 
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="24/7 Novelas",TLN Univisión ² 🇺🇸
 http://200.115.120.1:8000/play/ca110/index.m3u8
@@ -565,8 +565,8 @@ http://45.171.64.30:8800/play/a05c
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://1.bp.blogspot.com/-jslL1CIeqqk/YaVCAmvGxvI/AAAAAAAADDo/wPaGYipC7Eo_6NVRuL0XESV1lzjq6xhLgCLcBGAsYHQ/s16000/rcnmas.jpg" group-title="24/7 Novelas",RCN Más + ¹ 🇨🇴
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="100" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXjJn9sSNrZSuqtwTm5DGor-M4uLoIrwfjh7yn22xVG9bl4mJw1rK2gY-wehuSSirTbgN6uEQHdFUn1Giq__TPYaj1USXHSmowkGcq89eGeW14s0uj3VjYje6egHRB5B0NVTB_bwwDg6TxRYv0NjxOEwDUwCbf5nRVcmZV6qN4NJd-J83LOFM-zvuI/w200-h151/RCN_Novelas_logo_2019.png" group-title="24/7 Novelas",RCN Novelas ² 🇨🇴
-http://45.171.64.30:8800/play/a08d
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXjJn9sSNrZSuqtwTm5DGor-M4uLoIrwfjh7yn22xVG9bl4mJw1rK2gY-wehuSSirTbgN6uEQHdFUn1Giq__TPYaj1USXHSmowkGcq89eGeW14s0uj3VjYje6egHRB5B0NVTB_bwwDg6TxRYv0NjxOEwDUwCbf5nRVcmZV6qN4NJd-J83LOFM-zvuI/w200-h151/RCN_Novelas_logo_2019.png" group-title="24/7 Novelas",RCN Novelas ¹ 🇨🇴
+https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://i4.hurimg.com/i/hurriyet/75/600x338/5dbd043ed3806c1dec53824d.jpg" group-title="24/7 Novelas",Kanal Drama ¹ 🇹🇷
 https://amg01602-amg01602c2-canelatv-international-5561.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-themavivekanalddrama-canelatvinternational/playlist.m3u8?rights_holder_id=vive-kanal-d-drama&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=0e5adb91-3380-43f4-afa6-574df288f505&url=https://www.canela.tv/player/channel/vive-kanal-d-drama&us_privacy=null_us_privacy&coppa=0&ifa_type=NA&lmt=NA&device_language=es
@@ -575,13 +575,13 @@ https://amg01602-amg01602c2-canelatv-international-5561.playouts.now.amagi.tv/pl
 https://amg00658-amg00658c102-canelatv-international-7231.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelasturcas-canelatvinternational/playlist.m3u8?rights_holder_id=novelas-turcas&user_id=&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=0e7a5e4a-779f-4c37-abbd-b5cf77b4407c&url=https://canela.tv/player/channel/novelas-turcas&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
 
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/nova-en-directo-online-y-en-vivo.png" group-title="24/7 Novelas",Nova 🇪🇸
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147178&extension=ts
+http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/126237.ts
 
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://nov.vod.immergo.tv/nov/uploaded/0d553227-72ef-48e6-8f95-4917622782a7.png" group-title="24/7 Novelas",Novelisima ¹ 🇻🇪
 https://amg00658-amg00658c60-canelatv-international-5442.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00658-canelamediafast-novelisimaappta-canelatvinternational/playlist.m3u8?app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&content_livestream=1&coppa=0&device_language=es&did=02e27c44-b3ec-4523-9c12-e9b90380087a&dnt=0&ic=IAB1-7&ifa_type=NA&lmt=NA&rights_holder_id=novelisima&url=https%3A%2F%2Fwww.canela.tv%2Fplayer%2Fchannel%2Fnovelisima&us_privacy=null_us_privacy&user_id=
 
-#EXTINF:-1 tvg-chno="100" tvg-logo="https://tivify.tv/static/img/tivify/tivify-logo.png" group-title="24/7 Novelas",Tivify ¹ 🇪🇸
-https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://wiki2023.mundoplus.tv/_media/logos/mundoseries.png" group-title="24/7 Novelas",Mundo Series ¹ 🇪🇸
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
 
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Rakuten_Viki_2022.svg/500px-Rakuten_Viki_2022.svg.png" group-title="24/7 Novelas",Rakuten Viki ¹
 https://b8ee598f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX1Jha3V0ZW5WaWtpX0hMUw/manifest.m3u8
