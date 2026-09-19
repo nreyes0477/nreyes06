@@ -677,7 +677,7 @@ https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3
 https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/30.jpg" group-title="Cine Latinos",Megacine ¹ 🇦🇷
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png" group-title="Cine Latinos",Dreiko TV ¹ 🇵🇦 
 https://cloudvideo.servers10.com:8081/8020/index.m3u8
