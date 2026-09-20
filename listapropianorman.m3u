@@ -6,8 +6,8 @@ http://38.210.3.64:8090/play/A01E
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="🥊 🆄🅵🅲 🥊",UFC (EN VIVO) 
 http://weibplus.is:80/live/ArguedasJuan34/VCp8GFFeJ5/1722053.ts
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="🥊 🆄🅵🅲 🥊",UFC (EN VIVO)* ¹ 
-
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="🥊 🆄🅵🅲 🥊",UFC (EN VIVO)
+http://weibplus.is:80/live/ArguedasJuan34/VCp8GFFeJ5/1722267.ts
 
 
 
