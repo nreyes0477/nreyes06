@@ -3,11 +3,11 @@
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="🥊 🆄🅵🅲 🥊",UFC ²
 http://38.210.3.64:8090/play/A01E
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="🥊 🆄🅵🅲 🥊",UFC (EN VIVO) 
-http://weibplus.is:80/live/ArguedasJuan34/VCp8GFFeJ5/1722053.ts
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="🥊 🆄🅵🅲 🥊",UFC (EN VIVO) ¹
+https://93.domhsd.com/global/paramount1/index.m3u8?token=c9ff5ebd0e01eb15cab8994e04e467f922e64781-d1-1789913430-1789859430&ip=186.64.180.22
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="🥊 🆄🅵🅲 🥊",UFC (EN VIVO)
-http://weibplus.is:80/live/ArguedasJuan34/VCp8GFFeJ5/1722267.ts
+http://weibplus.is:80/live/ArguedasJuan34/VCp8GFFeJ5/1722053.ts
 
 
 
