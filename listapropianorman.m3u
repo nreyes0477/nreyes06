@@ -1255,20 +1255,20 @@ http://00322.xyz:8000/streaming/clients_live.php?username=jieseialberto&password
 #EXTINF:-1 tvg-chno="384" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/06/telecentro.png?zoom=3&resize=100%2C70&ssl=1" group-title="República Dominicana",Telecentro ² 🇩🇴
 http://190.122.104.210:5080/LiveApp/streams/tcentro.m3u8
 
-#EXTINF:-1 tvg-chno="385" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/canal-4-montecarlo-en-vivo.png?zoom=3&resize=100%2C70&ssl=1" group-title="Uruguay",Canal 4 ° 🇺🇾
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278794.m3u8
+#EXTINF:-1 tvg-chno="385" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/canal-4-montecarlo-en-vivo.png?zoom=3&resize=100%2C70&ssl=1" group-title="Uruguay",Canal 4 🇺🇾
+http://weibplus.is:80/live/ArguedasJuan34/VCp8GFFeJ5/198264.ts
 
-#EXTINF:-1 tvg-chno="386" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/08/Canal-5-Uruguay-en-vivo-Online.png?resize=1068%2C601&ssl=1" group-title="Uruguay",Canal 5 ° 🇺🇾
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278796.m3u8
+#EXTINF:-1 tvg-chno="386" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/08/Canal-5-Uruguay-en-vivo-Online.png?resize=1068%2C601&ssl=1" group-title="Uruguay",Canal 5 🇺🇾
+http://weibplus.is:80/live/ArguedasJuan34/VCp8GFFeJ5/198265.ts
 
-#EXTINF:-1 tvg-chno="387" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/canal-7-punta-del-este-2.png?w=800&ssl=1" group-title="Uruguay",Canal 7 ° 🇺🇾
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278797.m3u8
+#EXTINF:-1 tvg-chno="387" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/canal-7-punta-del-este-2.png?w=800&ssl=1" group-title="Uruguay",Canal 7 🇺🇾
+http://weibplus.is:80/live/ArguedasJuan34/VCp8GFFeJ5/198289.ts
 
 #EXTINF:-1 tvg-chno="388" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png?zoom=3&resize=100%2C70&ssl=1" group-title="Uruguay",Canal 10 🇺🇾
-http://superxlatino.com:8880/streaming/clients_live.php?username=meyfgdbnah&password=DCQHPQjTYhm4&stream=385086&extension=ts
+http://weibplus.is:80/live/ArguedasJuan34/VCp8GFFeJ5/198272.ts
 
 #EXTINF:-1 tvg-chno="389" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/Teledoce-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Uruguay",Teledoce 🇺🇾
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=3817&extension=ts
+http://weibplus.is:80/live/ArguedasJuan34/VCp8GFFeJ5/198274.ts
 
 #EXTINF:-1 tvg-chno="390" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Venevision-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Venezuela",Venevisión ² 🇻🇪
 http://200.59.191.177:8000/play/a0li/index.m3u8
