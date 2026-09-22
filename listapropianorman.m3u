@@ -670,9 +670,6 @@ https://tv.mediacp.eu:8081/coraltv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="Cine Latinos",Canal 57 Florida ¹ 🇺🇸
 https://stream-167790.castr.net/6189746bccf0424c112f5476/live_109148e0970a11f1ad071d31717a2cac/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/vegavision-canal-18.jpg" group-title="Cine Latinos",Vegavisión Canal 18 ¹ 🇩🇴 
-https://cdnfox.hostlagarto.com/canal26/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://image.roku.com/developer_channels/prod/9f0ee388e53f0044a9db9d0dcb35b64bceab0c0e6b5055935ae2aa14e1888c82.png" group-title="Cine Latinos",Mega Cine TV ¹ 🇩🇴 
 https://lbgo.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
 
@@ -682,8 +679,26 @@ https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://satelcanal4.com/wp-content/uploads/2023/08/SATEL-LOGO-1-1024x652.png" group-title="Cine Latinos",Satel Canal 4 ¹ 🇨🇴
 https://server.asilivehd.com/live/canal4tv.m3u8
 
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/30.jpg" group-title="Cine Latinos",Megacine ¹ 🇦🇷
+https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/29.jpg" group-title="Cine Latinos",Videoclub TV ¹ 🇦🇷
+https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
+
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6a5425184d4ed.jpg" group-title="Cine Latinos",Ciudad Mágica TV ¹ 🇦🇷
+https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
+
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://www.promendoza.com/wp-content/uploads/2018/06/cine-2-750x390.jpg" group-title="Cine Latinos",Cine Ar ² 🇦🇷
 http://45.239.31.254:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://cineramatv.com/wp-content/uploads/2024/10/sin-fondo.png" group-title="Cine Latinos",Cinerama TV ¹ 🇧🇴
+https://cineramatvbo.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://i.postimg.cc/brrsGL5r/kandela.jpg" group-title="Cine Latinos",Kandela TV ¹ 🇻🇪
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/28.jpg" group-title="Cine Latinos",Multivisión Televisión Digital ¹ 🇦🇷
+https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/sdc7e563fe2c22eb3/image/ic7948e803b4ee638/version/1757731738/image.jpg" group-title="Cine Latinos",Canal Punto 99 Retro TV ¹ 🇩🇴
 https://v4.tustreaming.cl/canalpunto99/tracks-v1a1/mono.ts.m3u8
@@ -691,38 +706,22 @@ https://v4.tustreaming.cl/canalpunto99/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://static.wixstatic.com/media/2c880e_0ac2f3f7dd3e49058db44f507e4690b6~mv2.png/v1/fill/w_360,h_88,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/inbig%20retro%20tv.png" group-title="Cine Latinos",The Big Retro TV ¹ 🇦🇷
 https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/2006_Magic_Kids_logo.png" group-title="Cine Latinos",Canal Magic Kids ¹ 🇦🇷
-https://183.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/8.jpg" group-title="Cine Latinos",Retro Cartoons ¹ 🇦🇷
-https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://cineramatv.com/wp-content/uploads/2024/10/sin-fondo.png" group-title="Cine Latinos",Cinerama TV ¹ 🇧🇴
-https://cineramatvbo.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/39.jpg" group-title="Cine Latinos",Teleclasica ¹ 🇦🇷
 https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://i.postimg.cc/brrsGL5r/kandela.jpg" group-title="Cine Latinos",Kandela TV ¹ 🇻🇪
-https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
-
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6a5425184d4ed.jpg" group-title="Cine Latinos",Ciudad Mágica TV ¹ 🇦🇷
-https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
-
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/28.jpg" group-title="Cine Latinos",Multivisión Televisión Digital ¹ 🇦🇷
-https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
-
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/29.jpg" group-title="Cine Latinos",Videoclub TV ¹ 🇦🇷
-https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
-
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/30.jpg" group-title="Cine Latinos",Megacine ¹ 🇦🇷
-https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png" group-title="Cine Latinos",Dreiko TV ¹ 🇵🇦 
 https://cloudvideo.servers10.com:8081/8020/index.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://static.wixstatic.com/media/3ebf2e_6c71f9a7aa66459ea6140c872c515467~mv2.png/v1/crop/x_21,y_41,w_1259,h_566/fill/w_244,h_110,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20letras%203d.png" group-title="Cine Latinos",Retro Mágico ¹ 🇦🇷
 https://live20.bozztv.com/akamaissh101/ssh101/retromagicocnl/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/2006_Magic_Kids_logo.png" group-title="Cine Latinos",Canal Magic Kids ¹ 🇦🇷
+https://183.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/8.jpg" group-title="Cine Latinos",Retro Cartoons ¹ 🇦🇷
+https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8
+
+
 
 EXTINF:-1 tvg-chno="110" tvg-logo="https://babyfirsttv.com/wp-content/uploads/2024/03/babyfirst_logo_2022-1536x303.png" group-title="Infantiles",Baby Firts ¹ 🇺🇸
 https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijc1M2FiNGVlLTc4NjktNDE2Yy05ZjI2LWIxYWYxNjU4YjAyNiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzc3NTI2ODQ4LCJpYXQiOjE3Nzc0NDA0NDgsImp0aSI6IjFjYzY3NWZiLWZkNjMtNGVlYS04YjkwLTdhYTJiMGYwNzI3MiJ9.YZgsIIznqhJqk6fzCMz3MDvy9SItMK16ar6k2jdV_s8
