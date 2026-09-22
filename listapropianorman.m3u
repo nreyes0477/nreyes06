@@ -721,6 +721,10 @@ https://183.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/8.jpg" group-title="Cine Latinos",Retro Cartoons ¹ 🇦🇷
 https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://lovetvchannels.com/wp-content/uploads/2025/04/Trailers_circle.png" group-title="Cine Latinos",Tráilers TV 🇪🇸
+https://bit.ly/3WChqoj?ESBC1700004PX.m3u8
+
+
 
 
 EXTINF:-1 tvg-chno="110" tvg-logo="https://babyfirsttv.com/wp-content/uploads/2024/03/babyfirst_logo_2022-1536x303.png" group-title="Infantiles",Baby Firts ¹ 🇺🇸
@@ -2344,10 +2348,6 @@ http://go.iptvhn.net:25461/live/7789/7789/62.m3u8
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-chno="799" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/trailertv.png" group-title="Cine Latinos",Tráilers TV 🇪🇸
-https://bit.ly/3WChqoj?ESBC1700004PX.m3u8
-
-
 #EXTINF:-1 tvg-chno="800" tvg-logo="https://images.mediotiempo.com/LHJ53bTlIOP881-ROMSPccGCZVA=/345x194/uploads/media/2026/08/05/inicia-granja-vip-conoce-fecha.jpg" group-title="Reality",La Granja Vip (Cam1) 🇲🇽
 http://ak-47scan.dyndns.tv:25461/streaming/clients_live.php?username=Alberto123&password=Alberto123&stream=638882&extension=ts
 
@@ -2390,20 +2390,7 @@ http://ak-47scan.dyndns.tv:25461/streaming/clients_live.php?username=Alberto123&
 #EXTINF:-1 tvg-chno="800" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/La_casa_de_los_famosos_M%C3%A9xico_season_4_title_card.jpg" group-title="Reality",LCDLF Multicámaras 🇲🇽
 http://ak-47scan.dyndns.tv:25461/streaming/clients_live.php?username=Alberto123&password=Alberto123&stream=525649&extension=ts
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://media.a24.com/p/6241bf1dc020e133bf8677878c5f1f40/adjuntos/296/imagenes/009/671/0009671653/533x300/smart/gran-hermano-generacion-dorada.jpg" group-title="Reality",Gran Hermano AR (Multi) 🇦🇷
-http://ak-47scan.dyndns.tv:25461/streaming/clients_live.php?username=Alberto123&password=Alberto123&stream=604989&extension=ts
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://media.a24.com/p/6241bf1dc020e133bf8677878c5f1f40/adjuntos/296/imagenes/009/671/0009671653/533x300/smart/gran-hermano-generacion-dorada.jpg" group-title="Reality",Gran Hermano AR (24/7) 🇦🇷
-http://ak-47scan.dyndns.tv:25461/streaming/clients_live.php?username=Alberto123&password=Alberto123&stream=604986&extension=ts
-
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://media.a24.com/p/6241bf1dc020e133bf8677878c5f1f40/adjuntos/296/imagenes/009/671/0009671653/533x300/smart/gran-hermano-generacion-dorada.jpg" group-title="Reality",Gran Hermano AR (Cam1) 🇦🇷
-http://ak-47scan.dyndns.tv:25461/streaming/clients_live.php?username=Alberto123&password=Alberto123&stream=604987&extension=ts
-
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://media.a24.com/p/6241bf1dc020e133bf8677878c5f1f40/adjuntos/296/imagenes/009/671/0009671653/533x300/smart/gran-hermano-generacion-dorada.jpg" group-title="Reality",Gran Hermano AR (Cam2) 🇦🇷
-http://ak-47scan.dyndns.tv:25461/streaming/clients_live.php?username=Alberto123&password=Alberto123&stream=604984&extension=ts
-
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://media.a24.com/p/6241bf1dc020e133bf8677878c5f1f40/adjuntos/296/imagenes/009/671/0009671653/533x300/smart/gran-hermano-generacion-dorada.jpg" group-title="Reality",Gran Hermano AR (Cam3) 🇦🇷
-http://ak-47scan.dyndns.tv:25461/streaming/clients_live.php?username=Alberto123&password=Alberto123&stream=604990&extension=ts
 
 #EXTINF:-1 tvg-chno="900" tvg-logo="https://cdn.instant.audio/images/logos/radios-co-cr/radio-monumental.png" group-title="Radios",Radio Monumental 📻 (Solo Audio)
 https://d26gdpbozqq700.cloudfront.net/ts:abr.m3u8
