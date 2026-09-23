@@ -195,7 +195,7 @@ https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://img1.wsimg.com/isteam/ip/0b6749a7-4d1f-4663-98a6-82c3788efdcb/RETROX%20TV%20LOGO%20PNG.png" group-title="Nacionales",Retrox TV ¹ 🇨🇷
-https://stream-retroxtv.site/live/ofertasplustv.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/erinaca/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://image.roku.com/developer_channels/prod/57ab74c4faa79c70ed4ac4a5e84e17dc731fbded16d330e3bf320a4613a9f5e6.png" group-title="Nacionales",Retro Tv Palmares ¹ 🇨🇷
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/playlist.m3u8
@@ -344,6 +344,9 @@ https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream/5c5c9bd24eedd524d6a1a8bf/playo
 
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://fmh.la/images/logos_slider/slider_atlas.png" group-title="Educativos",FMH Atlas ² 🇨🇱
 http://45.172.92.111:8000/play/a033/index.m3u8
+
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://wow-iptv.com/images/WOWCHANNEL.png" group-title="Educativos",WOW Documentary
+https://lbgo.bozztv.com/ssh101/ssh101/wowdocumentary/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/5e2b31c99b97574a06696454a5ada922_ODISEA%202.png" group-title="Educativos",Odisea 🇪🇸
 http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/126277.ts
@@ -595,7 +598,7 @@ https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://imagenuniversaltv.com/wp-content/uploads/2024/06/Logo-imagen-Universal-Horizontal.png" group-title="Cine Latinos",Imagen Universal TV ¹ 🇩🇴
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Cine Latinos",WOW Movies ¹
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://iptv.wow-iptv.com/img/logo/WOWmovies.png" group-title="Cine Latinos",WOW Movies ¹
 https://lbgo.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Cine Latinos",Avi Cine ²
@@ -640,8 +643,11 @@ https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Cine Latinos",Orbit TV ¹
 https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Cine Latinos",Ent Channel ¹
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://www.40mediagroup.com/images/channels/ent-channel.png" group-title="Cine Latinos",Ent Channel ¹ 🇦🇷
 https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://www.40mediagroup.com/images/channels/ent-family.png" group-title="Cine Latinos",Ent Family ¹ 🇦🇷
+https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Cine Latinos",FM TV ¹
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
@@ -657,6 +663,12 @@ https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Cine Latinos",Guayape TV ¹
 https://tv.bitstreaming.net:8443/live/guayapetv.m3u8
+
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Cine Latinos",Chinola TV ¹
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Cine Latinos",Moni TV ¹
+https://lbgo.bozztv.com/ssh101/ssh101/monitvhd/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://megatvjaen.pe/wp-content/uploads/2022/12/cropped-megajaen.png" group-title="Cine Latinos",Mega Tv Jaen ¹ 🇵🇪
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
@@ -685,20 +697,32 @@ https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/29.jpg" group-title="Cine Latinos",Videoclub TV ¹ 🇦🇷
 https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Cine Latinos",Mi Turno TV ¹
+https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
+
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Cine Latinos",Canal Más ¹ 🇺🇾
+https://tv.canalmasuruguay.com/hls/canalmas.m3u8
+
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Cine Latinos",Pop Corn Central ¹ 
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
+
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6a5425184d4ed.jpg" group-title="Cine Latinos",Ciudad Mágica TV ¹ 🇦🇷
 https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://www.promendoza.com/wp-content/uploads/2018/06/cine-2-750x390.jpg" group-title="Cine Latinos",Cine Ar ² 🇦🇷
 http://45.239.31.254:8000/play/a00g/index.m3u8
 
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://cineramatv.com/wp-content/uploads/2024/10/sin-fondo.png" group-title="Cine Latinos",Cinerama TV ¹ 🇧🇴
-https://cineramatvbo.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://i.postimg.cc/brrsGL5r/kandela.jpg" group-title="Cine Latinos",Kandela TV ¹ 🇻🇪
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/28.jpg" group-title="Cine Latinos",Multivisión Televisión Digital ¹ 🇦🇷
 https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
+
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Cine Latinos",TVS Retro ¹
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Cine Latinos",Retro Plus ¹ 🇨🇱
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/sdc7e563fe2c22eb3/image/ic7948e803b4ee638/version/1757731738/image.jpg" group-title="Cine Latinos",Canal Punto 99 Retro TV ¹ 🇩🇴
 https://v4.tustreaming.cl/canalpunto99/tracks-v1a1/mono.ts.m3u8
@@ -709,8 +733,23 @@ https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/playlist.m3u8
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/39.jpg" group-title="Cine Latinos",Teleclasica ¹ 🇦🇷
 https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6a5425184d4ed.jpg" group-title="Cine Latinos",Mi TV Televisión Clásica ¹
+https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Cine Latinos",Latino Classis TV ¹
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4d419a88-a62c-496f-b8a1-984e746f8259/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Cine Latinos",Cine Wéstern ¹
+https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
+
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png" group-title="Cine Latinos",Dreiko TV ¹ 🇵🇦 
 https://cloudvideo.servers10.com:8081/8020/index.m3u8
+
+#EXTINF:-1 tvg-chno="105" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="Cine Latinos",Locomotion ¹
+http://146.19.49.197:81/live/loco_hi/index.m3u8
+
+#EXTINF:-1 tvg-chno="105" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Cine Latinos",Memorias Toons ²
+http://190.60.39.221:8000/play/a026
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://static.wixstatic.com/media/3ebf2e_6c71f9a7aa66459ea6140c872c515467~mv2.png/v1/crop/x_21,y_41,w_1259,h_566/fill/w_244,h_110,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20letras%203d.png" group-title="Cine Latinos",Retro Mágico ¹ 🇦🇷
 https://live20.bozztv.com/akamaissh101/ssh101/retromagicocnl/playlist.m3u8
