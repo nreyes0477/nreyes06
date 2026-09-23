@@ -63,7 +63,7 @@ https://liveingesta118.cdnmedia.tv/trivisionlive/rtmp01-900/chunklist.m3u8?DVR=
 http://velive.lat:8080/live/Nexp328737/29971731/83332.ts
 
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://image.roku.com/developer_channels/prod/15028c316a76bcd9408f730b04579257af5273595c5049db126ba4540b81a936.png" group-title="Nacionales",Canal 38 ¡Opa! ¹ 🇨🇷
-https://5fe2654d6127d.streamlock.net/genteopa/videogenteopa/chunklist_w1000136017.m3u8
+https://5fe2654d6127d.streamlock.net/genteopa/smil:genteopa.smil/playlist.m3u8?wowzatokenendtime=1790286696&wowzatokenhash=dCP6ITmHeWzCkMgQZ83kurx-TVOWeTlwWKNIBtan58I%3D
 
 #EXTINF:-1 tvg-chno="16" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/extra_tv-mediano.png" group-title="Nacionales",Extra Tv 42 ¹ 🇨🇷
 https://d2n1wzrr0aogf5.cloudfront.net/medialist_15609871089997455276_hls.m3u8
