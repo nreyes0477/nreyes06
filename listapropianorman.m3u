@@ -1075,8 +1075,8 @@ https://estrellatv-oando.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-chno="280" tvg-logo="https://img.onesignal.com/t/9386b748-b30f-4f48-946a-361ce4f6c8cc.jpg" group-title="EUA Latino",Mega TV 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=156070&extension=ts
 
-#EXTINF:-1 tvg-chno="281" tvg-logo="https://m.media-amazon.com/images/I/414KGfWaFbL.png" group-title="EUA Latino",Univisión ² 🇺🇸
-http://190.61.101.65:2025/play/a0pa
+#EXTINF:-1 tvg-chno="281" tvg-logo="https://m.media-amazon.com/images/I/414KGfWaFbL.png" group-title="EUA Latino",Univisión ² 🇺🇸 ✔️
+http://190.197.41.183/Univision/index.m3u8
 
 #EXTINF:-1 tvg-chno="281" tvg-logo="https://m.media-amazon.com/images/I/414KGfWaFbL.png" group-title="EUA Latino",Univisión 🇺🇸
 http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/67.ts
@@ -1372,7 +1372,7 @@ http://weibplus.is:80/live/ArguedasJuan34/VCp8GFFeJ5/198265.ts
 #EXTINF:-1 tvg-chno="387" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/canal-7-punta-del-este-2.png?w=800&ssl=1" group-title="Uruguay",Canal 7 🇺🇾
 http://weibplus.is:80/live/ArguedasJuan34/VCp8GFFeJ5/198289.ts
 
-#EXTINF:-1 tvg-chno="388" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png?zoom=3&resize=100%2C70&ssl=1" group-title="Uruguay",Canal 10 🇺🇾 *
+#EXTINF:-1 tvg-chno="388" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png?zoom=3&resize=100%2C70&ssl=1" group-title="Uruguay",Canal 10 🇺🇾
 http://weibplus.is:80/live/ArguedasJuan34/VCp8GFFeJ5/1715204.ts
 
 #EXTINF:-1 tvg-chno="389" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/11/Teledoce-en-vivo-Online.png?zoom=3&resize=100%2C70&ssl=1" group-title="Uruguay",Teledoce 🇺🇾
