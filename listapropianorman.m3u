@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="🥊 🆄🅵🅲 🥊",UFC ²
 http://38.210.3.64:8090/play/A01E
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="🥊 🆄🅵🅲 🥊",UFC (EN VIVO) ✔️
-http://velive.lat:8080/live/Nexp328737/29971731/372015.ts
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="🥊 🆄🅵🅲 🥊",UFC (EN VIVO) 
+
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="🥊 🆄🅵🅲 🥊",UFC (EN VIVO)
 
@@ -144,7 +144,7 @@ https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
 
 #EXTINF:-1 tvg-chno="42" tvg-logo="https://static.wixstatic.com/media/e9b9b7_356efe37d4cb4ea3aaf42fb3c975af40~mv2.png" group-title="Nacionales",Garabito TV ¹ 🇨🇷
-https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
+https://59ef525c24caa.streamlock.net/garabitotv/garabitotv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="43" tvg-logo="https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg" group-title="Nacionales",Canal Norte Informativo ¹ 🇨🇷
 https://videohd.live:19360/8076/8076.m3u8
