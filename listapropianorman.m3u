@@ -1078,7 +1078,7 @@ https://estrellatv-oando.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-chno="280" tvg-logo="https://img.onesignal.com/t/9386b748-b30f-4f48-946a-361ce4f6c8cc.jpg" group-title="EUA Latino",Mega TV 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=156070&extension=ts
 
-#EXTINF:-1 tvg-chno="281" tvg-logo="https://m.media-amazon.com/images/I/414KGfWaFbL.png" group-title="EUA Latino",Univisión ² 🇺🇸 ✔️
+#EXTINF:-1 tvg-chno="281" tvg-logo="https://m.media-amazon.com/images/I/414KGfWaFbL.png" group-title="EUA Latino",Univisión ² 🇺🇸 
 http://190.197.41.183/Univision/index.m3u8
 
 #EXTINF:-1 tvg-chno="281" tvg-logo="https://m.media-amazon.com/images/I/414KGfWaFbL.png" group-title="EUA Latino",Univisión 🇺🇸
@@ -1088,7 +1088,7 @@ http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/67.ts
 https://dmfxzlz63pfyh.cloudfront.net/10508/88886036/hls/master.m3u8?ads.xumo_channelId=88886036
 
 #EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo MI 🇺🇸 
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/2192.ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=1840&extension=ts
 
 #EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo ² 🇺🇸 
 http://168.228.44.241:9997/play/a07g/index.m3u8
@@ -1097,7 +1097,7 @@ http://168.228.44.241:9997/play/a07g/index.m3u8
 http://m3u.tvcluboficial.com/m/m/481.m3u8
 
 #EXTINF:-1 tvg-chno="293" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png" group-title="EUA Latino",Unimás 🇺🇸
-http://m3u.tvcluboficial.com/m/m/982.m3u8
+http://190.197.41.183/Unimas/index.m3u8
 
 #EXTINF:-1 tvg-chno="299" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/telemundo.jpg" group-title="EUA Latino",Telemundo Internacional ² 🇺🇸
 http://45.5.116.177:8015/play/a0gv/index.m3u8
@@ -1145,19 +1145,19 @@ http://168.232.168.242:9999/play/a08e/index.m3u8
 http://45.167.253.246:8010/play/a005/index.m3u8
 
 #EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno 🇲🇽
-http://go.iptvhn.net:25461/live/5794/57942022/2507.ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=2507&extension=ts
 
-#EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno -1hr 🇲🇽
-http://ak-47scan.dyndns.tv:25461/streaming/clients_live.php?username=ATPLUSEN&password=ysN8PGMW9LPe&stream=491843&extension=ts
+#EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno -1hr ¹ 🇲🇽
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 
 #EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno -2hr 🇲🇽
 http://ak-47scan.dyndns.tv:25461/streaming/clients_live.php?username=ATPLUSEN&password=ysN8PGMW9LPe&stream=89359&extension=ts
 
 #EXTINF:-1 tvg-chno="312" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="México",Azteca 7 ² 🇲🇽
-http://168.228.44.241:9998/play/a0cx/index.m3u8
+http://195.178.110.110/azteca7/index.m3u8
 
 #EXTINF:-1 tvg-chno="312" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="México",Azteca 7 🇲🇽
-http://ak-47scan.dyndns.tv:25461/streaming/clients_live.php?username=ATPLUSEN&password=ysN8PGMW9LPe&stream=491856&extension=ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=2331&extension=ts
 
 #EXTINF:-1 tvg-chno="313" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cka7s31743585052.png" group-title="México",Canal 5 ² 🇲🇽
 http://45.5.118.152:8000/play/a03i/index.m3u8
