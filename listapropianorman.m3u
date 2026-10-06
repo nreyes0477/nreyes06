@@ -1778,16 +1778,16 @@ http://190.61.90.17:40000/play/a0l5/index.m3u8
 http://190.61.90.17:40000/play/a0l4/index.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png" group-title="Cine y Películas",HBO Pop Sur ²
-http://209.61.83.84:9999/play/a0pc/index.m3u8
+http://45.188.229.33:8000/play/a139/index.m3u8
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png" group-title="Cine y Películas",HBO Signature Sur ²
-http://45.188.229.33:8000/play/a0x5/index.m3u8
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png" group-title="Cine y Películas",HBO Signature Sur
+http://weibplus.is:80/live/ArguedasJuan34/VCp8GFFeJ5/46163.ts
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png" group-title="Cine y Películas",HBO Xtreme Sur ²
-http://209.61.83.84:9999/play/a0n3/index.m3u8
+http://181.176.155.7:8090/play/a1fg/index.m3u8
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png" group-title="Cine y Películas",HBO Mundi Sur ²
-http://45.188.229.33:8000/play/a0x6/index.m3u8
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png" group-title="Cine y Películas",HBO Mundi Sur 
+http://weibplus.is:80/live/ArguedasJuan34/VCp8GFFeJ5/96205.ts
 
 #EXTINF:-1 tvg-chno="598" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="Cine y Películas",Universal Channel ²
 http://177.53.152.117:8000/play/a048/index.m3u8
