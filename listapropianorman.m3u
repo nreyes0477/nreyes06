@@ -1795,14 +1795,14 @@ http://177.53.152.117:8000/play/a048/index.m3u8
 #EXTINF:-1 tvg-chno="598" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="Cine y Películas",Universal Channel Diferido ²
 http://181.78.23.26:45000/play/a007
 
-#EXTINF:-1 tvg-chno="599" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644505043521-Imagen.jpg" group-title="Cine y Películas",Universal Cinema
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=2461&extension=ts
+#EXTINF:-1 tvg-chno="599" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644505043521-Imagen.jpg" group-title="Cine y Películas",Universal Cinema ²
+http://187.245.231.226:8000/play/a0q5/index.m3u8
 
-#EXTINF:-1 tvg-chno="599" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504904675-Imagen.jpg" group-title="Cine y Películas",Universal Comedy 
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=2462&extension=ts
+#EXTINF:-1 tvg-chno="599" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504904675-Imagen.jpg" group-title="Cine y Películas",Universal Comedy ²
+http://187.245.231.226:8000/play/a0ou/index.m3u8
 
-#EXTINF:-1 tvg-chno="599" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504857757-Imagen.jpg" group-title="Cine y Películas",Universal Crime 
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=2732&extension=ts
+#EXTINF:-1 tvg-chno="599" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504857757-Imagen.jpg" group-title="Cine y Películas",Universal Crime ²
+http://187.245.231.226:8000/play/a0ot/index.m3u8
 
 #EXTINF:-1 tvg-chno="599" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504463678-Imagen.jpg" group-title="Cine y Películas",Universal Premiere Este
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=3426&extension=ts
@@ -1810,8 +1810,8 @@ http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=579
 #EXTINF:-1 tvg-chno="599" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504463678-Imagen.jpg" group-title="Cine y Películas",Universal Premiere Oeste 
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=3374&extension=ts
 
-#EXTINF:-1 tvg-chno="599" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1646691382488-Imagen.jpg" group-title="Cine y Películas",Universal Reality
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=2733&extension=ts
+#EXTINF:-1 tvg-chno="599" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1646691382488-Imagen.jpg" group-title="Cine y Películas",Universal Reality ²
+http://187.245.231.226:8000/play/a0os/index.m3u8
 
 #EXTINF:-1 tvg-chno="600" tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes",Futv (1) ²
 http://45.5.118.152:8000/play/a063/index.m3u8
