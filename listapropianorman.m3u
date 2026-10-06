@@ -1768,8 +1768,8 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7472
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png" group-title="Cine y Películas",HBO Sur ²
 http://45.188.229.33:8000/play/a12r/index.m3u8
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" group-title="Cine y Películas",HBO 2 Sur ²
-http://45.188.229.33:8000/play/a1cz/index.m3u8
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" group-title="Cine y Películas",HBO 2 Sur
+http://weibplus.is:80/live/ArguedasJuan34/VCp8GFFeJ5/46149.ts
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png" group-title="Cine y Películas",HBO Family Sur ²
 http://190.61.90.17:40000/play/a0l5/index.m3u8
