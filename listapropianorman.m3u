@@ -1735,17 +1735,17 @@ http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=579
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png" group-title="Cine y Películas",HBO Plus Norte
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=1289&extension=ts
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png" group-title="Cine y Películas",HBO Pop Norte ²
-http://209.61.83.84:9999/play/a0pc/index.m3u8
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png" group-title="Cine y Películas",HBO Pop Norte
+http://ak-47scan.dyndns.tv:25461/live/ATPLUSEN/ysN8PGMW9LPe/72638.ts
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png" group-title="Cine y Películas",HBO Signature Norte 
-http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090660&extension=ts
+http://ak-47scan.dyndns.tv:25461/live/ATPLUSEN/ysN8PGMW9LPe/72639.ts
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png" group-title="Cine y Películas",HBO Xtreme Norte 
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=1290&extension=ts
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png" group-title="Cine y Películas",HBO Mundi Norte
-http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090688&extension=ts
+http://ak-47scan.dyndns.tv:25461/live/ATPLUSEN/ysN8PGMW9LPe/72640.ts
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://marcasur.com/archivos/revista/notas/45ee4663b4c7fc571d08589befaabe05.jpg" group-title="Cine y Películas",HBO Chile ²
 http://45.232.210.1:18000/play/a0b3/index.m3u8
