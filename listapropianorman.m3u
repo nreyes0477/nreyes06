@@ -1150,8 +1150,8 @@ http://45.167.253.246:8010/play/a005/index.m3u8
 #EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno 🇲🇽
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=2507&extension=ts
 
-#EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno -1hr ¹ 🇲🇽
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
+#EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno -1hr 🇲🇽
+http://ak-47scan.dyndns.tv:25461/streaming/clients_live.php?username=ATPLUSEN&password=ysN8PGMW9LPe&stream=491843&extension=ts
 
 #EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno -2hr 🇲🇽
 http://ak-47scan.dyndns.tv:25461/streaming/clients_live.php?username=ATPLUSEN&password=ysN8PGMW9LPe&stream=89359&extension=ts
