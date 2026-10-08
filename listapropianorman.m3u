@@ -1499,7 +1499,7 @@ http://177.53.152.117:8000/play/a04d/index.m3u8
 https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="501" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUkoI91Y4b_NUBoYD6-LXyNiARFKcRXyGp1EmVoNLXUPnYCJIRPswD8Pb_ioxfVwmaRgMF9CZfeuu6OM7ImjeiRRAHchr7Bu6gFQgSzXFp4qBgSI98m678iS86AXmHSiYp3w8Fi_8YGVC-MJ3-WxIhUaoWPLBAL3W9U_1ubAyzyiLsaSPmpXuiEKGMjNx/w640-h340-rw/maxresdefault.jpg" group-title="Cine y Películas",AMC Series ²
-http://45.167.2.138:8000/play/a0q5/index.m3u8
+http://45.182.22.53:8000/play/a07a/index.m3u8
 
 #EXTINF:-1 tvg-chno="502" tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png" group-title="Cine y Películas",AXN ²
 http://177.53.152.117:8000/play/a0f4/index.m3u8
@@ -1514,16 +1514,16 @@ http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/4807.ts
 http://177.53.152.117:8000/play/a06m/index.m3u8
 
 #EXTINF:-1 tvg-chno="512" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png" group-title="Cine y Películas",Golden Edge 
-http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/3647.ts
+http://superxlatino.com:8880/live/meyfgdbnah/DCQHPQjTYhm4/414509.ts
 
 #EXTINF:-1 tvg-chno="513" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png" group-title="Cine y Películas",Golden Plus 
-http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/3763.ts
+http://superxlatino.com:8880/live/meyfgdbnah/DCQHPQjTYhm4/414515.ts
 
-#EXTINF:-1 tvg-chno="514" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png" group-title="Cine y Películas",Golden Premier 
-http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/133789.ts
+#EXTINF:-1 tvg-chno="514" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png" group-title="Cine y Películas",Golden Premier ²
+http://132.255.210.69:8000/play/a065/index.m3u8
 
-#EXTINF:-1 tvg-chno="514" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png" group-title="Cine y Películas",Golden Premier 2
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/131.ts
+#EXTINF:-1 tvg-chno="514" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png" group-title="Cine y Películas",Golden Premier 2 ²
+http://132.255.210.69:8000/play/a06f/index.m3u8
 
 #EXTINF:-1 tvg-chno="517" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png" group-title="Cine y Películas",Paramount Network
 http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/2826.ts
