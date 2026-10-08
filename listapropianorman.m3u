@@ -1529,16 +1529,16 @@ http://132.255.210.69:8000/play/a06f/index.m3u8
 http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/2826.ts
 
 #EXTINF:-1 tvg-chno="518" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox_m.png" group-title="Cine y Películas",Star Channel ²
-http://38.44.109.41:8003/play/a012/index.m3u8
+http://181.78.12.119:16123/play/ch07/index.m3u8
 
 #EXTINF:-1 tvg-chno="519" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cine_sony-mediano.png" group-title="Cine y Películas",Cine Sony ²
-http://45.5.117.99:8000/play/a03s/index.m3u8
+http://181.78.14.26:4000/play/a077/index.m3u8
 
 #EXTINF:-1 tvg-chno="520" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png" group-title="Cine y Películas",Sony ²
 http://177.53.152.117:8000/play/a0f2/index.m3u8
 
 #EXTINF:-1 tvg-chno="521" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png" group-title="Cine y Películas",USA Channel 
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/615.m3u8
+http://181.78.14.26:4000/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-chno="522" tvg-logo="https://cdn.mitvstatic.com/channels/mx_space_m.png" group-title="Cine y Películas",Space ²
 http://177.53.152.117:8000/play/a0f6/index.m3u8
@@ -1556,7 +1556,7 @@ http://186.33.61.182:8000/play/a04q/index.m3u8
 http://45.5.117.99:8000/play/a04t/index.m3u8
 
 #EXTINF:-1 tvg-chno="523" tvg-logo="https://cdn.mitvstatic.com/channels/d2aff6e5-5f95-4a9d-9b35-bce8c258cff0_m.jpg" group-title="Cine y Películas",Films & Arts
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/134.m3u8
+http://181.119.215.61:8000/play/a0gs/index.m3u8?hls
 
 #EXTINF:-1 tvg-chno="523" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyDMiGIxyT06wAhQp1VWfsOYLcRfxA3c9J0nHMckHBXZoUc6K-4aP0VoDFo2qElB11D2UEuvfqDhQ31JBW35rtMQP-8iBhaOwttPNuaErMvjd8gKFoV79nwRo2zVkE08jsW9eHpDZoyLaB/s280/2016-22.jpg" group-title="Cine y Películas",Canal Pánico ™
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7478
