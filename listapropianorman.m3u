@@ -1235,13 +1235,10 @@ https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
 #EXTINF:-1 tvg-chno="338" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png" group-title="Panamá",Tv Max ² 🇵🇦
-http://181.78.8.199:8000/play/a0ij/index.m3u8
+http://181.78.121.15:8000/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-chno="341" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png" group-title="Panamá",TVN ² 🇵🇦
-http://181.78.8.199:8000/play/a0ik/index.m3u8
-
-#EXTINF:-1 tvg-chno="341" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png" group-title="Panamá",TVN 2 🇵🇦
-http://live.proyectoxpro.com:8080/streaming/clients_live.php?username=c4rlo5m3na&password=2697d4052ed4&stream=154375&extension=ts
+http://181.78.121.15:8000/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-chno="342" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/300px-Logo-telemetro.svg.png" group-title="Panamá",Telemetro ² 🇵🇦
 http://181.78.8.199:8000/play/a0ii/index.m3u8
