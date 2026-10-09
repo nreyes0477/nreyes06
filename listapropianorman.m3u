@@ -1429,14 +1429,17 @@ http://weibplus.is:80/live/ArguedasJuan34/VCp8GFFeJ5/79489.ts
 #EXTINF:-1 tvg-chno="414" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/500px-National_Geographic_Wild_logo.svg.png" group-title="Cultura y Entretenimiento",NatGeo Wild
 http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/2012.ts
 
-#EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png" group-title="Cultura y Entretenimiento",Animal Planet
+#EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png" group-title="Cultura y Entretenimiento",Animal Planet (1)
 http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/153674.ts
+
+#EXTINF:-1 tvg-chno="416" tvg-logo="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png" group-title="Cultura y Entretenimiento",Animal Planet (2)
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=1234&extension=ts
 
 #EXTINF:-1 tvg-chno="418" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png" group-title="Cultura y Entretenimiento",Home & Health ²
 http://181.78.8.199:8000/play/a071/index.m3u8
 
-#EXTINF:-1 tvg-chno="420" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/370px-TLC_Logo.svg.png" group-title="Cultura y Entretenimiento",TLC ²
-http://45.70.201.81:8000/play/a009/index.m3u8
+#EXTINF:-1 tvg-chno="420" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/370px-TLC_Logo.svg.png" group-title="Cultura y Entretenimiento",TLC 
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=1274&extension=ts
 
 #EXTINF:-1 tvg-chno="421" tvg-logo="https://mma.prnewswire.com/media/183866/discovery_en_espanol_logo.jpg?w=200" group-title="Cultura y Entretenimiento",Tu Discovery (US) ¹
 https://s9host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config12/playlist.m3u8?ads.cdnhost=s9host5.localnow.api.cms.amdvids.com&ads.playbackid=2B411E4B-58F1-47FD-84A5-C8CDB543A9D8&ads.n1=rule_id&ads.v1=31E67C91-301F-4DA0-997C-55E852CBE4CB-1752176430&ads.n3=qp_content_id&ads.v3=2B411E4B-58F1-47FD-84A5-C8CDB543A9D8&ads.n4=content_name&ads.v4=TuDiscovery&ads.n21=h&ads.v21=1080&ads.n22=app_name&ads.v22=&ads.n23=ua&ads.v23=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n24=content_custom_3_param&ads.v24=channel&ads.n25=channel_genre&ads.v25=En%20Espanol&ads.n26=content_livestream&ads.v26=1&ads.n27=did&ads.v27=&ads.n28=content_type&ads.v28=channel&ads.n29=w&ads.v29=1920&ads.n30=url&ads.v30=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n31=channel_name&ads.v31=TuDiscovery&ads.n32=channel_ext_id&ads.v32=&ads.n33=gpp_sid&ads.v33=&ads.n34=pos&ads.v34=midroll&ads.n35=channel_company_id&ads.v35=AMDP500559&ads.n36=channel_brand_id&ads.v36=AMDB013574&ads.n37=dnt&ads.v37=&ads.n38=app_bundle&ads.v38=&ads.n39=app_version&ads.v39=0.0.0&ads.n40=channel_title&ads.v40=TuDiscovery&ads.n41=us_privacy&ads.v41=1YNY&ads.n42=device_make&ads.v42=&ads.n43=cust_devicename&ads.v43=desktop_web&ads.n44=channel_id&ads.v44=2B411E4B-58F1-47FD-84A5-C8CDB543A9D8&ads.n45=ifa_type&ads.v45=&ads.n46=channel_corp&ads.v46=Warner%20Brothers%20Discovery&ads.n47=channel_rating&ads.v47=TV-PG&ads.n48=content_producer_name&ads.v48=Warner%20Brothers%20Discovery&ads.n49=content_custom_2_param&ads.v49=AMDB013574&ads.n50=content_custom_1_param&ads.v50=2B411E4B-58F1-47FD-84A5-C8CDB543A9D8&ads.n51=gpp&ads.v51=&ads.n52=app_store_url&ads.v52=&ads.n53=device_model&ads.v53=&ads.n54=content_provider&ads.v54=tudiscovery-de-wbtv-tudiscovery&ads.n55=channel_language&ads.v55=en&ads.n56=network_name&ads.v56=tudiscovery-de-wbtv-tudiscovery&ads.n57=ip&ads.v57=86.48.9.131&ads.n58=device_type&ads.v58=
@@ -1468,14 +1471,14 @@ http://181.78.8.199:8000/play/a0je/index.m3u8
 #EXTINF:-1 tvg-chno="427" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png" group-title="Cultura y Entretenimiento",Comedy Central 
 http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/2805.ts
 
-#EXTINF:-1 tvg-chno="431" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiU87VgwvgsVvkxsZ4Lhx-AbQplLVwmdwxh2MHwjv6-cfkKLfKdxanACuFwoZiE47JeJ3Y58FK9dj69nOTMsPOLf1BiBPx7g3TwMVy24NrF0Xpff9lT_xYE5cMlgbwF_jIaG1Lh40Lw4tuamw4q_RhSVypYoVRKkWcRaOEKjnS9MkpKAI_72Qkgw-hDziH/w640-h360-rw/adultswimtvlaint.jpg" group-title="Cultura y Entretenimiento",Adult Swim ¹
-https://streamer.metronethn.com/AdultSwim/index.m3u8
+#EXTINF:-1 tvg-chno="431" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiU87VgwvgsVvkxsZ4Lhx-AbQplLVwmdwxh2MHwjv6-cfkKLfKdxanACuFwoZiE47JeJ3Y58FK9dj69nOTMsPOLf1BiBPx7g3TwMVy24NrF0Xpff9lT_xYE5cMlgbwF_jIaG1Lh40Lw4tuamw4q_RhSVypYoVRKkWcRaOEKjnS9MkpKAI_72Qkgw-hDziH/w640-h360-rw/adultswimtvlaint.jpg" group-title="Cultura y Entretenimiento",Adult Swim
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=3400&extension=ts
 
-#EXTINF:-1 tvg-chno="432" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/350px-DistritoComediaLOGO2018.png" group-title="Cultura y Entretenimiento",Distrito Comedia ²
-http://190.11.225.124:5000/live/distrito_comedia_hd/playlist.m3u8
+#EXTINF:-1 tvg-chno="432" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/350px-DistritoComediaLOGO2018.png" group-title="Cultura y Entretenimiento",Distrito Comedia
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=1806&extension=ts
 
-#EXTINF:-1 tvg-chno="433" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sun_channel-mediano.png" group-title="Cultura y Entretenimiento",Sun Channel ²
-http://177.93.46.245:50000/play/a014/index.m3u8
+#EXTINF:-1 tvg-chno="433" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sun_channel-mediano.png" group-title="Cultura y Entretenimiento",Sun Channel 
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=2355&extension=ts
 
 #EXTINF:-1 tvg-chno="434" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-gourmet_m.png" group-title="Cultura y Entretenimiento",El Gourmet 
 http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/135878.ts
