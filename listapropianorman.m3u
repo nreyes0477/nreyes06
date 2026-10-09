@@ -1106,25 +1106,25 @@ http://190.197.41.183/Unimas/index.m3u8
 http://45.5.116.177:8015/play/a0gv/index.m3u8
 
 #EXTINF:-1 tvg-chno="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_5_HN_logo.png/180px-Canal_5_HN_logo.png" group-title="Honduras",Canal 5 🇭🇳
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/118.ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=42&extension=ts
 
 #EXTINF:-1 tvg-chno="301" tvg-logo="https://canal6hn.com/wp-content/uploads/2025/03/1000x1000.png" group-title="Honduras",Canal 6 🇭🇳
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/119.ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=45&extension=ts
 
 #EXTINF:-1 tvg-chno="301" tvg-logo="https://tnh.gob.hn/wp-content/uploads/2025/11/cropped-490983857_614412674980960_8950175872587823691_n-e1762372158115.jpg" group-title="Honduras",Canal 8 🇭🇳
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/35.ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=2500&extension=ts
 
 #EXTINF:-1 tvg-chno="302" tvg-logo="https://alba-hn-vtv.cdn.mediatiquepress.com/wp-content/uploads/2023/08/VTV-PLAY-BLANCO-2-1-1-150x145.png" group-title="Honduras",VTV 🇭🇳
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/36.ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=47&extension=ts
 
-#EXTINF:-1 tvg-chno="302" tvg-logo="https://go.com.hn/wp-content/uploads/2023/10/Logo-GO-TV-01.jpg" group-title="Honduras",GoTV 🇭🇳
-http://go.iptvhn.net:25461/live/7789/7789/13394.m3u8
+#EXTINF:-1 tvg-chno="302" tvg-logo="https://go.com.hn/wp-content/uploads/2023/10/Logo-GO-TV-01.jpg" group-title="Honduras",TeleProgreso 🇭🇳
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=822&extension=ts
 
 #EXTINF:-1 tvg-chno="303" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/180px-Telecadena7y42018.png" group-title="Honduras",Telecadena 🇭🇳
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/543.ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=43&extension=ts
 
 #EXTINF:-1 tvg-chno="303" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TSi_logo.png/1280px-TSi_logo.png" group-title="Honduras",TSI 🇭🇳
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/37.ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=44&extension=ts
 
 #EXTINF:-1 tvg-chno="304" tvg-logo="https://logopond.com/logos/c3966093ee94ae75a6f65778327bf70c.png" group-title="Honduras",Telesistema 🇭🇳
 http://go.iptvhn.net:25461/live/7789/7789/13293.m3u8
@@ -1133,16 +1133,16 @@ http://go.iptvhn.net:25461/live/7789/7789/13293.m3u8
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/canal11hn/livestream1/chunks.m3u8?dpssid=b131176395625465cbd92084d9a&sid=ba5t1l1xb230348567067a9a9a3f38dc&ndvc=0
 
 #EXTINF:-1 tvg-chno="307" tvg-logo="https://hch.tv/wp-content/uploads/2021/09/logos-hch-bueno-1.png" group-title="Honduras",HCH 🇭🇳
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/26.ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=3&extension=ts
 
 #EXTINF:-1 tvg-chno="309" tvg-logo="https://chtv.hn/wp-content/uploads/2023/12/big-logo-1.png" group-title="Honduras",CHTV ¹ 🇭🇳
 https://viewhn.com/chtv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="310" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal10Honduras2019.png/revision/latest/scale-to-width-down/250?cb=20190604153849" group-title="Honduras",Ten 🇭🇳
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/194.m3u8
+#EXTINF:-1 tvg-chno="310" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal10Honduras2019.png/revision/latest/scale-to-width-down/250?cb=20190604153849" group-title="Honduras",Ten ² 🇭🇳
+http://45.182.22.53:8000/play/a0d9/index.m3u8
 
-#EXTINF:-1 tvg-chno="310" tvg-logo="https://aztecahonduras.com/wp-content/uploads/2022/11/tv-azteca-honduras-noticias.png" group-title="Honduras",Azteca Honduras ² 🇭🇳
-http://168.232.168.242:9999/play/a08e/index.m3u8
+#EXTINF:-1 tvg-chno="310" tvg-logo="https://aztecahonduras.com/wp-content/uploads/2022/11/tv-azteca-honduras-noticias.png" group-title="Honduras",Azteca Honduras 🇭🇳
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=3432&extension=ts
 
 #EXTINF:-1 tvg-chno="311" tvg-logo="https://mexico.mom-gmr.org/typo3temp/_processed_/e/5/csm_11514-1329_import_d340a10fce.png" group-title="México",Azteca Uno ² 🇲🇽
 http://45.167.253.246:8010/play/a005/index.m3u8
