@@ -1075,14 +1075,14 @@ http://latintvplus.com:8000/live/MyBOXXTV2024/SILVERsat173929HH/6594.ts
 #EXTINF:-1 tvg-chno="279" tvg-logo="https://wmbctv.com/wp-content/uploads/2026/01/ETV.png" group-title="EUA Latino",Estrella TV ¹ 🇺🇸
 https://estrellatv-oando.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-1 tvg-chno="280" tvg-logo="https://img.onesignal.com/t/9386b748-b30f-4f48-946a-361ce4f6c8cc.jpg" group-title="EUA Latino",Mega TV 🇺🇸
-http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=156070&extension=ts
+#EXTINF:-1 tvg-chno="280" tvg-logo="https://img.onesignal.com/t/9386b748-b30f-4f48-946a-361ce4f6c8cc.jpg" group-title="EUA Latino",Mega TV ¹ 🇺🇸
+https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
 
 #EXTINF:-1 tvg-chno="281" tvg-logo="https://m.media-amazon.com/images/I/414KGfWaFbL.png" group-title="EUA Latino",Univisión ² 🇺🇸 
 http://190.197.41.183/Univision/index.m3u8
 
-#EXTINF:-1 tvg-chno="281" tvg-logo="https://m.media-amazon.com/images/I/414KGfWaFbL.png" group-title="EUA Latino",Univisión 🇺🇸
-http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/67.ts
+#EXTINF:-1 tvg-chno="281" tvg-logo="https://m.media-amazon.com/images/I/414KGfWaFbL.png" group-title="EUA Latino",Univisión MI 🇺🇸
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=2501&extension=ts
 
 #EXTINF:-1 tvg-chno="286" tvg-logo="https://i.postimg.cc/qRHv3bMp/telem-aldia.jpg" group-title="EUA Latino",Telemundo Al Día ¹ 🇺🇸
 https://dmfxzlz63pfyh.cloudfront.net/10508/88886036/hls/master.m3u8?ads.xumo_channelId=88886036
