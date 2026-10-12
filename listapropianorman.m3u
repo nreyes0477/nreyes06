@@ -4,13 +4,9 @@
 http://38.210.3.64:8090/play/A01E
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="🥊 🆄🅵🅲 🥊",UFC (EN VIVO) ¹
-https://withered-star-cfd4quetzalweb.larrypem456.workers.dev/stream?u=https%3A%2F%2Flive2.onfkyn.qd.je%2Flatamplay%2Fparamount1%2Findex.m3u8%3Fapi%3D1234&exp=1791685198&token=-GxJp-23zGNj077YTzXrGXlaheSRlnDWWi8UiZ8UUH8
+
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="🥊 🆄🅵🅲 🥊",UFC (EN VIVO) 
-http://velive.lat:8080/live/Nexp328737/29971731/479846.ts
-
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="🥊 🆄🅵🅲 🥊",UFC (EN VIVO)
-
 
 
 
@@ -22,6 +18,7 @@ http://186.33.61.182:8000/play/a05q/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.tecnogus.com.co/wp-content/uploads/2025/05/DSPORTS.jpg" group-title="🔴 🅻🅰 🅻🅸🅶🅰 🔴",DSports ² 🇦🇷
 http://45.186.254.75:8000/play/a0en/index.m3u8
+
 
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="Nacionales",Canal 1 CR ¹ 🇨🇷
@@ -1943,7 +1940,7 @@ http://168.228.44.241:9998/play/a0dz/index.m3u8
 http://latintvplus.com:8000/live/MyBOXXTV2024/SILVERsat173929HH/131286.ts
 
 #EXTINF:-1 tvg-chno="618" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="Deportes",TUDN USA 🇺🇸
-http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/129027.ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=1980&extension=ts
 
 #EXTINF:-1 tvg-chno="630" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Argentina (1) ² 🇦🇷
 http://45.188.229.33:8000/play/a1az/index.m3u8
