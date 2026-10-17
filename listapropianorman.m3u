@@ -19,6 +19,9 @@ http://167.249.23.102:8000/play/a0ie/index.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.tecnogus.com.co/wp-content/uploads/2025/05/DSPORTS.jpg" group-title="🔴 🅻🅰 🅻🅸🅶🅰 🔴",DSports ² 🇦🇷
 http://45.186.254.75:8000/play/a0en/index.m3u8
 
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://images-cdn4.welcomesoftware.com/assets/ViX+Premium+with+ads+on+DIRECTV%27s+MiEspanol.jpg/Zz1jOTU2OWY1YTY0MDgxMWYwYTg3MGI2MGZjY2M0YzRkYg==?width=880&height=494" group-title="🔴 🅻🅰 🅻🅸🅶🅰 🔴",Vix La Liga 🇲🇽 
+http://45.186.105.219:25461/live/Allanchavez/Allanchavez/2024.ts
+
 
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="Nacionales",Canal 1 CR ¹ 🇨🇷
