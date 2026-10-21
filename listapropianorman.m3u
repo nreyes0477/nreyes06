@@ -1099,8 +1099,8 @@ http://latintvplus.com:8000/live/MyBOXXTV2024/SILVERsat173929HH/147076.ts
 #EXTINF:-1 tvg-chno="293" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png" group-title="EUA Latino",Unimás ² 🇺🇸
 http://190.197.41.183/Unimas/index.m3u8
 
-#EXTINF:-1 tvg-chno="299" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/telemundo.jpg" group-title="EUA Latino",Telemundo Internacional ² 🇺🇸
-http://45.172.92.111:8000/play/a0mg/index.m3u8
+#EXTINF:-1 tvg-chno="299" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/telemundo.jpg" group-title="EUA Latino",Telemundo Internacional ² 🇺🇸 *
+http://45.5.116.228:8000/play/a06b/index.m3u8
 
 #EXTINF:-1 tvg-chno="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_5_HN_logo.png/180px-Canal_5_HN_logo.png" group-title="Honduras",Canal 5 🇭🇳
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=42&extension=ts
