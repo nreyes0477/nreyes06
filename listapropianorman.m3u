@@ -1154,7 +1154,7 @@ http://ak-47scan.dyndns.tv:25461/streaming/clients_live.php?username=ATPLUSEN&pa
 http://ak-47scan.dyndns.tv:25461/streaming/clients_live.php?username=ATPLUSEN&password=ysN8PGMW9LPe&stream=89359&extension=ts
 
 #EXTINF:-1 tvg-chno="312" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="México",Azteca 7 ² 🇲🇽
-http://195.178.110.110/azteca7/index.m3u8
+http://45.189.151.7:8000/play/a05e/index.m3u8
 
 #EXTINF:-1 tvg-chno="312" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="México",Azteca 7 🇲🇽
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=2331&extension=ts
