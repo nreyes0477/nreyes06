@@ -809,7 +809,7 @@ http://go.iptvhn.net:25461/live/7789/7789/13336.m3u8
 http://go.iptvhn.net:25461/live/7789/7789/13308.m3u8
 
 #EXTINF:-1 tvg-chno="200" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina",Telefe ² 🇦🇷
-http://195.178.110.110/telefe/index.m3u8
+http://181.209.37.74:8001/play/a08a/index.m3u8?token=miguel2026
 
 #EXTINF:-1 tvg-chno="201" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="Argentina",El Trece ² 🇦🇷
 http://45.188.229.33:8000/play/a1dk/index.m3u8?hls
