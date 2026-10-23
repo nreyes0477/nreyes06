@@ -275,8 +275,8 @@ http://45.236.151.86:3232/play/a170/index.m3u8
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png" group-title="Noticias",Canal 24 Horas ² 🇨🇱
 http://177.53.152.117:8000/play/a08w/index.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e5061410-82b2-400d-8433-0604666b79c9-profile_banner-480.jpeg" group-title="Noticias",Meganoticias ² 🇨🇱
-http://200.108.187.214:8000/play/a0bf/index.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e5061410-82b2-400d-8433-0604666b79c9-profile_banner-480.jpeg" group-title="Noticias",Meganoticias ¹ 🇨🇱
+http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://lascronologias.wordpress.com/wp-content/uploads/2020/11/tn-logo-artear-rating-ibope.jpg" group-title="Noticias",TN Noticias ¹ 🇦🇷
 http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090610&extension=ts
