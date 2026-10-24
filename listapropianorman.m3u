@@ -269,6 +269,9 @@ http://167.249.23.102:8000/play/a0h0/index.m3u8
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/cgtn-espa%C3%B1ol.png?resize=500%2C300&ssl=1" group-title="Noticias",CGTN Español ¹ 🇨🇳
 https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://www.cr2.cl/wp-content/uploads/2015/08/puranoticia.png" group-title="Noticias",Puro Noticia 🇨🇱
+https://pnt.janusmedia.tv/hls/pnt.m3u8
+
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png?zoom=3&resize=324%2C235&ssl=1" group-title="Noticias",CNN Chile ² 🇨🇱
 http://45.236.151.86:3232/play/a170/index.m3u8
 
@@ -277,9 +280,6 @@ http://177.53.152.117:8000/play/a08w/index.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e5061410-82b2-400d-8433-0604666b79c9-profile_banner-480.jpeg" group-title="Noticias",Meganoticias ¹ 🇨🇱
 http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
-
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://www.cr2.cl/wp-content/uploads/2015/08/puranoticia.png",Pura Noticia ¹ 🇨🇱
-https://pnt.janusmedia.tv/hls/pnt.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://lascronologias.wordpress.com/wp-content/uploads/2020/11/tn-logo-artear-rating-ibope.jpg" group-title="Noticias",TN Noticias ¹ 🇦🇷
 http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090610&extension=ts
