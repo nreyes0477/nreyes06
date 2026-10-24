@@ -278,8 +278,8 @@ http://177.53.152.117:8000/play/a08w/index.m3u8
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e5061410-82b2-400d-8433-0604666b79c9-profile_banner-480.jpeg" group-title="Noticias",Meganoticias ¹ 🇨🇱
 http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://www.cr2.cl/wp-content/uploads/2015/08/puranoticia.png",Pura Noticia 🇨🇱
-https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://www.cr2.cl/wp-content/uploads/2015/08/puranoticia.png",Pura Noticia ¹ 🇨🇱
+https://pnt.janusmedia.tv/hls/pnt.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://lascronologias.wordpress.com/wp-content/uploads/2020/11/tn-logo-artear-rating-ibope.jpg" group-title="Noticias",TN Noticias ¹ 🇦🇷
 http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090610&extension=ts
@@ -474,13 +474,13 @@ http://superxlatino.com:8880/streaming/clients_live.php?username=Memo&password=D
 #EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Los Thundercats
 http://superxlatino.com:8880/streaming/clients_live.php?username=Memo&password=DhjefctVwkuj&stream=526458&extension=ts
 
-#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png",24/7 Los Pitufos ¹
+#EXTINF:-0 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png",24/7 Los Pitufos ¹
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
-#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png",24/7 Spiderman ¹
+#EXTINF:-0 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png",24/7 Spiderman ¹
 https://live20.bozztv.com/giatvplayout7/giatv-210702/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png",24/7 X - Men ¹
+#EXTINF:-0 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png",24/7 X - Men ¹
 https://live20.bozztv.com/giatvplayout7/giatv-210703/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7 Series",24/7 Ben 10
