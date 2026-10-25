@@ -1905,11 +1905,11 @@ http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/140962.ts
 #EXTINF:-1 tvg-chno="612" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/h9OCXbr5oxWUtzWfFKK6k/79e17bde30cd94da2c6a90ad046d4f61/sports-plat.jpg" group-title="Deportes",Sky Sports La Liga ² 🇲🇽
 http://45.5.118.152:8000/play/a08f/index.m3u8
 
-#EXTINF:-1 tvg-chno="613" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png" group-title="Deportes",Claro Sports México ² 🇲🇽
-http://45.186.106.207:8000/play/a07i/index.m3u8
+#EXTINF:-1 tvg-chno="613" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png" group-title="Deportes",Claro Sports México 🇲🇽
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=3369&extension=ts
 
-#EXTINF:-1 tvg-chno="613" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png" group-title="Deportes",Claro Sports 2 México ² 🇲🇽
-http://200.35.176.154:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-chno="613" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports-mediano.png" group-title="Deportes",Claro Sports 2 México 🇲🇽
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=3370&extension=ts
 
 #EXTINF:-1 tvg-chno="615" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/3/30/HISportslogo.png/revision/latest?cb=20230427055859&path-prefix=es" group-title="Deportes",Hi! Sports TV ² 🇲🇽
 http://189.148.49.233:8000/play/a05p/index.m3u8
@@ -2050,10 +2050,10 @@ http://live.btv.mx:9000/budtv/budtvline/8Y3ymUpJESps/278989.m3u8
 http://m3u.tvcluboficial.com/m/m/938.m3u8
 
 #EXTINF:-1 tvg-chno="669" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="Deportes",Dazn La Liga 🇪🇦
-http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/4317.ts
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=3352&extension=ts
 
-#EXTINF:-1 tvg-chno="669" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_laliga-mediano.png" group-title="Deportes",La Liga por Movistar + ² 🇪🇸
-http://200.115.120.1:8000/play/ca124/index.m3u8
+#EXTINF:-1 tvg-chno="669" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_laliga-mediano.png" group-title="Deportes",La Liga por Movistar + 🇪🇸
+http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/126457.ts
 
 #EXTINF:-1 tvg-chno="669" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_liga_de_campeones-mediano.png" group-title="Deportes",Liga de Campeones por Movistar + 🇪🇸
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=1947&extension=ts
@@ -2074,7 +2074,7 @@ http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/4354.ts
 http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/126514.ts
 
 #EXTINF:-1 tvg-chno="669" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_deportes-mediano.png" group-title="Deportes",Deportes por Movistar + 🇪🇸
-http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/4830.ts
+http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/167702.ts
 
 #EXTINF:-1 tvg-chno="670" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70wi1n1692441317.png" group-title="Deportes",Gol Play 🇪🇸
 http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/126517.ts
