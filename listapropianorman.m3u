@@ -10,8 +10,11 @@ http://38.210.3.64:8090/play/A01E
 
 
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="🔴 🅻🅰 🅻🅸🅶🅰 🔴",ESPN Deportes 🇺🇸
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="🔴 🅻🅰 🅻🅸🅶🅰 🔴",ESPN Deportes (1) 🇺🇸
 http://weibplus.is:80/live/ArguedasJuan34/VCp8GFFeJ5/595818.ts
+
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="🔴 🅻🅰 🅻🅸🅶🅰 🔴",ESPN Deportes (2) 🇺🇸
+http://velive.lat:8080/live/Nexp328737/29971731/243321.ts
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="🔴 🅻🅰 🅻🅸🅶🅰 🔴",ESPN Argentina 🇦🇷
 http://190.108.83.69:8000/play/a03s/index.m3u8
