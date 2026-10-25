@@ -1704,7 +1704,7 @@ http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=
 #EXTINF:-1 tvg-chno="565" tvg-logo="https://wtcks.com/images/channels/logos/ZlWJXSPb7gXV4HmE.png" group-title="Cine y Películas",Showtime Showcase
 http://51.79.81.69:8080/streaming/clients_live.php?username=tVoIdcGo63&password=3k9huT771I&stream=118&extension=ts
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://methodgroupe.com/wp-content/uploads/2020/08/Client-logos_0030_170124_ClientLogos_16.png" group-title="Cine y Películas",HBO Latino ✔️
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://methodgroupe.com/wp-content/uploads/2020/08/Client-logos_0030_170124_ClientLogos_16.png" group-title="Cine y Películas",HBO Latino
 http://kstv.us:8080/live/uCEsr02W66/Curinton60/50766.ts
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png" group-title="Cine y Películas",HBO Norte 
@@ -1719,17 +1719,17 @@ http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=579
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png" group-title="Cine y Películas",HBO Plus Norte
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=1289&extension=ts
 
-#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png" group-title="Cine y Películas",HBO Pop Norte
-http://ak-47scan.dyndns.tv:25461/live/ATPLUSEN/ysN8PGMW9LPe/72638.ts
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png" group-title="Cine y Películas",HBO Pop Norte 
+http://weibplus.is:80/live/ArguedasJuan34/VCp8GFFeJ5/96202.ts
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png" group-title="Cine y Películas",HBO Signature Norte 
-http://ak-47scan.dyndns.tv:25461/live/ATPLUSEN/ysN8PGMW9LPe/72639.ts
+http://weibplus.is:80/live/ArguedasJuan34/VCp8GFFeJ5/46163.ts
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png" group-title="Cine y Películas",HBO Xtreme Norte 
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=1290&extension=ts
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png" group-title="Cine y Películas",HBO Mundi Norte
-http://ak-47scan.dyndns.tv:25461/live/ATPLUSEN/ysN8PGMW9LPe/72640.ts
+http://weibplus.is:80/live/ArguedasJuan34/VCp8GFFeJ5/96205.ts
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://marcasur.com/archivos/revista/notas/45ee4663b4c7fc571d08589befaabe05.jpg" group-title="Cine y Películas",HBO Chile ²
 http://45.232.210.1:18000/play/a0b3/index.m3u8
@@ -1765,13 +1765,13 @@ http://190.61.90.17:40000/play/a0l4/index.m3u8
 http://45.188.229.33:8000/play/a139/index.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png" group-title="Cine y Películas",HBO Signature Sur
-http://weibplus.is:80/live/ArguedasJuan34/VCp8GFFeJ5/46163.ts
+
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png" group-title="Cine y Películas",HBO Xtreme Sur ²
 http://181.176.155.7:8090/play/a1fg/index.m3u8
 
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png" group-title="Cine y Películas",HBO Mundi Sur 
-http://weibplus.is:80/live/ArguedasJuan34/VCp8GFFeJ5/96205.ts
+
 
 #EXTINF:-1 tvg-chno="598" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="Cine y Películas",Universal Channel ²
 http://177.53.152.117:8000/play/a048/index.m3u8
@@ -1927,7 +1927,7 @@ http://168.228.44.241:9998/play/a0dz/index.m3u8
 http://latintvplus.com:8000/live/MyBOXXTV2024/SILVERsat173929HH/131286.ts
 
 #EXTINF:-1 tvg-chno="618" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="Deportes",TUDN USA 🇺🇸
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=1980&extension=ts
+http://domtvs.dyndns.tv:8080/live/teocontenido/zzwcXpSufJ/642687.ts
 
 #EXTINF:-1 tvg-chno="630" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Deportes",ESPN Argentina (1) ² 🇦🇷
 http://45.188.229.33:8000/play/a1az/index.m3u8
