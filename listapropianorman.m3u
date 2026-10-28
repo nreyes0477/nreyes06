@@ -52,7 +52,7 @@ http://45.163.139.42:8000/play/a04x/index.m3u8
 https://d1w7xnf525t4l4.cloudfront.net/3_6/index.m3u8
 
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="Nacionales",Canal 6 Repretel ¹ 🇨🇷
-https://d2h2wh04y3aqtb.cloudfront.net/hls/w0wu3g4t42xb/index.m3u8
+https://d2h2wh04y3aqtb.cloudfront.net:443/hls/w0wu3g4t42xb/7_4/index.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://i.imgur.com/ctnvE3c.png" group-title="Nacionales",Canal 7 Teletica ¹ 🇨🇷
 #EXTVLCOPT:http-referrer=https://bradmax.com/client/embed-player/c7c83ebb46fa89529a7383d933e2038729f8e4c9_13428?id=tv7&mediaUrl=https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8&mediaUrl2=https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8
