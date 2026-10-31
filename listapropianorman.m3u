@@ -1096,6 +1096,9 @@ http://latintvplus.com:8000/live/MyBOXXTV2024/SILVERsat173929HH/147076.ts
 #EXTINF:-1 tvg-chno="293" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png" group-title="EUA Latino",Unimás ² 🇺🇸
 http://168.228.44.241:9997/play/a09e/index.m3u8
 
+#EXTINF:-1 tvg-chno="293" tvg-logo="https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png" group-title="EUA Latino",Unimás 🇺🇸
+http://domtvs.dyndns.tv:8080/live/teocontenido/zzwcXpSufJ/485804.ts
+
 #EXTINF:-1 tvg-chno="299" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/telemundo.jpg" group-title="EUA Latino",Telemundo Internacional 🇺🇸
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=1320&extension=ts
 
