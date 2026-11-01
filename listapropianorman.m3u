@@ -86,8 +86,8 @@ http://velive.lat:8080/live/Nexp328737/29971731/83332.ts
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://image.roku.com/developer_channels/prod/15028c316a76bcd9408f730b04579257af5273595c5049db126ba4540b81a936.png" group-title="Nacionales",Canal 38 ¡Opa! ¹ 🇨🇷
 https://5fe2654d6127d.streamlock.net/genteopabackup/videogenteopabackup/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="16" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/extra_tv-mediano.png" group-title="Nacionales",Extra Tv 42 ¹ 🇨🇷
-https://d2n1wzrr0aogf5.cloudfront.net/medialist_15609871089997455276_hls.m3u8
+#EXTINF:-1 tvg-chno="16" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/extra_tv-mediano.png" group-title="Nacionales",Extra Tv 42 ² 🇨🇷
+http://167.249.23.67:8000/play/a007/index.m3u8?hls
 
 #EXTINF:-1 tvg-chno="17" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnUB_VT1bFiuhrtpJwV1fK_KKxMztKFUbGJEeru_-4xQA4dDMwQ3mBAKRRElbqSd6TBGdu_TB9KFON6AccfTpaBtT27z5GZgaU8wRV9oMkje8Iewu60695HCGDOk1rhiUS4LgDqZE40qiRcAoDnuSv-Fx4VQ8C2zW9de1wBQgYsZafSlMZgrG2fUYDTLY/s600/ticavision.jpg" group-title="Nacionales",Tica Visión ¹ 🇨🇷
 https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
@@ -725,7 +725,7 @@ https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Cine Latinos",Retro Plus ¹ 🇨🇱
-https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
+https://srt01.logicahost.com.br/senal3/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/sdc7e563fe2c22eb3/image/ic7948e803b4ee638/version/1757731738/image.jpg" group-title="Cine Latinos",Canal Punto 99 Retro TV ¹ 🇩🇴
 https://v4.tustreaming.cl/canalpunto99/tracks-v1a1/mono.ts.m3u8
