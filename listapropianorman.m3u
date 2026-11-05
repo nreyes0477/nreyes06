@@ -4,16 +4,14 @@
 http://38.210.3.64:8090/play/A01E
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="🥊 🆄🅵🅲 🥊",UFC (EN VIVO)
-http://velive.lat:8080/live/Nexp328737/29971731/485605.ts
+
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.inside-sport.ru/upload/iblock/756/7566fb50722a73b039d0343aa94e3d41.jpg" group-title="🥊 🆄🅵🅲 🥊",UFC (EN VIVO) 
 
 
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="🔴 🅻🅰 🅻🅸🅶🅰 🔴",ESPN Deportes (1) 🇺🇸
-http://weibplus.is:80/live/ArguedasJuan34/VCp8GFFeJ5/595818.ts
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="🔴 🅻🅰 🅻🅸🅶🅰 🔴",ESPN Deportes (2) 🇺🇸
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="🔴 🅻🅰 🅻🅸🅶🅰 🔴",ESPN Deportes 🇺🇸
 http://velive.lat:8080/live/Nexp328737/29971731/243321.ts
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="🔴 🅻🅰 🅻🅸🅶🅰 🔴",ESPN Argentina ² 🇦🇷
@@ -32,13 +30,10 @@ http://38.188.186.47:4000/play/a015/index.m3u8
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=3352&extension=ts
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_laliga-mediano.png" group-title="🔴 🅻🅰 🅻🅸🅶🅰 🔴",La Liga por Movistar + 🇪🇸
-http://magmas.xyz:80/live/MyBOXXTV2024/SILVERsat173929HH/126457.ts
+
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/m_liga_de_campeones-mediano.png" group-title="🔴 🅻🅰 🅻🅸🅶🅰 🔴",Liga de Campeones por Movistar + 🇪🇸
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=1947&extension=ts
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://img.favpng.com/2/23/14/te ledeporte-televisi-n-espa-ola-high-definition-video-la-1-television-png-favpng-rnSs7XcTtev0zWAZeUuRzu9gN.jpg" group-title="🔴 🅻🅰 🅻🅸🅶🅰 🔴",Teledeporte (TVE) ¹ 🇪🇦
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]
 
 
 
