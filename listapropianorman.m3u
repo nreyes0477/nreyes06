@@ -1892,12 +1892,6 @@ https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1
 #EXTINF:-1 tvg-chno="610" tvg-logo="https://lasociedaddelcontenido.com/wp-content/uploads/2025/08/Imagen-2025-08-06T234253.981-1536x864.jpg" group-title="Deportes",Fox One (México) ² 🇲🇽
 http://190.61.114.186:8000/play/a04d/index.m3u8
 
-#EXTINF:-1 tvg-chno="610" tvg-logo="https://lasociedaddelcontenido.com/wp-content/uploads/2025/08/Imagen-2025-08-06T234253.981-1536x864.jpg" group-title="Deportes",Fox One 1 (México) 🇲🇽 ✔️
-http://bcdod.faolmbghu.com/live/cyx_z5RJVvavoWDMqyrw/cyx_z5RJVvavoWDMqyrw_cyx_cj_501235581.ts
-
-#EXTINF:-1 tvg-chno="610" tvg-logo="https://lasociedaddelcontenido.com/wp-content/uploads/2025/08/Imagen-2025-08-06T234253.981-1536x864.jpg" group-title="Deportes",Fox One 2 (México) 🇲🇽
-http://virgencitachatuti.com:80/live/Oscar2208chieu/GX9vqaWbZ7/730391.ts
-
 #EXTINF:-1 tvg-chno="611" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="Deportes",TUDN Centro América ²
 http://45.5.118.136:8888/play/a009/index.m3u8
 
@@ -1927,9 +1921,6 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88884639/hls/master.m3u8?declaredCC1
 
 #EXTINF:-1 tvg-chno="617" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes ² 🇺🇲
 http://195.178.110.110/espndeportes/index.m3u8
-
-#EXTINF:-1 tvg-chno="617" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes ² 🇺🇲
-http://168.228.44.241:9998/play/a0dz/index.m3u8
 
 #EXTINF:-1 tvg-chno="617" tvg-logo="https://www.foxdeportes.com/assets/images/logo_2.png" group-title="Deportes",Fox Deportes 🇺🇲
 http://latintvplus.com:8000/live/MyBOXXTV2024/SILVERsat173929HH/131286.ts
@@ -2021,9 +2012,6 @@ http://181.78.8.199:8000/play/a0bx/index.m3u8
 #EXTINF:-1 tvg-chno="665" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports ² 🇦🇷
 http://179.1.158.52:8000/play/a05w/index.m3u8
 
-#EXTINF:-1 tvg-chno="665" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports 🇦🇷
-http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/712756.ts
-
 #EXTINF:-1 tvg-chno="666" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports 2 🇦🇷
 http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/712757.ts
 
@@ -2032,12 +2020,6 @@ http://190.108.83.69:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-chno="668" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DSports Fight 🇦🇷
 http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/149274.ts
-
-#EXTINF:-1 tvg-chno="668" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports 🇨🇴
-http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/69567.ts
-
-#EXTINF:-1 tvg-chno="668" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="Deportes",DirecTV Sports 🇺🇾
-http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/231779.ts
 
 #EXTINF:-1 tvg-chno="668" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png" group-title="Deportes",TyC Sports Argentina ² 🇦🇷
 http://45.170.130.224:8000/play/a020/index.m3u8
