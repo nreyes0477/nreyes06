@@ -1821,25 +1821,25 @@ http://190.97.183.101:8028/play/a0vu/index.m3u8
 http://weibplus.is:80/live/ArguedasJuan34/VCp8GFFeJ5/14879.ts
 
 #EXTINF:-1 tvg-chno="603" tvg-logo="https://tavilatam.com/wp-content/uploads/2026/04/TAVI_Fox_Tigo-Sports.png" group-title="Deportes",Fox SV ² 🇸🇻
-http://190.61.114.186:8000/play/a04d/index.m3u8
+http://167.249.23.67:8000/play/a056/index.m3u8
 
 #EXTINF:-1 tvg-chno="603" tvg-logo="https://tavilatam.com/wp-content/uploads/2026/04/TAVI_Fox_Tigo-Sports.png" group-title="Deportes",Fox GT ² 🇬🇹
-http://45.5.118.152:8000/play/a0dg/index.m3u8
+http://190.97.183.101:8028/play/a0vw/index.m3u8
 
 #EXTINF:-1 tvg-chno="603" tvg-logo="https://tavilatam.com/wp-content/uploads/2026/04/TAVI_Fox_Tigo-Sports.png" group-title="Deportes",Fox HN ² 🇭🇳
-http://181.119.108.43:9001/play/a0nh/index.m3u8
+http://190.115.12.197:8000/play/a01v/index.m3u8
 
 #EXTINF:-1 tvg-chno="603" tvg-logo="https://tavilatam.com/wp-content/uploads/2026/04/TAVI_Fox_Tigo-Sports.png" group-title="Deportes",Fox NI ² 🇳🇮
-http://181.119.108.43:9001/play/a0q9/index.m3u8
+http://167.249.23.67:8000/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-chno="604" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png" group-title="Deportes",TD+ (1) ²
-http://45.186.106.207:8000/play/a06r/index.m3u8
+http://190.83.15.112:8000/play/a0cu/index.m3u8
 
 #EXTINF:-1 tvg-chno="604" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-2.png" group-title="Deportes",TD+ (2) ²
 http://45.171.64.30:8800/play/a00p
 
 #EXTINF:-1 tvg-chno="605" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-3.png" group-title="Deportes",TD+ 2 (1) ²
-http://45.186.106.207:8000/play/a06s/index.m3u8
+http://190.83.15.112:8000/play/a0cv/index.m3u8
 
 #EXTINF:-1 tvg-chno="605" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/05/Nuevo-proyecto-3.png" group-title="Deportes",TD+ 2 (2) ²
 http://45.171.64.30:8800/play/a00q
