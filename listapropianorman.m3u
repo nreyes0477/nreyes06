@@ -1073,17 +1073,17 @@ https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
 #EXTINF:-1 tvg-chno="281" tvg-logo="https://m.media-amazon.com/images/I/414KGfWaFbL.png" group-title="EUA Latino",Univisión ² 🇺🇸
 http://190.93.224.42/UNIVISION/index.m3u8
 
-#EXTINF:-1 tvg-chno="281" tvg-logo="https://m.media-amazon.com/images/I/414KGfWaFbL.png" group-title="EUA Latino",Univisión MI 🇺🇸
+#EXTINF:-1 tvg-chno="281" tvg-logo="https://m.media-amazon.com/images/I/414KGfWaFbL.png" group-title="EUA Latino",Univisión LA 🇺🇸
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=2501&extension=ts
 
 #EXTINF:-1 tvg-chno="286" tvg-logo="https://i.postimg.cc/qRHv3bMp/telem-aldia.jpg" group-title="EUA Latino",Telemundo Al Día ¹ 🇺🇸
 https://dmfxzlz63pfyh.cloudfront.net/10508/88886036/hls/master.m3u8?ads.xumo_channelId=88886036
 
-#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo MI 🇺🇸 
-http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=1840&extension=ts
-
 #EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo ² 🇺🇸 
 http://190.61.101.65:2025/play/a00l
+
+#EXTINF:-1 tvg-chno="286" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-83.jpg" group-title="EUA Latino",Telemundo MI 🇺🇸 
+http://go.iptvhn.net:25461/streaming/clients_live.php?username=5794&password=57942022&stream=1840&extension=ts
 
 #EXTINF:-1 tvg-chno="289" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2024/01/galavision-new-logo-2024-1536x867.jpg" group-title="EUA Latino",Galavisión 🇺🇸
 http://latintvplus.com:8000/live/MyBOXXTV2024/SILVERsat173929HH/147076.ts
