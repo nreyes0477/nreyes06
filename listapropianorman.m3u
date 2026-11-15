@@ -997,7 +997,7 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com:443/original.m3u8
 http://190.61.114.186:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-chno="263" tvg-logo="https://logos.streamsites.eu/2756_tve-en-directo-la-1_overview.png" group-title="España",La 1 ¹ 🇪🇸
-https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]
 
 #EXTINF:-1 tvg-chno="264" tvg-logo="https://logos.streamsites.eu/2894_la-2-en-directo_overview.png" group-title="España",La 2 ¹ 🇪🇸
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618
