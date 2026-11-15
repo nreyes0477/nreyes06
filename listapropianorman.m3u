@@ -1159,7 +1159,7 @@ http://domtvs.dyndns.tv:8080/streaming/clients_live.php?username=teocontenido&pa
 http://45.5.118.152:8000/play/a03i/index.m3u8
 
 #EXTINF:-1 tvg-chno="313" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cka7s31743585052.png" group-title="México",Canal 5 🇲🇽
-http://ak-47scan.dyndns.tv:25461/streaming/clients_live.php?username=ATPLUSEN&password=ysN8PGMW9LPe&stream=75557&extension=ts
+http://domtvs.dyndns.tv:8080/streaming/clients_live.php?username=teocontenido&password=zzwcXpSufJ&stream=90208&extension=ts
 
 #EXTINF:-1 tvg-chno="314" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="México",Las Estrellas Latino ¹ 🇲🇽
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
