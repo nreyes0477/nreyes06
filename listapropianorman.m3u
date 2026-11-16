@@ -43,8 +43,8 @@ https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://cdrcomercial.cr/sites/default/files/styles/large/public/2022-08/LOGO-CANAL-2.png" group-title="Nacionales",Canal 2 Repretel ² 🇨🇷
 http://45.163.139.42:8000/play/a04x/index.m3u8
 
-#EXTINF:-1 tvg-chno="4" tvg-logo="https://i.imgur.com/5arZEgO.png" group-title="Nacionales",Canal 4 Repretel ¹ 🇨🇷
-https://d1w7xnf525t4l4.cloudfront.net/3_6/index.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-logo="https://i.imgur.com/5arZEgO.png" group-title="Nacionales",Canal 4 Repretel ² 🇨🇷
+http://45.186.106.207:8000/play/a09t/index.m3u8
 
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="Nacionales",Canal 6 Repretel ² 🇨🇷
 http://45.163.139.42:8000/play/a02o/index.m3u8
@@ -130,7 +130,7 @@ https://www.radioturrialba.com/hls/test.m3u8
 https://59ef525c24caa.streamlock.net:443/nicoyatv/nicoyatv/chunklist_w221500905.m3u8
 
 #EXTINF:-1 tvg-chno="33" tvg-logo="https://radiocostarica.net/sites/default/files/styles/player_image/public/2025-06/tv-cachi-costa-rica_0.png.webp?itok=ufnqes5g" group-title="Nacionales",TV Cachi ¹ 🇨🇷
-https://live20.bozztv.com/akamaissh101/ssh101/tvcachi/chunks.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/tvcachi/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="34" tvg-logo="https://geomedios.fcs.ucr.ac.cr/wp-content/uploads/2019/07/Limon_TV_Logo.png" group-title="Nacionales",Limón TV ¹ 🇨🇷
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
@@ -178,10 +178,10 @@ http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 http://k4.usastreams.com/telebrunca/telebrunca/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="47" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0d6vD4coSsdc8wF8umj0rjvo5bZxQ9r3TeNsyNZ4qq4PlEzOusv9eVDvlWdVi80KF9ltur1f4LfJ2xVSl93yNpgZabFunN909DWUKUpV-wgPXTiqmaqNQPMP0xNYQTCdU8o-HDTpD0qmt_6gugfVq4Aj1xjNTZBfIoahPL5xT7xFuVF6K307G6CvVJrk/s400/14.png" group-title="Nacionales",Canal 10 CR ¹ 🇨🇷
-https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
+https://acceso.mediosdecostarica.com:3417/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-chno="48" tvg-logo="https://image.roku.com/developer_channels/prod/db4a766d6686e0ec2d17d0307c9a4c3bd0dc27a13f0647fb8561bfb0754300a2.png" group-title="Nacionales",TV Nosara ¹ 🇨🇷
-https://latamvdo.com:3870/hybrid/play.m3u8
+https://nosaravdo.online:3707/stream/play.m3u8
 
 #EXTINF:-1 tvg-chno="49" tvg-logo="https://image.roku.com/developer_channels/prod/3d89b0129300d4fcc1b74f51c7dbee45020d18b6c3457995c78895567ab1a39f.png" group-title="Nacionales",Coto Brus TV ¹ 🇨🇷
 https://stream.lamegatv.com/hls/cotobrustelevision/index.m3u8
@@ -193,7 +193,7 @@ http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w1057824568.m3u8
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://i.imgur.com/RqdpiYo.jpeg" group-title="Nacionales",Megahits ¹ 🇨🇷
-https://live20.bozztv.com/giatv/giatv-megahits/megahits/chunks.m3u8
+https://183.giatvcdn.com/giatv/giatv-megahits/megahits/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://gextv.com/LOGO-WHITE.png" group-title="Nacionales",Gex TV ¹ 🇨🇷
 https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
