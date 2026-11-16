@@ -208,7 +208,7 @@ https://acceso.mediosdecostarica.com:3569/live/punto9tvlive.m3u8
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://images.squarespace-cdn.com/content/v1/6011bffa317a1f7611f12428/1633029916787-F3MHJD8N95PE2K176HL0/kiss-cut-stickers-5.5x5.5-default-61560f185cc2a.png?format=1500w" group-title="Nacionales",Retro Tv On Line ¹ 🇨🇷
-https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
+https://stream.enlineatv.net/hls/retrotv/index.m3u8
 
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://img1.wsimg.com/isteam/ip/0b6749a7-4d1f-4663-98a6-82c3788efdcb/RETROX%20TV%20LOGO%20PNG.png" group-title="Nacionales",Retrox TV ¹ 🇨🇷
 https://lbgo.bozztv.com/ssh101/ssh101/sternblink/playlist.m3u8
@@ -217,7 +217,7 @@ https://lbgo.bozztv.com/ssh101/ssh101/sternblink/playlist.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/erinaca/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://image.roku.com/developer_channels/prod/57ab74c4faa79c70ed4ac4a5e84e17dc731fbded16d330e3bf320a4613a9f5e6.png" group-title="Nacionales",Retro Tv Palmares ¹ 🇨🇷
-https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/playlist.m3u8
+https://stream.enlineatv.net/hls/retrotv/index.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cnn-en-espanol_m.png" group-title="Noticias",CNN Español ¹ 🇺🇸
 https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8?ads_amagi_channel=948&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6425&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=1886cc8a-1918-4702-8b48-cd6e823acf3d&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
@@ -724,7 +724,7 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 https://srt01.logicahost.com.br/senal3/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/sdc7e563fe2c22eb3/image/ic7948e803b4ee638/version/1757731738/image.jpg" group-title="Cine Latinos",Canal Punto 99 Retro TV ¹ 🇩🇴
-https://v4.tustreaming.cl/canalpunto99/tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://static.wixstatic.com/media/2c880e_0ac2f3f7dd3e49058db44f507e4690b6~mv2.png/v1/fill/w_360,h_88,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/inbig%20retro%20tv.png" group-title="Cine Latinos",The Big Retro TV ¹ 🇦🇷
 https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/playlist.m3u8
