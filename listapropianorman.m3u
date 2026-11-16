@@ -751,10 +751,10 @@ http://146.19.49.197:81/live/loco_hi/index.m3u8
 http://190.60.39.221:8000/play/a026
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://static.wixstatic.com/media/3ebf2e_6c71f9a7aa66459ea6140c872c515467~mv2.png/v1/crop/x_21,y_41,w_1259,h_566/fill/w_244,h_110,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20letras%203d.png" group-title="Cine Latinos",Retro Mágico ¹ 🇦🇷
-https://live20.bozztv.com/akamaissh101/ssh101/retromagicocnl/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-retromagicochnl/retromagicochnl/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/2006_Magic_Kids_logo.png" group-title="Cine Latinos",Canal Magic Kids ¹ 🇦🇷
-https://183.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
+https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/8.jpg" group-title="Cine Latinos",Retro Cartoons ¹ 🇦🇷
 https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8
